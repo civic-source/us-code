@@ -3,10 +3,9 @@ title: "Section 9002 - Entrepreneurial development"
 usc_title: 15
 usc_section: "9002"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9002"
-generated_at: "2026-03-30T10:02:07.563Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.236Z"
 ---
 
 # § 9002. Entrepreneurial development
@@ -37,7 +36,9 @@ status: "active"
     - **(G)** the mitigation of the effects of reduced travel or outside activities on covered small business concerns during COVID–19 or similar occurrences; and
     - **(H)** any other relevant business practices necessary to mitigate the economic effects of COVID–19 or similar occurrences.
   - **(3)**
-    - **(A)** The Administration shall award 80 percent of funds authorized to carry out this subsection to small business development centers, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
+    - **(A)**
+      - **(i)** The Administration shall award 80 percent of funds authorized to carry out this subsection to small business development centers, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
+      - **(ii)** Awards made under clause (i) shall be in addition to, and separate from, any amounts appropriated to make grants under section 648(a) of this title and such an award may be used to complement and support such a grant, except that priority with respect to the receipt of that assistance shall be given to small business development centers that have been affected by issues described in paragraph (2).
     - **(B)** The Administration shall award 20 percent of funds authorized to carry out this subsection to women’s business centers, which shall be awarded pursuant to a process established by the Administration in consultation with recipients of assistance.
     - **(C)** Matching funds shall not be required for any grant under this subsection.
   - **(4)**

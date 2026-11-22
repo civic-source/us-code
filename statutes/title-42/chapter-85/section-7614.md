@@ -3,10 +3,9 @@ title: "Section 7614 - Labor standards"
 usc_title: 42
 usc_section: "7614"
 chapter: 85
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 7614"
-generated_at: "2026-03-30T10:03:30.265Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.319Z"
 ---
 
 # § 7614. Labor standards

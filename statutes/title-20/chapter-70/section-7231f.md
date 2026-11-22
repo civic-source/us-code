@@ -3,10 +3,9 @@ title: "Section 7231f - Use of funds"
 usc_title: 20
 usc_section: "7231f"
 chapter: 70
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 7231f"
-generated_at: "2026-03-30T10:02:18.660Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.208Z"
 ---
 
 # § 7231f. Use of funds
@@ -22,7 +21,7 @@ status: "active"
   - **(6)** to enable the local educational agency, or consortium of such agencies, to have more flexibility in the administration of a magnet school program in order to serve students attending a school who are not enrolled in a magnet school program;
   - **(7)** to enable the local educational agency, or consortium of such agencies, to have flexibility in designing magnet schools for students in all grades;
   - **(8)** to enable the local educational agency, or consortium of such agencies, or other organizations partnered with such agency or consortium, to establish, expand, or strengthen inter-district and regional magnet programs; and
-  - **(9)** notwithstanding section 1228 of this title , to provide transportation to and from the magnet school, provided that—
+  - **(9)** to provide transportation to and from the magnet school, provided that—
     - **(A)** such transportation is sustainable beyond the grant period; and
     - **(B)** the costs of providing transportation do not represent a significant portion of the grant funds received by the eligible local educational agency under this part.
 - **(b)** Grant funds under this part may be used for activities described in paragraphs (2) and (3) of subsection (a) only if the activities are directly related to improving student academic achievement based on the challenging State academic standards or directly related to improving student reading skills or knowledge of mathematics, science, history, geography, English, foreign languages, art, or music, or to improving career, technical, and professional skills.

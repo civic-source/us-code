@@ -3,10 +3,9 @@ title: "Section 8782 - Naval and Marine Corps Historical Centers: fee for provid
 usc_title: 10
 usc_section: "8782"
 chapter: 877
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8782"
-generated_at: "2026-03-30T10:02:00.899Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.251Z"
 ---
 
 # § 8782. Naval and Marine Corps Historical Centers: fee for providing historical information to the public

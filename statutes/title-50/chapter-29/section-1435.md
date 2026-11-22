@@ -3,10 +3,9 @@ title: "Section 1435 - Effective period"
 usc_title: 50
 usc_section: "1435"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 1435"
-generated_at: "2026-03-30T10:03:53.186Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.205Z"
 ---
 
 # § 1435. Effective period

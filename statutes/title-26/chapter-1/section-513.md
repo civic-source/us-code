@@ -3,10 +3,9 @@ title: "Section 513 - Unrelated trade or business"
 usc_title: 26
 usc_section: "513"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 513"
-generated_at: "2026-03-30T10:02:53.413Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.713Z"
 ---
 
 # § 513. Unrelated trade or business

@@ -3,10 +3,9 @@ title: "Section 921 - Defense dependents’ education system"
 usc_title: 20
 usc_section: "921"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 921"
-generated_at: "2026-03-30T10:02:18.551Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.087Z"
 ---
 
 # § 921. Defense dependents’ education system
@@ -26,3 +25,4 @@ status: "active"
   - **(1)** The Secretary of Defense may provide optional summer school programs in the defense dependents’ education system.
   - **(2)** The Secretary shall provide any summer school program under this subsection on the same financial basis as programs offered during the regular school year, except that the Secretary may charge reasonable fees for all or portions of such summer school programs to the extent that the Secretary determines appropriate.
   - **(3)** The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
+- **(e)** In addition to carrying out the requirement under section 1769b of title 42 to administer lunch programs in certain dependents’ schools, the Secretary of Defense may administer a school breakfast program for students attending a school of the defense dependents’ education system.

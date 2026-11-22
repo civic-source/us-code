@@ -3,10 +3,9 @@ title: "Section 3512 - Gifts, devises, and bequests"
 usc_title: 50
 usc_section: "3512"
 chapter: 46
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3512"
-generated_at: "2026-03-30T10:03:53.229Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.253Z"
 ---
 
 # § 3512. Gifts, devises, and bequests
@@ -14,7 +13,7 @@ status: "active"
 - **(a)**
   - **(1)** Subject to the provisions of this section, the Director may accept, hold, administer, and use gifts of money, securities, or other property whenever the Director determines it would be in the interest of the United States to do so.
   - **(2)** Any gift accepted by the Director as a gift to the Agency under this subsection (and any income produced by any such gift)—
-    - **(A)** may be used only for—” 1 1 So in original. The quotation marks probably should not appear.
+    - **(A)** may be used only for—
       - **(i)** artistic display;
       - **(ii)** purposes relating to the general welfare, education, or recreation of employees or dependents of employees of the Agency or for similar purposes; or
       - **(iii)** purposes relating to the welfare, education, or recreation of an individual described in paragraph (3); and

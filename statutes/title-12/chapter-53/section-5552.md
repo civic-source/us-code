@@ -3,10 +3,9 @@ title: "Section 5552 - Preservation of enforcement powers of States"
 usc_title: 12
 usc_section: "5552"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5552"
-generated_at: "2026-03-30T10:02:11.155Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.545Z"
 ---
 
 # § 5552. Preservation of enforcement powers of States

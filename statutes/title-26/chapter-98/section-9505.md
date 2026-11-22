@@ -3,17 +3,16 @@ title: "Section 9505 - Harbor Maintenance Trust Fund"
 usc_title: 26
 usc_section: "9505"
 chapter: 98
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 9505"
-generated_at: "2026-03-30T10:02:53.560Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.892Z"
 ---
 
 # § 9505. Harbor Maintenance Trust Fund
 
 - **(a)** There is hereby established in the Treasury of the United States a trust fund to be known as the “Harbor Maintenance Trust Fund”, consisting of such amounts as may be—
   - **(1)** appropriated to the Harbor Maintenance Trust Fund as provided in this section,
-  - **(2)** transferred to the Harbor Maintenance Trust Fund by the Saint Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954 , or
+  - **(2)** transferred to the Harbor Maintenance Trust Fund by the Great Lakes St. Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954 , or
   - **(3)** credited to the Harbor Maintenance Trust Fund as provided in section 9602(b).
 - **(b)** There are hereby appropriated to the Harbor Maintenance Trust Fund amounts equivalent to the taxes received in the Treasury under section 4461 (relating to harbor maintenance tax).
 - **(c)** Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—

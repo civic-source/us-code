@@ -3,10 +3,9 @@ title: "Section 15106 - National Offshore Safety Advisory Committee"
 usc_title: 46
 usc_section: "15106"
 chapter: 151
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 15106"
-generated_at: "2026-03-30T10:03:46.776Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.561Z"
 ---
 
 # § 15106. National Offshore Safety Advisory Committee
@@ -19,12 +18,12 @@ status: "active"
   - **(3)** Members of the Committee shall be appointed as follows:
     - **(A)** 2 members shall represent entities engaged in the production of petroleum.
     - **(B)** 2 members shall represent entities engaged in offshore drilling.
-    - **(C)** 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore mineral and oil operations, including geophysical services.
-    - **(D)** 1 member shall represent entities engaged in the construction of offshore exploration and recovery facilities.
-    - **(E)** 1 member shall represent entities engaged in diving services related to offshore construction, inspection, and maintenance.
-    - **(F)** 1 member shall represent entities engaged in safety and training services related to offshore exploration and construction.
-    - **(G)** 1 member shall represent entities engaged in pipelaying services related to offshore construction.
-    - **(H)** 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore mineral and energy industry.
-    - **(I)** 1 member shall represent national environmental entities.
-    - **(J)** 1 member shall represent deepwater ports.
+    - **(C)** 2 members shall represent entities engaged in the support, by offshore supply vessels or other vessels, of offshore operations.
+    - **(D)** 1 member shall represent entities engaged in the construction of offshore facilities.
+    - **(E)** 1 member shall represent entities providing diving services to the offshore industry.
+    - **(F)** 1 member shall represent entities providing safety and training services to the offshore industry.
+    - **(G)** 1 member shall represent entities providing subsea engineering, construction, or remotely operated vehicle support to the offshore industry.
+    - **(H)** 2 members shall represent individuals employed in offshore operations and, of the 2, 1 shall have recent practical experience on a vessel or offshore unit involved in the offshore industry.
+    - **(I)** 1 member shall represent national environmental entities and entities providing environmental protection, compliance, or response services to the offshore industry.
+    - **(J)** 1 member shall represent entities engaged in offshore oil exploration and production on the Outer Continental Shelf adjacent to Alaska.
     - **(K)** 1 member shall represent the general public (but not a specific environmental group).

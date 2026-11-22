@@ -3,10 +3,9 @@ title: "Section 3803 - Administration and enforcement"
 usc_title: 33
 usc_section: "3803"
 chapter: 51
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 3803"
-generated_at: "2026-03-30T10:03:00.829Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.144Z"
 ---
 
 # § 3803. Administration and enforcement

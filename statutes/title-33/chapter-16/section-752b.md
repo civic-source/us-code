@@ -1,13 +1,12 @@
 ---
-title: "Section 752b - Omitted"
+title: "Section 752b - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(12) , Dec. 23, 2022 , 136 Stat. 4165"
 usc_title: 33
 usc_section: "752b"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 752b"
-generated_at: "2026-03-30T10:03:00.772Z"
-status: "omitted"
+generated_at: "2026-03-30T02:55:41.072Z"
 ---
 
-# § 752b. Omitted
+# § 752b. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(12) , Dec. 23, 2022 , 136 Stat. 4165
 

@@ -3,10 +3,9 @@ title: "Section 718c - Authorization and exemption"
 usc_title: 16
 usc_section: "718c"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 718c"
-generated_at: "2026-03-30T10:02:22.396Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.902Z"
 ---
 
 # § 718c. Authorization and exemption

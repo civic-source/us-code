@@ -3,10 +3,9 @@ title: "Section 1264 - Decisions of regulatory authority and appeals"
 usc_title: 30
 usc_section: "1264"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "30 U.S.C. § 1264"
-generated_at: "2026-03-30T10:02:44.913Z"
-status: "active"
+generated_at: "2026-03-30T02:55:29.400Z"
 ---
 
 # § 1264. Decisions of regulatory authority and appeals

@@ -3,10 +3,9 @@ title: "Section 1104 - Sharing of health-care resources with the Department of V
 usc_title: 10
 usc_section: "1104"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1104"
-generated_at: "2026-03-30T10:02:00.810Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.108Z"
 ---
 
 # § 1104. Sharing of health-care resources with the Department of Veterans Affairs

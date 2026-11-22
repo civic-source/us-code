@@ -3,10 +3,9 @@ title: "Section 8913 - Assistance to build local capacity in agricultural biosec
 usc_title: 7
 usc_section: "8913"
 chapter: 114
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8913"
-generated_at: "2026-03-30T10:01:46.846Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.482Z"
 ---
 
 # § 8913. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response

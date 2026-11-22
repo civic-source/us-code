@@ -3,16 +3,15 @@ title: "Section 9712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "9712"
 chapter: 975
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9712"
-generated_at: "2026-03-30T10:02:00.907Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.262Z"
 ---
 
 # § 9712. Disposition of effects of deceased persons by summary court-martial
 
 - **(a)** Upon the death of—
-  - **(1)** a person subject to military law at a place or command under the jurisdiction of the Air Force; or
+  - **(1)** a person subject to military law at a place or command under the jurisdiction of the Air Force or the Space Force; or
   - **(2)** a resident of the Armed Forces Retirement Home who dies in an Air Force hospital outside the District of Columbia when sent from the Home to that hospital for treatment;
 - **(b)** If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collect the effects of the deceased that are then at the air base or in quarters.
 - **(c)** The summary court-martial may collect debts due the decedent’s estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court’s possession, and shall take receipts for those payments, to be filed with the court’s final report to the Department of the Air Force.

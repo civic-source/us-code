@@ -3,10 +3,9 @@ title: "Section 56308 - Transfer of substitute vessels"
 usc_title: 46
 usc_section: "56308"
 chapter: 563
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 56308"
-generated_at: "2026-03-30T10:03:46.792Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.581Z"
 ---
 
 # § 56308. Transfer of substitute vessels

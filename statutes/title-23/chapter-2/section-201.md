@@ -3,10 +3,9 @@ title: "Section 201 - Federal lands and tribal transportation programs"
 usc_title: 23
 usc_section: "201"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "23 U.S.C. § 201"
-generated_at: "2026-03-30T10:02:25.288Z"
-status: "active"
+generated_at: "2026-03-30T02:55:12.564Z"
 ---
 
 # § 201. Federal lands and tribal transportation programs
@@ -31,7 +30,7 @@ status: "active"
       - **(ii)** modifies the point of obligation associated with Federal salaries and expenses.
   - **(7)**
     - **(A)** The Federal share of the cost of a project carried out under the Federal lands transportation program or the tribal transportation program shall be 100 percent.
-    - **(B)** The Federal share of the cost of a project carried out under the Federal lands access program shall be determined in accordance with section 120.
+    - **(B)** The Federal share of the cost of a project carried out under the Federal lands access program shall be be 1 1 So in original. up to 100 percent.
 - **(c)**
   - **(1)** In consultation with the Secretary of each appropriate Federal land management agency, the Secretary shall implement transportation planning procedures for Federal lands and tribal transportation facilities that are consistent with the planning processes required under sections 134 and 135.
   - **(2)** The transportation improvement program developed as a part of the transportation planning process under this section shall be approved by the Secretary.
@@ -43,7 +42,7 @@ status: "active"
   - **(6)**
     - **(A)**
       - **(i)** The Secretaries of the appropriate Federal land management agencies shall collect and report data necessary to implement the Federal lands transportation program, the Federal lands access program, and the tribal transportation program.
-      - **(ii)** Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450 et seq.). 1 1 See References in Text note below.
+      - **(ii)** Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.).
       - **(iii)** Data collected under this paragraph includes—
         - **(I)** inventory and condition information on Federal lands transportation facilities and tribal transportation facilities; and
         - **(II)** bridge inspection and inventory information on any Federal bridge open to the public.
@@ -55,7 +54,7 @@ status: "active"
       - **(iv)** An estimate of the number of jobs created and the number of jobs retained by the projects and activities identified under clause (i).
   - **(7)** The Secretary may conduct cooperative research and technology deployment in coordination with Federal land management agencies, as determined appropriate by the Secretary.
   - **(8)**
-    - **(A)** To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
+    - **(A)** To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 20 percent of the funds authorized for programs under sections 203 and 204.
     - **(B)** In addition to the activities described in subparagraph (A), funds described under that subparagraph may be used for—
       - **(i)** bridge inspections on any federally owned bridge even if that bridge is not included on the inventory described under section 203; and
       - **(ii)** transportation planning activities carried out by Federal land management agencies eligible for funding under this chapter.
@@ -69,3 +68,18 @@ status: "active"
     - **(C)** State departments of transportation; and
     - **(D)** local government agencies.
   - **(2)** The funds described in paragraph (1) shall be credited back to the loaning entity with funds that are currently available for obligation at the time of the credit.
+- **(f)**
+  - **(1)** Notwithstanding any other provision of law (including the Federal Acquisition Regulation), a contracting method available to a State under this title may be used by the Secretary, on behalf of—
+    - **(A)** a Federal land management agency, in using any funds pursuant to section 203, 204, or 308;
+    - **(B)** a Federal land management agency, in using any funds pursuant to section 1535 of title 31 for any of the eligible uses described in sections 203(a)(1) and 204(a)(1) and paragraphs (1) and (2) of section 308(a); or
+    - **(C)** a Tribal government, in using funds pursuant to section 202(b)(7)(D).
+  - **(2)** The contracting methods referred to in paragraph (1) shall include, at a minimum—
+    - **(A)** project bundling;
+    - **(B)** bridge bundling;
+    - **(C)** design-build contracting;
+    - **(D)** 2-phase contracting;
+    - **(E)** long-term concession agreements; and
+    - **(F)** any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
+  - **(3)** Nothing in this subsection—
+    - **(A)** affects the application of the Federal share for the project carried out with a contracting method under this subsection; or
+    - **(B)** modifies the point of obligation of Federal salaries and expenses.

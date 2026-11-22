@@ -3,10 +3,9 @@ title: "Section 1044e - Special Victims’ Counsel for victims of sex-related of
 usc_title: 10
 usc_section: "1044e"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1044e"
-generated_at: "2026-03-30T10:02:00.802Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.096Z"
 ---
 
 # § 1044e. Special Victims’ Counsel for victims of sex-related offenses
@@ -50,7 +49,7 @@ status: "active"
     - **(A)** in understanding the rights and protections afforded to victims of retaliation;
     - **(B)** in the filing of complaints; and
     - **(C)** in any resulting military justice proceedings.
-  - **(11)** Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h). 1 1 See References in Text note below.
+  - **(11)** Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (i).
 - **(c)** The relationship between a Special Victims’ Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
 - **(d)**
   - **(1)** An individual may not be designated as a Special Victims’ Counsel under this section unless the individual—
@@ -60,7 +59,7 @@ status: "active"
     - **(A)** develop a policy to standardize the time period within which a Special Victims’ Counsel receives training; and
     - **(B)** establish the baseline training requirements for a Special Victims’ Counsel.
 - **(e)**
-  - **(1)** Consistent with the regulations prescribed under subsection (h), 1 the Judge Advocate General (as defined in section 801(1) of this title ) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims’ Counsel.
+  - **(1)** Consistent with the regulations prescribed under subsection (i), the Judge Advocate General (as defined in section 801(1) of this title ) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims’ Counsel.
   - **(2)** The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims’ Counsel programs operated under this section.
   - **(3)** The Secretary of Defense, in collaboration with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating, shall establish—
     - **(A)** guiding principles for the Special Victims’ Counsel program, to include ensuring that—
@@ -75,7 +74,7 @@ status: "active"
   - **(4)**
     - **(A)** Subject to subparagraph (B), if a Special Victims’ Counsel is not available at a military installation for access by a member of the armed forces who requests access to a Special Victims’ Counsel, a Special Victims’ Counsel shall be made available at such installation for access by such member by not later than 72 hours after such request.
     - **(B)** If the Secretary concerned determines that, due to exigent circumstances related to military activities, a Special Victims’ Counsel cannot be made available to a member of the armed forces within the time period required by subparagraph (A), the Secretary concerned shall ensure that a Special Victims’ Counsel is made available to such member as soon as is practical under such circumstances.
-- **(g)** Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims’ Counsel 2 2 So in original. Probably should be “Counsels”. serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims’ Counsel does not exceed, to the extent practicable, 25 cases any given time.
+- **(g)** Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims’ Counsels serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims’ Counsel does not exceed, to the extent practicable, 25 cases any given time.
 - **(h)** In this section, the term “alleged sex-related offense” means any allegation of—
   - **(1)** a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
   - **(2)** an attempt to commit an offense specified in a paragraph (1) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).

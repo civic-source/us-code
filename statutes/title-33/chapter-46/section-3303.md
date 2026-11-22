@@ -3,10 +3,9 @@ title: "Section 3303 - Inventory and inspection of levees"
 usc_title: 33
 usc_section: "3303"
 chapter: 46
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 3303"
-generated_at: "2026-03-30T10:03:00.825Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.139Z"
 ---
 
 # § 3303. Inventory and inspection of levees
@@ -32,3 +31,8 @@ status: "active"
     - **(A)** allow an official of the State, regional district, or Indian tribe to participate in the review of the levee; and
     - **(B)** provide information to the State, regional district, or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
   - **(5)** In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014 , if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.
+- **(d)**
+  - **(1)** For each levee included in an inventory established under subsection (b) or for which the Secretary has conducted a review under subsection (c), the Secretary shall—
+    - **(A)** identify the specific engineering and maintenance deficiencies, if any; and
+    - **(B)** describe the recommended remedies to correct each deficiency identified under subparagraph (A), and, if requested by owner of a non-Federal levee, the associated costs of those remedies.
+  - **(2)** In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.

@@ -3,10 +3,9 @@ title: "Section 1656 - Prohibition against official or court orders to achieve r
 usc_title: 20
 usc_section: "1656"
 chapter: 37
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1656"
-generated_at: "2026-03-30T10:02:18.623Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.169Z"
 ---
 
 # § 1656. Prohibition against official or court orders to achieve racial balance or insure compliance with constitutional standards applicable to entire United States

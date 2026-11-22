@@ -3,10 +3,9 @@ title: "Section 387j - Application for review of certain tobacco products"
 usc_title: 21
 usc_section: "387j"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 387j"
-generated_at: "2026-03-30T10:02:39.056Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.281Z"
 ---
 
 # § 387j. Application for review of certain tobacco products

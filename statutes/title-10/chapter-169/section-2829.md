@@ -3,10 +3,9 @@ title: "Section 2829 - Multi-year contracts for supplies and services"
 usc_title: 10
 usc_section: "2829"
 chapter: 169
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2829"
-generated_at: "2026-03-30T10:02:00.877Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.179Z"
 ---
 
 # § 2829. Multi-year contracts for supplies and services

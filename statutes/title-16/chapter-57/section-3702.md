@@ -3,10 +3,9 @@ title: "Section 3702 - Board of Directors of Foundation"
 usc_title: 16
 usc_section: "3702"
 chapter: 57
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3702"
-generated_at: "2026-03-30T10:02:22.476Z"
-status: "active"
+generated_at: "2026-03-30T02:54:23.019Z"
 ---
 
 # § 3702. Board of Directors of Foundation
@@ -21,6 +20,12 @@ status: "active"
     - **(A)** be knowledgeable and experienced in matters relating to the conservation of fish, wildlife, or other natural resources; and
     - **(B)** represent a balance of expertise in ocean, coastal, freshwater, and terrestrial resource conservation.
   - **(3)** Each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
+  - **(4)**
+    - **(A)** The Secretary of the Interior shall fill a vacancy on the Board.
+    - **(B)** An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+  - **(5)** An individual (other than an individual described in paragraph (1)) shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
+  - **(6)** The executive committee of the Board may submit to the Secretary of the Interior a letter describing the nonperformance of a Director and requesting the removal of the Director from the Board.
+  - **(7)** Before removing any Director from the Board, the Secretary of the Interior shall consult with the Secretary of Commerce.
 - **(c)** The Chairman shall be elected by the Board from its members for a two-year term.
 - **(d)** A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
 - **(e)** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).

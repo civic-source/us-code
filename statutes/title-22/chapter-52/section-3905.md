@@ -3,10 +3,9 @@ title: "Section 3905 - Personnel actions"
 usc_title: 22
 usc_section: "3905"
 chapter: 52
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3905"
-generated_at: "2026-03-30T10:02:42.429Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.398Z"
 ---
 
 # § 3905. Personnel actions
@@ -17,7 +16,7 @@ status: "active"
     - **(A)** any appointment, promotion, assignment (including assignment to any position or salary class), award of performance pay or special differential, within-class salary increase, separation, or performance evaluation, and
     - **(B)** any decision, recommendation, examination, or ranking provided for under this chapter which relates to any action referred to in subparagraph (A).
 - **(b)** The Secretary shall administer the provisions of this chapter and shall prescribe such regulations as may be necessary to ensure that members of the Service, as well as applicants for appointments in the Service—
-  - **(1)** are free from discrimination on the basis of race, color, religion, sex, national origin, age, handicapping condition, marital status, geographic or educational affiliation within the United States, or political affiliation, as prohibited under section 2302(b)(1) of title 5 ;
+  - **(1)** are free from discrimination on the basis of race, color, religion, sex, national origin, age, disability, marital status, geographic or educational affiliation within the United States, or political affiliation, as prohibited under section 2302(b)(1) of title 5 ;
   - **(2)** are free from reprisal for—
     - **(A)** a disclosure of information by a member or applicant which the member or applicant reasonably believes evidences—
       - **(i)** a violation of any law, rule, or regulation, or
@@ -35,5 +34,5 @@ status: "active"
   - **(1)** section 2000e–16 of title 42 , prohibiting discrimination on the basis of race, color, religion, sex, or national origin;
   - **(2)** sections 631 and 633a of title 29, prohibiting discrimination on the basis of age;
   - **(3)** section 206(d) of title 29 , prohibiting discrimination on the basis of sex;
-  - **(4)** sections 791 and 794a of title 29, prohibiting discrimination on the basis of handicapping condition; or
+  - **(4)** sections 791 and 794a of title 29, prohibiting discrimination on the basis of disability; or
   - **(5)** any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.

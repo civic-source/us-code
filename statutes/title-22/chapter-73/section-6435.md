@@ -3,15 +3,14 @@ title: "Section 6435 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6435"
 chapter: 73
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6435"
-generated_at: "2026-03-30T10:02:42.457Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.428Z"
 ---
 
 # § 6435. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2019 through 2022 to carry out the provisions of this chapter and section 6433a of this title .
+- **(a)** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2025 and 2026 to carry out the provisions of this chapter and section 6433a of this title .
 - **(b)** Amounts authorized to be appropriated under subsection (a) shall remain available until the earlier of—
   - **(1)** the date on which they have been expended; or
   - **(2)** the date on which the Commission is terminated under section 6436 of this title .

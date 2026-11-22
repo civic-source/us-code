@@ -1,15 +1,12 @@
 ---
-title: "Section 2439 - Negotiation of price for technical data before development, production, or sustainment of major weapon systems"
+title: "Section 2439 - Renumbered § 4236]"
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-03-30T10:02:00.859Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.158Z"
 ---
 
-# § 2439. Negotiation of price for technical data before development, production, or sustainment of major weapon systems
-
-The Secretary of Defense shall ensure, to the maximum extent practicable, that the Department of Defense, before selecting a contractor for the engineering and manufacturing development of a major weapon system, production of a major weapon system, or sustainment of a major weapon system, negotiates a price for technical data to be delivered under a contract for such development, production, or sustainment.
+# [§ 2439. Renumbered § 4236]
 

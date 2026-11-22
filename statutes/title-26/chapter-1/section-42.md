@@ -3,10 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-03-30T10:02:53.328Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.596Z"
 ---
 
 # § 42. Low-income housing credit
@@ -31,7 +30,8 @@ status: "active"
   - **(2)** In the case of any new building—
     - **(A)** which is placed in service by the taxpayer after the date of the enactment of this paragraph, and
     - **(B)** which is not federally subsidized for the taxable year,
-  - **(3)**
+  - **(3)** In the case of any new or existing building to which paragraph (2) does not apply and which is placed in service by the taxpayer after December 31, 2020 , the applicable percentage shall not be less than 4 percent.
+  - **(4)**
     - **(A)** For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).
     - **(B)** For determination of applicable percentage for increases in qualified basis after the 1st year of the credit period, see subsection (f)(3).
     - **(C)** For authority of housing credit agency to limit applicable percentage and qualified basis which may be taken into account under this section with respect to any building, see subsection (h)(7).
@@ -290,12 +290,16 @@ status: "active"
       - **(ii)**
         - **(I)** In the case of the $2,000,000 amount, any increase under clause (i) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
         - **(II)** In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
-    - **(I)** In the case of calendar years 2018, 2019, 2020, and 2021, each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.125.
+    - **(I)** In the case of calendar years beginning after December 31, 2025 , each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.12.
   - **(4)**
     - **(A)** Paragraph (1) shall not apply to the portion of any credit allowable under subsection (a) which is attributable to eligible basis financed by any obligation the interest on which is exempt from tax under section 103 if—
       - **(i)** such obligation is taken into account under section 146, and
       - **(ii)** principal payments on such financing are applied within a reasonable period to redeem obligations the proceeds of which were used to provide such financing or such financing is refunded as described in section 146(i)(6).
-    - **(B)** For purposes of subparagraph (A), if 50 percent or more of the aggregate basis of any building and the land on which the building is located is financed by any obligation described in subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to such building.
+    - **(B)** For purposes of subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to a building if—
+      - **(i)** 50 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), or
+      - **(ii)**
+        - **(I)** 25 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), and
+        - **(II)** 1 or more of such obligations—
   - **(5)**
     - **(A)** Not more than 90 percent of the State housing credit ceiling for any State for any calendar year shall be allocated to projects other than qualified low-income housing projects described in subparagraph (B).
     - **(B)** For purposes of subparagraph (A), a qualified low-income housing project is described in this subparagraph if a qualified nonprofit organization is to own an interest in the project (directly or through a partnership) and materially participate (within the meaning of section 469(h)) in the development and operation of the project throughout the compliance period.

@@ -3,10 +3,9 @@ title: "Section 3021 - National Security Council"
 usc_title: 50
 usc_section: "3021"
 chapter: 44
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3021"
-generated_at: "2026-03-30T10:03:53.212Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.226Z"
 ---
 
 # § 3021. National Security Council
@@ -18,8 +17,8 @@ status: "active"
   - **(3)** make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security; and
   - **(4)** coordinate, without assuming operational authority, the United States Government response to malign foreign influence operations and campaigns.
 - **(c)**
-  - **(1)** The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, and such other officers of the United States Government as the President may designate.
-  - **(2)** The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, and the Chairman of the Joint Chiefs of Staff, to attend and participate in meetings of the Council.
+  - **(1)** The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, the Director of the Office of Pandemic Preparedness and Response Policy and such other officers of the United States Government as the President may designate.
+  - **(2)** The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
 - **(d)** At meetings of the Council, the President shall preside or, in the absence of the President, a member of the Council designated by the President shall preside.
 - **(e)**
   - **(1)** The Council shall have a staff headed by a civilian executive secretary appointed by the President.

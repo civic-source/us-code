@@ -3,10 +3,9 @@ title: "Section 9212 - Investigations"
 usc_title: 22
 usc_section: "9212"
 chapter: 99
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 9212"
-generated_at: "2026-03-30T10:02:42.487Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.462Z"
 ---
 
 # § 9212. Investigations

@@ -3,10 +3,9 @@ title: "Section 1613 - Miscellaneous provisions"
 usc_title: 10
 usc_section: "1613"
 chapter: 83
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1613"
-generated_at: "2026-03-30T10:02:00.829Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.133Z"
 ---
 
 # § 1613. Miscellaneous provisions

@@ -3,10 +3,9 @@ title: "Section 3334a - Transfer of National Intelligence University to the Offi
 usc_title: 50
 usc_section: "3334a"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334a"
-generated_at: "2026-03-30T10:03:53.223Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.244Z"
 ---
 
 # § 3334a. Transfer of National Intelligence University to the Office of the Director of National Intelligence
@@ -16,7 +15,7 @@ status: "active"
   - **(1)** Except as provided by paragraph (2), as soon as practicable after December 20, 2019 , but not later than 18 months after December 20, 2019 , the Secretary of Defense and the Director of National Intelligence shall jointly submit to the appropriate congressional committees written certifications of each of the following:
     - **(A)** The Middle States Commission on Higher Education has provided regional academic accreditation for the National Intelligence University before the date of the certification, or will provide such academic accreditation as of the date on which the University is transferred under subsection (a).
     - **(B)** Members of the Armed Forces attending the University will be eligible to receive credit for Phase I joint professional military education.
-    - **(C)** The Secretary of Education has informed the Director of National Intelligence that the Secretary has recommended approval of the degrees to be conferred pursuant to subsection (e)(2) or will provide such recommended approval as of the date on which the University is transferred under subsection (a).
+    - **(C)** The Secretary of Education has informed the Director of National Intelligence that the Secretary has recommended approval of the degrees to be conferred pursuant to section 3227a(b) of this title or will provide such recommended approval as of the date on which the University is transferred under subsection (a).
     - **(D)** The Director of National Intelligence, in collaboration with the Secretary of Defense, has established an appropriate governance model for the University.
     - **(E)** The Secretary of Defense shall use the University to provide personnel of the Department of Defense with advanced intelligence education.
   - **(2)**
@@ -37,19 +36,9 @@ status: "active"
     - **(B)** the costs to the Federal Government of transferring the National Intelligence University to the Director of National Intelligence.
   - **(2)** The estimate submitted under paragraph (1) shall include all indirect costs, including with respect to human resources, security, facilities, and information technology.
 - **(e)**
-  - **(1)** Beginning on the date on which the National Intelligence University is transferred under subsection (a), under regulations prescribed by the Director of National Intelligence, the President of the National Intelligence University may, upon the recommendation of the faculty of the University, confer appropriate degrees upon graduates who meet the degree requirements.
-  - **(2)** A degree may not be conferred under this section unless—
-    - **(A)** the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
-    - **(B)** the University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
-- **(f)**
-  - **(1)** Beginning on the date on which the National Intelligence University is transferred under subsection (a), the Director of National Intelligence shall promptly—
-    - **(A)** notify the congressional intelligence committees of any action by the Middle States Commission on Higher Education, or other appropriate academic accrediting agency or organization, to not accredit the University to award any new or existing degree; and
-    - **(B)** submit to such committees a report containing an explanation of any such action.
-  - **(2)** Beginning on the date on which the National Intelligence University is transferred under subsection (a), upon any modification or redesignation of existing degree-granting authority, the Director shall submit to the congressional intelligence committees a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education with respect to the proposed modification or redesignation.
-- **(g)**
   - **(1)**
   - **(2)** The amendments made by paragraph (1) shall take effect on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications under subsection (b)(1). The Secretary and the Director shall jointly notify the Law Revision Counsel of the House of Representatives of the submission of the certifications so that the Law Revision Counsel may execute the amendments made by paragraph (1).
-- **(h)** In this section:
+- **(f)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional intelligence committees; and
     - **(B)** the Committees on Armed Services of the Senate and House of Representatives.

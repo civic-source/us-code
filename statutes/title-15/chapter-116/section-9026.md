@@ -3,10 +3,9 @@ title: "Section 9026 - Temporary financing of short-time compensation payments i
 usc_title: 15
 usc_section: "9026"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9026"
-generated_at: "2026-03-30T10:02:07.566Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.240Z"
 ---
 
 # § 9026. Temporary financing of short-time compensation payments in States with programs in law
@@ -19,7 +18,7 @@ status: "active"
     - **(B)** No payments shall be made to a State under this section for benefits paid to an individual by the State under a short-time compensation program if such individual is employed by the participating employer on a seasonal, temporary, or intermittent basis.
 - **(b)** Payments to a State under subsection (a) shall be available for weeks of unemployment—
   - **(1)** beginning on or after March 27, 2020 ; and
-  - **(2)** ending on or before December 31, 2020 .
+  - **(2)** ending on or before September 6, 2021 .
 - **(c)** Subject to subsection (b)(2), if at any point after March 27, 2020 , the State enacts a State law providing for the payment of short-time compensation under a short-time compensation program that meets the definition of such a program under section 3306(v) of title 26 , the State shall be eligible for payments under this section after the effective date of such enactment.
 - **(d)**
   - **(1)** There are appropriated, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary for purposes of carrying out this section.

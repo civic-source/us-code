@@ -3,10 +3,9 @@ title: "Section 1019b - Loan information to be disclosed and model disclosure fo
 usc_title: 20
 usc_section: "1019b"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1019b"
-generated_at: "2026-03-30T10:02:18.558Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.096Z"
 ---
 
 # § 1019b. Loan information to be disclosed and model disclosure form for covered institutions, institution-affiliated organizations, and lenders participating in preferred lender arrangements

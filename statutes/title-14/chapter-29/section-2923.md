@@ -3,16 +3,21 @@ title: "Section 2923 - Child development center standards and inspections"
 usc_title: 14
 usc_section: "2923"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2923"
-generated_at: "2026-03-30T10:02:03.983Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.502Z"
 ---
 
 # § 2923. Child development center standards and inspections
 
-- **(a)** The Commandant shall require each Coast Guard child development center to meet standards that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center.
-- **(b)** The Commandant shall provide for regular and unannounced inspections of each Coast Guard child development center to ensure compliance with this section.
+- **(a)** The Commandant shall require each Coast Guard child development center to meet standards of operation—
+  - **(1)** that the Commandant considers appropriate to ensure the health, safety, and welfare of the children and employees at the center; and
+  - **(2)** necessary for accreditation by an appropriate national early childhood programs accrediting entity.
+- **(b)**
+  - **(1)** Not less than twice annually, the Commandant shall ensure that each Coast Guard child development center is subject to an unannounced inspection.
+  - **(2)** Of the biannual inspections under paragraph (1)—
+    - **(A)** 1 shall be carried out by a representative of the Coast Guard installation served by the Coast Guard child development center concerned; and
+    - **(B)** 1 shall be carried out by a representative of the Coast Guard child development services work-life programs.
 - **(c)**
   - **(1)** The Commandant shall maintain and publicize a means by which an individual can report, with respect to a Coast Guard child development center or a family home daycare—
     - **(A)** any suspected violation of—

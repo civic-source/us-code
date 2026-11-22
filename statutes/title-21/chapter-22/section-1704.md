@@ -3,10 +3,9 @@ title: "Section 1704 - Coordination with National Drug Control Program agencies 
 usc_title: 21
 usc_section: "1704"
 chapter: 22
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 1704"
-generated_at: "2026-03-30T10:02:39.078Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.305Z"
 ---
 
 # § 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs

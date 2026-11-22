@@ -3,10 +3,9 @@ title: "Section 76f - Appointment, compensation, and duties of Director of Galle
 usc_title: 20
 usc_section: "76f"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 76f"
-generated_at: "2026-03-30T10:02:18.543Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.073Z"
 ---
 
 # § 76f. Appointment, compensation, and duties of Director of Gallery; personnel

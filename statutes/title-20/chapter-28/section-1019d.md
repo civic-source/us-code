@@ -3,10 +3,9 @@ title: "Section 1019d - Self-certification form for private education loans"
 usc_title: 20
 usc_section: "1019d"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 1019d"
-generated_at: "2026-03-30T10:02:18.558Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.096Z"
 ---
 
 # § 1019d. Self-certification form for private education loans
@@ -21,7 +20,7 @@ status: "active"
     - **(D)** the information that the applicant is required to provide on the form is available from officials at the financial aid office of the institution of higher education;
   - **(4)** include a place to provide information on—
     - **(A)** the applicant’s cost of attendance at the institution of higher education, as determined by the institution under part F of subchapter IV;
-    - **(B)** the applicant’s estimated financial assistance, including amounts of financial assistance used to replace the expected family contribution, as determined by the institution, in accordance with subchapter IV, for students who have completed the Free Application for Federal Student Aid; and
+    - **(B)** the applicant’s estimated financial assistance, including amounts of financial assistance used to replace the student aid index, as determined by the institution, in accordance with subchapter IV, for students who have completed the Free Application for Federal Student Aid; and
     - **(C)** the difference between the amounts under subparagraphs (A) and (B), as applicable; and
   - **(5)** include a place for the applicant’s signature, in written or electronic form.
 - **(b)** Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).

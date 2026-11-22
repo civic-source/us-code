@@ -3,10 +3,9 @@ title: "Section 153901 - Organization"
 usc_title: 36
 usc_section: "153901"
 chapter: 1539
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 153901"
-generated_at: "2026-03-30T10:03:09.265Z"
-status: "active"
+generated_at: "2026-03-30T02:55:44.706Z"
 ---
 
 # § 153901. Organization

@@ -3,10 +3,9 @@ title: "Section 9482 - Operation"
 usc_title: 10
 usc_section: "9482"
 chapter: 957
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9482"
-generated_at: "2026-03-30T10:02:00.905Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.260Z"
 ---
 
 # § 9482. Operation
@@ -16,10 +15,10 @@ In maintaining camps established under section 9481 of this title , the Secretar
   - **(1)** prescribe the periods during which they will be operated;
   - **(2)** prescribe regulations for their administration;
   - **(3)** prescribe the courses to be taught;
-  - **(4)** detail members of the Regular Air Force to designated duties relating to the camps;
+  - **(4)** detail members of the Regular Air Force or members of the Space Force in an active status to designated duties relating to the camps;
   - **(5)** use necessary supplies and transportation;
   - **(6)** furnish uniforms, subsistence, and medical attendance and supplies to persons attending the camp; and
-  - **(7)** authorize necessary expenditures from proper Air Force funds for—
+  - **(7)** authorize necessary expenditures from proper Air Force or Space Force funds for—
     - **(A)** water;
     - **(B)** fuel;
     - **(C)** light;

@@ -3,10 +3,9 @@ title: "Section 102501 - Purpose"
 usc_title: 54
 usc_section: "102501"
 chapter: 1025
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "54 U.S.C. § 102501"
-generated_at: "2026-03-30T10:03:57.008Z"
-status: "active"
+generated_at: "2026-03-30T02:56:28.416Z"
 ---
 
 # § 102501. Purpose

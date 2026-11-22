@@ -3,15 +3,14 @@ title: "Section 2701 - Procurement of personnel"
 usc_title: 14
 usc_section: "2701"
 chapter: 27
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2701"
-generated_at: "2026-03-30T10:02:03.982Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.501Z"
 ---
 
 # § 2701. Procurement of personnel
 
-The Coast Guard may expend operating expense funds for recruiting activities, including but not limited to advertising and entertainment, in order to—
+The Coast Guard may expend operations and support funds for recruiting activities, including advertising and entertainment, to—
 
   - **(1)** obtain recruits for the Service and cadet applicants; and
   - **(2)** gain support of recruiting objectives from those who may assist in the recruiting effort.

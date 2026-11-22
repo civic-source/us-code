@@ -3,10 +3,9 @@ title: "Section 1559 - Personnel limitation"
 usc_title: 10
 usc_section: "1559"
 chapter: 79
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1559"
-generated_at: "2026-03-30T10:02:00.826Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.129Z"
 ---
 
 # § 1559. Personnel limitation
@@ -18,4 +17,4 @@ status: "active"
 - **(c)** In this section, the term “service review agency” means—
   - **(1)** with respect to the Department of the Army, the Army Review Boards Agency;
   - **(2)** with respect to the Department of the Navy, the Board for Correction of Naval Records; and
-  - **(3)** with respect to the Department of the Air Force, the Air Force Review Boards Agency.
+  - **(3)** with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.

@@ -3,10 +3,9 @@ title: "Section 11301 - Equipment trusts: recordation; evidence of indebtedness"
 usc_title: 49
 usc_section: "11301"
 chapter: 113
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 11301"
-generated_at: "2026-03-30T10:03:55.061Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.325Z"
 ---
 
 # § 11301. Equipment trusts: recordation; evidence of indebtedness

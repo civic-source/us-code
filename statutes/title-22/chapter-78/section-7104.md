@@ -3,10 +3,9 @@ title: "Section 7104 - Prevention of trafficking"
 usc_title: 22
 usc_section: "7104"
 chapter: 78
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 7104"
-generated_at: "2026-03-30T10:02:42.464Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.436Z"
 ---
 
 # § 7104. Prevention of trafficking
@@ -112,3 +111,8 @@ status: "active"
     - **(G)** the Committee on Armed Services of the Senate;
     - **(H)** the Committee on the Judiciary of the Senate; and
     - **(I)** the Committee on Health, Education, Labor, and Pensions of the Senate.
+- **(l)**
+  - **(1)** The Secretary of State shall ensure that the Office to Monitor and Combat Trafficking in Persons and the Bureau of Diplomatic Security of the Department of State receive timely and regular information regarding United States visa denials based, in whole or in part, on grounds related to human trafficking.
+  - **(2)** The Secretary of State shall ensure that decisions regarding the allocation of resources of the Department of State related to combating human trafficking and to law enforcement presence at United States diplomatic and consular posts appropriately take into account—
+    - **(A)** the information described in paragraph (1); and
+    - **(B)** the information included in the most recent report submitted in accordance with section 7107(b) of this title .

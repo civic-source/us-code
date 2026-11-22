@@ -3,10 +3,9 @@ title: "Section 1912 - Regional depositories; designation; functions; disposal o
 usc_title: 44
 usc_section: "1912"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "44 U.S.C. § 1912"
-generated_at: "2026-03-30T10:03:15.401Z"
-status: "active"
+generated_at: "2026-03-30T02:55:56.292Z"
 ---
 
 # § 1912. Regional depositories; designation; functions; disposal of publications

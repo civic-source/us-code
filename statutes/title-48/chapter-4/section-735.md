@@ -3,10 +3,9 @@ title: "Section 735 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320"
 usc_title: 48
 usc_section: "735"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 735"
-generated_at: "2026-03-30T10:03:34.414Z"
-status: "repealed"
+generated_at: "2026-03-30T02:56:14.581Z"
 ---
 
 # § 735. Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320

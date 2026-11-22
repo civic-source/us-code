@@ -3,15 +3,14 @@ title: "Section 70031 - Definitions"
 usc_title: 46
 usc_section: "70031"
 chapter: 700
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 70031"
-generated_at: "2026-03-30T10:03:46.794Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.585Z"
 ---
 
 # § 70031. Definitions
 
-As used in subchapters A through C 1 1 So in original. Probably should be “subchapters I through III”. and this subchapter, unless the context otherwise requires:
+As used in subchapters I through III and this subchapter, unless the context otherwise requires:
 
   - **(1)** The term “marine environment” means—
     - **(A)** the navigable waters of the United States and the land and resources therein and thereunder;

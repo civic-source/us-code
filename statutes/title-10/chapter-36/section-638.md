@@ -3,22 +3,21 @@ title: "Section 638 - Selective early retirement"
 usc_title: 10
 usc_section: "638"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 638"
-generated_at: "2026-03-30T10:02:00.784Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.070Z"
 ---
 
 # § 638. Selective early retirement
 
 - **(a)**
-  - **(1)** A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
+  - **(1)** A regular officer on the active-duty list of the Army, Navy, Air Force, Marine Corps, or Space Force may be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
     - **(A)** An officer holding the regular grade of lieutenant colonel or commander who has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion.
     - **(B)** An officer holding the regular grade of colonel or, in the case of an officer of the Navy, captain who has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
     - **(C)** An officer holding the regular grade of brigadier general or rear admiral (lower half) who has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
     - **(D)** An officer holding the regular grade of major general or rear admiral who has served at least three and one-half years of active duty in that grade.
   - **(2)** The Secretary of the military department concerned shall specify the number of officers described in paragraphs (1)(A) and (1)(B) which a selection board convened under section 611(b) of this title may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.
-  - **(3)** A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may also be considered for early retirement under the circumstances prescribed in section 638a of this title .
+  - **(3)** A regular officer on the active-duty list of the Army, Navy, Air Force, Marine Corps, or Space Force may also be considered for early retirement under the circumstances prescribed in section 638a of this title .
 - **(b)**
   - **(1)**
     - **(A)** An officer in a grade below brigadier general or rear admiral (lower half) who is recommended for early retirement under this section or section 638a of this title and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.

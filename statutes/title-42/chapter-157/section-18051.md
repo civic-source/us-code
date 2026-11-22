@@ -3,10 +3,9 @@ title: "Section 18051 - State flexibility to establish basic health programs for
 usc_title: 42
 usc_section: "18051"
 chapter: 157
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 18051"
-generated_at: "2026-03-30T10:03:30.418Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.514Z"
 ---
 
 # § 18051. State flexibility to establish basic health programs for low-income individuals not eligible for medicaid

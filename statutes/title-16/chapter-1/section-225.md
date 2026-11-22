@@ -3,10 +3,9 @@ title: "Section 225 - Laws applicable; easements and rights-of-way"
 usc_title: 16
 usc_section: "225"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 225"
-generated_at: "2026-03-30T10:02:22.287Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.743Z"
 ---
 
 # § 225. Laws applicable; easements and rights-of-way

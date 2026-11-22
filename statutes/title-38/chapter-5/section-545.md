@@ -3,10 +3,9 @@ title: "Section 545 - Advisory Committee on the Readjustment of Veterans"
 usc_title: 38
 usc_section: "545"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 545"
-generated_at: "2026-03-30T10:03:11.941Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.474Z"
 ---
 
 # § 545. Advisory Committee on the Readjustment of Veterans
@@ -36,5 +35,5 @@ status: "active"
   - **(3)** The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
   - **(4)** The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
-  - **(2)** Section 14 of such Act shall not apply to the Committee.
+  - **(1)** Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
+  - **(2)** Section 1013 of title 5 shall not apply to the Committee.

@@ -3,10 +3,9 @@ title: "Section 2802 - Federal Geographic Data Committee"
 usc_title: 43
 usc_section: "2802"
 chapter: 46
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 2802"
-generated_at: "2026-03-30T10:03:16.216Z"
-status: "active"
+generated_at: "2026-03-30T02:55:57.498Z"
 ---
 
 # § 2802. Federal Geographic Data Committee

@@ -3,10 +3,9 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-30T10:02:46.204Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.759Z"
 ---
 
 # § 3226. YouthBuild program
@@ -41,7 +40,7 @@ status: "active"
   - **(10)** The term “registered apprenticeship program” means an apprenticeship program—
     - **(A)** registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664 , chapter 663; 29 U.S.C. 50 et seq.); and
     - **(B)** that meets such other criteria as may be established by the Secretary under this section.
-  - **(11)** The term “transitional housing” has the meaning given the term in section 11360(29) of title 42 .
+  - **(11)** The term “transitional housing” has the meaning given the term in section 11360(29) 1 1 See References in Text note below. of title 42.
   - **(12)** The term “YouthBuild program” means any program that receives assistance under this section and provides disadvantaged youth with opportunities for employment, education, leadership development, and training through the rehabilitation (which, for purposes of this section, shall include energy efficiency enhancements) or construction of housing for homeless individuals and low-income families, and of public facilities.
 - **(c)**
   - **(1)** The Secretary is authorized to make grants to applicants for the purpose of carrying out YouthBuild programs approved under this section.

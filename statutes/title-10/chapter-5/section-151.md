@@ -3,10 +3,9 @@ title: "Section 151 - Joint Chiefs of Staff: composition; functions"
 usc_title: 10
 usc_section: "151"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 151"
-generated_at: "2026-03-30T10:02:00.764Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.041Z"
 ---
 
 # § 151. Joint Chiefs of Staff: composition; functions
@@ -19,6 +18,7 @@ status: "active"
   - **(5)** The Chief of Staff of the Air Force.
   - **(6)** The Commandant of the Marine Corps.
   - **(7)** The Chief of the National Guard Bureau.
+  - **(8)** The Chief of Space Operations.
 - **(b)**
   - **(1)** The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense.
   - **(2)** The other members of the Joint Chiefs of Staff are military advisers to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense as specified in subsection (d).
@@ -40,3 +40,6 @@ status: "active"
     - **(B)** provide agenda for the meetings of the Joint Chiefs of Staff (including, as the Chairman considers appropriate, any subject for the agenda recommended by any other member of the Joint Chiefs of Staff);
     - **(C)** assist the Joint Chiefs of Staff in carrying on their business as promptly as practicable; and
     - **(D)** determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
+- **(h)**
+  - **(1)** If the President removes a member of the Joint Chiefs of Staff from office or transfers a member of the Joint Chiefs of Staff to another position or location before the end of the term of the member as specified in statute, the President shall, not later than five days after the removal or transfer takes effect, submit to Congress, including the congressional defense committees, notice that the member is being removed or transferred and a statement of the reason for the removal or transfer.
+  - **(2)** Nothing in this subsection prohibits a personnel action authorized by another provision of law.

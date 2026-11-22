@@ -3,10 +3,9 @@ title: "Section 3334d - Cyber protection support for the personnel of the intell
 usc_title: 50
 usc_section: "3334d"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334d"
-generated_at: "2026-03-30T10:03:53.223Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.244Z"
 ---
 
 # § 3334d. Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack
@@ -15,7 +14,7 @@ status: "active"
   - **(1)** The term “personal accounts” means accounts for online and telecommunications services, including telephone, residential internet access, email, text and multimedia messaging, cloud computing, social media, health care, and financial services, used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community.
   - **(2)** The term “personal technology devices” means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
 - **(b)**
-  - **(1)** Subject to a determination by the Director of National Intelligence, the Director may provide cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2).
+  - **(1)** Subject to a determination by the Director of National Intelligence, the Director shall offer cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2) and shall provide such support to any such personnel who request.
   - **(2)** The personnel described in this paragraph are personnel of the intelligence community—
     - **(A)** who the Director determines to be highly vulnerable to cyber attacks and hostile information collection activities because of the positions occupied by such personnel in the intelligence community; and
     - **(B)** whose personal technology devices or personal accounts are highly vulnerable to cyber attacks and hostile information collection activities.

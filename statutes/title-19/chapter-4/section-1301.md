@@ -3,10 +3,9 @@ title: "Section 1301 - Repealed. Apr. 30, 1946, ch. 244 , title V, § 511(1), 60
 usc_title: 19
 usc_section: "1301"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1301"
-generated_at: "2026-03-30T10:02:15.842Z"
-status: "repealed"
+generated_at: "2026-03-30T02:54:24.626Z"
 ---
 
 # § 1301. Repealed. Apr. 30, 1946, ch. 244 , title V, § 511(1), 60 Stat. 158

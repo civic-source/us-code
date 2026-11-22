@@ -3,18 +3,14 @@ title: "Section 6872 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6872"
 chapter: 81
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6872"
-generated_at: "2026-03-30T10:03:30.223Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.268Z"
 ---
 
 # § 6872. Authorization of appropriations
 
 For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
 
-  - **(1)** $750,000,000 for fiscal year 2008;
-  - **(2)** $900,000,000 for fiscal year 2009;
-  - **(3)** $1,050,000,000 for fiscal year 2010;
-  - **(4)** $1,200,000,000 for fiscal year 2011; and
-  - **(5)** $1,400,000,000 for fiscal year 2012.. 1 1 So in original.
+  - **(1)** $330,000,000 for fiscal year 2021; and
+  - **(2)** $350,000,000 for each of fiscal years 2022 through 2025.

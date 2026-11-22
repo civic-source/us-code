@@ -3,10 +3,9 @@ title: "Section 20150 - Positive train control system progress report"
 usc_title: 49
 usc_section: "20150"
 chapter: 201
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 20150"
-generated_at: "2026-03-30T10:03:55.070Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.335Z"
 ---
 
 # § 20150. Positive train control system progress report

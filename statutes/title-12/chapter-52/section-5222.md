@@ -3,10 +3,9 @@ title: "Section 5222 - Coordination with foreign authorities and central banks"
 usc_title: 12
 usc_section: "5222"
 chapter: 52
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5222"
-generated_at: "2026-03-30T10:02:11.136Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.525Z"
 ---
 
 # § 5222. Coordination with foreign authorities and central banks

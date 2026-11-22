@@ -3,10 +3,9 @@ title: "Section 4104A - Collaborative veterans’ training, mentoring, and place
 usc_title: 38
 usc_section: "4104A"
 chapter: 41
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 4104A"
-generated_at: "2026-03-30T10:03:11.979Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.516Z"
 ---
 
 # § 4104A. Collaborative veterans’ training, mentoring, and placement program
@@ -40,5 +39,5 @@ status: "active"
 - **(f)** In this section—
   - **(1)** the term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pension of the Senate; and
-    - **(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce of the House of Representatives; and
+    - **(B)** the Committee on Veterans’ Affairs and the Committee on Education and Workforce 1 1 So in original. Probably should be preceded by “the”. of the House of Representatives; and
   - **(2)** the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and that is exempt from taxation under section 501(a) of such Code.

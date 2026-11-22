@@ -3,10 +3,9 @@ title: "Section 3 - Omitted"
 usc_title: 7
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T10:01:46.665Z"
-status: "omitted"
+generated_at: "2026-03-30T02:53:42.245Z"
 ---
 
 # §§ 12–1 to 12–3. Omitted

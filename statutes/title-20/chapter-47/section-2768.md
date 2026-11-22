@@ -3,10 +3,9 @@ title: "Section 2768 - Omitted"
 usc_title: 20
 usc_section: "2768"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 2768"
-generated_at: "2026-03-30T10:02:18.631Z"
-status: "omitted"
+generated_at: "2026-03-30T02:54:48.177Z"
 ---
 
 # §§ 2761 to 2768. Omitted

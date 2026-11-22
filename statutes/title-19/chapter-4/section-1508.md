@@ -3,10 +3,9 @@ title: "Section 1508 - Recordkeeping"
 usc_title: 19
 usc_section: "1508"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1508"
-generated_at: "2026-03-30T10:02:15.851Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.638Z"
 ---
 
 # § 1508. Recordkeeping
@@ -42,7 +41,9 @@ status: "active"
     - **(C)**
       - **(i)** An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
       - **(ii)** A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of section 4532(c) of this title .
-- **(c)**
+- **(c)** The records required by subsection (a) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+  - **(1)** no period of time for the retention of the records required under subsection (a) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+  - **(2)** records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 - **(d)** For the purposes of this section and section 1509 of this title , a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
   - **(1)** the terms and conditions of the importation are controlled by the person placing the order; or
   - **(2)** technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.

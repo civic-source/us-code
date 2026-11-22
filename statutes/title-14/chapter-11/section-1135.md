@@ -3,10 +3,9 @@ title: "Section 1135 - Acquisition program baseline breach"
 usc_title: 14
 usc_section: "1135"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 1135"
-generated_at: "2026-03-30T10:02:03.979Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.493Z"
 ---
 
 # § 1135. Acquisition program baseline breach
@@ -28,3 +27,6 @@ status: "active"
   - **(2)** there are no alternatives to such capability or asset or capability or asset class that will provide equal or greater capability in both a more cost-effective and timely manner;
   - **(3)** the new acquisition schedule and estimates for total acquisition cost are reasonable; and
   - **(4)** the management structure for the acquisition program is adequate to manage and control performance, cost, and schedule.
+- **(d)** Not later than 48 hours after the Commandant becomes aware that a major acquisition contract cannot be carried out under the terms specified in the contract, the Commandant shall provide a written notification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
+  - **(1)** a description of the terms of the contract that cannot be met; and
+  - **(2)** an assessment of whether the applicable contract officer has issued a cease and desist order to the contractor based on the breach of such terms of the contract.

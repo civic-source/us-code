@@ -3,10 +3,9 @@ title: "Section 1208 - Repealed. Pub. L. 101–12, § 3(a)(8) , Apr. 10, 1989 , 
 usc_title: 5
 usc_section: "1208"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 1208"
-generated_at: "2026-03-30T10:01:40.536Z"
-status: "repealed"
+generated_at: "2026-03-30T02:52:55.995Z"
 ---
 
 # [§§ 1207, 1208. Repealed. Pub. L. 101–12, § 3(a)(8) , Apr. 10, 1989 , 103 Stat. 18 ]

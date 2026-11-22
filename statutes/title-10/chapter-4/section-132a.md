@@ -1,34 +1,29 @@
 ---
-title: "Section 132a - Chief Management Officer"
+title: "Section 132a - Performance Improvement Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T10:02:00.760Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.036Z"
 ---
 
-# § 132a. Chief Management Officer
+# § 132a. Performance Improvement Officer
 
 - **(a)**
-  - **(1)** There is a Chief Management Officer of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
-  - **(2)** The Chief Management Officer shall be appointed from among persons who have an extensive management or business background and experience with managing large or complex organizations. A person may not be appointed as Chief Management Officer within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
-- **(b)** Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Chief Management Officer shall perform such duties and exercise such powers as the Secretary or the Deputy Secretary may prescribe, including the following:
-  - **(1)** Serving as the chief management officer of the Department of Defense with the mission of managing enterprise business operations and shared services of the Department of Defense.
-  - **(2)** Serving as the principal advisor to the Secretary and the Deputy Secretary on establishing policies for, and directing, all enterprise business operations of the Department, including planning and processes, business transformation, and performance measurement and management activities and programs, including the allocation of resources for enterprise business operations and unifying business management efforts across the Department.
-  - **(3)** Exercising authority, direction, and control over the Defense Agencies and Department of Defense Field Activities providing shared business services for the Department that are designated by the Secretary or the Deputy Secretary for purposes of this paragraph.
-  - **(4)** Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
-  - **(5)** Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
-- **(c)**
-  - **(1)**
-    - **(A)** Beginning in fiscal year 2020, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the head of each Defense Agency and Department of Defense Field Activity specified by the Secretary for purposes of this subsection to transmit the proposed budget of such Agency or Activity for enterprise business operations for a fiscal year, and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year, to the Chief Management Officer for review under subparagraph (B) at the same time the proposed budget is submitted to the Under Secretary of Defense (Comptroller).
-    - **(B)** The Chief Management Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary a report containing the comments of the Chief Management Officer with respect to all such proposed budgets, together with the certification of the Chief Management Officer regarding whether each such proposed budget achieves the required level of efficiency and effectiveness for enterprise business operations, consistent with guidance for budget review established by the Chief Management Officer.
-    - **(C)** Not later than March 31 each year, the Secretary shall submit to Congress a report that includes the following:
-      - **(i)** Each proposed budget for the enterprise business operations of a Defense Agency or Department of Defense Field Activity that was transmitted to the Chief Management Officer under subparagraph (A).
-      - **(ii)** Identification of each proposed budget contained in the most recent report submitted under subparagraph (B) that the Chief Management Officer did not certify as achieving the required level of efficiency and effectiveness for enterprise business operations.
-      - **(iii)** A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets identified in the report.
-      - **(iv)** Any additional comments that the Secretary considers appropriate regarding inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets.
-  - **(2)** Nothing in this subsection shall be construed to modify or interfere with the budget-related responsibilities of the Director of National Intelligence.
-- **(d)** The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
-- **(e)** In this section, the term “enterprise business operations” means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.
+  - **(1)** There is a Performance Improvement Officer of the Department of Defense, to be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service.
+  - **(2)** The Performance Improvement Officer shall be appointed from among persons described in paragraph (1) who have an extensive management or business background and experience with managing large or complex organizations, organizational change management, or business transformation activities.
+- **(b)** The Performance Improvement Officer shall be supported by a Deputy who shall be appointed by the Secretary of Defense from among the ranks of qualified individuals from the senior career civil service. The Deputy shall be the first assistant to the Performance Improvement Officer and shall assist that Officer in the performance of the duties of that position and shall act for, and exercise the powers of, the Officer when that Officer dies, resigns, or is otherwise unable to perform the functions and duties of the office.
+- **(c)** Subject to the authority, direction, and control of the Secretary of Defense and the Deputy Secretary of Defense, the Performance Improvement Officer shall perform such duties, exercise such powers, and have such responsibilities as the Secretary or the Deputy Secretary may prescribe, including the following:
+  - **(1)** Responsibility for updating and implementing the Strategic Management Plan of the Department of Defense required by section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ( Public Law 110–181 ; 10 U.S.C. note prec. 2201).
+  - **(2)** Responsibility for chairing the Defense Performance Improvement Council (or any successor organization).
+  - **(3)** Responsibility for the Defense Performance Improvement Framework, as established under section 125a of this title .
+  - **(4)** Responsibility for the execution of not fewer than two annual meetings of the Defense Management Action Group (or any successor organization) with agendas relating to the Strategic Management Plan described in paragraph (1).
+  - **(5)** Oversight of transformational business modernization and business process re-engineering of the Department of Defense.
+  - **(6)** Oversight and tracking the implementation of—
+    - **(A)** solutions to solve issues identified by the High Risk List maintained by the Government Accountability Office; and
+    - **(B)** other recommendations of such Office.
+  - **(7)** Serving as the lead official devoted to modernizing the business processes of the Department that serve as the baseline for all external acquisition and internal operations.
+  - **(8)** Oversight and management of the Defense Management Institute (as established pursuant to the memorandum of the Director of Administration and Management of the Department dated January 13, 2023 ), or any successor organization.
+  - **(9)** Serving as co-chair of the Defense Business Council in accordance with section 2222(f)(1) of this title .
+  - **(10)** Maintaining authority for convening meetings of personnel and organizations of the Department on matters relating to the duties and responsibilities described in this subsection.

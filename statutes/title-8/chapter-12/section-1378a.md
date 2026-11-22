@@ -3,10 +3,9 @@ title: "Section 1378a - Report on aliens detained"
 usc_title: 8
 usc_section: "1378a"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1378a"
-generated_at: "2026-03-30T10:01:43.806Z"
-status: "active"
+generated_at: "2026-03-30T02:53:10.499Z"
 ---
 
 # § 1378a. Report on aliens detained
@@ -24,7 +23,7 @@ Not later than 7 days after December 20, 2019 , and updated semimonthly thereaft
     - **(F)** the number determined to have a credible or reasonable fear of—
       - **(i)** persecution, as defined in section 1225(b)(1)(B)(v) of this title ; or
       - **(ii)** torture, as defined in section 208.30 of title 8, Code of Federal Regulations (as in effect on January 1, 2018 ); and
-    - **(G)** the number who have been issued a Notice to Appear pursuant to section 1229 of this title , disaggregated by single adults and members of family units;
+    - **(G)** the number who have been issued a Notice to Appear pursuant to section 1229 of this title , disaggregated by single adults and members of family units; 1 1 See Additional Reporting Requirements note below.
   - **(2)** the total number of enrollees in the Alternatives to Detention program and the average length of participation, disaggregated by—
     - **(A)** single adults and family heads of household;
     - **(B)** participants in the family case management program;

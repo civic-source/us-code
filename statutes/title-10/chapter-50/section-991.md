@@ -3,10 +3,9 @@ title: "Section 991 - Management of deployments of members and measurement and d
 usc_title: 10
 usc_section: "991"
 chapter: 50
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 991"
-generated_at: "2026-03-30T10:02:00.800Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.094Z"
 ---
 
 # § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo
@@ -24,7 +23,7 @@ status: "active"
       - **(ii)** a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
   - **(3)** A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.
   - **(4)** The Secretary of Defense shall prescribe a policy that addresses each of the following:
-    - **(A)** The amount. 1 1 So in original. The period probably should not appear. of dwell time a regular member of the armed forces or unit remains at the member’s or unit’s permanent duty station or home port, as the case may be, between deployments.
+    - **(A)** The amount of dwell time a regular member of the armed forces or unit remains at the member’s or unit’s permanent duty station or home port, as the case may be, between deployments.
     - **(B)** The amount of dwell time a reserve member of the armed forces remains at the member’s permanent duty station after completing a deployment of 30 days or more in length.
 - **(b)**
   - **(1)** For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member’s permanent duty station or homeport, as the case may be.

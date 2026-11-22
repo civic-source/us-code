@@ -3,10 +3,9 @@ title: "Section 8 - Authorization of appropriations"
 usc_title: 16
 usc_section: "8"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-30T10:02:22.381Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.881Z"
 ---
 
 # § 583j–8. Authorization of appropriations

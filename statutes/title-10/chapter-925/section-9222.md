@@ -3,13 +3,12 @@ title: "Section 9222 - Rank: commissioned officers serving under temporary appoi
 usc_title: 10
 usc_section: "9222"
 chapter: 925
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9222"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.257Z"
 ---
 
 # § 9222. Rank: commissioned officers serving under temporary appointments
 
-The President may, in accordance with the needs of the Air Force, adjust dates of rank of commissioned officers of the Air Force serving in temporary grades.
+The President may, in accordance with the needs of the Air Force or the Space Force, adjust dates of rank of commissioned officers of the Air Force or the Space Force serving in temporary grades.
 

@@ -3,10 +3,9 @@ title: "Section 1681f - Disclosures to governmental agencies"
 usc_title: 15
 usc_section: "1681f"
 chapter: 41
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681f"
-generated_at: "2026-03-30T10:02:07.487Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.150Z"
 ---
 
 # § 1681f. Disclosures to governmental agencies

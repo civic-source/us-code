@@ -3,10 +3,9 @@ title: "Section 2307 - Form and contents of contracts, mortgages, and other inst
 usc_title: 42
 usc_section: "2307"
 chapter: 24
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2307"
-generated_at: "2026-03-30T10:03:30.136Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.163Z"
 ---
 
 # § 2307. Form and contents of contracts, mortgages, and other instruments

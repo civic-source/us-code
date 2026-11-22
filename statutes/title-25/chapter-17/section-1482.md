@@ -3,10 +3,9 @@ title: "Section 1482 - Premium charges; deposits in Indian Loan Guaranty and Ins
 usc_title: 25
 usc_section: "1482"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 1482"
-generated_at: "2026-03-30T10:02:26.253Z"
-status: "active"
+generated_at: "2026-03-30T02:54:52.817Z"
 ---
 
 # § 1482. Premium charges; deposits in Indian Loan Guaranty and Insurance Fund

@@ -3,10 +3,9 @@ title: "Section 2009 - Definitions"
 usc_title: 7
 usc_section: "2009"
 chapter: 50
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2009"
-generated_at: "2026-03-30T10:01:46.752Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.357Z"
 ---
 
 # § 2009. Definitions

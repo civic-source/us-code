@@ -3,10 +3,9 @@ title: "Section 613 - Identification of reporting redundancies and development o
 usc_title: 6
 usc_section: "613"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 613"
-generated_at: "2026-03-30T10:01:43.254Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.473Z"
 ---
 
 # § 613. Identification of reporting redundancies and development of performance metrics

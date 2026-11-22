@@ -3,10 +3,9 @@ title: "Section 2102 - Limitations on assistance furnished"
 usc_title: 38
 usc_section: "2102"
 chapter: 21
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 2102"
-generated_at: "2026-03-30T10:03:11.960Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.495Z"
 ---
 
 # § 2102. Limitations on assistance furnished
@@ -36,3 +35,34 @@ status: "active"
     - **(A)** is described in subsection (a)(2) or (b)(2) of section 2101 of this title ;
     - **(B)** as of the date of the veteran’s application for assistance under paragraph (1), most recently received assistance under this chapter more than 10 years before such date; and
     - **(C)** lives in a home that the Secretary determines does not have adaptations that are reasonably necessary because of the veteran’s disability.
+- **(g)**
+  - **(1)** Whenever the Secretary finds that an overpayment has been made to, or on behalf of, a person described in paragraph (2), the Secretary shall determine—
+    - **(A)** the amounts to recover, if any; and
+    - **(B)** who is liable to the United States for such overpayment.
+  - **(2)** A person described in this paragraph is any of the following:
+    - **(A)** An individual who applied for assistance—
+      - **(i)** under this chapter; or
+      - **(ii)** under chapter 31 of this title who is pursuing a rehabilitation program under such chapter in acquiring adaptations to a residence.
+    - **(B)** An owner or seller of real estate used, or intended to be used, in connection with assistance under this chapter.
+    - **(C)** A builder, contractor, supplier, tradesperson, corporation, trust, partnership, or other person, who provided services or goods relating to assistance under this chapter.
+    - **(D)** An attorney, escrow agent, or financial institution, that receives, or holds in escrow, funds relating to assistance under this chapter.
+    - **(E)** A surviving spouse, heir, assignee, or successor in interest of or to, any person described in this paragraph.
+  - **(3)**
+    - **(A)** Any overpayment referred to in this subsection may be recovered in the same manner as any other debt due the United States.
+    - **(B)** In recovering the overpayment, the Secretary may charge administrative costs, fees, and interest, as appropriate, in a manner similar to the authority under section 5315 of this title .
+  - **(4)**
+    - **(A)** The recovery of any overpayment referred to in this subsection may be waived by the Secretary.
+    - **(B)** Waiver of any such overpayment as to a person described in paragraph (2) shall in no way release any other person described in such paragraph from liability.
+  - **(5)** The Secretary shall waive recovery under this subsection of any overpayment to a person described in paragraph (2)(A), or a dependent or survivor of such person, that arises from administrative error described in paragraph (7)(A).
+  - **(6)** Nothing in this subsection shall be construed as precluding the imposition of any civil or criminal liability under this title or any other law.
+  - **(7)** The Secretary shall prescribe in regulations what constitutes an overpayment for the purposes of this subsection, which, at a minimum, shall include—
+    - **(A)** administrative error that results in an individual receiving assistance to which that individual is not entitled;
+    - **(B)** the failure of any person described in paragraph (2) to—
+      - **(i)** perform or allow to be performed any act relating to assistance under this chapter; or
+      - **(ii)** compensate any party performing services or supplying goods relating to assistance under this chapter; and
+    - **(C)** any disbursement of funds relating to assistance under this chapter, that, in the sole discretion of the Secretary, constitutes a misuse of such assistance.
+  - **(8)** Prior to collecting an overpayment under this subsection, the Secretary shall provide to the person whom the Secretary has determined liable for such overpayment—
+    - **(A)** notice of the finding by the Secretary of such overpayment;
+    - **(B)** a reasonable opportunity for such person to remedy the circumstances that effectuated the overpayment; and
+    - **(C)** a reasonable opportunity for such person to present evidence to the Secretary that an overpayment was not made.
+  - **(9)** For the purposes of section 511 of this title , a decision to collect an overpayment from a person other than a person described in paragraph (2)(A), or a dependent or survivor of such person, may not be treated as a decision that affects the provision of benefits.

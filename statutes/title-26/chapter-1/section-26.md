@@ -3,10 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-30T10:02:53.321Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.589Z"
 ---
 
 # § 26. Limitation based on tax liability; definition of tax liability
@@ -40,6 +39,7 @@ status: "active"
     - **(U)** section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
     - **(V)** subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
     - **(W)** section 36(f) (relating to recapture of homebuyer credit),
-    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation), and
-    - **(Y)** section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses).
+    - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation),
+    - **(Y)** section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses), and
+    - **(Z)** section 24(j)(2) (relating to excess advance payments).
 - **(c)** For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).

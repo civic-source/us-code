@@ -3,10 +3,9 @@ title: "Section 139B - Benefits provided to volunteer firefighters and emergency
 usc_title: 26
 usc_section: "139B"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 139B"
-generated_at: "2026-03-30T10:02:53.347Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.628Z"
 ---
 
 # § 139B. Benefits provided to volunteer firefighters and emergency medical responders
@@ -25,6 +24,3 @@ status: "active"
   - **(3)** The term “qualified volunteer emergency response organization” means any volunteer organization—
     - **(A)** which is organized and operated to provide firefighting or emergency medical services for persons in the State or political subdivision, as the case may be, and
     - **(B)** which is required (by written agreement) by the State or political subdivision to furnish firefighting or emergency medical services in such State or political subdivision.
-- **(d)** This section shall not apply with respect to taxable years beginning—
-  - **(1)** after December 31, 2010 , and before January 1, 2020 , or
-  - **(2)** after December 31, 2020 .

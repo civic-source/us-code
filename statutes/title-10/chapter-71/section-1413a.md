@@ -3,10 +3,9 @@ title: "Section 1413a - Combat-related special compensation"
 usc_title: 10
 usc_section: "1413a"
 chapter: 71
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1413a"
-generated_at: "2026-03-30T10:02:00.819Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.120Z"
 ---
 
 # § 1413a. Combat-related special compensation
@@ -31,7 +30,7 @@ status: "active"
     - **(D)** through an instrumentality of war.
 - **(f)** Subsection (d) of section 1414 of this title provides for coordination between benefits under that section and under this section.
 - **(g)** Payments under this section are not retired pay.
-- **(h)** Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
+- **(h)** Payments under this section for a member of the Army, Navy, Air Force, Marine Corps, or Space Force shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
 - **(i)** In this section:
   - **(1)** The term “service-connected” has the meaning given such term in section 101 of title 38 .
   - **(2)** The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.

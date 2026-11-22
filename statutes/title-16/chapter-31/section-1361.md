@@ -3,10 +3,9 @@ title: "Section 1361 - Congressional findings and declaration of policy"
 usc_title: 16
 usc_section: "1361"
 chapter: 31
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1361"
-generated_at: "2026-03-30T10:02:22.434Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.957Z"
 ---
 
 # § 1361. Congressional findings and declaration of policy

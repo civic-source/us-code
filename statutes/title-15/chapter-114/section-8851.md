@@ -3,10 +3,9 @@ title: "Section 8851 - Quantum information science research program"
 usc_title: 15
 usc_section: "8851"
 chapter: 114
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 8851"
-generated_at: "2026-03-30T10:02:07.562Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.234Z"
 ---
 
 # § 8851. Quantum information science research program

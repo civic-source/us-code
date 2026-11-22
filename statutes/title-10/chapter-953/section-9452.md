@@ -3,10 +3,9 @@ title: "Section 9452 - Cadets: hazing"
 usc_title: 10
 usc_section: "9452"
 chapter: 953
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9452"
-generated_at: "2026-03-30T10:02:00.905Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.259Z"
 ---
 
 # § 9452. Cadets: hazing
@@ -16,4 +15,4 @@ status: "active"
   - **(2)** designed to prevent that practice; and
   - **(3)** prescribing dismissal, suspension, or other adequate punishment for violations.
 - **(b)** If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
-- **(c)** A cadet dismissed from the Academy for hazing may not be reappointed as an Air Force cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, until two years after the graduation of his class.
+- **(c)** A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, or in the Space Force, until two years after the graduation of his class.

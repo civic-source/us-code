@@ -3,10 +3,9 @@ title: "Section 2306a - Prohibitions"
 usc_title: 20
 usc_section: "2306a"
 chapter: 44
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 2306a"
-generated_at: "2026-03-30T10:02:18.626Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.172Z"
 ---
 
 # § 2306a. Prohibitions

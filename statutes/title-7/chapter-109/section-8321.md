@@ -3,10 +3,9 @@ title: "Section 8321 - Pest and Disease Response Fund"
 usc_title: 7
 usc_section: "8321"
 chapter: 109
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8321"
-generated_at: "2026-03-30T10:01:46.842Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.475Z"
 ---
 
 # § 8321. Pest and Disease Response Fund

@@ -3,10 +3,9 @@ title: "Section 6905 - Application of chapter and integration with other Acts"
 usc_title: 42
 usc_section: "6905"
 chapter: 82
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6905"
-generated_at: "2026-03-30T10:03:30.224Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.270Z"
 ---
 
 # § 6905. Application of chapter and integration with other Acts

@@ -3,13 +3,12 @@ title: "Section 6436 - Termination"
 usc_title: 22
 usc_section: "6436"
 chapter: 73
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 6436"
-generated_at: "2026-03-30T10:02:42.457Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.428Z"
 ---
 
 # § 6436. Termination
 
-The Commission shall terminate on September 30, 2022 .
+The Commission shall terminate on September 30, 2026 .
 

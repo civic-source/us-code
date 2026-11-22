@@ -3,10 +3,9 @@ title: "Section 1154 - Procedure for granting immigrant status"
 usc_title: 8
 usc_section: "1154"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1154"
-generated_at: "2026-03-30T10:01:43.781Z"
-status: "active"
+generated_at: "2026-03-30T02:53:10.475Z"
 ---
 
 # § 1154. Procedure for granting immigrant status
@@ -63,7 +62,9 @@ status: "active"
     - **(G)**
       - **(i)** Any alien (other than a special immigrant under section 1101(a)(27)(D) of this title ) desiring to be classified under section 1153(b)(4) of this title , or any person on behalf of such an alien, may file a petition with the Attorney General for such classification.
       - **(ii)** Aliens claiming status as a special immigrant under section 1101(a)(27)(D) of this title may file a petition only with the Secretary of State and only after notification by the Secretary that such status has been recommended and approved pursuant to such section.
-    - **(H)** Any alien desiring to be classified under section 1153(b)(5) of this title may file a petition with the Attorney General for such classification.
+    - **(H)**
+      - **(i)** Any alien seeking classification under section 1153(b)(5) of this title may file a petition for such classification with the Secretary of Homeland Security. An alien seeking to pool his or her investment with 1 or more additional aliens seeking classification under section 1153(b)(5) of this title shall file for such classification in accordance with section 1153(b)(5)(E) of this title , or before March 15, 2022 , in accordance with section 1153(b)(5) of this title . An alien petitioning for classification under section 1153(b)(5)(E) of this title may file a petition with the Secretary after a regional center has filed an application for approval of an investment under section 1153(b)(5)(F) of this title .
+      - **(ii)** A petitioner described in clause (i) shall establish eligibility at the time he or she files a petition for classification under section 1153(b)(5) of this title . A petitioner who was eligible for such classification at the time of such filing shall be deemed eligible for such classification at the time such petition is adjudicated, subject to the approval of the petitioner’s associated application under section 1153(b)(5)(F) of this title , if applicable.
     - **(I)**
       - **(i)** Any alien desiring to be provided an immigrant visa under section 1153(c) of this title may file a petition at the place and time determined by the Secretary of State by regulation. Only one such petition may be filed by an alien with respect to any petitioning period established. If more than one petition is submitted all such petitions submitted for such period by the alien shall be voided.
       - **(ii)**

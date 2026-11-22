@@ -3,10 +3,9 @@ title: "Section 464e - Short-term medical services for students"
 usc_title: 6
 usc_section: "464e"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 464e"
-generated_at: "2026-03-30T10:01:43.248Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.465Z"
 ---
 
 # § 464e. Short-term medical services for students

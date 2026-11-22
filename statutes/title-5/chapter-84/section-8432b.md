@@ -3,10 +3,9 @@ title: "Section 8432b - Contributions of persons who perform military service"
 usc_title: 5
 usc_section: "8432b"
 chapter: 84
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 8432b"
-generated_at: "2026-03-30T10:01:40.577Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.057Z"
 ---
 
 # § 8432b. Contributions of persons who perform military service
@@ -49,6 +48,6 @@ status: "active"
     - **(A)** a separation from civilian service in order to perform the military service on which the employee’s restoration or reemployment rights are based shall be disregarded; and
     - **(B)** such employee shall be credited with a period of civilian service equal to the period referred to in subsection (b)(2)(B).
   - **(2)**
-    - **(A)** An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h), 1 1 See References in Text note below. as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
+    - **(A)** An employee to whom this section applies may elect, for purposes of subsection (d) or (f) of section 8433, as the case may be, to have such employee’s separation (described in subsection (a)(1)) treated as if it had never occurred.
     - **(B)** An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 - **(i)** The Executive Director shall prescribe regulations to carry out this section.

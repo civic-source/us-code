@@ -3,10 +3,9 @@ title: "Section 8480 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "8480"
 chapter: 853
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8480"
-generated_at: "2026-03-30T10:02:00.895Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.244Z"
 ---
 
 # § 8480. Policy on sexual harassment and sexual violence
@@ -32,6 +31,10 @@ status: "active"
       - **(ii)** the enforcement of such policies;
       - **(iii)** the incidence of sexual harassment and sexual violence involving Academy personnel; and
       - **(iv)** any other issues relating to sexual harassment and sexual violence involving Academy personnel.
+  - **(3)**
+    - **(A)** The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+    - **(B)** The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+    - **(C)** The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
 - **(d)**
   - **(1)** The Secretary of the Navy shall direct the Superintendent of the Naval Academy to submit to the Secretary a report on sexual harassment and sexual violence involving midshipmen or other personnel at the Academy for each Academy program year.
   - **(2)** Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:

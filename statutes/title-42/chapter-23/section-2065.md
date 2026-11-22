@@ -3,10 +3,9 @@ title: "Section 2065 - Improving the reliability of domestic medical isotope sup
 usc_title: 42
 usc_section: "2065"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2065"
-generated_at: "2026-03-30T10:03:30.121Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.148Z"
 ---
 
 # § 2065. Improving the reliability of domestic medical isotope supply
@@ -27,7 +26,7 @@ status: "active"
     - **(C)** the reactor operator has provided a current report on the status of its efforts to convert the reactor to an alternative nuclear reactor fuel enriched in the isotope U–235 to less than 20 percent, and an anticipated schedule for completion of conversion.
   - **(4)** The Secretary shall—
     - **(A)** develop a program plan and annually update the program plan through public workshops; and
-    - **(B)** use the Nuclear Science Advisory Committee to conduct annual reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
+    - **(B)** use the Nuclear Science Advisory Committee to conduct triennial reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
 - **(b)** The Secretary shall carry out a program to provide assistance for—
   - **(1)** the development of fuels, targets, and processes for domestic molybdenum-99 production that do not use highly enriched uranium; and
   - **(2)** commercial operations using the fuels, targets, and processes described in paragraph (1).

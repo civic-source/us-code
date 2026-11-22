@@ -3,10 +3,9 @@ title: "Section 1725 - Senior Military Acquisition Advisors"
 usc_title: 10
 usc_section: "1725"
 chapter: 87
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1725"
-generated_at: "2026-03-30T10:02:00.831Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.135Z"
 ---
 
 # § 1725. Senior Military Acquisition Advisors
@@ -29,6 +28,6 @@ status: "active"
   - **(1)** There may not be more than 15 Senior Military Acquisition Advisors at any time, of whom—
     - **(A)** not more than five may be officers of the Army;
     - **(B)** not more than five may be officers of the Navy and Marine Corps; and
-    - **(C)** not more than five may be officers of the Air Force.
+    - **(C)** not more than five may be officers of the Air Force and Space Force.
   - **(2)** Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition and Sustainment.
 - **(f)** An officer who is a Senior Military Acquisition Advisor shall have as the officer’s primary duty providing strategic, technical, and programmatic advice to the service acquisition executive of the officer’s military department on matters pertaining to the Defense Acquisition System, including matters pertaining to procurement, research and development, advanced technology, test and evaluation, production, program management, systems engineering, and lifecycle logistics.

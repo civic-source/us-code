@@ -3,18 +3,17 @@ title: "Section 9381 - Fatality reviews"
 usc_title: 10
 usc_section: "9381"
 chapter: 949
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9381"
-generated_at: "2026-03-30T10:02:00.904Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.258Z"
 ---
 
 # § 9381. Fatality reviews
 
 - **(a)** The Secretary of the Air Force shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
-  - **(1)** A member of the Air Force on active duty.
-  - **(2)** A current or former dependent of a member of the Air Force on active duty.
-  - **(3)** A current or former intimate partner who has a child in common or has shared a common domicile with a member of the Air Force on active duty.
+  - **(1)** A member of the Air Force or the Space Force on active duty.
+  - **(2)** A current or former dependent of a member of the Air Force or the Space Force on active duty.
+  - **(3)** A current or former intimate partner who has a child in common or has shared a common domicile with a member of the Air Force or the Space Force on active duty.
 - **(b)** The report of a fatality review under subsection (a) shall, at a minimum, include the following:
   - **(1)** An executive summary.
   - **(2)** Data setting forth victim demographics, injuries, autopsy findings, homicide or suicide methods, weapons, police information, assailant demographics, and household and family information.

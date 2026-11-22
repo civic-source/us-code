@@ -3,10 +3,9 @@ title: "Section 4012 - Termination of appointments of consular agents and foreig
 usc_title: 22
 usc_section: "4012"
 chapter: 52
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 4012"
-generated_at: "2026-03-30T10:02:42.432Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.401Z"
 ---
 
 # § 4012. Termination of appointments of consular agents and foreign national employees

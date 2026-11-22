@@ -3,10 +3,9 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T10:02:53.461Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.772Z"
 ---
 
 # § 1391. Designation procedure
@@ -19,7 +18,7 @@ status: "active"
 - **(d)**
   - **(1)** Any designation under this section shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
     - **(A)**
-      - **(i)** in the case of an empowerment zone, December 31, 2020 , or
+      - **(i)** in the case of an empowerment zone, December 31, 2025 , or
       - **(ii)** in the case of an enterprise community, the close of the 10th calendar year beginning on or after such date of designation,
     - **(B)** the termination date designated by the State and local governments as provided for in their nomination, or
     - **(C)** the date the appropriate Secretary revokes the designation.

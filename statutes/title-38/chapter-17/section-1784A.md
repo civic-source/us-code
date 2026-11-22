@@ -3,10 +3,9 @@ title: "Section 1784A - Examination and treatment for emergency medical conditio
 usc_title: 38
 usc_section: "1784A"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "38 U.S.C. § 1784A"
-generated_at: "2026-03-30T10:03:11.953Z"
-status: "active"
+generated_at: "2026-03-30T02:55:53.488Z"
 ---
 
 # § 1784A. Examination and treatment for emergency medical conditions and women in labor

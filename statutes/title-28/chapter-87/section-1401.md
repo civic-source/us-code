@@ -3,10 +3,9 @@ title: "Section 1401 - Stockholder’s derivative action"
 usc_title: 28
 usc_section: "1401"
 chapter: 87
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "28 U.S.C. § 1401"
-generated_at: "2026-03-30T10:02:48.632Z"
-status: "active"
+generated_at: "2026-03-30T02:55:30.140Z"
 ---
 
 # § 1401. Stockholder’s derivative action

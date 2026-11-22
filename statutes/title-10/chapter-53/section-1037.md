@@ -3,10 +3,9 @@ title: "Section 1037 - Counsel before foreign judicial tribunals and administrat
 usc_title: 10
 usc_section: "1037"
 chapter: 53
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1037"
-generated_at: "2026-03-30T10:02:00.801Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.096Z"
 ---
 
 # § 1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail

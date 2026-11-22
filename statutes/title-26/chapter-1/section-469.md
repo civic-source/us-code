@@ -3,10 +3,9 @@ title: "Section 469 - Passive activity losses and credits limited"
 usc_title: 26
 usc_section: "469"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 469"
-generated_at: "2026-03-30T10:02:53.407Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.706Z"
 ---
 
 # § 469. Passive activity losses and credits limited
@@ -120,8 +119,8 @@ status: "active"
       - **(iv)** then, to the portion of such credit to which subparagraph (C) applies.
     - **(E)** For purposes of this paragraph, adjusted gross income shall be determined without regard to—
       - **(i)** any amount includible in gross income under section 86,
-      - **(ii)** the amounts excludable from gross income under sections 135 and 137,
-      - **(iii)** the amounts allowable as a deduction under sections 219, 221, 222, and 250, and
+      - **(ii)** the amounts excludable from gross income under sections 85(c), 135, and 137,
+      - **(iii)** the amounts allowable as a deduction under sections 219, 221, and 250, and
       - **(iv)** any passive activity loss or any loss allowable by reason of subsection (c)(7).
   - **(4)**
     - **(A)** In the case of taxable years of an estate ending less than 2 years after the date of the death of the decedent, this subsection shall apply to all rental real estate activities with respect to which such decedent actively participated before his death.

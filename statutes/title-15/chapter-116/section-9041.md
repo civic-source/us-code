@@ -3,10 +3,9 @@ title: "Section 9041 - Definitions"
 usc_title: 15
 usc_section: "9041"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9041"
-generated_at: "2026-03-30T10:02:07.566Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.240Z"
 ---
 
 # § 9041. Definitions
@@ -34,3 +33,4 @@ In this part:
     - **(C)** any of the territories and possessions of the United States;
     - **(D)** any bi-State or multi-State entity; and
     - **(E)** any Indian Tribe.
+  - **(11)** The term “businesses critical to maintaining national security” means those businesses that manufacture or produce aerospace-related products, civil or defense, including those that design, integrate, assemble, supply, maintain, and repair such products, and other businesses involved in aerospace-related manufacturing or production as further defined by the Secretary, in consultation with the Secretary of Defense and the Secretary of Transportation. For purposes of the preceding sentence, aerospace-related products include, but are not limited to, components, parts, or systems of aircraft, aircraft engines, or appliances for inclusion in an aircraft, aircraft engine, or appliance.

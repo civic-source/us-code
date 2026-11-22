@@ -3,10 +3,9 @@ title: "Section 155 - Joint Staff"
 usc_title: 10
 usc_section: "155"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 155"
-generated_at: "2026-03-30T10:02:00.764Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.041Z"
 ---
 
 # § 155. Joint Staff
@@ -16,7 +15,7 @@ status: "active"
   - **(2)** Officers of the armed forces (other than the Coast Guard) assigned to serve on the Joint Staff shall be selected by the Chairman in approximately equal numbers from—
     - **(A)** the Army;
     - **(B)** the Navy and the Marine Corps; and
-    - **(C)** the Air Force.
+    - **(C)** the Air Force and the Space Force.
   - **(3)** Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 - **(b)** The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 - **(c)** The Chairman of the Joint Chiefs of Staff manages the Joint Staff and the Director of the Joint Staff. The Joint Staff shall perform such duties as the Chairman prescribes and shall perform such duties under such procedures as the Chairman prescribes.

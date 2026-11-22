@@ -3,10 +3,9 @@ title: "Section 2901 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "2901"
 chapter: 62
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2901"
-generated_at: "2026-03-30T10:01:46.778Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.392Z"
 ---
 
 # § 2901. Congressional findings and declaration of policy

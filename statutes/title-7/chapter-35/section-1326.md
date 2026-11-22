@@ -3,10 +3,9 @@ title: "Section 1326 - Adjustment of farm marketing quotas"
 usc_title: 7
 usc_section: "1326"
 chapter: 35
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1326"
-generated_at: "2026-03-30T10:01:46.711Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.303Z"
 ---
 
 # § 1326. Adjustment of farm marketing quotas

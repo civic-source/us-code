@@ -3,10 +3,9 @@ title: "Section 4579 - Student loan repayment program for Senate employees"
 usc_title: 2
 usc_section: "4579"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 4579"
-generated_at: "2026-03-30T10:01:29.413Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.833Z"
 ---
 
 # § 4579. Student loan repayment program for Senate employees
@@ -53,8 +52,8 @@ status: "active"
       - **(ii)** shall end on the last day of the last full pay period ending on or before the departure date of the departing Senator or Vice President.
   - **(2)**
     - **(A)** The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—
-      - **(i)** $500 in any month; or
-      - **(ii)** a total of $40,000.
+      - **(i)** $833 in any month; or
+      - **(ii)** a total of $80,000.
     - **(B)** Any student loan payment made under this section in any month may not result in the sum of the payment and the compensation of an employee for that month exceeding 1 ⁄ 12 th of the applicable annual maximum gross compensation limitation under section 4575(d)(2), (e), or (f) of this title.
   - **(3)** Student loan payments made under this section under a service agreement shall begin the first day of the pay period after the date on which the agreement is signed and received by the Secretary, and shall be made on a monthly basis.
 - **(d)**
@@ -117,7 +116,7 @@ status: "active"
   - **(3)** In the case of an employing office that is a Committee of the Senate, the funds allocated under this subsection shall be apportioned between the majority and minority staff of the committee in the same manner as amounts are apportioned between the staffs for salaries.
 - **(h)**
   - **(1)** There are authorized to be appropriated (or otherwise made available from appropriations) to carry out this section the following amounts for each fiscal year:
-    - **(A)** For each employing office that is the personal office of a Senator, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
-    - **(B)** For each other employing office, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
+    - **(A)** For each employing office that is the personal office of a Senator, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
+    - **(B)** For each other employing office, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
   - **(2)** Amounts provided under this section shall be subject to annual appropriations.
 - **(i)** This section shall apply to fiscal year 2002 and each fiscal year thereafter.

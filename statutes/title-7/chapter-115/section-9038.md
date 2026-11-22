@@ -3,15 +3,14 @@ title: "Section 9038 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "9038"
 chapter: 115
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 9038"
-generated_at: "2026-03-30T10:01:46.850Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.486Z"
 ---
 
 # § 9038. Special competitive provisions for extra long staple cotton
 
-- **(a)** Notwithstanding any other provision of law, during the period beginning on February 7, 2014 , through July 31, 2024 , the Secretary shall carry out a program—
+- **(a)** Notwithstanding any other provision of law, during the period beginning on February 7, 2014 , through July 31, 2032 , the Secretary shall carry out a program—
   - **(1)** to maintain and expand the domestic use of extra long staple cotton produced in the United States;
   - **(2)** to increase exports of extra long staple cotton produced in the United States; and
   - **(3)** to ensure that extra long staple cotton produced in the United States remains competitive in world markets.

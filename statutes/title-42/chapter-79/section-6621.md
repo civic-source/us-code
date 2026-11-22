@@ -3,10 +3,9 @@ title: "Section 6621 - Coordination of Federal STEM education"
 usc_title: 42
 usc_section: "6621"
 chapter: 79
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 6621"
-generated_at: "2026-03-30T10:03:30.219Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.264Z"
 ---
 
 # § 6621. Coordination of Federal STEM education
@@ -35,5 +34,7 @@ status: "active"
   - **(4)** except for the initial annual report, a description of the progress made in carrying out the implementation plan, including a description of the outcome of any program assessments completed in the previous year, and any changes made to that plan since the previous annual report;
   - **(5)** a description of how the participating Federal agencies will disseminate information about federally supported resources for STEM education practitioners, including teacher professional development programs, to States and to STEM education practitioners, including to teachers and administrators in schools that meet the criteria described in subsection (c)(1)(A) and (B) of section 7381j of this title ;
   - **(6)** a description of all consolidations and terminations of Federal STEM education programs and activities implemented in the previous fiscal year, including an explanation for the consolidations and terminations;
-  - **(7)** recommendations for reforms, consolidations, and terminations of STEM education programs or activities in the upcoming fiscal year; and
-  - **(8)** a description of any significant new STEM education public-private partnerships.
+  - **(7)** recommendations for reforms, consolidations, and terminations of STEM education programs or activities in the upcoming fiscal year;
+  - **(8)** a description of any significant new STEM education public-private partnerships 1 1 So in original. Probably should be followed by a semicolon.
+  - **(9)** an account of Federal research agency investments in HBCUs, TCUs, and MSIs, including, to the degree practicable, data on the level of participation of HBCUs, TCUs, and MSIs as prime recipients, contractors, subrecipients, or subcontractors of an award, or reasonable estimates thereof; and
+  - **(10)** a description of material changes to the implementation of section 10522 of the Research and Development, Competition, and Innovation Act.

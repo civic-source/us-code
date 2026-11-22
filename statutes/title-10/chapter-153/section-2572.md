@@ -3,10 +3,9 @@ title: "Section 2572 - Documents, historical artifacts, and condemned or obsolet
 usc_title: 10
 usc_section: "2572"
 chapter: 153
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2572"
-generated_at: "2026-03-30T10:02:00.867Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.163Z"
 ---
 
 # § 2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
@@ -36,7 +35,7 @@ status: "active"
 - **(e)**
   - **(1)** Except as provided in paragraph (3), and notwithstanding this section or any other provision of law, the President may not transfer a veterans memorial object to a foreign country or an entity controlled by a foreign government, or otherwise transfer or convey such an object to any person or entity for purposes of the ultimate transfer or conveyance of the object to a foreign country or entity controlled by a foreign government.
   - **(2)** In this subsection:
-    - **(A)** The term “entity controlled by a foreign government” has the meaning given that term in section 2536(c)(1) of this title .
+    - **(A)** The term “entity controlled by a foreign government” has the meaning given that term in section 4874(c)(1) of this title .
     - **(B)** The term “veterans memorial object” means any object, including a physical structure or portion thereof, that—
       - **(i)** is located at a cemetery of the National Cemetery System, war memorial, or military installation in the United States;
       - **(ii)** is dedicated to, or otherwise memorializes, the death in combat or combat-related duties of members of the armed forces; and

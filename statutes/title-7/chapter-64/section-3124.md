@@ -3,10 +3,9 @@ title: "Section 3124 - Existing research programs"
 usc_title: 7
 usc_section: "3124"
 chapter: 64
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 3124"
-generated_at: "2026-03-30T10:01:46.780Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.394Z"
 ---
 
 # § 3124. Existing research programs

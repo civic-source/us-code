@@ -3,10 +3,9 @@ title: "Section 2101 - Original appointment of permanent commissioned officers"
 usc_title: 14
 usc_section: "2101"
 chapter: 21
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2101"
-generated_at: "2026-03-30T10:02:03.980Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.497Z"
 ---
 
 # § 2101. Original appointment of permanent commissioned officers
@@ -19,6 +18,6 @@ status: "active"
     - **(D)** Licensed officers of the United States merchant marine who have served 2 or more years aboard a vessel of the United States in the capacity of a licensed officer.
   - **(2)** Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate.
   - **(3)** Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.
-- **(b)** No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
+- **(b)** No individual shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 - **(c)** Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 - **(d)** For the purposes of this section, the term “original”, with respect to the appointment of a member of the Coast Guard, refers to that member’s most recent appointment in the Coast Guard that is neither a promotion nor a demotion.

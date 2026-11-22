@@ -3,10 +3,9 @@ title: "Section 152 - Proceeds of sales of Indian lands"
 usc_title: 25
 usc_section: "152"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "25 U.S.C. § 152"
-generated_at: "2026-03-30T10:02:26.239Z"
-status: "active"
+generated_at: "2026-03-30T02:54:52.799Z"
 ---
 
 # § 152. Proceeds of sales of Indian lands

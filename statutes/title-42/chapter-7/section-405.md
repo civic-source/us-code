@@ -3,10 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T10:03:29.885Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.856Z"
 ---
 
 # § 405. Evidence, procedure, and certification for payments
@@ -320,16 +319,33 @@ status: "active"
   - **(1)** The Commissioner of Social Security shall undertake to establish a program under which—
     - **(A)** States (or political subdivisions thereof) voluntarily contract with the Commissioner of Social Security to furnish the Commissioner of Social Security periodically with information (in a form established by the Commissioner of Social Security in consultation with the States) concerning individuals with respect to whom death certificates (or equivalent documents maintained by the States or subdivisions) have been officially filed with them; and
     - **(B)** there will be (i) a comparison of such information on such individuals with information on such individuals in the records being used in the administration of this chapter, (ii) validation of the results of such comparisons, and (iii) corrections in such records to accurately reflect the status of such individuals.
-  - **(2)** Each State (or political subdivision thereof) which furnishes the Commissioner of Social Security with information on records of deaths in the State or subdivision under this subsection may be paid by the Commissioner of Social Security from amounts available for administration of this chapter the reasonable costs (established by the Commissioner of Social Security in consultations with the States) for transcribing and transmitting such information to the Commissioner of Social Security.
+  - **(2)**
+    - **(A)** Each State (or political subdivision thereof) which furnishes the Commissioner of Social Security with information on records of deaths in the State or subdivision under this subsection shall be paid by the Commissioner of Social Security for the following:
+      - **(i)** A fee, to be established pursuant to subparagraph (B), for the use of such information by—
+        - **(I)** the Commissioner; and
+        - **(II)** any other agency that receives such information from the Commissioner and is subject to the requirements of subparagraph 8 8 So in original. Probably should be “paragraph”. (3)(A).
+      - **(ii)** The full documented cost to the State of transmitting such information to the Commissioner, including the costs of maintaining, enhancing, and operating any electronic system used solely for transmitting such information to the Commissioner.
+    - **(B)** The fee for the use of such information shall be established by the Commissioner of Social Security in consultations with the States, and shall include—
+      - **(i)** a share of the costs to the State associated with collecting and maintaining such information; ensuring the completeness, timeliness, and accuracy of such information; and maintaining, enhancing, and operating the electronic systems that allow for the transmission of such information; and
+      - **(ii)** a fee for the right to use such information.
+    - **(C)** The Commissioner of Social Security shall not use amounts provided for a fiscal year in an appropriation Act under the heading “Limitation on Administrative Expenses” for the Social Security Administration for the amounts under paragraph (3)(A), except as the Commissioner determines is necessary on a temporary basis and subject to reimbursement under such paragraph.
   - **(3)** In the case of individuals with respect to whom federally funded benefits are provided by (or through) a Federal or State agency other than under this chapter, the Commissioner of Social Security shall to the extent feasible provide such information through a cooperative arrangement with such agency, for ensuring proper payment of those benefits with respect to such individuals if—
-    - **(A)** under such arrangement the agency provides reimbursement to the Commissioner of Social Security for the reasonable cost of carrying out such arrangement, and
+    - **(A)** under such arrangement the agency provides reimbursement to the Commissioner of Social Security for—
+      - **(i)** the agency’s proportional share (as determined by the Commissioner in consultation with the head of the agency) of—
+        - **(I)** the payments to States required under paragraph (2)(A);
+        - **(II)** the costs to the Commissioner of developing the contracts described in paragraph (1); and
+        - **(III)** the costs to the Commissioner of carrying out the study required under section 802 of division FF of the Consolidated Appropriations Act, 2021; and
+      - **(ii)** the full documented cost to the Commissioner of developing such arrangement and transmitting such information to the agency; and
     - **(B)** such arrangement does not conflict with the duties of the Commissioner of Social Security under paragraph (1).
   - **(4)** The Commissioner of Social Security may enter into similar agreements with States to provide information for their use in programs wholly funded by the States if the requirements of subparagraphs (A) and (B) of paragraph (3) are met.
-  - **(5)** The Commissioner of Social Security may use or provide for the use of such records as may be corrected under this section, subject to such safeguards as the Commissioner of Social Security determines are necessary or appropriate to protect the information from unauthorized use or disclosure, for statistical and research activities conducted by Federal and State agencies.
+  - **(5)** The Commissioner of Social Security may use or provide for the use of all information regarding deceased individuals furnished to or maintained by the Commissioner under this subsection, subject to such safeguards as the Commissioner of Social Security determines are necessary or appropriate to protect the information from unauthorized use or disclosure, for statistical and research activities conducted by a Federal or State agency, provided that the requirements of subparagraphs (A) and (B) of paragraph (3) are met.
   - **(6)** Information furnished to the Commissioner of Social Security under this subsection may not be used for any purpose other than the purpose described in this subsection and is exempt from disclosure under section 552 of title 5 and from the requirements of section 552a of such title.
-  - **(7)** The Commissioner of Social Security shall include information on the status of the program established under this section and impediments to the effective implementation of the program in the 1984 report required under section 904 of this title .
-  - **(8)**
-    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002—
+  - **(7)** In the event an individual is incorrectly identified as deceased in the records furnished by a State to the Commissioner of Social Security under this subsection and the individual provides the Commissioner with the necessary documentation to correct such identification, the Commissioner may—
+    - **(A)** notify the State of the error in the records so furnished; and
+    - **(B)** inform the individual of the source of the incorrect death data.
+  - **(8)** The Commissioner of Social Security shall include information on the status of the program established under this section and impediments to the effective implementation of the program in the 1984 report required under section 904 of this title .
+  - **(9)**
+    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002 [ 52 U.S.C. 20901 et seq.]—
       - **(i)** enter into an agreement with such official for the purpose of verifying applicable information, so long as the requirements of subparagraphs (A) and (B) of paragraph (3) are met; and
       - **(ii)** include in such agreement safeguards to assure the maintenance of the confidentiality of any applicable information disclosed and procedures to permit such agency to use the applicable information for the purpose of maintaining its records.
     - **(B)** Information provided pursuant to an agreement under this paragraph shall be provided at such time, in such place, and in such manner as the Commissioner determines appropriate.
@@ -340,12 +356,13 @@ status: "active"
         - **(II)** such individual is shown on the records of the Commissioner as being deceased; and
       - **(ii)** the term “State driver’s license agency” means the State agency which issues driver’s licenses to individuals within the State and maintains records relating to such licensure.
     - **(E)** Nothing in this paragraph may be construed to require the provision of applicable information with regard to a request for a record of an individual if the Commissioner determines there are exceptional circumstances warranting an exception (such as safety of the individual or interference with an investigation).
-    - **(F)** Applicable information provided by the Commission pursuant to an agreement under this paragraph or by an individual to any agency that has entered into an agreement under this paragraph shall be considered as strictly confidential and shall be used only for the purposes described in this paragraph and for carrying out an agreement under this paragraph. Any officer or employee or former officer or employee of a State, or any officer or employee or former officer or employee of a contractor of a State who, without the written authority of the Commissioner, publishes or communicates any applicable information in such individual’s possession by reason of such employment or position as such an officer, shall be guilty of a felony and upon conviction thereof shall be fined or imprisoned, or both, as described in section 408 of this title .
-  - **(9)**
+    - **(F)** Applicable information provided by the Commissioner pursuant to an agreement under this paragraph or by an individual to any agency that has entered into an agreement under this paragraph shall be considered as strictly confidential and shall be used only for the purposes described in this paragraph and for carrying out an agreement under this paragraph. Any officer or employee or former officer or employee of a State, or any officer or employee or former officer or employee of a contractor of a State who, without the written authority of the Commissioner, publishes or communicates any applicable information in such individual’s possession by reason of such employment or position as such an officer, shall be guilty of a felony and upon conviction thereof shall be fined or imprisoned, or both, as described in section 408 of this title .
+  - **(10)**
     - **(A)** The Commissioner of Social Security shall, upon the request of the Secretary or the Inspector General of the Department of Health and Human Services—
-      - **(i)** enter into an agreement with the Secretary or such Inspector General for the purpose of matching data in the system of records of the Social Security Administration and the system of records of the Department of Health and Human Services; and
+      - **(i)** enter into an agreement with the Secretary or such Inspector General for the purpose of matching data in the system of records of the Social Security Administration and the system of records of the Department of Health and Human Services, provided that the requirements of subparagraphs (A) and (B) of paragraph (3) are met with respect to such agreement; and
       - **(ii)** include in such agreement safeguards to assure the maintenance of the confidentiality of any information disclosed.
     - **(B)** For purposes of this paragraph, the term “system of records” has the meaning given such term in section 552a(a)(5) of title 5 .
+  - **(11)** During the 3-year period that begins on the effective date of this paragraph, the Commissioner of Social Security shall, to the extent feasible, provide information furnished to the Commissioner under paragraph (1) to the agency operating the Do Not Pay working system described in section 3354(c) of title 31 to prevent improper payments to deceased individuals through a cooperative arrangement with such agency, provided that the requirements of subparagraphs (A) and (B) of paragraph (3) are met with respect to such arrangement with such agency.
 - **(s)** The Commissioner of Social Security shall take such actions as are necessary to ensure that any notice to one or more individuals issued pursuant to this subchapter by the Commissioner of Social Security or by a State agency—
   - **(1)** is written in simple and clear language, and
   - **(2)** includes the address and telephone number of the local office of the Social Security Administration which serves the recipient.

@@ -3,10 +3,9 @@ title: "Section 80508 - Amendments to Convention"
 usc_title: 46
 usc_section: "80508"
 chapter: 805
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 80508"
-generated_at: "2026-03-30T10:03:46.799Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.589Z"
 ---
 
 # § 80508. Amendments to Convention

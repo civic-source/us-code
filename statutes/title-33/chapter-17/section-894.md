@@ -3,10 +3,9 @@ title: "Section 894 - Actions to address sexual harassment at National Oceanic a
 usc_title: 33
 usc_section: "894"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 894"
-generated_at: "2026-03-30T10:03:00.774Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.075Z"
 ---
 
 # § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration
@@ -21,7 +20,7 @@ status: "active"
     - **(B)** a specification of any other person whom the victim should contact;
   - **(3)** establishment of a mechanism by which—
     - **(A)** questions regarding sexual harassment can be confidentially asked and confidentially answered; and
-    - **(B)** incidents of sexual harassment can be confidentially reported; and
+    - **(B)** incidents of sexual harassment can be reported on a restricted or unrestricted basis; and
   - **(4)** a prohibition on retaliation and consequences for retaliatory actions.
 - **(c)** In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 - **(d)** The Secretary shall ensure that the policy developed under subsection (a) is available to—

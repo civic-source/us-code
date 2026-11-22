@@ -3,10 +3,9 @@ title: "Section 8717 - Planting flexibility"
 usc_title: 7
 usc_section: "8717"
 chapter: 113
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 8717"
-generated_at: "2026-03-30T10:01:46.844Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.478Z"
 ---
 
 # § 8717. Planting flexibility

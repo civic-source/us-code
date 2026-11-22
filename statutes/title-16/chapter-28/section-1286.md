@@ -3,10 +3,9 @@ title: "Section 1286 - Definitions"
 usc_title: 16
 usc_section: "1286"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1286"
-generated_at: "2026-03-30T10:02:22.433Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.956Z"
 ---
 
 # § 1286. Definitions

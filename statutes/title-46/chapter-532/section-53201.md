@@ -3,10 +3,9 @@ title: "Section 53201 - Definitions"
 usc_title: 46
 usc_section: "53201"
 chapter: 532
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 53201"
-generated_at: "2026-03-30T10:03:46.786Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.573Z"
 ---
 
 # § 53201. Definitions
@@ -27,7 +26,7 @@ In this chapter:
   - **(10)** The term “Secretary” means the Secretary of Transportation.
   - **(11)** The term “United States” includes the States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
   - **(12)**
-    - **(A)** Subject to paragraph (C), the term ‘United States citizen trust’ means a trust that is qualified under this paragraph.
+    - **(A)** Subject to paragraph (C), the term “United States citizen trust” means a trust that is qualified under this paragraph.
     - **(B)** A trust is qualified under this paragraph with respect to a vessel only if—
       - **(i)** it was created under the laws of a state of the United States;
       - **(ii)** each of the trustees is a citizen of the United States; and

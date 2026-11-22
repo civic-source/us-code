@@ -3,10 +3,9 @@ title: "Section 1a - Classification of reports"
 usc_title: 22
 usc_section: "1a"
 chapter: 32
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-30T10:02:42.401Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.363Z"
 ---
 
 # § 2394–1a. Classification of reports

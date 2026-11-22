@@ -3,10 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-30T10:02:53.536Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.861Z"
 ---
 
 # § 6662. Imposition of accuracy-related penalty on underpayments
@@ -21,6 +20,8 @@ status: "active"
   - **(6)** Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701( o )) or failing to meet the requirements of any similar rule of law.
   - **(7)** Any undisclosed foreign financial asset understatement.
   - **(8)** Any inconsistent estate basis.
+  - **(9)** Any overstatement of the deduction provided in section 170(p).
+  - **(10)** Any disallowance of a deduction by reason of section 170(h)(7).
 - **(c)** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
 - **(d)**
   - **(1)**
@@ -85,8 +86,9 @@ status: "active"
       - **(iii)** in paragraph (1)(B)(ii)—
         - **(I)** “$20,000,000” for “$5,000,000”, and
         - **(II)** “20 percent” for “10 percent”.
-    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”, and
-    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”.
+    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”,
+    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”, and
+    - **(D)** any disallowance of a deduction described in subsection (b)(10).
 - **(i)**
   - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
   - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
@@ -96,3 +98,9 @@ status: "active"
   - **(2)** For purposes of this subsection, the term “undisclosed foreign financial asset” means, with respect to any taxable year, any asset with respect to which information was required to be provided under section 6038, 6038B, 6038D, 6046A, or 6048 for such taxable year but was not provided by the taxpayer as required under the provisions of those sections.
   - **(3)** In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
 - **(k)** For purposes of this section, the term “inconsistent estate basis” means any portion of an underpayment attributable to the failure to comply with section 1014(f).
+- **(l)** In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting “50 percent” for “20 percent”.
+- **(m)**
+  - **(1)** In the case of a taxpayer for which there is a disallowance of an applicable energy credit for any taxable year, for purposes of determining whether there is a substantial understatement of income tax for such taxable year, subsection (d)(1) shall be applied—
+    - **(A)** in subparagraphs (A) and (B), by substituting “1 percent” for “10 percent” each place it appears, and
+    - **(B)** without regard to subparagraph (C).
+  - **(2)** For purposes of this subsection, the term “disallowance of an applicable energy credit” means the disallowance of a credit under section 45X, 45Y, or 48E by reason of overstating the material assistance cost ratio (as determined under section 7701(a)(52)) with respect to any qualified facility, energy storage technology, or facility which produces eligible components.

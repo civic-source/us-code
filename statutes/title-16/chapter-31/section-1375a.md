@@ -3,10 +3,9 @@ title: "Section 1375a - Use of fines for protection and recovery of manatees, po
 usc_title: 16
 usc_section: "1375a"
 chapter: 31
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1375a"
-generated_at: "2026-03-30T10:02:22.436Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.959Z"
 ---
 
 # § 1375a. Use of fines for protection and recovery of manatees, polar bears, sea otters, and walruses

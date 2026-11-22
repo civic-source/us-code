@@ -3,10 +3,9 @@ title: "Section 2996c - Board of Directors"
 usc_title: 42
 usc_section: "2996c"
 chapter: 34
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2996c"
-generated_at: "2026-03-30T10:03:30.140Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.169Z"
 ---
 
 # § 2996c. Board of Directors

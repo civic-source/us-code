@@ -3,10 +3,9 @@ title: "Section 5902 - Congressional declaration of policy and purpose; implemen
 usc_title: 42
 usc_section: "5902"
 chapter: 74
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 5902"
-generated_at: "2026-03-30T10:03:30.200Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.239Z"
 ---
 
 # § 5902. Congressional declaration of policy and purpose; implementation and administration of program by Secretary of Energy
@@ -15,4 +14,4 @@ status: "active"
 - **(b)**
   - **(1)** The Congress declares the purpose of this chapter to be to establish and vigorously conduct a comprehensive, national program of basic and applied research and development, including but not limited to demonstrations of practical applications, of all potentially beneficial energy sources and utilization technologies, within the Department.
   - **(2)** In carrying out this program, the Secretary shall be governed by the terms of this chapter and other applicable provisions of law with respect to all nonnuclear aspects of the research, development, and demonstration program; and the policies and provisions of the Atomic Energy Act of 1954 [ 42 U.S.C. 2011 et seq.], and other provisions of law shall continue to apply to the nuclear research, development, and demonstration program.
-  - **(3)** In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Demonstration Act of 1974 ( Public Law 93–409 ) [ 42 U.S.C. 5501 et seq.], the Geothermal Energy Research, Development, and Demonstration Act of 1974 ( Public Law 93–410 ) [ 30 U.S.C. 1101 et seq.], and the Solar Energy Research, Development, and Demonstration Act of 1974 ( Public Law 93–473 ) [ 42 U.S.C. 5551 et seq.].
+  - **(3)** In implementing and conducting the research, development, and demonstration programs pursuant to this chapter, the Secretary shall incorporate programs in specific nonnuclear technologies previously enacted into law, including those established by the Solar Heating and Cooling Demonstration Act of 1974 ( Public Law 93–409 ) [ 42 U.S.C. 5501 et seq.], the Geothermal Energy Research, Development, and Demonstration Act of 1974 ( Public Law 93–410 ), 1 1 See References in Text note below. and the Solar Energy Research, Development, and Demonstration Act of 1974 ( Public Law 93–473 ). 1

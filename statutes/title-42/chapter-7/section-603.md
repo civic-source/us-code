@@ -3,10 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T10:03:29.896Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.870Z"
 ---
 
 # § 603. Grants to States
@@ -170,7 +169,7 @@ status: "active"
         - **(I)** based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
         - **(II)** using data for the most recent year for which such data is available before the beginning of the fiscal year.
       - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], as appropriate.
-      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 6 6 So in original.
+      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 5 5 So in original.
     - **(E)** 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title .
     - **(F)** 0.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title .
     - **(G)**
@@ -246,3 +245,35 @@ status: "active"
         - **(II)** the amount that, in the absence of this subparagraph, would be required by subparagraph (A) or by section 609(a)(10) of this title to be remitted by the State in respect of the payment.
   - **(7)** As used in this subsection, the term “State” means each of the 50 States and the District of Columbia.
   - **(8)** The Secretary shall annually report to the Congress on the status of the Fund.
+- **(c)**
+  - **(1)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury of the United States not otherwise appropriated, $1,000,000,000, to remain available until expended, to carry out this subsection.
+  - **(2)** Of the amount specified in paragraph (1), the Secretary shall reserve $2,000,000 for administrative expenses and the provision of technical assistance to States and Indian tribes with respect to the use of funds provided under this subsection.
+  - **(3)**
+    - **(A)**
+      - **(i)** The Secretary shall allot a total of 92.5 percent of the amount specified in paragraph (1) that is not reserved under paragraph (2) among the States that are not a territory and that are operating a program funded under this part, in accordance with clause (ii) of this subparagraph.
+      - **(ii)** The Secretary shall allot to each such State the sum of the following percentages of the total amount described in clause (i):
+        - **(I)** 50 percent, multiplied by—
+        - **(II)** 50 percent, multiplied by—
+    - **(B)** The Secretary shall allot among the territories and Indian tribes otherwise eligible for a grant under this part such portions of 7.5 percent of the amount specified in paragraph (1) that are not reserved under paragraph (2) as the Secretary deems appropriate based on the needs of the territory or Indian tribe involved.
+    - **(C)** To receive the full amount of funding payable under this subsection, a State or Indian tribe shall inform the Secretary as to whether it intends to use all of its allotment under this paragraph and provide that information—
+      - **(i)** in the case of a State that is not a territory, within 45 days after March 11, 2021 ; or
+      - **(ii)** in the case of a territory or an Indian tribe, within 90 days after such date.
+  - **(4)**
+    - **(A)** The Secretary shall provide funds to each State and Indian tribe to which an amount is allotted under paragraph (3), from the amount so allotted.
+    - **(B)**
+      - **(i)** The Secretary shall reallot in accordance with paragraph (3) all funds provided to any State or Indian tribe under this subsection that are unused, among the other States and Indian tribes eligible for funds under this subsection. For purposes of paragraph (3), the Secretary shall treat the funds as if included in the amount specified in paragraph (1).
+      - **(ii)** The Secretary shall provide funds to each such other State or Indian tribe in an amount equal to the amount so reallotted.
+  - **(5)** In the case of a territory not operating a program funded under this part, the Secretary shall provide the funds required to be provided to the territory under this subsection, to the agency that administers the bulk of local human services programs in the territory.
+  - **(6)**
+    - **(A)** A State or Indian tribe to which funds are provided under this subsection may use the funds only for non-recurrent short term benefits, whether in the form of cash or in other forms.
+    - **(B)** A State to which funds are provided under this subsection shall not expend more than 15 percent of the funds for administrative purposes.
+    - **(C)** Funds provided under this subsection shall be used to supplement and not supplant other Federal, State, or tribal funds for services and activities that promote the purposes of this part.
+    - **(D)**
+      - **(i)** Except as provided in clause (ii), a State or Indian tribe to which funds are provided under this subsection shall expend the funds not later than the end of fiscal year 2022.
+      - **(ii)** A State or Indian tribe to which funds are provided under paragraph (4)(B) shall expend the funds within 12 months after receipt.
+  - **(7)** Section 1308 of this title shall not apply with respect to any funds provided under this subsection.
+  - **(8)** In this subsection:
+    - **(A)** The term “applicable period” means the period that begins with April 1, 2021 , and ends with September 30, 2022 .
+    - **(B)** The term “non-recurrent short term benefits” has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014 .
+    - **(C)** The term “State” means the 50 States of the United States, the District of Columbia, and the territories.
+    - **(D)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.

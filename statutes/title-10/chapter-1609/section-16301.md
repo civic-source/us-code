@@ -3,10 +3,9 @@ title: "Section 16301 - Education loan repayment program: members of Selected Re
 usc_title: 10
 usc_section: "16301"
 chapter: 1609
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 16301"
-generated_at: "2026-03-30T10:02:00.920Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.279Z"
 ---
 
 # § 16301. Education loan repayment program: members of Selected Reserve
@@ -22,7 +21,7 @@ status: "active"
       - **(iii)** a pension fund approved by the Secretary for purposes of this section; or
       - **(iv)** a nonprofit private entity designated by a State, regulated by that State, and approved by the Secretary for purposes of this section.
   - **(2)** The Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
-- **(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
+- **(b)** The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $1,000, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 - **(c)** If a portion of a loan is repaid under this section for any year, interest on the remainder of the loan shall accrue and be paid in the same manner as is otherwise required. For the purposes of this section, any interest that has accrued on the loan for periods before the current year shall be considered as within the total loan amount that shall be repaid.
 - **(d)** Nothing in this section shall be construed to authorize refunding any repayment of a loan.
 - **(e)** A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 2171 of this title (as described in subsection (a)(2) of that section) during a year shall be eligible to have repaid a portion of such loan determined by giving appropriate fractional credit for each portion of the year so served, in accordance with regulations of the Secretary concerned.

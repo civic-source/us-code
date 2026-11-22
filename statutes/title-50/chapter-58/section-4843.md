@@ -3,15 +3,14 @@ title: "Section 4843 - Enforcement"
 usc_title: 50
 usc_section: "4843"
 chapter: 58
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 4843"
-generated_at: "2026-03-30T10:03:53.254Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.285Z"
 ---
 
 # § 4843. Enforcement
 
-- **(a)** A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act 1 1 So in original. section 4842 of this title —
+- **(a)** A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, an unlawful act under section 4842 of this title —
   - **(1)** shall, upon conviction, be fined not more than $1,000,000; or
   - **(2)** if a natural person, may be imprisoned for not more than 20 years, or both.
 - **(b)** The President may impose the following civil penalties on a person who violates section 4842 of this title or any regulation issued under this subchapter:

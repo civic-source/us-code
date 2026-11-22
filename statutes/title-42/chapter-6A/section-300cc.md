@@ -3,10 +3,9 @@ title: "Section 300cc - Repealed. Pub. L. 109–482, title I, § 104(b)(2)(C) , 
 usc_title: 42
 usc_section: "300cc"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 300cc"
-generated_at: "2026-03-30T10:03:29.856Z"
-status: "repealed"
+generated_at: "2026-03-30T02:56:10.819Z"
 ---
 
 # § 300cc. Repealed. Pub. L. 109–482, title I, § 104(b)(2)(C) , Jan. 15, 2007 , 120 Stat. 3693

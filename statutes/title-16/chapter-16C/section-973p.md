@@ -3,13 +3,12 @@ title: "Section 973p - Additional agreements"
 usc_title: 16
 usc_section: "973p"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 973p"
-generated_at: "2026-03-30T10:02:22.421Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.938Z"
 ---
 
 # § 973p. Additional agreements
 
-Within 30 days after the Secretary of State’s receipt of notice from a Pacific Island Party that it has concluded an arrangement pursuant to paragraph 3 of Article 3 of the Treaty, the Secretary of State shall consult with the Secretary concerning whether the procedures of Article 4 and paragraph 6 of Article 5 of the Treaty should be made applicable to such arrangement. At the conclusion of the consultations the Pacific Island Party and all other persons agreeing to the arrangement shall be notified by the Secretary of State of the resulting decision.
+The Secretary may establish procedures for review of any agreements for additional fishing access entered into pursuant to the Treaty.
 

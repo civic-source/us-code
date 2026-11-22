@@ -3,10 +3,9 @@ title: "Section 4041 - Implementation of program"
 usc_title: 42
 usc_section: "4041"
 chapter: 50
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 4041"
-generated_at: "2026-03-30T10:03:30.165Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.197Z"
 ---
 
 # § 4041. Implementation of program

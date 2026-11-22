@@ -3,10 +3,9 @@ title: "Section 9024 - Temporary full Federal funding of the first week of compe
 usc_title: 15
 usc_section: "9024"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9024"
-generated_at: "2026-03-30T10:02:07.564Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.239Z"
 ---
 
 # § 9024. Temporary full Federal funding of the first week of compensable regular unemployment for States with no waiting week
@@ -14,7 +13,7 @@ status: "active"
 - **(a)** Any State which desires to do so may enter into and participate in an agreement under this section with the Secretary of Labor (in this section referred to as the “Secretary”). Any State which is a party to an agreement under this section may, upon providing 30 days’ written notice to the Secretary, terminate such agreement.
 - **(b)** A State is eligible to enter into an agreement under this section if the State law (including a waiver of State law) provides that compensation is paid to individuals for their first week of regular unemployment without a waiting week. An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the State law no longer meets the requirement under the preceding sentence.
 - **(c)**
-  - **(1)** There shall be paid to each State which has entered into an agreement under this section an amount equal to 100 percent of—
+  - **(1)** Except as provided in paragraph (3), there shall be paid to each State which has entered into an agreement under this section an amount equal to 100 percent of—
     - **(A)** the total amount of regular compensation paid to individuals by the State for their first week of regular unemployment; and
     - **(B)** any additional administrative expenses incurred by the State by reason of such agreement (as determined by the Secretary).
   - **(2)** Sums payable to any State by reason of such State’s having an agreement under this section shall be payable, either in advance or by way of reimbursement (as determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that his estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
@@ -28,6 +27,6 @@ status: "active"
   - **(3)** The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this section.
 - **(e)** An agreement entered into under this section shall apply to weeks of unemployment—
   - **(1)** beginning after the date on which such agreement is entered into; and
-  - **(2)** ending on or before December 31, 2020 .
+  - **(2)** ending on or before September 6, 2021 .
 - **(f)** The provisions of section 9025(e) of this title shall apply with respect to compensation paid under an agreement under this section to the same extent and in the same manner as in the case of pandemic emergency unemployment compensation under such section.
 - **(g)** For purposes of this section, the terms “regular compensation”, “State”, “State agency”, “State law”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 ( 26 U.S.C. 3304 note).

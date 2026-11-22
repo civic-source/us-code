@@ -3,10 +3,9 @@ title: "Section 2151 - Definitions"
 usc_title: 10
 usc_section: "2151"
 chapter: 107
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2151"
-generated_at: "2026-03-30T10:02:00.836Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.143Z"
 ---
 
 # § 2151. Definitions
@@ -24,9 +23,11 @@ status: "active"
     - **(B)** The College of Naval Warfare.
     - **(C)** The Air War College.
     - **(D)** The Marine Corps War College.
+    - **(E)** The Space Force Senior Level Education Program.
   - **(2)** The term “intermediate level service school” means any of the following:
     - **(A)** The United States Army Command and General Staff College.
     - **(B)** The College of Naval Command and Staff.
     - **(C)** The Air Command and Staff College.
     - **(D)** The Marine Corps Command and Staff College.
-  - **(3)** The term “joint intermediate level school” includes the National Defense Intelligence College.
+    - **(E)** The Space Force Intermediate Level Education Program.
+  - **(3)** The term “joint intermediate level school” includes the National Intelligence University.

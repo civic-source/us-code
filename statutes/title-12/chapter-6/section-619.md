@@ -3,10 +3,9 @@ title: "Section 619 - Capital stock; by whom held; ownership of capital stock by
 usc_title: 12
 usc_section: "619"
 chapter: 6
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 619"
-generated_at: "2026-03-30T10:02:11.009Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.384Z"
 ---
 
 # § 619. Capital stock; by whom held; ownership of capital stock by foreign bank

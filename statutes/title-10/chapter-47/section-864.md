@@ -3,10 +3,9 @@ title: "Section 864 - Art. 64. Judge advocate review of finding of guilty in sum
 usc_title: 10
 usc_section: "864"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 864"
-generated_at: "2026-03-30T10:02:00.792Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.083Z"
 ---
 
 # § 864. Art. 64. Judge advocate review of finding of guilty in summary court-martial

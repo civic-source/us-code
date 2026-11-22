@@ -3,10 +3,9 @@ title: "Section 685 - Construction by commission of restraining works, etc.; use
 usc_title: 33
 usc_section: "685"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 685"
-generated_at: "2026-03-30T10:03:00.767Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.067Z"
 ---
 
 # § 685. Construction by commission of restraining works, etc.; use of debris fund

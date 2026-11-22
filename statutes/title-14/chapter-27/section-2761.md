@@ -1,15 +1,14 @@
 ---
-title: "Section 2761 - Persons discharged as result of court-martial; allowances to"
+title: "Section 2761 - Individuals discharged as result of court-martial; allowances to"
 usc_title: 14
 usc_section: "2761"
 chapter: 27
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2761"
-generated_at: "2026-03-30T10:02:03.982Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.501Z"
 ---
 
-# § 2761. Persons discharged as result of court-martial; allowances to
+# § 2761. Individuals discharged as result of court-martial; allowances to
 
-The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
+The Secretary may furnish individuals discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the individual discharged would not otherwise have suitable clothing or funds to meet immediate needs.
 

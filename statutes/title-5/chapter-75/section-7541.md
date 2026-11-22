@@ -3,10 +3,9 @@ title: "Section 7541 - Definitions"
 usc_title: 5
 usc_section: "7541"
 chapter: 75
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 7541"
-generated_at: "2026-03-30T10:01:40.565Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.039Z"
 ---
 
 # § 7541. Definitions
@@ -14,6 +13,6 @@ status: "active"
 For the purpose of this subchapter—
 
   - **(1)** “employee” means a career appointee in the Senior Executive Service who—
-    - **(A)** has completed the probationary period prescribed under section 3393(d) of this title or section 1599e of title 10 ; or
+    - **(A)** has completed the probationary period prescribed under section 3393(d) of this title ; or
     - **(B)** was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service; and
   - **(2)** “suspension” has the meaning set forth in section 7501(2) of this title .

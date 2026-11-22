@@ -3,10 +3,9 @@ title: "Section 657a - HUBZone program"
 usc_title: 15
 usc_section: "657a"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 657a"
-generated_at: "2026-03-30T10:02:07.446Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.105Z"
 ---
 
 # § 657a. HUBZone program
@@ -103,7 +102,7 @@ status: "active"
     - **(A)** A contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
       - **(i)** the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonable expectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
       - **(ii)** the anticipated award price of the contract (including options) will not exceed—
-        - **(I)** $5,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+        - **(I)** $7,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
         - **(II)** $3,000,000, in the case of all other contract opportunities; and
       - **(iii)** in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
     - **(B)** A contract opportunity may be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price.

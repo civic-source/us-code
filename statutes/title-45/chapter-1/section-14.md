@@ -3,10 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 S
 usc_title: 45
 usc_section: "14"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "45 U.S.C. § 14"
-generated_at: "2026-03-30T10:03:15.620Z"
-status: "repealed"
+generated_at: "2026-03-30T02:55:56.540Z"
 ---
 
 # §§ 1 to 14. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

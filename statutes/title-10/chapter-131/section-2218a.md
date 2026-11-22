@@ -3,10 +3,9 @@ title: "Section 2218a - National Sea-Based Deterrence Fund"
 usc_title: 10
 usc_section: "2218a"
 chapter: 131
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2218a"
-generated_at: "2026-03-30T10:02:00.840Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.149Z"
 ---
 
 # § 2218a. National Sea-Based Deterrence Fund
@@ -25,7 +24,9 @@ status: "active"
   - **(1)** The Secretary of the Navy may use funds deposited into the Fund to enter into contracts for advance construction of national sea-based deterrence vessels to support achieving cost savings through workload management, manufacturing efficiencies, or workforce stability, or to phase fabrication activities within shipyard and manage sub-tier manufacturer capacity.
   - **(2)** A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 - **(h)**
-  - **(1)** The Secretary of the Navy may use funds deposited into the Fund to enter into incrementally funded contracts for advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments.
+  - **(1)** The Secretary of the Navy may use funds deposited into the Fund to enter into incrementally funded contracts for—
+    - **(A)** advance procurement of high value, long lead time items for nuclear powered vessels to better support construction schedules and achieve cost savings through schedule reductions and properly phased installment payments; and
+    - **(B)** construction of the first two Columbia class submarines.
   - **(2)** A contract entered into under paragraph (1) shall provide that any obligation of the United States to make a payment under the contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for termination of any contract entered into shall be limited to the total amount of funding obligated at time of termination.
 - **(i)**
   - **(1)** To implement the continuous production of critical components, the Secretary of the Navy may use funds deposited in the Fund, in conjunction with funds appropriated for the procurement of other nuclear-powered vessels, to enter into one or more multiyear contracts (including economic ordering quantity contracts), for the procurement of critical contractor-furnished and Government-furnished components for critical components of national sea-based deterrence vessels. The authority under this subsection extends to the procurement of equivalent critical components common with and required for other nuclear-powered vessels.
@@ -51,3 +52,14 @@ status: "active"
     - **(M)** A control surface.
     - **(N)** A launcher component.
     - **(O)** A propulsor.
+    - **(P)** Major bulkheads and tanks.
+    - **(Q)** All major pumps and motors.
+    - **(R)** Large vertical array.
+    - **(S)** Atmosphere control equipment.
+    - **(T)** Diesel systems and components.
+    - **(U)** Hydraulic valves and components.
+    - **(V)** Bearings.
+    - **(W)** Major air and blow valves and components.
+    - **(X)** Decks and superstructure.
+    - **(Y)** Castings, forgings, and tank structure.
+    - **(Z)** Hatches and hull penetrators.

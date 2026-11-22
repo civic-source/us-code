@@ -3,10 +3,9 @@ title: "Section 1454 - Submittal of State program for approval"
 usc_title: 16
 usc_section: "1454"
 chapter: 33
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 1454"
-generated_at: "2026-03-30T10:02:22.443Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.970Z"
 ---
 
 # § 1454. Submittal of State program for approval

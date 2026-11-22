@@ -3,10 +3,9 @@ title: "Section 165 - Omitted"
 usc_title: 21
 usc_section: "165"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 165"
-generated_at: "2026-03-30T10:02:39.004Z"
-status: "omitted"
+generated_at: "2026-03-30T02:54:54.215Z"
 ---
 
 # §§ 161 to 165. Omitted

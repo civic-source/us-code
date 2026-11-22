@@ -3,10 +3,9 @@ title: "Section 44719 - Standards for navigational aids"
 usc_title: 49
 usc_section: "44719"
 chapter: 447
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 44719"
-generated_at: "2026-03-30T10:03:55.103Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.386Z"
 ---
 
 # § 44719. Standards for navigational aids

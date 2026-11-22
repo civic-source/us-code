@@ -1,15 +1,12 @@
 ---
-title: "Section 2539a - Industrial mobilization: Board on Mobilization of Industries Essential for Military Preparedness"
+title: "Section 2539a - Renumbered § 4884]"
 usc_title: 10
 usc_section: "2539a"
 chapter: 148
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2539a"
-generated_at: "2026-03-30T10:02:00.866Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.162Z"
 ---
 
-# § 2539a. Industrial mobilization: Board on Mobilization of Industries Essential for Military Preparedness
-
-The President may appoint a nonpartisan Board on Mobilization of Industries Essential for Military Preparedness, and may provide necessary clerical assistance, to organize and coordinate operations under sections 2538 and 2539 of this title.
+# [§ 2539a. Renumbered § 4884]
 

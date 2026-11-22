@@ -3,10 +3,9 @@ title: "Section 2326f - Maintenance dredging data"
 usc_title: 33
 usc_section: "2326f"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2326f"
-generated_at: "2026-03-30T10:03:00.814Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.124Z"
 ---
 
 # § 2326f. Maintenance dredging data
@@ -15,6 +14,6 @@ status: "active"
 - **(b)** The Secretary shall include in the database maintained under subsection (a), for each maintenance dredging project and contract, estimated and actual data on—
   - **(1)** the volume of dredged material removed;
   - **(2)** the initial cost estimate of the Corps of Engineers;
-  - **(3)** the total cost;
+  - **(3)** the total cost, including a separate line item for all Federal costs associated with the disposal of dredged material;
   - **(4)** the party and vessel carrying out the work; and
   - **(5)** the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.

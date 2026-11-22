@@ -3,16 +3,15 @@ title: "Section 2903 - Reimbursement for adoption expenses"
 usc_title: 14
 usc_section: "2903"
 chapter: 29
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "14 U.S.C. § 2903"
-generated_at: "2026-03-30T10:02:03.983Z"
-status: "active"
+generated_at: "2026-03-30T02:53:51.502Z"
 ---
 
 # § 2903. Reimbursement for adoption expenses
 
 - **(a)** The Secretary shall carry out a program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
-- **(b)** An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ( 42 U.S.C. 673(c) )).
+- **(b)** An adoption for which expenses may be reimbursed under this section includes an adoption by a single individual, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ( 42 U.S.C. 673(c) )).
 - **(c)** Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
 - **(d)** A benefit may not be paid under this section for any expense paid to or for a member of the Coast Guard under any other adoption benefits program administered by the Federal Government or under any such program administered by a State or local government.
 - **(e)**

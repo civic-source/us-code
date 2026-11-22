@@ -3,10 +3,9 @@ title: "Section 481a - Workplace and gender relations issues: surveys of Departm
 usc_title: 10
 usc_section: "481a"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 481a"
-generated_at: "2026-03-30T10:02:00.777Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.060Z"
 ---
 
 # § 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees
@@ -21,3 +20,7 @@ status: "active"
   - **(4)** The effectiveness of current processes for complaints on and investigations into gender-based assault (including unwanted sexual contact), harassment, and discrimination involving civilian employees of the Department.
   - **(5)** Any other issues relating to assault (including unwanted sexual contact), harassment, or discrimination involving civilian employees of the Department that the Secretary considers appropriate.
 - **(c)** Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
+- **(d)**
+  - **(1)** The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+  - **(2)** The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+  - **(3)** The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.

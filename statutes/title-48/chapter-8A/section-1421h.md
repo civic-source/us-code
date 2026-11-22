@@ -3,10 +3,9 @@ title: "Section 1421h - Duties, taxes, and fees; proceeds collected to constitut
 usc_title: 48
 usc_section: "1421h"
 chapter: 8
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "48 U.S.C. § 1421h"
-generated_at: "2026-03-30T10:03:34.418Z"
-status: "active"
+generated_at: "2026-03-30T02:56:14.584Z"
 ---
 
 # § 1421h. Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to commencement of next fiscal year

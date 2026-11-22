@@ -1,15 +1,12 @@
 ---
-title: "Section 2309 - Allocation of appropriations"
+title: "Section 2309 - Renumbered § 3134]"
 usc_title: 10
 usc_section: "2309"
 chapter: 137
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2309"
-generated_at: "2026-03-30T10:02:00.847Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.153Z"
 ---
 
-# § 2309. Allocation of appropriations
+# [§ 2309. Renumbered § 3134]
 
-- **(a)** Appropriations available for procurement by an agency named in section 2303 of this title may, through administrative allotment, be made available for obligation for procurement by any other agency in amounts authorized by the head of the allotting agency and without transfer of funds on the books of the Department of the Treasury.
-- **(b)** A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.

@@ -3,18 +3,16 @@ title: "Section 1387 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1387"
 chapter: 26
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 1387"
-generated_at: "2026-03-30T10:03:00.799Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.104Z"
 ---
 
 # § 1387. Authorization of appropriations
 
-There is authorized to be appropriated to carry out the purposes of this subchapter the following sums:
+There are authorized to be appropriated to carry out the purposes of this subchapter—
 
-  - **(1)** $1,200,000,000 per fiscal year for each of fiscal years 1989 and 1990;
-  - **(2)** $2,400,000,000 for fiscal year 1991;
-  - **(3)** $1,800,000,000 for fiscal year 1992;
-  - **(4)** $1,200,000,000 for fiscal year 1993; and
-  - **(5)** $600,000,000 for fiscal year 1994.
+  - **(1)** $2,400,000,000 for fiscal year 2022;
+  - **(2)** $2,750,000,000 for fiscal year 2023;
+  - **(3)** $3,000,000,000 for fiscal year 2024; and
+  - **(4)** $3,250,000,000 for each of fiscal years 2025 and 2026.

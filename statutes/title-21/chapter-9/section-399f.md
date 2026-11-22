@@ -3,10 +3,9 @@ title: "Section 399f - Ensuring adequate information regarding pharmaceuticals f
 usc_title: 21
 usc_section: "399f"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 399f"
-generated_at: "2026-03-30T10:02:39.059Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.284Z"
 ---
 
 # § 399f. Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups

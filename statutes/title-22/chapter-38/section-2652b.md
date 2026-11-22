@@ -1,20 +1,12 @@
 ---
-title: "Section 2652b - Assistant Secretary of State for South Asian Affairs"
+title: "Section 2652b - Repealed. Pub. L. 119–60, div. E, title I, § 5153(b) , Dec. 18, 2025 , 139 Stat. 1580"
 usc_title: 22
 usc_section: "2652b"
 chapter: 38
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2652b"
-generated_at: "2026-03-30T10:02:42.411Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.375Z"
 ---
 
-# § 2652b. Assistant Secretary of State for South Asian Affairs
+# § 2652b. Repealed. Pub. L. 119–60, div. E, title I, § 5153(b) , Dec. 18, 2025 , 139 Stat. 1580
 
-- **(a)** There is established in the Department of State the position of Assistant Secretary of State for South Asian Affairs.
-- **(b)** The Assistant Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
-- **(c)**
-- **(d)**
-  - **(1)** Repealed. Pub. L. 103–236, title I, § 162(c)(3) , Apr. 30, 1994 , 108 Stat. 405 .
-  - **(2)** Omitted.
-- **(e)** In order to carry out this section, the Secretary of State shall reprogram the position of Deputy Assistant Secretary for South Asian Affairs.

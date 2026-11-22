@@ -3,10 +3,9 @@ title: "Section 12781 - Authority"
 usc_title: 42
 usc_section: "12781"
 chapter: 130
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 12781"
-generated_at: "2026-03-30T10:03:30.359Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.432Z"
 ---
 
 # § 12781. Authority

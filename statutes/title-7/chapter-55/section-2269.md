@@ -3,10 +3,9 @@ title: "Section 2269 - Gifts of property; acceptance and administration by Secre
 usc_title: 7
 usc_section: "2269"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2269"
-generated_at: "2026-03-30T10:01:46.772Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.382Z"
 ---
 
 # § 2269. Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations

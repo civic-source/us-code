@@ -3,10 +3,9 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-30T10:02:53.433Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.738Z"
 ---
 
 # § 864. Definitions and special rules
@@ -125,46 +124,7 @@ status: "active"
     - **(E)** for appropriate adjustments in the application of paragraph (3) in the case of an insurance company,
     - **(F)** preventing assets or interest expense from being taken into account more than once, and
     - **(G)** that this subsection shall not apply for purposes of any provision of this subchapter to the extent the Secretary determines that the application of this subsection for such purposes would not be appropriate.
-- **(f)** For purposes of this subchapter, at the election of the worldwide affiliated group—
-  - **(1)**
-    - **(A)** The taxable income of each domestic corporation which is a member of a worldwide affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
-    - **(B)** The taxable income of the domestic members of a worldwide affiliated group from sources outside the United States shall be determined by allocating and apportioning the interest expense of such domestic members to such income in an amount equal to the excess (if any) of—
-      - **(i)** the total interest expense of the worldwide affiliated group multiplied by the ratio which the foreign assets of the worldwide affiliated group bears to all the assets of the worldwide affiliated group, over
-      - **(ii)** the interest expense of all foreign corporations which are members of the worldwide affiliated group to the extent such interest expense of such foreign corporations would have been allocated and apportioned to foreign source income if this subsection were applied to a group consisting of all the foreign corporations in such worldwide affiliated group.
-    - **(C)** For purposes of this paragraph, the term “worldwide affiliated group” means a group consisting of—
-      - **(i)** the includible members of an affiliated group (as defined in section 1504(a), determined without regard to paragraph (2) of section 1504(b)), and
-      - **(ii)** all controlled foreign corporations in which such members in the aggregate meet the ownership requirements of section 1504(a)(2) either directly or indirectly through applying paragraph (2) of section 958(a) or through applying rules similar to the rules of such paragraph to stock owned directly or indirectly by domestic partnerships, trusts, or estates.
-  - **(2)** Expenses other than interest which are not directly allocable or apportioned to any specific income producing activity shall be allocated and apportioned as if all members of the affiliated group were a single corporation. For purposes of the preceding sentence, the term “affiliated group” has the meaning given such term by section 1504 (determined without regard to paragraph (2) of section 1504(b)).
-  - **(3)** The rules of paragraphs (3) and (4) of subsection (e) shall apply for purposes of this subsection, except that paragraph (4) shall be applied on a worldwide affiliated group basis.
-  - **(4)**
-    - **(A)** For purposes of paragraph (1), any corporation described in subparagraph (B) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying this subsection separately to corporations so described.
-    - **(B)** A corporation is described in this subparagraph if—
-      - **(i)** such corporation is a financial institution described in section 581 or 591,
-      - **(ii)** the business of such financial institution is predominantly with persons other than related persons (within the meaning of subsection (d)(4)) or their customers, and
-      - **(iii)** such financial institution is required by State or Federal law to be operated separately from any other entity which is not such an institution.
-    - **(C)** To the extent provided in regulations—
-      - **(i)** a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(a) ),
-      - **(ii)** a financial holding company (within the meaning of section 2(p) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841(p) ), and
-      - **(iii)** any subsidiary of a financial institution described in section 581 or 591, or of any such bank or financial holding company, if such subsidiary is predominantly engaged (directly or indirectly) in the active conduct of a banking, financing, or similar business,
-  - **(5)**
-    - **(A)** If a worldwide affiliated group elects the application of this subsection, all financial corporations which—
-      - **(i)** are members of such worldwide affiliated group, but
-      - **(ii)** are not corporations described in paragraph (4)(B),
-    - **(B)** For purposes of this paragraph, the term “financial corporation” means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
-    - **(C)** In the case of a corporation which is a member of an electing financial institution group, to the extent that such corporation—
-      - **(i)** distributes dividends or makes other distributions with respect to its stock after the date of the enactment of this paragraph to any member of the pre-election worldwide affiliated group (other than to a member of the electing financial institution group) in excess of the greater of—
-        - **(I)** its average annual dividend (expressed as a percentage of current earnings and profits) during the 5-taxable-year period ending with the taxable year preceding the taxable year, or
-        - **(II)** 25 percent of its average annual earnings and profits for such 5-taxable-year period, or
-      - **(ii)** deals with any person in any manner not clearly reflecting the income of the corporation (as determined under principles similar to the principles of section 482),
-    - **(D)** An election under this paragraph with respect to any financial institution group may be made only by the common parent of the pre-election worldwide affiliated group and may be made only for the first taxable year beginning after December 31, 2020 , in which such affiliated group includes 1 or more financial corporations. Such an election, once made, shall apply to all financial corporations which are members of the electing financial institution group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
-    - **(E)** For purposes of this paragraph—
-      - **(i)** The term “pre-election worldwide affiliated group” means, with respect to a corporation, the worldwide affiliated group of which such corporation would (but for an election under this paragraph) be a member for purposes of applying paragraph (1).
-      - **(ii)** The term “electing financial institution group” means the group of corporations to which this subsection applies separately by reason of the application of paragraph (4)(A) and which includes financial corporations by reason of an election under subparagraph (A).
-    - **(F)** The Secretary shall prescribe such regulations as may be appropriate to carry out this subsection, including regulations—
-      - **(i)** providing for the direct allocation of interest expense in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
-      - **(ii)** preventing assets or interest expense from being taken into account more than once, and
-      - **(iii)** dealing with changes in members of any group (through acquisitions or otherwise) treated under this paragraph as an affiliated group for purposes of this subsection.
-  - **(6)** An election to have this subsection apply with respect to any worldwide affiliated group may be made only by the common parent of the domestic affiliated group referred to in paragraph (1)(C) and may be made only for the first taxable year beginning after December 31, 2020 , in which a worldwide affiliated group exists which includes such affiliated group and at least 1 foreign corporation. Such an election, once made, shall apply to such common parent and all other corporations which are members of such worldwide affiliated group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
+- **[(f)**
 - **(g)**
   - **(1)** For purposes of sections 861(b), 862(b), and 863(b), qualified research and experimental expenditures shall be allocated and apportioned as follows:
     - **(A)** Any qualified research and experimental expenditures expended solely to meet legal requirements imposed by a political entity with respect to the improvement or marketing of specific products or processes for purposes not reasonably expected to generate gross income (beyond de minimis amounts) outside the jurisdiction of the political entity shall be allocated only to gross income from sources within such jurisdiction.
@@ -172,7 +132,7 @@ status: "active"
       - **(i)** that such expenditures are attributable to activities conducted in the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
       - **(ii)** that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
     - **(C)** The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
-  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) 2 2 See References in Text note below. of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) 2 of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are foreign research or experimental expenditures within the meaning of section 174 or domestic research or experimental expenditures within the meaning of section 174A. For purposes of this paragraph, rules similar to the rules of subsection (c) of section 174 shall apply. Any qualified research and experimental expenditures allowed as an amortization deduction under section 174(a) or section 174A(c), shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such section (as the case may be).
   - **(3)**
     - **(A)** Any qualified research and experimental expenditures described in subparagraph (B)—
       - **(i)** if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
@@ -184,7 +144,7 @@ status: "active"
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), the allocation and apportionment required by paragraph (1) shall be determined as if all members of the affiliated group (as defined in subsection (e)(5)) were a single corporation.
     - **(B)** For purposes of the allocation and apportionment required by paragraph (1)—
-      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), 2 and
+      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), 2 2 See References in Text note below. and
       - **(ii)** dividends from an electing corporation,
     - **(C)** The qualified research and experimental expenditures taken into account for purposes of paragraph (1) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I)). 2
     - **(D)** The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by subparagraph (B) or (C).

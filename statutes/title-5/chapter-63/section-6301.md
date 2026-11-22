@@ -3,10 +3,9 @@ title: "Section 6301 - Definitions"
 usc_title: 5
 usc_section: "6301"
 chapter: 63
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 6301"
-generated_at: "2026-03-30T10:01:40.559Z"
-status: "active"
+generated_at: "2026-03-30T02:52:56.029Z"
 ---
 
 # § 6301. Definitions
@@ -21,7 +20,7 @@ For the purpose of this subchapter—
       - **(ii)** a part-time employee who does not have an established regular tour of duty during the administrative workweek;
       - **(iii)** a temporary employee engaged in construction work at an hourly rate;
       - **(iv)** an employee of the Panama Canal Commission when employed on the Isthmus of Panama;
-      - **(v)** a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;
+      - **(v)** an employee of the Veterans Health Administration who is covered by a leave system established under section 7421 of title 38 ;
       - **(vi)** an employee of either House of Congress or of the two Houses;
       - **(vii)** an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
       - **(viii)** an alien employee who occupies a position outside the United States, except as provided by section 6310 of this title ;

@@ -3,10 +3,9 @@ title: "Section 11323 - Consolidation, merger, and acquisition of control"
 usc_title: 49
 usc_section: "11323"
 chapter: 113
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 11323"
-generated_at: "2026-03-30T10:03:55.061Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.325Z"
 ---
 
 # § 11323. Consolidation, merger, and acquisition of control

@@ -3,10 +3,9 @@ title: "Section 2203 - Seal"
 usc_title: 7
 usc_section: "2203"
 chapter: 55
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 2203"
-generated_at: "2026-03-30T10:01:46.769Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.379Z"
 ---
 
 # § 2203. Seal

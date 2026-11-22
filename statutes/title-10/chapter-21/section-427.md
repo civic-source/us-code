@@ -3,10 +3,9 @@ title: "Section 427 - Conflict Records Research Center"
 usc_title: 10
 usc_section: "427"
 chapter: 21
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 427"
-generated_at: "2026-03-30T10:02:00.776Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.058Z"
 ---
 
 # § 427. Conflict Records Research Center

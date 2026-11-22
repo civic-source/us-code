@@ -3,10 +3,9 @@ title: "Section 60134 - State damage prevention programs"
 usc_title: 49
 usc_section: "60134"
 chapter: 601
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 60134"
-generated_at: "2026-03-30T10:03:55.122Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.416Z"
 ---
 
 # § 60134. State damage prevention programs
@@ -33,4 +32,4 @@ status: "active"
 - **(f)** A grant made under this section is not subject to the section 60107(a) limitation on the maximum percentage of funds to be paid by the Secretary.
 - **(g)** Funds provided to carry out this section may not be used for lobbying or in direct support of litigation.
 - **(h)** In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
-- **(i)** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+- **(i)** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2021 through 2023. Such funds shall remain available until expended.

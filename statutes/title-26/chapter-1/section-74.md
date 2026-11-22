@@ -3,10 +3,9 @@ title: "Section 74 - Prizes and awards"
 usc_title: 26
 usc_section: "74"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 74"
-generated_at: "2026-03-30T10:02:53.341Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.620Z"
 ---
 
 # § 74. Prizes and awards
@@ -27,4 +26,4 @@ status: "active"
   - **(1)** Gross income shall not include the value of any medal awarded in, or any prize money received from the United States Olympic Committee on account of, competition in the Olympic Games or Paralympic Games.
   - **(2)**
     - **(A)** Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjusted gross income (determined without regard to this subsection) of such taxpayer for such taxable year exceeds $1,000,000 (half of such amount in the case of a married individual filing a separate return).
-    - **(B)** For purposes of sections 86, 135, 137, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+    - **(B)** For purposes of sections 85(c), 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).

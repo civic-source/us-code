@@ -3,10 +3,9 @@ title: "Section 78aa - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "78aa"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 78aa"
-generated_at: "2026-03-30T10:02:07.405Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.059Z"
 ---
 
 # § 78aa. Jurisdiction of offenses and suits

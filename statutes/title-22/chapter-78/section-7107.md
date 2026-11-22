@@ -3,10 +3,9 @@ title: "Section 7107 - Actions against governments failing to meet minimum stand
 usc_title: 22
 usc_section: "7107"
 chapter: 78
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 7107"
-generated_at: "2026-03-30T10:02:42.466Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.437Z"
 ---
 
 # § 7107. Actions against governments failing to meet minimum standards
@@ -15,7 +14,7 @@ status: "active"
   - **(1)** does not comply with minimum standards for the elimination of trafficking; and
   - **(2)** is not making significant efforts to bring itself into compliance with such standards.
 - **(b)**
-  - **(1)** Not later than June 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title , and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
+  - **(1)** Not later than June 30 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title , and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report shall, to the extent concurrent reporting data is available, cover efforts and activities taking place during the period between April 1 of the year preceding the report and March 31 of the year in which the report is made, and should include—
     - **(A)** a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments fully comply with such standards based only on concrete actions taken by the country that are recorded during the reporting period;
     - **(B)** a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments do not yet fully comply with such standards but are making significant efforts to bring themselves into compliance based only on concrete actions taken by the country (excluding any commitments by the country to take additional future steps during the next year) that are recorded during the reporting period;
     - **(C)** a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments do not fully comply with such standards and are not making significant efforts to bring themselves into compliance;

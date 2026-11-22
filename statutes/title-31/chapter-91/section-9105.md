@@ -3,16 +3,15 @@ title: "Section 9105 - Audits"
 usc_title: 31
 usc_section: "9105"
 chapter: 91
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 9105"
-generated_at: "2026-03-30T10:02:56.407Z"
-status: "active"
+generated_at: "2026-03-30T02:55:34.076Z"
 ---
 
 # § 9105. Audits
 
 - **(a)**
-  - **(1)** The financial statements of Government corporations shall be audited by the Inspector General of the corporation appointed under the Inspector General Act of 1978 (5 U.S.C. App.), or under other Federal law, or by an independent external auditor, as determined by the Inspector General or, if there is no Inspector General, by the head of the corporation.
+  - **(1)** The financial statements of Government corporations shall be audited by the Inspector General of the corporation appointed under chapter 4 of title 5, or under other Federal law, or by an independent external auditor, as determined by the Inspector General or, if there is no Inspector General, by the head of the corporation.
   - **(2)** Audits under this section shall be conducted in accordance with applicable generally accepted government auditing standards.
   - **(3)** Upon completion of the audit required by this subsection, the person who audits the statement shall submit a report on the audit to the head of the Government corporation, to the Chairman of the Committee on Government Operations of the House of Representatives, and to the Chairman of the Committee on Governmental Affairs of the Senate.
   - **(4)** The Comptroller General of the United States—

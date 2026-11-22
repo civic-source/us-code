@@ -3,15 +3,14 @@ title: "Section 213 - Medical, dental, etc., expenses"
 usc_title: 26
 usc_section: "213"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 213"
-generated_at: "2026-03-30T10:02:53.365Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.653Z"
 ---
 
 # § 213. Medical, dental, etc., expenses
 
-- **(a)** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 10 percent of adjusted gross income.
+- **(a)** There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
 - **(b)** An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 - **(c)**
   - **(1)** For purposes of subsection (a), expenses for the medical care of the taxpayer which are paid out of his estate during the 1-year period beginning with the day after the date of his death shall be treated as paid by the taxpayer at the time incurred.
@@ -50,4 +49,3 @@ status: "active"
     - **(A)** by the spouse of the individual or by a relative (directly or through a partnership, corporation, or other entity) unless the service is provided by a licensed professional with respect to such service, or
     - **(B)** by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
 - **(e)** Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
-- **(f)** In the case of taxable years beginning before January 1, 2021 , subsection (a) shall be applied with respect to a taxpayer by substituting “7.5 percent” for “10 percent”.

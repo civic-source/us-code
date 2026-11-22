@@ -3,10 +3,9 @@ title: "Section 2 - Compensation schedule for contractor employees"
 usc_title: 42
 usc_section: "2"
 chapter: 84
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T10:03:30.242Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.292Z"
 ---
 
 # § 7385s–2. Compensation schedule for contractor employees

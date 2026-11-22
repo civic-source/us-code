@@ -3,10 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T10:03:29.978Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.979Z"
 ---
 
 # § 1395w–27. Contracts with Medicare+Choice organizations
@@ -98,6 +97,7 @@ status: "active"
     - **(B)** Section 1395w–112(b)(5) of this title .
     - **(C)** Section 1395w–112(b)(6) of this title .
     - **(D)** Section 1395w–112(b)(7) of this title .
+    - **(E)** Section 1395w–112(b)(8) of this title .
 - **(g)**
   - **(1)** If the Secretary determines that a Medicare+Choice organization with a contract under this section—
     - **(A)** fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the individual;

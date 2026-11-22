@@ -1,15 +1,12 @@
 ---
-title: "Section 2540a - Transferability"
+title: "Section 2540a - Renumbered § 4972]"
 usc_title: 10
 usc_section: "2540a"
 chapter: 148
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2540a"
-generated_at: "2026-03-30T10:02:00.866Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.162Z"
 ---
 
-# § 2540a. Transferability
-
-A guarantee issued under this subchapter shall be fully and freely transferable.
+# [§ 2540a. Renumbered § 4972]
 

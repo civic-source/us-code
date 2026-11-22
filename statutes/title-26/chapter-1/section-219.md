@@ -3,10 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T10:02:53.366Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.653Z"
 ---
 
 # § 219. Retirement savings
@@ -31,6 +30,9 @@ status: "active"
         - **(I)** such dollar amount, multiplied by
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
       - **(ii)** If any amount after adjustment under clause (i) is not a multiple of $500, such amount shall be rounded to the next lower multiple of $500.
+      - **(iii)** In the case of any taxable year beginning in a calendar year after 2023, the $1,000 amount under subparagraph (B)(ii) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(c)**
   - **(1)** In the case of an individual to whom this paragraph applies for the taxable year, the limitation of paragraph (1) of subsection (b) shall be equal to the lesser of—
     - **(A)** the dollar amount in effect under subsection (b)(1)(A) for the taxable year, or
@@ -80,7 +82,7 @@ status: "active"
   - **(3)** For purposes of this subsection—
     - **(A)** Adjusted gross income of any taxpayer shall be determined—
       - **(i)** after application of sections 86 and 469, and
-      - **(ii)** without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
+      - **(ii)** without regard to sections 85(c), 135, 137, 221, and 911 or the deduction allowable under this section.
     - **(B)** The term “applicable dollar amount” means the following:
       - **(i)** In the case of a taxpayer filing a joint return, $80,000.
       - **(ii)** In the case of any other taxpayer (other than a married individual filing a separate return), $50,000.

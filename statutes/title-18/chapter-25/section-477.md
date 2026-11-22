@@ -3,10 +3,9 @@ title: "Section 477 - Possessing or selling impressions of tools used for obliga
 usc_title: 18
 usc_section: "477"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 477"
-generated_at: "2026-03-30T10:02:16.729Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.463Z"
 ---
 
 # § 477. Possessing or selling impressions of tools used for obligations or securities

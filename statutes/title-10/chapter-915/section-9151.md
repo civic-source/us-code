@@ -3,15 +3,14 @@ title: "Section 9151 - Commissioned officer grades"
 usc_title: 10
 usc_section: "9151"
 chapter: 915
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9151"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.257Z"
 ---
 
 # § 9151. Commissioned officer grades
 
-The commissioned grades in the Regular Air Force are:
+The commissioned grades in the Regular Air Force and in the Space Force are:
 
   - **(1)** Major general.
   - **(2)** Brigadier general.

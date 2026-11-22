@@ -3,10 +3,9 @@ title: "Section 7654 - Quartermaster supplies: military instruction camps"
 usc_title: 10
 usc_section: "7654"
 chapter: 771
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 7654"
-generated_at: "2026-03-30T10:02:00.889Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.235Z"
 ---
 
 # § 7654. Quartermaster supplies: military instruction camps

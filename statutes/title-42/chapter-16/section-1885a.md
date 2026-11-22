@@ -3,10 +3,9 @@ title: "Section 1885a - Women in science and engineering; support of activities 
 usc_title: 42
 usc_section: "1885a"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1885a"
-generated_at: "2026-03-30T10:03:30.107Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.131Z"
 ---
 
 # § 1885a. Women in science and engineering; support of activities by Foundation for promotion, etc.

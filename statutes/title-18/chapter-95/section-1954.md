@@ -3,10 +3,9 @@ title: "Section 1954 - Offer, acceptance, or solicitation to influence operation
 usc_title: 18
 usc_section: "1954"
 chapter: 95
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1954"
-generated_at: "2026-03-30T10:02:16.751Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.493Z"
 ---
 
 # § 1954. Offer, acceptance, or solicitation to influence operations of employee benefit plan

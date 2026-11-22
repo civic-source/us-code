@@ -3,10 +3,9 @@ title: "Section 653a - State Directory of New Hires"
 usc_title: 42
 usc_section: "653a"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 653a"
-generated_at: "2026-03-30T10:03:29.906Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.882Z"
 ---
 
 # § 653a. State Directory of New Hires
@@ -51,3 +50,4 @@ status: "active"
   - **(1)** The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
   - **(2)** A State agency responsible for administering a program specified in section 1320b–7(b) of this title shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of verifying eligibility for the program.
   - **(3)** State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
+  - **(4)** The Secretaries of Labor and of Veterans Affairs shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of tracking employment of veterans.

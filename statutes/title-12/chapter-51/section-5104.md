@@ -3,10 +3,9 @@ title: "Section 5104 - State license and registration application and issuance"
 usc_title: 12
 usc_section: "5104"
 chapter: 51
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 5104"
-generated_at: "2026-03-30T10:02:11.134Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.523Z"
 ---
 
 # § 5104. State license and registration application and issuance

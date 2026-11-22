@@ -3,10 +3,9 @@ title: "Section 2071 - Determination of other material as special nuclear materi
 usc_title: 42
 usc_section: "2071"
 chapter: 23
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 2071"
-generated_at: "2026-03-30T10:03:30.122Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.148Z"
 ---
 
 # § 2071. Determination of other material as special nuclear material; Presidential assent; effective date

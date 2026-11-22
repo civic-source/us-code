@@ -3,10 +3,9 @@ title: "Section 682 - Renumbered § 12314]"
 usc_title: 10
 usc_section: "682"
 chapter: 39
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 682"
-generated_at: "2026-03-30T10:02:00.785Z"
-status: "renumbered"
+generated_at: "2026-03-30T02:53:38.073Z"
 ---
 
 # [§ 682. Renumbered § 12314]

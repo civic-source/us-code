@@ -3,10 +3,9 @@ title: "Section 9031 - The Air Staff: function; composition"
 usc_title: 10
 usc_section: "9031"
 chapter: 905
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9031"
-generated_at: "2026-03-30T10:02:00.902Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.255Z"
 ---
 
 # § 9031. The Air Staff: function; composition
@@ -20,6 +19,6 @@ status: "active"
   - **(5)** The Surgeon General of the Air Force.
   - **(6)** The Judge Advocate General of the Air Force.
   - **(7)** The Chief of the Air Force Reserve.
-  - **(8)** Other members of the Air Force assigned or detailed to the Air Staff.
+  - **(8)** Other members of the Air Force or the Space Force assigned or detailed to the Air Staff.
   - **(9)** Civilian employees in the Department of the Air Force assigned or detailed to the Air Staff.
 - **(c)** Except as otherwise specifically prescribed by law, the Air Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.

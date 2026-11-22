@@ -3,10 +3,9 @@ title: "Section 2001 - House Office Building; control, supervision, and care"
 usc_title: 2
 usc_section: "2001"
 chapter: 30
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 2001"
-generated_at: "2026-03-30T10:01:29.405Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.822Z"
 ---
 
 # § 2001. House Office Building; control, supervision, and care

@@ -3,10 +3,9 @@ title: "Section 4814 - Administration of export controls"
 usc_title: 50
 usc_section: "4814"
 chapter: 58
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 4814"
-generated_at: "2026-03-30T10:03:53.253Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.283Z"
 ---
 
 # § 4814. Administration of export controls

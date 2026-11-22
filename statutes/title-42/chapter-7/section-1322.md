@@ -3,10 +3,9 @@ title: "Section 1322 - Repayment by State; certification; transfer; interest on 
 usc_title: 42
 usc_section: "1322"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1322"
-generated_at: "2026-03-30T10:03:29.938Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.927Z"
 ---
 
 # § 1322. Repayment by State; certification; transfer; interest on loan; credit of interest on loan
@@ -47,7 +46,7 @@ status: "active"
     - **(D)** In the case of a State which produces a solvency effort of 50 percent, 80 percent, and 90 percent rather than the 25 percent, 35 percent, and 50 percent required under subparagraph (B), the interest shall be computed at an interest rate which is 1 percentage point less than the otherwise applicable interest rate.
   - **(9)** Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
   - **(10)**
-    - **(A)** With respect to the period beginning on March 18, 2020 , and ending on December 31, 2020 —
+    - **(A)** With respect to the period beginning on March 18, 2020 , and ending on September 6, 2021 —
       - **(i)** any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
       - **(ii)** no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
     - **(B)** The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.

@@ -3,10 +3,9 @@ title: "Section 2890 - Rights and responsibilities of tenants of housing units"
 usc_title: 10
 usc_section: "2890"
 chapter: 169
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2890"
-generated_at: "2026-03-30T10:02:00.880Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.182Z"
 ---
 
 # § 2890. Rights and responsibilities of tenants of housing units
@@ -41,7 +40,7 @@ status: "active"
     - **(C)** In the case of maintenance or repairs necessary to ensure habitability of a housing unit, to prompt relocation into suitable lodging or other housing at no cost to the tenant until the maintenance or repairs are completed.
   - **(13)** The right to receive advice from military legal assistance on procedures involving mechanisms for resolving disputes with the property management company or property manager to include mediation, arbitration, and filing claims against a landlord.
   - **(14)** The right to enter into a dispute resolution process, as provided in section 2894 of this title , should all other methods be exhausted and, in which case, a decision in favor of the tenant may include a reduction in rent or an amount to be reimbursed or credited to the tenant.
-  - **(15)** The right to have the tenant’s basic allowance housing payments segregated and held in escrow, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
+  - **(15)** The right to have the tenant’s basic allowance housing payments segregated, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
   - **(16)** The right to have reasonable, advance notice of any entrance by a landlord, installation housing staff, or chain of command into the housing unit, except in the case of an emergency or abandonment of the housing unit.
   - **(17)** The right to not pay non-refundable fees or have application of rent credits arbitrarily held.
   - **(18)** The right to expect common documents, forms, and processes for housing units will be the same for all installations of the Department, to the maximum extent applicable without violating local, State, and Federal regulations.
@@ -53,15 +52,18 @@ status: "active"
   - **(5)** The responsibility to allow the landlord reasonable access to the rental home in accordance with the terms of the tenant lease agreement to allow the landlord to make necessary repairs in a timely manner.
   - **(6)** The responsibility to read all lease-related materials provided by the landlord and to comply with the terms of the lease agreement, lease addenda, and any associated rules and guidelines.
 - **(d)**
-  - **(1)** As part of the budget submission for fiscal year 2021, and biennially thereafter, the Secretary of Defense shall submit the then-current housing documents to the congressional defense committees.
+  - **(1)** As part of the budget submission for fiscal year 2021, and biennially thereafter, each Secretary of a military department shall submit the then-current housing documents to the congressional defense committees.
   - **(2)** Any change made to a housing document must be submitted to Congress at least 30 days before the change takes effect.
-  - **(3)** Upon submission of a housing document under paragraph (1) or (2), the Secretary of Defense shall publish the housing document on a publicly available Internet website of the Department of Defense.
+  - **(3)** Upon submission of a housing document under paragraph (1) or (2), each Secretary of a military department shall publish the housing document on a publicly available Internet website of the military department under the jurisdiction of such Secretary.
 - **(e)**
-  - **(1)** The Assistant Secretary of Defense for Sustainment shall investigate all reports of reprisal against a member of the armed forces for reporting an issue relating to a housing unit.
-  - **(2)** If the Assistant Secretary of Defense for Sustainment determines under paragraph (1) that landlord 1 1 So in original. Probably should be preceded by “a”. has retaliated against a member of the armed forces for reporting an issue relating to a housing unit, the Assistant Secretary shall—
+  - **(1)** The Inspector General of the Department of Defense shall investigate all reports of reprisal against a tenant for reporting an issue relating to a housing unit.
+  - **(2)** If the Inspector General determines under paragraph (1) that a landlord has retaliated against a tenant for reporting an issue relating to a housing unit, the Inspector General shall—
     - **(A)** provide initial notice to the Committees on Armed Services of the Senate and the House of Representatives as soon as practicable after making that determination; and
-    - **(B)** following that initial notice, provide an update to such committees every 30 days thereafter until such time as the Assistant Secretary has taken final action with respect to the retaliation.
-  - **(3)** The Assistant Secretary of Defense for Sustainment shall carry out this subsection in coordination with the Secretary of the military department concerned.
+    - **(B)** following that initial notice, provide an update to such committees every 30 days thereafter until such time as the Inspector General has taken final action with respect to the retaliation.
+  - **(3)** The Inspector General of the Department of Defense shall carry out this subsection in coordination with the Inspector General of the military department concerned.
 - **(f)**
   - **(1)** A tenant or prospective tenant of a housing unit may not be required to sign a nondisclosure agreement in connection with entering into, continuing, or terminating a lease for the housing unit. Any such agreement against the interests of the tenant is invalid.
-  - **(2)** Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation.
+  - **(2)** Paragraph (1) shall not apply to a nondisclosure agreement executed—
+    - **(A)** as part of the settlement of litigation; or
+    - **(B)** to avoid litigation if the tenant has retained legal counsel or has sought military legal assistance under section 1044 of this title .
+  - **(3)** A party presenting a proposed nondisclosure agreement to a tenant shall notify such tenant that such tenant may, not later than 10 business days after such presentation, seek legal counsel with respect to the terms of and implications of entering into such agreement. A tenant may not be required to sign such agreement before the end of such 10-day period.

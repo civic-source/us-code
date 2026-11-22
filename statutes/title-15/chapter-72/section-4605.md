@@ -3,10 +3,9 @@ title: "Section 4605 - Export of semiconductor manufacturing"
 usc_title: 15
 usc_section: "4605"
 chapter: 72
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 4605"
-generated_at: "2026-03-30T10:02:07.532Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.200Z"
 ---
 
 # § 4605. Export of semiconductor manufacturing

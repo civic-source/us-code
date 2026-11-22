@@ -3,10 +3,9 @@ title: "Section 21 - Inland Empire regional water recycling project"
 usc_title: 43
 usc_section: "21"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 21"
-generated_at: "2026-03-30T10:03:16.169Z"
-status: "active"
+generated_at: "2026-03-30T02:55:57.444Z"
 ---
 
 # § 390h–21. Inland Empire regional water recycling project

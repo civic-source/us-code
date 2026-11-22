@@ -3,10 +3,9 @@ title: "Section 306 - Special pay: officers holding positions of unusual respons
 usc_title: 37
 usc_section: "306"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 306"
-generated_at: "2026-03-30T10:03:13.390Z"
-status: "active"
+generated_at: "2026-03-30T02:55:44.051Z"
 ---
 
 # § 306. Special pay: officers holding positions of unusual responsibility and of critical nature

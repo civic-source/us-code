@@ -3,10 +3,9 @@ title: "Section 634 - General powers"
 usc_title: 15
 usc_section: "634"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 634"
-generated_at: "2026-03-30T10:02:07.430Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.086Z"
 ---
 
 # § 634. General powers
@@ -102,4 +101,8 @@ status: "active"
       - **(ii)** a Hearing Officer shall have the powers described in section 556(c) of such title; and
       - **(iii)** the relevant provisions of subchapter II of chapter 5 of such title (except for section 556(b) of such title) shall apply to such Hearing Officer.
     - **(D)** An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
-  - **(4)** In this subsection, the term “Hearing Officer” means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.
+  - **(4)**
+    - **(A)** Not later than 2 days after the date on which a final determination that a business concern does not meet the requirements of the status such concern claims to hold is made, such concern or the Administrator, as applicable, shall update the status of such concern in the System for Award Management (or any successor system).
+    - **(B)** If such concern fails to update the status of such concern as described in subparagraph (A), not later than 2 days after such failure the Administrator shall make such update.
+    - **(C)** A concern required to make an update described under subparagraph (A) shall notify a contracting officer for each contract with respect to which such concern has an offer or bid pending of the determination made under subparagraph (A), if the concern finds, in good faith, that such determination affects the eligibility of the concern to perform such a contract.
+  - **(5)** In this subsection, the term “Hearing Officer” means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.

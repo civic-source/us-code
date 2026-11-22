@@ -3,15 +3,14 @@ title: "Section 9276 - Silver star: award"
 usc_title: 10
 usc_section: "9276"
 chapter: 937
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9276"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.257Z"
 ---
 
 # § 9276. Silver star: award
 
-The President may award a silver star of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, is cited for gallantry in action that does not warrant a medal of honor or Air Force cross—
+The President may award a silver star of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force or the Space Force, is cited for gallantry in action that does not warrant a medal of honor or Air Force cross—
 
   - **(1)** while engaged in an action against an enemy of the United States;
   - **(2)** while engaged in military operations involving conflict with an opposing foreign force; or

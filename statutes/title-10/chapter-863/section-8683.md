@@ -3,10 +3,9 @@ title: "Section 8683 - Ship overhaul work: availability of appropriations for un
 usc_title: 10
 usc_section: "8683"
 chapter: 863
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8683"
-generated_at: "2026-03-30T10:02:00.898Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.248Z"
 ---
 
 # § 8683. Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work
@@ -17,3 +16,4 @@ status: "active"
 - **(b)** An appropriation available to the Department of Defense for a fiscal year may be used after the otherwise-applicable expiration of the availability for obligation of that appropriation—
   - **(1)** for payments to an industrial-fund activity for amounts required because of changes in the scope of work for ship overhaul, maintenance, and repair, in the case of work inducted into the industrial-fund activity during the fiscal year; and
   - **(2)** for payments under a contract for amounts required because of changes in the scope of work, in the case of a contract entered into during the fiscal year for ship overhaul, maintenance, and repair.
+- **(c)** In the application of section 1553(c) of title 31 to funds appropriated in the Operation and Maintenance, Navy account that are available for ship overhaul, the Secretary of the Navy may treat the limitation specified in paragraph (1) of such section to be “$10,000,000” rather than “$4,000,000”.

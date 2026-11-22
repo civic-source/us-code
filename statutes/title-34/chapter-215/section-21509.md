@@ -3,10 +3,9 @@ title: "Section 21509 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21509"
 chapter: 215
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "34 U.S.C. § 21509"
-generated_at: "2026-03-30T10:03:07.031Z"
-status: "active"
+generated_at: "2026-03-30T02:55:33.304Z"
 ---
 
 # § 21509. Authorization of appropriations

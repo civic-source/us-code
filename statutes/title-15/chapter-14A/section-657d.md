@@ -3,10 +3,9 @@ title: "Section 657d - Federal and State Technology Partnership Program"
 usc_title: 15
 usc_section: "657d"
 chapter: 14
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 657d"
-generated_at: "2026-03-30T10:02:07.447Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.106Z"
 ---
 
 # § 657d. Federal and State Technology Partnership Program
@@ -20,7 +19,7 @@ status: "active"
   - **(6)** The term “Mentoring Network” means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title .
   - **(7)** The term “recipient” means a person that receives an award or becomes party to a cooperative agreement under this section.
   - **(8)** The term “SBIR program” has the same meaning as in section 638(e)(4) of this title .
-  - **(9)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+  - **(9)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(10)** The term “STTR program” has the same meaning as in section 638(e)(6) of this title .
 - **(b)** The Administrator shall establish a program to be known as the Federal and State Technology Partnership Program, the purpose of which shall be to strengthen the technological competitiveness of small business concerns in the States.
 - **(c)**

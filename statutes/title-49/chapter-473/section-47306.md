@@ -1,15 +1,12 @@
 ---
-title: "Section 47306 - Criminal penalty"
+title: "Section 47306 - Repealed. Pub. L. 118–63, title VII, § 727 , May 16, 2024 , 138 Stat. 1271 ]"
 usc_title: 49
 usc_section: "47306"
 chapter: 473
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 47306"
-generated_at: "2026-03-30T10:03:55.116Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.407Z"
 ---
 
-# § 47306. Criminal penalty
-
-A person that knowingly and willfully violates a regulation prescribed by the Secretary of Transportation to carry out this chapter shall be fined under title 18, imprisoned for not more than 6 months, or both.
+# [§ 47306. Repealed. Pub. L. 118–63, title VII, § 727 , May 16, 2024 , 138 Stat. 1271 ]
 

@@ -3,10 +3,9 @@ title: "Section 2069 - Civil penalties"
 usc_title: 15
 usc_section: "2069"
 chapter: 47
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 2069"
-generated_at: "2026-03-30T10:02:07.501Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.165Z"
 ---
 
 # § 2069. Civil penalties

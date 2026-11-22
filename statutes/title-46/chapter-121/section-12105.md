@@ -3,10 +3,9 @@ title: "Section 12105 - Issuance of documentation"
 usc_title: 46
 usc_section: "12105"
 chapter: 121
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 12105"
-generated_at: "2026-03-30T10:03:46.774Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.558Z"
 ---
 
 # § 12105. Issuance of documentation
@@ -21,9 +20,8 @@ status: "active"
 - **(e)**
   - **(1)** Except as provided in paragraphs (2) and (3), a certificate of documentation issued under this part is valid for a 1-year period and may be renewed for additional 1-year periods.
   - **(2)**
-    - **(A)** A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.
-    - **(B)** During the period beginning January 1, 2019 , and ending December 31, 2021 , the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
-    - **(C)**
+    - **(A)** The owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for a certificate of documentation for a recreational vessel or the renewal thereof.
+    - **(B)**
       - **(i)** The Secretary shall assess and collect a fee—
         - **(I)** for the issuance of a certificate of documentation for a recreational vessel that is equivalent to the fee established for the issuance of a certificate of documentation under section 2110; and
         - **(II)** for the renewal of a certificate of documentation for a recreational vessel that is equivalent to the number of years of effectiveness of the certificate of documentation multiplied by the fee established for the renewal of a certificate of documentation under section 2110.

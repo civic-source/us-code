@@ -3,10 +3,9 @@ title: "Section 1310 - Authority to require certain information"
 usc_title: 29
 usc_section: "1310"
 chapter: 18
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "29 U.S.C. § 1310"
-generated_at: "2026-03-30T10:02:46.180Z"
-status: "active"
+generated_at: "2026-03-30T02:55:18.730Z"
 ---
 
 # § 1310. Authority to require certain information
@@ -28,5 +27,5 @@ status: "active"
     - **(A)** The term “funding target” has the meaning provided under section 1083(d)(1) of this title .
     - **(B)** The term “funding target attainment percentage” has the meaning provided under section 1083(d)(2) of this title .
     - **(C)** The term “at-risk status” has the meaning provided in section 1083(i)(4) of this title .
-  - **(3)** For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1082(h)(2)(C)(iv) of this title .
+  - **(3)** For purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1083(h)(2)(C)(iv) 1 1 See References in Text note below. of this title.
 - **(e)** The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.

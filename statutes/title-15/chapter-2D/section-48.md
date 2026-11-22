@@ -3,10 +3,9 @@ title: "Section 48 - Penalties"
 usc_title: 15
 usc_section: "48"
 chapter: 2
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 48"
-generated_at: "2026-03-30T10:02:07.415Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.070Z"
 ---
 
 # § 80a–48. Penalties

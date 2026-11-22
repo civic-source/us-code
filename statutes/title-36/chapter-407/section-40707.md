@@ -3,10 +3,9 @@ title: "Section 40707 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "40707"
 chapter: 407
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "36 U.S.C. § 40707"
-generated_at: "2026-03-30T10:03:09.256Z"
-status: "active"
+generated_at: "2026-03-30T02:55:44.696Z"
 ---
 
 # § 40707. Nonapplication of audit requirements

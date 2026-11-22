@@ -3,10 +3,9 @@ title: "Section 2330a - Monitoring ecosystem restoration"
 usc_title: 33
 usc_section: "2330a"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2330a"
-generated_at: "2026-03-30T10:03:00.815Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.125Z"
 ---
 
 # § 2330a. Monitoring ecosystem restoration

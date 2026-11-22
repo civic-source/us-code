@@ -3,10 +3,9 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-30T10:02:53.367Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.654Z"
 ---
 
 # § 221. Interest on education loans
@@ -22,7 +21,7 @@ status: "active"
         - **(II)** $50,000 ($100,000 in the case of a joint return), bears to
       - **(ii)** $15,000 ($30,000 in the case of a joint return).
     - **(C)** The term “modified adjusted gross income” means adjusted gross income determined—
-      - **(i)** without regard to this section and sections 222, 911, 931, and 933, and
+      - **(i)** without regard to this section and sections 85(c) 1 1 So in original. Probably should be followed by a comma. 911, 931, and 933, and
       - **(ii)** after application of sections 86, 135, 137, 219, and 469.
 - **(c)** No deduction shall be allowed by this section to an individual for the taxable year if a deduction under section 151 with respect to such individual is allowed to another taxpayer for the taxable year beginning in the calendar year in which such individual’s taxable year begins.
 - **(d)** For purposes of this section—

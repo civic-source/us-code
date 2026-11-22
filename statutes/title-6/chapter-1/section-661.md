@@ -3,10 +3,9 @@ title: "Section 661 - Cybersecurity strategy"
 usc_title: 6
 usc_section: "661"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 661"
-generated_at: "2026-03-30T10:01:43.257Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.477Z"
 ---
 
 # § 661. Cybersecurity strategy
@@ -34,4 +33,3 @@ status: "active"
   - **(2)** A copy of the implementation plan required under subsection (d) upon issuance, together with detailed information on any associated legislative or budgetary proposals.
 - **(f)** The strategy required under subsection (a) shall be in an unclassified form but may contain a classified annex.
 - **(g)** Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.
-- **(h)** In this section, the term “Homeland Security Enterprise” means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.

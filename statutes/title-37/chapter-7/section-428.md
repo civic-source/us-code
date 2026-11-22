@@ -3,10 +3,9 @@ title: "Section 428 - Renumbered § 488]"
 usc_title: 37
 usc_section: "428"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "37 U.S.C. § 428"
-generated_at: "2026-03-30T10:03:13.395Z"
-status: "renumbered"
+generated_at: "2026-03-30T02:55:44.058Z"
 ---
 
 # [§ 428. Renumbered § 488]

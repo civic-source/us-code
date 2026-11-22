@@ -3,10 +3,9 @@ title: "Section 9027 - Temporary financing of short-time compensation agreements
 usc_title: 15
 usc_section: "9027"
 chapter: 116
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "15 U.S.C. § 9027"
-generated_at: "2026-03-30T10:02:07.566Z"
-status: "active"
+generated_at: "2026-03-30T02:54:08.240Z"
 ---
 
 # § 9027. Temporary financing of short-time compensation agreements
@@ -29,7 +28,7 @@ status: "active"
   - **(4)** The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this section.
 - **(d)** An agreement entered into under this section shall apply to weeks of unemployment—
   - **(1)** beginning on or after the date on which such agreement is entered into; and
-  - **(2)** ending on or before December 31, 2020 .
+  - **(2)** ending on or before September 6, 2021 .
 - **(e)** If a State has entered into an agreement under this section and subsequently enacts a State law providing for the payment of short-time compensation under a short-time compensation program that meets the definition of such a program under section 3306(v) of title 26 , the State—
   - **(1)** shall not be eligible for payments under this section for weeks of unemployment beginning after the effective date of such State law; and
   - **(2)** subject to section 9026(b)(2) of this title , shall be eligible to receive payments under section 9026 of this title after the effective date of such State law.

@@ -3,10 +3,9 @@ title: "Section 4532 - Rates of compensation disbursed by Chief Administrative O
 usc_title: 2
 usc_section: "4532"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 4532"
-generated_at: "2026-03-30T10:01:29.412Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.832Z"
 ---
 
 # § 4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined

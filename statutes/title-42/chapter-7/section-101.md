@@ -3,10 +3,9 @@ title: "Section 101 - Eligibility, enrollment, and information"
 usc_title: 42
 usc_section: "101"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-03-30T10:03:29.981Z"
-status: "active"
+generated_at: "2026-03-30T02:56:10.981Z"
 ---
 
 # § 1395w–101. Eligibility, enrollment, and information
@@ -21,7 +20,7 @@ status: "active"
       - **(iv)** A part D eligible individual who is enrolled in an MSA plan (as defined in section 1395w–28(b)(3) of this title ) may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
   - **(2)** Coverage under prescription drug plans and MA–PD plans shall first be effective on January 1, 2006 .
   - **(3)** For purposes of this part:
-    - **(A)** The term “part D eligible individual” means an individual who is entitled to benefits under part A or enrolled under part B.
+    - **(A)** The term “part D eligible individual” means an individual who is entitled to benefits under part A or enrolled under part B (but not including an individual enrolled solely for coverage of immunosuppressive drugs under section 1395 o (b) of this title).
     - **(B)** The term “MA plan” has the meaning given such term in section 1395w–28(b)(1) of this title .
     - **(C)** The term “MA–PD plan” means an MA plan that provides qualified prescription drug coverage.
 - **(b)**

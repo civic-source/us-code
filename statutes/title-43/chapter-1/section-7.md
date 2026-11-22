@@ -3,10 +3,9 @@ title: "Section 7 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 43
 usc_section: "7"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-03-30T10:03:16.160Z"
-status: "repealed"
+generated_at: "2026-03-30T02:55:57.432Z"
 ---
 
 # § 7. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632 , 641

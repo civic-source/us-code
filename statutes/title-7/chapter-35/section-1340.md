@@ -3,10 +3,9 @@ title: "Section 1340 - Supplemental provisions relating to wheat marketing quota
 usc_title: 7
 usc_section: "1340"
 chapter: 35
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1340"
-generated_at: "2026-03-30T10:01:46.712Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.305Z"
 ---
 
 # § 1340. Supplemental provisions relating to wheat marketing quotas; marketing penalty for rice; crop loans on cotton, wheat, rice, tobacco, and peanuts

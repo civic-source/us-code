@@ -3,10 +3,9 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-03-30T10:02:15.887Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.683Z"
 ---
 
 # § 2703a. Special rules for Haiti
@@ -134,7 +133,7 @@ status: "active"
       - **(ii)** The Secretary of Commerce may establish and impose penalties for the submission to the Secretary of Commerce of fraudulent information under the program established under subparagraph (B), other than a claim described in clause (i).
   - **(5)**
     - **(A)** Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
-      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
+      - **(i)** Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
       - **(ii)** Fabrics or yarns, to the extent that such fabrics or yarns are designated as not being available in commercial quantities for purposes of—
         - **(I)** section 2703(b)(2)(A)(v) of this title ;
         - **(II)** section 3721(b)(5) of this title ;

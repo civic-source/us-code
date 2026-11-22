@@ -3,10 +3,9 @@ title: "Section 1742a - Good Samaritan Search and Recovery Act"
 usc_title: 43
 usc_section: "1742a"
 chapter: 35
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "43 U.S.C. § 1742a"
-generated_at: "2026-03-30T10:03:16.207Z"
-status: "active"
+generated_at: "2026-03-30T02:55:57.488Z"
 ---
 
 # § 1742a. Good Samaritan Search and Recovery Act
@@ -24,8 +23,8 @@ status: "active"
       - **(i)** shall be acting for private purposes; and
       - **(ii)** shall not be considered to be a Federal volunteer;
     - **(B)** an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section shall not be considered to be a volunteer under section 102301(c) of title 54 ;
-    - **(C)** chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
-    - **(D)** chapter 81 of title 5 (commonly known as the “Federal Employees Compensation Act”), shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
+    - **(C)** chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”) shall not apply to an eligible organization or individual carrying out a privately requested good Samaritan search-and-recovery mission under this section; and
+    - **(D)** chapter 81 of title 5 (commonly known as the “Federal Employees Compensation Act”) shall not apply to an eligible organization or individual conducting a good Samaritan search-and-recovery mission under this section, and the conduct of the good Samaritan search-and-recovery mission shall not constitute civilian employment.
 - **(c)** The Secretary shall not require an eligible organization or individual to have liability insurance as a condition of accessing Federal land under this section, if the eligible organization or individual—
   - **(1)** acknowledges and consents, in writing, to the provisions described in subparagraphs (A) through (D) of subsection (b)(2); and
   - **(2)** signs a waiver releasing the Federal Government from all liability relating to the access granted under this section and agrees to indemnify and hold harmless the United States from any claims or lawsuits arising from any conduct by the eligible organization or individual on Federal land.

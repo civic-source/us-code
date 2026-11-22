@@ -3,10 +3,9 @@ title: "Section 5b - Acceptance of amendments to Articles of Agreement of the Fu
 usc_title: 22
 usc_section: "5b"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 5b"
-generated_at: "2026-03-30T10:02:42.363Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.318Z"
 ---
 
 # § 286e–5b. Acceptance of amendments to Articles of Agreement of the Fund approved on June 28, 1990

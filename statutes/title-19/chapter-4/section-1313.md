@@ -3,10 +3,9 @@ title: "Section 1313 - Drawback and refunds"
 usc_title: 19
 usc_section: "1313"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1313"
-generated_at: "2026-03-30T10:02:15.843Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.627Z"
 ---
 
 # § 1313. Drawback and refunds
@@ -107,7 +106,7 @@ status: "active"
   - **(1)** For purposes of this subsection and subsection ( o )—
     - **(A)** the term “USMCA country” has the meaning given that term in section 4502 of this title ;
     - **(B)** the term “good subject to USMCA drawback” has the meaning given that term in section 4534(a) of this title ;
-    - **(C)** a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection ( o ) is subject to section 1508(b)(2)(B) of this title ; and
+    - **(C)** a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection ( o ) is subject to section 4534(e) of this title ; and
     - **(D)** the term “good subject to Chile FTA drawback” has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
   - **(2)** For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
     - **(A)** the total amount of customs duties paid or owed on the good on importation into the United States, or
@@ -179,7 +178,7 @@ status: "active"
       - **(ii)** the claimant files a request for such extension with U.S. Customs and Border Protection—
         - **(I)** within 1 year from the last day of the 5-year period referred to in paragraph (1), or
         - **(II)** within 1 year after October 11, 1996 ,
-    - **(B)** If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(3) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+    - **(B)** If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in section 1508(c)(2) of this title shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
     - **(C)** For purposes of this paragraph, the term “major disaster” has the meaning given that term in section 5122(2) of title 42 .
   - **(4)** All drawback claims filed on and after the date that is 2 years after February 24, 2016 , shall be filed electronically.
 - **(s)**

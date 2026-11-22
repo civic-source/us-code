@@ -3,10 +3,9 @@ title: "Section 3305 - The American Institute in Taiwan"
 usc_title: 22
 usc_section: "3305"
 chapter: 48
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 3305"
-generated_at: "2026-03-30T10:02:42.424Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.391Z"
 ---
 
 # § 3305. The American Institute in Taiwan

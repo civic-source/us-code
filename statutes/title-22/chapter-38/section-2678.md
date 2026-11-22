@@ -3,10 +3,9 @@ title: "Section 2678 - Reduction in earmarks if appropriations are less than aut
 usc_title: 22
 usc_section: "2678"
 chapter: 38
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 2678"
-generated_at: "2026-03-30T10:02:42.412Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.378Z"
 ---
 
 # § 2678. Reduction in earmarks if appropriations are less than authorizations

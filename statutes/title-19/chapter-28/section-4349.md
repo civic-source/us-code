@@ -3,10 +3,9 @@ title: "Section 4349 - Report on intellectual property rights enforcement"
 usc_title: 19
 usc_section: "4349"
 chapter: 28
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 4349"
-generated_at: "2026-03-30T10:02:15.906Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.707Z"
 ---
 
 # § 4349. Report on intellectual property rights enforcement

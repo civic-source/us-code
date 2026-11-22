@@ -3,10 +3,9 @@ title: "Section 579b - Omitted"
 usc_title: 33
 usc_section: "579b"
 chapter: 12
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 579b"
-generated_at: "2026-03-30T10:03:00.764Z"
-status: "omitted"
+generated_at: "2026-03-30T02:55:41.063Z"
 ---
 
 # § 579b. Omitted

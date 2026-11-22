@@ -1,18 +1,15 @@
 ---
-title: "Section 9083 - Officer career field for space"
+title: "Section 9083 - Vice Chief of Space Operations"
 usc_title: 10
 usc_section: "9083"
 chapter: 908
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.256Z"
 ---
 
-# § 9083. Officer career field for space
+# § 9083. Vice Chief of Space Operations
 
-The Secretary of the Air Force shall establish and implement policies and procedures to develop a career field for officers in the Air Force with technical competence in space-related matters to have the capability to—
-
-  - **(1)** develop space doctrine and concepts of space operations;
-  - **(2)** develop space systems; and
-  - **(3)** operate space systems.
+- **(a)** There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
+- **(b)** The Vice Chief of Space Operations, while so serving, has the grade of general without vacating the permanent grade of the officer.
+- **(c)** The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.

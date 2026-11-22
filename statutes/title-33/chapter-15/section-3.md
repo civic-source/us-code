@@ -3,10 +3,9 @@ title: "Section 3 - Levees; raising and enlarging"
 usc_title: 33
 usc_section: "3"
 chapter: 15
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-03-30T10:03:00.770Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.070Z"
 ---
 
 # § 702a–3. Levees; raising and enlarging

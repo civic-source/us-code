@@ -3,10 +3,9 @@ title: "Section 25A - American Opportunity and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T10:02:53.320Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.587Z"
 ---
 
 # § 25A. American Opportunity and Lifetime Learning credits
@@ -39,17 +38,12 @@ status: "active"
     - **(A)** The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a 1 1 So in original. Probably should be “an”. American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
     - **(B)** For purposes of paragraph (1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.
 - **(d)**
-  - **(1)** The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+  - **(1)** The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as—
     - **(A)** the excess of—
       - **(i)** the taxpayer’s modified adjusted gross income for such taxable year, over
       - **(ii)** $80,000 ($160,000 in the case of a joint return), bears to
     - **(B)** $10,000 ($20,000 in the case of a joint return).
-  - **(2)** The Lifetime Learning Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
-    - **(A)** the excess of—
-      - **(i)** the taxpayer’s modified adjusted gross income for such taxable year, over
-      - **(ii)** $40,000 ($80,000 in the case of a joint return), bears to
-    - **(B)** $10,000 ($20,000 in the case of a joint return).
-  - **(3)** For purposes of this subsection, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+  - **(2)** For purposes of this subsection, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 - **(e)** A taxpayer may elect not to have this section apply with respect to the qualified tuition and related expenses of an individual for any taxable year.
 - **(f)** For purposes of this section—
   - **(1)**
@@ -65,11 +59,11 @@ status: "active"
     - **(B)** which is eligible to participate in a program under title IV of such Act.
 - **(g)**
   - **(1)**
-    - **(A)** No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
-    - **(B)**
-      - **(i)** The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit unless the individual’s taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
-      - **(ii)** No American Opportunity Tax Credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
-      - **(iii)** No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+    - **(A)** No credit shall be allowed under subsection (a) to an individual unless the individual includes on the return of tax for the taxable year—
+      - **(i)** such individual’s social security number, and
+      - **(ii)** in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer’s spouse, the name and social security number of such individual.
+    - **(B)** No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which the taxpayer paid qualified tuition and related expenses taken into account under this section on the return of tax for the taxable year.
+    - **(C)** For purposes of this paragraph, the term “social security number” shall have the meaning given such term in section 24(h)(7).
   - **(2)** The amount of qualified tuition and related expenses otherwise taken into account under subsection (a) with respect to an individual for an academic period shall be reduced (before the application of subsections (b), (c), and (d)) by the sum of any amounts paid for the benefit of such individual which are allocable to such period as—
     - **(A)** a qualified scholarship which is excludable from gross income under section 117,
     - **(B)** an educational assistance allowance under chapter 30, 31, 32, 34, or 35 of title 38, United States Code, or under chapter 1606 of title 10, United States Code, and
@@ -83,10 +77,6 @@ status: "active"
   - **(6)** If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
   - **(7)** If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
   - **(8)** Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
-- **(h)**
-  - **(1)** In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
-    - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(2)** If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
+- **[(h)**
 - **(i)** Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 2 2 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 - **(j)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.

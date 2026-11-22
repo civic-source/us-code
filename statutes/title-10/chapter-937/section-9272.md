@@ -3,15 +3,14 @@ title: "Section 9272 - Air Force cross: award"
 usc_title: 10
 usc_section: "9272"
 chapter: 937
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9272"
-generated_at: "2026-03-30T10:02:00.903Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.257Z"
 ---
 
 # § 9272. Air Force cross: award
 
-The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
+The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force or the Space Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
 
   - **(1)** while engaged in an action against an enemy of the United States;
   - **(2)** while engaged in military operations involving conflict with an opposing foreign force; or

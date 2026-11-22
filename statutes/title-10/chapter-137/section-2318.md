@@ -1,15 +1,12 @@
 ---
-title: "Section 2318 - Advocates for competition"
+title: "Section 2318 - Renumbered § 3249]"
 usc_title: 10
 usc_section: "2318"
 chapter: 137
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2318"
-generated_at: "2026-03-30T10:02:00.848Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.153Z"
 ---
 
-# § 2318. Advocates for competition
-
-Each advocate for competition designated pursuant to section 1705(a) of title 41 for an agency named in section 2303(a) of this title shall be a general or flag officer if a member of the armed forces or in a position classified above GS–15 pursuant to section 5108 of title 5 , if a civilian employee and shall be designated to serve for a minimum of two years.
+# [§ 2318. Renumbered § 3249]
 

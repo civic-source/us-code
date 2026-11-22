@@ -3,10 +3,9 @@ title: "Section 1191 - Confirmation of plan"
 usc_title: 11
 usc_section: "1191"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "11 U.S.C. § 1191"
-generated_at: "2026-03-30T10:02:03.436Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.886Z"
 ---
 
 # § 1191. Confirmation of plan
@@ -19,10 +18,10 @@ status: "active"
     - **(A)** the plan provides that all of the projected disposable income of the debtor to be received in the 3-year period, or such longer period not to exceed 5 years as the court may fix, beginning on the date that the first payment is due under the plan will be applied to make payments under the plan; or
     - **(B)** the value of the property to be distributed under the plan in the 3-year period, or such longer period not to exceed 5 years as the court may fix, beginning on the date on which the first distribution is due under the plan is not less than the projected disposable income of the debtor.
   - **(3)**
-    - **(A)**
-      - **(i)** The debtor will be able to make all payments under the plan; or
-      - **(ii)** there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
-    - **(B)** the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.
+    - **(A)** The debtor will be able to make all payments under the plan; or
+    - **(B)**
+      - **(i)** there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
+      - **(ii)** the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.
 - **(d)** For purposes of this section, the term “disposable income” means the income that is received by the debtor and that is not reasonably necessary to be expended—
   - **(1)** for—
     - **(A)** the maintenance or support of the debtor or a dependent of the debtor; or

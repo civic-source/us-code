@@ -3,10 +3,9 @@ title: "Section 2 - Authorization of appropriations for reimbursement of Commodi
 usc_title: 16
 usc_section: "2"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T10:02:22.386Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.889Z"
 ---
 
 # § 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation

@@ -3,10 +3,9 @@ title: "Section 1522 - Research and development"
 usc_title: 7
 usc_section: "1522"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1522"
-generated_at: "2026-03-30T10:01:46.726Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.322Z"
 ---
 
 # § 1522. Research and development
@@ -109,7 +108,6 @@ status: "active"
         - **(VII)** moderating the impacts of disaster years on historic revenue, such as—
         - **(VIII)** improving agent training and outreach to underserved regions and sectors such as small dairy farms; and
         - **(IX)** providing coverage and indemnification of insurable losses—
-    - **(F)** Notwithstanding section 1502(b)(3) of this title , with respect to plans described under this paragraph, the term “beginning farmer or rancher” means a farmer or rancher who has not actively operated and managed a farm or ranch with a bona fide insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than 10 crop years.
   - **(8)** A policy developed under this subsection may be prepared without regard to the limitations of this subchapter, including—
     - **(A)** the requirement concerning the levels of coverage and rates; and
     - **(B)** the requirement that the price level for each insured agricultural commodity must equal the expected market price for the agricultural commodity, as established by the Board.

@@ -3,10 +3,9 @@ title: "Section 387q - Tobacco Products Scientific Advisory Committee"
 usc_title: 21
 usc_section: "387q"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "21 U.S.C. § 387q"
-generated_at: "2026-03-30T10:02:39.057Z"
-status: "active"
+generated_at: "2026-03-30T02:54:54.282Z"
 ---
 
 # § 387q. Tobacco Products Scientific Advisory Committee
@@ -33,5 +32,5 @@ status: "active"
 - **(d)**
   - **(1)** Members of the Advisory Committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which may not exceed the daily equivalent of the rate in effect under the Senior Executive Schedule under section 5382 of title 5 , for each day (including travel time) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
   - **(2)** The Secretary shall furnish the Advisory Committee clerical and other assistance.
-  - **(3)** Section 14 of the Federal Advisory Committee Act does not apply to the Advisory Committee.
+  - **(3)** Section 1013 of title 5 does not apply to the Advisory Committee.
 - **(e)** The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under section 552(b) of title 5 .

@@ -3,10 +3,9 @@ title: "Section 5683 - Penalty and forfeiture for removal of liquors under impro
 usc_title: 26
 usc_section: "5683"
 chapter: 51
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 5683"
-generated_at: "2026-03-30T10:02:53.505Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.825Z"
 ---
 
 # § 5683. Penalty and forfeiture for removal of liquors under improper brands

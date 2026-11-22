@@ -3,10 +3,9 @@ title: "Section 63 - Water rights"
 usc_title: 16
 usc_section: "63"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 63"
-generated_at: "2026-03-30T10:02:22.356Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.844Z"
 ---
 
 # § 460nnn–63. Water rights

@@ -3,16 +3,15 @@ title: "Section 1126 - Program Management Improvement Officers and Program Manag
 usc_title: 31
 usc_section: "1126"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "31 U.S.C. § 1126"
-generated_at: "2026-03-30T10:02:56.385Z"
-status: "active"
+generated_at: "2026-03-30T02:55:34.050Z"
 ---
 
 # § 1126. Program Management Improvement Officers and Program Management Policy Council
 
 - **(a)**
-  - **(1)** The head of each agency described in section 901(b) shall designate a senior executive of the agency as the Program Management Improvement Officer of the agency.
+  - **(1)** The head of each agency described in section 901(b) shall designate a senior executive of the agency, who has significant program and project management oversight responsibilities, as the Program Management Improvement Officer of the agency.
   - **(2)** The Program Management Improvement Officer of an agency designated under paragraph (1) shall—
     - **(A)** implement program management policies established by the agency under section 503(c); and
     - **(B)** develop a strategy for enhancing the role of program managers within the agency that includes the following:
@@ -35,7 +34,7 @@ status: "active"
       - **(ii)** policy to support continuous improvement in program and project management; and
       - **(iii)** major challenges across agencies in managing programs;
     - **(D)** advise on the development and applicability of standards governmentwide for program management transparency; and
-    - **(E)** review the information published on the website of the Office of Management and Budget pursuant to section 1122.
+    - **(E)** review the information published on a website described in section 1122.
   - **(3)**
     - **(A)** The Council shall be composed of the following members:
       - **(i)** Five members from the Office of Management and Budget as follows:
@@ -49,5 +48,5 @@ status: "active"
     - **(B)**
       - **(i)** The Deputy Director for Management of the Office of Management and Budget shall be the Chairperson of the Council. A Vice Chairperson shall be elected by the members and shall serve a term of not more than 1 year.
       - **(ii)** The Chairperson shall preside at the meetings of the Council, determine the agenda of the Council, direct the work of the Council, and establish and direct subgroups of the Council as appropriate.
-  - **(4)** The Council shall meet not less than twice per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
+  - **(4)** The Council shall meet not less than four times per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
   - **(5)** The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.

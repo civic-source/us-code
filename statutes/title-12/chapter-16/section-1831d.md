@@ -3,10 +3,9 @@ title: "Section 1831d - State-chartered insured depository institutions and insu
 usc_title: 12
 usc_section: "1831d"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "12 U.S.C. § 1831d"
-generated_at: "2026-03-30T10:02:11.077Z"
-status: "active"
+generated_at: "2026-03-30T02:53:53.457Z"
 ---
 
 # § 1831d. State-chartered insured depository institutions and insured branches of foreign banks

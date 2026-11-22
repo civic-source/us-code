@@ -3,10 +3,9 @@ title: "Section 574 - Coordination of Department emergency communications grant 
 usc_title: 6
 usc_section: "574"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "6 U.S.C. § 574"
-generated_at: "2026-03-30T10:01:43.251Z"
-status: "active"
+generated_at: "2026-03-30T02:53:09.470Z"
 ---
 
 # § 574. Coordination of Department emergency communications grant programs

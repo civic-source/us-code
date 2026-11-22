@@ -3,10 +3,9 @@ title: "Section 124 - Transfer of Freedmen’s Hospital to Howard University"
 usc_title: 20
 usc_section: "124"
 chapter: 8
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "20 U.S.C. § 124"
-generated_at: "2026-03-30T10:02:18.548Z"
-status: "active"
+generated_at: "2026-03-30T02:54:48.084Z"
 ---
 
 # § 124. Transfer of Freedmen’s Hospital to Howard University

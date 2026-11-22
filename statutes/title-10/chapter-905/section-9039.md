@@ -3,16 +3,15 @@ title: "Section 9039 - Chief of Chaplains: appointment; duties"
 usc_title: 10
 usc_section: "9039"
 chapter: 905
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 9039"
-generated_at: "2026-03-30T10:02:00.902Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.255Z"
 ---
 
 # § 9039. Chief of Chaplains: appointment; duties
 
 - **(a)**
-  - **(1)** There is a Chief of Chaplains in the Air Force, appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force designated under section 9067(h) of this title as chaplains who—
+  - **(1)** There is a Chief of Chaplains for the Air Force and the Space Force, appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force designated under section 9067(h) of this title as chaplains who—
     - **(A)** are serving on active duty; and
     - **(B)** have served on active duty as a chaplain for at least eight years.
   - **(2)** An officer appointed as the Chief of Chaplains shall be appointed for a term of three years. However, the President may terminate or extend the appointment at any time.

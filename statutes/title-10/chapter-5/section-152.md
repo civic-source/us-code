@@ -3,10 +3,9 @@ title: "Section 152 - Chairman: appointment; grade and rank"
 usc_title: 10
 usc_section: "152"
 chapter: 5
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 152"
-generated_at: "2026-03-30T10:02:00.764Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.041Z"
 ---
 
 # § 152. Chairman: appointment; grade and rank
@@ -18,7 +17,7 @@ status: "active"
 - **(b)**
   - **(1)** The President may appoint an officer as Chairman of the Joint Chiefs of Staff only if the officer has served as—
     - **(A)** the Vice Chairman of the Joint Chiefs of Staff;
-    - **(B)** the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps; or
+    - **(B)** the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, or the Chief of Space Operations; or
     - **(C)** the commander of a unified or specified combatant command.
   - **(2)** The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
-- **(c)** The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+- **(c)** The Chairman, while so serving, holds the grade of general or, in the case of the Navy, admiral, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.

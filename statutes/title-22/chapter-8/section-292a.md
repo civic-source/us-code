@@ -3,10 +3,9 @@ title: "Section 292a - Demonstration of solar and other renewable energy technol
 usc_title: 22
 usc_section: "292a"
 chapter: 8
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 292a"
-generated_at: "2026-03-30T10:02:42.370Z"
-status: "active"
+generated_at: "2026-03-30T02:55:05.326Z"
 ---
 
 # § 292a. Demonstration of solar and other renewable energy technologies in foreign countries

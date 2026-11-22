@@ -3,10 +3,9 @@ title: "Section 1907 - List of laws inapplicable to procurements of commercially
 usc_title: 41
 usc_section: "1907"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "41 U.S.C. § 1907"
-generated_at: "2026-03-30T10:03:15.177Z"
-status: "active"
+generated_at: "2026-03-30T02:55:55.803Z"
 ---
 
 # § 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items
@@ -18,7 +17,7 @@ status: "active"
     - **(A)** section 15 of the Small Business Act ( 15 U.S.C. 644 ); or
     - **(B)** bid protest procedures developed under the authority of—
       - **(i)** subchapter V of chapter 35 of title 31;
-      - **(ii)** section 2305(e) and (f) of title 10; or
+      - **(ii)** section 3308 of title 10 ; or
       - **(iii)** sections 3706 and 3707 of this title.
 - **(b)** Except as provided in subsection (a)(3), a provision of law referred to in subsection (a)(1) is a provision of law that the Administrator determines imposes Federal Government-unique policies, procedures, requirements, or restrictions for the procurement of property or services on persons whom the Federal Government has awarded contracts for the procurement of commercially available off-the-shelf items, except for a provision of law that—
   - **(1)** provides for criminal or civil penalties; or

@@ -3,10 +3,9 @@ title: "Section 3509 - Determination of employer’s liability for certain emplo
 usc_title: 26
 usc_section: "3509"
 chapter: 25
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 3509"
-generated_at: "2026-03-30T10:02:53.481Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.797Z"
 ---
 
 # § 3509. Determination of employer’s liability for certain employment taxes

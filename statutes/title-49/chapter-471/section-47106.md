@@ -3,10 +3,9 @@ title: "Section 47106 - Project grant application approval conditioned on satisf
 usc_title: 49
 usc_section: "47106"
 chapter: 471
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 47106"
-generated_at: "2026-03-30T10:03:55.112Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.399Z"
 ---
 
 # § 47106. Project grant application approval conditioned on satisfaction of project requirements
@@ -23,7 +22,7 @@ status: "active"
     - **(C)** operation and maintenance requirements;
     - **(D)** the review of waste management contracts; and
     - **(E)** the potential for cost savings or the generation of revenue; and
-  - **(7)** if the project is at an airport that is listed as having an unclassified status under the most recent national plan of integrated airport systems (as described in section 47103), the project will be funded with an amount appropriated under section 47114(d)(3)(B) and is—
+  - **(7)** if the project is at an airport that is listed as having an unclassified status under the most recent national plan of integrated airport systems (as described in section 47103), the project will be funded with an amount appropriated under section 47114(d)(2)(B) and is—
     - **(A)** for maintenance of the pavement of the primary runway;
     - **(B)** for obstruction removal for the primary runway;
     - **(C)** for the rehabilitation of the primary runway; or

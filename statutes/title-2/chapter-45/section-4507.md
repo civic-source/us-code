@@ -3,10 +3,9 @@ title: "Section 4507 - Longevity compensation"
 usc_title: 2
 usc_section: "4507"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "2 U.S.C. § 4507"
-generated_at: "2026-03-30T10:01:29.412Z"
-status: "active"
+generated_at: "2026-03-30T02:53:04.831Z"
 ---
 
 # § 4507. Longevity compensation

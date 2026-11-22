@@ -3,10 +3,9 @@ title: "Section 314 - Statistical expertise"
 usc_title: 5
 usc_section: "314"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "5 U.S.C. § 314"
-generated_at: "2026-03-30T10:01:40.530Z"
-status: "active"
+generated_at: "2026-03-30T02:52:55.979Z"
 ---
 
 # § 314. Statistical expertise

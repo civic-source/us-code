@@ -1,15 +1,12 @@
 ---
-title: "Section 308 - Authorization of appropriations"
+title: "Section 308 - Renumbered §§ 46102 to 46108]"
 usc_title: 46
 usc_section: "308"
 chapter: 3
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 308"
-generated_at: "2026-03-30T10:03:46.760Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.540Z"
 ---
 
-# § 308. Authorization of appropriations
-
-There is authorized to be appropriated to the Federal Maritime Commission $28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019 for the activities of the Commission authorized under this chapter and subtitle IV.
+# [§§ 302 to 308. Renumbered §§ 46102 to 46108]
 

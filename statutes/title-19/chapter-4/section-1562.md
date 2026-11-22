@@ -3,10 +3,9 @@ title: "Section 1562 - Manipulation in warehouse"
 usc_title: 19
 usc_section: "1562"
 chapter: 4
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "19 U.S.C. § 1562"
-generated_at: "2026-03-30T10:02:15.855Z"
-status: "active"
+generated_at: "2026-03-30T02:54:24.644Z"
 ---
 
 # § 1562. Manipulation in warehouse
@@ -16,7 +15,7 @@ Merchandise shall only be withdrawn from a bonded warehouse in such quantity and
   - **(1)** without payment of duties for exportation to a USMCA country, as defined in section 4502 of this title , if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 4534(a) of this title ;
   - **(2)** for exportation to a USMCA country if the merchandise consists of goods subject to USMCA drawback, as defined in section 4534(a) of this title , except that—
     - **(A)** the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition, and
-    - **(B)** duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the merchandise, the customs duty may be waived or reduced (subject to section 1508(b)(2)(B) of this title ) in an amount that does not exceed the lesser of—
+    - **(B)** duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the merchandise, the customs duty may be waived or reduced (subject to section 4534(e) of this title ) in an amount that does not exceed the lesser of—
       - **(i)** the total amount of customs duties paid or owed on the merchandise on importation into the United States, or
       - **(ii)** the total amount of customs duties paid on the merchandise to the USMCA country;
   - **(3)** without payment of duties for exportation to any foreign country other than to Chile, to a USMCA country, or to Canada when exports to that country are subject to paragraph (4);

@@ -3,10 +3,9 @@ title: "Section 1751 - Study of the feasibility of a North American National Sec
 usc_title: 8
 usc_section: "1751"
 chapter: 15
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "8 U.S.C. § 1751"
-generated_at: "2026-03-30T10:01:43.814Z"
-status: "active"
+generated_at: "2026-03-30T02:53:10.508Z"
 ---
 
 # § 1751. Study of the feasibility of a North American National Security Program

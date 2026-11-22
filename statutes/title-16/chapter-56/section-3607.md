@@ -3,10 +3,9 @@ title: "Section 3607 - Enforcement"
 usc_title: 16
 usc_section: "3607"
 chapter: 56
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 3607"
-generated_at: "2026-03-30T10:02:22.475Z"
-status: "active"
+generated_at: "2026-03-30T02:54:23.018Z"
 ---
 
 # § 3607. Enforcement

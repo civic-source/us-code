@@ -3,10 +3,9 @@ title: "Section 263A - Capitalization and inclusion in inventory costs of certai
 usc_title: 26
 usc_section: "263A"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 263A"
-generated_at: "2026-03-30T10:02:53.369Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.657Z"
 ---
 
 # § 263A. Capitalization and inclusion in inventory costs of certain expenses
@@ -23,7 +22,7 @@ status: "active"
   - **(2)** Real or personal property described in section 1221(a)(1) which is acquired by the taxpayer for resale.
 - **(c)**
   - **(1)** This section shall not apply to any property produced by the taxpayer for use by the taxpayer other than in a trade or business or an activity conducted for profit.
-  - **(2)** This section shall not apply to any amount allowable as a deduction under section 174.
+  - **(2)** This section shall not apply to any amount allowable as a deduction under section 174 or 174A.
   - **(3)** This section shall not apply to any cost allowable as a deduction under section 167(h), 179B, 263(c), 263(i), 291(b)(2), 616, or 617.
   - **(4)** This section shall not apply to any property produced by the taxpayer pursuant to a long-term contract.
   - **(5)** This section shall not apply to—
@@ -91,12 +90,10 @@ status: "active"
     - **(B)** Subparagraph (A) shall not apply to any qualified residence interest (within the meaning of section 163(h)).
     - **(C)** Except as provided in regulations, in the case of any flow-through entity, this paragraph shall be applied first at the entity level and then at the beneficiary level.
   - **(3)** This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
-  - **(4)**
-    - **(A)** For purposes of this subsection, the production period shall not include the aging period for—
-      - **(i)** beer (as defined in section 5052(a)),
-      - **(ii)** wine (as described in section 5041(a)), or
-      - **(iii)** distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-    - **(B)** This paragraph shall not apply to interest costs paid or accrued after December 31, 2020 .
+  - **(4)** For purposes of this subsection, the production period shall not include the aging period for—
+    - **(A)** beer (as defined in section 5052(a)),
+    - **(B)** wine (as described in section 5041(a)), or
+    - **(C)** distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
   - **(5)** For purposes of this subsection—
     - **(A)** Property has a long useful life if such property is—
       - **(i)** real property, or

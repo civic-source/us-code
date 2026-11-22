@@ -3,10 +3,9 @@ title: "Section 136 - Transferred"
 usc_title: 22
 usc_section: "136"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "22 U.S.C. § 136"
-generated_at: "2026-03-30T10:02:42.350Z"
-status: "transferred"
+generated_at: "2026-03-30T02:55:05.302Z"
 ---
 
 # §§ 135, 136. Transferred

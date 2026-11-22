@@ -3,10 +3,9 @@ title: "Section 4503 - Fishing, fish tender, and fish processing vessel certific
 usc_title: 46
 usc_section: "4503"
 chapter: 45
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "46 U.S.C. § 4503"
-generated_at: "2026-03-30T10:03:46.766Z"
-status: "active"
+generated_at: "2026-03-30T02:56:15.548Z"
 ---
 
 # § 4503. Fishing, fish tender, and fish processing vessel certification
@@ -14,7 +13,7 @@ status: "active"
 - **(a)** A vessel to which this subsection applies may not be operated unless the vessel—
   - **(1)** meets all survey and classification requirements prescribed by the American Bureau of Shipping or another similarly qualified organization approved by the Secretary; and
   - **(2)** has on board a certificate issued by the American Bureau of Shipping or that other organization evidencing compliance with this subsection.
-- **(b)** Except as provided in section 4503a, subsection (a) applies to a fish processing vessel to which this chapter applies that—
+- **(b)** Subsection (a) applies to a fish processing vessel to which this chapter applies that—
   - **(1)** is built after July 27, 1990 ; or
   - **(2)** undergoes a major conversion completed after that date.
 - **(c)**
@@ -51,7 +50,7 @@ status: "active"
     - **(G)** maintenance of records to demonstrate compliance with the program, and the availability of such records for inspection; and
     - **(H)** such other aspects of vessel safety as the Secretary considers appropriate.
 - **(f)**
-  - **(1)** For purposes of this section and section 4503a, the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
+  - **(1)** For purposes of this section and section 4503a, 1 1 See References in Text note below. the term “built” means, with respect to a vessel, that the vessel’s construction has reached any of the following stages:
     - **(A)** The vessel’s keel is laid.
     - **(B)** Construction identifiable with the vessel has begun and assembly of that vessel has commenced comprising of at least 50 metric tons or one percent of the estimated mass of all structural material, whichever is less.
   - **(2)** In the case of a vessel greater than 79 feet overall in length, for purposes of paragraph (1)(A) a keel is deemed to be laid when a marine surveyor affirms that a structure adequate for serving as a keel for such vessel is in place and identified for use in the construction of such vessel.

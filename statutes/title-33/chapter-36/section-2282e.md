@@ -3,10 +3,9 @@ title: "Section 2282e - Post-authorization change reports"
 usc_title: 33
 usc_section: "2282e"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2282e"
-generated_at: "2026-03-30T10:03:00.811Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.119Z"
 ---
 
 # § 2282e. Post-authorization change reports

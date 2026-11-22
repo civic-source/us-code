@@ -3,10 +3,9 @@ title: "Section 137 - Adoption assistance programs"
 usc_title: 26
 usc_section: "137"
 chapter: 1
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 137"
-generated_at: "2026-03-30T10:02:53.347Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.628Z"
 ---
 
 # § 137. Adoption assistance programs
@@ -20,7 +19,7 @@ status: "active"
     - **(A)** the amount (if any) by which the taxpayer’s adjusted gross income exceeds $150,000, bears to
     - **(B)** $40,000.
   - **(3)** For purposes of paragraph (2), adjusted gross income shall be determined—
-    - **(A)** without regard to this section and sections 221, 222, 911, 931, and 933, and
+    - **(A)** without regard to this section and sections 85(c) 1 1 So in original. Probably should be followed by a comma. 221, 911, 931, and 933, and
     - **(B)** after the application of sections 86, 135, 219, and 469.
 - **(c)** For purposes of this section, an adoption assistance program is a separate written plan of an employer for the exclusive benefit of such employer’s employees—
   - **(1)** under which the employer provides such employees with adoption assistance, and

@@ -3,10 +3,9 @@ title: "Section 742f - Powers of Secretaries of the Interior and Commerce"
 usc_title: 16
 usc_section: "742f"
 chapter: 9
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 742f"
-generated_at: "2026-03-30T10:02:22.397Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.903Z"
 ---
 
 # § 742f. Powers of Secretaries of the Interior and Commerce
@@ -58,4 +57,4 @@ status: "active"
 - **(f)** Not later than 1 year after January 4, 2011 , and every 5 years thereafter, the Secretary of the Interior shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
   - **(1)** evaluating the accomplishments of the volunteer program, the community partnerships program, and the refuge education programs authorized under this section, and of the National Volunteer Coordination Program and volunteer coordination strategy under section 742f–1 of this title ; and
   - **(2)** making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).
-- **(g)** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
+- **(g)** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2023 through 2027.

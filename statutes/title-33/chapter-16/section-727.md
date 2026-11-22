@@ -1,15 +1,12 @@
 ---
-title: "Section 727 - Lighthouse and other sites; necessity for cession by State of jurisdiction"
+title: "Section 727 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(2), Jan. 1, 2021 , 134 Stat. 4759"
 usc_title: 33
 usc_section: "727"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 727"
-generated_at: "2026-03-30T10:03:00.772Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.072Z"
 ---
 
-# § 727. Lighthouse and other sites; necessity for cession by State of jurisdiction
-
-No lighthouse, beacon, public piers, or landmark, shall be built or erected on any site until cession of jurisdiction over the same has been made to the United States.
+# § 727. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(2), Jan. 1, 2021 , 134 Stat. 4759
 

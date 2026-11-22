@@ -3,10 +3,9 @@ title: "Section 718e - Loans and transfers, alteration, and reproduction of stam
 usc_title: 16
 usc_section: "718e"
 chapter: 7
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "16 U.S.C. § 718e"
-generated_at: "2026-03-30T10:02:22.396Z"
-status: "active"
+generated_at: "2026-03-30T02:54:22.902Z"
 ---
 
 # § 718e. Loans and transfers, alteration, and reproduction of stamps

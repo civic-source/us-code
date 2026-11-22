@@ -3,10 +3,9 @@ title: "Section 1962a - Establishment; composition; other Federal agency partici
 usc_title: 42
 usc_section: "1962a"
 chapter: 19
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "42 U.S.C. § 1962a"
-generated_at: "2026-03-30T10:03:30.108Z"
-status: "active"
+generated_at: "2026-03-30T02:56:11.133Z"
 ---
 
 # § 1962a. Establishment; composition; other Federal agency participation; designation of Chairman

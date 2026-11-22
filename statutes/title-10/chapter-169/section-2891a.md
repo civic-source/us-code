@@ -3,10 +3,9 @@ title: "Section 2891a - Requirements relating to management of housing units"
 usc_title: 10
 usc_section: "2891a"
 chapter: 169
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 2891a"
-generated_at: "2026-03-30T10:02:00.881Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.183Z"
 ---
 
 # § 2891a. Requirements relating to management of housing units
@@ -16,7 +15,7 @@ status: "active"
   - **(1)** The installation commander shall be responsible for—
     - **(A)** reviewing, on an annual basis, the mold mitigation plan and pest control plan of each landlord managing housing units for the installation; and
     - **(B)** notifying the landlord and the major subordinate command of any deficiencies found in either plan.
-  - **(2)** In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions 1 1 So in original. Probably should be followed by a period.
+  - **(2)** In response to a request by the head of the housing management office of an installation, the installation commander shall use the assigned bio-environmental personnel or contractor equivalent at the installation to test housing units for mold, unsafe water conditions, and other health and safety conditions.
 - **(c)**
   - **(1)** The head of the housing management office of an installation shall be responsible for—
     - **(A)** conducting a physical inspection of, and approving the habitability of, a vacant housing unit for the installation before the landlord managing the housing unit is authorized to offer the housing unit available for occupancy;
@@ -45,16 +44,22 @@ status: "active"
     - **(A)** with the permission of the tenant of the housing unit as appropriate, physical inspections of the housing unit; and
     - **(B)** physical inspections of any common areas maintained by the landlord.
   - **(10)** A landlord providing a housing unit shall agree to participate in the dispute resolution and payment-withholding processes established pursuant to section 2894 of this title .
-  - **(11)** A landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning prospective tenants to housing units provided by the landlord.
+  - **(11)** Upon request by a prospective tenant, a landlord providing a housing unit shall ensure that the needs of enrollees in the Exceptional Family Member Program, or any successor program, are considered in assigning the prospective tenant to a housing unit provided by the landlord.
   - **(12)** A landlord providing a housing unit shall maintain an electronic work order system that enables access by the tenant to view work order history, status, and other relevant information, as required by section 2892 of this title .
   - **(13)** A landlord providing a housing unit shall agree to have any agreements or forms to be used by the landlord approved by the Assistant Secretary of Defense for Sustainment, including the following:
     - **(A)** A common lease agreement.
     - **(B)** Any disclosure or nondisclosure forms that could be given to a tenant.
-- **(e)**
-  - **(1)** A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the any 2 2 So in original. basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
+- **(e)** The Secretary concerned shall be responsible for—
+  - **(1)** providing for a mold inspection of each vacant housing unit before any new tenant moves into the unit; and
+  - **(2)** providing to the new tenant the results of the inspection.
+- **(f)**
+  - **(1)** A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
   - **(2)** Nothing in paragraph (1) shall be construed—
     - **(A)** to prohibit a landlord from imposing an additional payment—
       - **(i)** for optional services provided to military tenants, such as access to a gym or a parking space;
       - **(ii)** for non-essential utility services, as determined in accordance with regulations promulgated by the Secretary concerned; or
       - **(iii)** to recover damages associated with tenant negligence, consistent with subsection (c)(2); or
-    - **(B)** to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title , so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of the any 2 basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
+    - **(B)** to limit or otherwise affect the authority of the Secretary concerned to enter into rental guarantee agreements under section 2876 of this title or to make differential lease payments under section 2877 of this title , so long as such agreements or payments do not require a tenant to pay an out-of-pocket fee or payment in addition to the amount of any basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces.
+  - **(3)**
+    - **(A)** Costs incurred to reasonably modify or upgrade a housing unit to comply with standards addressing discrimination against an individual with a disability established pursuant to the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12101 et seq.), or to meet the reasonable modification and accommodation requirements of section 804 of the Fair Housing Act ( 42 U.S.C. 3604 ) and in order to facilitate occupancy of a housing unit by an individual with a disability, may not be considered optional services under paragraph (2)(A)(i) or another exception to the prohibition in paragraph (1) against collection from tenants of housing units of amounts in addition to rent.
+    - **(B)** In subparagraph (A), the term “disability” has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12102 ).

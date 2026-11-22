@@ -3,10 +3,9 @@ title: "Section 347 - International engagement authorities for service academies
 usc_title: 10
 usc_section: "347"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 347"
-generated_at: "2026-03-30T10:02:00.772Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.054Z"
 ---
 
 # § 347. International engagement authorities for service academies
@@ -17,7 +16,7 @@ status: "active"
       - **(i)** in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 7442 of this title ;
       - **(ii)** in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 8454 of this title ; and
       - **(iii)** in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9442 of this title .
-    - **(B)** The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 60 at any one time.
+    - **(B)** The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 80 at any one time.
   - **(2)** The Secretary of a military department, upon approval by the Secretary of Defense, shall determine—
     - **(A)** the countries from which persons may be selected for appointment under this subsection to the Service Academy under the jurisdiction of that Secretary; and
     - **(B)** the number of persons that may be selected from each country.

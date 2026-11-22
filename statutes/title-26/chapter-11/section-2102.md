@@ -3,10 +3,9 @@ title: "Section 2102 - Credits against tax"
 usc_title: 26
 usc_section: "2102"
 chapter: 11
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "26 U.S.C. § 2102"
-generated_at: "2026-03-30T10:02:53.470Z"
-status: "active"
+generated_at: "2026-03-30T02:55:27.783Z"
 ---
 
 # § 2102. Credits against tax

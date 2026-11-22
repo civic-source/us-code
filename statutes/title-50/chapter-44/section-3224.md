@@ -3,10 +3,9 @@ title: "Section 3224 - Intelligence officer training program"
 usc_title: 50
 usc_section: "3224"
 chapter: 44
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "50 U.S.C. § 3224"
-generated_at: "2026-03-30T10:03:53.221Z"
-status: "active"
+generated_at: "2026-03-30T02:56:26.238Z"
 ---
 
 # § 3224. Intelligence officer training program
@@ -40,6 +39,6 @@ status: "active"
   - **(5)** The term “Hispanic-serving institution” has the meaning given that term in section 1101a(a)(5) of title 20 .
   - **(6)** The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given that term in section 1059g(b)(2) of title 20 .
   - **(7)** The term “study abroad program” means a program of study that—
-    - **(A)** takes places 1 1 So in original. Probably should be “takes place”. outside the geographical boundaries of the United States;
+    - **(A)** takes place outside the geographical boundaries of the United States;
     - **(B)** focuses on areas of the world that are critical to the national security interests of the United States and are generally underrepresented in study abroad programs at institutions of higher education, including Africa, Asia, Central and Eastern Europe, Eurasia, Latin America, and the Middle East; and
     - **(C)** is a credit or noncredit program.

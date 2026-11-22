@@ -3,10 +3,9 @@ title: "Section 1951 - Interference with commerce by threats or violence"
 usc_title: 18
 usc_section: "1951"
 chapter: 95
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "18 U.S.C. § 1951"
-generated_at: "2026-03-30T10:02:16.751Z"
-status: "active"
+generated_at: "2026-03-30T02:54:16.492Z"
 ---
 
 # § 1951. Interference with commerce by threats or violence

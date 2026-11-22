@@ -3,10 +3,9 @@ title: "Section 2251 - Inland Waterways Users Board"
 usc_title: 33
 usc_section: "2251"
 chapter: 36
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 2251"
-generated_at: "2026-03-30T10:03:00.808Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.116Z"
 ---
 
 # § 2251. Inland Waterways Users Board
@@ -36,6 +35,6 @@ status: "active"
     - **(B)** make revisions to the program, as appropriate.
 - **(e)** The chairperson of the Users Board and the project development team member appointed by the chairperson under subsection (b)(3) may sign the project management plan for the qualifying project or the study or design of a commercial navigation feature or component of the inland waterways and inland harbors of the United States.
 - **(f)**
-  - **(1)** The Users Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.), other than section 14, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
-  - **(2)** For the purposes of complying with the Federal Advisory Committee Act (5 U.S.C. App.), the members of the Users Board shall not be considered special Government employees (as defined in section 202 of title 18 ).
+  - **(1)** The Users Board shall be subject to chapter 10 of title 5, other than section 1013, and, with the consent of the appropriate agency head, the Users Board may use the facilities and services of any Federal agency.
+  - **(2)** For the purposes of complying with chapter 10 of title 5, the members of the Users Board shall not be considered special Government employees (as defined in section 202 of title 18 ).
   - **(3)** Non-Federal members of the Users Board while engaged in the performance of their duties away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 .

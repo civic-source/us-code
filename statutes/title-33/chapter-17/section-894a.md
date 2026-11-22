@@ -3,10 +3,9 @@ title: "Section 894a - Actions to address sexual assault at National Oceanic and
 usc_title: 33
 usc_section: "894a"
 chapter: 17
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "33 U.S.C. § 894a"
-generated_at: "2026-03-30T10:03:00.774Z"
-status: "active"
+generated_at: "2026-03-30T02:55:41.075Z"
 ---
 
 # § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration
@@ -21,7 +20,7 @@ status: "active"
   - **(4)** Easy and ready availability of information described in paragraph (3).
   - **(5)** Establishing a mechanism by which—
     - **(A)** questions regarding sexual assault can be confidentially asked and confidentially answered; and
-    - **(B)** incidents of sexual assault can be confidentially reported.
+    - **(B)** incidents of sexual assault can be reported on a restricted or unrestricted basis.
   - **(6)** Protocols for the investigation of complaints by command and law enforcement personnel.
   - **(7)** Prohibiting retaliation and consequences for retaliatory actions against someone who reports a sexual assault.
   - **(8)** Oversight by the Under Secretary of administrative and disciplinary actions in response to substantiated incidents of sexual assault.

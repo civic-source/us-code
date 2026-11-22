@@ -1,15 +1,14 @@
 ---
-title: "Section 8802 - Sales: members of Army and Air Force; prices"
+title: "Section 8802 - Sales: members of Army, Air Force, and Space Force; prices"
 usc_title: 10
 usc_section: "8802"
 chapter: 879
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 8802"
-generated_at: "2026-03-30T10:02:00.899Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.251Z"
 ---
 
-# § 8802. Sales: members of Army and Air Force; prices
+# § 8802. Sales: members of Army, Air Force, and Space Force; prices
 
-The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army or the Air Force at prices charged members of the naval service.
+The Navy and the Marine Corps shall sell subsistence supplies to any member of the Army, the Air Force, or the Space Force at prices charged members of the naval service.
 

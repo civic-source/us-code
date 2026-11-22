@@ -3,10 +3,9 @@ title: "Section 1635f - Mandatory packer reporting of boxed beef sales"
 usc_title: 7
 usc_section: "1635f"
 chapter: 38
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "7 U.S.C. § 1635f"
-generated_at: "2026-03-30T10:01:46.733Z"
-status: "active"
+generated_at: "2026-03-30T02:53:42.332Z"
 ---
 
 # § 1635f. Mandatory packer reporting of boxed beef sales

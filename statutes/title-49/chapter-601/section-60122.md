@@ -3,10 +3,9 @@ title: "Section 60122 - Civil penalties"
 usc_title: 49
 usc_section: "60122"
 chapter: 601
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "49 U.S.C. § 60122"
-generated_at: "2026-03-30T10:03:55.121Z"
-status: "active"
+generated_at: "2026-03-30T02:56:19.415Z"
 ---
 
 # § 60122. Civil penalties
@@ -18,8 +17,9 @@ status: "active"
 - **(b)** In determining the amount of a civil penalty under this section—
   - **(1)** the Secretary shall consider—
     - **(A)** the nature, circumstances, and gravity of the violation, including adverse impact on the environment;
-    - **(B)** with respect to the violator, the degree of culpability, any history of prior violations, and any effect on ability to continue doing business; and
+    - **(B)** with respect to the violator, the degree of culpability, any history of prior violations, and any effect on ability to continue doing business;
     - **(C)** good faith in attempting to comply; and
+    - **(D)** self-disclosure and correction of violations, or actions to correct a violation, prior to discovery by the Pipeline and Hazardous Materials Safety Administration; and
   - **(2)** the Secretary may consider—
     - **(A)** the economic benefit gained from the violation without any reduction because of subsequent damages; and
     - **(B)** other matters that justice requires.

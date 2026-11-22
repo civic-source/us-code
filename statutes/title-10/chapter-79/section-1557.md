@@ -3,10 +3,9 @@ title: "Section 1557 - Timeliness standards for disposition of applications befo
 usc_title: 10
 usc_section: "1557"
 chapter: 79
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 1557"
-generated_at: "2026-03-30T10:02:00.826Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.128Z"
 ---
 
 # § 1557. Timeliness standards for disposition of applications before Corrections Boards
@@ -19,4 +18,4 @@ status: "active"
 - **(f)** In this section, the term “Corrections Board” means—
   - **(1)** with respect to the Department of the Army, the Army Board for Correction of Military Records;
   - **(2)** with respect to the Department of the Navy, the Board for Correction of Naval Records; and
-  - **(3)** with respect to the Department of the Air Force, the Air Force Board for Correction of Military Records.
+  - **(3)** with respect to the Department of the Air Force, the Department of the Air Force Board for Correction of Military Records.

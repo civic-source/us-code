@@ -3,10 +3,9 @@ title: "Section 312 - Payment of personnel expenses necessary for theater securi
 usc_title: 10
 usc_section: "312"
 chapter: 16
-current_through: "PL 116-220"
+current_through: "PL 119-73"
 classification: "10 U.S.C. § 312"
-generated_at: "2026-03-30T10:02:00.771Z"
-status: "active"
+generated_at: "2026-03-30T02:53:38.052Z"
 ---
 
 # § 312. Payment of personnel expenses necessary for theater security cooperation
@@ -17,7 +16,7 @@ status: "active"
     - **(A)** Defense personnel of friendly foreign governments.
     - **(B)** With the concurrence of the Secretary of State, other personnel of friendly foreign governments and non-governmental personnel.
   - **(2)** The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of a foreign country while the liaison officer is assigned temporarily to any headquarters in the Department of Defense.
-  - **(3)** The Secretary of Defense may pay the expenses of a liaison officer in connection with the assignment of that officer as described in paragraph (2) if the assignment is requested by the commander of a combatant command, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, or the head of a Defense Agency as follows:
+  - **(3)** The Secretary of Defense may pay the expenses of a liaison officer in connection with the assignment of that officer as described in paragraph (2) if the assignment is requested by the commander of a combatant command, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, the Chief of Space Operations, or the head of a Defense Agency as follows:
     - **(A)** Travel and subsistence expenses.
     - **(B)** Personal expenses directly necessary to carry out the duties of that officer in connection with that assignment.
     - **(C)** Expenses for medical care at a civilian medical facility if—
