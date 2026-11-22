@@ -1,0 +1,16 @@
+{
+  "targetSection": "18-2074",
+  "lastUpdated": "2026-11-22T06:13:18.951Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 2074",
+    "status": "success-empty",
+    "observedAt": "2026-11-22T06:13:18.951Z",
+    "lastSuccessAt": "2026-11-22T06:13:18.951Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": []
+}

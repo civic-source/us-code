@@ -1,0 +1,56 @@
+{
+  "targetSection": "18-175b",
+  "lastUpdated": "2026-11-22T06:13:16.961Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 175b",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:16.961Z",
+    "lastSuccessAt": "2026-11-22T06:13:16.961Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 2
+  },
+  "regulations": [
+    {
+      "cfrTitle": 9,
+      "cfrPart": 121,
+      "agency": "Animal and Plant Health Inspection Service, Department of Agriculture",
+      "description": "Possession, Use, and Transfer of Select Agents and Toxins",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-9/part-121",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 175b\"",
+      "matchingEvidence": "any of the categories described in <strong>18 U.S.C. 175b</strong>; (2) The individual is reasonably suspected<span class=\"elipsis\">…</span>any of the categories described in <strong>18 U.S.C. 175b</strong>. An individual's access approval may",
+      "retrievedAt": "2026-11-22T06:13:16.961Z"
+    },
+    {
+      "cfrTitle": 7,
+      "cfrPart": 331,
+      "agency": "Animal and Plant Health Inspection Service, Department of Agriculture",
+      "description": "Possession, Use, and Transfer of Select Agents and Toxins",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-7/part-331",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 175b\"",
+      "matchingEvidence": "any of the categories described in <strong>18 U.S.C. 175b</strong>; (2) The individual or entity, the responsible",
+      "retrievedAt": "2026-11-22T06:13:16.961Z"
+    },
+    {
+      "cfrTitle": 42,
+      "cfrPart": 73,
+      "agency": "Public Health Service, Department of Health and Human Services",
+      "description": "Select Agents and Toxins",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-42/part-73",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 175b\"",
+      "matchingEvidence": "any of the categories described in <strong>18 U.S.C. 175b</strong>, (2) The individual or entity, the Responsible",
+      "retrievedAt": "2026-11-22T06:13:16.961Z"
+    }
+  ]
+}

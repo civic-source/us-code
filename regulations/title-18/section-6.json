@@ -1,0 +1,30 @@
+{
+  "targetSection": "18-6",
+  "lastUpdated": "2026-11-22T06:13:10.432Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 6",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:10.432Z",
+    "lastSuccessAt": "2026-11-22T06:13:10.432Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 43,
+      "cfrPart": 3195,
+      "agency": "Bureau of Land Management, Department of the Interior",
+      "description": "Helium Contracts",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-43/part-3195",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 6\"",
+      "matchingEvidence": "S.C. 101-105; 5 U.S.C. 551(1); or in <strong>18 U.S.C. 6</strong>, but does not include Federal agency",
+      "retrievedAt": "2026-11-22T06:13:10.432Z"
+    }
+  ]
+}

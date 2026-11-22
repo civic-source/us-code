@@ -1,0 +1,30 @@
+{
+  "targetSection": "18-20",
+  "lastUpdated": "2026-11-22T06:13:14.650Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 20",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:14.650Z",
+    "lastSuccessAt": "2026-11-22T06:13:14.650Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 12,
+      "cfrPart": 1231,
+      "agency": "Federal Housing Finance Agency",
+      "description": "Golden Parachute and Indemnification Payments",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-12/part-1231",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 20\"",
+      "matchingEvidence": "title 18 of the United States Code (<strong>18 U.S.C. 20</strong>). (2) In making a determination under",
+      "retrievedAt": "2026-11-22T06:13:14.650Z"
+    }
+  ]
+}

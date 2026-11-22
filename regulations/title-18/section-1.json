@@ -1,0 +1,30 @@
+{
+  "targetSection": "18-1",
+  "lastUpdated": "2026-11-22T06:13:08.498Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 1",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:13:08.498Z",
+    "lastSuccessAt": "2026-11-22T06:13:08.498Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 32,
+      "cfrPart": 1290,
+      "agency": "Defense Logistics Agency",
+      "description": "Preparing and Processing Minor Offenses and Violation Notices Referred to U.S. District Courts",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-32/part-1290",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 1\"",
+      "matchingEvidence": "fine of not more than $500, or both (<strong>18 U.S.C. 1</strong>(3)). Note: A petty offense is a type",
+      "retrievedAt": "2026-11-22T06:13:08.498Z"
+    }
+  ]
+}
