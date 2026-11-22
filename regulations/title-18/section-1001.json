@@ -1,0 +1,44 @@
+{
+  "targetSection": "18-1001",
+  "lastUpdated": "2026-11-22T06:30:00.000Z",
+  "refreshStatus": {
+    "source": "ecfr",
+    "scope": "18 U.S.C. 1001",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:30:00.000Z",
+    "lastSuccessAt": "2026-11-22T06:30:00.000Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false,
+    "completedPages": 1,
+    "expectedPages": 1
+  },
+  "regulations": [
+    {
+      "cfrTitle": 19,
+      "cfrPart": 162,
+      "agency": "U.S. Customs and Border Protection, Department of Homeland Security",
+      "description": "Inspection, Search, and Seizure",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-19/part-162",
+      "extractionState": "verified",
+      "editorialReview": "accepted",
+      "relationshipType": "authority_citation",
+      "discoveryQuery": "\"18 U.S.C. 1001\"",
+      "matchingEvidence": "Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1592, 1593a, 1624; 18 U.S.C. 1001.",
+      "verifiedAuthorityText": "Authority: 5 U.S.C. 301; 19 U.S.C. 66, 1592, 1593a, 1624; 18 U.S.C. 1001.",
+      "retrievedAt": "2026-11-22T06:30:00.000Z"
+    },
+    {
+      "cfrTitle": 32,
+      "cfrPart": 516,
+      "agency": "Department of the Army, Department of Defense",
+      "description": "Litigation and Fraud Investigation Procedures",
+      "ecfrUrl": "https://www.ecfr.gov/current/title-32/part-516",
+      "extractionState": "candidate",
+      "editorialReview": "unreviewed",
+      "relationshipType": "text_match_candidate",
+      "discoveryQuery": "\"18 U.S.C. 1001\"",
+      "matchingEvidence": "False statements or entries generally under 18 U.S.C. 1001 in procurement and claims.",
+      "retrievedAt": "2026-11-22T06:30:00.000Z"
+    }
+  ]
+}

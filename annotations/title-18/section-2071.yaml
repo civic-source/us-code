@@ -1,145 +1,273 @@
+targetSection: 18 U.S.C. § 2071
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 70
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 2071
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Hitselberger
   citation: 991 F. Supp. 2d 108
   court: District
   date: '2014-03-05'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2659423/united-states-v-hitselberger/
+  impact: unverified_mention
 - caseName: United States v. Leonel Salazar
   citation: 443 F.3d 1153
   court: Appellate
   date: '2006-04-10'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/793937/united-states-v-leonel-salazar/
+  impact: unverified_mention
 - caseName: United States v. Salazar
   citation: ''
   court: Appellate
   date: '2006-04-10'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/3036891/united-states-v-salazar/
+  impact: unverified_mention
 - caseName: Smith v. United States
   citation: 678 F. App'x 403
   court: Appellate
   date: '2017-01-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8699008/smith-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Leonel Salazar
   citation: 455 F.3d 1022
   court: Appellate
   date: '2006-07-24'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/795141/united-states-v-leonel-salazar/
+  impact: unverified_mention
 - caseName: United States v. McCoy
   citation: 47 M.J. 653
   court: Appellate
   date: '1997-12-23'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7351927/united-states-v-mccoy/
+  impact: unverified_mention
 - caseName: United States v. Salazar
   citation: ''
   court: Appellate
   date: '2006-07-24'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/3038096/united-states-v-salazar/
+  impact: unverified_mention
 - caseName: United States v. Lang
   citation: 364 F.3d 1210
   court: Appellate
   date: '2004-04-21'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/164559/united-states-v-lang/
+  impact: unverified_mention
 - caseName: United States v. Osborn
   citation: 32 M.J. 854
   court: District
   date: '1991-02-15'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8667804/united-states-v-osborn/
+  impact: unverified_mention
 - caseName: United States v. Oglivie
   citation: 29 M.J. 1069
   court: District
   date: '1990-02-14'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8667284/united-states-v-oglivie/
+  impact: unverified_mention
 - caseName: United States v. Abbey
   citation: 63 M.J. 631
   court: Appellate
   date: '2006-05-31'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7352453/united-states-v-abbey/
+  impact: unverified_mention
 - caseName: United States v. Lawrence R. Gottfried
   citation: 58 F.3d 648
   court: Appellate
   date: '1995-06-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/698641/united-states-v-lawrence-r-gottfried/
+  impact: unverified_mention
 - caseName: State ex rel. Nebraska State Bar Ass'n v. Gottfried
   citation: 249 Neb. 939
   court: SCOTUS
   date: '1996-04-25'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8082430/state-ex-rel-nebraska-state-bar-assn-v-gottfried/
+  impact: unverified_mention
 - caseName: Addington v. United States
   citation: 94 Fed. Cl. 779
   court: District
   date: '2010-09-28'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6777766/addington-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Isler
   citation: 36 M.J. 1061
   court: District
   date: '1993-03-03'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8668564/united-states-v-isler/
+  impact: unverified_mention
 - caseName: United States v. Hitselberger
   citation: 991 F. Supp. 2d 101
   court: District
   date: '2013-12-03'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2659714/united-states-v-hitselberger/
+  impact: unverified_mention
 - caseName: United States v. Johnny Lang, Also Known as Melvin Pitchford, and Shari
     Lewis Lang
   citation: 405 F.3d 1060
   court: Appellate
   date: '2005-04-12'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/790045/united-states-v-johnny-lang-also-known-as-melvin-pitchford-and-shari/
+  impact: unverified_mention
 - caseName: United States v. Oliver L. North
   citation: 910 F.2d 843
   court: Appellate
   date: '1990-08-22'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/546208/united-states-v-oliver-l-north/
+  impact: unverified_mention
 - caseName: United States v. Oliver L. North
   citation: 920 F.2d 940
   court: Appellate
   date: '1990-11-30'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/552750/united-states-v-oliver-l-north/
+  impact: unverified_mention
 - caseName: Sibley v. Roberts
   citation: 224 F. Supp. 3d 29
   court: District
   date: '2016-12-19'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2071"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4331430/sibley-v-roberts/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 2071
-totalCases: 70
+  impact: unverified_mention

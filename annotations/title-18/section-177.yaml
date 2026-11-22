@@ -1,11 +1,25 @@
+targetSection: 18 U.S.C. § 177
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 1
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 177
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: Perez v. Becerra
   citation: ''
   court: District
   date: '2022-04-13'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 177"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6458902/perez-v-becerra/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 177
-totalCases: 1
+  impact: unverified_mention

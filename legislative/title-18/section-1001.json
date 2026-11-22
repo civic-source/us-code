@@ -1,0 +1,59 @@
+{
+  "targetSection": "18 U.S.C. \u00a7 1001",
+  "lastUpdated": "2026-11-22T06:30:00.000Z",
+  "refreshStatus": {
+    "source": "govinfo",
+    "scope": "18 U.S.C. 1001",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:30:00.000Z",
+    "lastSuccessAt": "2026-11-22T06:30:00.000Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false
+  },
+  "history": [
+    {
+      "publicLaw": "PL 104-292",
+      "congress": 104,
+      "billNumber": "H.R. 3166",
+      "enactedDate": "1996-10-11",
+      "effectiveDateNote": "Took effect upon enactment on October 11, 1996 (no separate effective-date postponement clause in Pub. L. 104-292, \u00a7 2).",
+      "applicabilityState": "known",
+      "crsSummary": "False Statements Accountability Act of 1996 \u2014 Restructures 18 U.S.C. \u00a7 1001 into subsections (a), (b), and (c) to apply false statement prohibitions across the executive, legislative, and judicial branches while exempting statements submitted by a party or counsel to a judge or magistrate in a judicial proceeding and limiting legislative branch coverage to administrative matters and congressional investigations.",
+      "enactedTextExcerpt": "SEC. 2. RESTORING FALSE STATEMENTS PROHIBITION. Section 1001 of title 18, United States Code, is amended to read as follows: '\u00a7 1001. Statements or entries generally (a) Except as otherwise provided in this section, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully\u2014 (1) falsifies, conceals, or covers up by any trick, scheme, or device a material fact; (2) makes any materially false, fictitious, or fraudulent statement or representation; or (3) makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry; shall be fined under this title or imprisoned not more than 5 years, or both.'",
+      "sourceCreditText": "Pub. L. 104-292, \u00a7 2, Oct. 11, 1996, 110 Stat. 3459",
+      "extractionState": "verified",
+      "editorialReview": "accepted",
+      "statutesAtLargeCitation": "110 Stat. 3459",
+      "statutesAtLargeUrl": "https://www.govinfo.gov/content/pkg/PLAW-104publ292/pdf/PLAW-104publ292.pdf",
+      "committeeReports": [
+        {
+          "reportNumber": "H. Rept. 104-680",
+          "chamber": "House",
+          "url": "https://www.congress.gov/104/crpt/hrpt680/CRPT-104hrpt680.pdf"
+        }
+      ]
+    },
+    {
+      "publicLaw": "PL 108-458",
+      "congress": 108,
+      "billNumber": "S. 2845",
+      "enactedDate": "2004-12-17",
+      "effectiveDateNote": "Enacted December 17, 2004 (Intelligence Reform and Terrorism Prevention Act of 2004, \u00a7 6703(a)).",
+      "applicabilityState": "known",
+      "crsSummary": "Increases the maximum term of imprisonment under 18 U.S.C. \u00a7 1001(a) from 5 years to 8 years if the offense involves international or domestic terrorism (as defined in 18 U.S.C. \u00a7 2331).",
+      "enactedTextExcerpt": "SEC. 6703. ENHANCED PENALTY FOR FALSE STATEMENTS IN TERRORISM INVESTIGATIONS. Section 1001(a) of title 18, United States Code, is amended in the matter following paragraph (3) by inserting 'or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years,' after 'not more than 5 years,'.",
+      "sourceCreditText": "Pub. L. 108-458, title VI, \u00a7 6703(a), Dec. 17, 2004, 118 Stat. 3766",
+      "extractionState": "verified",
+      "editorialReview": "accepted",
+      "statutesAtLargeCitation": "118 Stat. 3766",
+      "statutesAtLargeUrl": "https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf",
+      "committeeReports": [
+        {
+          "reportNumber": "H. Rept. 108-796",
+          "chamber": "Conference",
+          "url": "https://www.congress.gov/108/crpt/hrpt796/CRPT-108hrpt796.pdf"
+        }
+      ]
+    }
+  ]
+}

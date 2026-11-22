@@ -1,18 +1,38 @@
+targetSection: 18 U.S.C. § 2074
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 2
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 2074
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Strandlof
   citation: 667 F.3d 1146
   court: Appellate
   date: '2012-01-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2074"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/621623/united-states-v-strandlof/
+  impact: unverified_mention
 - caseName: United States v. Strandlof
   citation: ''
   court: Appellate
   date: '2012-01-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2074"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/621667/united-states-v-strandlof/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 2074
-totalCases: 2
+  impact: unverified_mention

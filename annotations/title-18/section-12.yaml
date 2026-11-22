@@ -1,60 +1,116 @@
+targetSection: 18 U.S.C. § 12
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 8
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 12
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: Stuckey v. United States
   citation: ''
   court: Appellate
   date: '2017-12-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4453278/stuckey-v-united-states/
+  impact: unverified_mention
 - caseName: Ljutica v. Holder
   citation: ''
   court: Appellate
   date: '2009-12-03'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2960537/ljutica-v-holder/
+  impact: unverified_mention
 - caseName: United States v. Aquino
   citation: ''
   court: Appellate
   date: '2009-02-06'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/3047230/united-states-v-aquino/
+  impact: unverified_mention
 - caseName: United States v. Regalado
   citation: ''
   court: Appellate
   date: '2008-05-09'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2960089/united-states-v-regalado/
+  impact: unverified_mention
 - caseName: United States v. PARIS
   citation: ''
   court: Appellate
   date: '2010-09-17'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/175472/united-states-v-paris/
+  impact: unverified_mention
 - caseName: Robert Marshal Murphy v. United States
   citation: ''
   court: Appellate
   date: '2011-03-08'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/3049108/robert-marshal-murphy-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Amerson
   citation: ''
   court: Appellate
   date: '2007-04-04'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2959792/united-states-v-amerson/
+  impact: unverified_mention
 - caseName: United States v. James Abrams
   citation: ''
   court: Appellate
   date: '2026-01-30'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 12"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/10781892/united-states-v-james-abrams/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 12
-totalCases: 8
+  impact: unverified_mention

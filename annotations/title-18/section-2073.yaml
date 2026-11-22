@@ -1,53 +1,103 @@
+targetSection: 18 U.S.C. § 2073
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 7
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 2073
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: Nordbrock v. United States
   citation: 96 F. Supp. 2d 944
   court: District
   date: '2000-02-04'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2420977/nordbrock-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Janyce Carter
   citation: 720 F.2d 941
   court: Appellate
   date: '1983-11-07'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/427036/united-states-v-janyce-carter/
+  impact: unverified_mention
 - caseName: United States v. Elyakim G. Rosenblatt
   citation: 554 F.2d 36
   court: Appellate
   date: '1977-04-19'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/344977/united-states-v-elyakim-g-rosenblatt/
+  impact: unverified_mention
 - caseName: United States v. Patricia Eileen Krapp
   citation: 815 F.2d 1183
   court: Appellate
   date: '1987-05-05'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/486434/united-states-v-patricia-eileen-krapp/
+  impact: unverified_mention
 - caseName: United States v. David G. Swaim
   citation: 642 F.2d 726
   court: Appellate
   date: '1981-03-05'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/387877/united-states-v-david-g-swaim/
+  impact: unverified_mention
 - caseName: Commonwealth v. Fulgiam
   citation: 477 Mass. 20
   court: SCOTUS
   date: '2017-05-05'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4389223/commonwealth-v-fulgiam/
+  impact: unverified_mention
 - caseName: Rex L. Neely v. United States
   citation: 274 F.2d 389
   court: Appellate
   date: '1960-01-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2073"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/249970/rex-l-neely-v-united-states/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 2073
-totalCases: 7
+  impact: unverified_mention

@@ -62,7 +62,7 @@
       "editorialReview": "unreviewed",
       "relationshipType": "text_match_candidate",
       "discoveryQuery": "\"18 U.S.C. 2071\"",
-      "matchingEvidence": "mutilating or destroying a public record (<strong>18 U.S.C. 2071</strong>). (m) The prohibition against counterfeiting<span class=\"elipsis\">…</span>mutilating or destroying public records <strong>18 U.S.C. 2071</strong>(b) $2,000 fine; 3 years imprisonment",
+      "matchingEvidence": "mutilating or destroying a public record (<strong>18 U.S.C. 2071</strong>). (m) The prohibition against counterfeiting<span class=\"elipsis\">\u2026</span>mutilating or destroying public records <strong>18 U.S.C. 2071</strong>(b) $2,000 fine; 3 years imprisonment",
       "retrievedAt": "2026-11-22T06:13:18.097Z"
     },
     {
@@ -140,7 +140,7 @@
       "editorialReview": "unreviewed",
       "relationshipType": "text_match_candidate",
       "discoveryQuery": "\"18 U.S.C. 2071\"",
-      "matchingEvidence": "Concealment, removal or mutilation generally—<strong>18 U.S.C. 2071</strong>. (F) Conspiracy—18 U.S.C. 371—(violation",
+      "matchingEvidence": "Concealment, removal or mutilation generally\u2014<strong>18 U.S.C. 2071</strong>. (F) Conspiracy\u201418 U.S.C. 371\u2014(violation",
       "retrievedAt": "2026-11-22T06:13:18.097Z"
     },
     {

@@ -1,67 +1,129 @@
+targetSection: 18 U.S.C. § 27
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 9
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 27
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Young-Bey
   citation: ''
   court: District
   date: '2024-01-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/9469651/united-states-v-young-bey/
+  impact: unverified_mention
 - caseName: United States v. Jason Springer
   citation: 866 F.3d 949
   court: Appellate
   date: '2017-08-09'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4417207/united-states-v-jason-springer/
+  impact: unverified_mention
 - caseName: Varughese v. Holder
   citation: ''
   court: Appellate
   date: '2010-12-16'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/181208/varughese-v-holder/
+  impact: unverified_mention
 - caseName: United States v. Colón-Rodríguez
   citation: 696 F.3d 102
   court: Appellate
   date: '2012-10-02'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8619477/united-states-v-colon-rodriguez/
+  impact: unverified_mention
 - caseName: United States v. Colon-Rodriguez
   citation: 696 F.3d 102
   court: Appellate
   date: '2012-10-02'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/809504/united-states-v-colon-rodriguez/
+  impact: unverified_mention
 - caseName: United States v. Herbert Vederman
   citation: 914 F.3d 112
   court: Appellate
   date: '2019-01-16'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4582001/united-states-v-herbert-vederman/
+  impact: unverified_mention
 - caseName: United States v. Chaka Fattah, Sr.
   citation: 902 F.3d 197
   court: Appellate
   date: '2018-08-09'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4525117/united-states-v-chaka-fattah-sr/
+  impact: unverified_mention
 - caseName: United States v. Caicedo-Cuero
   citation: ''
   court: Appellate
   date: '2002-12-04'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/29581/united-states-v-caicedo-cuero/
+  impact: unverified_mention
 - caseName: United States v. Fattah
   citation: 223 F. Supp. 3d 336
   court: District
   date: '2016-10-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 27"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7323151/united-states-v-fattah/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 27
-totalCases: 9
+  impact: unverified_mention

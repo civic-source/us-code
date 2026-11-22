@@ -1,0 +1,37 @@
+{
+  "targetSection": "18 U.S.C. \u00a7 111",
+  "lastUpdated": "2026-11-22T06:30:00.000Z",
+  "refreshStatus": {
+    "source": "govinfo",
+    "scope": "18 U.S.C. 111",
+    "status": "success-nonempty",
+    "observedAt": "2026-11-22T06:30:00.000Z",
+    "lastSuccessAt": "2026-11-22T06:30:00.000Z",
+    "retainedPriorSnapshot": false,
+    "isStale": false
+  },
+  "history": [
+    {
+      "publicLaw": "PL 110-177",
+      "congress": 110,
+      "billNumber": "H.R. 660",
+      "enactedDate": "2008-01-07",
+      "effectiveDateNote": "Took effect upon enactment on January 7, 2008 (Court Security Improvement Act of 2007, \u00a7 208(b)).",
+      "applicabilityState": "known",
+      "crsSummary": "Court Security Improvement Act of 2007 \u2014 Amends 18 U.S.C. \u00a7 111(a) and (b) to clarify penalties for simple assault (up to 1 year), assault involving physical contact or intent to commit another felony (up to 8 years), and assault using a deadly or dangerous weapon or inflicting bodily injury (up to 20 years).",
+      "enactedTextExcerpt": "SEC. 208. ASSAULT PENALTIES. (b) ASSAULTS AGAINST CERTAIN OFFICERS OR EMPLOYEES.\u2014Section 111 of title 18, United States Code, is amended\u2014 (1) in subsection (a), by striking 'shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases, be fined under this title or imprisoned not more than 8 years, or both' and inserting 'shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and where such acts involve physical contact with the victim of that assault or the intent to commit another felony, be fined under this title or imprisoned not more than 8 years, or both'.",
+      "sourceCreditText": "Pub. L. 110-177, title II, \u00a7 208(b), Jan. 7, 2008, 121 Stat. 2538",
+      "extractionState": "verified",
+      "editorialReview": "accepted",
+      "statutesAtLargeCitation": "121 Stat. 2538",
+      "statutesAtLargeUrl": "https://www.govinfo.gov/content/pkg/PLAW-110publ177/pdf/PLAW-110publ177.pdf",
+      "committeeReports": [
+        {
+          "reportNumber": "H. Rept. 110-218",
+          "chamber": "House",
+          "url": "https://www.congress.gov/110/crpt/hrpt218/CRPT-110hrpt218.pdf"
+        }
+      ]
+    }
+  ]
+}

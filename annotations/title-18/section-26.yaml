@@ -1,39 +1,77 @@
+targetSection: 18 U.S.C. § 26
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 5
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 26
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Dominguez
   citation: ''
   court: Appellate
   date: '2008-03-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 26"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2960037/united-states-v-dominguez/
+  impact: unverified_mention
 - caseName: United States v. Bermudez
   citation: ''
   court: Appellate
   date: '2008-06-17'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 26"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2960101/united-states-v-bermudez/
+  impact: unverified_mention
 - caseName: Phillips v. State
   citation: 790 S.W.2d 664
   court: Appellate
   date: '1988-03-31'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 26"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/5250489/phillips-v-state/
+  impact: unverified_mention
 - caseName: McCaw Personal Communications, Inc. v. Pacific Telesis Group
   citation: 645 F. Supp. 1166
   court: District
   date: '1986-09-18'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 26"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/1498560/mccaw-personal-communications-inc-v-pacific-telesis-group/
+  impact: unverified_mention
 - caseName: United States v. Chastain
   citation: 198 F.3d 1338
   court: Appellate
   date: '1999-12-30'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 26"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/74200/united-states-v-chastain/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 26
-totalCases: 5
+  impact: unverified_mention

@@ -1,144 +1,272 @@
+targetSection: 18 U.S.C. § 2119
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 886
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 2119
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Greene
   citation: 137 F.4th 1056
   court: Appellate
   date: '2025-05-23'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/10591532/united-states-v-greene/
+  impact: unverified_mention
 - caseName: State v. Daniels
   citation: ''
   court: Appellate
   date: '2023-10-17'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/9433187/state-v-daniels/
+  impact: unverified_mention
 - caseName: United States v. Lowell
   citation: 2 F.4th 1291
   court: Appellate
   date: '2021-06-28'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4895292/united-states-v-lowell/
+  impact: unverified_mention
 - caseName: United States v. Forty-Febres
   citation: 982 F.3d 802
   court: Appellate
   date: '2020-12-08'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4837006/united-states-v-forty-febres/
+  impact: unverified_mention
 - caseName: United States v. Smith
   citation: 379 F. Supp. 3d 355
   court: District
   date: '2019-05-07'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8344453/united-states-v-smith/
+  impact: unverified_mention
 - caseName: Gray v. United States
   citation: 196 F. Supp. 3d 605
   court: District
   date: '2016-07-25'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7321170/gray-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Drew Clark
   citation: 115 F.4th 895
   court: Appellate
   date: '2024-09-10'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/10113217/united-states-v-drew-clark/
+  impact: unverified_mention
 - caseName: United States v. Jamaal Evans
   citation: 848 F.3d 242
   court: Appellate
   date: '2017-02-02'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4345517/united-states-v-jamaal-evans/
+  impact: unverified_mention
 - caseName: United States v. Dontae Small
   citation: 944 F.3d 490
   court: Appellate
   date: '2019-12-06'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4684957/united-states-v-dontae-small/
+  impact: unverified_mention
 - caseName: United States v. Elfred William Petruk
   citation: 781 F.3d 438
   court: Appellate
   date: '2015-03-23'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2788483/united-states-v-elfred-william-petruk/
+  impact: unverified_mention
 - caseName: United States v. Samuel Gutierrez
   citation: 876 F.3d 1254
   court: Appellate
   date: '2017-12-12'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4450639/united-states-v-samuel-gutierrez/
+  impact: unverified_mention
 - caseName: United States v. Felder
   citation: 993 F.3d 57
   court: Appellate
   date: '2021-03-31'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4869368/united-states-v-felder/
+  impact: unverified_mention
 - caseName: Brymer v. United States
   citation: 353 F. Supp. 3d 144
   court: District
   date: '2019-01-10'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7333618/brymer-v-united-states/
+  impact: unverified_mention
 - caseName: Sánchez-León v. United States
   citation: 251 F. Supp. 3d 370
   court: District
   date: '2017-04-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7325462/sanchez-leon-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Cruz-Rivera
   citation: 904 F.3d 63
   court: Appellate
   date: '2018-09-14'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4535463/united-states-v-cruz-rivera/
+  impact: unverified_mention
 - caseName: 'In Re: Jeffrey Smith'
   citation: 829 F.3d 1276
   court: Appellate
   date: '2016-07-18'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4239692/in-re-jeffrey-smith/
+  impact: unverified_mention
 - caseName: 'In Re: Jeffrey Smith'
   citation: ''
   court: Appellate
   date: '2016-07-18'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4240714/in-re-jeffrey-smith/
+  impact: unverified_mention
 - caseName: United States v. Barnes
   citation: ''
   court: District
   date: '2019-10-24'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4672744/united-states-v-barnes/
+  impact: unverified_mention
 - caseName: Irma Ovalles v. United States
   citation: 905 F.3d 1300
   court: Appellate
   date: '2018-10-09'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4541859/irma-ovalles-v-united-states/
+  impact: unverified_mention
 - caseName: United States v. Harry French
   citation: 976 F.3d 744
   court: Appellate
   date: '2020-09-30'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2119"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4791011/united-states-v-harry-french/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 2119
-totalCases: 886
+  impact: unverified_mention

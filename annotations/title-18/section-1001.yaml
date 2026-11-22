@@ -1,0 +1,56 @@
+targetSection: 18 U.S.C. § 1001
+lastSyncedET: '2026-11-22T06:30:00Z'
+totalCases: 2
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 1001
+  status: success-nonempty
+  observedAt: '2026-11-22T06:30:00Z'
+  lastSuccessAt: '2026-11-22T06:30:00Z'
+  retainedPriorSnapshot: false
+  isStale: false
+cases:
+- caseName: Brogan v. United States
+  citation: 522 U.S. 398
+  court: SCOTUS
+  date: '1998-01-26'
+  holdingSummary: There is no exception to 18 U.S.C. § 1001 criminal liability for
+    a false statement that consists of a mere denial of wrongdoing ('exculpatory no').
+  retrievalExcerpt: We Cannot Find Any Basis In The Text Of § 1001 For An 'Exculpatory
+    No' Exception.
+  reviewedProposition: 18 U.S.C. § 1001 covers any false statement of material fact
+    within the jurisdiction of a federal agency or branch; the statute's plain text
+    contains no exception for an 'exculpatory no' denial of guilt to federal investigators.
+  supportingOpinionPassage: By its terms, 18 U.S.C. § 1001 covers 'any' false statement—that
+    is, a false statement 'of whatever kind,' United States v. Gonzales, 520 U.S.
+    1, 5 (1997). The word 'no' in response to a question assuredly makes a 'statement,'
+    see, e.g., Webster's New International Dictionary 2461 (2d ed. 1950) ('that which
+    is stated; an embodiment in words of facts or opinions').
+  retrievalQuery: '"18 U.S.C. § 1001"'
+  retrievedAt: '2026-11-22T06:30:00Z'
+  extractionState: verified
+  editorialReview: accepted
+  versionAlignmentState: verified
+  sourceUrl: https://www.courtlistener.com/opinion/118168/brogan-v-united-states/
+  impact: interpretation
+  statuteVersionRef: pl-119-73
+  statuteVersionNote: Decided after the False Statements Accountability Act of 1996
+    (Pub. L. 104-292), which structured § 1001(a)(1)-(3) in the same core prohibition
+    form carried forward through PL 119-73.
+- caseName: United States v. Gaudin
+  citation: 515 U.S. 506
+  court: SCOTUS
+  date: '1995-06-19'
+  holdingSummary: The materiality of a false statement under 18 U.S.C. § 1001 is an
+    element of the offense that must be submitted to the jury and found beyond a reasonable
+    doubt.
+  retrievalExcerpt: The Constitution gives a criminal defendant the right to have
+    a jury determine, beyond a reasonable doubt, his guilt of every element of the
+    crime with which he is charged, including materiality under 18 U.S.C. § 1001.
+  retrievalQuery: '"18 U.S.C. § 1001"'
+  retrievedAt: '2026-11-22T06:30:00Z'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: candidate
+  sourceUrl: https://www.courtlistener.com/opinion/117958/united-states-v-gaudin/
+  impact: unverified_mention

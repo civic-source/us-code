@@ -1,18 +1,38 @@
+targetSection: 18 U.S.C. § 2072
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 2
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 2072
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: Nedler v. Vaisberg
   citation: 427 F. Supp. 2d 563
   court: District
   date: '2006-04-18'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2072"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2473714/nedler-v-vaisberg/
+  impact: unverified_mention
 - caseName: United States v. Schneiderman
   citation: 102 F. Supp. 52
   court: District
   date: '1951-11-28'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 2072"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/1382537/united-states-v-schneiderman/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 2072
-totalCases: 2
+  impact: unverified_mention
