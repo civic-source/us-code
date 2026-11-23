@@ -3,9 +3,9 @@ title: "Section 1554 - Transportation through contiguous countries"
 usc_title: 19
 usc_section: "1554"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "19 U.S.C. § 1554"
-generated_at: "2026-11-23T20:36:16.050Z"
+generated_at: "2026-11-23T20:38:54.705Z"
 status: "active"
 ---
 

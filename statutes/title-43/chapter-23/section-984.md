@@ -3,9 +3,9 @@ title: "Section 984 - Legal subdivisions mostly wet and unfit for cultivation"
 usc_title: 43
 usc_section: "984"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 984"
-generated_at: "2026-11-23T20:36:57.720Z"
+generated_at: "2026-11-23T20:39:39.431Z"
 status: "active"
 ---
 

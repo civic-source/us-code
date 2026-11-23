@@ -3,9 +3,9 @@ title: "Section 17505 - Presidential report"
 usc_title: 40
 usc_section: "17505"
 chapter: 175
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "40 U.S.C. § 17505"
-generated_at: "2026-11-23T20:36:52.337Z"
+generated_at: "2026-11-23T20:39:33.224Z"
 status: "active"
 ---
 

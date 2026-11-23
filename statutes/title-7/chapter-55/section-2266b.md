@@ -3,9 +3,9 @@ title: "Section 2266b - Eligibility for operators on heirs property land to obta
 usc_title: 7
 usc_section: "2266b"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2266b"
-generated_at: "2026-11-23T20:35:56.227Z"
+generated_at: "2026-11-23T20:38:31.508Z"
 status: "active"
 ---
 

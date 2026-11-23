@@ -3,9 +3,9 @@ title: "Section 402 - Acquisition of lands and property; utilization of voluntar
 usc_title: 30
 usc_section: "402"
 chapter: 8
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 402"
-generated_at: "2026-11-23T20:36:33.161Z"
+generated_at: "2026-11-23T20:39:12.967Z"
 status: "active"
 ---
 

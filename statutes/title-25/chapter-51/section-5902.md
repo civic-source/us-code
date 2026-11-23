@@ -3,9 +3,9 @@ title: "Section 5902 - Mortgage review and processing"
 usc_title: 25
 usc_section: "5902"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 5902"
-generated_at: "2026-11-23T20:36:25.094Z"
+generated_at: "2026-11-23T20:39:05.850Z"
 status: "active"
 ---
 

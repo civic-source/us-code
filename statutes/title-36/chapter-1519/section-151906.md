@@ -3,9 +3,9 @@ title: "Section 151906 - Restrictions"
 usc_title: 36
 usc_section: "151906"
 chapter: 1519
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 151906"
-generated_at: "2026-11-23T20:36:51.637Z"
+generated_at: "2026-11-23T20:39:32.596Z"
 status: "active"
 ---
 

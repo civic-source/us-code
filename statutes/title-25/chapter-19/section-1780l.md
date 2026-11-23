@@ -3,9 +3,9 @@ title: "Section 1780l - Omitted"
 usc_title: 25
 usc_section: "1780l"
 chapter: 19
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 1780l"
-generated_at: "2026-11-23T20:36:24.890Z"
+generated_at: "2026-11-23T20:39:05.625Z"
 status: "omitted"
 ---
 

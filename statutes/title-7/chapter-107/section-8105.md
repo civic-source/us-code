@@ -3,9 +3,9 @@ title: "Section 8105 - Bioenergy program for advanced biofuels"
 usc_title: 7
 usc_section: "8105"
 chapter: 107
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 8105"
-generated_at: "2026-11-23T20:35:56.431Z"
+generated_at: "2026-11-23T20:38:31.888Z"
 status: "active"
 ---
 

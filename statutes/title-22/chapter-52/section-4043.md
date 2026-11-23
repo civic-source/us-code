@@ -3,9 +3,9 @@ title: "Section 4043 - Participants"
 usc_title: 22
 usc_section: "4043"
 chapter: 52
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 4043"
-generated_at: "2026-11-23T20:36:30.837Z"
+generated_at: "2026-11-23T20:39:10.823Z"
 status: "active"
 ---
 

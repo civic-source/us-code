@@ -3,9 +3,9 @@ title: "Section 60105 - State information regarding individuals who die in the c
 usc_title: 34
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 60105"
-generated_at: "2026-11-23T20:36:47.375Z"
+generated_at: "2026-11-23T20:39:27.866Z"
 status: "active"
 ---
 

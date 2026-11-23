@@ -3,9 +3,9 @@ title: "Section 2215 - Assistance for drought-related planning in reclamation St
 usc_title: 43
 usc_section: "2215"
 chapter: 40
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 2215"
-generated_at: "2026-11-23T20:36:57.862Z"
+generated_at: "2026-11-23T20:39:39.541Z"
 status: "active"
 ---
 

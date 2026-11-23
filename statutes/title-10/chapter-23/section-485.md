@@ -3,9 +3,9 @@ title: "Section 485 - Quarterly briefings on counterterrorism operations, irregu
 usc_title: 10
 usc_section: "485"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 485"
-generated_at: "2026-11-23T20:36:02.158Z"
+generated_at: "2026-11-23T20:38:39.032Z"
 status: "active"
 ---
 

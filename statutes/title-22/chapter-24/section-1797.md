@@ -3,9 +3,9 @@ title: "Section 1797 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1797"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1797"
-generated_at: "2026-11-23T20:36:30.494Z"
+generated_at: "2026-11-23T20:39:10.524Z"
 status: "repealed"
 ---
 

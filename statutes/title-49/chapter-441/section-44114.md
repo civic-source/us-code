@@ -3,9 +3,9 @@ title: "Section 44114 - Privacy"
 usc_title: 49
 usc_section: "44114"
 chapter: 441
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 44114"
-generated_at: "2026-11-23T20:37:25.459Z"
+generated_at: "2026-11-23T20:40:03.619Z"
 status: "active"
 ---
 

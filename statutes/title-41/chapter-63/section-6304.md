@@ -3,9 +3,9 @@ title: "Section 6304 - Certain contracts limited to one-year term"
 usc_title: 41
 usc_section: "6304"
 chapter: 63
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "41 U.S.C. § 6304"
-generated_at: "2026-11-23T20:36:56.085Z"
+generated_at: "2026-11-23T20:39:36.924Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 601 - Purposes"
 usc_title: 40
 usc_section: "601"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "40 U.S.C. § 601"
-generated_at: "2026-11-23T20:36:52.211Z"
+generated_at: "2026-11-23T20:39:33.130Z"
 status: "active"
 ---
 

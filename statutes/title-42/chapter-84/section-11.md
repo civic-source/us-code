@@ -3,9 +3,9 @@ title: "Section 11 - Coordination of benefits with respect to State workers comp
 usc_title: 42
 usc_section: "11"
 chapter: 84
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-11-23T20:37:13.990Z"
+generated_at: "2026-11-23T20:39:53.247Z"
 status: "active"
 ---
 

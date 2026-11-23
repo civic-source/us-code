@@ -3,9 +3,9 @@ title: "Section 6722 - Financial assistance"
 usc_title: 42
 usc_section: "6722"
 chapter: 80
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 6722"
-generated_at: "2026-11-23T20:37:13.885Z"
+generated_at: "2026-11-23T20:39:53.131Z"
 status: "active"
 ---
 

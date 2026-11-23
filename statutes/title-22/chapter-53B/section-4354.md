@@ -3,9 +3,9 @@ title: "Section 4354 - Declassification of State Department records"
 usc_title: 22
 usc_section: "4354"
 chapter: 53
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 4354"
-generated_at: "2026-11-23T20:36:30.888Z"
+generated_at: "2026-11-23T20:39:10.857Z"
 status: "active"
 ---
 

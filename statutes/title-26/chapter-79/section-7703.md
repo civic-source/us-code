@@ -3,9 +3,9 @@ title: "Section 7703 - Determination of marital status"
 usc_title: 26
 usc_section: "7703"
 chapter: 79
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 7703"
-generated_at: "2026-11-23T20:36:44.021Z"
+generated_at: "2026-11-23T20:39:24.007Z"
 status: "active"
 ---
 

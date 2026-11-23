@@ -3,9 +3,9 @@ title: "Section 151701 - Organization"
 usc_title: 36
 usc_section: "151701"
 chapter: 1517
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 151701"
-generated_at: "2026-11-23T20:36:51.633Z"
+generated_at: "2026-11-23T20:39:32.590Z"
 status: "active"
 ---
 

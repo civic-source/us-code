@@ -3,9 +3,9 @@ title: "Section 951A - Net CFC tested income included in gross income of United 
 usc_title: 26
 usc_section: "951A"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 951A"
-generated_at: "2026-11-23T20:36:43.344Z"
+generated_at: "2026-11-23T20:39:23.262Z"
 status: "active"
 ---
 

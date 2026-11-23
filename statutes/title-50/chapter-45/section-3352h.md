@@ -3,9 +3,9 @@ title: "Section 3352h - Timeliness standard for rendering determinations of trus
 usc_title: 50
 usc_section: "3352h"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 3352h"
-generated_at: "2026-11-23T20:37:21.541Z"
+generated_at: "2026-11-23T20:40:00.098Z"
 status: "active"
 ---
 

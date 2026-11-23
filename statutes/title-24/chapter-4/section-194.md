@@ -3,9 +3,9 @@ title: "Section 194 - Repealed. Pub. L. 98–621, § 10(l) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "194"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "24 U.S.C. § 194"
-generated_at: "2026-11-23T20:36:22.915Z"
+generated_at: "2026-11-23T20:39:03.489Z"
 status: "repealed"
 ---
 

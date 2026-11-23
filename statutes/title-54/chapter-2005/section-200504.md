@@ -3,9 +3,9 @@ title: "Section 200504 - Recovery action programs"
 usc_title: 54
 usc_section: "200504"
 chapter: 2005
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "54 U.S.C. § 200504"
-generated_at: "2026-11-23T20:37:28.180Z"
+generated_at: "2026-11-23T20:40:05.824Z"
 status: "active"
 ---
 

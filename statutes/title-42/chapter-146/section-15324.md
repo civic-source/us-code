@@ -3,9 +3,9 @@ title: "Section 15324 - Transferred"
 usc_title: 42
 usc_section: "15324"
 chapter: 146
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15324"
-generated_at: "2026-11-23T20:37:14.555Z"
+generated_at: "2026-11-23T20:39:53.854Z"
 status: "transferred"
 ---
 

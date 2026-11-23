@@ -3,9 +3,9 @@ title: "Section 2 - Reports"
 usc_title: 50
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2"
-generated_at: "2026-11-23T20:37:21.346Z"
+generated_at: "2026-11-23T20:39:59.892Z"
 status: "active"
 ---
 

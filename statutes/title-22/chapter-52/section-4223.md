@@ -3,9 +3,9 @@ title: "Section 4223 - General duty to account for fees"
 usc_title: 22
 usc_section: "4223"
 chapter: 52
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 4223"
-generated_at: "2026-11-23T20:36:30.880Z"
+generated_at: "2026-11-23T20:39:10.851Z"
 status: "active"
 ---
 

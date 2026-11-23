@@ -3,9 +3,9 @@ title: "Section 1521 - Repealed. Pub. L. 103–182, title VI, § 618 , Dec. 8, 1
 usc_title: 19
 usc_section: "1521"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "19 U.S.C. § 1521"
-generated_at: "2026-11-23T20:36:16.048Z"
+generated_at: "2026-11-23T20:38:54.704Z"
 status: "repealed"
 ---
 

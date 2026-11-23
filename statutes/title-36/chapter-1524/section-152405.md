@@ -3,9 +3,9 @@ title: "Section 152405 - Powers"
 usc_title: 36
 usc_section: "152405"
 chapter: 1524
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 152405"
-generated_at: "2026-11-23T20:36:51.643Z"
+generated_at: "2026-11-23T20:39:32.604Z"
 status: "active"
 ---
 

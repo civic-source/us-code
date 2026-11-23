@@ -3,9 +3,9 @@ title: "Section 8313 - Penalties"
 usc_title: 7
 usc_section: "8313"
 chapter: 109
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 8313"
-generated_at: "2026-11-23T20:35:56.441Z"
+generated_at: "2026-11-23T20:38:31.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41107 - Access to the national crime information databases by tr
 usc_title: 34
 usc_section: "41107"
 chapter: 411
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 41107"
-generated_at: "2026-11-23T20:36:47.368Z"
+generated_at: "2026-11-23T20:39:27.852Z"
 status: "active"
 ---
 

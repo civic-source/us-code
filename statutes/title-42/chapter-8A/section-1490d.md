@@ -3,9 +3,9 @@ title: "Section 1490d - Loans to nonprofit organizations to provide building sit
 usc_title: 42
 usc_section: "1490d"
 chapter: 8
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1490d"
-generated_at: "2026-11-23T20:37:13.122Z"
+generated_at: "2026-11-23T20:39:52.341Z"
 status: "active"
 ---
 

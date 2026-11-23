@@ -3,9 +3,9 @@ title: "Section 3349 - Violations in obtaining and performing appraisals in fede
 usc_title: 12
 usc_section: "3349"
 chapter: 34
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 3349"
-generated_at: "2026-11-23T20:36:07.804Z"
+generated_at: "2026-11-23T20:38:46.109Z"
 status: "active"
 ---
 

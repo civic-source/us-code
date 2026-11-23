@@ -3,9 +3,9 @@ title: "Section 3199 - Office of Disaster Recovery and Resilience"
 usc_title: 42
 usc_section: "3199"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3199"
-generated_at: "2026-11-23T20:37:13.530Z"
+generated_at: "2026-11-23T20:39:52.763Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3667 - Liquors and related property; definitions"
 usc_title: 18
 usc_section: "3667"
 chapter: 232
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 3667"
-generated_at: "2026-11-23T20:36:14.309Z"
+generated_at: "2026-11-23T20:38:53.426Z"
 status: "active"
 ---
 

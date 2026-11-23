@@ -3,9 +3,9 @@ title: "Section 449 - Repealed. Aug. 5, 1954, ch. 658, § 5 , 68 Stat. 675"
 usc_title: 25
 usc_section: "449"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 449"
-generated_at: "2026-11-23T20:36:24.762Z"
+generated_at: "2026-11-23T20:39:05.494Z"
 status: "repealed"
 ---
 

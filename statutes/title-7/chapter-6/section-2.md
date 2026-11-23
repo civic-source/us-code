@@ -3,9 +3,9 @@ title: "Section 2 - Failure by the State to assure enforcement of State pesticid
 usc_title: 7
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T20:35:55.875Z"
+generated_at: "2026-11-23T20:38:31.031Z"
 status: "active"
 ---
 

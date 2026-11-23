@@ -3,9 +3,9 @@ title: "Section 1513 - Loan interest rates; repayment periods"
 usc_title: 30
 usc_section: "1513"
 chapter: 27
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 1513"
-generated_at: "2026-11-23T20:36:33.268Z"
+generated_at: "2026-11-23T20:39:13.074Z"
 status: "active"
 ---
 

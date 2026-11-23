@@ -3,9 +3,9 @@ title: "Section 9805 - Data on domestic travel and tourism"
 usc_title: 15
 usc_section: "9805"
 chapter: 122
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9805"
-generated_at: "2026-11-23T20:36:11.044Z"
+generated_at: "2026-11-23T20:38:50.411Z"
 status: "active"
 ---
 

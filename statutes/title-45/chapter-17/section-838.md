@@ -3,9 +3,9 @@ title: "Section 838 - Repealed. Pub. L. 105–178, title VII, § 7203(a)(2) , Ju
 usc_title: 45
 usc_section: "838"
 chapter: 17
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "45 U.S.C. § 838"
-generated_at: "2026-11-23T20:36:56.785Z"
+generated_at: "2026-11-23T20:39:37.762Z"
 status: "repealed"
 ---
 

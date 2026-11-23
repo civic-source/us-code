@@ -3,9 +3,9 @@ title: "Section 1385 - Amounts includible in patron’s gross income"
 usc_title: 26
 usc_section: "1385"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 1385"
-generated_at: "2026-11-23T20:36:43.453Z"
+generated_at: "2026-11-23T20:39:23.384Z"
 status: "active"
 ---
 

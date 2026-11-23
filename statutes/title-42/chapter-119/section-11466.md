@@ -3,9 +3,9 @@ title: "Section 11466 - Repealed. Pub. L. 105–220, title I, § 199(b)(1) , Aug
 usc_title: 42
 usc_section: "11466"
 chapter: 119
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 11466"
-generated_at: "2026-11-23T20:37:14.361Z"
+generated_at: "2026-11-23T20:39:53.696Z"
 status: "repealed"
 ---
 

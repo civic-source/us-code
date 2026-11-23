@@ -3,9 +3,9 @@ title: "Section 1612 - Jurisdiction of District Court"
 usc_title: 48
 usc_section: "1612"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "48 U.S.C. § 1612"
-generated_at: "2026-11-23T20:37:16.855Z"
+generated_at: "2026-11-23T20:39:56.679Z"
 status: "active"
 ---
 

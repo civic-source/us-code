@@ -3,9 +3,9 @@ title: "Section 16935g - Transferred"
 usc_title: 42
 usc_section: "16935g"
 chapter: 151
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16935g"
-generated_at: "2026-11-23T20:37:14.690Z"
+generated_at: "2026-11-23T20:39:53.924Z"
 status: "transferred"
 ---
 

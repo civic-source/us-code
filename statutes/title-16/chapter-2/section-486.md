@@ -3,9 +3,9 @@ title: "Section 486 - Exchange of lands in national forests; reservations of tim
 usc_title: 16
 usc_section: "486"
 chapter: 2
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 486"
-generated_at: "2026-11-23T20:36:20.958Z"
+generated_at: "2026-11-23T20:39:01.340Z"
 status: "active"
 ---
 

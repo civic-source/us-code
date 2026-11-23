@@ -3,9 +3,9 @@ title: "Section 485d - Time of payments to the United States"
 usc_title: 43
 usc_section: "485d"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 485d"
-generated_at: "2026-11-23T20:36:57.639Z"
+generated_at: "2026-11-23T20:39:39.382Z"
 status: "active"
 ---
 

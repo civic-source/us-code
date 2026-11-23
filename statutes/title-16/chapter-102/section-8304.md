@@ -3,9 +3,9 @@ title: "Section 8304 - Reports"
 usc_title: 16
 usc_section: "8304"
 chapter: 102
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 8304"
-generated_at: "2026-11-23T20:36:21.487Z"
+generated_at: "2026-11-23T20:39:02.048Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22909 - Records and inspection"
 usc_title: 36
 usc_section: "22909"
 chapter: 229
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 22909"
-generated_at: "2026-11-23T20:36:51.550Z"
+generated_at: "2026-11-23T20:39:32.462Z"
 status: "active"
 ---
 

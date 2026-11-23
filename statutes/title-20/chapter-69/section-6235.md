@@ -3,9 +3,9 @@ title: "Section 6235 - Omitted"
 usc_title: 20
 usc_section: "6235"
 chapter: 69
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 6235"
-generated_at: "2026-11-23T20:36:18.088Z"
+generated_at: "2026-11-23T20:38:57.364Z"
 status: "omitted"
 ---
 

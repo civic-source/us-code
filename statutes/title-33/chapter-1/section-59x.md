@@ -3,9 +3,9 @@ title: "Section 59x - Exemption from General Bridge Act of 1946"
 usc_title: 33
 usc_section: "59x"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 59x"
-generated_at: "2026-11-23T20:36:48.290Z"
+generated_at: "2026-11-23T20:39:29.082Z"
 status: "active"
 ---
 

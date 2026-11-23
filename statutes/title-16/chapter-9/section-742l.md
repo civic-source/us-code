@@ -3,9 +3,9 @@ title: "Section 742l - Enforcement authority for the protection of fish and wild
 usc_title: 16
 usc_section: "742l"
 chapter: 9
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 742l"
-generated_at: "2026-11-23T20:36:21.072Z"
+generated_at: "2026-11-23T20:39:01.524Z"
 status: "active"
 ---
 

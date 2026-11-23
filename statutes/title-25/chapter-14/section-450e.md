@@ -3,9 +3,9 @@ title: "Section 450e - Transferred"
 usc_title: 25
 usc_section: "450e"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 450e"
-generated_at: "2026-11-23T20:36:24.762Z"
+generated_at: "2026-11-23T20:39:05.494Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3710 - Evidence of compliance by vessels of the United States"
 usc_title: 46
 usc_section: "3710"
 chapter: 37
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 3710"
-generated_at: "2026-11-23T20:37:18.510Z"
+generated_at: "2026-11-23T20:39:58.340Z"
 status: "active"
 ---
 

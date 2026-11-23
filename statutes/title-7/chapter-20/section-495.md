@@ -3,9 +3,9 @@ title: "Section 495 - Authorization of appropriations"
 usc_title: 7
 usc_section: "495"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 495"
-generated_at: "2026-11-23T20:35:55.926Z"
+generated_at: "2026-11-23T20:38:31.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70035 - Investigatory powers"
 usc_title: 46
 usc_section: "70035"
 chapter: 700
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 70035"
-generated_at: "2026-11-23T20:37:18.873Z"
+generated_at: "2026-11-23T20:39:58.669Z"
 status: "active"
 ---
 

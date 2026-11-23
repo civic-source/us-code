@@ -3,9 +3,9 @@ title: "Section 456 - Operation of premises, facilities and equipment"
 usc_title: 21
 usc_section: "456"
 chapter: 10
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "21 U.S.C. § 456"
-generated_at: "2026-11-23T20:36:26.874Z"
+generated_at: "2026-11-23T20:39:07.599Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4702 - Abandonment of barge prohibited"
 usc_title: 46
 usc_section: "4702"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 4702"
-generated_at: "2026-11-23T20:37:18.525Z"
+generated_at: "2026-11-23T20:39:58.353Z"
 status: "active"
 ---
 

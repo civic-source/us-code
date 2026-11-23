@@ -3,9 +3,9 @@ title: "Section 2005 - Advanced education assistance: active duty agreement; rei
 usc_title: 10
 usc_section: "2005"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2005"
-generated_at: "2026-11-23T20:36:02.456Z"
+generated_at: "2026-11-23T20:38:39.453Z"
 status: "active"
 ---
 

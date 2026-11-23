@@ -3,9 +3,9 @@ title: "Section 17308 - Presumption of lawful conduct"
 usc_title: 40
 usc_section: "17308"
 chapter: 173
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "40 U.S.C. § 17308"
-generated_at: "2026-11-23T20:36:52.336Z"
+generated_at: "2026-11-23T20:39:33.224Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1464 - Enforcement"
 usc_title: 30
 usc_section: "1464"
 chapter: 26
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 1464"
-generated_at: "2026-11-23T20:36:33.265Z"
+generated_at: "2026-11-23T20:39:13.071Z"
 status: "active"
 ---
 

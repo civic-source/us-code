@@ -3,9 +3,9 @@ title: "Section 44926 - Appeal and redress process for passengers wrongly delaye
 usc_title: 49
 usc_section: "44926"
 chapter: 449
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 44926"
-generated_at: "2026-11-23T20:37:25.567Z"
+generated_at: "2026-11-23T20:40:03.705Z"
 status: "active"
 ---
 

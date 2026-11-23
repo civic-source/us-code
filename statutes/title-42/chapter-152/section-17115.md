@@ -3,9 +3,9 @@ title: "Section 17115 - Technical assistance program to implement industrial emi
 usc_title: 42
 usc_section: "17115"
 chapter: 152
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 17115"
-generated_at: "2026-11-23T20:37:14.708Z"
+generated_at: "2026-11-23T20:39:53.936Z"
 status: "active"
 ---
 

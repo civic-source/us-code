@@ -3,9 +3,9 @@ title: "Section 7515 - Program authorized"
 usc_title: 20
 usc_section: "7515"
 chapter: 70
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 7515"
-generated_at: "2026-11-23T20:36:18.156Z"
+generated_at: "2026-11-23T20:38:57.470Z"
 status: "active"
 ---
 

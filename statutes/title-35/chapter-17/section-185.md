@@ -3,9 +3,9 @@ title: "Section 185 - Patent barred for filing without license"
 usc_title: 35
 usc_section: "185"
 chapter: 17
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "35 U.S.C. § 185"
-generated_at: "2026-11-23T20:36:45.669Z"
+generated_at: "2026-11-23T20:39:25.660Z"
 status: "active"
 ---
 

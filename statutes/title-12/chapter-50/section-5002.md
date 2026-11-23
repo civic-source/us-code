@@ -3,9 +3,9 @@ title: "Section 5002 - Definitions"
 usc_title: 12
 usc_section: "5002"
 chapter: 50
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 5002"
-generated_at: "2026-11-23T20:36:07.863Z"
+generated_at: "2026-11-23T20:38:46.198Z"
 status: "active"
 ---
 

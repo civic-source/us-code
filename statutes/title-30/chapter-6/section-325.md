@@ -3,9 +3,9 @@ title: "Section 325 - Omitted"
 usc_title: 30
 usc_section: "325"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 325"
-generated_at: "2026-11-23T20:36:33.159Z"
+generated_at: "2026-11-23T20:39:12.965Z"
 status: "omitted"
 ---
 

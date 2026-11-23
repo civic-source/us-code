@@ -3,9 +3,9 @@ title: "Section 18613 - Research grants database"
 usc_title: 42
 usc_section: "18613"
 chapter: 161
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 18613"
-generated_at: "2026-11-23T20:37:14.788Z"
+generated_at: "2026-11-23T20:39:53.986Z"
 status: "active"
 ---
 

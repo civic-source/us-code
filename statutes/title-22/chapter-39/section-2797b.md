@@ -3,9 +3,9 @@ title: "Section 2797b - Transfers of missile equipment or technology by foreign 
 usc_title: 22
 usc_section: "2797b"
 chapter: 39
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 2797b"
-generated_at: "2026-11-23T20:36:30.752Z"
+generated_at: "2026-11-23T20:39:10.772Z"
 status: "active"
 ---
 

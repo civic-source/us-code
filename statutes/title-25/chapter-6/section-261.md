@@ -3,9 +3,9 @@ title: "Section 261 - Power to appoint traders with Indians"
 usc_title: 25
 usc_section: "261"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 261"
-generated_at: "2026-11-23T20:36:24.739Z"
+generated_at: "2026-11-23T20:39:05.457Z"
 status: "active"
 ---
 

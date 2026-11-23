@@ -3,9 +3,9 @@ title: "Section 1905 - Grazing fees; economic value of use of land; fair market 
 usc_title: 43
 usc_section: "1905"
 chapter: 37
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 1905"
-generated_at: "2026-11-23T20:36:57.856Z"
+generated_at: "2026-11-23T20:39:39.537Z"
 status: "active"
 ---
 

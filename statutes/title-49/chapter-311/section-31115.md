@@ -3,9 +3,9 @@ title: "Section 31115 - Enforcement"
 usc_title: 49
 usc_section: "31115"
 chapter: 311
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 31115"
-generated_at: "2026-11-23T20:37:25.254Z"
+generated_at: "2026-11-23T20:40:03.429Z"
 status: "active"
 ---
 

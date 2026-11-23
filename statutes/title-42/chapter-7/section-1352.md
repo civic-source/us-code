@@ -3,9 +3,9 @@ title: "Section 1352 - State plans for aid to permanently and totally disabled"
 usc_title: 42
 usc_section: "1352"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1352"
-generated_at: "2026-11-23T20:37:12.398Z"
+generated_at: "2026-11-23T20:39:51.765Z"
 status: "active"
 ---
 

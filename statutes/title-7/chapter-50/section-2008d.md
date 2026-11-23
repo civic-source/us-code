@@ -3,9 +3,9 @@ title: "Section 2008d - Recordkeeping of loans by borrower’s gender"
 usc_title: 7
 usc_section: "2008d"
 chapter: 50
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2008d"
-generated_at: "2026-11-23T20:35:56.128Z"
+generated_at: "2026-11-23T20:38:31.384Z"
 status: "active"
 ---
 

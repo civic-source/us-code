@@ -3,9 +3,9 @@ title: "Section 3247 - Contracts: regulations for bids"
 usc_title: 10
 usc_section: "3247"
 chapter: 223
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3247"
-generated_at: "2026-11-23T20:36:02.653Z"
+generated_at: "2026-11-23T20:38:39.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9904 - Whole-of-government coordination and consultation to supp
 usc_title: 22
 usc_section: "9904"
 chapter: 106
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 9904"
-generated_at: "2026-11-23T20:36:31.187Z"
+generated_at: "2026-11-23T20:39:11.136Z"
 status: "active"
 ---
 

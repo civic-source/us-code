@@ -3,9 +3,9 @@ title: "Section 15 - Protection of social security and medicare trust funds"
 usc_title: 42
 usc_section: "15"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-11-23T20:37:12.362Z"
+generated_at: "2026-11-23T20:39:51.737Z"
 status: "active"
 ---
 

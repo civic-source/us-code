@@ -3,9 +3,9 @@ title: "Section 3471 - Payments for land removed from production for conservatio
 usc_title: 16
 usc_section: "3471"
 chapter: 54
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 3471"
-generated_at: "2026-11-23T20:36:21.350Z"
+generated_at: "2026-11-23T20:39:01.851Z"
 status: "active"
 ---
 

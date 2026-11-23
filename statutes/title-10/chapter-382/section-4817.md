@@ -3,9 +3,9 @@ title: "Section 4817 - Industrial Base Fund"
 usc_title: 10
 usc_section: "4817"
 chapter: 382
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 4817"
-generated_at: "2026-11-23T20:36:02.753Z"
+generated_at: "2026-11-23T20:38:39.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 649a - Officers in designated competitive categories"
 usc_title: 10
 usc_section: "649a"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 649a"
-generated_at: "2026-11-23T20:36:02.202Z"
+generated_at: "2026-11-23T20:38:39.091Z"
 status: "active"
 ---
 

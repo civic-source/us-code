@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of nonexcess irrigable acreage for participati
 usc_title: 43
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-11-23T20:36:57.682Z"
+generated_at: "2026-11-23T20:39:39.408Z"
 status: "active"
 ---
 

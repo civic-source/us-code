@@ -3,9 +3,9 @@ title: "Section 49 - Tennessee Valley Authority transfer funding"
 usc_title: 16
 usc_section: "49"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 49"
-generated_at: "2026-11-23T20:36:20.923Z"
+generated_at: "2026-11-23T20:39:01.281Z"
 status: "active"
 ---
 

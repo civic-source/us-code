@@ -3,9 +3,9 @@ title: "Section 4662 - Definitions and special rules"
 usc_title: 26
 usc_section: "4662"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 4662"
-generated_at: "2026-11-23T20:36:43.645Z"
+generated_at: "2026-11-23T20:39:23.606Z"
 status: "active"
 ---
 

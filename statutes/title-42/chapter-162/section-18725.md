@@ -3,9 +3,9 @@ title: "Section 18725 - Cybersecurity plan"
 usc_title: 42
 usc_section: "18725"
 chapter: 162
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 18725"
-generated_at: "2026-11-23T20:37:14.806Z"
+generated_at: "2026-11-23T20:39:53.998Z"
 status: "active"
 ---
 

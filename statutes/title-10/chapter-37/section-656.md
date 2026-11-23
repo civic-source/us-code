@@ -3,9 +3,9 @@ title: "Section 656 - Repealed. Pub. L. 119–60, div. A, title IX, § 901(c) , 
 usc_title: 10
 usc_section: "656"
 chapter: 37
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 656"
-generated_at: "2026-11-23T20:36:02.204Z"
+generated_at: "2026-11-23T20:38:39.094Z"
 status: "repealed"
 ---
 

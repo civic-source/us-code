@@ -3,9 +3,9 @@ title: "Section 9055 - Production history of participating dairy operations"
 usc_title: 7
 usc_section: "9055"
 chapter: 115
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 9055"
-generated_at: "2026-11-23T20:35:56.464Z"
+generated_at: "2026-11-23T20:38:31.949Z"
 status: "active"
 ---
 

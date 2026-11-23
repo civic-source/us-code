@@ -3,9 +3,9 @@ title: "Section 8004 - United States compliance with its nuclear nonproliferatio
 usc_title: 22
 usc_section: "8004"
 chapter: 87
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 8004"
-generated_at: "2026-11-23T20:36:31.069Z"
+generated_at: "2026-11-23T20:39:11.019Z"
 status: "active"
 ---
 

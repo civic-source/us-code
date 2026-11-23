@@ -3,9 +3,9 @@ title: "Section 1650a - Arbitration awards under the Convention"
 usc_title: 22
 usc_section: "1650a"
 chapter: 21
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1650a"
-generated_at: "2026-11-23T20:36:30.488Z"
+generated_at: "2026-11-23T20:39:10.517Z"
 status: "active"
 ---
 

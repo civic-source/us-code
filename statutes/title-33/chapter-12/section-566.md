@@ -3,9 +3,9 @@ title: "Section 566 - Improvement by or under authority of State of New Jersey"
 usc_title: 33
 usc_section: "566"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 566"
-generated_at: "2026-11-23T20:36:48.322Z"
+generated_at: "2026-11-23T20:39:29.112Z"
 status: "active"
 ---
 

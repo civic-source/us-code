@@ -3,9 +3,9 @@ title: "Section 1114 - Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)
 usc_title: 45
 usc_section: "1114"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "45 U.S.C. § 1114"
-generated_at: "2026-11-23T20:36:56.792Z"
+generated_at: "2026-11-23T20:39:37.771Z"
 status: "repealed"
 ---
 

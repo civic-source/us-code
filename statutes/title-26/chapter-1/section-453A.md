@@ -3,9 +3,9 @@ title: "Section 453A - Special rules for nondealers"
 usc_title: 26
 usc_section: "453A"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 453A"
-generated_at: "2026-11-23T20:36:43.160Z"
+generated_at: "2026-11-23T20:39:23.054Z"
 status: "active"
 ---
 

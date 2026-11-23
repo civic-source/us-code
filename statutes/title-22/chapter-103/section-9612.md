@@ -3,9 +3,9 @@ title: "Section 9612 - United States International Development Finance Corporati
 usc_title: 22
 usc_section: "9612"
 chapter: 103
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 9612"
-generated_at: "2026-11-23T20:36:31.153Z"
+generated_at: "2026-11-23T20:39:11.120Z"
 status: "active"
 ---
 

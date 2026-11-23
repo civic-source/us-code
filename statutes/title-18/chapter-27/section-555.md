@@ -3,9 +3,9 @@ title: "Section 555 - Border tunnels and passages"
 usc_title: 18
 usc_section: "555"
 chapter: 27
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 555"
-generated_at: "2026-11-23T20:36:14.094Z"
+generated_at: "2026-11-23T20:38:53.148Z"
 status: "active"
 ---
 

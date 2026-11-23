@@ -3,9 +3,9 @@ title: "Section 1 - Registration requirements"
 usc_title: 7
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T20:35:55.856Z"
+generated_at: "2026-11-23T20:38:31.002Z"
 status: "active"
 ---
 

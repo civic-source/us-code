@@ -3,9 +3,9 @@ title: "Section 1741 - Foreign official documents"
 usc_title: 28
 usc_section: "1741"
 chapter: 115
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1741"
-generated_at: "2026-11-23T20:36:34.405Z"
+generated_at: "2026-11-23T20:39:16.051Z"
 status: "active"
 ---
 

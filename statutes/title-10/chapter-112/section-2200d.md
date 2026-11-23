@@ -3,9 +3,9 @@ title: "Section 2200d - Regulations"
 usc_title: 10
 usc_section: "2200d"
 chapter: 112
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2200d"
-generated_at: "2026-11-23T20:36:02.481Z"
+generated_at: "2026-11-23T20:38:39.486Z"
 status: "active"
 ---
 

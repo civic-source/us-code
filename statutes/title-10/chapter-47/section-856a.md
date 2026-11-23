@@ -3,9 +3,9 @@ title: "Section 856a - Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301
 usc_title: 10
 usc_section: "856a"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 856a"
-generated_at: "2026-11-23T20:36:02.241Z"
+generated_at: "2026-11-23T20:38:39.144Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51501 - Establishment of Office of Spaceports"
 usc_title: 51
 usc_section: "51501"
 chapter: 515
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "51 U.S.C. § 51501"
-generated_at: "2026-11-23T20:37:27.750Z"
+generated_at: "2026-11-23T20:40:05.508Z"
 status: "active"
 ---
 

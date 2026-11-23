@@ -3,9 +3,9 @@ title: "Section 8688a - Omitted]"
 usc_title: 10
 usc_section: "8688a"
 chapter: 863
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 8688a"
-generated_at: "2026-11-23T20:36:03.018Z"
+generated_at: "2026-11-23T20:38:40.139Z"
 status: "omitted"
 ---
 

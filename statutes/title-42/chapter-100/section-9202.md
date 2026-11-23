@@ -3,9 +3,9 @@ title: "Section 9202 - Definitions"
 usc_title: 42
 usc_section: "9202"
 chapter: 100
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 9202"
-generated_at: "2026-11-23T20:37:14.189Z"
+generated_at: "2026-11-23T20:39:53.478Z"
 status: "active"
 ---
 

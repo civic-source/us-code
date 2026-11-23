@@ -3,9 +3,9 @@ title: "Section 5706 - Veterans identification card"
 usc_title: 38
 usc_section: "5706"
 chapter: 57
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 5706"
-generated_at: "2026-11-23T20:36:54.322Z"
+generated_at: "2026-11-23T20:39:35.223Z"
 status: "active"
 ---
 

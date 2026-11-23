@@ -3,9 +3,9 @@ title: "Section 1671 - Congressional statement of findings"
 usc_title: 16
 usc_section: "1671"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1671"
-generated_at: "2026-11-23T20:36:21.264Z"
+generated_at: "2026-11-23T20:39:01.746Z"
 status: "active"
 ---
 

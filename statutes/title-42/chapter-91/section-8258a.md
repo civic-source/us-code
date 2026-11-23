@@ -3,9 +3,9 @@ title: "Section 8258a - Demonstration of new technology"
 usc_title: 42
 usc_section: "8258a"
 chapter: 91
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 8258a"
-generated_at: "2026-11-23T20:37:14.138Z"
+generated_at: "2026-11-23T20:39:53.421Z"
 status: "active"
 ---
 

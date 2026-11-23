@@ -3,9 +3,9 @@ title: "Section 403 - Basic allowance for housing"
 usc_title: 37
 usc_section: "403"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "37 U.S.C. § 403"
-generated_at: "2026-11-23T20:36:50.606Z"
+generated_at: "2026-11-23T20:39:31.316Z"
 status: "active"
 ---
 

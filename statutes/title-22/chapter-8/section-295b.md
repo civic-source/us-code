@@ -3,9 +3,9 @@ title: "Section 295b - Omitted"
 usc_title: 22
 usc_section: "295b"
 chapter: 8
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 295b"
-generated_at: "2026-11-23T20:36:30.439Z"
+generated_at: "2026-11-23T20:39:10.462Z"
 status: "omitted"
 ---
 

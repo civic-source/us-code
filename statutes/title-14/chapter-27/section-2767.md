@@ -3,9 +3,9 @@ title: "Section 2767 - Reimbursement for medical-related travel expenses for cer
 usc_title: 14
 usc_section: "2767"
 chapter: 27
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "14 U.S.C. § 2767"
-generated_at: "2026-11-23T20:36:04.978Z"
+generated_at: "2026-11-23T20:38:42.514Z"
 status: "active"
 ---
 

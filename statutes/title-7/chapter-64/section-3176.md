@@ -3,9 +3,9 @@ title: "Section 3176 - Repealed. Pub. L. 97–98, title XIV, § 1424(a) , Dec. 2
 usc_title: 7
 usc_section: "3176"
 chapter: 64
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 3176"
-generated_at: "2026-11-23T20:35:56.268Z"
+generated_at: "2026-11-23T20:38:31.578Z"
 status: "repealed"
 ---
 

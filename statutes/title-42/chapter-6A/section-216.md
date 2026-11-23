@@ -3,9 +3,9 @@ title: "Section 216 - Regulations"
 usc_title: 42
 usc_section: "216"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 216"
-generated_at: "2026-11-23T20:37:11.306Z"
+generated_at: "2026-11-23T20:39:50.915Z"
 status: "active"
 ---
 

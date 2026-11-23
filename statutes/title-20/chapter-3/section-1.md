@@ -3,9 +3,9 @@ title: "Section 1 - Establishment of Museum"
 usc_title: 20
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-11-23T20:36:17.800Z"
+generated_at: "2026-11-23T20:38:56.846Z"
 status: "active"
 ---
 

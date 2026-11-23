@@ -3,9 +3,9 @@ title: "Section 150408 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "150408"
 chapter: 1504
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 150408"
-generated_at: "2026-11-23T20:36:51.618Z"
+generated_at: "2026-11-23T20:39:32.570Z"
 status: "active"
 ---
 

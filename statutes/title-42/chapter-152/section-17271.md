@@ -3,9 +3,9 @@ title: "Section 17271 - Carbon dioxide sequestration capacity assessment"
 usc_title: 42
 usc_section: "17271"
 chapter: 152
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 17271"
-generated_at: "2026-11-23T20:37:14.726Z"
+generated_at: "2026-11-23T20:39:53.950Z"
 status: "active"
 ---
 

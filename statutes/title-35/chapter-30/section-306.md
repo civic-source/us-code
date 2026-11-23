@@ -3,9 +3,9 @@ title: "Section 306 - Appeal"
 usc_title: 35
 usc_section: "306"
 chapter: 30
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "35 U.S.C. § 306"
-generated_at: "2026-11-23T20:36:45.679Z"
+generated_at: "2026-11-23T20:39:25.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1356 - Repealed. Pub. L. 97–98, title VI, § 601 , Dec. 22, 19
 usc_title: 7
 usc_section: "1356"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1356"
-generated_at: "2026-11-23T20:35:55.984Z"
+generated_at: "2026-11-23T20:38:31.168Z"
 status: "repealed"
 ---
 

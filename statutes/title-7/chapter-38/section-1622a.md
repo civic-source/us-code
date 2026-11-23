@@ -3,9 +3,9 @@ title: "Section 1622a - Authority to assist farmers and elevator operators"
 usc_title: 7
 usc_section: "1622a"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1622a"
-generated_at: "2026-11-23T20:35:56.050Z"
+generated_at: "2026-11-23T20:38:31.262Z"
 status: "active"
 ---
 

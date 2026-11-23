@@ -3,9 +3,9 @@ title: "Section 5741 - Repealed. Pub. L. 98–473, title II, § 656 , Oct. 12, 1
 usc_title: 42
 usc_section: "5741"
 chapter: 72
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 5741"
-generated_at: "2026-11-23T20:37:13.790Z"
+generated_at: "2026-11-23T20:39:53.014Z"
 status: "repealed"
 ---
 

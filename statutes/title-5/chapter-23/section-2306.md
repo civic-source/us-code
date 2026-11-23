@@ -3,9 +3,9 @@ title: "Section 2306 - Coordination with certain other provisions of law"
 usc_title: 5
 usc_section: "2306"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 2306"
-generated_at: "2026-11-23T20:35:50.817Z"
+generated_at: "2026-11-23T20:38:24.507Z"
 status: "active"
 ---
 

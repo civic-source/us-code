@@ -3,9 +3,9 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-11-23T20:36:26.639Z"
+generated_at: "2026-11-23T20:39:07.363Z"
 status: "active"
 ---
 

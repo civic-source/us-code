@@ -3,9 +3,9 @@ title: "Section 2052 - Death in service"
 usc_title: 50
 usc_section: "2052"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2052"
-generated_at: "2026-11-23T20:37:21.431Z"
+generated_at: "2026-11-23T20:39:59.983Z"
 status: "active"
 ---
 

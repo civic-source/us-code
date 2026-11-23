@@ -3,9 +3,9 @@ title: "Section 7472 - Regulations"
 usc_title: 7
 usc_section: "7472"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 7472"
-generated_at: "2026-11-23T20:35:56.393Z"
+generated_at: "2026-11-23T20:38:31.820Z"
 status: "active"
 ---
 

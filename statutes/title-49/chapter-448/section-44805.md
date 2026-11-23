@@ -3,9 +3,9 @@ title: "Section 44805 - Small unmanned aircraft safety standards"
 usc_title: 49
 usc_section: "44805"
 chapter: 448
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 44805"
-generated_at: "2026-11-23T20:37:25.538Z"
+generated_at: "2026-11-23T20:40:03.685Z"
 status: "active"
 ---
 

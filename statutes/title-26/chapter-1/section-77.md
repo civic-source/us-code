@@ -3,9 +3,9 @@ title: "Section 77 - Commodity credit loans"
 usc_title: 26
 usc_section: "77"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 77"
-generated_at: "2026-11-23T20:36:42.906Z"
+generated_at: "2026-11-23T20:39:22.697Z"
 status: "active"
 ---
 

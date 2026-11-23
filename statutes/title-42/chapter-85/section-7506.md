@@ -3,9 +3,9 @@ title: "Section 7506 - Limitations on certain Federal assistance"
 usc_title: 42
 usc_section: "7506"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7506"
-generated_at: "2026-11-23T20:37:14.030Z"
+generated_at: "2026-11-23T20:39:53.292Z"
 status: "active"
 ---
 

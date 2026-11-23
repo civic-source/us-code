@@ -3,9 +3,9 @@ title: "Section 22505 - Exclusive right to name"
 usc_title: 36
 usc_section: "22505"
 chapter: 225
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 22505"
-generated_at: "2026-11-23T20:36:51.536Z"
+generated_at: "2026-11-23T20:39:32.454Z"
 status: "active"
 ---
 

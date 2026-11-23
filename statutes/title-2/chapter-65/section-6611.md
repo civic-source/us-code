@@ -3,9 +3,9 @@ title: "Section 6611 - Transfer authority and Sergeant at Arms Business Continui
 usc_title: 2
 usc_section: "6611"
 chapter: 65
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 6611"
-generated_at: "2026-11-23T20:35:49.635Z"
+generated_at: "2026-11-23T20:38:21.757Z"
 status: "active"
 ---
 

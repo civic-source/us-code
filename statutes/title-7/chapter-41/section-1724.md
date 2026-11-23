@@ -3,9 +3,9 @@ title: "Section 1724 - Levels of assistance"
 usc_title: 7
 usc_section: "1724"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1724"
-generated_at: "2026-11-23T20:35:56.079Z"
+generated_at: "2026-11-23T20:38:31.295Z"
 status: "active"
 ---
 

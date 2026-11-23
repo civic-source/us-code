@@ -3,9 +3,9 @@ title: "Section 624 - Disclosure requirements for United States-based foreign me
 usc_title: 47
 usc_section: "624"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "47 U.S.C. § 624"
-generated_at: "2026-11-23T20:37:19.753Z"
+generated_at: "2026-11-23T20:39:56.052Z"
 status: "active"
 ---
 

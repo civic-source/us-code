@@ -3,9 +3,9 @@ title: "Section 19155 - Cultural and institutional barriers to expanding the aca
 usc_title: 42
 usc_section: "19155"
 chapter: 163
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 19155"
-generated_at: "2026-11-23T20:37:14.851Z"
+generated_at: "2026-11-23T20:39:54.027Z"
 status: "active"
 ---
 

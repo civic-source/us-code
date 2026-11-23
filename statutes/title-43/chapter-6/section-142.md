@@ -3,9 +3,9 @@ title: "Section 142 - Rights of occupants or claimants of oil- or gas-bearing la
 usc_title: 43
 usc_section: "142"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 142"
-generated_at: "2026-11-23T20:36:57.570Z"
+generated_at: "2026-11-23T20:39:39.302Z"
 status: "active"
 ---
 

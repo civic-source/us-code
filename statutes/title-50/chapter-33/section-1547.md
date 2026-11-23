@@ -3,9 +3,9 @@ title: "Section 1547 - Interpretation of joint resolution"
 usc_title: 50
 usc_section: "1547"
 chapter: 33
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 1547"
-generated_at: "2026-11-23T20:37:21.381Z"
+generated_at: "2026-11-23T20:39:59.925Z"
 status: "active"
 ---
 

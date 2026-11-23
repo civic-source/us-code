@@ -3,9 +3,9 @@ title: "Section 1453 - Cancellation of certificates issued by Attorney General, 
 usc_title: 8
 usc_section: "1453"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "8 U.S.C. § 1453"
-generated_at: "2026-11-23T20:35:53.070Z"
+generated_at: "2026-11-23T20:38:27.881Z"
 status: "active"
 ---
 

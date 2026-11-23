@@ -3,9 +3,9 @@ title: "Section 3143 - Grants for planning and grants for administrative expense
 usc_title: 42
 usc_section: "3143"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3143"
-generated_at: "2026-11-23T20:37:13.519Z"
+generated_at: "2026-11-23T20:39:52.753Z"
 status: "active"
 ---
 

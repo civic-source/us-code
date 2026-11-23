@@ -3,9 +3,9 @@ title: "Section 1116 - Annual reports: limitation on number of copies printed; r
 usc_title: 44
 usc_section: "1116"
 chapter: 11
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "44 U.S.C. § 1116"
-generated_at: "2026-11-23T20:36:56.434Z"
+generated_at: "2026-11-23T20:39:38.121Z"
 status: "active"
 ---
 

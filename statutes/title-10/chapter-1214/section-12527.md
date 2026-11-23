@@ -3,9 +3,9 @@ title: "Section 12527 - Payment of premiums"
 usc_title: 10
 usc_section: "12527"
 chapter: 1214
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 12527"
-generated_at: "2026-11-23T20:36:03.193Z"
+generated_at: "2026-11-23T20:38:40.342Z"
 status: "active"
 ---
 

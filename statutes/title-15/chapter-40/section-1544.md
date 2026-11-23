@@ -3,9 +3,9 @@ title: "Section 1544 - Promotion of tourist travel"
 usc_title: 15
 usc_section: "1544"
 chapter: 40
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 1544"
-generated_at: "2026-11-23T20:36:10.748Z"
+generated_at: "2026-11-23T20:38:49.990Z"
 status: "active"
 ---
 

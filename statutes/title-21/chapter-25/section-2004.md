@@ -3,9 +3,9 @@ title: "Section 2004 - Information sharing"
 usc_title: 21
 usc_section: "2004"
 chapter: 25
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "21 U.S.C. § 2004"
-generated_at: "2026-11-23T20:36:26.997Z"
+generated_at: "2026-11-23T20:39:07.684Z"
 status: "active"
 ---
 

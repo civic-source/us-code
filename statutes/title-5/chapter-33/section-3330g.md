@@ -3,9 +3,9 @@ title: "Section 3330g - DOD use of shared talent pools and structured assessment
 usc_title: 5
 usc_section: "3330g"
 chapter: 33
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 3330g"
-generated_at: "2026-11-23T20:35:50.835Z"
+generated_at: "2026-11-23T20:38:24.550Z"
 status: "active"
 ---
 

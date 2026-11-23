@@ -3,9 +3,9 @@ title: "Section 792 - Coal conversion and allocation"
 usc_title: 15
 usc_section: "792"
 chapter: 16
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 792"
-generated_at: "2026-11-23T20:36:10.673Z"
+generated_at: "2026-11-23T20:38:49.905Z"
 status: "active"
 ---
 

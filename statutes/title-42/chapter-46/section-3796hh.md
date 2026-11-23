@@ -3,9 +3,9 @@ title: "Section 3796hh - Transferred"
 usc_title: 42
 usc_section: "3796hh"
 chapter: 46
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3796hh"
-generated_at: "2026-11-23T20:37:13.580Z"
+generated_at: "2026-11-23T20:39:52.811Z"
 status: "transferred"
 ---
 

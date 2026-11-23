@@ -3,9 +3,9 @@ title: "Section 471g - Administration, protection, and development; use of natur
 usc_title: 16
 usc_section: "471g"
 chapter: 2
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 471g"
-generated_at: "2026-11-23T20:36:20.947Z"
+generated_at: "2026-11-23T20:39:01.328Z"
 status: "active"
 ---
 

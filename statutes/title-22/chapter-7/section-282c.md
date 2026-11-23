@@ -3,9 +3,9 @@ title: "Section 282c - Congressional authorization needed for certain actions"
 usc_title: 22
 usc_section: "282c"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 282c"
-generated_at: "2026-11-23T20:36:30.371Z"
+generated_at: "2026-11-23T20:39:10.400Z"
 status: "active"
 ---
 

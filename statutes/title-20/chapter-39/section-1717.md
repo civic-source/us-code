@@ -3,9 +3,9 @@ title: "Section 1717 - Reopening proceedings"
 usc_title: 20
 usc_section: "1717"
 chapter: 39
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1717"
-generated_at: "2026-11-23T20:36:18.021Z"
+generated_at: "2026-11-23T20:38:57.250Z"
 status: "active"
 ---
 

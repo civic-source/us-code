@@ -3,9 +3,9 @@ title: "Section 3607 - Definitions"
 usc_title: 44
 usc_section: "3607"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "44 U.S.C. § 3607"
-generated_at: "2026-11-23T20:36:56.496Z"
+generated_at: "2026-11-23T20:39:38.202Z"
 status: "active"
 ---
 

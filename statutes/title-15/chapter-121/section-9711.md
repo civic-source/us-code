@@ -3,9 +3,9 @@ title: "Section 9711 - Gap analysis on availability of snow-related data to asse
 usc_title: 15
 usc_section: "9711"
 chapter: 121
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9711"
-generated_at: "2026-11-23T20:36:11.043Z"
+generated_at: "2026-11-23T20:38:50.410Z"
 status: "active"
 ---
 

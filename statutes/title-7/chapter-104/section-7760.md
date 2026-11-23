@@ -3,9 +3,9 @@ title: "Section 7760 - State terminal inspection; transmission of mailed package
 usc_title: 7
 usc_section: "7760"
 chapter: 104
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 7760"
-generated_at: "2026-11-23T20:35:56.410Z"
+generated_at: "2026-11-23T20:38:31.854Z"
 status: "active"
 ---
 

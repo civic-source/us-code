@@ -3,9 +3,9 @@ title: "Section 5141 - Interest rates and taxes"
 usc_title: 25
 usc_section: "5141"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 5141"
-generated_at: "2026-11-23T20:36:25.051Z"
+generated_at: "2026-11-23T20:39:05.800Z"
 status: "active"
 ---
 

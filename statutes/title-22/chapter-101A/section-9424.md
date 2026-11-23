@@ -3,9 +3,9 @@ title: "Section 9424 - Definitions"
 usc_title: 22
 usc_section: "9424"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 9424"
-generated_at: "2026-11-23T20:36:31.142Z"
+generated_at: "2026-11-23T20:39:11.105Z"
 status: "active"
 ---
 

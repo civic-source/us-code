@@ -3,9 +3,9 @@ title: "Section 18f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "18f"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 18f"
-generated_at: "2026-11-23T20:36:20.652Z"
+generated_at: "2026-11-23T20:39:00.940Z"
 status: "repealed"
 ---
 

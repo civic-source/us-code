@@ -3,9 +3,9 @@ title: "Section 18402 - Research collaboration"
 usc_title: 42
 usc_section: "18402"
 chapter: 159
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 18402"
-generated_at: "2026-11-23T20:37:14.785Z"
+generated_at: "2026-11-23T20:39:53.984Z"
 status: "active"
 ---
 

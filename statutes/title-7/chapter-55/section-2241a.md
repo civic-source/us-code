@@ -3,9 +3,9 @@ title: "Section 2241a - Exchange or sale authority"
 usc_title: 7
 usc_section: "2241a"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2241a"
-generated_at: "2026-11-23T20:35:56.222Z"
+generated_at: "2026-11-23T20:38:31.502Z"
 status: "active"
 ---
 

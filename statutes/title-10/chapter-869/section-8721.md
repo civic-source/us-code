@@ -3,9 +3,9 @@ title: "Section 8721 - Jurisdiction and control"
 usc_title: 10
 usc_section: "8721"
 chapter: 869
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 8721"
-generated_at: "2026-11-23T20:36:03.023Z"
+generated_at: "2026-11-23T20:38:40.146Z"
 status: "active"
 ---
 

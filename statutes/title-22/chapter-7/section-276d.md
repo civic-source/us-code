@@ -3,9 +3,9 @@ title: "Section 276d - United States group; appointment; term; meetings"
 usc_title: 22
 usc_section: "276d"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 276d"
-generated_at: "2026-11-23T20:36:30.354Z"
+generated_at: "2026-11-23T20:39:10.382Z"
 status: "active"
 ---
 

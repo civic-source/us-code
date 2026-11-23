@@ -3,9 +3,9 @@ title: "Section 9901 - Prohibition on transfer of personally identifiable sensit
 usc_title: 15
 usc_section: "9901"
 chapter: 123
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9901"
-generated_at: "2026-11-23T20:36:11.044Z"
+generated_at: "2026-11-23T20:38:50.411Z"
 status: "active"
 ---
 
@@ -138,14 +138,6 @@ Right of Action
 Exclusive Jurisdiction
 
 Statute of Limitations
-
-Section
-
-Sec.
-
-Sec.
-
-J.R. Biden, Jr.
 
 ## Source Credit
 

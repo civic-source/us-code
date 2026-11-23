@@ -3,9 +3,9 @@ title: "Section 70104 - Membership"
 usc_title: 36
 usc_section: "70104"
 chapter: 701
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 70104"
-generated_at: "2026-11-23T20:36:51.578Z"
+generated_at: "2026-11-23T20:39:32.510Z"
 status: "active"
 ---
 

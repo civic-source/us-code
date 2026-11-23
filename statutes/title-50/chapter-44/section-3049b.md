@@ -3,9 +3,9 @@ title: "Section 3049b - Enabling intelligence community integration"
 usc_title: 50
 usc_section: "3049b"
 chapter: 44
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 3049b"
-generated_at: "2026-11-23T20:37:21.496Z"
+generated_at: "2026-11-23T20:40:00.051Z"
 status: "active"
 ---
 

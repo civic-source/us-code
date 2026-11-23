@@ -3,9 +3,9 @@ title: "Section 3401 - Mailing privileges of members of Armed Forces of the Unit
 usc_title: 39
 usc_section: "3401"
 chapter: 34
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "39 U.S.C. § 3401"
-generated_at: "2026-11-23T20:36:50.136Z"
+generated_at: "2026-11-23T20:39:31.545Z"
 status: "active"
 ---
 

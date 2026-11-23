@@ -3,9 +3,9 @@ title: "Section 6035 - United States opposition to termination of suspension of 
 usc_title: 22
 usc_section: "6035"
 chapter: 69
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 6035"
-generated_at: "2026-11-23T20:36:30.957Z"
+generated_at: "2026-11-23T20:39:10.919Z"
 status: "active"
 ---
 

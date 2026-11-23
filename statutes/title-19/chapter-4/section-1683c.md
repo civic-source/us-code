@@ -3,9 +3,9 @@ title: "Section 1683c - Export charge determination and publication"
 usc_title: 19
 usc_section: "1683c"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "19 U.S.C. § 1683c"
-generated_at: "2026-11-23T20:36:16.108Z"
+generated_at: "2026-11-23T20:38:54.749Z"
 status: "active"
 ---
 

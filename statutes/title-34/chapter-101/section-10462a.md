@@ -3,9 +3,9 @@ title: "Section 10462a - Grants to State and Tribal courts to implement protecti
 usc_title: 34
 usc_section: "10462a"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 10462a"
-generated_at: "2026-11-23T20:36:47.189Z"
+generated_at: "2026-11-23T20:39:27.640Z"
 status: "active"
 ---
 

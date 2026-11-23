@@ -3,9 +3,9 @@ title: "Section 310 - Special pay: duty subject to hostile fire or imminent dang
 usc_title: 37
 usc_section: "310"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "37 U.S.C. § 310"
-generated_at: "2026-11-23T20:36:50.576Z"
+generated_at: "2026-11-23T20:39:31.299Z"
 status: "active"
 ---
 

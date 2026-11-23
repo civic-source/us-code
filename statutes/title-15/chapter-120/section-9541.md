@@ -3,9 +3,9 @@ title: "Section 9541 - Annual diverse business forum on capital formation"
 usc_title: 15
 usc_section: "9541"
 chapter: 120
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9541"
-generated_at: "2026-11-23T20:36:11.036Z"
+generated_at: "2026-11-23T20:38:50.403Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 405 - Travel and transportation allowances: per diem while on du
 usc_title: 37
 usc_section: "405"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "37 U.S.C. § 405"
-generated_at: "2026-11-23T20:36:50.614Z"
+generated_at: "2026-11-23T20:39:31.320Z"
 status: "active"
 ---
 

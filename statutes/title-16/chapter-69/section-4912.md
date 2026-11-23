@@ -3,9 +3,9 @@ title: "Section 4912 - Penalties and regulations"
 usc_title: 16
 usc_section: "4912"
 chapter: 69
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 4912"
-generated_at: "2026-11-23T20:36:21.410Z"
+generated_at: "2026-11-23T20:39:01.931Z"
 status: "active"
 ---
 

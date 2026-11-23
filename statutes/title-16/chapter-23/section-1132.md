@@ -3,9 +3,9 @@ title: "Section 1132 - Extent of System"
 usc_title: 16
 usc_section: "1132"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1132"
-generated_at: "2026-11-23T20:36:21.153Z"
+generated_at: "2026-11-23T20:39:01.618Z"
 status: "active"
 ---
 

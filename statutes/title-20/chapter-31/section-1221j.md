@@ -3,9 +3,9 @@ title: "Section 1221j - Television program assistance"
 usc_title: 20
 usc_section: "1221j"
 chapter: 31
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1221j"
-generated_at: "2026-11-23T20:36:17.985Z"
+generated_at: "2026-11-23T20:38:57.181Z"
 status: "active"
 ---
 

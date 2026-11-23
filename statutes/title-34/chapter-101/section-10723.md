@@ -3,9 +3,9 @@ title: "Section 10723 - Authorized programs"
 usc_title: 34
 usc_section: "10723"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 10723"
-generated_at: "2026-11-23T20:36:47.206Z"
+generated_at: "2026-11-23T20:39:27.671Z"
 status: "active"
 ---
 

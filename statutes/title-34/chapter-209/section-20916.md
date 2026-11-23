@@ -3,9 +3,9 @@ title: "Section 20916 - Direction to the Attorney General"
 usc_title: 34
 usc_section: "20916"
 chapter: 209
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 20916"
-generated_at: "2026-11-23T20:36:47.325Z"
+generated_at: "2026-11-23T20:39:27.796Z"
 status: "active"
 ---
 

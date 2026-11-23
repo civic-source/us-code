@@ -3,9 +3,9 @@ title: "Section 8903 - Self-propelled, uninspected passenger vessels"
 usc_title: 46
 usc_section: "8903"
 chapter: 89
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 8903"
-generated_at: "2026-11-23T20:37:18.564Z"
+generated_at: "2026-11-23T20:39:58.395Z"
 status: "active"
 ---
 

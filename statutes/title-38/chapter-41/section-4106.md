@@ -3,9 +3,9 @@ title: "Section 4106 - Estimate of funds for administration; authorization of ap
 usc_title: 38
 usc_section: "4106"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 4106"
-generated_at: "2026-11-23T20:36:54.284Z"
+generated_at: "2026-11-23T20:39:35.189Z"
 status: "active"
 ---
 

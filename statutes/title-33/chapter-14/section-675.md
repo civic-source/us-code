@@ -3,9 +3,9 @@ title: "Section 675 - Conditions precedent for commencement of mining operations
 usc_title: 33
 usc_section: "675"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 675"
-generated_at: "2026-11-23T20:36:48.344Z"
+generated_at: "2026-11-23T20:39:29.128Z"
 status: "active"
 ---
 

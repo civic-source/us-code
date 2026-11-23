@@ -3,9 +3,9 @@ title: "Section 1631l - Determination of expenses and time for filing suit, noti
 usc_title: 22
 usc_section: "1631l"
 chapter: 21
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1631l"
-generated_at: "2026-11-23T20:36:30.478Z"
+generated_at: "2026-11-23T20:39:10.505Z"
 status: "active"
 ---
 

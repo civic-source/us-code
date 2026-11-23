@@ -3,9 +3,9 @@ title: "Section 814 - Exercise by licensee of power of eminent domain"
 usc_title: 16
 usc_section: "814"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 814"
-generated_at: "2026-11-23T20:36:21.095Z"
+generated_at: "2026-11-23T20:39:01.554Z"
 status: "active"
 ---
 

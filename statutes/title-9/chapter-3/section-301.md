@@ -3,9 +3,9 @@ title: "Section 301 - Enforcement of Convention"
 usc_title: 9
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "9 U.S.C. § 301"
-generated_at: "2026-11-23T20:35:52.392Z"
+generated_at: "2026-11-23T20:38:26.235Z"
 status: "active"
 ---
 

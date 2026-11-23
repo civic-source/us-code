@@ -3,9 +3,9 @@ title: "Section 635q - Establishment of tied aid credit program in United States
 usc_title: 12
 usc_section: "635q"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 635q"
-generated_at: "2026-11-23T20:36:07.543Z"
+generated_at: "2026-11-23T20:38:45.672Z"
 status: "active"
 ---
 

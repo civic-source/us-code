@@ -3,9 +3,9 @@ title: "Section 2655a - Bureau of Oceans and International Environmental and Sci
 usc_title: 22
 usc_section: "2655a"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 2655a"
-generated_at: "2026-11-23T20:36:30.678Z"
+generated_at: "2026-11-23T20:39:10.707Z"
 status: "active"
 ---
 

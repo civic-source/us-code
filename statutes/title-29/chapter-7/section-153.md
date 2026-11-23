@@ -3,9 +3,9 @@ title: "Section 153 - National Labor Relations Board"
 usc_title: 29
 usc_section: "153"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 153"
-generated_at: "2026-11-23T20:36:35.816Z"
+generated_at: "2026-11-23T20:39:14.506Z"
 status: "active"
 ---
 

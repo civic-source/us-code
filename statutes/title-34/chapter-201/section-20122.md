@@ -3,9 +3,9 @@ title: "Section 20122 - Education, training, and enhanced services to end violen
 usc_title: 34
 usc_section: "20122"
 chapter: 201
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 20122"
-generated_at: "2026-11-23T20:36:47.292Z"
+generated_at: "2026-11-23T20:39:27.764Z"
 status: "active"
 ---
 

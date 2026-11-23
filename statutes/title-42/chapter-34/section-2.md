@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of Administration for Native Americans"
 usc_title: 42
 usc_section: "2"
 chapter: 34
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-11-23T20:37:13.432Z"
+generated_at: "2026-11-23T20:39:52.670Z"
 status: "active"
 ---
 

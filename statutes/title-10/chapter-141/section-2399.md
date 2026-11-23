@@ -3,9 +3,9 @@ title: "Section 2399 - Renumbered § 4171]"
 usc_title: 10
 usc_section: "2399"
 chapter: 141
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2399"
-generated_at: "2026-11-23T20:36:02.524Z"
+generated_at: "2026-11-23T20:38:39.543Z"
 status: "renumbered"
 ---
 

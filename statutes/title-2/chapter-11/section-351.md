@@ -3,9 +3,9 @@ title: "Section 351 - Establishment"
 usc_title: 2
 usc_section: "351"
 chapter: 11
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 351"
-generated_at: "2026-11-23T20:35:49.510Z"
+generated_at: "2026-11-23T20:38:21.510Z"
 status: "active"
 ---
 

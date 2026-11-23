@@ -3,9 +3,9 @@ title: "Section 5502 - Qualification"
 usc_title: 26
 usc_section: "5502"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 5502"
-generated_at: "2026-11-23T20:36:43.740Z"
+generated_at: "2026-11-23T20:39:23.713Z"
 status: "active"
 ---
 

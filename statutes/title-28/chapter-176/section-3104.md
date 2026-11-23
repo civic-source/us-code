@@ -3,9 +3,9 @@ title: "Section 3104 - Garnishment"
 usc_title: 28
 usc_section: "3104"
 chapter: 176
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 3104"
-generated_at: "2026-11-23T20:36:34.467Z"
+generated_at: "2026-11-23T20:39:16.117Z"
 status: "active"
 ---
 

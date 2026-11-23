@@ -3,9 +3,9 @@ title: "Section 6931 - Under Secretary of Agriculture for Farm Production and Co
 usc_title: 7
 usc_section: "6931"
 chapter: 98
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 6931"
-generated_at: "2026-11-23T20:35:56.360Z"
+generated_at: "2026-11-23T20:38:31.756Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 224 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "224"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 224"
-generated_at: "2026-11-23T20:36:57.574Z"
+generated_at: "2026-11-23T20:39:39.306Z"
 status: "repealed"
 ---
 

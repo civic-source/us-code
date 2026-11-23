@@ -3,9 +3,9 @@ title: "Section 60303 - Pilot projects to encourage public sector applications"
 usc_title: 51
 usc_section: "60303"
 chapter: 603
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "51 U.S.C. § 60303"
-generated_at: "2026-11-23T20:37:27.759Z"
+generated_at: "2026-11-23T20:40:05.513Z"
 status: "active"
 ---
 

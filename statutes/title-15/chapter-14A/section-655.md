@@ -3,9 +3,9 @@ title: "Section 655 - Pilot Technology Access Program"
 usc_title: 15
 usc_section: "655"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 655"
-generated_at: "2026-11-23T20:36:10.602Z"
+generated_at: "2026-11-23T20:38:49.811Z"
 status: "active"
 ---
 

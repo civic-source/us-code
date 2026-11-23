@@ -3,9 +3,9 @@ title: "Section 151904 - Governing body"
 usc_title: 36
 usc_section: "151904"
 chapter: 1519
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 151904"
-generated_at: "2026-11-23T20:36:51.637Z"
+generated_at: "2026-11-23T20:39:32.595Z"
 status: "active"
 ---
 

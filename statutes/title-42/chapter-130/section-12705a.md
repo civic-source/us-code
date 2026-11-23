@@ -3,9 +3,9 @@ title: "Section 12705a - Purposes of Removal of Regulatory Barriers to Affordabl
 usc_title: 42
 usc_section: "12705a"
 chapter: 130
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 12705a"
-generated_at: "2026-11-23T20:37:14.445Z"
+generated_at: "2026-11-23T20:39:53.769Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 802 - Coronavirus State fiscal recovery fund"
 usc_title: 42
 usc_section: "802"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 802"
-generated_at: "2026-11-23T20:37:12.265Z"
+generated_at: "2026-11-23T20:39:51.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2266 - Definitions"
 usc_title: 18
 usc_section: "2266"
 chapter: 110
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 2266"
-generated_at: "2026-11-23T20:36:14.226Z"
+generated_at: "2026-11-23T20:38:53.287Z"
 status: "active"
 ---
 

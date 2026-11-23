@@ -3,9 +3,9 @@ title: "Section 32310 - New Car Assessment Program roadmap"
 usc_title: 49
 usc_section: "32310"
 chapter: 323
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 32310"
-generated_at: "2026-11-23T20:37:25.296Z"
+generated_at: "2026-11-23T20:40:03.472Z"
 status: "active"
 ---
 

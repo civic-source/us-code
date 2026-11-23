@@ -3,9 +3,9 @@ title: "Section 285bb - Additional contribution to special funds"
 usc_title: 22
 usc_section: "285bb"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 285bb"
-generated_at: "2026-11-23T20:36:30.389Z"
+generated_at: "2026-11-23T20:39:10.416Z"
 status: "active"
 ---
 

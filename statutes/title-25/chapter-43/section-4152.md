@@ -3,9 +3,9 @@ title: "Section 4152 - Allocation formula"
 usc_title: 25
 usc_section: "4152"
 chapter: 43
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 4152"
-generated_at: "2026-11-23T20:36:25.027Z"
+generated_at: "2026-11-23T20:39:05.771Z"
 status: "active"
 ---
 

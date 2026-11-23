@@ -3,9 +3,9 @@ title: "Section 2538 - Inclusion and command review of information on covered mi
 usc_title: 14
 usc_section: "2538"
 chapter: 25
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "14 U.S.C. § 2538"
-generated_at: "2026-11-23T20:36:04.975Z"
+generated_at: "2026-11-23T20:38:42.509Z"
 status: "active"
 ---
 

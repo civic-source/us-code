@@ -3,9 +3,9 @@ title: "Section 5519 - Exclusion for auto dealers"
 usc_title: 12
 usc_section: "5519"
 chapter: 53
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 5519"
-generated_at: "2026-11-23T20:36:07.912Z"
+generated_at: "2026-11-23T20:38:46.274Z"
 status: "active"
 ---
 

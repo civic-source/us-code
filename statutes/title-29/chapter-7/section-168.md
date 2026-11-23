@@ -3,9 +3,9 @@ title: "Section 168 - Validation of certificates and other Board actions"
 usc_title: 29
 usc_section: "168"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 168"
-generated_at: "2026-11-23T20:36:35.821Z"
+generated_at: "2026-11-23T20:39:14.511Z"
 status: "active"
 ---
 

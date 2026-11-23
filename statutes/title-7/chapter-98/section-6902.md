@@ -3,9 +3,9 @@ title: "Section 6902 - Definitions"
 usc_title: 7
 usc_section: "6902"
 chapter: 98
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 6902"
-generated_at: "2026-11-23T20:35:56.357Z"
+generated_at: "2026-11-23T20:38:31.750Z"
 status: "active"
 ---
 

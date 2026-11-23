@@ -3,9 +3,9 @@ title: "Section 30502 - National Motor Vehicle Title Information System"
 usc_title: 49
 usc_section: "30502"
 chapter: 305
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 30502"
-generated_at: "2026-11-23T20:37:25.231Z"
+generated_at: "2026-11-23T20:40:03.407Z"
 status: "active"
 ---
 

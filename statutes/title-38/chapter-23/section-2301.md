@@ -3,9 +3,9 @@ title: "Section 2301 - Flags"
 usc_title: 38
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 2301"
-generated_at: "2026-11-23T20:36:54.174Z"
+generated_at: "2026-11-23T20:39:35.077Z"
 status: "active"
 ---
 

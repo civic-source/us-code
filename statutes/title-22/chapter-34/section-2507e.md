@@ -3,9 +3,9 @@ title: "Section 2507e - Volunteer feedback and Peace Corps review"
 usc_title: 22
 usc_section: "2507e"
 chapter: 34
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 2507e"
-generated_at: "2026-11-23T20:36:30.653Z"
+generated_at: "2026-11-23T20:39:10.682Z"
 status: "active"
 ---
 

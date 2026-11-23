@@ -3,9 +3,9 @@ title: "Section 5905 - Supervision and enforcement with respect to Federal quali
 usc_title: 12
 usc_section: "5905"
 chapter: 56
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 5905"
-generated_at: "2026-11-23T20:36:07.930Z"
+generated_at: "2026-11-23T20:38:46.295Z"
 status: "active"
 ---
 

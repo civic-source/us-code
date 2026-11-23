@@ -3,9 +3,9 @@ title: "Section 60503 - Reciprocal suspension of discriminating duties"
 usc_title: 46
 usc_section: "60503"
 chapter: 605
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 60503"
-generated_at: "2026-11-23T20:37:18.864Z"
+generated_at: "2026-11-23T20:39:58.657Z"
 status: "active"
 ---
 

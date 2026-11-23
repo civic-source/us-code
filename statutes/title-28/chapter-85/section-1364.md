@@ -3,9 +3,9 @@ title: "Section 1364 - Direct actions against insurers of members of diplomatic 
 usc_title: 28
 usc_section: "1364"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1364"
-generated_at: "2026-11-23T20:36:34.377Z"
+generated_at: "2026-11-23T20:39:16.022Z"
 status: "active"
 ---
 

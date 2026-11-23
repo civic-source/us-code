@@ -3,9 +3,9 @@ title: "Section 17901 - Definitions"
 usc_title: 40
 usc_section: "17901"
 chapter: 179
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "40 U.S.C. § 17901"
-generated_at: "2026-11-23T20:36:52.338Z"
+generated_at: "2026-11-23T20:39:33.227Z"
 status: "active"
 ---
 

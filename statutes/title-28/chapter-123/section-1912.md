@@ -3,9 +3,9 @@ title: "Section 1912 - Damages and costs on affirmance"
 usc_title: 28
 usc_section: "1912"
 chapter: 123
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1912"
-generated_at: "2026-11-23T20:36:34.414Z"
+generated_at: "2026-11-23T20:39:16.061Z"
 status: "active"
 ---
 

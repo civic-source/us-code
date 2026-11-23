@@ -3,9 +3,9 @@ title: "Section 1131d - Report"
 usc_title: 20
 usc_section: "1131d"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1131d"
-generated_at: "2026-11-23T20:36:17.962Z"
+generated_at: "2026-11-23T20:38:57.137Z"
 status: "active"
 ---
 

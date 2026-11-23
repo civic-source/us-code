@@ -3,9 +3,9 @@ title: "Section 204a - Deployment readiness"
 usc_title: 42
 usc_section: "204a"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 204a"
-generated_at: "2026-11-23T20:37:11.293Z"
+generated_at: "2026-11-23T20:39:50.907Z"
 status: "active"
 ---
 

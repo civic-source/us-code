@@ -3,9 +3,9 @@ title: "Section 604 - Duties of Director generally"
 usc_title: 28
 usc_section: "604"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 604"
-generated_at: "2026-11-23T20:36:34.338Z"
+generated_at: "2026-11-23T20:39:15.971Z"
 status: "active"
 ---
 

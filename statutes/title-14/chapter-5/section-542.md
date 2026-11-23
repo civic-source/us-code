@@ -3,9 +3,9 @@ title: "Section 542 - Unauthorized aids to maritime navigation; penalty"
 usc_title: 14
 usc_section: "542"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "14 U.S.C. § 542"
-generated_at: "2026-11-23T20:36:04.935Z"
+generated_at: "2026-11-23T20:38:42.461Z"
 status: "active"
 ---
 

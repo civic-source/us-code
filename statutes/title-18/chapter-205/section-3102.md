@@ -3,9 +3,9 @@ title: "Section 3102 - Authority to issue search warrant—(Rule)"
 usc_title: 18
 usc_section: "3102"
 chapter: 205
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 3102"
-generated_at: "2026-11-23T20:36:14.264Z"
+generated_at: "2026-11-23T20:38:53.347Z"
 status: "active"
 ---
 

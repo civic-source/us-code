@@ -3,9 +3,9 @@ title: "Section 2357 - Renumbered § 4067]"
 usc_title: 10
 usc_section: "2357"
 chapter: 139
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2357"
-generated_at: "2026-11-23T20:36:02.519Z"
+generated_at: "2026-11-23T20:38:39.537Z"
 status: "renumbered"
 ---
 

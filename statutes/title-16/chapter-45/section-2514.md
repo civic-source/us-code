@@ -3,9 +3,9 @@ title: "Section 2514 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2514"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 2514"
-generated_at: "2026-11-23T20:36:21.319Z"
+generated_at: "2026-11-23T20:39:01.807Z"
 status: "repealed"
 ---
 

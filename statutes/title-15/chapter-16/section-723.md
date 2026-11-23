@@ -3,9 +3,9 @@ title: "Section 723 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 15
 usc_section: "723"
 chapter: 16
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 723"
-generated_at: "2026-11-23T20:36:10.666Z"
+generated_at: "2026-11-23T20:38:49.896Z"
 status: "repealed"
 ---
 

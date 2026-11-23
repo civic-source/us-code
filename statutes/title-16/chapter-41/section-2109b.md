@@ -3,9 +3,9 @@ title: "Section 2109b - Repealed. Pub. L. 115–334, title VIII, § 8102(b)(1) ,
 usc_title: 16
 usc_section: "2109b"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 2109b"
-generated_at: "2026-11-23T20:36:21.309Z"
+generated_at: "2026-11-23T20:39:01.795Z"
 status: "repealed"
 ---
 

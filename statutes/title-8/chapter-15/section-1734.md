@@ -3,9 +3,9 @@ title: "Section 1734 - Improved training for consular officers"
 usc_title: 8
 usc_section: "1734"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "8 U.S.C. § 1734"
-generated_at: "2026-11-23T20:35:53.097Z"
+generated_at: "2026-11-23T20:38:27.921Z"
 status: "active"
 ---
 

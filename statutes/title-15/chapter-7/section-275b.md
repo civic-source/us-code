@@ -3,9 +3,9 @@ title: "Section 275b - Charges for activities performed for other agencies"
 usc_title: 15
 usc_section: "275b"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 275b"
-generated_at: "2026-11-23T20:36:10.467Z"
+generated_at: "2026-11-23T20:38:49.664Z"
 status: "active"
 ---
 

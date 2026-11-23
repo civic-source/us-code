@@ -3,9 +3,9 @@ title: "Section 8542 - Permit flexibility"
 usc_title: 16
 usc_section: "8542"
 chapter: 103
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 8542"
-generated_at: "2026-11-23T20:36:21.503Z"
+generated_at: "2026-11-23T20:39:02.062Z"
 status: "active"
 ---
 

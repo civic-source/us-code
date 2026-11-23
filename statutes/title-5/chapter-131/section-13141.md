@@ -3,9 +3,9 @@ title: "Section 13141 - Definitions"
 usc_title: 5
 usc_section: "13141"
 chapter: 131
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 13141"
-generated_at: "2026-11-23T20:35:51.268Z"
+generated_at: "2026-11-23T20:38:25.004Z"
 status: "active"
 ---
 

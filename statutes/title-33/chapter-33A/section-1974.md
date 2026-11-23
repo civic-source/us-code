@@ -3,9 +3,9 @@ title: "Section 1974 - Judges"
 usc_title: 33
 usc_section: "1974"
 chapter: 33
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 1974"
-generated_at: "2026-11-23T20:36:48.507Z"
+generated_at: "2026-11-23T20:39:29.257Z"
 status: "active"
 ---
 

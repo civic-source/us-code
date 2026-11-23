@@ -3,9 +3,9 @@ title: "Section 1711 - Citation of chapter"
 usc_title: 19
 usc_section: "1711"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "19 U.S.C. § 1711"
-generated_at: "2026-11-23T20:36:16.110Z"
+generated_at: "2026-11-23T20:38:54.751Z"
 status: "active"
 ---
 

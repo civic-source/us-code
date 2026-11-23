@@ -3,9 +3,9 @@ title: "Section 7523 - Actions to restrain violations"
 usc_title: 42
 usc_section: "7523"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7523"
-generated_at: "2026-11-23T20:37:14.046Z"
+generated_at: "2026-11-23T20:39:53.311Z"
 status: "active"
 ---
 

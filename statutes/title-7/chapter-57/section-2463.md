@@ -3,9 +3,9 @@ title: "Section 2463 - Repealed. Pub. L. 103–349, § 8(c)(2) , Oct. 6, 1994 , 
 usc_title: 7
 usc_section: "2463"
 chapter: 57
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2463"
-generated_at: "2026-11-23T20:35:56.241Z"
+generated_at: "2026-11-23T20:38:31.527Z"
 status: "repealed"
 ---
 

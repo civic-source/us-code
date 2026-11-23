@@ -3,9 +3,9 @@ title: "Section 1469 - Omitted"
 usc_title: 7
 usc_section: "1469"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1469"
-generated_at: "2026-11-23T20:35:56.023Z"
+generated_at: "2026-11-23T20:38:31.218Z"
 status: "omitted"
 ---
 

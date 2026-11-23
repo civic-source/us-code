@@ -3,9 +3,9 @@ title: "Section 3011 - Definitions incorporated from title 41"
 usc_title: 10
 usc_section: "3011"
 chapter: 201
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3011"
-generated_at: "2026-11-23T20:36:02.641Z"
+generated_at: "2026-11-23T20:38:39.705Z"
 status: "active"
 ---
 

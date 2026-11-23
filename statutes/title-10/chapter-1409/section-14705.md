@@ -3,9 +3,9 @@ title: "Section 14705 - Selective early retirement: reserve general and flag off
 usc_title: 10
 usc_section: "14705"
 chapter: 1409
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 14705"
-generated_at: "2026-11-23T20:36:03.228Z"
+generated_at: "2026-11-23T20:38:40.381Z"
 status: "active"
 ---
 

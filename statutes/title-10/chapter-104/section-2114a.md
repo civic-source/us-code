@@ -3,9 +3,9 @@ title: "Section 2114a - Eligibility of members of foreign militaries to enroll i
 usc_title: 10
 usc_section: "2114a"
 chapter: 104
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2114a"
-generated_at: "2026-11-23T20:36:02.467Z"
+generated_at: "2026-11-23T20:38:39.467Z"
 status: "active"
 ---
 

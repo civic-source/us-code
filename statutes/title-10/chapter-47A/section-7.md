@@ -3,9 +3,9 @@ title: "Section 7 - Introduction of classified information into evidence"
 usc_title: 10
 usc_section: "7"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 7"
-generated_at: "2026-11-23T20:36:02.267Z"
+generated_at: "2026-11-23T20:38:39.186Z"
 status: "active"
 ---
 

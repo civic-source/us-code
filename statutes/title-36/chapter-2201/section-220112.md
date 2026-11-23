@@ -3,9 +3,9 @@ title: "Section 220112 - Service of process"
 usc_title: 36
 usc_section: "220112"
 chapter: 2201
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 220112"
-generated_at: "2026-11-23T20:36:51.689Z"
+generated_at: "2026-11-23T20:39:32.663Z"
 status: "active"
 ---
 

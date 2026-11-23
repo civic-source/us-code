@@ -3,9 +3,9 @@ title: "Section 276 - Provision of payphone service"
 usc_title: 47
 usc_section: "276"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "47 U.S.C. § 276"
-generated_at: "2026-11-23T20:37:19.668Z"
+generated_at: "2026-11-23T20:39:55.989Z"
 status: "active"
 ---
 

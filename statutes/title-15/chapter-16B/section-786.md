@@ -3,9 +3,9 @@ title: "Section 786 - Repealed. Pub. L. 95–91, title VII, § 709(a)(1) , Aug. 
 usc_title: 15
 usc_section: "786"
 chapter: 16
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 786"
-generated_at: "2026-11-23T20:36:10.671Z"
+generated_at: "2026-11-23T20:38:49.902Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2423 - Counterintelligence programs"
 usc_title: 50
 usc_section: "2423"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2423"
-generated_at: "2026-11-23T20:37:21.451Z"
+generated_at: "2026-11-23T20:40:00.005Z"
 status: "active"
 ---
 

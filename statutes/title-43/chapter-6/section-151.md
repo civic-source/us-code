@@ -3,9 +3,9 @@ title: "Section 151 - Opening of lands restored to entry after withdrawals"
 usc_title: 43
 usc_section: "151"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 151"
-generated_at: "2026-11-23T20:36:57.571Z"
+generated_at: "2026-11-23T20:39:39.303Z"
 status: "active"
 ---
 

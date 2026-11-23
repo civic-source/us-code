@@ -3,9 +3,9 @@ title: "Section 6045 - Returns of brokers"
 usc_title: 26
 usc_section: "6045"
 chapter: 61
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 6045"
-generated_at: "2026-11-23T20:36:43.790Z"
+generated_at: "2026-11-23T20:39:23.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6734 - Administration; rules; authorization of appropriations"
 usc_title: 42
 usc_section: "6734"
 chapter: 80
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 6734"
-generated_at: "2026-11-23T20:37:13.886Z"
+generated_at: "2026-11-23T20:39:53.133Z"
 status: "active"
 ---
 

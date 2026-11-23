@@ -3,9 +3,9 @@ title: "Section 4955 - Support services"
 usc_title: 42
 usc_section: "4955"
 chapter: 66
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 4955"
-generated_at: "2026-11-23T20:37:13.684Z"
+generated_at: "2026-11-23T20:39:52.905Z"
 status: "active"
 ---
 

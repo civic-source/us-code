@@ -3,9 +3,9 @@ title: "Section 3751 - Termination of program"
 usc_title: 38
 usc_section: "3751"
 chapter: 37
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 3751"
-generated_at: "2026-11-23T20:36:54.278Z"
+generated_at: "2026-11-23T20:39:35.181Z"
 status: "active"
 ---
 

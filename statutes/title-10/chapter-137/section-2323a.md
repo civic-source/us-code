@@ -3,9 +3,9 @@ title: "Section 2323a - Renumbered § 3902]"
 usc_title: 10
 usc_section: "2323a"
 chapter: 137
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-11-23T20:36:02.511Z"
+generated_at: "2026-11-23T20:38:39.527Z"
 status: "renumbered"
 ---
 

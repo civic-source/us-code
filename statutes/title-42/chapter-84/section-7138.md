@@ -3,9 +3,9 @@ title: "Section 7138 - Repealed. Pub. L. 100–504, title I, § 102(e)(1)(A) , O
 usc_title: 42
 usc_section: "7138"
 chapter: 84
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7138"
-generated_at: "2026-11-23T20:37:13.951Z"
+generated_at: "2026-11-23T20:39:53.200Z"
 status: "repealed"
 ---
 

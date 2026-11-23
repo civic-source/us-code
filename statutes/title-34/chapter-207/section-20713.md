@@ -3,9 +3,9 @@ title: "Section 20713 - Encouraging a victim-centered approach to training of Fe
 usc_title: 34
 usc_section: "20713"
 chapter: 207
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 20713"
-generated_at: "2026-11-23T20:36:47.323Z"
+generated_at: "2026-11-23T20:39:27.793Z"
 status: "active"
 ---
 

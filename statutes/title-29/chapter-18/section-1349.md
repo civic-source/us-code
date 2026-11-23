@@ -3,9 +3,9 @@ title: "Section 1349 - Repealed. Pub. L. 100–203, title IX, § 9312(a) , Dec. 
 usc_title: 29
 usc_section: "1349"
 chapter: 18
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 1349"
-generated_at: "2026-11-23T20:36:36.036Z"
+generated_at: "2026-11-23T20:39:14.694Z"
 status: "repealed"
 ---
 

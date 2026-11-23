@@ -3,9 +3,9 @@ title: "Section 4o - Transferred"
 usc_title: 30
 usc_section: "4o"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 4o"
-generated_at: "2026-11-23T20:36:33.114Z"
+generated_at: "2026-11-23T20:39:12.927Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 502 - Creation of advisory committees"
 usc_title: 22
 usc_section: "502"
 chapter: 10
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 502"
-generated_at: "2026-11-23T20:36:30.444Z"
+generated_at: "2026-11-23T20:39:10.468Z"
 status: "active"
 ---
 

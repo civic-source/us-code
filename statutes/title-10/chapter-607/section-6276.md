@@ -3,9 +3,9 @@ title: "Section 6276 - Fund transfer authority"
 usc_title: 10
 usc_section: "6276"
 chapter: 607
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 6276"
-generated_at: "2026-11-23T20:36:02.821Z"
+generated_at: "2026-11-23T20:38:39.907Z"
 status: "active"
 ---
 

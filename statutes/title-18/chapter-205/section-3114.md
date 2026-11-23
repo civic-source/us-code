@@ -3,9 +3,9 @@ title: "Section 3114 - Return of seized property and suppression of evidence; mo
 usc_title: 18
 usc_section: "3114"
 chapter: 205
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 3114"
-generated_at: "2026-11-23T20:36:14.265Z"
+generated_at: "2026-11-23T20:38:53.349Z"
 status: "active"
 ---
 

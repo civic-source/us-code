@@ -3,9 +3,9 @@ title: "Section 5392 - Facilitation"
 usc_title: 25
 usc_section: "5392"
 chapter: 46
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 5392"
-generated_at: "2026-11-23T20:36:25.080Z"
+generated_at: "2026-11-23T20:39:05.832Z"
 status: "active"
 ---
 

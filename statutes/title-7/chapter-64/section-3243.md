@@ -3,9 +3,9 @@ title: "Section 3243 - Hispanic-serving agricultural colleges and universities"
 usc_title: 7
 usc_section: "3243"
 chapter: 64
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 3243"
-generated_at: "2026-11-23T20:35:56.277Z"
+generated_at: "2026-11-23T20:38:31.592Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1561a - Civilian orders of protection: force and effect on milit
 usc_title: 10
 usc_section: "1561a"
 chapter: 80
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1561a"
-generated_at: "2026-11-23T20:36:02.413Z"
+generated_at: "2026-11-23T20:38:39.400Z"
 status: "active"
 ---
 

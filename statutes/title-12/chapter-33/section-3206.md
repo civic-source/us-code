@@ -3,9 +3,9 @@ title: "Section 3206 - Administration and enforcement"
 usc_title: 12
 usc_section: "3206"
 chapter: 33
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 3206"
-generated_at: "2026-11-23T20:36:07.800Z"
+generated_at: "2026-11-23T20:38:46.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 0b - Interdepartmental Serious Mental Illness Coordinating Commi
 usc_title: 42
 usc_section: "0b"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-11-23T20:37:11.630Z"
+generated_at: "2026-11-23T20:39:51.146Z"
 status: "active"
 ---
 

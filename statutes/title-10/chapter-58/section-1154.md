@@ -3,9 +3,9 @@ title: "Section 1154 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1154"
 chapter: 58
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1154"
-generated_at: "2026-11-23T20:36:02.351Z"
+generated_at: "2026-11-23T20:38:39.304Z"
 status: "active"
 ---
 

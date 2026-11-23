@@ -3,9 +3,9 @@ title: "Section 3223 - Director: review of cost estimates, cost analyses, and re
 usc_title: 10
 usc_section: "3223"
 chapter: 222
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3223"
-generated_at: "2026-11-23T20:36:02.651Z"
+generated_at: "2026-11-23T20:38:39.717Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 38 - “United States” defined"
 usc_title: 47
 usc_section: "38"
 chapter: 2
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "47 U.S.C. § 38"
-generated_at: "2026-11-23T20:37:19.620Z"
+generated_at: "2026-11-23T20:39:55.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 36A - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(5
 usc_title: 26
 usc_section: "36A"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 36A"
-generated_at: "2026-11-23T20:36:42.809Z"
+generated_at: "2026-11-23T20:39:22.545Z"
 status: "repealed"
 ---
 

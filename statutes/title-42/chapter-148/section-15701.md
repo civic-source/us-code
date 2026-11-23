@@ -3,9 +3,9 @@ title: "Section 15701 - Findings"
 usc_title: 42
 usc_section: "15701"
 chapter: 148
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15701"
-generated_at: "2026-11-23T20:37:14.558Z"
+generated_at: "2026-11-23T20:39:53.856Z"
 status: "active"
 ---
 

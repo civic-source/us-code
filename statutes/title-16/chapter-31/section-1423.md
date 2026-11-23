@@ -3,9 +3,9 @@ title: "Section 1423 - Definitions"
 usc_title: 16
 usc_section: "1423"
 chapter: 31
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1423"
-generated_at: "2026-11-23T20:36:21.232Z"
+generated_at: "2026-11-23T20:39:01.711Z"
 status: "active"
 ---
 

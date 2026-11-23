@@ -3,9 +3,9 @@ title: "Section 76g - Authorization of appropriations"
 usc_title: 20
 usc_section: "76g"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 76g"
-generated_at: "2026-11-23T20:36:17.785Z"
+generated_at: "2026-11-23T20:38:56.834Z"
 status: "active"
 ---
 

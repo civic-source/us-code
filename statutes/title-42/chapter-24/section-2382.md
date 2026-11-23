@@ -3,9 +3,9 @@ title: "Section 2382 - Transfer of municipal installations"
 usc_title: 42
 usc_section: "2382"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 2382"
-generated_at: "2026-11-23T20:37:13.411Z"
+generated_at: "2026-11-23T20:39:52.650Z"
 status: "active"
 ---
 

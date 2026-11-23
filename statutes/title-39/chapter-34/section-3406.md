@@ -3,9 +3,9 @@ title: "Section 3406 - Balloting materials under the Uniformed and Overseas Citi
 usc_title: 39
 usc_section: "3406"
 chapter: 34
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "39 U.S.C. § 3406"
-generated_at: "2026-11-23T20:36:50.138Z"
+generated_at: "2026-11-23T20:39:31.546Z"
 status: "active"
 ---
 

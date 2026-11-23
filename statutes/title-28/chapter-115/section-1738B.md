@@ -3,9 +3,9 @@ title: "Section 1738B - Full faith and credit for child support orders"
 usc_title: 28
 usc_section: "1738B"
 chapter: 115
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1738B"
-generated_at: "2026-11-23T20:36:34.403Z"
+generated_at: "2026-11-23T20:39:16.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5695 - Authorization of appropriations"
 usc_title: 7
 usc_section: "5695"
 chapter: 87
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 5695"
-generated_at: "2026-11-23T20:35:56.318Z"
+generated_at: "2026-11-23T20:38:31.673Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - “Maritime transactions” and “commerce” defined; exce
 usc_title: 9
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "9 U.S.C. § 1"
-generated_at: "2026-11-23T20:35:52.389Z"
+generated_at: "2026-11-23T20:38:26.232Z"
 status: "active"
 ---
 

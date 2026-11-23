@@ -3,9 +3,9 @@ title: "Section 1641d - Claims of nationals of the United States against the Sov
 usc_title: 22
 usc_section: "1641d"
 chapter: 21
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1641d"
-generated_at: "2026-11-23T20:36:30.479Z"
+generated_at: "2026-11-23T20:39:10.507Z"
 status: "active"
 ---
 

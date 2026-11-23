@@ -3,9 +3,9 @@ title: "Section 179 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat 641"
 usc_title: 50
 usc_section: "179"
 chapter: 11
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 179"
-generated_at: "2026-11-23T20:37:21.354Z"
+generated_at: "2026-11-23T20:39:59.904Z"
 status: "repealed"
 ---
 

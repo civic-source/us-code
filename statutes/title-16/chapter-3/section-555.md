@@ -3,9 +3,9 @@ title: "Section 555 - Forest headquarters, ranger stations, dwellings, or other 
 usc_title: 16
 usc_section: "555"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 555"
-generated_at: "2026-11-23T20:36:20.996Z"
+generated_at: "2026-11-23T20:39:01.400Z"
 status: "active"
 ---
 

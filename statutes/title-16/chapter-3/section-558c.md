@@ -3,9 +3,9 @@ title: "Section 558c - Authorization"
 usc_title: 16
 usc_section: "558c"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 558c"
-generated_at: "2026-11-23T20:36:20.998Z"
+generated_at: "2026-11-23T20:39:01.403Z"
 status: "active"
 ---
 

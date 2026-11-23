@@ -3,9 +3,9 @@ title: "Section 1293a - Contained spoil disposal facilities"
 usc_title: 33
 usc_section: "1293a"
 chapter: 26
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 1293a"
-generated_at: "2026-11-23T20:36:48.422Z"
+generated_at: "2026-11-23T20:39:29.196Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6k - Registration of associates of futures commission merchants,
 usc_title: 7
 usc_section: "6k"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 6k"
-generated_at: "2026-11-23T20:35:55.825Z"
+generated_at: "2026-11-23T20:38:30.941Z"
 status: "active"
 ---
 

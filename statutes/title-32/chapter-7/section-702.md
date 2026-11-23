@@ -3,9 +3,9 @@ title: "Section 702 - Issue of supplies"
 usc_title: 32
 usc_section: "702"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "32 U.S.C. § 702"
-generated_at: "2026-11-23T20:36:45.370Z"
+generated_at: "2026-11-23T20:39:25.794Z"
 status: "active"
 ---
 

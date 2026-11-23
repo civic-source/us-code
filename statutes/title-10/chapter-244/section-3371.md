@@ -3,9 +3,9 @@ title: "Section 3371 - Undefinitized contractual actions: required description o
 usc_title: 10
 usc_section: "3371"
 chapter: 244
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3371"
-generated_at: "2026-11-23T20:36:02.661Z"
+generated_at: "2026-11-23T20:38:39.724Z"
 status: "active"
 ---
 

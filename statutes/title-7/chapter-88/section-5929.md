@@ -3,9 +3,9 @@ title: "Section 5929 - Repealed. Pub. L. 113–79, title VII, § 7215 , Feb. 7, 
 usc_title: 7
 usc_section: "5929"
 chapter: 88
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 5929"
-generated_at: "2026-11-23T20:35:56.329Z"
+generated_at: "2026-11-23T20:38:31.694Z"
 status: "repealed"
 ---
 

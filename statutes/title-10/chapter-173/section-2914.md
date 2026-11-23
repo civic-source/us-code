@@ -3,9 +3,9 @@ title: "Section 2914 - Military construction projects for energy resilience, ene
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-11-23T20:36:02.634Z"
+generated_at: "2026-11-23T20:38:39.696Z"
 status: "active"
 ---
 

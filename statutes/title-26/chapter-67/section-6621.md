@@ -3,9 +3,9 @@ title: "Section 6621 - Determination of rate of interest"
 usc_title: 26
 usc_section: "6621"
 chapter: 67
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 6621"
-generated_at: "2026-11-23T20:36:43.934Z"
+generated_at: "2026-11-23T20:39:23.913Z"
 status: "active"
 ---
 

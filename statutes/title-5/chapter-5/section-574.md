@@ -3,9 +3,9 @@ title: "Section 574 - Confidentiality"
 usc_title: 5
 usc_section: "574"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 574"
-generated_at: "2026-11-23T20:35:50.783Z"
+generated_at: "2026-11-23T20:38:24.448Z"
 status: "active"
 ---
 

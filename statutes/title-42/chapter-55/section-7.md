@@ -3,9 +3,9 @@ title: "Section 7 - Reports"
 usc_title: 42
 usc_section: "7"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-11-23T20:37:13.644Z"
+generated_at: "2026-11-23T20:39:52.870Z"
 status: "active"
 ---
 

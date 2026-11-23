@@ -3,9 +3,9 @@ title: "Section 16987 - Transferred"
 usc_title: 42
 usc_section: "16987"
 chapter: 151
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16987"
-generated_at: "2026-11-23T20:37:14.691Z"
+generated_at: "2026-11-23T20:39:53.925Z"
 status: "transferred"
 ---
 

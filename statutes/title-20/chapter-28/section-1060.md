@@ -3,9 +3,9 @@ title: "Section 1060 - Findings and purposes"
 usc_title: 20
 usc_section: "1060"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1060"
-generated_at: "2026-11-23T20:36:17.852Z"
+generated_at: "2026-11-23T20:38:56.929Z"
 status: "active"
 ---
 

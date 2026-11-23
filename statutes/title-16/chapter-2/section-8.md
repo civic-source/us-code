@@ -3,9 +3,9 @@ title: "Section 8 - Extinguishment of claims"
 usc_title: 16
 usc_section: "8"
 chapter: 2
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-11-23T20:36:20.979Z"
+generated_at: "2026-11-23T20:39:01.367Z"
 status: "active"
 ---
 

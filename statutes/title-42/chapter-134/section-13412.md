@@ -3,9 +3,9 @@ title: "Section 13412 - Oil shale"
 usc_title: 42
 usc_section: "13412"
 chapter: 134
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 13412"
-generated_at: "2026-11-23T20:37:14.493Z"
+generated_at: "2026-11-23T20:39:53.815Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8452 - Broadband internet connectivity at developed recreation s
 usc_title: 16
 usc_section: "8452"
 chapter: 103
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 8452"
-generated_at: "2026-11-23T20:36:21.495Z"
+generated_at: "2026-11-23T20:39:02.053Z"
 status: "active"
 ---
 

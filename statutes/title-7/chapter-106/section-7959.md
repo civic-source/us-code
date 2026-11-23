@@ -3,9 +3,9 @@ title: "Section 7959 - Termination of marketing quota programs for peanuts and c
 usc_title: 7
 usc_section: "7959"
 chapter: 106
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 7959"
-generated_at: "2026-11-23T20:35:56.422Z"
+generated_at: "2026-11-23T20:38:31.874Z"
 status: "active"
 ---
 

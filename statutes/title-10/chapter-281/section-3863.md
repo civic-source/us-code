@@ -3,9 +3,9 @@ title: "Section 3863 - Retention of amounts collected from contractor during the
 usc_title: 10
 usc_section: "3863"
 chapter: 281
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3863"
-generated_at: "2026-11-23T20:36:02.684Z"
+generated_at: "2026-11-23T20:38:39.755Z"
 status: "active"
 ---
 

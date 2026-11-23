@@ -3,9 +3,9 @@ title: "Section 15305 - Transferred"
 usc_title: 42
 usc_section: "15305"
 chapter: 146
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15305"
-generated_at: "2026-11-23T20:37:14.554Z"
+generated_at: "2026-11-23T20:39:53.854Z"
 status: "transferred"
 ---
 

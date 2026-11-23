@@ -3,9 +3,9 @@ title: "Section 2715 - Publication"
 usc_title: 28
 usc_section: "2715"
 chapter: 173
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 2715"
-generated_at: "2026-11-23T20:36:34.462Z"
+generated_at: "2026-11-23T20:39:16.112Z"
 status: "active"
 ---
 

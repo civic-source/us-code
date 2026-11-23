@@ -3,9 +3,9 @@ title: "Section 1584 - Civil actions under the United States-Canada Free-Trade A
 usc_title: 28
 usc_section: "1584"
 chapter: 95
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1584"
-generated_at: "2026-11-23T20:36:34.393Z"
+generated_at: "2026-11-23T20:39:16.038Z"
 status: "active"
 ---
 

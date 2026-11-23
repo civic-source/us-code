@@ -3,9 +3,9 @@ title: "Section 1134a - Medal of honor: Army, Navy, Air Force, and Coast Guard M
 usc_title: 10
 usc_section: "1134a"
 chapter: 57
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1134a"
-generated_at: "2026-11-23T20:36:02.345Z"
+generated_at: "2026-11-23T20:38:39.292Z"
 status: "active"
 ---
 

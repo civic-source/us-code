@@ -3,9 +3,9 @@ title: "Section 2326i - Beneficial use of dredged material"
 usc_title: 33
 usc_section: "2326i"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 2326i"
-generated_at: "2026-11-23T20:36:48.573Z"
+generated_at: "2026-11-23T20:39:29.298Z"
 status: "active"
 ---
 

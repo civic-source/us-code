@@ -3,9 +3,9 @@ title: "Section 148f - Repealed. Pub. L. 106–224, title IV, § 438(a)(9) , Jun
 usc_title: 7
 usc_section: "148f"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 148f"
-generated_at: "2026-11-23T20:35:55.896Z"
+generated_at: "2026-11-23T20:38:31.057Z"
 status: "repealed"
 ---
 

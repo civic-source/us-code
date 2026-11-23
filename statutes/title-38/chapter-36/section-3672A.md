@@ -3,9 +3,9 @@ title: "Section 3672A - Uniform application"
 usc_title: 38
 usc_section: "3672A"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 3672A"
-generated_at: "2026-11-23T20:36:54.240Z"
+generated_at: "2026-11-23T20:39:35.139Z"
 status: "active"
 ---
 

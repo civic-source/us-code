@@ -3,9 +3,9 @@ title: "Section 390nn - Trusts"
 usc_title: 43
 usc_section: "390nn"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 390nn"
-generated_at: "2026-11-23T20:36:57.615Z"
+generated_at: "2026-11-23T20:39:39.348Z"
 status: "active"
 ---
 

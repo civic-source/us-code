@@ -3,9 +3,9 @@ title: "Section 9443 - Cadets: appointment; to bring to full strength"
 usc_title: 10
 usc_section: "9443"
 chapter: 953
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 9443"
-generated_at: "2026-11-23T20:36:03.109Z"
+generated_at: "2026-11-23T20:38:40.248Z"
 status: "active"
 ---
 

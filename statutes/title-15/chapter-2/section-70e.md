@@ -3,9 +3,9 @@ title: "Section 70e - Enforcement"
 usc_title: 15
 usc_section: "70e"
 chapter: 2
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 70e"
-generated_at: "2026-11-23T20:36:10.318Z"
+generated_at: "2026-11-23T20:38:49.444Z"
 status: "active"
 ---
 

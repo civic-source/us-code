@@ -3,9 +3,9 @@ title: "Section 50116 - Commercial technology transfer program"
 usc_title: 51
 usc_section: "50116"
 chapter: 501
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "51 U.S.C. § 50116"
-generated_at: "2026-11-23T20:37:27.725Z"
+generated_at: "2026-11-23T20:40:05.492Z"
 status: "active"
 ---
 

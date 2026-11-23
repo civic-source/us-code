@@ -3,9 +3,9 @@ title: "Section 1921 - Establishment of medals for bravery; rules and regulation
 usc_title: 42
 usc_section: "1921"
 chapter: 18
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1921"
-generated_at: "2026-11-23T20:37:13.251Z"
+generated_at: "2026-11-23T20:39:52.493Z"
 status: "active"
 ---
 

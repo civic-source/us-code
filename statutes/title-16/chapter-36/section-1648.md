@@ -3,9 +3,9 @@ title: "Section 1648 - Repealed. Pub. L. 115–334, title VIII, § 8201 , Dec. 2
 usc_title: 16
 usc_section: "1648"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1648"
-generated_at: "2026-11-23T20:36:21.263Z"
+generated_at: "2026-11-23T20:39:01.746Z"
 status: "repealed"
 ---
 

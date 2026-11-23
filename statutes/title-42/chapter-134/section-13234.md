@@ -3,9 +3,9 @@ title: "Section 13234 - Federal Energy Regulatory Commission authority to approv
 usc_title: 42
 usc_section: "13234"
 chapter: 134
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 13234"
-generated_at: "2026-11-23T20:37:14.472Z"
+generated_at: "2026-11-23T20:39:53.798Z"
 status: "active"
 ---
 

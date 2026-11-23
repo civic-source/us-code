@@ -3,9 +3,9 @@ title: "Section 1762 - Review of institutions and other entities authorized to e
 usc_title: 8
 usc_section: "1762"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "8 U.S.C. § 1762"
-generated_at: "2026-11-23T20:35:53.099Z"
+generated_at: "2026-11-23T20:38:27.924Z"
 status: "active"
 ---
 

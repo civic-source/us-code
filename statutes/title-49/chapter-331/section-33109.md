@@ -3,9 +3,9 @@ title: "Section 33109 - National Stolen Passenger Motor Vehicle Information Syst
 usc_title: 49
 usc_section: "33109"
 chapter: 331
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 33109"
-generated_at: "2026-11-23T20:37:25.326Z"
+generated_at: "2026-11-23T20:40:03.504Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1471d - Availability of appropriations for transportation, repri
 usc_title: 43
 usc_section: "1471d"
 chapter: 31
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 1471d"
-generated_at: "2026-11-23T20:36:57.759Z"
+generated_at: "2026-11-23T20:39:39.464Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 499o - Rules, regulations, and orders; appointment, removal, and
 usc_title: 7
 usc_section: "499o"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 499o"
-generated_at: "2026-11-23T20:35:55.931Z"
+generated_at: "2026-11-23T20:38:31.102Z"
 status: "active"
 ---
 

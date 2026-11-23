@@ -3,9 +3,9 @@ title: "Section 8464 - Outdoor Recreation Legacy Partnership Program"
 usc_title: 16
 usc_section: "8464"
 chapter: 103
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 8464"
-generated_at: "2026-11-23T20:36:21.498Z"
+generated_at: "2026-11-23T20:39:02.056Z"
 status: "active"
 ---
 

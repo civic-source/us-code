@@ -3,9 +3,9 @@ title: "Section 1300e - Omitted"
 usc_title: 25
 usc_section: "1300e"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 1300e"
-generated_at: "2026-11-23T20:36:24.798Z"
+generated_at: "2026-11-23T20:39:05.541Z"
 status: "omitted"
 ---
 

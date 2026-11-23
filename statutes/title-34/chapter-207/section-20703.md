@@ -3,9 +3,9 @@ title: "Section 20703 - Victim-centered child human trafficking deterrence block
 usc_title: 34
 usc_section: "20703"
 chapter: 207
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 20703"
-generated_at: "2026-11-23T20:36:47.317Z"
+generated_at: "2026-11-23T20:39:27.788Z"
 status: "active"
 ---
 

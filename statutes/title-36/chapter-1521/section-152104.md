@@ -3,9 +3,9 @@ title: "Section 152104 - Membership"
 usc_title: 36
 usc_section: "152104"
 chapter: 1521
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 152104"
-generated_at: "2026-11-23T20:36:51.638Z"
+generated_at: "2026-11-23T20:39:32.598Z"
 status: "active"
 ---
 

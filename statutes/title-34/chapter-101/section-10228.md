@@ -3,9 +3,9 @@ title: "Section 10228 - Prohibition of Federal control over State and local crim
 usc_title: 34
 usc_section: "10228"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 10228"
-generated_at: "2026-11-23T20:36:47.163Z"
+generated_at: "2026-11-23T20:39:27.612Z"
 status: "active"
 ---
 

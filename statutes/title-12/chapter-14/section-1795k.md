@@ -3,9 +3,9 @@ title: "Section 1795k - State and local tax exemption"
 usc_title: 12
 usc_section: "1795k"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 1795k"
-generated_at: "2026-11-23T20:36:07.684Z"
+generated_at: "2026-11-23T20:38:45.893Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6112 - Portfolio management framework for National Nuclear Secur
 usc_title: 10
 usc_section: "6112"
 chapter: 602
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 6112"
-generated_at: "2026-11-23T20:36:02.791Z"
+generated_at: "2026-11-23T20:38:39.875Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47101 - Policies"
 usc_title: 49
 usc_section: "47101"
 chapter: 471
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 47101"
-generated_at: "2026-11-23T20:37:25.607Z"
+generated_at: "2026-11-23T20:40:03.742Z"
 status: "active"
 ---
 

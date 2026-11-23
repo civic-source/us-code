@@ -3,9 +3,9 @@ title: "Section 15801 - Definitions"
 usc_title: 42
 usc_section: "15801"
 chapter: 149
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15801"
-generated_at: "2026-11-23T20:37:14.560Z"
+generated_at: "2026-11-23T20:39:53.858Z"
 status: "active"
 ---
 

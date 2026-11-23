@@ -3,9 +3,9 @@ title: "Section 330 - Laws applicable on becoming members; discounts for State b
 usc_title: 12
 usc_section: "330"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 330"
-generated_at: "2026-11-23T20:36:07.503Z"
+generated_at: "2026-11-23T20:38:45.612Z"
 status: "active"
 ---
 

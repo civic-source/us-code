@@ -3,9 +3,9 @@ title: "Section 9013 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(
 usc_title: 26
 usc_section: "9013"
 chapter: 95
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 9013"
-generated_at: "2026-11-23T20:36:44.036Z"
+generated_at: "2026-11-23T20:39:24.031Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 673 - Adoption and guardianship assistance program"
 usc_title: 42
 usc_section: "673"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 673"
-generated_at: "2026-11-23T20:37:12.228Z"
+generated_at: "2026-11-23T20:39:51.636Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1095a - Medical care: members held as captives and their depende
 usc_title: 10
 usc_section: "1095a"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1095a"
-generated_at: "2026-11-23T20:36:02.335Z"
+generated_at: "2026-11-23T20:38:39.276Z"
 status: "active"
 ---
 

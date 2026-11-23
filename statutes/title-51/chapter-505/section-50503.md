@@ -3,9 +3,9 @@ title: "Section 50503 - Anchor tenancy and termination liability"
 usc_title: 51
 usc_section: "50503"
 chapter: 505
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "51 U.S.C. § 50503"
-generated_at: "2026-11-23T20:37:27.729Z"
+generated_at: "2026-11-23T20:40:05.494Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6224 - Department of Energy counterintelligence polygraph progra
 usc_title: 10
 usc_section: "6224"
 chapter: 605
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 6224"
-generated_at: "2026-11-23T20:36:02.814Z"
+generated_at: "2026-11-23T20:38:39.899Z"
 status: "active"
 ---
 

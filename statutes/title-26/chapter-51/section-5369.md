@@ -3,9 +3,9 @@ title: "Section 5369 - Inventories"
 usc_title: 26
 usc_section: "5369"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 5369"
-generated_at: "2026-11-23T20:36:43.731Z"
+generated_at: "2026-11-23T20:39:23.706Z"
 status: "active"
 ---
 

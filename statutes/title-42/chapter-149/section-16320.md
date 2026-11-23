@@ -3,9 +3,9 @@ title: "Section 16320 - Spallation Neutron Source"
 usc_title: 42
 usc_section: "16320"
 chapter: 149
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16320"
-generated_at: "2026-11-23T20:37:14.651Z"
+generated_at: "2026-11-23T20:39:53.904Z"
 status: "active"
 ---
 

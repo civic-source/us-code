@@ -3,9 +3,9 @@ title: "Section 11111 - Establishment"
 usc_title: 34
 usc_section: "11111"
 chapter: 111
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 11111"
-generated_at: "2026-11-23T20:36:47.208Z"
+generated_at: "2026-11-23T20:39:27.675Z"
 status: "active"
 ---
 

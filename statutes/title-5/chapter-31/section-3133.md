@@ -3,9 +3,9 @@ title: "Section 3133 - Authorization of positions; authority for appointment"
 usc_title: 5
 usc_section: "3133"
 chapter: 31
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 3133"
-generated_at: "2026-11-23T20:35:50.824Z"
+generated_at: "2026-11-23T20:38:24.521Z"
 status: "active"
 ---
 

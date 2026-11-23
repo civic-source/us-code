@@ -3,9 +3,9 @@ title: "Section 1318 - Benefits for survivors of certain veterans rated totally 
 usc_title: 38
 usc_section: "1318"
 chapter: 13
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 1318"
-generated_at: "2026-11-23T20:36:54.096Z"
+generated_at: "2026-11-23T20:39:34.977Z"
 status: "active"
 ---
 

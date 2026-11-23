@@ -3,9 +3,9 @@ title: "Section 714k - Records; annual report"
 usc_title: 15
 usc_section: "714k"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 714k"
-generated_at: "2026-11-23T20:36:10.647Z"
+generated_at: "2026-11-23T20:38:49.871Z"
 status: "active"
 ---
 

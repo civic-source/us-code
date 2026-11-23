@@ -3,9 +3,9 @@ title: "Section 9906 - Improving awareness of United States Government tools and
 usc_title: 22
 usc_section: "9906"
 chapter: 106
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 9906"
-generated_at: "2026-11-23T20:36:31.188Z"
+generated_at: "2026-11-23T20:39:11.136Z"
 status: "active"
 ---
 

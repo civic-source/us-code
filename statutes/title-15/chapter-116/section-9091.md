@@ -3,9 +3,9 @@ title: "Section 9091 - Definitions"
 usc_title: 15
 usc_section: "9091"
 chapter: 116
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9091"
-generated_at: "2026-11-23T20:36:11.021Z"
+generated_at: "2026-11-23T20:38:50.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4506 - Regulations"
 usc_title: 5
 usc_section: "4506"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 4506"
-generated_at: "2026-11-23T20:35:50.866Z"
+generated_at: "2026-11-23T20:38:24.589Z"
 status: "active"
 ---
 

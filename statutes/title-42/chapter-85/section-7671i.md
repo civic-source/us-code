@@ -3,9 +3,9 @@ title: "Section 7671i - Nonessential products containing chlorofluorocarbons"
 usc_title: 42
 usc_section: "7671i"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7671i"
-generated_at: "2026-11-23T20:37:14.098Z"
+generated_at: "2026-11-23T20:39:53.374Z"
 status: "active"
 ---
 

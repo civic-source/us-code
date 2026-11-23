@@ -3,9 +3,9 @@ title: "Section 2325 - Definition"
 usc_title: 18
 usc_section: "2325"
 chapter: 113
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 2325"
-generated_at: "2026-11-23T20:36:14.235Z"
+generated_at: "2026-11-23T20:38:53.300Z"
 status: "active"
 ---
 

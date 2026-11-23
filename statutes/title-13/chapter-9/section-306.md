@@ -3,9 +3,9 @@ title: "Section 306 - Delegation of functions"
 usc_title: 13
 usc_section: "306"
 chapter: 9
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "13 U.S.C. § 306"
-generated_at: "2026-11-23T20:36:04.572Z"
+generated_at: "2026-11-23T20:38:41.813Z"
 status: "active"
 ---
 

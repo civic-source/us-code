@@ -3,9 +3,9 @@ title: "Section 313 - Availability of appropriations"
 usc_title: 38
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 313"
-generated_at: "2026-11-23T20:36:54.056Z"
+generated_at: "2026-11-23T20:39:34.929Z"
 status: "active"
 ---
 

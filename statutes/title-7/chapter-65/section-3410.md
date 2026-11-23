@@ -3,9 +3,9 @@ title: "Section 3410 - Enforcement of orders and regulations"
 usc_title: 7
 usc_section: "3410"
 chapter: 65
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 3410"
-generated_at: "2026-11-23T20:35:56.288Z"
+generated_at: "2026-11-23T20:38:31.614Z"
 status: "active"
 ---
 

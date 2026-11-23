@@ -3,9 +3,9 @@ title: "Section 50107 - Studies on marine insurance"
 usc_title: 46
 usc_section: "50107"
 chapter: 501
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 50107"
-generated_at: "2026-11-23T20:37:18.704Z"
+generated_at: "2026-11-23T20:39:58.509Z"
 status: "active"
 ---
 

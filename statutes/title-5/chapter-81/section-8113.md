@@ -3,9 +3,9 @@ title: "Section 8113 - Increase or decrease of basic compensation"
 usc_title: 5
 usc_section: "8113"
 chapter: 81
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 8113"
-generated_at: "2026-11-23T20:35:51.054Z"
+generated_at: "2026-11-23T20:38:24.811Z"
 status: "active"
 ---
 

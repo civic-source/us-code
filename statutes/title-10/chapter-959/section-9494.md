@@ -3,9 +3,9 @@ title: "Section 9494 - Activities performed as auxiliary of the Air Force"
 usc_title: 10
 usc_section: "9494"
 chapter: 959
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 9494"
-generated_at: "2026-11-23T20:36:03.118Z"
+generated_at: "2026-11-23T20:38:40.259Z"
 status: "active"
 ---
 

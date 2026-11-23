@@ -3,9 +3,9 @@ title: "Section 2308 - Tax exemption for gifts"
 usc_title: 44
 usc_section: "2308"
 chapter: 23
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "44 U.S.C. § 2308"
-generated_at: "2026-11-23T20:36:56.469Z"
+generated_at: "2026-11-23T20:39:38.168Z"
 status: "active"
 ---
 

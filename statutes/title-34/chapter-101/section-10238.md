@@ -3,9 +3,9 @@ title: "Section 10238 - Accountability and oversight"
 usc_title: 34
 usc_section: "10238"
 chapter: 101
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 10238"
-generated_at: "2026-11-23T20:36:47.169Z"
+generated_at: "2026-11-23T20:39:27.614Z"
 status: "active"
 ---
 

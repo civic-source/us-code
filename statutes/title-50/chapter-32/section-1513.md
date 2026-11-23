@@ -3,9 +3,9 @@ title: "Section 1513 - Deployment, storage, and disposal; notification to host c
 usc_title: 50
 usc_section: "1513"
 chapter: 32
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 1513"
-generated_at: "2026-11-23T20:37:21.373Z"
+generated_at: "2026-11-23T20:39:59.918Z"
 status: "active"
 ---
 

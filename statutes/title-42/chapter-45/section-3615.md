@@ -3,9 +3,9 @@ title: "Section 3615 - Effect on State laws"
 usc_title: 42
 usc_section: "3615"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3615"
-generated_at: "2026-11-23T20:37:13.565Z"
+generated_at: "2026-11-23T20:39:52.801Z"
 status: "active"
 ---
 

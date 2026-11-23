@@ -3,9 +3,9 @@ title: "Section 7920 - Enforcement"
 usc_title: 42
 usc_section: "7920"
 chapter: 88
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7920"
-generated_at: "2026-11-23T20:37:14.112Z"
+generated_at: "2026-11-23T20:39:53.391Z"
 status: "active"
 ---
 

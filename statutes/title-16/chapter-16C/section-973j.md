@@ -3,9 +3,9 @@ title: "Section 973j - Disclosure of information"
 usc_title: 16
 usc_section: "973j"
 chapter: 16
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 973j"
-generated_at: "2026-11-23T20:36:21.147Z"
+generated_at: "2026-11-23T20:39:01.608Z"
 status: "active"
 ---
 

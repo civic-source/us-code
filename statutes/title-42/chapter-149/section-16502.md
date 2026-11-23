@@ -3,9 +3,9 @@ title: "Section 16502 - Advanced Biofuel Technologies Program"
 usc_title: 42
 usc_section: "16502"
 chapter: 149
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16502"
-generated_at: "2026-11-23T20:37:14.672Z"
+generated_at: "2026-11-23T20:39:53.914Z"
 status: "active"
 ---
 

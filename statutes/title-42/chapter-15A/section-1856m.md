@@ -3,9 +3,9 @@ title: "Section 1856m - Definitions"
 usc_title: 42
 usc_section: "1856m"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1856m"
-generated_at: "2026-11-23T20:37:13.217Z"
+generated_at: "2026-11-23T20:39:52.455Z"
 status: "active"
 ---
 

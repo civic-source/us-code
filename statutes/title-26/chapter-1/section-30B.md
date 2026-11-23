@@ -3,9 +3,9 @@ title: "Section 30B - Alternative motor vehicle credit"
 usc_title: 26
 usc_section: "30B"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 30B"
-generated_at: "2026-11-23T20:36:42.791Z"
+generated_at: "2026-11-23T20:39:22.526Z"
 status: "active"
 ---
 

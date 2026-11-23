@@ -3,9 +3,9 @@ title: "Section 1918 - Protective provisions"
 usc_title: 19
 usc_section: "1918"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "19 U.S.C. § 1918"
-generated_at: "2026-11-23T20:36:16.115Z"
+generated_at: "2026-11-23T20:38:54.753Z"
 status: "active"
 ---
 

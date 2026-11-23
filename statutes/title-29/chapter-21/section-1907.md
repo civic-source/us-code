@@ -3,9 +3,9 @@ title: "Section 1907 - Helen Keller National Center Federal Endowment Fund"
 usc_title: 29
 usc_section: "1907"
 chapter: 21
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 1907"
-generated_at: "2026-11-23T20:36:36.058Z"
+generated_at: "2026-11-23T20:39:14.717Z"
 status: "active"
 ---
 

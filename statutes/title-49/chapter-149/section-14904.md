@@ -3,9 +3,9 @@ title: "Section 14904 - Additional rate violations"
 usc_title: 49
 usc_section: "14904"
 chapter: 149
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 14904"
-generated_at: "2026-11-23T20:37:25.069Z"
+generated_at: "2026-11-23T20:40:03.246Z"
 status: "active"
 ---
 

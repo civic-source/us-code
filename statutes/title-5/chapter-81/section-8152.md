@@ -3,9 +3,9 @@ title: "Section 8152 - Annual report"
 usc_title: 5
 usc_section: "8152"
 chapter: 81
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 8152"
-generated_at: "2026-11-23T20:35:51.070Z"
+generated_at: "2026-11-23T20:38:24.828Z"
 status: "active"
 ---
 

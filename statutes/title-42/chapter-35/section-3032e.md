@@ -3,9 +3,9 @@ title: "Section 3032e - Technical assistance and innovation to improve transport
 usc_title: 42
 usc_section: "3032e"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3032e"
-generated_at: "2026-11-23T20:37:13.486Z"
+generated_at: "2026-11-23T20:39:52.725Z"
 status: "active"
 ---
 

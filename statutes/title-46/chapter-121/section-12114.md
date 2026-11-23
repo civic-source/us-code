@@ -3,9 +3,9 @@ title: "Section 12114 - Recreational endorsement"
 usc_title: 46
 usc_section: "12114"
 chapter: 121
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 12114"
-generated_at: "2026-11-23T20:37:18.608Z"
+generated_at: "2026-11-23T20:39:58.427Z"
 status: "active"
 ---
 

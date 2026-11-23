@@ -3,9 +3,9 @@ title: "Section 2357a - Definitions"
 usc_title: 50
 usc_section: "2357a"
 chapter: 40
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2357a"
-generated_at: "2026-11-23T20:37:21.444Z"
+generated_at: "2026-11-23T20:39:59.998Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5473 - Report on environmental problems in Poland and Hungary"
 usc_title: 22
 usc_section: "5473"
 chapter: 63
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 5473"
-generated_at: "2026-11-23T20:36:30.930Z"
+generated_at: "2026-11-23T20:39:10.893Z"
 status: "active"
 ---
 

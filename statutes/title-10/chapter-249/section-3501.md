@@ -3,9 +3,9 @@ title: "Section 3501 - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-11-23T20:36:02.666Z"
+generated_at: "2026-11-23T20:38:39.734Z"
 status: "active"
 ---
 

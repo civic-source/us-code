@@ -3,9 +3,9 @@ title: "Section 1103 - Executive responsibilities; utilization of staff, interag
 usc_title: 33
 usc_section: "1103"
 chapter: 22
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 1103"
-generated_at: "2026-11-23T20:36:48.388Z"
+generated_at: "2026-11-23T20:39:29.163Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1314 - Omitted"
 usc_title: 48
 usc_section: "1314"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "48 U.S.C. § 1314"
-generated_at: "2026-11-23T20:37:16.831Z"
+generated_at: "2026-11-23T20:39:56.648Z"
 status: "omitted"
 ---
 

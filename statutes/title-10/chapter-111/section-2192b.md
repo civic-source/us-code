@@ -3,9 +3,9 @@ title: "Section 2192b - Program on enhancement of preparation of dependents of m
 usc_title: 10
 usc_section: "2192b"
 chapter: 111
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2192b"
-generated_at: "2026-11-23T20:36:02.478Z"
+generated_at: "2026-11-23T20:38:39.481Z"
 status: "active"
 ---
 

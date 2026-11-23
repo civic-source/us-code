@@ -3,9 +3,9 @@ title: "Section 3385 - Benjamin Tallmadge Institute as primary Central Intellige
 usc_title: 50
 usc_section: "3385"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 3385"
-generated_at: "2026-11-23T20:37:21.558Z"
+generated_at: "2026-11-23T20:40:00.113Z"
 status: "active"
 ---
 

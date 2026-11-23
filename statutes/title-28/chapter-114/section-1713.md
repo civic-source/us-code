@@ -3,9 +3,9 @@ title: "Section 1713 - Protection against loss by class members"
 usc_title: 28
 usc_section: "1713"
 chapter: 114
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1713"
-generated_at: "2026-11-23T20:36:34.401Z"
+generated_at: "2026-11-23T20:39:16.047Z"
 status: "active"
 ---
 

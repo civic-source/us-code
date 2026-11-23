@@ -3,9 +3,9 @@ title: "Section 7 - Military park, Indian or other reservation"
 usc_title: 43
 usc_section: "7"
 chapter: 22
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-11-23T20:36:57.714Z"
+generated_at: "2026-11-23T20:39:39.427Z"
 status: "active"
 ---
 

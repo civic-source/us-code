@@ -3,9 +3,9 @@ title: "Section 163 - Communications marketplace report"
 usc_title: 47
 usc_section: "163"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "47 U.S.C. § 163"
-generated_at: "2026-11-23T20:37:19.637Z"
+generated_at: "2026-11-23T20:39:55.954Z"
 status: "active"
 ---
 

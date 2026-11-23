@@ -3,9 +3,9 @@ title: "Section 2341a - Prioritization"
 usc_title: 33
 usc_section: "2341a"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 2341a"
-generated_at: "2026-11-23T20:36:48.582Z"
+generated_at: "2026-11-23T20:39:29.303Z"
 status: "active"
 ---
 

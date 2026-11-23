@@ -3,9 +3,9 @@ title: "Section 323 - Preliminary response to petition"
 usc_title: 35
 usc_section: "323"
 chapter: 32
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "35 U.S.C. § 323"
-generated_at: "2026-11-23T20:36:45.681Z"
+generated_at: "2026-11-23T20:39:25.682Z"
 status: "active"
 ---
 

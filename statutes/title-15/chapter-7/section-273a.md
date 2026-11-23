@@ -3,9 +3,9 @@ title: "Section 273a - Under Secretary of Commerce for Standards and Technology"
 usc_title: 15
 usc_section: "273a"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 273a"
-generated_at: "2026-11-23T20:36:10.466Z"
+generated_at: "2026-11-23T20:38:49.663Z"
 status: "active"
 ---
 

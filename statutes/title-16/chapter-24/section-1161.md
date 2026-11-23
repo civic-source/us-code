@@ -3,9 +3,9 @@ title: "Section 1161 - Administration of fur seal rookeries and other Federal re
 usc_title: 16
 usc_section: "1161"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1161"
-generated_at: "2026-11-23T20:36:21.181Z"
+generated_at: "2026-11-23T20:39:01.650Z"
 status: "active"
 ---
 

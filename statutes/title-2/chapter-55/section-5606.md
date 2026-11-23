@@ -3,9 +3,9 @@ title: "Section 5606 - Arrangements for attendance at funeral of deceased House 
 usc_title: 2
 usc_section: "5606"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 5606"
-generated_at: "2026-11-23T20:35:49.623Z"
+generated_at: "2026-11-23T20:38:21.734Z"
 status: "active"
 ---
 

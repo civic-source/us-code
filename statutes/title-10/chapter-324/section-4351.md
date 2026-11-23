@@ -3,9 +3,9 @@ title: "Section 4351 - Selected Acquisition Reports"
 usc_title: 10
 usc_section: "4351"
 chapter: 324
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 4351"
-generated_at: "2026-11-23T20:36:02.724Z"
+generated_at: "2026-11-23T20:38:39.801Z"
 status: "active"
 ---
 

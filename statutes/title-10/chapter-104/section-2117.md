@@ -3,9 +3,9 @@ title: "Section 2117 - Repealed. Pub. L. 111–84, div. A, title V, § 525(a)(1)
 usc_title: 10
 usc_section: "2117"
 chapter: 104
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2117"
-generated_at: "2026-11-23T20:36:02.467Z"
+generated_at: "2026-11-23T20:38:39.468Z"
 status: "repealed"
 ---
 

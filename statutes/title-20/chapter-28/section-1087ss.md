@@ -3,9 +3,9 @@ title: "Section 1087ss - Eligible applicants exempt from asset reporting"
 usc_title: 20
 usc_section: "1087ss"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1087ss"
-generated_at: "2026-11-23T20:36:17.925Z"
+generated_at: "2026-11-23T20:38:57.073Z"
 status: "active"
 ---
 

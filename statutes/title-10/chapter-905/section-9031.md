@@ -3,9 +3,9 @@ title: "Section 9031 - The Air Staff: function; composition"
 usc_title: 10
 usc_section: "9031"
 chapter: 905
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 9031"
-generated_at: "2026-11-23T20:36:03.067Z"
+generated_at: "2026-11-23T20:38:40.198Z"
 status: "active"
 ---
 

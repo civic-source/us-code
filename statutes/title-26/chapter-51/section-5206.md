@@ -3,9 +3,9 @@ title: "Section 5206 - Containers"
 usc_title: 26
 usc_section: "5206"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 5206"
-generated_at: "2026-11-23T20:36:43.719Z"
+generated_at: "2026-11-23T20:39:23.693Z"
 status: "active"
 ---
 

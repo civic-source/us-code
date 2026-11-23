@@ -3,9 +3,9 @@ title: "Section 477 - Utilization of services of Library of Congress"
 usc_title: 2
 usc_section: "477"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 477"
-generated_at: "2026-11-23T20:35:49.516Z"
+generated_at: "2026-11-23T20:38:21.523Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6314 - Receipt for taxes"
 usc_title: 26
 usc_section: "6314"
 chapter: 64
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 6314"
-generated_at: "2026-11-23T20:36:43.868Z"
+generated_at: "2026-11-23T20:39:23.851Z"
 status: "active"
 ---
 

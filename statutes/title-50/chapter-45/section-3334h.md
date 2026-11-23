@@ -3,9 +3,9 @@ title: "Section 3334h - Data collection on attrition in intelligence community"
 usc_title: 50
 usc_section: "3334h"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 3334h"
-generated_at: "2026-11-23T20:37:21.534Z"
+generated_at: "2026-11-23T20:40:00.089Z"
 status: "active"
 ---
 

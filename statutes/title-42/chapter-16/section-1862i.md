@@ -3,9 +3,9 @@ title: "Section 1862i - STEM education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-11-23T20:37:13.222Z"
+generated_at: "2026-11-23T20:39:52.461Z"
 status: "active"
 ---
 

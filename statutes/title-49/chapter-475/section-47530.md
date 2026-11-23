@@ -3,9 +3,9 @@ title: "Section 47530 - Nonapplication of sections 47528(a)–(d) and 47529 to a
 usc_title: 49
 usc_section: "47530"
 chapter: 475
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 47530"
-generated_at: "2026-11-23T20:37:25.683Z"
+generated_at: "2026-11-23T20:40:03.793Z"
 status: "active"
 ---
 

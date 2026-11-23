@@ -3,9 +3,9 @@ title: "Section 1160 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1160"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1160"
-generated_at: "2026-11-23T20:36:30.454Z"
+generated_at: "2026-11-23T20:39:10.481Z"
 status: "repealed"
 ---
 

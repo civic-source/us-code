@@ -3,9 +3,9 @@ title: "Section 492a - Biennial report on the plan for the nuclear weapons stock
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-11-23T20:36:02.160Z"
+generated_at: "2026-11-23T20:38:39.036Z"
 status: "active"
 ---
 

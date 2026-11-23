@@ -3,9 +3,9 @@ title: "Section 1370 - Regular commissioned officers"
 usc_title: 10
 usc_section: "1370"
 chapter: 69
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1370"
-generated_at: "2026-11-23T20:36:02.366Z"
+generated_at: "2026-11-23T20:38:39.327Z"
 status: "active"
 ---
 

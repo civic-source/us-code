@@ -3,9 +3,9 @@ title: "Section 1692e - False or misleading representations"
 usc_title: 15
 usc_section: "1692e"
 chapter: 41
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 1692e"
-generated_at: "2026-11-23T20:36:10.795Z"
+generated_at: "2026-11-23T20:38:50.057Z"
 status: "active"
 ---
 

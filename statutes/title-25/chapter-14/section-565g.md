@@ -3,9 +3,9 @@ title: "Section 565g - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 S
 usc_title: 25
 usc_section: "565g"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 565g"
-generated_at: "2026-11-23T20:36:24.770Z"
+generated_at: "2026-11-23T20:39:05.503Z"
 status: "repealed"
 ---
 

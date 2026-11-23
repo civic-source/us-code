@@ -3,9 +3,9 @@ title: "Section 3282 - Reports by departments and agencies"
 usc_title: 22
 usc_section: "3282"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 3282"
-generated_at: "2026-11-23T20:36:30.771Z"
+generated_at: "2026-11-23T20:39:10.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5328 - Rules and regulations"
 usc_title: 25
 usc_section: "5328"
 chapter: 46
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 5328"
-generated_at: "2026-11-23T20:36:25.062Z"
+generated_at: "2026-11-23T20:39:05.812Z"
 status: "active"
 ---
 

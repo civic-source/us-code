@@ -3,9 +3,9 @@ title: "Section 7509 - Expenditures incurred by the United States Postal Service
 usc_title: 26
 usc_section: "7509"
 chapter: 77
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 7509"
-generated_at: "2026-11-23T20:36:43.999Z"
+generated_at: "2026-11-23T20:39:23.974Z"
 status: "active"
 ---
 

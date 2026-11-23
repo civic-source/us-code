@@ -3,9 +3,9 @@ title: "Section 3150 - Changed project circumstances"
 usc_title: 42
 usc_section: "3150"
 chapter: 38
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3150"
-generated_at: "2026-11-23T20:37:13.523Z"
+generated_at: "2026-11-23T20:39:52.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2252 - Rewards: missing property"
 usc_title: 10
 usc_section: "2252"
 chapter: 134
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2252"
-generated_at: "2026-11-23T20:36:02.503Z"
+generated_at: "2026-11-23T20:38:39.513Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12574 - Types of program assistance"
 usc_title: 42
 usc_section: "12574"
 chapter: 129
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 12574"
-generated_at: "2026-11-23T20:37:14.404Z"
+generated_at: "2026-11-23T20:39:53.733Z"
 status: "active"
 ---
 

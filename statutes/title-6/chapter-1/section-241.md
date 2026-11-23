@@ -3,9 +3,9 @@ title: "Section 241 - Prevention of international child abduction"
 usc_title: 6
 usc_section: "241"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "6 U.S.C. § 241"
-generated_at: "2026-11-23T20:35:53.580Z"
+generated_at: "2026-11-23T20:38:26.776Z"
 status: "active"
 ---
 

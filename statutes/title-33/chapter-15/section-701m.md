@@ -3,9 +3,9 @@ title: "Section 701m - Insufficient Congressional authorization; preparations fo
 usc_title: 33
 usc_section: "701m"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 701m"
-generated_at: "2026-11-23T20:36:48.350Z"
+generated_at: "2026-11-23T20:39:29.134Z"
 status: "active"
 ---
 

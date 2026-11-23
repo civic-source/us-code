@@ -3,9 +3,9 @@ title: "Section 1102 - Establishment of plan"
 usc_title: 29
 usc_section: "1102"
 chapter: 18
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 1102"
-generated_at: "2026-11-23T20:36:35.971Z"
+generated_at: "2026-11-23T20:39:14.645Z"
 status: "active"
 ---
 

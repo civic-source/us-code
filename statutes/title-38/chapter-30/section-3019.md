@@ -3,9 +3,9 @@ title: "Section 3019 - Tutorial assistance"
 usc_title: 38
 usc_section: "3019"
 chapter: 30
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 3019"
-generated_at: "2026-11-23T20:36:54.189Z"
+generated_at: "2026-11-23T20:39:35.095Z"
 status: "active"
 ---
 

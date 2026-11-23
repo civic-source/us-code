@@ -3,9 +3,9 @@ title: "Section 5554 - Pilot operations"
 usc_title: 26
 usc_section: "5554"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 5554"
-generated_at: "2026-11-23T20:36:43.742Z"
+generated_at: "2026-11-23T20:39:23.715Z"
 status: "active"
 ---
 

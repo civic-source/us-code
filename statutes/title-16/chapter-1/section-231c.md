@@ -3,9 +3,9 @@ title: "Section 231c - Administration, protection, and development"
 usc_title: 16
 usc_section: "231c"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 231c"
-generated_at: "2026-11-23T20:36:20.692Z"
+generated_at: "2026-11-23T20:39:00.988Z"
 status: "active"
 ---
 

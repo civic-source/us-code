@@ -3,9 +3,9 @@ title: "Section 1074 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "1074"
 chapter: 25
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 1074"
-generated_at: "2026-11-23T20:37:21.369Z"
+generated_at: "2026-11-23T20:39:59.916Z"
 status: "repealed"
 ---
 

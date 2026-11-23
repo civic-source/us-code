@@ -3,9 +3,9 @@ title: "Section 408 - Agency accountability"
 usc_title: 23
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "23 U.S.C. § 408"
-generated_at: "2026-11-23T20:36:23.806Z"
+generated_at: "2026-11-23T20:39:04.326Z"
 status: "active"
 ---
 

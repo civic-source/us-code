@@ -3,9 +3,9 @@ title: "Section 254j - National Advisory Council on National Health Service Corp
 usc_title: 42
 usc_section: "254j"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 254j"
-generated_at: "2026-11-23T20:37:11.438Z"
+generated_at: "2026-11-23T20:39:51.010Z"
 status: "active"
 ---
 

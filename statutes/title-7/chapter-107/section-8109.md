@@ -3,9 +3,9 @@ title: "Section 8109 - Repealed. Pub. L. 115–334, title IX, § 9008 , Dec. 20,
 usc_title: 7
 usc_section: "8109"
 chapter: 107
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 8109"
-generated_at: "2026-11-23T20:35:56.435Z"
+generated_at: "2026-11-23T20:38:31.893Z"
 status: "repealed"
 ---
 

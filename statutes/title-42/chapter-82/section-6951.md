@@ -3,9 +3,9 @@ title: "Section 6951 - Functions"
 usc_title: 42
 usc_section: "6951"
 chapter: 82
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 6951"
-generated_at: "2026-11-23T20:37:13.927Z"
+generated_at: "2026-11-23T20:39:53.176Z"
 status: "active"
 ---
 

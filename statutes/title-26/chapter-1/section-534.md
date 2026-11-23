@@ -3,9 +3,9 @@ title: "Section 534 - Burden of proof"
 usc_title: 26
 usc_section: "534"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "26 U.S.C. § 534"
-generated_at: "2026-11-23T20:36:43.207Z"
+generated_at: "2026-11-23T20:39:23.112Z"
 status: "active"
 ---
 

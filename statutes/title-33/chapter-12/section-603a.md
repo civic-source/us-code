@@ -3,9 +3,9 @@ title: "Section 603a - Removal of snags and debris, and straightening, clearing,
 usc_title: 33
 usc_section: "603a"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 603a"
-generated_at: "2026-11-23T20:36:48.336Z"
+generated_at: "2026-11-23T20:39:29.121Z"
 status: "active"
 ---
 

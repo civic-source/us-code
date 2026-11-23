@@ -3,9 +3,9 @@ title: "Section 1712 - Record requirements"
 usc_title: 41
 usc_section: "1712"
 chapter: 17
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "41 U.S.C. § 1712"
-generated_at: "2026-11-23T20:36:56.034Z"
+generated_at: "2026-11-23T20:39:36.854Z"
 status: "active"
 ---
 

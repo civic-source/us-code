@@ -3,9 +3,9 @@ title: "Section 1401 - Nationals and citizens of United States at birth"
 usc_title: 8
 usc_section: "1401"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "8 U.S.C. § 1401"
-generated_at: "2026-11-23T20:35:53.061Z"
+generated_at: "2026-11-23T20:38:27.864Z"
 status: "active"
 ---
 

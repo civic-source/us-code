@@ -3,9 +3,9 @@ title: "Section 60606 - Space weather knowledge transfer and information exchang
 usc_title: 51
 usc_section: "60606"
 chapter: 606
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "51 U.S.C. § 60606"
-generated_at: "2026-11-23T20:37:27.763Z"
+generated_at: "2026-11-23T20:40:05.516Z"
 status: "active"
 ---
 

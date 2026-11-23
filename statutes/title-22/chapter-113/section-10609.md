@@ -3,9 +3,9 @@ title: "Section 10609 - Authorization of appropriations"
 usc_title: 22
 usc_section: "10609"
 chapter: 113
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 10609"
-generated_at: "2026-11-23T20:36:31.206Z"
+generated_at: "2026-11-23T20:39:11.158Z"
 status: "active"
 ---
 

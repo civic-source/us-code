@@ -3,9 +3,9 @@ title: "Section 411 - Bill of rights; constitution and bylaws of labor organizat
 usc_title: 29
 usc_section: "411"
 chapter: 11
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 411"
-generated_at: "2026-11-23T20:36:35.850Z"
+generated_at: "2026-11-23T20:39:14.534Z"
 status: "active"
 ---
 

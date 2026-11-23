@@ -3,9 +3,9 @@ title: "Section 8684 - Overhaul of naval vessels: competition between public and
 usc_title: 10
 usc_section: "8684"
 chapter: 863
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 8684"
-generated_at: "2026-11-23T20:36:03.017Z"
+generated_at: "2026-11-23T20:38:40.138Z"
 status: "active"
 ---
 

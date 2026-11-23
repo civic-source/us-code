@@ -3,9 +3,9 @@ title: "Section 28 - Coverage of dependent students on medically necessary leave
 usc_title: 42
 usc_section: "28"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-11-23T20:37:11.987Z"
+generated_at: "2026-11-23T20:39:51.379Z"
 status: "active"
 ---
 

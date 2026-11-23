@@ -3,9 +3,9 @@ title: "Section 2604 - Suspension, revocation, and injunctions"
 usc_title: 33
 usc_section: "2604"
 chapter: 39
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 2604"
-generated_at: "2026-11-23T20:36:48.596Z"
+generated_at: "2026-11-23T20:39:29.310Z"
 status: "active"
 ---
 

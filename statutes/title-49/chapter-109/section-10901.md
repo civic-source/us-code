@@ -3,9 +3,9 @@ title: "Section 10901 - Authorizing construction and operation of railroad lines
 usc_title: 49
 usc_section: "10901"
 chapter: 109
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 10901"
-generated_at: "2026-11-23T20:37:25.023Z"
+generated_at: "2026-11-23T20:40:03.202Z"
 status: "active"
 ---
 

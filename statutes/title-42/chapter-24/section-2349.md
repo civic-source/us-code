@@ -3,9 +3,9 @@ title: "Section 2349 - Hanford project; disposal of property"
 usc_title: 42
 usc_section: "2349"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 2349"
-generated_at: "2026-11-23T20:37:13.409Z"
+generated_at: "2026-11-23T20:39:52.648Z"
 status: "active"
 ---
 

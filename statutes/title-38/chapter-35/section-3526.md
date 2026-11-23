@@ -3,9 +3,9 @@ title: "Section 3526 - Vacant]"
 usc_title: 38
 usc_section: "3526"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 3526"
-generated_at: "2026-11-23T20:36:54.235Z"
+generated_at: "2026-11-23T20:39:35.133Z"
 status: "active"
 ---
 

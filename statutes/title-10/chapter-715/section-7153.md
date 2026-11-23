@@ -3,9 +3,9 @@ title: "Section 7153 - Commissioned officers: appointment without specification 
 usc_title: 10
 usc_section: "7153"
 chapter: 715
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 7153"
-generated_at: "2026-11-23T20:36:02.851Z"
+generated_at: "2026-11-23T20:38:39.939Z"
 status: "active"
 ---
 

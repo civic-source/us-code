@@ -3,9 +3,9 @@ title: "Section 1736 - Definitions"
 usc_title: 12
 usc_section: "1736"
 chapter: 13
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 1736"
-generated_at: "2026-11-23T20:36:07.650Z"
+generated_at: "2026-11-23T20:38:45.829Z"
 status: "active"
 ---
 

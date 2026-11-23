@@ -3,9 +3,9 @@ title: "Section 36b - Mental health and substance use disorder services for stud
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-11-23T20:37:11.654Z"
+generated_at: "2026-11-23T20:39:51.163Z"
 status: "active"
 ---
 

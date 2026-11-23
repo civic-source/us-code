@@ -3,9 +3,9 @@ title: "Section 182b - Revolving fund for sales shop and other services"
 usc_title: 2
 usc_section: "182b"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 182b"
-generated_at: "2026-11-23T20:35:49.500Z"
+generated_at: "2026-11-23T20:38:21.498Z"
 status: "active"
 ---
 

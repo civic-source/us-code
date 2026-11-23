@@ -3,9 +3,9 @@ title: "Section 1558 - Review of actions of selection boards: correction of mili
 usc_title: 10
 usc_section: "1558"
 chapter: 79
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1558"
-generated_at: "2026-11-23T20:36:02.411Z"
+generated_at: "2026-11-23T20:38:39.395Z"
 status: "active"
 ---
 

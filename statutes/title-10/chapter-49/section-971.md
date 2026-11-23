@@ -3,9 +3,9 @@ title: "Section 971 - Service credit: officers may not count service performed w
 usc_title: 10
 usc_section: "971"
 chapter: 49
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 971"
-generated_at: "2026-11-23T20:36:02.276Z"
+generated_at: "2026-11-23T20:38:39.189Z"
 status: "active"
 ---
 

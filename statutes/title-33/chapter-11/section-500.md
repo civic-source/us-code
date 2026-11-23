@@ -3,9 +3,9 @@ title: "Section 500 - Deflection of current; liability to riparian owners"
 usc_title: 33
 usc_section: "500"
 chapter: 11
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 500"
-generated_at: "2026-11-23T20:36:48.315Z"
+generated_at: "2026-11-23T20:39:29.104Z"
 status: "active"
 ---
 

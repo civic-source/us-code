@@ -3,9 +3,9 @@ title: "Section 4374 - Unit cost reports: determinations by service acquisition 
 usc_title: 10
 usc_section: "4374"
 chapter: 325
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 4374"
-generated_at: "2026-11-23T20:36:02.727Z"
+generated_at: "2026-11-23T20:38:39.804Z"
 status: "active"
 ---
 

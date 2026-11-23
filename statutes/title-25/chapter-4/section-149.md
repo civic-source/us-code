@@ -3,9 +3,9 @@ title: "Section 149 - Indian Water Rights Settlement Completion Fund"
 usc_title: 25
 usc_section: "149"
 chapter: 4
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 149"
-generated_at: "2026-11-23T20:36:24.731Z"
+generated_at: "2026-11-23T20:39:05.448Z"
 status: "active"
 ---
 

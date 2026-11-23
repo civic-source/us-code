@@ -3,9 +3,9 @@ title: "Section 638b - Reducing vulnerability of SBIR and STTR programs to fraud
 usc_title: 15
 usc_section: "638b"
 chapter: 14
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 638b"
-generated_at: "2026-11-23T20:36:10.579Z"
+generated_at: "2026-11-23T20:38:49.781Z"
 status: "active"
 ---
 

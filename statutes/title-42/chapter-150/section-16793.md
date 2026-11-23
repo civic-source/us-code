@@ -3,9 +3,9 @@ title: "Section 16793 - Omitted"
 usc_title: 42
 usc_section: "16793"
 chapter: 150
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16793"
-generated_at: "2026-11-23T20:37:14.688Z"
+generated_at: "2026-11-23T20:39:53.924Z"
 status: "omitted"
 ---
 

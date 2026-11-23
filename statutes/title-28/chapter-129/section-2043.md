@@ -3,9 +3,9 @@ title: "Section 2043 - Deposit of other moneys"
 usc_title: 28
 usc_section: "2043"
 chapter: 129
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 2043"
-generated_at: "2026-11-23T20:36:34.421Z"
+generated_at: "2026-11-23T20:39:16.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21006 - Requirement for public notice and comment"
 usc_title: 52
 usc_section: "21006"
 chapter: 209
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "52 U.S.C. § 21006"
-generated_at: "2026-11-23T20:37:27.274Z"
+generated_at: "2026-11-23T20:40:05.234Z"
 status: "active"
 ---
 

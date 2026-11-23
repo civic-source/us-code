@@ -3,9 +3,9 @@ title: "Section 1135b - Criteria for applications"
 usc_title: 20
 usc_section: "1135b"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 1135b"
-generated_at: "2026-11-23T20:36:17.964Z"
+generated_at: "2026-11-23T20:38:57.142Z"
 status: "active"
 ---
 

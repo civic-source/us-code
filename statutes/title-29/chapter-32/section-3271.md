@@ -3,9 +3,9 @@ title: "Section 3271 - Purpose"
 usc_title: 29
 usc_section: "3271"
 chapter: 32
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 3271"
-generated_at: "2026-11-23T20:36:36.129Z"
+generated_at: "2026-11-23T20:39:14.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5605 - Rulemaking"
 usc_title: 16
 usc_section: "5605"
 chapter: 76
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 5605"
-generated_at: "2026-11-23T20:36:21.422Z"
+generated_at: "2026-11-23T20:39:01.947Z"
 status: "active"
 ---
 

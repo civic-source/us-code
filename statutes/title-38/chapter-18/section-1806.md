@@ -3,9 +3,9 @@ title: "Section 1806 - Repealed. Pub. L. 106–419, title IV, § 401(c)(3) , Nov
 usc_title: 38
 usc_section: "1806"
 chapter: 18
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 1806"
-generated_at: "2026-11-23T20:36:54.145Z"
+generated_at: "2026-11-23T20:39:35.043Z"
 status: "repealed"
 ---
 

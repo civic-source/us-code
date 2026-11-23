@@ -3,9 +3,9 @@ title: "Section 2625 - Amendment procedure"
 usc_title: 7
 usc_section: "2625"
 chapter: 58
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2625"
-generated_at: "2026-11-23T20:35:56.245Z"
+generated_at: "2026-11-23T20:38:31.535Z"
 status: "active"
 ---
 

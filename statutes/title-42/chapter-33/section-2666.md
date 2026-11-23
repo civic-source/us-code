@@ -3,9 +3,9 @@ title: "Section 2666 - Omitted"
 usc_title: 42
 usc_section: "2666"
 chapter: 33
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 2666"
-generated_at: "2026-11-23T20:37:13.420Z"
+generated_at: "2026-11-23T20:39:52.659Z"
 status: "omitted"
 ---
 

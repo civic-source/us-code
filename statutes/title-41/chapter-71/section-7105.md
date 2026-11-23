@@ -3,9 +3,9 @@ title: "Section 7105 - Agency boards"
 usc_title: 41
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "41 U.S.C. § 7105"
-generated_at: "2026-11-23T20:36:56.098Z"
+generated_at: "2026-11-23T20:39:36.939Z"
 status: "active"
 ---
 

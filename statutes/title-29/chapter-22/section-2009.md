@@ -3,9 +3,9 @@ title: "Section 2009 - Effect on other law and agreements"
 usc_title: 29
 usc_section: "2009"
 chapter: 22
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 2009"
-generated_at: "2026-11-23T20:36:36.060Z"
+generated_at: "2026-11-23T20:39:14.719Z"
 status: "active"
 ---
 

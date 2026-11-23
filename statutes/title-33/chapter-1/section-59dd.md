@@ -3,9 +3,9 @@ title: "Section 59dd - Declaration of nonnavigability of portions of Cleveland H
 usc_title: 33
 usc_section: "59dd"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 59dd"
-generated_at: "2026-11-23T20:36:48.291Z"
+generated_at: "2026-11-23T20:39:29.083Z"
 status: "active"
 ---
 

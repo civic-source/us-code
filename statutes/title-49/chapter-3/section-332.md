@@ -3,9 +3,9 @@ title: "Section 332 - Minority Resource Center"
 usc_title: 49
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "49 U.S.C. § 332"
-generated_at: "2026-11-23T20:37:24.862Z"
+generated_at: "2026-11-23T20:40:03.039Z"
 status: "active"
 ---
 

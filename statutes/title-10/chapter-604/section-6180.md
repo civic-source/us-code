@@ -3,9 +3,9 @@ title: "Section 6180 - Policy of Department of Energy regarding future defense e
 usc_title: 10
 usc_section: "6180"
 chapter: 604
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 6180"
-generated_at: "2026-11-23T20:36:02.810Z"
+generated_at: "2026-11-23T20:38:39.895Z"
 status: "active"
 ---
 

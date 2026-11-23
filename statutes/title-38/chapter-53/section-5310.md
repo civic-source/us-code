@@ -3,9 +3,9 @@ title: "Section 5310 - Payment of benefits for month of death"
 usc_title: 38
 usc_section: "5310"
 chapter: 53
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 5310"
-generated_at: "2026-11-23T20:36:54.307Z"
+generated_at: "2026-11-23T20:39:35.210Z"
 status: "active"
 ---
 

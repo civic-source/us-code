@@ -3,9 +3,9 @@ title: "Section 14 - Student support services"
 usc_title: 20
 usc_section: "14"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-11-23T20:36:17.865Z"
+generated_at: "2026-11-23T20:38:56.957Z"
 status: "active"
 ---
 

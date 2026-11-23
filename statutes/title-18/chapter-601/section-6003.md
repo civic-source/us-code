@@ -3,9 +3,9 @@ title: "Section 6003 - Court and grand jury proceedings"
 usc_title: 18
 usc_section: "6003"
 chapter: 601
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 6003"
-generated_at: "2026-11-23T20:36:14.325Z"
+generated_at: "2026-11-23T20:38:53.459Z"
 status: "active"
 ---
 

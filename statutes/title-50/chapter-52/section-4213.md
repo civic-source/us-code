@@ -3,9 +3,9 @@ title: "Section 4213 - Consideration of Commission findings by departments and a
 usc_title: 50
 usc_section: "4213"
 chapter: 52
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 4213"
-generated_at: "2026-11-23T20:37:21.613Z"
+generated_at: "2026-11-23T20:40:00.164Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15824 - State Technologies Advancement Collaborative"
 usc_title: 42
 usc_section: "15824"
 chapter: 149
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 15824"
-generated_at: "2026-11-23T20:37:14.562Z"
+generated_at: "2026-11-23T20:39:53.859Z"
 status: "active"
 ---
 

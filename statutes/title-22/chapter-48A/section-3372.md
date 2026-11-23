@@ -3,9 +3,9 @@ title: "Section 3372 - Strategy to support Taiwan’s meaningful participation i
 usc_title: 22
 usc_section: "3372"
 chapter: 48
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 3372"
-generated_at: "2026-11-23T20:36:30.780Z"
+generated_at: "2026-11-23T20:39:10.788Z"
 status: "active"
 ---
 

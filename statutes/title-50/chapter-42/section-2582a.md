@@ -3,9 +3,9 @@ title: "Section 2582a - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(
 usc_title: 50
 usc_section: "2582a"
 chapter: 42
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2582a"
-generated_at: "2026-11-23T20:37:21.460Z"
+generated_at: "2026-11-23T20:40:00.013Z"
 status: "repealed"
 ---
 

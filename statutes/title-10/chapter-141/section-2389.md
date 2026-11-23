@@ -3,9 +3,9 @@ title: "Section 2389 - Ensuring safety regarding insensitive munitions"
 usc_title: 10
 usc_section: "2389"
 chapter: 141
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2389"
-generated_at: "2026-11-23T20:36:02.521Z"
+generated_at: "2026-11-23T20:38:39.539Z"
 status: "active"
 ---
 

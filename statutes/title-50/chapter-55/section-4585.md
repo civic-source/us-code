@@ -3,9 +3,9 @@ title: "Section 4585 - Public database of covered foreign persons"
 usc_title: 50
 usc_section: "4585"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 4585"
-generated_at: "2026-11-23T20:37:21.650Z"
+generated_at: "2026-11-23T20:40:00.207Z"
 status: "active"
 ---
 

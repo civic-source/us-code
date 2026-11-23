@@ -3,9 +3,9 @@ title: "Section 898 - Art. 98. Misconduct as prisoner"
 usc_title: 10
 usc_section: "898"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 898"
-generated_at: "2026-11-23T20:36:02.251Z"
+generated_at: "2026-11-23T20:38:39.161Z"
 status: "active"
 ---
 

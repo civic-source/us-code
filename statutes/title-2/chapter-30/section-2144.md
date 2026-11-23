@@ -3,9 +3,9 @@ title: "Section 2144 - Disbursement of appropriations for Botanic Garden"
 usc_title: 2
 usc_section: "2144"
 chapter: 30
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 2144"
-generated_at: "2026-11-23T20:35:49.592Z"
+generated_at: "2026-11-23T20:38:21.668Z"
 status: "active"
 ---
 

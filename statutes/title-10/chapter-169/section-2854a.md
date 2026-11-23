@@ -3,9 +3,9 @@ title: "Section 2854a - Conveyance of damaged or deteriorated military family ho
 usc_title: 10
 usc_section: "2854a"
 chapter: 169
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 2854a"
-generated_at: "2026-11-23T20:36:02.619Z"
+generated_at: "2026-11-23T20:38:39.678Z"
 status: "active"
 ---
 

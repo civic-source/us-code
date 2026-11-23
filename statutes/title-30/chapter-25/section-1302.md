@@ -3,9 +3,9 @@ title: "Section 1302 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1302"
 chapter: 25
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "30 U.S.C. § 1302"
-generated_at: "2026-11-23T20:36:33.253Z"
+generated_at: "2026-11-23T20:39:13.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6591c - Stewardship end result contracting projects"
 usc_title: 16
 usc_section: "6591c"
 chapter: 84
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 6591c"
-generated_at: "2026-11-23T20:36:21.441Z"
+generated_at: "2026-11-23T20:39:01.977Z"
 status: "active"
 ---
 

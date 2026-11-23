@@ -3,9 +3,9 @@ title: "Section 9801 - Defined term"
 usc_title: 15
 usc_section: "9801"
 chapter: 122
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9801"
-generated_at: "2026-11-23T20:36:11.043Z"
+generated_at: "2026-11-23T20:38:50.410Z"
 status: "active"
 ---
 

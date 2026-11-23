@@ -3,9 +3,9 @@ title: "Section 14112 - Transferred"
 usc_title: 42
 usc_section: "14112"
 chapter: 136
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 14112"
-generated_at: "2026-11-23T20:37:14.521Z"
+generated_at: "2026-11-23T20:39:53.834Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 194 - Transferred"
 usc_title: 50
 usc_section: "194"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 194"
-generated_at: "2026-11-23T20:37:21.355Z"
+generated_at: "2026-11-23T20:39:59.904Z"
 status: "transferred"
 ---
 

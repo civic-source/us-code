@@ -3,9 +3,9 @@ title: "Section 2306 - Separability"
 usc_title: 7
 usc_section: "2306"
 chapter: 56
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2306"
-generated_at: "2026-11-23T20:35:56.237Z"
+generated_at: "2026-11-23T20:38:31.521Z"
 status: "active"
 ---
 

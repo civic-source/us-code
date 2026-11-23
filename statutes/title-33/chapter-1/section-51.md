@@ -3,9 +3,9 @@ title: "Section 51 - Scajaquada Creek, New York"
 usc_title: 33
 usc_section: "51"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 51"
-generated_at: "2026-11-23T20:36:48.287Z"
+generated_at: "2026-11-23T20:39:29.079Z"
 status: "active"
 ---
 

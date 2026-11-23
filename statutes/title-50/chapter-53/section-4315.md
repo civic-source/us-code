@@ -3,9 +3,9 @@ title: "Section 4315 - Offenses; punishment; forfeitures of property"
 usc_title: 50
 usc_section: "4315"
 chapter: 53
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 4315"
-generated_at: "2026-11-23T20:37:21.627Z"
+generated_at: "2026-11-23T20:40:00.170Z"
 status: "active"
 ---
 

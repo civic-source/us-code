@@ -3,9 +3,9 @@ title: "Section 4502 - General provisions"
 usc_title: 5
 usc_section: "4502"
 chapter: 45
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 4502"
-generated_at: "2026-11-23T20:35:50.864Z"
+generated_at: "2026-11-23T20:38:24.587Z"
 status: "active"
 ---
 

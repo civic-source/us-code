@@ -3,9 +3,9 @@ title: "Section 3008 - Renewable energy revenue sharing"
 usc_title: 43
 usc_section: "3008"
 chapter: 48
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 3008"
-generated_at: "2026-11-23T20:36:57.889Z"
+generated_at: "2026-11-23T20:39:39.556Z"
 status: "active"
 ---
 

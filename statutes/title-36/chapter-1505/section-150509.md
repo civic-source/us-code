@@ -3,9 +3,9 @@ title: "Section 150509 - Headquarters and principal office"
 usc_title: 36
 usc_section: "150509"
 chapter: 1505
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 150509"
-generated_at: "2026-11-23T20:36:51.621Z"
+generated_at: "2026-11-23T20:39:32.574Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6705 - Line item"
 usc_title: 7
 usc_section: "6705"
 chapter: 96
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 6705"
-generated_at: "2026-11-23T20:35:56.351Z"
+generated_at: "2026-11-23T20:38:31.739Z"
 status: "active"
 ---
 

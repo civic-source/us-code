@@ -3,9 +3,9 @@ title: "Section 2280a - Violence against maritime navigation and maritime transp
 usc_title: 18
 usc_section: "2280a"
 chapter: 111
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 2280a"
-generated_at: "2026-11-23T20:36:14.228Z"
+generated_at: "2026-11-23T20:38:53.290Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1952 - Payments from Fund for families of Detective Gibson and P
 usc_title: 2
 usc_section: "1952"
 chapter: 29
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 1952"
-generated_at: "2026-11-23T20:35:49.581Z"
+generated_at: "2026-11-23T20:38:21.646Z"
 status: "active"
 ---
 

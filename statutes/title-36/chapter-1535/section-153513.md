@@ -3,9 +3,9 @@ title: "Section 153513 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "153513"
 chapter: 1535
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 153513"
-generated_at: "2026-11-23T20:36:51.660Z"
+generated_at: "2026-11-23T20:39:32.620Z"
 status: "active"
 ---
 

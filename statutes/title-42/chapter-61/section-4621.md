@@ -3,9 +3,9 @@ title: "Section 4621 - Declaration of findings and policy"
 usc_title: 42
 usc_section: "4621"
 chapter: 61
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 4621"
-generated_at: "2026-11-23T20:37:13.654Z"
+generated_at: "2026-11-23T20:39:52.879Z"
 status: "active"
 ---
 

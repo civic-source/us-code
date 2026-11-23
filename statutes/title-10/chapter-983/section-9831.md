@@ -3,9 +3,9 @@ title: "Section 9831 - Custody of departmental records and property"
 usc_title: 10
 usc_section: "9831"
 chapter: 983
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 9831"
-generated_at: "2026-11-23T20:36:03.142Z"
+generated_at: "2026-11-23T20:38:40.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1693 - Carriage of mail generally"
 usc_title: 18
 usc_section: "1693"
 chapter: 83
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 1693"
-generated_at: "2026-11-23T20:36:14.190Z"
+generated_at: "2026-11-23T20:38:53.229Z"
 status: "active"
 ---
 

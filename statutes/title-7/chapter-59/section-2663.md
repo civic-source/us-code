@@ -3,9 +3,9 @@ title: "Section 2663 - Funding"
 usc_title: 7
 usc_section: "2663"
 chapter: 59
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2663"
-generated_at: "2026-11-23T20:35:56.247Z"
+generated_at: "2026-11-23T20:38:31.538Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4655 - Funding for development and adoption of measurably secure
 usc_title: 15
 usc_section: "4655"
 chapter: 72
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 4655"
-generated_at: "2026-11-23T20:36:10.919Z"
+generated_at: "2026-11-23T20:38:50.236Z"
 status: "active"
 ---
 

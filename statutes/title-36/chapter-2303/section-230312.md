@@ -3,9 +3,9 @@ title: "Section 230312 - Annual report"
 usc_title: 36
 usc_section: "230312"
 chapter: 2303
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "36 U.S.C. § 230312"
-generated_at: "2026-11-23T20:36:51.724Z"
+generated_at: "2026-11-23T20:39:32.698Z"
 status: "active"
 ---
 

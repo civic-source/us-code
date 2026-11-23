@@ -3,9 +3,9 @@ title: "Section 1163 - Responsibility of Alaska to meet educational needs of Pri
 usc_title: 16
 usc_section: "1163"
 chapter: 24
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 1163"
-generated_at: "2026-11-23T20:36:21.182Z"
+generated_at: "2026-11-23T20:39:01.650Z"
 status: "active"
 ---
 

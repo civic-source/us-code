@@ -3,9 +3,9 @@ title: "Section 2659 - Repealed. Pub. L. 114–113, div. M, title VII, § 701(f)
 usc_title: 50
 usc_section: "2659"
 chapter: 42
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 2659"
-generated_at: "2026-11-23T20:37:21.461Z"
+generated_at: "2026-11-23T20:40:00.014Z"
 status: "repealed"
 ---
 

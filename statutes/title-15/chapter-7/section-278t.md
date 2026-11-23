@@ -3,9 +3,9 @@ title: "Section 278t - Advanced communications research activities"
 usc_title: 15
 usc_section: "278t"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 278t"
-generated_at: "2026-11-23T20:36:10.487Z"
+generated_at: "2026-11-23T20:38:49.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9705 - Improving National Oceanic and Atmospheric Administration
 usc_title: 15
 usc_section: "9705"
 chapter: 121
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "15 U.S.C. § 9705"
-generated_at: "2026-11-23T20:36:11.041Z"
+generated_at: "2026-11-23T20:38:50.408Z"
 status: "active"
 ---
 

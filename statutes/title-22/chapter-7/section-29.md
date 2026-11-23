@@ -3,9 +3,9 @@ title: "Section 29 - Rio Grande canalization project; flood and sediment control
 usc_title: 22
 usc_section: "29"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 29"
-generated_at: "2026-11-23T20:36:30.363Z"
+generated_at: "2026-11-23T20:39:10.392Z"
 status: "active"
 ---
 

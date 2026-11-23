@@ -3,9 +3,9 @@ title: "Section 41313 - GAO study on incidence of fatal and non-fatal physical a
 usc_title: 34
 usc_section: "41313"
 chapter: 413
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "34 U.S.C. § 41313"
-generated_at: "2026-11-23T20:36:47.369Z"
+generated_at: "2026-11-23T20:39:27.856Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4818 - Administrative provision"
 usc_title: 7
 usc_section: "4818"
 chapter: 79
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 4818"
-generated_at: "2026-11-23T20:35:56.306Z"
+generated_at: "2026-11-23T20:38:31.649Z"
 status: "active"
 ---
 

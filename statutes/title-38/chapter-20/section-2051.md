@@ -3,9 +3,9 @@ title: "Section 2051 - General authority"
 usc_title: 38
 usc_section: "2051"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "38 U.S.C. § 2051"
-generated_at: "2026-11-23T20:36:54.168Z"
+generated_at: "2026-11-23T20:39:35.070Z"
 status: "active"
 ---
 

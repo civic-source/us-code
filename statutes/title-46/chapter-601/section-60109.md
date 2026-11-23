@@ -3,9 +3,9 @@ title: "Section 60109 - Duty to transport money and securities of the United Sta
 usc_title: 46
 usc_section: "60109"
 chapter: 601
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "46 U.S.C. § 60109"
-generated_at: "2026-11-23T20:37:18.859Z"
+generated_at: "2026-11-23T20:39:58.652Z"
 status: "active"
 ---
 

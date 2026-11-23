@@ -3,9 +3,9 @@ title: "Section 401 - Establishment; boundaries; administration"
 usc_title: 16
 usc_section: "401"
 chapter: 1
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 401"
-generated_at: "2026-11-23T20:36:20.712Z"
+generated_at: "2026-11-23T20:39:01.019Z"
 status: "active"
 ---
 

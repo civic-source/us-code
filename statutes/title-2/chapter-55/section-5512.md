@@ -3,9 +3,9 @@ title: "Section 5512 - Use of available balances of expired appropriations"
 usc_title: 2
 usc_section: "5512"
 chapter: 55
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "2 U.S.C. § 5512"
-generated_at: "2026-11-23T20:35:49.619Z"
+generated_at: "2026-11-23T20:38:21.727Z"
 status: "active"
 ---
 

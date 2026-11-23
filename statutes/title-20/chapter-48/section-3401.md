@@ -3,9 +3,9 @@ title: "Section 3401 - Congressional findings"
 usc_title: 20
 usc_section: "3401"
 chapter: 48
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 3401"
-generated_at: "2026-11-23T20:36:18.047Z"
+generated_at: "2026-11-23T20:38:57.292Z"
 status: "active"
 ---
 

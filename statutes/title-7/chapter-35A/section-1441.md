@@ -3,9 +3,9 @@ title: "Section 1441 - Price support levels"
 usc_title: 7
 usc_section: "1441"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 1441"
-generated_at: "2026-11-23T20:35:56.008Z"
+generated_at: "2026-11-23T20:38:31.197Z"
 status: "active"
 ---
 

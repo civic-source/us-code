@@ -3,9 +3,9 @@ title: "Section 1599f - United States Cyber Command recruitment and retention"
 usc_title: 10
 usc_section: "1599f"
 chapter: 81
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 1599f"
-generated_at: "2026-11-23T20:36:02.426Z"
+generated_at: "2026-11-23T20:38:39.417Z"
 status: "active"
 ---
 

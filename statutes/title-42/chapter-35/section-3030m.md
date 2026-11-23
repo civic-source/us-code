@@ -3,9 +3,9 @@ title: "Section 3030m - Program authorized"
 usc_title: 42
 usc_section: "3030m"
 chapter: 35
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 3030m"
-generated_at: "2026-11-23T20:37:13.482Z"
+generated_at: "2026-11-23T20:39:52.721Z"
 status: "active"
 ---
 

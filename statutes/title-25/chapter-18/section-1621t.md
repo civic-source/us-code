@@ -3,9 +3,9 @@ title: "Section 1621t - Licensing"
 usc_title: 25
 usc_section: "1621t"
 chapter: 18
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "25 U.S.C. § 1621t"
-generated_at: "2026-11-23T20:36:24.847Z"
+generated_at: "2026-11-23T20:39:05.580Z"
 status: "active"
 ---
 

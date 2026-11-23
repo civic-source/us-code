@@ -3,9 +3,9 @@ title: "Section 863 - Survey of lands granted to certain Western States"
 usc_title: 43
 usc_section: "863"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 863"
-generated_at: "2026-11-23T20:36:57.701Z"
+generated_at: "2026-11-23T20:39:39.419Z"
 status: "active"
 ---
 

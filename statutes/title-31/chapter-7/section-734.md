@@ -3,9 +3,9 @@ title: "Section 734 - Assignments and details to Congress"
 usc_title: 31
 usc_section: "734"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "31 U.S.C. § 734"
-generated_at: "2026-11-23T20:36:46.327Z"
+generated_at: "2026-11-23T20:39:26.642Z"
 status: "active"
 ---
 

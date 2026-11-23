@@ -3,9 +3,9 @@ title: "Section 10501 - National Guard Bureau"
 usc_title: 10
 usc_section: "10501"
 chapter: 1011
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 10501"
-generated_at: "2026-11-23T20:36:03.158Z"
+generated_at: "2026-11-23T20:38:40.303Z"
 status: "active"
 ---
 

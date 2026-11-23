@@ -3,9 +3,9 @@ title: "Section 7413 - Federal enforcement"
 usc_title: 42
 usc_section: "7413"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7413"
-generated_at: "2026-11-23T20:37:14.014Z"
+generated_at: "2026-11-23T20:39:53.273Z"
 status: "active"
 ---
 

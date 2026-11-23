@@ -3,9 +3,9 @@ title: "Section 5909 - Custody of payment stablecoin reserve and collateral"
 usc_title: 12
 usc_section: "5909"
 chapter: 56
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "12 U.S.C. § 5909"
-generated_at: "2026-11-23T20:36:07.932Z"
+generated_at: "2026-11-23T20:38:46.297Z"
 status: "active"
 ---
 

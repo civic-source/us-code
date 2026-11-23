@@ -3,9 +3,9 @@ title: "Section 357 - Special and incentive pay authorities for members of the r
 usc_title: 37
 usc_section: "357"
 chapter: 5
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "37 U.S.C. § 357"
-generated_at: "2026-11-23T20:36:50.601Z"
+generated_at: "2026-11-23T20:39:31.313Z"
 status: "active"
 ---
 

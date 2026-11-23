@@ -3,9 +3,9 @@ title: "Section 2160 - Prohibition on slaughter of dogs and cats for human consu
 usc_title: 7
 usc_section: "2160"
 chapter: 54
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2160"
-generated_at: "2026-11-23T20:35:56.207Z"
+generated_at: "2026-11-23T20:38:31.485Z"
 status: "active"
 ---
 

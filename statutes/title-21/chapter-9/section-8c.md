@@ -3,9 +3,9 @@ title: "Section 8c - Patient participation in medical product discussion"
 usc_title: 21
 usc_section: "8c"
 chapter: 9
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "21 U.S.C. § 8c"
-generated_at: "2026-11-23T20:36:26.752Z"
+generated_at: "2026-11-23T20:39:07.482Z"
 status: "active"
 ---
 

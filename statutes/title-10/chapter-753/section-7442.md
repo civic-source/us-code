@@ -3,9 +3,9 @@ title: "Section 7442 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "7442"
 chapter: 753
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 7442"
-generated_at: "2026-11-23T20:36:02.880Z"
+generated_at: "2026-11-23T20:38:39.971Z"
 status: "active"
 ---
 

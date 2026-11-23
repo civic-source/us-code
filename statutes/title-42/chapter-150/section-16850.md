@@ -3,9 +3,9 @@ title: "Section 16850 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16850"
 chapter: 150
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 16850"
-generated_at: "2026-11-23T20:37:14.688Z"
+generated_at: "2026-11-23T20:39:53.924Z"
 status: "repealed"
 ---
 

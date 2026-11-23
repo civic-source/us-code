@@ -3,9 +3,9 @@ title: "Section 8272 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8272"
 chapter: 70
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 8272"
-generated_at: "2026-11-23T20:36:18.183Z"
+generated_at: "2026-11-23T20:38:57.515Z"
 status: "repealed"
 ---
 

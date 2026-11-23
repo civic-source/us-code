@@ -3,9 +3,9 @@ title: "Section 7582 - Requirements applicable to clean-fuel vehicles"
 usc_title: 42
 usc_section: "7582"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 7582"
-generated_at: "2026-11-23T20:37:14.066Z"
+generated_at: "2026-11-23T20:39:53.332Z"
 status: "active"
 ---
 

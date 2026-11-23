@@ -3,9 +3,9 @@ title: "Section 390a - Repealed. Pub. L. 105–362, title IX, § 901(e)(2) , Nov
 usc_title: 43
 usc_section: "390a"
 chapter: 12
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "43 U.S.C. § 390a"
-generated_at: "2026-11-23T20:36:57.596Z"
+generated_at: "2026-11-23T20:39:39.329Z"
 status: "repealed"
 ---
 

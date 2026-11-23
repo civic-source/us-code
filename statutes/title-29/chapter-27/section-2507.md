@@ -3,9 +3,9 @@ title: "Section 2507 - Study of barriers to participation of women in apprentice
 usc_title: 29
 usc_section: "2507"
 chapter: 27
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "29 U.S.C. § 2507"
-generated_at: "2026-11-23T20:36:36.067Z"
+generated_at: "2026-11-23T20:39:14.721Z"
 status: "active"
 ---
 

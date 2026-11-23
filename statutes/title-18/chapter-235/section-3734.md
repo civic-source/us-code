@@ -3,9 +3,9 @@ title: "Section 3734 - Bill of exceptions abolished—(Rule)"
 usc_title: 18
 usc_section: "3734"
 chapter: 235
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "18 U.S.C. § 3734"
-generated_at: "2026-11-23T20:36:14.310Z"
+generated_at: "2026-11-23T20:38:53.429Z"
 status: "active"
 ---
 

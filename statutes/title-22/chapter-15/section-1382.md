@@ -3,9 +3,9 @@ title: "Section 1382 - Administration of the Trading With the Enemy Act in Phili
 usc_title: 22
 usc_section: "1382"
 chapter: 15
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "22 U.S.C. § 1382"
-generated_at: "2026-11-23T20:36:30.456Z"
+generated_at: "2026-11-23T20:39:10.483Z"
 status: "active"
 ---
 

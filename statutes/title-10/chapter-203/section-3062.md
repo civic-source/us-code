@@ -3,9 +3,9 @@ title: "Section 3062 - Regulations"
 usc_title: 10
 usc_section: "3062"
 chapter: 203
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3062"
-generated_at: "2026-11-23T20:36:02.642Z"
+generated_at: "2026-11-23T20:38:39.706Z"
 status: "active"
 ---
 

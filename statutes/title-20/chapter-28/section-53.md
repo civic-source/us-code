@@ -3,9 +3,9 @@ title: "Section 53 - Grants for Federal work-study programs"
 usc_title: 20
 usc_section: "53"
 chapter: 28
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 53"
-generated_at: "2026-11-23T20:36:17.906Z"
+generated_at: "2026-11-23T20:38:57.032Z"
 status: "active"
 ---
 

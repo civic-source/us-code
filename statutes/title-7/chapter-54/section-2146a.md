@@ -3,9 +3,9 @@ title: "Section 2146a - Searchable database requirements"
 usc_title: 7
 usc_section: "2146a"
 chapter: 54
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 2146a"
-generated_at: "2026-11-23T20:35:56.205Z"
+generated_at: "2026-11-23T20:38:31.481Z"
 status: "active"
 ---
 

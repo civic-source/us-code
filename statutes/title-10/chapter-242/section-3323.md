@@ -3,9 +3,9 @@ title: "Section 3323 - Cost-plus contracting prohibited for military constructio
 usc_title: 10
 usc_section: "3323"
 chapter: 242
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "10 U.S.C. § 3323"
-generated_at: "2026-11-23T20:36:02.660Z"
+generated_at: "2026-11-23T20:38:39.723Z"
 status: "active"
 ---
 

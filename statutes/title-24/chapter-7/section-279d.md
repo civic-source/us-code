@@ -3,9 +3,9 @@ title: "Section 279d - Repealed. Pub. L. 93–43, § 7(a)(1) , (4), (5), (7), Ju
 usc_title: 24
 usc_section: "279d"
 chapter: 7
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "24 U.S.C. § 279d"
-generated_at: "2026-11-23T20:36:22.918Z"
+generated_at: "2026-11-23T20:39:03.493Z"
 status: "repealed"
 ---
 

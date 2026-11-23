@@ -3,9 +3,9 @@ title: "Section 3409 - Petition and review"
 usc_title: 7
 usc_section: "3409"
 chapter: 65
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 3409"
-generated_at: "2026-11-23T20:35:56.288Z"
+generated_at: "2026-11-23T20:38:31.613Z"
 status: "active"
 ---
 

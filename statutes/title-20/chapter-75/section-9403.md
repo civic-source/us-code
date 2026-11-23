@@ -3,9 +3,9 @@ title: "Section 9403 - Prohibitions"
 usc_title: 20
 usc_section: "9403"
 chapter: 75
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "20 U.S.C. § 9403"
-generated_at: "2026-11-23T20:36:18.194Z"
+generated_at: "2026-11-23T20:38:57.528Z"
 status: "active"
 ---
 

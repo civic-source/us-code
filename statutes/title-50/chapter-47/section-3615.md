@@ -3,9 +3,9 @@ title: "Section 3615 - Repealed. Pub. L. 103–359, title VIII, § 806(b)(2) , O
 usc_title: 50
 usc_section: "3615"
 chapter: 47
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "50 U.S.C. § 3615"
-generated_at: "2026-11-23T20:37:21.582Z"
+generated_at: "2026-11-23T20:40:00.133Z"
 status: "repealed"
 ---
 

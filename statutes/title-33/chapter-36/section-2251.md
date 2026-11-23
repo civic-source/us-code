@@ -3,9 +3,9 @@ title: "Section 2251 - Inland Waterways Users Board"
 usc_title: 33
 usc_section: "2251"
 chapter: 36
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "33 U.S.C. § 2251"
-generated_at: "2026-11-23T20:36:48.530Z"
+generated_at: "2026-11-23T20:39:29.270Z"
 status: "active"
 ---
 

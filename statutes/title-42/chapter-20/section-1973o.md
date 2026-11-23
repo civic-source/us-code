@@ -3,9 +3,9 @@ title: "Section 1973o - Transferred"
 usc_title: 42
 usc_section: "1973o"
 chapter: 20
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 1973o"
-generated_at: "2026-11-23T20:37:13.261Z"
+generated_at: "2026-11-23T20:39:52.508Z"
 status: "transferred"
 ---
 

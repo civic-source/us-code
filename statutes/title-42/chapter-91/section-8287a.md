@@ -3,9 +3,9 @@ title: "Section 8287a - Payment of costs"
 usc_title: 42
 usc_section: "8287a"
 chapter: 91
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "42 U.S.C. § 8287a"
-generated_at: "2026-11-23T20:37:14.146Z"
+generated_at: "2026-11-23T20:39:53.429Z"
 status: "active"
 ---
 

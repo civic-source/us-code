@@ -3,9 +3,9 @@ title: "Section 5901 - Uniform allowances"
 usc_title: 5
 usc_section: "5901"
 chapter: 59
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "5 U.S.C. § 5901"
-generated_at: "2026-11-23T20:35:50.979Z"
+generated_at: "2026-11-23T20:38:24.729Z"
 status: "active"
 ---
 

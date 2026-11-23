@@ -3,9 +3,9 @@ title: "Section 6914 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(2) , 
 usc_title: 7
 usc_section: "6914"
 chapter: 98
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "7 U.S.C. § 6914"
-generated_at: "2026-11-23T20:35:56.357Z"
+generated_at: "2026-11-23T20:38:31.751Z"
 status: "repealed"
 ---
 

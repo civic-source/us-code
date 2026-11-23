@@ -3,9 +3,9 @@ title: "Section 1353 - Indian allotments"
 usc_title: 28
 usc_section: "1353"
 chapter: 85
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "28 U.S.C. § 1353"
-generated_at: "2026-11-23T20:36:34.375Z"
+generated_at: "2026-11-23T20:39:16.020Z"
 status: "active"
 ---
 

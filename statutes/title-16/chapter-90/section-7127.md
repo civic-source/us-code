@@ -3,9 +3,9 @@ title: "Section 7127 - Availability of project funds"
 usc_title: 16
 usc_section: "7127"
 chapter: 90
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "16 U.S.C. § 7127"
-generated_at: "2026-11-23T20:36:21.461Z"
+generated_at: "2026-11-23T20:39:02.011Z"
 status: "active"
 ---
 

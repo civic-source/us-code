@@ -3,9 +3,9 @@ title: "Section 5151 - Conversion of currency of foreign countries"
 usc_title: 31
 usc_section: "5151"
 chapter: 51
-current_through: "PL 119-90"
+current_through: "PL 119-93"
 classification: "31 U.S.C. § 5151"
-generated_at: "2026-11-23T20:36:46.442Z"
+generated_at: "2026-11-23T20:39:26.765Z"
 status: "active"
 ---
 
