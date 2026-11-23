@@ -3,9 +3,9 @@ title: "Section 1 - Offenses in relation to sampling of cotton for classificatio
 usc_title: 7
 usc_section: "1"
 chapter: 19
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T21:06:57.952Z"
+generated_at: "2026-11-23T21:08:53.696Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1313 - Exceptions from operation of section 1311 of this title"
 usc_title: 43
 usc_section: "1313"
 chapter: 29
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 1313"
-generated_at: "2026-11-23T21:07:50.195Z"
+generated_at: "2026-11-23T21:09:35.550Z"
 status: "active"
 ---
 

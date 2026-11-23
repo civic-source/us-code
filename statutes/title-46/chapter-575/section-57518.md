@@ -3,9 +3,9 @@ title: "Section 57518 - Performance bond"
 usc_title: 46
 usc_section: "57518"
 chapter: 575
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 57518"
-generated_at: "2026-11-23T21:08:07.296Z"
+generated_at: "2026-11-23T21:09:47.485Z"
 status: "active"
 ---
 

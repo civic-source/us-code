@@ -3,9 +3,9 @@ title: "Section 437 - Congressional oversight"
 usc_title: 10
 usc_section: "437"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 437"
-generated_at: "2026-11-23T21:07:02.859Z"
+generated_at: "2026-11-23T21:08:58.227Z"
 status: "active"
 ---
 

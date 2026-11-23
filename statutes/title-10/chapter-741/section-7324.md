@@ -3,9 +3,9 @@ title: "Section 7324 - Forty years or more: Army officers"
 usc_title: 10
 usc_section: "7324"
 chapter: 741
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7324"
-generated_at: "2026-11-23T21:07:03.582Z"
+generated_at: "2026-11-23T21:08:58.701Z"
 status: "active"
 ---
 

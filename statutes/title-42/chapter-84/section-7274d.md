@@ -3,9 +3,9 @@ title: "Section 7274d - Transferred"
 usc_title: 42
 usc_section: "7274d"
 chapter: 84
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7274d"
-generated_at: "2026-11-23T21:08:02.401Z"
+generated_at: "2026-11-23T21:09:43.255Z"
 status: "transferred"
 ---
 

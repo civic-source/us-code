@@ -3,9 +3,9 @@ title: "Section 2323 - Organization"
 usc_title: 7
 usc_section: "2323"
 chapter: 57
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2323"
-generated_at: "2026-11-23T21:06:58.196Z"
+generated_at: "2026-11-23T21:08:53.937Z"
 status: "active"
 ---
 

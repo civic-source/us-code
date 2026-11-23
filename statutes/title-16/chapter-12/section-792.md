@@ -3,9 +3,9 @@ title: "Section 792 - Federal Power Commission; creation; number; appointment; t
 usc_title: 16
 usc_section: "792"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 792"
-generated_at: "2026-11-23T21:07:16.913Z"
+generated_at: "2026-11-23T21:09:12.125Z"
 status: "active"
 ---
 

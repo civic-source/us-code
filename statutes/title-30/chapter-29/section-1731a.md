@@ -3,9 +3,9 @@ title: "Section 1731a - Application of subchapter to leases of lands within thre
 usc_title: 30
 usc_section: "1731a"
 chapter: 29
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 1731a"
-generated_at: "2026-11-23T21:07:29.622Z"
+generated_at: "2026-11-23T21:09:20.110Z"
 status: "active"
 ---
 

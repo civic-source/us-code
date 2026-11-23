@@ -3,9 +3,9 @@ title: "Section 1384 - Substantive regulations"
 usc_title: 2
 usc_section: "1384"
 chapter: 24
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 1384"
-generated_at: "2026-11-23T21:06:50.594Z"
+generated_at: "2026-11-23T21:08:46.631Z"
 status: "active"
 ---
 

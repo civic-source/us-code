@@ -3,9 +3,9 @@ title: "Section 7108 - Definitions"
 usc_title: 15
 usc_section: "7108"
 chapter: 97
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 7108"
-generated_at: "2026-11-23T21:07:11.567Z"
+generated_at: "2026-11-23T21:09:04.360Z"
 status: "active"
 ---
 

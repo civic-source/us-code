@@ -3,9 +3,9 @@ title: "Section 675 - Law clerks and secretaries"
 usc_title: 28
 usc_section: "675"
 chapter: 45
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. § 675"
-generated_at: "2026-11-23T21:07:30.575Z"
+generated_at: "2026-11-23T21:09:20.829Z"
 status: "active"
 ---
 

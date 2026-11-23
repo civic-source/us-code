@@ -3,9 +3,9 @@ title: "Section 4753 - Supplies: identification of supplier and sources"
 usc_title: 10
 usc_section: "4753"
 chapter: 367
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 4753"
-generated_at: "2026-11-23T21:07:03.493Z"
+generated_at: "2026-11-23T21:08:58.649Z"
 status: "active"
 ---
 

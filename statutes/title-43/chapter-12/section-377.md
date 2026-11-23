@@ -3,9 +3,9 @@ title: "Section 377 - General expenses of Bureau of Reclamation chargeable to ge
 usc_title: 43
 usc_section: "377"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 377"
-generated_at: "2026-11-23T21:07:50.130Z"
+generated_at: "2026-11-23T21:09:35.480Z"
 status: "active"
 ---
 

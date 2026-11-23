@@ -3,9 +3,9 @@ title: "Section 3102 - Immersion suits"
 usc_title: 46
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 3102"
-generated_at: "2026-11-23T21:08:07.085Z"
+generated_at: "2026-11-23T21:09:47.297Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20142 - Track safety"
 usc_title: 49
 usc_section: "20142"
 chapter: 201
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 20142"
-generated_at: "2026-11-23T21:08:10.590Z"
+generated_at: "2026-11-23T21:09:51.872Z"
 status: "active"
 ---
 

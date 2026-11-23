@@ -3,9 +3,9 @@ title: "Section 2019 - Applicability of Federal Power Act"
 usc_title: 42
 usc_section: "2019"
 chapter: 23
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2019"
-generated_at: "2026-11-23T21:08:01.933Z"
+generated_at: "2026-11-23T21:09:42.875Z"
 status: "active"
 ---
 

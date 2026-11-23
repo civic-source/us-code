@@ -3,9 +3,9 @@ title: "Section 3074 - Commissary privileges"
 usc_title: 33
 usc_section: "3074"
 chapter: 43
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 3074"
-generated_at: "2026-11-23T21:07:42.389Z"
+generated_at: "2026-11-23T21:09:28.646Z"
 status: "active"
 ---
 

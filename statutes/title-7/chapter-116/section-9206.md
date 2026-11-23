@@ -3,9 +3,9 @@ title: "Section 9206 - Effect on other authorities"
 usc_title: 7
 usc_section: "9206"
 chapter: 116
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 9206"
-generated_at: "2026-11-23T21:06:58.418Z"
+generated_at: "2026-11-23T21:08:54.123Z"
 status: "active"
 ---
 

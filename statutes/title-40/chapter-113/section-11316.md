@@ -3,9 +3,9 @@ title: "Section 11316 - Accountability"
 usc_title: 40
 usc_section: "11316"
 chapter: 113
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "40 U.S.C. § 11316"
-generated_at: "2026-11-23T21:07:44.926Z"
+generated_at: "2026-11-23T21:09:32.754Z"
 status: "active"
 ---
 

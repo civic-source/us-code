@@ -3,9 +3,9 @@ title: "Section 361a - Additions to park"
 usc_title: 16
 usc_section: "361a"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 361a"
-generated_at: "2026-11-23T21:07:16.590Z"
+generated_at: "2026-11-23T21:09:11.751Z"
 status: "active"
 ---
 

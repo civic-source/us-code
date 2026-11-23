@@ -3,9 +3,9 @@ title: "Section 3432 - Effect on State laws"
 usc_title: 15
 usc_section: "3432"
 chapter: 60
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 3432"
-generated_at: "2026-11-23T21:07:11.492Z"
+generated_at: "2026-11-23T21:09:04.297Z"
 status: "active"
 ---
 

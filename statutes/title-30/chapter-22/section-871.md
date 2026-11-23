@@ -3,9 +3,9 @@ title: "Section 871 - Fire protection"
 usc_title: 30
 usc_section: "871"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 871"
-generated_at: "2026-11-23T21:07:29.545Z"
+generated_at: "2026-11-23T21:09:20.066Z"
 status: "active"
 ---
 

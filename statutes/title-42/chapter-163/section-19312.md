@@ -3,9 +3,9 @@ title: "Section 19312 - Entrepreneurial leave program"
 usc_title: 42
 usc_section: "19312"
 chapter: 163
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 19312"
-generated_at: "2026-11-23T21:08:03.343Z"
+generated_at: "2026-11-23T21:09:43.828Z"
 status: "active"
 ---
 

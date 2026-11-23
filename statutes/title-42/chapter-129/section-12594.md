@@ -3,9 +3,9 @@ title: "Section 12594 - Living allowances for national service participants"
 usc_title: 42
 usc_section: "12594"
 chapter: 129
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 12594"
-generated_at: "2026-11-23T21:08:02.902Z"
+generated_at: "2026-11-23T21:09:43.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4944 - Taxes on investments which jeopardize charitable purpose"
 usc_title: 26
 usc_section: "4944"
 chapter: 42
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 4944"
-generated_at: "2026-11-23T21:07:37.216Z"
+generated_at: "2026-11-23T21:09:25.006Z"
 status: "active"
 ---
 

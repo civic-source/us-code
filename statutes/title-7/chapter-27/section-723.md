@@ -3,9 +3,9 @@ title: "Section 723 - Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106"
 usc_title: 7
 usc_section: "723"
 chapter: 27
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 723"
-generated_at: "2026-11-23T21:06:57.973Z"
+generated_at: "2026-11-23T21:08:53.724Z"
 status: "repealed"
 ---
 

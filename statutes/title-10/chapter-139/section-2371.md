@@ -3,9 +3,9 @@ title: "Section 2371 - Renumbered § 4021]"
 usc_title: 10
 usc_section: "2371"
 chapter: 139
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2371"
-generated_at: "2026-11-23T21:07:03.298Z"
+generated_at: "2026-11-23T21:08:58.496Z"
 status: "renumbered"
 ---
 

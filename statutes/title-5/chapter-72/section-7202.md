@@ -3,9 +3,9 @@ title: "Section 7202 - Marital status"
 usc_title: 5
 usc_section: "7202"
 chapter: 72
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 7202"
-generated_at: "2026-11-23T21:06:52.880Z"
+generated_at: "2026-11-23T21:08:48.516Z"
 status: "active"
 ---
 

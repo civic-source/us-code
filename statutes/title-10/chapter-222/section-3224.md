@@ -3,9 +3,9 @@ title: "Section 3224 - Director: participation, concurrence, and approval in cos
 usc_title: 10
 usc_section: "3224"
 chapter: 222
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3224"
-generated_at: "2026-11-23T21:07:03.419Z"
+generated_at: "2026-11-23T21:08:58.590Z"
 status: "active"
 ---
 

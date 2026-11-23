@@ -3,9 +3,9 @@ title: "Section 18387 - Near-Earth object survey and policy with respect to thre
 usc_title: 42
 usc_section: "18387"
 chapter: 159
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 18387"
-generated_at: "2026-11-23T21:08:03.260Z"
+generated_at: "2026-11-23T21:09:43.782Z"
 status: "active"
 ---
 

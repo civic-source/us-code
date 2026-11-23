@@ -3,9 +3,9 @@ title: "Section 7 - Accountability"
 usc_title: 42
 usc_section: "7"
 chapter: 8
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-11-23T21:08:01.795Z"
+generated_at: "2026-11-23T21:09:42.754Z"
 status: "active"
 ---
 

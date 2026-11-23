@@ -3,9 +3,9 @@ title: "Section 2441 - Examination of application"
 usc_title: 7
 usc_section: "2441"
 chapter: 57
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2441"
-generated_at: "2026-11-23T21:06:58.199Z"
+generated_at: "2026-11-23T21:08:53.939Z"
 status: "active"
 ---
 

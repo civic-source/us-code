@@ -3,9 +3,9 @@ title: "Section 9059 - Duration"
 usc_title: 7
 usc_section: "9059"
 chapter: 115
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 9059"
-generated_at: "2026-11-23T21:06:58.412Z"
+generated_at: "2026-11-23T21:08:54.120Z"
 status: "active"
 ---
 

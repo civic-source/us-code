@@ -3,9 +3,9 @@ title: "Section 77zzz - Effect on existing law"
 usc_title: 15
 usc_section: "77zzz"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 77zzz"
-generated_at: "2026-11-23T21:07:11.119Z"
+generated_at: "2026-11-23T21:09:03.965Z"
 status: "active"
 ---
 

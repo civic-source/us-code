@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. Pub. L. 113–79, title II, § 2706(a) , Feb. 7, 2
 usc_title: 16
 usc_section: "9"
 chapter: 58
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-11-23T21:07:17.165Z"
+generated_at: "2026-11-23T21:09:12.393Z"
 status: "repealed"
 ---
 

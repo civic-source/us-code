@@ -3,9 +3,9 @@ title: "Section 8424 - Pakistan Counterinsurgency Capability Fund"
 usc_title: 22
 usc_section: "8424"
 chapter: 91
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 8424"
-generated_at: "2026-11-23T21:07:27.749Z"
+generated_at: "2026-11-23T21:09:18.527Z"
 status: "active"
 ---
 

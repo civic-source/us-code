@@ -3,9 +3,9 @@ title: "Section 101336 - Contracts for the management of field employee quarters
 usc_title: 54
 usc_section: "101336"
 chapter: 1013
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "54 U.S.C. § 101336"
-generated_at: "2026-11-23T21:08:13.352Z"
+generated_at: "2026-11-23T21:09:53.814Z"
 status: "active"
 ---
 

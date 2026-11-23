@@ -3,9 +3,9 @@ title: "Section 3072 - Determination of entitlement; maximum amount; Presidentia
 usc_title: 18
 usc_section: "3072"
 chapter: 204
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 3072"
-generated_at: "2026-11-23T21:07:14.591Z"
+generated_at: "2026-11-23T21:09:06.656Z"
 status: "active"
 ---
 

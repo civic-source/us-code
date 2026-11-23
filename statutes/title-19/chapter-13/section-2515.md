@@ -3,9 +3,9 @@ title: "Section 2515 - Monitoring and enforcement"
 usc_title: 19
 usc_section: "2515"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 2515"
-generated_at: "2026-11-23T21:07:18.310Z"
+generated_at: "2026-11-23T21:09:07.851Z"
 status: "active"
 ---
 

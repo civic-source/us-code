@@ -3,9 +3,9 @@ title: "Section 912a - Art. 112a. Wrongful use, possession, etc., of controlled 
 usc_title: 10
 usc_section: "912a"
 chapter: 47
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 912a"
-generated_at: "2026-11-23T21:07:03.017Z"
+generated_at: "2026-11-23T21:08:58.301Z"
 status: "active"
 ---
 

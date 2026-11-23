@@ -3,9 +3,9 @@ title: "Section 18711 - Preventing outages and enhancing the resilience of the e
 usc_title: 42
 usc_section: "18711"
 chapter: 162
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 18711"
-generated_at: "2026-11-23T21:08:03.276Z"
+generated_at: "2026-11-23T21:09:43.789Z"
 status: "active"
 ---
 

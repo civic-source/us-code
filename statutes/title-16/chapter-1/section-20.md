@@ -3,9 +3,9 @@ title: "Section 20 - Paul H. Douglas Ecological and Recreational Unit and Center
 usc_title: 16
 usc_section: "20"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 20"
-generated_at: "2026-11-23T21:07:16.732Z"
+generated_at: "2026-11-23T21:09:11.914Z"
 status: "active"
 ---
 

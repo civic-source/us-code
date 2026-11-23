@@ -3,9 +3,9 @@ title: "Section 6615 - Savings provisions"
 usc_title: 22
 usc_section: "6615"
 chapter: 74
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 6615"
-generated_at: "2026-11-23T21:07:27.670Z"
+generated_at: "2026-11-23T21:09:18.482Z"
 status: "active"
 ---
 

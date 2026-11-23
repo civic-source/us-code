@@ -3,9 +3,9 @@ title: "Section 19331 - Microelectronics research for energy innovation"
 usc_title: 42
 usc_section: "19331"
 chapter: 163
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 19331"
-generated_at: "2026-11-23T21:08:03.344Z"
+generated_at: "2026-11-23T21:09:43.828Z"
 status: "active"
 ---
 

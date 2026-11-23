@@ -3,9 +3,9 @@ title: "Section 1422 - Governor and Lieutenant Governor; term of office; qualifi
 usc_title: 48
 usc_section: "1422"
 chapter: 8
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "48 U.S.C. § 1422"
-generated_at: "2026-11-23T21:08:05.341Z"
+generated_at: "2026-11-23T21:09:46.394Z"
 status: "active"
 ---
 

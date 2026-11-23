@@ -3,9 +3,9 @@ title: "Section 10306 - Special rule"
 usc_title: 34
 usc_section: "10306"
 chapter: 101
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 10306"
-generated_at: "2026-11-23T21:07:40.942Z"
+generated_at: "2026-11-23T21:09:27.118Z"
 status: "active"
 ---
 

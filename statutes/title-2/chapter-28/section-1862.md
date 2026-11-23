@@ -3,9 +3,9 @@ title: "Section 1862 - Transfer of funds"
 usc_title: 2
 usc_section: "1862"
 chapter: 28
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 1862"
-generated_at: "2026-11-23T21:06:50.613Z"
+generated_at: "2026-11-23T21:08:46.664Z"
 status: "active"
 ---
 

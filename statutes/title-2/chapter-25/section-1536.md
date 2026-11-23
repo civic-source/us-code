@@ -3,9 +3,9 @@ title: "Section 1536 - Assistance to Congressional Budget Office"
 usc_title: 2
 usc_section: "1536"
 chapter: 25
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 1536"
-generated_at: "2026-11-23T21:06:50.603Z"
+generated_at: "2026-11-23T21:08:46.647Z"
 status: "active"
 ---
 

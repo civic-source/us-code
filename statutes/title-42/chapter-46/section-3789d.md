@@ -3,9 +3,9 @@ title: "Section 3789d - Transferred"
 usc_title: 42
 usc_section: "3789d"
 chapter: 46
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 3789d"
-generated_at: "2026-11-23T21:08:02.100Z"
+generated_at: "2026-11-23T21:09:43.015Z"
 status: "transferred"
 ---
 

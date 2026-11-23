@@ -3,9 +3,9 @@ title: "Section 14a - Annual appropriations for maintenance, operation, and impr
 usc_title: 24
 usc_section: "14a"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "24 U.S.C. § 14a"
-generated_at: "2026-11-23T21:07:22.515Z"
+generated_at: "2026-11-23T21:09:13.788Z"
 status: "active"
 ---
 

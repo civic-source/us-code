@@ -3,9 +3,9 @@ title: "Section 8911 - Advisory committee"
 usc_title: 5
 usc_section: "8911"
 chapter: 89
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 8911"
-generated_at: "2026-11-23T21:06:53.061Z"
+generated_at: "2026-11-23T21:08:48.620Z"
 status: "active"
 ---
 

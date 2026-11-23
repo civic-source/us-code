@@ -3,9 +3,9 @@ title: "Section 4318 - Separability"
 usc_title: 7
 usc_section: "4318"
 chapter: 74
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 4318"
-generated_at: "2026-11-23T21:06:58.252Z"
+generated_at: "2026-11-23T21:08:53.981Z"
 status: "active"
 ---
 

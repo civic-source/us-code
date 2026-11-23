@@ -3,9 +3,9 @@ title: "Section 679a - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "679a"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "21 U.S.C. § 679a"
-generated_at: "2026-11-23T21:07:25.152Z"
+generated_at: "2026-11-23T21:09:15.607Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 23109 - Statement required in audit report"
 usc_title: 36
 usc_section: "23109"
 chapter: 231
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 23109"
-generated_at: "2026-11-23T21:07:45.580Z"
+generated_at: "2026-11-23T21:09:30.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20233 - Eligibility for consideration for promotion: designation
 usc_title: 10
 usc_section: "20233"
 chapter: 2005
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 20233"
-generated_at: "2026-11-23T21:07:03.946Z"
+generated_at: "2026-11-23T21:08:58.893Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10371 - Water prediction and forecasting"
 usc_title: 42
 usc_section: "10371"
 chapter: 109
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 10371"
-generated_at: "2026-11-23T21:08:02.779Z"
+generated_at: "2026-11-23T21:09:43.479Z"
 status: "active"
 ---
 

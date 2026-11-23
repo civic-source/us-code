@@ -3,9 +3,9 @@ title: "Section 245 - Federally protected activities"
 usc_title: 18
 usc_section: "245"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 245"
-generated_at: "2026-11-23T21:07:14.435Z"
+generated_at: "2026-11-23T21:09:06.507Z"
 status: "active"
 ---
 

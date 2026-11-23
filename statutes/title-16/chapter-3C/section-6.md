@@ -3,9 +3,9 @@ title: "Section 6 - Disposition of receipts from repayment contracts and project
 usc_title: 16
 usc_section: "6"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-11-23T21:07:16.854Z"
+generated_at: "2026-11-23T21:09:12.036Z"
 status: "active"
 ---
 

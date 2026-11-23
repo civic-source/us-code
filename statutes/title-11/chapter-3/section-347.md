@@ -3,9 +3,9 @@ title: "Section 347 - Unclaimed property"
 usc_title: 11
 usc_section: "347"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "11 U.S.C. § 347"
-generated_at: "2026-11-23T21:07:05.594Z"
+generated_at: "2026-11-23T21:09:00.673Z"
 status: "active"
 ---
 

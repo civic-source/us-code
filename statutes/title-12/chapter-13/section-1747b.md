@@ -3,9 +3,9 @@ title: "Section 1747b - Premium charges; fees for examination and inspection"
 usc_title: 12
 usc_section: "1747b"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 1747b"
-generated_at: "2026-11-23T21:07:08.352Z"
+generated_at: "2026-11-23T21:09:02.201Z"
 status: "active"
 ---
 

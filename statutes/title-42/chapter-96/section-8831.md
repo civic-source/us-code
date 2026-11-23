@@ -3,9 +3,9 @@ title: "Section 8831 - Municipal waste energy development plan"
 usc_title: 42
 usc_section: "8831"
 chapter: 96
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 8831"
-generated_at: "2026-11-23T21:08:02.629Z"
+generated_at: "2026-11-23T21:09:43.393Z"
 status: "active"
 ---
 

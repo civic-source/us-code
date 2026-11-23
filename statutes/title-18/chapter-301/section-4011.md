@@ -3,9 +3,9 @@ title: "Section 4011 - Disposition of cash collections for meals, laundry, etc."
 usc_title: 18
 usc_section: "4011"
 chapter: 301
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 4011"
-generated_at: "2026-11-23T21:07:14.642Z"
+generated_at: "2026-11-23T21:09:06.701Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5373 - Regulations"
 usc_title: 25
 usc_section: "5373"
 chapter: 46
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 5373"
-generated_at: "2026-11-23T21:07:24.299Z"
+generated_at: "2026-11-23T21:09:16.462Z"
 status: "active"
 ---
 

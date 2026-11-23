@@ -3,9 +3,9 @@ title: "Section 6212 - Multi-year plan for clean-up"
 usc_title: 10
 usc_section: "6212"
 chapter: 604
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6212"
-generated_at: "2026-11-23T21:07:03.534Z"
+generated_at: "2026-11-23T21:08:58.679Z"
 status: "active"
 ---
 

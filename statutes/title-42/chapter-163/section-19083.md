@@ -3,9 +3,9 @@ title: "Section 19083 - Helium conservation"
 usc_title: 42
 usc_section: "19083"
 chapter: 163
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 19083"
-generated_at: "2026-11-23T21:08:03.322Z"
+generated_at: "2026-11-23T21:09:43.816Z"
 status: "active"
 ---
 

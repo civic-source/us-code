@@ -3,9 +3,9 @@ title: "Section 89 - Quarantine warehouses; erection"
 usc_title: 42
 usc_section: "89"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 89"
-generated_at: "2026-11-23T21:08:00.537Z"
+generated_at: "2026-11-23T21:09:41.839Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 149 - Transfer of books to other libraries"
 usc_title: 2
 usc_section: "149"
 chapter: 5
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 149"
-generated_at: "2026-11-23T21:06:50.535Z"
+generated_at: "2026-11-23T21:08:46.518Z"
 status: "active"
 ---
 

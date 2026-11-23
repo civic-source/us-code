@@ -3,9 +3,9 @@ title: "Section 1435 - Production of commodities for conversion into alcohol or 
 usc_title: 7
 usc_section: "1435"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1435"
-generated_at: "2026-11-23T21:06:58.020Z"
+generated_at: "2026-11-23T21:08:53.770Z"
 status: "active"
 ---
 

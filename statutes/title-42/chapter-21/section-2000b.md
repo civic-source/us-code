@@ -3,9 +3,9 @@ title: "Section 2000b - Civil actions by the Attorney General"
 usc_title: 42
 usc_section: "2000b"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2000b"
-generated_at: "2026-11-23T21:08:01.913Z"
+generated_at: "2026-11-23T21:09:42.859Z"
 status: "active"
 ---
 

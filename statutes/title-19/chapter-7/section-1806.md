@@ -3,9 +3,9 @@ title: "Section 1806 - Definitions"
 usc_title: 19
 usc_section: "1806"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 1806"
-generated_at: "2026-11-23T21:07:18.256Z"
+generated_at: "2026-11-23T21:09:07.800Z"
 status: "active"
 ---
 

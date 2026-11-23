@@ -3,9 +3,9 @@ title: "Section 19015 - Diversity in tech research"
 usc_title: 42
 usc_section: "19015"
 chapter: 163
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 19015"
-generated_at: "2026-11-23T21:08:03.316Z"
+generated_at: "2026-11-23T21:09:43.812Z"
 status: "active"
 ---
 

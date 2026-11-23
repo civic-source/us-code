@@ -3,9 +3,9 @@ title: "Section 642 - Liens for expenses of reclamation"
 usc_title: 43
 usc_section: "642"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 642"
-generated_at: "2026-11-23T21:07:50.178Z"
+generated_at: "2026-11-23T21:09:35.525Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2401 - Effective date; identification of programs"
 usc_title: 22
 usc_section: "2401"
 chapter: 32
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 2401"
-generated_at: "2026-11-23T21:07:27.352Z"
+generated_at: "2026-11-23T21:09:18.312Z"
 status: "active"
 ---
 

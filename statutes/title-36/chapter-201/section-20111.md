@@ -3,9 +3,9 @@ title: "Section 20111 - Use of assets on dissolution or final liquidation"
 usc_title: 36
 usc_section: "20111"
 chapter: 201
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 20111"
-generated_at: "2026-11-23T21:07:45.559Z"
+generated_at: "2026-11-23T21:09:30.903Z"
 status: "active"
 ---
 

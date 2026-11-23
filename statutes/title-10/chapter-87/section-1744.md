@@ -3,9 +3,9 @@ title: "Section 1744 - Repealed. Pub. L. 108–136, div. A, title VIII, § 834(b
 usc_title: 10
 usc_section: "1744"
 chapter: 87
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 1744"
-generated_at: "2026-11-23T21:07:03.219Z"
+generated_at: "2026-11-23T21:08:58.440Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4101 - Registration and bond"
 usc_title: 26
 usc_section: "4101"
 chapter: 32
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 4101"
-generated_at: "2026-11-23T21:07:37.189Z"
+generated_at: "2026-11-23T21:09:24.983Z"
 status: "active"
 ---
 

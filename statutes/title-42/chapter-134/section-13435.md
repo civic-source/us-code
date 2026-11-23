@@ -3,9 +3,9 @@ title: "Section 13435 - Electric motor vehicles and associated equipment researc
 usc_title: 42
 usc_section: "13435"
 chapter: 134
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 13435"
-generated_at: "2026-11-23T21:08:02.997Z"
+generated_at: "2026-11-23T21:09:43.605Z"
 status: "active"
 ---
 

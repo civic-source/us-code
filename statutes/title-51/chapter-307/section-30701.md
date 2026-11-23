@@ -3,9 +3,9 @@ title: "Section 30701 - Competitiveness and international cooperation"
 usc_title: 51
 usc_section: "30701"
 chapter: 307
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "51 U.S.C. § 30701"
-generated_at: "2026-11-23T21:08:12.725Z"
+generated_at: "2026-11-23T21:09:54.046Z"
 status: "active"
 ---
 

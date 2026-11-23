@@ -3,9 +3,9 @@ title: "Section 16181 - Goals"
 usc_title: 42
 usc_section: "16181"
 chapter: 149
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 16181"
-generated_at: "2026-11-23T21:08:03.098Z"
+generated_at: "2026-11-23T21:09:43.684Z"
 status: "active"
 ---
 

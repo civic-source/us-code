@@ -3,9 +3,9 @@ title: "Section 8146 - Navy and Marine Corps: temporary appointments of officers
 usc_title: 10
 usc_section: "8146"
 chapter: 815
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8146"
-generated_at: "2026-11-23T21:07:03.658Z"
+generated_at: "2026-11-23T21:08:58.741Z"
 status: "active"
 ---
 

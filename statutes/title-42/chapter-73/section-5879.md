@@ -3,9 +3,9 @@ title: "Section 5879 - Transfer of funds"
 usc_title: 42
 usc_section: "5879"
 chapter: 73
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 5879"
-generated_at: "2026-11-23T21:08:02.238Z"
+generated_at: "2026-11-23T21:09:43.144Z"
 status: "active"
 ---
 

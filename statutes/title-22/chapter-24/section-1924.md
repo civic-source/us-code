@@ -3,9 +3,9 @@ title: "Section 1924 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1924"
 chapter: 24
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 1924"
-generated_at: "2026-11-23T21:07:27.223Z"
+generated_at: "2026-11-23T21:09:18.240Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21504 - Acquisition and management of property"
 usc_title: 36
 usc_section: "21504"
 chapter: 215
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 21504"
-generated_at: "2026-11-23T21:07:45.570Z"
+generated_at: "2026-11-23T21:09:30.910Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4212 - Risk management and mitigation in major defense acquisiti
 usc_title: 10
 usc_section: "4212"
 chapter: 322
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 4212"
-generated_at: "2026-11-23T21:07:03.471Z"
+generated_at: "2026-11-23T21:08:58.632Z"
 status: "active"
 ---
 

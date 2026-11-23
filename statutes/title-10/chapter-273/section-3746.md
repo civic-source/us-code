@@ -3,9 +3,9 @@ title: "Section 3746 - Applicability of regulations to subcontractors"
 usc_title: 10
 usc_section: "3746"
 chapter: 273
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3746"
-generated_at: "2026-11-23T21:07:03.441Z"
+generated_at: "2026-11-23T21:08:58.607Z"
 status: "active"
 ---
 

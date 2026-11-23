@@ -3,9 +3,9 @@ title: "Section 12491 - Housing protections for victims of domestic violence, da
 usc_title: 34
 usc_section: "12491"
 chapter: 121
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 12491"
-generated_at: "2026-11-23T21:07:41.029Z"
+generated_at: "2026-11-23T21:09:27.180Z"
 status: "active"
 ---
 

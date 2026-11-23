@@ -3,9 +3,9 @@ title: "Section 8708 - Enforcement"
 usc_title: 15
 usc_section: "8708"
 chapter: 113
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 8708"
-generated_at: "2026-11-23T21:07:11.605Z"
+generated_at: "2026-11-23T21:09:04.392Z"
 status: "active"
 ---
 

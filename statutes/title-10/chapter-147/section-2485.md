@@ -3,9 +3,9 @@ title: "Section 2485 - Commissary stores: operation"
 usc_title: 10
 usc_section: "2485"
 chapter: 147
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2485"
-generated_at: "2026-11-23T21:07:03.312Z"
+generated_at: "2026-11-23T21:08:58.506Z"
 status: "active"
 ---
 

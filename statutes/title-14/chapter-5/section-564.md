@@ -3,9 +3,9 @@ title: "Section 564 - Administration of sexual assault forensic examination kits
 usc_title: 14
 usc_section: "564"
 chapter: 5
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "14 U.S.C. § 564"
-generated_at: "2026-11-23T21:07:06.087Z"
+generated_at: "2026-11-23T21:09:00.384Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6322 - Prohibition and report 1 1 So in original. Requirement to
 usc_title: 10
 usc_section: "6322"
 chapter: 608
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6322"
-generated_at: "2026-11-23T21:07:03.544Z"
+generated_at: "2026-11-23T21:08:58.684Z"
 status: "active"
 ---
 

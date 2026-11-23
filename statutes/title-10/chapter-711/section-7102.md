@@ -3,9 +3,9 @@ title: "Section 7102 - Congressional notification of significant Army force stru
 usc_title: 10
 usc_section: "7102"
 chapter: 711
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7102"
-generated_at: "2026-11-23T21:07:03.567Z"
+generated_at: "2026-11-23T21:08:58.694Z"
 status: "active"
 ---
 

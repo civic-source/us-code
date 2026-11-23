@@ -3,9 +3,9 @@ title: "Section 12611 - Purpose"
 usc_title: 42
 usc_section: "12611"
 chapter: 129
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 12611"
-generated_at: "2026-11-23T21:08:02.906Z"
+generated_at: "2026-11-23T21:09:43.552Z"
 status: "active"
 ---
 

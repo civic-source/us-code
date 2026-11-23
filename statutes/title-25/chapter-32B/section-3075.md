@@ -3,9 +3,9 @@ title: "Section 3075 - Interagency working group"
 usc_title: 25
 usc_section: "3075"
 chapter: 32
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 3075"
-generated_at: "2026-11-23T21:07:24.213Z"
+generated_at: "2026-11-23T21:09:16.384Z"
 status: "active"
 ---
 

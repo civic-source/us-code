@@ -3,9 +3,9 @@ title: "Section 5905 - Penalty for certain acts"
 usc_title: 38
 usc_section: "5905"
 chapter: 59
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 5905"
-generated_at: "2026-11-23T21:07:47.499Z"
+generated_at: "2026-11-23T21:09:32.144Z"
 status: "active"
 ---
 

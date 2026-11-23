@@ -3,9 +3,9 @@ title: "Section 1 - Nondiscrimination with regard to reasonable accommodations r
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:08:01.928Z"
+generated_at: "2026-11-23T21:09:42.871Z"
 status: "active"
 ---
 

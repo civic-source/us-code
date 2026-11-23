@@ -3,9 +3,9 @@ title: "Section 101933 - Term of commercial services contracts"
 usc_title: 54
 usc_section: "101933"
 chapter: 1019
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "54 U.S.C. § 101933"
-generated_at: "2026-11-23T21:08:13.363Z"
+generated_at: "2026-11-23T21:09:53.824Z"
 status: "active"
 ---
 

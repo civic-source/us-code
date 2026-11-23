@@ -3,9 +3,9 @@ title: "Section 8736 - Payments in lieu of loan deficiency payments for grazed a
 usc_title: 7
 usc_section: "8736"
 chapter: 113
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 8736"
-generated_at: "2026-11-23T21:06:58.394Z"
+generated_at: "2026-11-23T21:08:54.105Z"
 status: "active"
 ---
 

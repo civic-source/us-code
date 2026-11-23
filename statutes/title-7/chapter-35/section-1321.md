@@ -3,9 +3,9 @@ title: "Section 1321 - Legislative finding of effect on interstate and foreign c
 usc_title: 7
 usc_section: "1321"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1321"
-generated_at: "2026-11-23T21:06:57.996Z"
+generated_at: "2026-11-23T21:08:53.746Z"
 status: "active"
 ---
 

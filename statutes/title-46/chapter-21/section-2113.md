@@ -3,9 +3,9 @@ title: "Section 2113 - Authority to exempt certain vessels"
 usc_title: 46
 usc_section: "2113"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 2113"
-generated_at: "2026-11-23T21:08:07.082Z"
+generated_at: "2026-11-23T21:09:47.295Z"
 status: "active"
 ---
 

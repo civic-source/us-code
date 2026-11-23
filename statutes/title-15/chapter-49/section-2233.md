@@ -3,9 +3,9 @@ title: "Section 2233 - Removal of civil liability barriers that discourage the d
 usc_title: 15
 usc_section: "2233"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 2233"
-generated_at: "2026-11-23T21:07:11.446Z"
+generated_at: "2026-11-23T21:09:04.255Z"
 status: "active"
 ---
 

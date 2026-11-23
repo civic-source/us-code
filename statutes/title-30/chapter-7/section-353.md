@@ -3,9 +3,9 @@ title: "Section 353 - Sale of lands unaffected; reservation of mineral rights; s
 usc_title: 30
 usc_section: "353"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 353"
-generated_at: "2026-11-23T21:07:29.513Z"
+generated_at: "2026-11-23T21:09:20.049Z"
 status: "active"
 ---
 

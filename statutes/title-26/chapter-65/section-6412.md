@@ -3,9 +3,9 @@ title: "Section 6412 - Floor stocks refunds"
 usc_title: 26
 usc_section: "6412"
 chapter: 65
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 6412"
-generated_at: "2026-11-23T21:07:37.361Z"
+generated_at: "2026-11-23T21:09:25.112Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 116 - Memorial Day"
 usc_title: 36
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 116"
-generated_at: "2026-11-23T21:07:45.543Z"
+generated_at: "2026-11-23T21:09:30.885Z"
 status: "active"
 ---
 

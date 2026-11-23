@@ -3,9 +3,9 @@ title: "Section 7715 - Army museum system"
 usc_title: 10
 usc_section: "7715"
 chapter: 775
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7715"
-generated_at: "2026-11-23T21:07:03.627Z"
+generated_at: "2026-11-23T21:08:58.726Z"
 status: "active"
 ---
 

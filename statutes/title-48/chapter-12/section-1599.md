@@ -3,9 +3,9 @@ title: "Section 1599 - Transfer of functions from government comptroller for Vir
 usc_title: 48
 usc_section: "1599"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "48 U.S.C. § 1599"
-generated_at: "2026-11-23T21:08:05.355Z"
+generated_at: "2026-11-23T21:09:46.415Z"
 status: "active"
 ---
 

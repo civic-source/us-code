@@ -3,9 +3,9 @@ title: "Section 3641 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3641"
 chapter: 56
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 3641"
-generated_at: "2026-11-23T21:07:17.149Z"
+generated_at: "2026-11-23T21:09:12.377Z"
 status: "active"
 ---
 

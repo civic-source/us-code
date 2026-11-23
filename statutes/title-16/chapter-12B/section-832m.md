@@ -3,9 +3,9 @@ title: "Section 832m - Sale of excess Federal power; fish and wildlife conservat
 usc_title: 16
 usc_section: "832m"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 832m"
-generated_at: "2026-11-23T21:07:16.941Z"
+generated_at: "2026-11-23T21:09:12.166Z"
 status: "active"
 ---
 

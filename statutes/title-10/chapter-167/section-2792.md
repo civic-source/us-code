@@ -3,9 +3,9 @@ title: "Section 2792 - Renumbered § 451]"
 usc_title: 10
 usc_section: "2792"
 chapter: 167
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2792"
-generated_at: "2026-11-23T21:07:03.372Z"
+generated_at: "2026-11-23T21:08:58.551Z"
 status: "renumbered"
 ---
 

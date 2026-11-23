@@ -3,9 +3,9 @@ title: "Section 1642l - Payment of awards"
 usc_title: 22
 usc_section: "1642l"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 1642l"
-generated_at: "2026-11-23T21:07:27.209Z"
+generated_at: "2026-11-23T21:09:18.230Z"
 status: "active"
 ---
 

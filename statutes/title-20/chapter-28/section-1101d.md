@@ -3,9 +3,9 @@ title: "Section 1101d - Special rule"
 usc_title: 20
 usc_section: "1101d"
 chapter: 28
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 1101d"
-generated_at: "2026-11-23T21:07:20.419Z"
+generated_at: "2026-11-23T21:09:09.307Z"
 status: "active"
 ---
 

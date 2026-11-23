@@ -3,9 +3,9 @@ title: "Section 15208 - Law enforcement tribute acts"
 usc_title: 42
 usc_section: "15208"
 chapter: 145
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 15208"
-generated_at: "2026-11-23T21:08:03.052Z"
+generated_at: "2026-11-23T21:09:43.644Z"
 status: "active"
 ---
 

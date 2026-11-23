@@ -3,9 +3,9 @@ title: "Section 51103 - General authority of Secretary of Transportation"
 usc_title: 46
 usc_section: "51103"
 chapter: 511
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 51103"
-generated_at: "2026-11-23T21:08:07.230Z"
+generated_at: "2026-11-23T21:09:47.420Z"
 status: "active"
 ---
 

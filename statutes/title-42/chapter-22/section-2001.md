@@ -3,9 +3,9 @@ title: "Section 2001 - Hospitals and health facilities transferred to Public Hea
 usc_title: 42
 usc_section: "2001"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2001"
-generated_at: "2026-11-23T21:08:01.929Z"
+generated_at: "2026-11-23T21:09:42.872Z"
 status: "active"
 ---
 

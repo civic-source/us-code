@@ -3,9 +3,9 @@ title: "Section 8762 - Excess clothing: sale for distribution to needy"
 usc_title: 10
 usc_section: "8762"
 chapter: 875
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8762"
-generated_at: "2026-11-23T21:07:03.746Z"
+generated_at: "2026-11-23T21:08:58.788Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11047 - Exemption"
 usc_title: 42
 usc_section: "11047"
 chapter: 116
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 11047"
-generated_at: "2026-11-23T21:08:02.807Z"
+generated_at: "2026-11-23T21:09:43.495Z"
 status: "active"
 ---
 

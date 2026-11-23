@@ -3,9 +3,9 @@ title: "Section 2404 - Coordination and sharing of information with USADA"
 usc_title: 21
 usc_section: "2404"
 chapter: 29
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "21 U.S.C. § 2404"
-generated_at: "2026-11-23T21:07:25.214Z"
+generated_at: "2026-11-23T21:09:15.667Z"
 status: "active"
 ---
 

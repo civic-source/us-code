@@ -3,9 +3,9 @@ title: "Section 3134 - Employee retention credit for employers subject to closur
 usc_title: 26
 usc_section: "3134"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 3134"
-generated_at: "2026-11-23T21:07:37.141Z"
+generated_at: "2026-11-23T21:09:24.952Z"
 status: "active"
 ---
 

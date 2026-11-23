@@ -3,9 +3,9 @@ title: "Section 6137 - Rapid capabilities program"
 usc_title: 10
 usc_section: "6137"
 chapter: 602
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6137"
-generated_at: "2026-11-23T21:07:03.527Z"
+generated_at: "2026-11-23T21:08:58.675Z"
 status: "active"
 ---
 

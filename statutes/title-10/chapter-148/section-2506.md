@@ -3,9 +3,9 @@ title: "Section 2506 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1867
 usc_title: 10
 usc_section: "2506"
 chapter: 148
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2506"
-generated_at: "2026-11-23T21:07:03.316Z"
+generated_at: "2026-11-23T21:08:58.509Z"
 status: "repealed"
 ---
 

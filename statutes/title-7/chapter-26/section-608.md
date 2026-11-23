@@ -3,9 +3,9 @@ title: "Section 608 - Powers of Secretary"
 usc_title: 7
 usc_section: "608"
 chapter: 26
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 608"
-generated_at: "2026-11-23T21:06:57.964Z"
+generated_at: "2026-11-23T21:08:53.711Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1974 - Capitol Police special officers"
 usc_title: 2
 usc_section: "1974"
 chapter: 29
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 1974"
-generated_at: "2026-11-23T21:06:50.622Z"
+generated_at: "2026-11-23T21:08:46.679Z"
 status: "active"
 ---
 

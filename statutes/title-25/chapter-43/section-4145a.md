@@ -3,9 +3,9 @@ title: "Section 4145a - Program authority"
 usc_title: 25
 usc_section: "4145a"
 chapter: 43
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 4145a"
-generated_at: "2026-11-23T21:07:24.255Z"
+generated_at: "2026-11-23T21:09:16.424Z"
 status: "active"
 ---
 

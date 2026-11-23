@@ -3,9 +3,9 @@ title: "Section 7604 - Enforcement of summons"
 usc_title: 26
 usc_section: "7604"
 chapter: 78
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 7604"
-generated_at: "2026-11-23T21:07:37.449Z"
+generated_at: "2026-11-23T21:09:25.181Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2130 - Promotion to certain grades for officers with critical sk
 usc_title: 14
 usc_section: "2130"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "14 U.S.C. § 2130"
-generated_at: "2026-11-23T21:07:06.135Z"
+generated_at: "2026-11-23T21:09:00.406Z"
 status: "active"
 ---
 

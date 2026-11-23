@@ -3,9 +3,9 @@ title: "Section 9121 - Purpose"
 usc_title: 20
 usc_section: "9121"
 chapter: 72
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 9121"
-generated_at: "2026-11-23T21:07:20.750Z"
+generated_at: "2026-11-23T21:09:09.500Z"
 status: "active"
 ---
 

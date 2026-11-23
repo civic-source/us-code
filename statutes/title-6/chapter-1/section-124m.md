@@ -3,9 +3,9 @@ title: "Section 124m - Classified Information Advisory Officer"
 usc_title: 6
 usc_section: "124m"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "6 U.S.C. § 124m"
-generated_at: "2026-11-23T21:06:55.876Z"
+generated_at: "2026-11-23T21:08:50.387Z"
 status: "active"
 ---
 

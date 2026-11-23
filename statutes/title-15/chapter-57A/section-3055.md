@@ -3,9 +3,9 @@ title: "Section 3055 - Horseracing anti-doping and medication control program"
 usc_title: 15
 usc_section: "3055"
 chapter: 57
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 3055"
-generated_at: "2026-11-23T21:07:11.483Z"
+generated_at: "2026-11-23T21:09:04.289Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 205 - Codes and Supplement; where printed; form and style; ancil
 usc_title: 1
 usc_section: "205"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "1 U.S.C. § 205"
-generated_at: "2026-11-23T21:06:49.674Z"
+generated_at: "2026-11-23T21:08:45.519Z"
 status: "active"
 ---
 

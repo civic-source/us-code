@@ -3,9 +3,9 @@ title: "Section 3057c - Eligibility"
 usc_title: 42
 usc_section: "3057c"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 3057c"
-generated_at: "2026-11-23T21:08:02.045Z"
+generated_at: "2026-11-23T21:09:42.978Z"
 status: "active"
 ---
 

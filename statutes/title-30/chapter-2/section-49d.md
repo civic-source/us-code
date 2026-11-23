@@ -3,9 +3,9 @@ title: "Section 49d - Miners’ regulations for recording notices in Alaska; cer
 usc_title: 30
 usc_section: "49d"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 49d"
-generated_at: "2026-11-23T21:07:29.488Z"
+generated_at: "2026-11-23T21:09:20.034Z"
 status: "active"
 ---
 

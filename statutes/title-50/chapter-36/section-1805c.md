@@ -3,9 +3,9 @@ title: "Section 1805c - Repealed. Pub. L. 110–261, title IV, § 403(a)(1)(A) ,
 usc_title: 50
 usc_section: "1805c"
 chapter: 36
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 1805c"
-generated_at: "2026-11-23T21:08:08.278Z"
+generated_at: "2026-11-23T21:09:49.267Z"
 status: "repealed"
 ---
 

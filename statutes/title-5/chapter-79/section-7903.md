@@ -3,9 +3,9 @@ title: "Section 7903 - Protective clothing and equipment"
 usc_title: 5
 usc_section: "7903"
 chapter: 79
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 7903"
-generated_at: "2026-11-23T21:06:52.899Z"
+generated_at: "2026-11-23T21:08:48.530Z"
 status: "active"
 ---
 

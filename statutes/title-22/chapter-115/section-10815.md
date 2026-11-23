@@ -3,9 +3,9 @@ title: "Section 10815 - Waiver"
 usc_title: 22
 usc_section: "10815"
 chapter: 115
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 10815"
-generated_at: "2026-11-23T21:07:27.858Z"
+generated_at: "2026-11-23T21:09:18.591Z"
 status: "active"
 ---
 

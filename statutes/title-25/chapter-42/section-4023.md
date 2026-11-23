@@ -3,9 +3,9 @@ title: "Section 4023 - Judgment funds"
 usc_title: 25
 usc_section: "4023"
 chapter: 42
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 4023"
-generated_at: "2026-11-23T21:07:24.246Z"
+generated_at: "2026-11-23T21:09:16.413Z"
 status: "active"
 ---
 

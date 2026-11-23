@@ -3,9 +3,9 @@ title: "Section 224 - Repealed. Pub. L. 87–256, § 111(a)(4) , Sept. 21, 1961 
 usc_title: 20
 usc_section: "224"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 224"
-generated_at: "2026-11-23T21:07:20.191Z"
+generated_at: "2026-11-23T21:09:09.175Z"
 status: "repealed"
 ---
 

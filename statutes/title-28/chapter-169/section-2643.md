@@ -3,9 +3,9 @@ title: "Section 2643 - Relief"
 usc_title: 28
 usc_section: "2643"
 chapter: 169
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. § 2643"
-generated_at: "2026-11-23T21:07:30.631Z"
+generated_at: "2026-11-23T21:09:20.872Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9 - Availability of funds"
 usc_title: 42
 usc_section: "9"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-11-23T21:08:01.731Z"
+generated_at: "2026-11-23T21:09:42.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 423e - Completion of new projects or new division; execution of 
 usc_title: 43
 usc_section: "423e"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 423e"
-generated_at: "2026-11-23T21:07:50.149Z"
+generated_at: "2026-11-23T21:09:35.494Z"
 status: "active"
 ---
 

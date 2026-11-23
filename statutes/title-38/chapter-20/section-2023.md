@@ -3,9 +3,9 @@ title: "Section 2023 - Referral and counseling services: veterans at risk of hom
 usc_title: 38
 usc_section: "2023"
 chapter: 20
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 2023"
-generated_at: "2026-11-23T21:07:47.384Z"
+generated_at: "2026-11-23T21:09:32.030Z"
 status: "active"
 ---
 

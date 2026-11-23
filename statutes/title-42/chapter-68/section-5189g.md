@@ -3,9 +3,9 @@ title: "Section 5189g - Unified Federal review"
 usc_title: 42
 usc_section: "5189g"
 chapter: 68
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 5189g"
-generated_at: "2026-11-23T21:08:02.200Z"
+generated_at: "2026-11-23T21:09:43.107Z"
 status: "active"
 ---
 

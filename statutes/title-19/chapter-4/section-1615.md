@@ -3,9 +3,9 @@ title: "Section 1615 - Burden of proof in forfeiture proceedings"
 usc_title: 19
 usc_section: "1615"
 chapter: 4
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 1615"
-generated_at: "2026-11-23T21:07:18.228Z"
+generated_at: "2026-11-23T21:09:07.771Z"
 status: "active"
 ---
 

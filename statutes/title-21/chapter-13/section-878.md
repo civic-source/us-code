@@ -3,9 +3,9 @@ title: "Section 878 - Powers of enforcement personnel"
 usc_title: 21
 usc_section: "878"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "21 U.S.C. § 878"
-generated_at: "2026-11-23T21:07:25.182Z"
+generated_at: "2026-11-23T21:09:15.632Z"
 status: "active"
 ---
 

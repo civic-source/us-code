@@ -3,9 +3,9 @@ title: "Section 221e - Additional lands"
 usc_title: 16
 usc_section: "221e"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 221e"
-generated_at: "2026-11-23T21:07:16.573Z"
+generated_at: "2026-11-23T21:09:11.726Z"
 status: "active"
 ---
 

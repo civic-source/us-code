@@ -3,9 +3,9 @@ title: "Section 64c - Omitted"
 usc_title: 42
 usc_section: "64c"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 64c"
-generated_at: "2026-11-23T21:08:00.530Z"
+generated_at: "2026-11-23T21:09:41.834Z"
 status: "omitted"
 ---
 

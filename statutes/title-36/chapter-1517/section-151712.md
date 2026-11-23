@@ -3,9 +3,9 @@ title: "Section 151712 - Annual report"
 usc_title: 36
 usc_section: "151712"
 chapter: 1517
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 151712"
-generated_at: "2026-11-23T21:07:45.654Z"
+generated_at: "2026-11-23T21:09:30.971Z"
 status: "active"
 ---
 

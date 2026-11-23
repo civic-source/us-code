@@ -3,9 +3,9 @@ title: "Section 951B - Amounts included in gross income of foreign controlled Un
 usc_title: 26
 usc_section: "951B"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 951B"
-generated_at: "2026-11-23T21:07:36.966Z"
+generated_at: "2026-11-23T21:09:24.860Z"
 status: "active"
 ---
 

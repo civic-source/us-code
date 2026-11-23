@@ -3,9 +3,9 @@ title: "Section 179 - Personnel application and insurance programs"
 usc_title: 28
 usc_section: "179"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. § 179"
-generated_at: "2026-11-23T21:07:30.522Z"
+generated_at: "2026-11-23T21:09:20.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2160d - Further restrictions on exports"
 usc_title: 42
 usc_section: "2160d"
 chapter: 23
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2160d"
-generated_at: "2026-11-23T21:08:01.952Z"
+generated_at: "2026-11-23T21:09:42.895Z"
 status: "active"
 ---
 

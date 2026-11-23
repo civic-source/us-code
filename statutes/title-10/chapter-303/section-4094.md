@@ -3,9 +3,9 @@ title: "Section 4094 - Enhanced pay authority for certain research and technolog
 usc_title: 10
 usc_section: "4094"
 chapter: 303
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 4094"
-generated_at: "2026-11-23T21:07:03.461Z"
+generated_at: "2026-11-23T21:08:58.624Z"
 status: "active"
 ---
 

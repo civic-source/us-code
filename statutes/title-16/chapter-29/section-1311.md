@@ -3,9 +3,9 @@ title: "Section 1311 - Rules and regulations"
 usc_title: 16
 usc_section: "1311"
 chapter: 29
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 1311"
-generated_at: "2026-11-23T21:07:17.027Z"
+generated_at: "2026-11-23T21:09:12.263Z"
 status: "active"
 ---
 

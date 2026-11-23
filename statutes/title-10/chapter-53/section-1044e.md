@@ -3,9 +3,9 @@ title: "Section 1044e - Special Victims’ Counsel for victims of sex-related of
 usc_title: 10
 usc_section: "1044e"
 chapter: 53
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 1044e"
-generated_at: "2026-11-23T21:07:03.067Z"
+generated_at: "2026-11-23T21:08:58.326Z"
 status: "active"
 ---
 

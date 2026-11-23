@@ -3,9 +3,9 @@ title: "Section 2410n - Renumbered § 3905]"
 usc_title: 10
 usc_section: "2410n"
 chapter: 141
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2410n"
-generated_at: "2026-11-23T21:07:03.302Z"
+generated_at: "2026-11-23T21:08:58.499Z"
 status: "renumbered"
 ---
 

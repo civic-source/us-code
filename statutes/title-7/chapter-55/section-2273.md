@@ -3,9 +3,9 @@ title: "Section 2273 - Local search and rescue operations"
 usc_title: 7
 usc_section: "2273"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2273"
-generated_at: "2026-11-23T21:06:58.191Z"
+generated_at: "2026-11-23T21:08:53.932Z"
 status: "active"
 ---
 

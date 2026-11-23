@@ -3,9 +3,9 @@ title: "Section 5512 - Ballistic missile defense programs: display of amounts fo
 usc_title: 10
 usc_section: "5512"
 chapter: 551
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 5512"
-generated_at: "2026-11-23T21:07:03.517Z"
+generated_at: "2026-11-23T21:08:58.666Z"
 status: "active"
 ---
 

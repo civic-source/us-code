@@ -3,9 +3,9 @@ title: "Section 7413 - Issuance of orders"
 usc_title: 7
 usc_section: "7413"
 chapter: 101
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 7413"
-generated_at: "2026-11-23T21:06:58.338Z"
+generated_at: "2026-11-23T21:08:54.055Z"
 status: "active"
 ---
 

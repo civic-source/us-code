@@ -3,9 +3,9 @@ title: "Section 276dd - Income from property covered into Treasury; disbursement
 usc_title: 22
 usc_section: "276dd"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 276dd"
-generated_at: "2026-11-23T21:07:27.089Z"
+generated_at: "2026-11-23T21:09:18.169Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2009 - Harry S Truman Memorial Scholarship Trust Fund"
 usc_title: 20
 usc_section: "2009"
 chapter: 42
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 2009"
-generated_at: "2026-11-23T21:07:20.516Z"
+generated_at: "2026-11-23T21:09:09.369Z"
 status: "active"
 ---
 

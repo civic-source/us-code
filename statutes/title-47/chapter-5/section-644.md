@@ -3,9 +3,9 @@ title: "Section 644 - Improving data accuracy"
 usc_title: 47
 usc_section: "644"
 chapter: 5
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "47 U.S.C. § 644"
-generated_at: "2026-11-23T21:08:06.263Z"
+generated_at: "2026-11-23T21:09:48.084Z"
 status: "active"
 ---
 

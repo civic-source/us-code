@@ -3,9 +3,9 @@ title: "Section 2654 - Repealed. Pub. L. 95–313, § 16(a)(6) , formerly § 13(
 usc_title: 7
 usc_section: "2654"
 chapter: 59
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2654"
-generated_at: "2026-11-23T21:06:58.206Z"
+generated_at: "2026-11-23T21:08:53.943Z"
 status: "repealed"
 ---
 

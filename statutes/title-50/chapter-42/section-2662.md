@@ -3,9 +3,9 @@ title: "Section 2662 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b
 usc_title: 50
 usc_section: "2662"
 chapter: 42
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 2662"
-generated_at: "2026-11-23T21:08:08.324Z"
+generated_at: "2026-11-23T21:09:49.318Z"
 status: "repealed"
 ---
 

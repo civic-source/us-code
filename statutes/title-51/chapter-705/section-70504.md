@@ -3,9 +3,9 @@ title: "Section 70504 - Stepping stone approach to exploration"
 usc_title: 51
 usc_section: "70504"
 chapter: 705
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "51 U.S.C. § 70504"
-generated_at: "2026-11-23T21:08:12.791Z"
+generated_at: "2026-11-23T21:09:54.081Z"
 status: "active"
 ---
 

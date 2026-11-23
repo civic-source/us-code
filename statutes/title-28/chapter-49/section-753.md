@@ -3,9 +3,9 @@ title: "Section 753 - Reporters"
 usc_title: 28
 usc_section: "753"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. § 753"
-generated_at: "2026-11-23T21:07:30.576Z"
+generated_at: "2026-11-23T21:09:20.830Z"
 status: "active"
 ---
 

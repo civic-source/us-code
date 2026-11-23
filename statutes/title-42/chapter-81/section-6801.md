@@ -3,9 +3,9 @@ title: "Section 6801 - Congressional findings and purpose"
 usc_title: 42
 usc_section: "6801"
 chapter: 81
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 6801"
-generated_at: "2026-11-23T21:08:02.321Z"
+generated_at: "2026-11-23T21:09:43.204Z"
 status: "active"
 ---
 

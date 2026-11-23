@@ -3,9 +3,9 @@ title: "Section 4138 - Certain awards prohibited"
 usc_title: 50
 usc_section: "4138"
 chapter: 51
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 4138"
-generated_at: "2026-11-23T21:08:08.475Z"
+generated_at: "2026-11-23T21:09:49.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60310 - Vessels making daily trips on interior waters"
 usc_title: 46
 usc_section: "60310"
 chapter: 603
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 60310"
-generated_at: "2026-11-23T21:08:07.301Z"
+generated_at: "2026-11-23T21:09:47.492Z"
 status: "active"
 ---
 

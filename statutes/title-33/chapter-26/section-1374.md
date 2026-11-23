@@ -3,9 +3,9 @@ title: "Section 1374 - Effluent Standards and Water Quality Information Advisory
 usc_title: 33
 usc_section: "1374"
 chapter: 26
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 1374"
-generated_at: "2026-11-23T21:07:42.288Z"
+generated_at: "2026-11-23T21:09:28.582Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 892b - Quality assurance program"
 usc_title: 33
 usc_section: "892b"
 chapter: 17
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 892b"
-generated_at: "2026-11-23T21:07:42.202Z"
+generated_at: "2026-11-23T21:09:28.532Z"
 status: "active"
 ---
 

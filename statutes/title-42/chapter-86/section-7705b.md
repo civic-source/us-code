@@ -3,9 +3,9 @@ title: "Section 7705b - Seismic standards"
 usc_title: 42
 usc_section: "7705b"
 chapter: 86
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7705b"
-generated_at: "2026-11-23T21:08:02.563Z"
+generated_at: "2026-11-23T21:09:43.353Z"
 status: "active"
 ---
 

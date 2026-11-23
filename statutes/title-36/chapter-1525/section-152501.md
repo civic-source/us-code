@@ -3,9 +3,9 @@ title: "Section 152501 - Organization"
 usc_title: 36
 usc_section: "152501"
 chapter: 1525
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 152501"
-generated_at: "2026-11-23T21:07:45.664Z"
+generated_at: "2026-11-23T21:09:30.974Z"
 status: "active"
 ---
 

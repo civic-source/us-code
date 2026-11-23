@@ -3,9 +3,9 @@ title: "Section 286a - Appointments"
 usc_title: 22
 usc_section: "286a"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 286a"
-generated_at: "2026-11-23T21:07:27.116Z"
+generated_at: "2026-11-23T21:09:18.183Z"
 status: "active"
 ---
 

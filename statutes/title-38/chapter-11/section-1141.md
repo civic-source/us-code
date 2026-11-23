@@ -3,9 +3,9 @@ title: "Section 1141 - Basic entitlement"
 usc_title: 38
 usc_section: "1141"
 chapter: 11
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 1141"
-generated_at: "2026-11-23T21:07:47.306Z"
+generated_at: "2026-11-23T21:09:31.967Z"
 status: "active"
 ---
 

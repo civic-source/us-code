@@ -3,9 +3,9 @@ title: "Section 634d - Staff and powers of Office of Advocacy"
 usc_title: 15
 usc_section: "634d"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 634d"
-generated_at: "2026-11-23T21:07:11.234Z"
+generated_at: "2026-11-23T21:09:04.067Z"
 status: "active"
 ---
 

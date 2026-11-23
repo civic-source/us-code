@@ -3,9 +3,9 @@ title: "Section 18932 - Greenhouse gas measurement research"
 usc_title: 42
 usc_section: "18932"
 chapter: 163
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 18932"
-generated_at: "2026-11-23T21:08:03.306Z"
+generated_at: "2026-11-23T21:09:43.806Z"
 status: "active"
 ---
 

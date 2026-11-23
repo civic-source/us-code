@@ -3,9 +3,9 @@ title: "Section 218 - Civil penalties"
 usc_title: 27
 usc_section: "218"
 chapter: 8
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "27 U.S.C. § 218"
-generated_at: "2026-11-23T21:07:29.117Z"
+generated_at: "2026-11-23T21:09:19.743Z"
 status: "active"
 ---
 

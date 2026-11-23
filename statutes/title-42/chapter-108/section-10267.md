@@ -3,9 +3,9 @@ title: "Section 10267 - Support services"
 usc_title: 42
 usc_section: "10267"
 chapter: 108
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 10267"
-generated_at: "2026-11-23T21:08:02.768Z"
+generated_at: "2026-11-23T21:09:43.473Z"
 status: "active"
 ---
 

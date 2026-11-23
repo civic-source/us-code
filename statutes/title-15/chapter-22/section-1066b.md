@@ -3,9 +3,9 @@ title: "Section 1066b - Ex parte reexamination"
 usc_title: 15
 usc_section: "1066b"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 1066b"
-generated_at: "2026-11-23T21:07:11.333Z"
+generated_at: "2026-11-23T21:09:04.151Z"
 status: "active"
 ---
 

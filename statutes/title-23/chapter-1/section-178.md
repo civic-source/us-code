@@ -3,9 +3,9 @@ title: "Section 178 - Environmental review implementation funds"
 usc_title: 23
 usc_section: "178"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "23 U.S.C. § 178"
-generated_at: "2026-11-23T21:07:23.114Z"
+generated_at: "2026-11-23T21:09:14.458Z"
 status: "active"
 ---
 

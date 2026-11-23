@@ -3,9 +3,9 @@ title: "Section 5173 - Bonds"
 usc_title: 26
 usc_section: "5173"
 chapter: 51
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 5173"
-generated_at: "2026-11-23T21:07:37.265Z"
+generated_at: "2026-11-23T21:09:25.031Z"
 status: "active"
 ---
 

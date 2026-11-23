@@ -3,9 +3,9 @@ title: "Section 17707 - Reports"
 usc_title: 40
 usc_section: "17707"
 chapter: 177
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "40 U.S.C. § 17707"
-generated_at: "2026-11-23T21:07:44.964Z"
+generated_at: "2026-11-23T21:09:32.776Z"
 status: "active"
 ---
 

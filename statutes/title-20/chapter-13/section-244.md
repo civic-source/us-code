@@ -3,9 +3,9 @@ title: "Section 244 - Repealed. Pub. L. 103–382, title III, § 331(b) , Oct. 2
 usc_title: 20
 usc_section: "244"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 244"
-generated_at: "2026-11-23T21:07:20.193Z"
+generated_at: "2026-11-23T21:09:09.176Z"
 status: "repealed"
 ---
 

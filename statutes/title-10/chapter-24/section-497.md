@@ -3,9 +3,9 @@ title: "Section 497 - Notification required for reduction, consolidation, or wit
 usc_title: 10
 usc_section: "497"
 chapter: 24
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 497"
-generated_at: "2026-11-23T21:07:02.866Z"
+generated_at: "2026-11-23T21:08:58.233Z"
 status: "active"
 ---
 

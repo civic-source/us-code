@@ -3,9 +3,9 @@ title: "Section 6115 - Major warhead refurbishment program"
 usc_title: 10
 usc_section: "6115"
 chapter: 602
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6115"
-generated_at: "2026-11-23T21:07:03.521Z"
+generated_at: "2026-11-23T21:08:58.670Z"
 status: "active"
 ---
 

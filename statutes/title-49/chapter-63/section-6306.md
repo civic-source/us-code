@@ -3,9 +3,9 @@ title: "Section 6306 - Transportation statistical collection, analysis, and diss
 usc_title: 49
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 6306"
-generated_at: "2026-11-23T21:08:10.527Z"
+generated_at: "2026-11-23T21:09:51.823Z"
 status: "active"
 ---
 

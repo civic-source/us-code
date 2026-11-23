@@ -3,9 +3,9 @@ title: "Section 2196 - Renumbered § 4843]"
 usc_title: 10
 usc_section: "2196"
 chapter: 111
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2196"
-generated_at: "2026-11-23T21:07:03.255Z"
+generated_at: "2026-11-23T21:08:58.466Z"
 status: "renumbered"
 ---
 

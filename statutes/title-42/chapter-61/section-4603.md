@@ -3,9 +3,9 @@ title: "Section 4603 - Additional appropriations for moving costs, relocation be
 usc_title: 42
 usc_section: "4603"
 chapter: 61
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 4603"
-generated_at: "2026-11-23T21:08:02.146Z"
+generated_at: "2026-11-23T21:09:43.059Z"
 status: "active"
 ---
 

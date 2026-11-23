@@ -3,9 +3,9 @@ title: "Section 2465 - Date of termination"
 usc_title: 19
 usc_section: "2465"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 2465"
-generated_at: "2026-11-23T21:07:18.302Z"
+generated_at: "2026-11-23T21:09:07.844Z"
 status: "active"
 ---
 

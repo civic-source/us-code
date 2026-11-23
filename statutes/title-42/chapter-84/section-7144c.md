@@ -3,9 +3,9 @@ title: "Section 7144c - Repealed. Pub. L. 116–92, div. E, title LXIV, § 6421(
 usc_title: 42
 usc_section: "7144c"
 chapter: 84
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7144c"
-generated_at: "2026-11-23T21:08:02.387Z"
+generated_at: "2026-11-23T21:09:43.247Z"
 status: "repealed"
 ---
 

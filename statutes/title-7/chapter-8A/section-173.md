@@ -3,9 +3,9 @@ title: "Section 173 - Authorization of appropriations"
 usc_title: 7
 usc_section: "173"
 chapter: 8
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 173"
-generated_at: "2026-11-23T21:06:57.931Z"
+generated_at: "2026-11-23T21:08:53.675Z"
 status: "active"
 ---
 

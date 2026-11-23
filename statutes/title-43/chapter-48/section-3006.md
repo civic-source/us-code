@@ -3,9 +3,9 @@ title: "Section 3006 - Ensuring energy security"
 usc_title: 43
 usc_section: "3006"
 chapter: 48
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 3006"
-generated_at: "2026-11-23T21:07:50.276Z"
+generated_at: "2026-11-23T21:09:35.625Z"
 status: "active"
 ---
 

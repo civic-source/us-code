@@ -3,9 +3,9 @@ title: "Section 301 - Automatic execution of conforming changes"
 usc_title: 46
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-11-23T21:08:07.074Z"
+generated_at: "2026-11-23T21:09:47.290Z"
 status: "active"
 ---
 

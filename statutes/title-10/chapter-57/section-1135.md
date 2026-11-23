@@ -3,9 +3,9 @@ title: "Section 1135 - Replacement of military decorations"
 usc_title: 10
 usc_section: "1135"
 chapter: 57
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 1135"
-generated_at: "2026-11-23T21:07:03.122Z"
+generated_at: "2026-11-23T21:08:58.367Z"
 status: "active"
 ---
 

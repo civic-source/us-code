@@ -3,9 +3,9 @@ title: "Section 2416 - Time for commencing actions brought by the United Statesâ
 usc_title: 28
 usc_section: "2416"
 chapter: 161
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. Â§ 2416"
-generated_at: "2026-11-23T21:07:30.626Z"
+generated_at: "2026-11-23T21:09:20.868Z"
 status: "active"
 ---
 

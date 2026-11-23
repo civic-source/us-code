@@ -3,9 +3,9 @@ title: "Section 6253 - Fellowship program for development of skills critical to 
 usc_title: 10
 usc_section: "6253"
 chapter: 606
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6253"
-generated_at: "2026-11-23T21:07:03.536Z"
+generated_at: "2026-11-23T21:08:58.681Z"
 status: "active"
 ---
 

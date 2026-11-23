@@ -3,9 +3,9 @@ title: "Section 7635 - Service in other agencies"
 usc_title: 38
 usc_section: "7635"
 chapter: 76
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 7635"
-generated_at: "2026-11-23T21:07:47.540Z"
+generated_at: "2026-11-23T21:09:32.180Z"
 status: "active"
 ---
 

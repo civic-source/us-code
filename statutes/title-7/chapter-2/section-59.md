@@ -3,9 +3,9 @@ title: "Section 59 - Offenses in relation to cotton standards"
 usc_title: 7
 usc_section: "59"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 59"
-generated_at: "2026-11-23T21:06:57.884Z"
+generated_at: "2026-11-23T21:08:53.624Z"
 status: "active"
 ---
 

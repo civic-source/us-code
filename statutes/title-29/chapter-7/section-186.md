@@ -3,9 +3,9 @@ title: "Section 186 - Restrictions on financial transactions"
 usc_title: 29
 usc_section: "186"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "29 U.S.C. § 186"
-generated_at: "2026-11-23T21:07:31.616Z"
+generated_at: "2026-11-23T21:09:21.523Z"
 status: "active"
 ---
 

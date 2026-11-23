@@ -3,9 +3,9 @@ title: "Section 17175 - Repealed. Pub. L. 116–260, div. Z, title III, § 3006(
 usc_title: 42
 usc_section: "17175"
 chapter: 152
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 17175"
-generated_at: "2026-11-23T21:08:03.187Z"
+generated_at: "2026-11-23T21:09:43.743Z"
 status: "repealed"
 ---
 

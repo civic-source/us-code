@@ -3,9 +3,9 @@ title: "Section 12404 - Army and Air National Guard of the United States: mobili
 usc_title: 10
 usc_section: "12404"
 chapter: 1211
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 12404"
-generated_at: "2026-11-23T21:07:03.893Z"
+generated_at: "2026-11-23T21:08:58.862Z"
 status: "active"
 ---
 

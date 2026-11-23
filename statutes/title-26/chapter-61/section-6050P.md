@@ -3,9 +3,9 @@ title: "Section 6050P - Returns relating to the cancellation of indebtedness by 
 usc_title: 26
 usc_section: "6050P"
 chapter: 61
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 6050P"
-generated_at: "2026-11-23T21:07:37.316Z"
+generated_at: "2026-11-23T21:09:25.072Z"
 status: "active"
 ---
 

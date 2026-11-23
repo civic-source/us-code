@@ -3,9 +3,9 @@ title: "Section 3536 - Specialized vocational training courses"
 usc_title: 38
 usc_section: "3536"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 3536"
-generated_at: "2026-11-23T21:07:47.432Z"
+generated_at: "2026-11-23T21:09:32.075Z"
 status: "active"
 ---
 

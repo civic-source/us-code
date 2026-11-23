@@ -3,9 +3,9 @@ title: "Section 945 - Reservation in patents of right of way for ditches or cana
 usc_title: 43
 usc_section: "945"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 945"
-generated_at: "2026-11-23T21:07:50.189Z"
+generated_at: "2026-11-23T21:09:35.543Z"
 status: "active"
 ---
 

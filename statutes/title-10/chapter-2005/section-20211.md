@@ -3,9 +3,9 @@ title: "Section 20211 - Convening of selection boards"
 usc_title: 10
 usc_section: "20211"
 chapter: 2005
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 20211"
-generated_at: "2026-11-23T21:07:03.945Z"
+generated_at: "2026-11-23T21:08:58.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5196 - Detailed functions of administration"
 usc_title: 42
 usc_section: "5196"
 chapter: 68
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 5196"
-generated_at: "2026-11-23T21:08:02.203Z"
+generated_at: "2026-11-23T21:09:43.110Z"
 status: "active"
 ---
 

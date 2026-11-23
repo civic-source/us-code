@@ -3,9 +3,9 @@ title: "Section 2352 - National Security Council Committee on Nonproliferation"
 usc_title: 50
 usc_section: "2352"
 chapter: 40
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 2352"
-generated_at: "2026-11-23T21:08:08.309Z"
+generated_at: "2026-11-23T21:09:49.309Z"
 status: "active"
 ---
 

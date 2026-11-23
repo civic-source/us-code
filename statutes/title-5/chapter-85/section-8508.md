@@ -3,9 +3,9 @@ title: "Section 8508 - Regulations"
 usc_title: 5
 usc_section: "8508"
 chapter: 85
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 8508"
-generated_at: "2026-11-23T21:06:53.027Z"
+generated_at: "2026-11-23T21:08:48.602Z"
 status: "active"
 ---
 

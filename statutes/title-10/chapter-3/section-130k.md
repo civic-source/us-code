@@ -3,9 +3,9 @@ title: "Section 130k - Renumbered §§ 395, 396]"
 usc_title: 10
 usc_section: "130k"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 130k"
-generated_at: "2026-11-23T21:07:02.778Z"
+generated_at: "2026-11-23T21:08:58.173Z"
 status: "renumbered"
 ---
 

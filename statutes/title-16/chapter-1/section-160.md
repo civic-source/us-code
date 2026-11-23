@@ -3,9 +3,9 @@ title: "Section 160 - Congressional declaration of purpose"
 usc_title: 16
 usc_section: "160"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 160"
-generated_at: "2026-11-23T21:07:16.563Z"
+generated_at: "2026-11-23T21:09:11.713Z"
 status: "active"
 ---
 

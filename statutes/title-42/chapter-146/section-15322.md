@@ -3,9 +3,9 @@ title: "Section 15322 - Transferred"
 usc_title: 42
 usc_section: "15322"
 chapter: 146
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 15322"
-generated_at: "2026-11-23T21:08:03.053Z"
+generated_at: "2026-11-23T21:09:43.645Z"
 status: "transferred"
 ---
 

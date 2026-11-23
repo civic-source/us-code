@@ -3,9 +3,9 @@ title: "Section 167a - Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a
 usc_title: 10
 usc_section: "167a"
 chapter: 6
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 167a"
-generated_at: "2026-11-23T21:07:02.803Z"
+generated_at: "2026-11-23T21:08:58.187Z"
 status: "repealed"
 ---
 

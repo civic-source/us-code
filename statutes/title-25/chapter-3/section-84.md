@@ -3,9 +3,9 @@ title: "Section 84 - Repealed. Pub. L. 106–568, title VIII, § 812(c)(1) , Dec
 usc_title: 25
 usc_section: "84"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 84"
-generated_at: "2026-11-23T21:07:24.049Z"
+generated_at: "2026-11-23T21:09:16.251Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7404A - Awards"
 usc_title: 38
 usc_section: "7404A"
 chapter: 74
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 7404A"
-generated_at: "2026-11-23T21:07:47.528Z"
+generated_at: "2026-11-23T21:09:32.168Z"
 status: "active"
 ---
 

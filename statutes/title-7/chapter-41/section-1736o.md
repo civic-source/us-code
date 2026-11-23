@@ -3,9 +3,9 @@ title: "Section 1736o - Food for progress"
 usc_title: 7
 usc_section: "1736o"
 chapter: 41
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1736o"
-generated_at: "2026-11-23T21:06:58.082Z"
+generated_at: "2026-11-23T21:08:53.826Z"
 status: "active"
 ---
 

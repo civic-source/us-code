@@ -3,9 +3,9 @@ title: "Section 47303 - Training foreign citizens"
 usc_title: 49
 usc_section: "47303"
 chapter: 473
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 47303"
-generated_at: "2026-11-23T21:08:11.070Z"
+generated_at: "2026-11-23T21:09:52.162Z"
 status: "active"
 ---
 

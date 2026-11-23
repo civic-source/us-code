@@ -3,9 +3,9 @@ title: "Section 1465 - Annual reports of department and its bureaus"
 usc_title: 43
 usc_section: "1465"
 chapter: 31
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 1465"
-generated_at: "2026-11-23T21:07:50.209Z"
+generated_at: "2026-11-23T21:09:35.563Z"
 status: "active"
 ---
 

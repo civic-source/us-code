@@ -3,9 +3,9 @@ title: "Section 1397bb - General contents of State child health plan; eligibilit
 usc_title: 42
 usc_section: "1397bb"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 1397bb"
-generated_at: "2026-11-23T21:08:01.732Z"
+generated_at: "2026-11-23T21:09:42.704Z"
 status: "active"
 ---
 

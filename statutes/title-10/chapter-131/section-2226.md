@@ -3,9 +3,9 @@ title: "Section 2226 - Renumbered § 4602]"
 usc_title: 10
 usc_section: "2226"
 chapter: 131
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2226"
-generated_at: "2026-11-23T21:07:03.277Z"
+generated_at: "2026-11-23T21:08:58.480Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3353 - Appraisal management company minimum requirements"
 usc_title: 12
 usc_section: "3353"
 chapter: 34
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 3353"
-generated_at: "2026-11-23T21:07:08.637Z"
+generated_at: "2026-11-23T21:09:02.353Z"
 status: "active"
 ---
 

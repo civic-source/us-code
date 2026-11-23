@@ -3,9 +3,9 @@ title: "Section 1679g - Civil liability"
 usc_title: 15
 usc_section: "1679g"
 chapter: 41
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 1679g"
-generated_at: "2026-11-23T21:07:11.386Z"
+generated_at: "2026-11-23T21:09:04.202Z"
 status: "active"
 ---
 

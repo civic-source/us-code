@@ -3,9 +3,9 @@ title: "Section 14037 - Transferred"
 usc_title: 42
 usc_section: "14037"
 chapter: 136
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 14037"
-generated_at: "2026-11-23T21:08:03.017Z"
+generated_at: "2026-11-23T21:09:43.616Z"
 status: "transferred"
 ---
 

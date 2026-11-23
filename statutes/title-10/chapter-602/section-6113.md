@@ -3,9 +3,9 @@ title: "Section 6113 - Stockpile stewardship criteria"
 usc_title: 10
 usc_section: "6113"
 chapter: 602
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6113"
-generated_at: "2026-11-23T21:07:03.520Z"
+generated_at: "2026-11-23T21:08:58.669Z"
 status: "active"
 ---
 

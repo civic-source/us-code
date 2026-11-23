@@ -3,9 +3,9 @@ title: "Section 262s - Multilateral development bank procurement"
 usc_title: 22
 usc_section: "262s"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 262s"
-generated_at: "2026-11-23T21:07:27.079Z"
+generated_at: "2026-11-23T21:09:18.164Z"
 status: "active"
 ---
 

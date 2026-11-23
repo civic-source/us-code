@@ -3,9 +3,9 @@ title: "Section 115 - Income of States, municipalities, etc."
 usc_title: 26
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 115"
-generated_at: "2026-11-23T21:07:36.529Z"
+generated_at: "2026-11-23T21:09:24.596Z"
 status: "active"
 ---
 

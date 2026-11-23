@@ -3,9 +3,9 @@ title: "Section 5496 - Appearances before and reports to Congress"
 usc_title: 12
 usc_section: "5496"
 chapter: 53
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 5496"
-generated_at: "2026-11-23T21:07:08.812Z"
+generated_at: "2026-11-23T21:09:02.452Z"
 status: "active"
 ---
 

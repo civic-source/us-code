@@ -3,9 +3,9 @@ title: "Section 16295 - Oil and gas research programs"
 usc_title: 42
 usc_section: "16295"
 chapter: 149
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 16295"
-generated_at: "2026-11-23T21:08:03.129Z"
+generated_at: "2026-11-23T21:09:43.708Z"
 status: "active"
 ---
 

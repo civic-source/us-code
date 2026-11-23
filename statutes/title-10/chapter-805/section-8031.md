@@ -3,9 +3,9 @@ title: "Section 8031 - Office of the Chief of Naval Operations: function; compos
 usc_title: 10
 usc_section: "8031"
 chapter: 805
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8031"
-generated_at: "2026-11-23T21:07:03.642Z"
+generated_at: "2026-11-23T21:08:58.733Z"
 status: "active"
 ---
 

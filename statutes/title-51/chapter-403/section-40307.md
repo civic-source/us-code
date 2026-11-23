@@ -3,9 +3,9 @@ title: "Section 40307 - Space grant fellowship program"
 usc_title: 51
 usc_section: "40307"
 chapter: 403
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "51 U.S.C. § 40307"
-generated_at: "2026-11-23T21:08:12.738Z"
+generated_at: "2026-11-23T21:09:54.052Z"
 status: "active"
 ---
 

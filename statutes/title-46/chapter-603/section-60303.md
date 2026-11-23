@@ -3,9 +3,9 @@ title: "Section 60303 - Light money"
 usc_title: 46
 usc_section: "60303"
 chapter: 603
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 60303"
-generated_at: "2026-11-23T21:08:07.300Z"
+generated_at: "2026-11-23T21:09:47.492Z"
 status: "active"
 ---
 

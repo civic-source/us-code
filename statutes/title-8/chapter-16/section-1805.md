@@ -3,9 +3,9 @@ title: "Section 1805 - Special immigrant juvenile fee"
 usc_title: 8
 usc_section: "1805"
 chapter: 16
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "8 U.S.C. § 1805"
-generated_at: "2026-11-23T21:06:55.264Z"
+generated_at: "2026-11-23T21:08:51.444Z"
 status: "active"
 ---
 

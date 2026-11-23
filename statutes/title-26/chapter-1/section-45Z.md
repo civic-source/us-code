@@ -3,9 +3,9 @@ title: "Section 45Z - Clean fuel production credit"
 usc_title: 26
 usc_section: "45Z"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 45Z"
-generated_at: "2026-11-23T21:07:36.458Z"
+generated_at: "2026-11-23T21:09:24.556Z"
 status: "active"
 ---
 

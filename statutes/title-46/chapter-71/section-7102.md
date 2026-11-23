@@ -3,9 +3,9 @@ title: "Section 7102 - Citizenship or noncitizen nationality"
 usc_title: 46
 usc_section: "7102"
 chapter: 71
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 7102"
-generated_at: "2026-11-23T21:08:07.123Z"
+generated_at: "2026-11-23T21:09:47.321Z"
 status: "active"
 ---
 

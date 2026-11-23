@@ -3,9 +3,9 @@ title: "Section 891a - Operation and maintenance of NOAA fleet"
 usc_title: 33
 usc_section: "891a"
 chapter: 17
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 891a"
-generated_at: "2026-11-23T21:07:42.200Z"
+generated_at: "2026-11-23T21:09:28.531Z"
 status: "active"
 ---
 

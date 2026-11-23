@@ -3,9 +3,9 @@ title: "Section 556b - Use of appropriations for expenses of transporting automo
 usc_title: 16
 usc_section: "556b"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 556b"
-generated_at: "2026-11-23T21:07:16.836Z"
+generated_at: "2026-11-23T21:09:12.014Z"
 status: "active"
 ---
 

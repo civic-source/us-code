@@ -3,9 +3,9 @@ title: "Section 1903 - Special emergency procurement authority"
 usc_title: 41
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "41 U.S.C. § 1903"
-generated_at: "2026-11-23T21:07:49.454Z"
+generated_at: "2026-11-23T21:09:34.040Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3154g - High-speed broadband deployment initiative"
 usc_title: 42
 usc_section: "3154g"
 chapter: 38
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 3154g"
-generated_at: "2026-11-23T21:08:02.064Z"
+generated_at: "2026-11-23T21:09:42.990Z"
 status: "active"
 ---
 

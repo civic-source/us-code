@@ -3,9 +3,9 @@ title: "Section 12147 - Alterations of existing facilities"
 usc_title: 42
 usc_section: "12147"
 chapter: 126
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 12147"
-generated_at: "2026-11-23T21:08:02.865Z"
+generated_at: "2026-11-23T21:09:43.528Z"
 status: "active"
 ---
 

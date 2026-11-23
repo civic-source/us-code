@@ -3,9 +3,9 @@ title: "Section 165 - Losses"
 usc_title: 26
 usc_section: "165"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 165"
-generated_at: "2026-11-23T21:07:36.592Z"
+generated_at: "2026-11-23T21:09:24.630Z"
 status: "active"
 ---
 

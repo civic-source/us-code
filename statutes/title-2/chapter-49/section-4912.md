@@ -3,9 +3,9 @@ title: "Section 4912 - Membership of Page Board"
 usc_title: 2
 usc_section: "4912"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 4912"
-generated_at: "2026-11-23T21:06:50.655Z"
+generated_at: "2026-11-23T21:08:46.732Z"
 status: "active"
 ---
 

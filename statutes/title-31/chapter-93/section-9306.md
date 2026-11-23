@@ -3,9 +3,9 @@ title: "Section 9306 - Surety corporations acting outside area of incorporation 
 usc_title: 31
 usc_section: "9306"
 chapter: 93
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "31 U.S.C. § 9306"
-generated_at: "2026-11-23T21:07:40.219Z"
+generated_at: "2026-11-23T21:09:27.826Z"
 status: "active"
 ---
 

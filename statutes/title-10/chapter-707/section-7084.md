@@ -3,9 +3,9 @@ title: "Section 7084 - Chief of Veterinary Corps"
 usc_title: 10
 usc_section: "7084"
 chapter: 707
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7084"
-generated_at: "2026-11-23T21:07:03.566Z"
+generated_at: "2026-11-23T21:08:58.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2237 - Use of field work funds for employment of men with equipm
 usc_title: 7
 usc_section: "2237"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2237"
-generated_at: "2026-11-23T21:06:58.187Z"
+generated_at: "2026-11-23T21:08:53.928Z"
 status: "active"
 ---
 

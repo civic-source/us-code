@@ -3,9 +3,9 @@ title: "Section 139J - Certain contributions to Trump accounts"
 usc_title: 26
 usc_section: "139J"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 139J"
-generated_at: "2026-11-23T21:07:36.547Z"
+generated_at: "2026-11-23T21:09:24.605Z"
 status: "active"
 ---
 

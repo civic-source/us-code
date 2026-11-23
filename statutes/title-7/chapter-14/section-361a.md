@@ -3,9 +3,9 @@ title: "Section 361a - Congressional declaration of purpose; definitions"
 usc_title: 7
 usc_section: "361a"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 361a"
-generated_at: "2026-11-23T21:06:57.945Z"
+generated_at: "2026-11-23T21:08:53.690Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 486 - Uttering coins of gold, silver or other metal"
 usc_title: 18
 usc_section: "486"
 chapter: 25
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 486"
-generated_at: "2026-11-23T21:07:14.442Z"
+generated_at: "2026-11-23T21:09:06.514Z"
 status: "active"
 ---
 

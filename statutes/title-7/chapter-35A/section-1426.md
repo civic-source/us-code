@@ -3,9 +3,9 @@ title: "Section 1426 - Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I) , A
 usc_title: 7
 usc_section: "1426"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1426"
-generated_at: "2026-11-23T21:06:58.015Z"
+generated_at: "2026-11-23T21:08:53.766Z"
 status: "repealed"
 ---
 

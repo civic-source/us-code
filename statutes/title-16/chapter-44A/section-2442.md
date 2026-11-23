@@ -3,9 +3,9 @@ title: "Section 2442 - Relationship to existing treaties and statutes"
 usc_title: 16
 usc_section: "2442"
 chapter: 44
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 2442"
-generated_at: "2026-11-23T21:07:17.116Z"
+generated_at: "2026-11-23T21:09:12.349Z"
 status: "active"
 ---
 

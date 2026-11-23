@@ -3,9 +3,9 @@ title: "Section 8602 - Statement of policy"
 usc_title: 22
 usc_section: "8602"
 chapter: 93
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 8602"
-generated_at: "2026-11-23T21:07:27.761Z"
+generated_at: "2026-11-23T21:09:18.534Z"
 status: "active"
 ---
 

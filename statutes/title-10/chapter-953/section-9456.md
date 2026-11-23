@@ -3,9 +3,9 @@ title: "Section 9456 - Acceptance of guarantees with gifts for major projects"
 usc_title: 10
 usc_section: "9456"
 chapter: 953
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 9456"
-generated_at: "2026-11-23T21:07:03.818Z"
+generated_at: "2026-11-23T21:08:58.827Z"
 status: "active"
 ---
 

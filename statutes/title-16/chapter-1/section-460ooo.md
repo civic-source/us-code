@@ -3,9 +3,9 @@ title: "Section 460ooo - Definitions"
 usc_title: 16
 usc_section: "460ooo"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 460ooo"
-generated_at: "2026-11-23T21:07:16.781Z"
+generated_at: "2026-11-23T21:09:11.964Z"
 status: "active"
 ---
 

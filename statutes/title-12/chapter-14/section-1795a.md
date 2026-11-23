@@ -3,9 +3,9 @@ title: "Section 1795a - Definitions"
 usc_title: 12
 usc_section: "1795a"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 1795a"
-generated_at: "2026-11-23T21:07:08.406Z"
+generated_at: "2026-11-23T21:09:02.232Z"
 status: "active"
 ---
 

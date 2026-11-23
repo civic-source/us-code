@@ -3,9 +3,9 @@ title: "Section 1685 - Regulations"
 usc_title: 16
 usc_section: "1685"
 chapter: 36
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 1685"
-generated_at: "2026-11-23T21:07:17.075Z"
+generated_at: "2026-11-23T21:09:12.303Z"
 status: "active"
 ---
 

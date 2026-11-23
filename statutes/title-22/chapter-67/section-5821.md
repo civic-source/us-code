@@ -3,9 +3,9 @@ title: "Section 5821 - American Business Centers"
 usc_title: 22
 usc_section: "5821"
 chapter: 67
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 5821"
-generated_at: "2026-11-23T21:07:27.623Z"
+generated_at: "2026-11-23T21:09:18.457Z"
 status: "active"
 ---
 

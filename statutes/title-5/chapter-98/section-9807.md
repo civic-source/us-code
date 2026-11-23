@@ -3,9 +3,9 @@ title: "Section 9807 - Pay authority for critical positions"
 usc_title: 5
 usc_section: "9807"
 chapter: 98
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 9807"
-generated_at: "2026-11-23T21:06:53.078Z"
+generated_at: "2026-11-23T21:08:48.630Z"
 status: "active"
 ---
 

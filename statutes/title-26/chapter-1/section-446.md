@@ -3,9 +3,9 @@ title: "Section 446 - General rule for methods of accounting"
 usc_title: 26
 usc_section: "446"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 446"
-generated_at: "2026-11-23T21:07:36.775Z"
+generated_at: "2026-11-23T21:09:24.756Z"
 status: "active"
 ---
 

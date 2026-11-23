@@ -3,9 +3,9 @@ title: "Section 3146 - Definitions"
 usc_title: 22
 usc_section: "3146"
 chapter: 46
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 3146"
-generated_at: "2026-11-23T21:07:27.484Z"
+generated_at: "2026-11-23T21:09:18.383Z"
 status: "active"
 ---
 

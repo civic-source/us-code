@@ -3,9 +3,9 @@ title: "Section 10701 - Findings"
 usc_title: 22
 usc_section: "10701"
 chapter: 114
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 10701"
-generated_at: "2026-11-23T21:07:27.851Z"
+generated_at: "2026-11-23T21:09:18.586Z"
 status: "active"
 ---
 

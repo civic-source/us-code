@@ -3,9 +3,9 @@ title: "Section 44909 - Passenger manifests"
 usc_title: 49
 usc_section: "44909"
 chapter: 449
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 44909"
-generated_at: "2026-11-23T21:08:10.971Z"
+generated_at: "2026-11-23T21:09:52.101Z"
 status: "active"
 ---
 

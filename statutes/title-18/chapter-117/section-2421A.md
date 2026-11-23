@@ -3,9 +3,9 @@ title: "Section 2421A - Promotion or facilitation of prostitution and reckless d
 usc_title: 18
 usc_section: "2421A"
 chapter: 117
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 2421A"
-generated_at: "2026-11-23T21:07:14.573Z"
+generated_at: "2026-11-23T21:09:06.637Z"
 status: "active"
 ---
 

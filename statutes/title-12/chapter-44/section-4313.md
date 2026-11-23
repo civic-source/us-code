@@ -3,9 +3,9 @@ title: "Section 4313 - Definitions"
 usc_title: 12
 usc_section: "4313"
 chapter: 44
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 4313"
-generated_at: "2026-11-23T21:07:08.687Z"
+generated_at: "2026-11-23T21:09:02.381Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1326 - Reentry of removed aliens"
 usc_title: 8
 usc_section: "1326"
 chapter: 12
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "8 U.S.C. § 1326"
-generated_at: "2026-11-23T21:06:55.205Z"
+generated_at: "2026-11-23T21:08:51.395Z"
 status: "active"
 ---
 

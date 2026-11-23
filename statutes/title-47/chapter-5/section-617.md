@@ -3,9 +3,9 @@ title: "Section 617 - Access to advanced communications services and equipment"
 usc_title: 47
 usc_section: "617"
 chapter: 5
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "47 U.S.C. § 617"
-generated_at: "2026-11-23T21:08:06.261Z"
+generated_at: "2026-11-23T21:09:48.079Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 931g - Art. 131g. Wrongful interference with adverse administrat
 usc_title: 10
 usc_section: "931g"
 chapter: 47
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 931g"
-generated_at: "2026-11-23T21:07:03.028Z"
+generated_at: "2026-11-23T21:08:58.306Z"
 status: "active"
 ---
 

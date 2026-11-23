@@ -3,9 +3,9 @@ title: "Section 214 - Definitions"
 usc_title: 27
 usc_section: "214"
 chapter: 8
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "27 U.S.C. § 214"
-generated_at: "2026-11-23T21:07:29.116Z"
+generated_at: "2026-11-23T21:09:19.743Z"
 status: "active"
 ---
 

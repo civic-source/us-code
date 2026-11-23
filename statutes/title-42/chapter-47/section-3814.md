@@ -3,9 +3,9 @@ title: "Section 3814 - Omitted"
 usc_title: 42
 usc_section: "3814"
 chapter: 47
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 3814"
-generated_at: "2026-11-23T21:08:02.106Z"
+generated_at: "2026-11-23T21:09:43.019Z"
 status: "omitted"
 ---
 

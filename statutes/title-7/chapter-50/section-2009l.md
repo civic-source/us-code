@@ -3,9 +3,9 @@ title: "Section 2009l - Duties of Rural Economic and Community Development State
 usc_title: 7
 usc_section: "2009l"
 chapter: 50
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2009l"
-generated_at: "2026-11-23T21:06:58.128Z"
+generated_at: "2026-11-23T21:08:53.868Z"
 status: "active"
 ---
 

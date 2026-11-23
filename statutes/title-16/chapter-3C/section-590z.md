@@ -3,9 +3,9 @@ title: "Section 590z - Utilization of services, materials, funds, etc., of Feder
 usc_title: 16
 usc_section: "590z"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 590z"
-generated_at: "2026-11-23T21:07:16.853Z"
+generated_at: "2026-11-23T21:09:12.035Z"
 status: "active"
 ---
 

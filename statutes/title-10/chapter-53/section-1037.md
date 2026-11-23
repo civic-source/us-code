@@ -3,9 +3,9 @@ title: "Section 1037 - Counsel before foreign judicial tribunals and administrat
 usc_title: 10
 usc_section: "1037"
 chapter: 53
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 1037"
-generated_at: "2026-11-23T21:07:03.064Z"
+generated_at: "2026-11-23T21:08:58.324Z"
 status: "active"
 ---
 

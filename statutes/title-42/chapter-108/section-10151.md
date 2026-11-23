@@ -3,9 +3,9 @@ title: "Section 10151 - Findings and purposes"
 usc_title: 42
 usc_section: "10151"
 chapter: 108
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 10151"
-generated_at: "2026-11-23T21:08:02.753Z"
+generated_at: "2026-11-23T21:09:43.464Z"
 status: "active"
 ---
 

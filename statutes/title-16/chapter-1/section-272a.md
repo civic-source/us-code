@@ -3,9 +3,9 @@ title: "Section 272a - Acquisition of property"
 usc_title: 16
 usc_section: "272a"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 272a"
-generated_at: "2026-11-23T21:07:16.582Z"
+generated_at: "2026-11-23T21:09:11.739Z"
 status: "active"
 ---
 

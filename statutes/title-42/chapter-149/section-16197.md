@@ -3,9 +3,9 @@ title: "Section 16197 - Advanced Energy Technology Transfer Centers"
 usc_title: 42
 usc_section: "16197"
 chapter: 149
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 16197"
-generated_at: "2026-11-23T21:08:03.101Z"
+generated_at: "2026-11-23T21:09:43.686Z"
 status: "active"
 ---
 

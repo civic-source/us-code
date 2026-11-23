@@ -3,9 +3,9 @@ title: "Section 20102 - Congressional declaration of policy and purpose"
 usc_title: 51
 usc_section: "20102"
 chapter: 201
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "51 U.S.C. § 20102"
-generated_at: "2026-11-23T21:08:12.700Z"
+generated_at: "2026-11-23T21:09:54.032Z"
 status: "active"
 ---
 

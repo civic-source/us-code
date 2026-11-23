@@ -3,9 +3,9 @@ title: "Section 4 - Data standards"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-11-23T21:07:11.114Z"
+generated_at: "2026-11-23T21:09:03.960Z"
 status: "active"
 ---
 

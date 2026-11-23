@@ -3,9 +3,9 @@ title: "Section 7546 - Renewable fuel"
 usc_title: 42
 usc_section: "7546"
 chapter: 85
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7546"
-generated_at: "2026-11-23T21:08:02.505Z"
+generated_at: "2026-11-23T21:09:43.316Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5871 - Repealed. Pub. L. 107–110, title X, § 1011(4)(A) , Jan
 usc_title: 20
 usc_section: "5871"
 chapter: 68
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 5871"
-generated_at: "2026-11-23T21:07:20.604Z"
+generated_at: "2026-11-23T21:09:09.419Z"
 status: "repealed"
 ---
 

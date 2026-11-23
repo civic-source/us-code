@@ -3,9 +3,9 @@ title: "Section 225 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)
 usc_title: 10
 usc_section: "225"
 chapter: 9
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 225"
-generated_at: "2026-11-23T21:07:02.824Z"
+generated_at: "2026-11-23T21:08:58.202Z"
 status: "repealed"
 ---
 

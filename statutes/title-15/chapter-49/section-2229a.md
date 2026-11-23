@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-11-23T21:07:11.444Z"
+generated_at: "2026-11-23T21:09:04.255Z"
 status: "active"
 ---
 

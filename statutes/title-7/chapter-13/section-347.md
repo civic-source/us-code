@@ -3,9 +3,9 @@ title: "Section 347 - Repealed. Pub. L. 86–533, § 1(21) , June 29, 1960 , 74 
 usc_title: 7
 usc_section: "347"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 347"
-generated_at: "2026-11-23T21:06:57.944Z"
+generated_at: "2026-11-23T21:08:53.689Z"
 status: "repealed"
 ---
 

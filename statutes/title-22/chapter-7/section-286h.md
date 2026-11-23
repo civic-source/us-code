@@ -3,9 +3,9 @@ title: "Section 286h - Status, privileges, and immunities of the United States"
 usc_title: 22
 usc_section: "286h"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 286h"
-generated_at: "2026-11-23T21:07:27.125Z"
+generated_at: "2026-11-23T21:09:18.186Z"
 status: "active"
 ---
 

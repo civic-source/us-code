@@ -3,9 +3,9 @@ title: "Section 5896 - Repealed. Pub. L. 104–134, title I, § 101(d) [title VI
 usc_title: 20
 usc_section: "5896"
 chapter: 68
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 5896"
-generated_at: "2026-11-23T21:07:20.606Z"
+generated_at: "2026-11-23T21:09:09.420Z"
 status: "repealed"
 ---
 

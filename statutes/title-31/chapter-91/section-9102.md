@@ -3,9 +3,9 @@ title: "Section 9102 - Establishing and acquiring corporations"
 usc_title: 31
 usc_section: "9102"
 chapter: 91
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "31 U.S.C. § 9102"
-generated_at: "2026-11-23T21:07:40.215Z"
+generated_at: "2026-11-23T21:09:27.823Z"
 status: "active"
 ---
 

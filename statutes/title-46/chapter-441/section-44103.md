@@ -3,9 +3,9 @@ title: "Section 44103 - Financial responsibility to pay liability for death or i
 usc_title: 46
 usc_section: "44103"
 chapter: 441
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 44103"
-generated_at: "2026-11-23T21:08:07.219Z"
+generated_at: "2026-11-23T21:09:47.403Z"
 status: "active"
 ---
 

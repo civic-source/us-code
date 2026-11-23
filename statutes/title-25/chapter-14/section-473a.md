@@ -3,9 +3,9 @@ title: "Section 473a - Transferred"
 usc_title: 25
 usc_section: "473a"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "25 U.S.C. § 473a"
-generated_at: "2026-11-23T21:07:24.078Z"
+generated_at: "2026-11-23T21:09:16.280Z"
 status: "transferred"
 ---
 

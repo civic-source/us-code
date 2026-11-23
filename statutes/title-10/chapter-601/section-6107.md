@@ -3,9 +3,9 @@ title: "Section 6107 - Establishment of Center for Security Technology, Analysis
 usc_title: 10
 usc_section: "6107"
 chapter: 601
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6107"
-generated_at: "2026-11-23T21:07:03.520Z"
+generated_at: "2026-11-23T21:08:58.669Z"
 status: "active"
 ---
 

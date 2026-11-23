@@ -3,9 +3,9 @@ title: "Section 6181 - Estimation of costs of meeting defense environmental clea
 usc_title: 10
 usc_section: "6181"
 chapter: 604
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6181"
-generated_at: "2026-11-23T21:07:03.532Z"
+generated_at: "2026-11-23T21:08:58.678Z"
 status: "active"
 ---
 

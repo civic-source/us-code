@@ -3,9 +3,9 @@ title: "Section 698 - Big Thicket National Preserve"
 usc_title: 16
 usc_section: "698"
 chapter: 6
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 698"
-generated_at: "2026-11-23T21:07:16.884Z"
+generated_at: "2026-11-23T21:09:12.081Z"
 status: "active"
 ---
 

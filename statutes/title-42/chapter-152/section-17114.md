@@ -3,9 +3,9 @@ title: "Section 17114 - Industrial Technology Innovation Advisory Committee"
 usc_title: 42
 usc_section: "17114"
 chapter: 152
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 17114"
-generated_at: "2026-11-23T21:08:03.180Z"
+generated_at: "2026-11-23T21:09:43.739Z"
 status: "active"
 ---
 

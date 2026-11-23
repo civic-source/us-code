@@ -3,9 +3,9 @@ title: "Section 3001 - Defense acquisition system; element of the defense acquis
 usc_title: 10
 usc_section: "3001"
 chapter: 201
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3001"
-generated_at: "2026-11-23T21:07:03.407Z"
+generated_at: "2026-11-23T21:08:58.582Z"
 status: "active"
 ---
 

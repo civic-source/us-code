@@ -3,9 +3,9 @@ title: "Section 2247 - Federal Reclamation laws"
 usc_title: 43
 usc_section: "2247"
 chapter: 40
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "43 U.S.C. § 2247"
-generated_at: "2026-11-23T21:07:50.266Z"
+generated_at: "2026-11-23T21:09:35.612Z"
 status: "active"
 ---
 

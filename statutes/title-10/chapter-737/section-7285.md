@@ -3,9 +3,9 @@ title: "Section 7285 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "7285"
 chapter: 737
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7285"
-generated_at: "2026-11-23T21:07:03.579Z"
+generated_at: "2026-11-23T21:08:58.700Z"
 status: "active"
 ---
 

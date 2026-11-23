@@ -3,9 +3,9 @@ title: "Section 51326 - Student advisory board at the United States Merchant Mar
 usc_title: 46
 usc_section: "51326"
 chapter: 513
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 51326"
-generated_at: "2026-11-23T21:08:07.238Z"
+generated_at: "2026-11-23T21:09:47.433Z"
 status: "active"
 ---
 

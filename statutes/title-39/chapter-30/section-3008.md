@@ -3,9 +3,9 @@ title: "Section 3008 - Prohibition of pandering advertisements"
 usc_title: 39
 usc_section: "3008"
 chapter: 30
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "39 U.S.C. § 3008"
-generated_at: "2026-11-23T21:07:43.832Z"
+generated_at: "2026-11-23T21:09:32.384Z"
 status: "active"
 ---
 

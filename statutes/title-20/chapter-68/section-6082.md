@@ -3,9 +3,9 @@ title: "Section 6082 - Definitions"
 usc_title: 20
 usc_section: "6082"
 chapter: 68
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 6082"
-generated_at: "2026-11-23T21:07:20.611Z"
+generated_at: "2026-11-23T21:09:09.422Z"
 status: "active"
 ---
 

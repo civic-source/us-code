@@ -3,9 +3,9 @@ title: "Section 1 - Federal Permitting Improvement Steering Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:08:02.138Z"
+generated_at: "2026-11-23T21:09:43.052Z"
 status: "active"
 ---
 

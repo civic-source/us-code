@@ -3,9 +3,9 @@ title: "Section 8550 - Improvements to Cooperative Observer Program of National 
 usc_title: 15
 usc_section: "8550"
 chapter: 111
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 8550"
-generated_at: "2026-11-23T21:07:11.602Z"
+generated_at: "2026-11-23T21:09:04.390Z"
 status: "active"
 ---
 

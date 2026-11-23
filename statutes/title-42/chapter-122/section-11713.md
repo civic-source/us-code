@@ -3,9 +3,9 @@ title: "Section 11713 - Compliance with Budget Act"
 usc_title: 42
 usc_section: "11713"
 chapter: 122
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 11713"
-generated_at: "2026-11-23T21:08:02.850Z"
+generated_at: "2026-11-23T21:09:43.521Z"
 status: "active"
 ---
 

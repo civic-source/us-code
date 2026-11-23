@@ -3,9 +3,9 @@ title: "Section 688a - Authority to order to active duty in high-demand, low-den
 usc_title: 10
 usc_section: "688a"
 chapter: 39
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 688a"
-generated_at: "2026-11-23T21:07:02.941Z"
+generated_at: "2026-11-23T21:08:58.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 813 - Inspections, investigations, and recordkeeping"
 usc_title: 30
 usc_section: "813"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 813"
-generated_at: "2026-11-23T21:07:29.534Z"
+generated_at: "2026-11-23T21:09:20.061Z"
 status: "active"
 ---
 

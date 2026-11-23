@@ -3,9 +3,9 @@ title: "Section 722 - Urban Search and Rescue Response System"
 usc_title: 6
 usc_section: "722"
 chapter: 2
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "6 U.S.C. § 722"
-generated_at: "2026-11-23T21:06:55.968Z"
+generated_at: "2026-11-23T21:08:50.474Z"
 status: "active"
 ---
 

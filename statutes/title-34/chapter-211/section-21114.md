@@ -3,9 +3,9 @@ title: "Section 21114 - Duties and functions of task forces"
 usc_title: 34
 usc_section: "21114"
 chapter: 211
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 21114"
-generated_at: "2026-11-23T21:07:41.077Z"
+generated_at: "2026-11-23T21:09:27.220Z"
 status: "active"
 ---
 

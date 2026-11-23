@@ -3,9 +3,9 @@ title: "Section 1822 - Jurisdiction of District Court; original jurisdiction; pr
 usc_title: 48
 usc_section: "1822"
 chapter: 17
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "48 U.S.C. § 1822"
-generated_at: "2026-11-23T21:08:05.365Z"
+generated_at: "2026-11-23T21:09:46.429Z"
 status: "active"
 ---
 

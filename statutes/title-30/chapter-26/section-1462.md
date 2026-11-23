@@ -3,9 +3,9 @@ title: "Section 1462 - Civil penalties"
 usc_title: 30
 usc_section: "1462"
 chapter: 26
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "30 U.S.C. § 1462"
-generated_at: "2026-11-23T21:07:29.607Z"
+generated_at: "2026-11-23T21:09:20.102Z"
 status: "active"
 ---
 

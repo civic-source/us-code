@@ -3,9 +3,9 @@ title: "Section 3305 - Construction and alteration of buildings"
 usc_title: 40
 usc_section: "3305"
 chapter: 33
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "40 U.S.C. § 3305"
-generated_at: "2026-11-23T21:07:44.853Z"
+generated_at: "2026-11-23T21:09:32.718Z"
 status: "active"
 ---
 

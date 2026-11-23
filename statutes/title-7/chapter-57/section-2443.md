@@ -3,9 +3,9 @@ title: "Section 2443 - Initial appeal"
 usc_title: 7
 usc_section: "2443"
 chapter: 57
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2443"
-generated_at: "2026-11-23T21:06:58.199Z"
+generated_at: "2026-11-23T21:08:53.939Z"
 status: "active"
 ---
 

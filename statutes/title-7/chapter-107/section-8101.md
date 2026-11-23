@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 7
 usc_section: "8101"
 chapter: 107
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 8101"
-generated_at: "2026-11-23T21:06:58.372Z"
+generated_at: "2026-11-23T21:08:54.090Z"
 status: "active"
 ---
 

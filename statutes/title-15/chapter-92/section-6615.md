@@ -3,9 +3,9 @@ title: "Section 6615 - Applicability of State law"
 usc_title: 15
 usc_section: "6615"
 chapter: 92
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 6615"
-generated_at: "2026-11-23T21:07:11.552Z"
+generated_at: "2026-11-23T21:09:04.349Z"
 status: "active"
 ---
 

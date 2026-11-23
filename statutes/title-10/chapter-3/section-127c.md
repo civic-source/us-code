@@ -3,9 +3,9 @@ title: "Section 127c - Purchase of weapons overseas: force protection"
 usc_title: 10
 usc_section: "127c"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 127c"
-generated_at: "2026-11-23T21:07:02.770Z"
+generated_at: "2026-11-23T21:08:58.167Z"
 status: "active"
 ---
 

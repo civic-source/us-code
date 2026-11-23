@@ -3,9 +3,9 @@ title: "Section 11117 - Annual report"
 usc_title: 34
 usc_section: "11117"
 chapter: 111
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 11117"
-generated_at: "2026-11-23T21:07:40.974Z"
+generated_at: "2026-11-23T21:09:27.151Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5553 - Provision of information on flight testing of ground-base
 usc_title: 10
 usc_section: "5553"
 chapter: 551
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 5553"
-generated_at: "2026-11-23T21:07:03.518Z"
+generated_at: "2026-11-23T21:08:58.668Z"
 status: "active"
 ---
 

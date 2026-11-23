@@ -3,9 +3,9 @@ title: "Section 2297a - Repealed. Pub. L. 104–134, title III, § 3116(a)(1) , 
 usc_title: 42
 usc_section: "2297a"
 chapter: 23
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2297a"
-generated_at: "2026-11-23T21:08:01.975Z"
+generated_at: "2026-11-23T21:09:42.923Z"
 status: "repealed"
 ---
 

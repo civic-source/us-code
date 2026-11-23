@@ -3,9 +3,9 @@ title: "Section 4346 - Tenure and compensation of members"
 usc_title: 42
 usc_section: "4346"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 4346"
-generated_at: "2026-11-23T21:08:02.134Z"
+generated_at: "2026-11-23T21:09:43.048Z"
 status: "active"
 ---
 

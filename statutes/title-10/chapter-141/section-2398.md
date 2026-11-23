@@ -3,9 +3,9 @@ title: "Section 2398 - Renumbered § 2922c]"
 usc_title: 10
 usc_section: "2398"
 chapter: 141
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2398"
-generated_at: "2026-11-23T21:07:03.301Z"
+generated_at: "2026-11-23T21:08:58.498Z"
 status: "renumbered"
 ---
 

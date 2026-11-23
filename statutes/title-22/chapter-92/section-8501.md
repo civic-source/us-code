@@ -3,9 +3,9 @@ title: "Section 8501 - Findings"
 usc_title: 22
 usc_section: "8501"
 chapter: 92
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 8501"
-generated_at: "2026-11-23T21:07:27.750Z"
+generated_at: "2026-11-23T21:09:18.528Z"
 status: "active"
 ---
 

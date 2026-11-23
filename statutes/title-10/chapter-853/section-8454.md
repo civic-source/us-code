@@ -3,9 +3,9 @@ title: "Section 8454 - Midshipmen: appointment; numbers, territorial distributio
 usc_title: 10
 usc_section: "8454"
 chapter: 853
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8454"
-generated_at: "2026-11-23T21:07:03.687Z"
+generated_at: "2026-11-23T21:08:58.761Z"
 status: "active"
 ---
 

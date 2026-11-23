@@ -3,9 +3,9 @@ title: "Section 7033 - Availability of agency information technology funds"
 usc_title: 7
 usc_section: "7033"
 chapter: 98
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 7033"
-generated_at: "2026-11-23T21:06:58.324Z"
+generated_at: "2026-11-23T21:08:54.043Z"
 status: "active"
 ---
 

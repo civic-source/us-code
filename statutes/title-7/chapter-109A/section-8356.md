@@ -3,9 +3,9 @@ title: "Section 8356 - Depredation permits for black vultures and common ravens;
 usc_title: 7
 usc_section: "8356"
 chapter: 109
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 8356"
-generated_at: "2026-11-23T21:06:58.389Z"
+generated_at: "2026-11-23T21:08:54.100Z"
 status: "active"
 ---
 

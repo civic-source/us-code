@@ -3,9 +3,9 @@ title: "Section 6907 - Applications for assistance"
 usc_title: 15
 usc_section: "6907"
 chapter: 95
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 6907"
-generated_at: "2026-11-23T21:07:11.564Z"
+generated_at: "2026-11-23T21:09:04.357Z"
 status: "active"
 ---
 

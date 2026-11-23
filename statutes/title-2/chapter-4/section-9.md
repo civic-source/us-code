@@ -3,9 +3,9 @@ title: "Section 9 - Transferred"
 usc_title: 2
 usc_section: "9"
 chapter: 4
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 9"
-generated_at: "2026-11-23T21:06:50.528Z"
+generated_at: "2026-11-23T21:08:46.502Z"
 status: "transferred"
 ---
 

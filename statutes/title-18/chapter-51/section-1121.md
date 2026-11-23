@@ -3,9 +3,9 @@ title: "Section 1121 - Killing persons aiding Federal investigations or State co
 usc_title: 18
 usc_section: "1121"
 chapter: 51
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 1121"
-generated_at: "2026-11-23T21:07:14.501Z"
+generated_at: "2026-11-23T21:09:06.560Z"
 status: "active"
 ---
 

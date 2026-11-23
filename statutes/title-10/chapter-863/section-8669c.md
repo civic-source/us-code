@@ -3,9 +3,9 @@ title: "Section 8669c - Assessments required prior to start of construction on f
 usc_title: 10
 usc_section: "8669c"
 chapter: 863
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8669c"
-generated_at: "2026-11-23T21:07:03.720Z"
+generated_at: "2026-11-23T21:08:58.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 351 - Transfer to corporation controlled by transferor"
 usc_title: 26
 usc_section: "351"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 351"
-generated_at: "2026-11-23T21:07:36.684Z"
+generated_at: "2026-11-23T21:09:24.688Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4612 - Definitions and special rules"
 usc_title: 26
 usc_section: "4612"
 chapter: 38
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 4612"
-generated_at: "2026-11-23T21:07:37.206Z"
+generated_at: "2026-11-23T21:09:24.998Z"
 status: "active"
 ---
 

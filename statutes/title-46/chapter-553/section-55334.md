@@ -3,9 +3,9 @@ title: "Section 55334 - Restrictions on operations"
 usc_title: 46
 usc_section: "55334"
 chapter: 553
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "46 U.S.C. § 55334"
-generated_at: "2026-11-23T21:08:07.285Z"
+generated_at: "2026-11-23T21:09:47.476Z"
 status: "active"
 ---
 

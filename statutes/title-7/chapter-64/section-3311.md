@@ -3,9 +3,9 @@ title: "Section 3311 - Authorization of appropriations"
 usc_title: 7
 usc_section: "3311"
 chapter: 64
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 3311"
-generated_at: "2026-11-23T21:06:58.232Z"
+generated_at: "2026-11-23T21:08:53.968Z"
 status: "active"
 ---
 

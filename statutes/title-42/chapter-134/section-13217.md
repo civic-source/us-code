@@ -3,9 +3,9 @@ title: "Section 13217 - Measurement of alternative fuel use"
 usc_title: 42
 usc_section: "13217"
 chapter: 134
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 13217"
-generated_at: "2026-11-23T21:08:02.976Z"
+generated_at: "2026-11-23T21:09:43.593Z"
 status: "active"
 ---
 

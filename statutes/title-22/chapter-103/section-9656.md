@@ -3,9 +3,9 @@ title: "Section 9656 - Notifications to be provided by the Corporation"
 usc_title: 22
 usc_section: "9656"
 chapter: 103
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 9656"
-generated_at: "2026-11-23T21:07:27.824Z"
+generated_at: "2026-11-23T21:09:18.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1079d - Repealed. Pub. L. 96–465, title II, § 2205(13) , Oct.
 usc_title: 22
 usc_section: "1079d"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 1079d"
-generated_at: "2026-11-23T21:07:27.177Z"
+generated_at: "2026-11-23T21:09:18.214Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8348 - Civil Service Retirement and Disability Fund"
 usc_title: 5
 usc_section: "8348"
 chapter: 83
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 8348"
-generated_at: "2026-11-23T21:06:52.980Z"
+generated_at: "2026-11-23T21:08:48.578Z"
 status: "active"
 ---
 

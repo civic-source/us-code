@@ -3,9 +3,9 @@ title: "Section 8701 - Transferred"
 usc_title: 20
 usc_section: "8701"
 chapter: 70
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 8701"
-generated_at: "2026-11-23T21:07:20.746Z"
+generated_at: "2026-11-23T21:09:09.498Z"
 status: "transferred"
 ---
 

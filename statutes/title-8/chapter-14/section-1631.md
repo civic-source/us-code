@@ -3,9 +3,9 @@ title: "Section 1631 - Federal attribution of sponsor’s income and resources t
 usc_title: 8
 usc_section: "1631"
 chapter: 14
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "8 U.S.C. § 1631"
-generated_at: "2026-11-23T21:06:55.257Z"
+generated_at: "2026-11-23T21:08:51.436Z"
 status: "active"
 ---
 

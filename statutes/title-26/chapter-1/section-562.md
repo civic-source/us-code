@@ -3,9 +3,9 @@ title: "Section 562 - Rules applicable in determining dividends eligible for div
 usc_title: 26
 usc_section: "562"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 562"
-generated_at: "2026-11-23T21:07:36.837Z"
+generated_at: "2026-11-23T21:09:24.794Z"
 status: "active"
 ---
 

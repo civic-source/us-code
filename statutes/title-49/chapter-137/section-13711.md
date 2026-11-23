@@ -3,9 +3,9 @@ title: "Section 13711 - Alternative procedure for resolving undercharge disputes
 usc_title: 49
 usc_section: "13711"
 chapter: 137
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 13711"
-generated_at: "2026-11-23T21:08:10.557Z"
+generated_at: "2026-11-23T21:09:51.842Z"
 status: "active"
 ---
 

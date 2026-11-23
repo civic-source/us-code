@@ -3,9 +3,9 @@ title: "Section 1752 - Benefit for broadband service"
 usc_title: 47
 usc_section: "1752"
 chapter: 16
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "47 U.S.C. § 1752"
-generated_at: "2026-11-23T21:08:06.307Z"
+generated_at: "2026-11-23T21:09:48.123Z"
 status: "active"
 ---
 

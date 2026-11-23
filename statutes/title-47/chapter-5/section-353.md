@@ -3,9 +3,9 @@ title: "Section 353 - Radio equipment and operators"
 usc_title: 47
 usc_section: "353"
 chapter: 5
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "47 U.S.C. § 353"
-generated_at: "2026-11-23T21:08:06.236Z"
+generated_at: "2026-11-23T21:09:48.038Z"
 status: "active"
 ---
 

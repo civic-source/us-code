@@ -3,9 +3,9 @@ title: "Section 2351 - Finding; policy"
 usc_title: 21
 usc_section: "2351"
 chapter: 28
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "21 U.S.C. § 2351"
-generated_at: "2026-11-23T21:07:25.213Z"
+generated_at: "2026-11-23T21:09:15.666Z"
 status: "active"
 ---
 

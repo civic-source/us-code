@@ -3,9 +3,9 @@ title: "Section 5370 - Safe harbor"
 usc_title: 12
 usc_section: "5370"
 chapter: 53
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "12 U.S.C. § 5370"
-generated_at: "2026-11-23T21:07:08.781Z"
+generated_at: "2026-11-23T21:09:02.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 663 - Federal intrusion detection and prevention system"
 usc_title: 6
 usc_section: "663"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "6 U.S.C. § 663"
-generated_at: "2026-11-23T21:06:55.957Z"
+generated_at: "2026-11-23T21:08:50.459Z"
 status: "active"
 ---
 

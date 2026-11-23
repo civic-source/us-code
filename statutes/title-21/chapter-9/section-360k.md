@@ -3,9 +3,9 @@ title: "Section 360k - State and local requirements respecting devices"
 usc_title: 21
 usc_section: "360k"
 chapter: 9
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "21 U.S.C. § 360k"
-generated_at: "2026-11-23T21:07:25.079Z"
+generated_at: "2026-11-23T21:09:15.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1625 - Interpretive rulings and decisions; public information"
 usc_title: 19
 usc_section: "1625"
 chapter: 4
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 1625"
-generated_at: "2026-11-23T21:07:18.230Z"
+generated_at: "2026-11-23T21:09:07.772Z"
 status: "active"
 ---
 

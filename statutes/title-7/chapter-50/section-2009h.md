@@ -3,9 +3,9 @@ title: "Section 2009h - Local involvement"
 usc_title: 7
 usc_section: "2009h"
 chapter: 50
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2009h"
-generated_at: "2026-11-23T21:06:58.128Z"
+generated_at: "2026-11-23T21:08:53.868Z"
 status: "active"
 ---
 

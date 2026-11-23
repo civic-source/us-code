@@ -3,9 +3,9 @@ title: "Section 540A - Investigation of violent crimes against travelers"
 usc_title: 28
 usc_section: "540A"
 chapter: 33
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "28 U.S.C. § 540A"
-generated_at: "2026-11-23T21:07:30.560Z"
+generated_at: "2026-11-23T21:09:20.813Z"
 status: "active"
 ---
 

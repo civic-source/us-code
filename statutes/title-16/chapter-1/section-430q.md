@@ -3,9 +3,9 @@ title: "Section 430q - Offenses"
 usc_title: 16
 usc_section: "430q"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 430q"
-generated_at: "2026-11-23T21:07:16.684Z"
+generated_at: "2026-11-23T21:09:11.849Z"
 status: "active"
 ---
 

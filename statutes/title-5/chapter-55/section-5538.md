@@ -3,9 +3,9 @@ title: "Section 5538 - Nonreduction in pay while serving in the uniformed servic
 usc_title: 5
 usc_section: "5538"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "5 U.S.C. § 5538"
-generated_at: "2026-11-23T21:06:52.782Z"
+generated_at: "2026-11-23T21:08:48.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7296 - Retirement of judges"
 usc_title: 38
 usc_section: "7296"
 chapter: 72
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 7296"
-generated_at: "2026-11-23T21:07:47.508Z"
+generated_at: "2026-11-23T21:09:32.154Z"
 status: "active"
 ---
 

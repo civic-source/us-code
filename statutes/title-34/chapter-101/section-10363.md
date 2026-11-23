@@ -3,9 +3,9 @@ title: "Section 10363 - Review of State applications"
 usc_title: 34
 usc_section: "10363"
 chapter: 101
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 10363"
-generated_at: "2026-11-23T21:07:40.943Z"
+generated_at: "2026-11-23T21:09:27.119Z"
 status: "active"
 ---
 

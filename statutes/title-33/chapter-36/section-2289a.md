@@ -3,9 +3,9 @@ title: "Section 2289a - Consideration of measures"
 usc_title: 33
 usc_section: "2289a"
 chapter: 36
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 2289a"
-generated_at: "2026-11-23T21:07:42.337Z"
+generated_at: "2026-11-23T21:09:28.616Z"
 status: "active"
 ---
 

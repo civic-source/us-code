@@ -3,9 +3,9 @@ title: "Section 6211 - Accelerated schedule for isolating high-level nuclear was
 usc_title: 10
 usc_section: "6211"
 chapter: 604
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 6211"
-generated_at: "2026-11-23T21:07:03.533Z"
+generated_at: "2026-11-23T21:08:58.678Z"
 status: "active"
 ---
 

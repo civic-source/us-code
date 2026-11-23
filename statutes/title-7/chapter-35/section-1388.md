@@ -3,9 +3,9 @@ title: "Section 1388 - Utilization of local agencies"
 usc_title: 7
 usc_section: "1388"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1388"
-generated_at: "2026-11-23T21:06:58.013Z"
+generated_at: "2026-11-23T21:08:53.764Z"
 status: "active"
 ---
 

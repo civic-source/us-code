@@ -3,9 +3,9 @@ title: "Section 1967 - United States release from liability"
 usc_title: 33
 usc_section: "1967"
 chapter: 33
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 1967"
-generated_at: "2026-11-23T21:07:42.313Z"
+generated_at: "2026-11-23T21:09:28.599Z"
 status: "active"
 ---
 

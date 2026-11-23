@@ -3,9 +3,9 @@ title: "Section 1571 - Purposes"
 usc_title: 8
 usc_section: "1571"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "8 U.S.C. § 1571"
-generated_at: "2026-11-23T21:06:55.252Z"
+generated_at: "2026-11-23T21:08:51.433Z"
 status: "active"
 ---
 

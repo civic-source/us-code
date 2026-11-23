@@ -3,9 +3,9 @@ title: "Section 193 - Administration of arboretum"
 usc_title: 20
 usc_section: "193"
 chapter: 11
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 193"
-generated_at: "2026-11-23T21:07:20.190Z"
+generated_at: "2026-11-23T21:09:09.175Z"
 status: "active"
 ---
 

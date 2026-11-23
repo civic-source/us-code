@@ -3,9 +3,9 @@ title: "Section 1371 - Study and recommendations regarding General Accounting Of
 usc_title: 2
 usc_section: "1371"
 chapter: 24
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-11-23T21:06:50.593Z"
+generated_at: "2026-11-23T21:08:46.628Z"
 status: "active"
 ---
 

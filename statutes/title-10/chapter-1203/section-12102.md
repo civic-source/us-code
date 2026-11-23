@@ -3,9 +3,9 @@ title: "Section 12102 - Reserve components: qualifications"
 usc_title: 10
 usc_section: "12102"
 chapter: 1203
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 12102"
-generated_at: "2026-11-23T21:07:03.874Z"
+generated_at: "2026-11-23T21:08:58.853Z"
 status: "active"
 ---
 

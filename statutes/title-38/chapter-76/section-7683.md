@@ -3,9 +3,9 @@ title: "Section 7683 - Education debt reduction"
 usc_title: 38
 usc_section: "7683"
 chapter: 76
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "38 U.S.C. § 7683"
-generated_at: "2026-11-23T21:07:47.541Z"
+generated_at: "2026-11-23T21:09:32.181Z"
 status: "active"
 ---
 

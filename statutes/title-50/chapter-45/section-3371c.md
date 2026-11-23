@@ -3,9 +3,9 @@ title: "Section 3371c - Notification of significant foreign cyber intrusions and
 usc_title: 50
 usc_section: "3371c"
 chapter: 45
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 3371c"
-generated_at: "2026-11-23T21:08:08.404Z"
+generated_at: "2026-11-23T21:09:49.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances 
 usc_title: 10
 usc_section: "2714"
 chapter: 160
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2714"
-generated_at: "2026-11-23T21:07:03.364Z"
+generated_at: "2026-11-23T21:08:58.544Z"
 status: "active"
 ---
 

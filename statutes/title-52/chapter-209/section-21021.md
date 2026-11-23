@@ -3,9 +3,9 @@ title: "Section 21021 - Payments to States and units of local government to assu
 usc_title: 52
 usc_section: "21021"
 chapter: 209
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "52 U.S.C. § 21021"
-generated_at: "2026-11-23T21:08:12.998Z"
+generated_at: "2026-11-23T21:09:53.575Z"
 status: "active"
 ---
 

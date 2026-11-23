@@ -3,9 +3,9 @@ title: "Section 7540 - Architectural and engineering services"
 usc_title: 10
 usc_section: "7540"
 chapter: 763
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 7540"
-generated_at: "2026-11-23T21:07:03.612Z"
+generated_at: "2026-11-23T21:08:58.719Z"
 status: "active"
 ---
 

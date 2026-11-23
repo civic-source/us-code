@@ -3,9 +3,9 @@ title: "Section 4561 - Authorization of appropriations; availability of funds"
 usc_title: 50
 usc_section: "4561"
 chapter: 55
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 4561"
-generated_at: "2026-11-23T21:08:08.504Z"
+generated_at: "2026-11-23T21:09:49.472Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40507 - Principal office"
 usc_title: 36
 usc_section: "40507"
 chapter: 405
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 40507"
-generated_at: "2026-11-23T21:07:45.596Z"
+generated_at: "2026-11-23T21:09:30.932Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1082 - Gambling ships"
 usc_title: 18
 usc_section: "1082"
 chapter: 50
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 1082"
-generated_at: "2026-11-23T21:07:14.497Z"
+generated_at: "2026-11-23T21:09:06.558Z"
 status: "active"
 ---
 

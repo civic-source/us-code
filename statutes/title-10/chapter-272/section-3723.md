@@ -3,9 +3,9 @@ title: "Section 3723 - [Reserved]"
 usc_title: 10
 usc_section: "3723"
 chapter: 272
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3723"
-generated_at: "2026-11-23T21:07:03.439Z"
+generated_at: "2026-11-23T21:08:58.606Z"
 status: "reserved"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1426 - Powers, duties, and responsibilities of the First Respond
 usc_title: 47
 usc_section: "1426"
 chapter: 13
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "47 U.S.C. § 1426"
-generated_at: "2026-11-23T21:08:06.288Z"
+generated_at: "2026-11-23T21:09:48.102Z"
 status: "active"
 ---
 

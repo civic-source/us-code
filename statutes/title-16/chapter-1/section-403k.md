@@ -3,9 +3,9 @@ title: "Section 403k - Boundary between Great Smoky Mountains National Park and 
 usc_title: 16
 usc_section: "403k"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 403k"
-generated_at: "2026-11-23T21:07:16.600Z"
+generated_at: "2026-11-23T21:09:11.766Z"
 status: "active"
 ---
 

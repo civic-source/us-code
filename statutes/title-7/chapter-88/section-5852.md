@@ -3,9 +3,9 @@ title: "Section 5852 - Agricultural Weather Office"
 usc_title: 7
 usc_section: "5852"
 chapter: 88
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 5852"
-generated_at: "2026-11-23T21:06:58.278Z"
+generated_at: "2026-11-23T21:08:54.005Z"
 status: "active"
 ---
 

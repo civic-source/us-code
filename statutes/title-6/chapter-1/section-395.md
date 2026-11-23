@@ -3,9 +3,9 @@ title: "Section 395 - Prohibition on contracts with corporate expatriates"
 usc_title: 6
 usc_section: "395"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "6 U.S.C. § 395"
-generated_at: "2026-11-23T21:06:55.921Z"
+generated_at: "2026-11-23T21:08:50.427Z"
 status: "active"
 ---
 

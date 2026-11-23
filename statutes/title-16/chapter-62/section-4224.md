@@ -3,9 +3,9 @@ title: "Section 4224 - Penalties and enforcement"
 usc_title: 16
 usc_section: "4224"
 chapter: 62
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 4224"
-generated_at: "2026-11-23T21:07:17.186Z"
+generated_at: "2026-11-23T21:09:12.410Z"
 status: "active"
 ---
 

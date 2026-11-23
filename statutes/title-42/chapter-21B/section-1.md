@@ -3,9 +3,9 @@ title: "Section 1 - Free exercise of religion protected"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:08:01.922Z"
+generated_at: "2026-11-23T21:09:42.866Z"
 status: "active"
 ---
 

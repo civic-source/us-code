@@ -3,9 +3,9 @@ title: "Section 2765 - Annual estimate and justification for sales program"
 usc_title: 22
 usc_section: "2765"
 chapter: 39
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 2765"
-generated_at: "2026-11-23T21:07:27.453Z"
+generated_at: "2026-11-23T21:09:18.366Z"
 status: "active"
 ---
 

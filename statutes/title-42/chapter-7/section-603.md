@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-11-23T21:08:01.094Z"
+generated_at: "2026-11-23T21:09:42.244Z"
 status: "active"
 ---
 

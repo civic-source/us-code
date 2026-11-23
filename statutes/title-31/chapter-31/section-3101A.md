@@ -3,9 +3,9 @@ title: "Section 3101A - Presidential modification of the debt ceiling"
 usc_title: 31
 usc_section: "3101A"
 chapter: 31
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "31 U.S.C. § 3101A"
-generated_at: "2026-11-23T21:07:40.057Z"
+generated_at: "2026-11-23T21:09:27.741Z"
 status: "active"
 ---
 

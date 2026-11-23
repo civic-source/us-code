@@ -3,9 +3,9 @@ title: "Section 2906 - Requirement of referendum"
 usc_title: 7
 usc_section: "2906"
 chapter: 62
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 2906"
-generated_at: "2026-11-23T21:06:58.211Z"
+generated_at: "2026-11-23T21:08:53.951Z"
 status: "active"
 ---
 

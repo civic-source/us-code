@@ -3,9 +3,9 @@ title: "Section 1912 - Submission of legislative proposals"
 usc_title: 7
 usc_section: "1912"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1912"
-generated_at: "2026-11-23T21:06:58.093Z"
+generated_at: "2026-11-23T21:08:53.836Z"
 status: "active"
 ---
 

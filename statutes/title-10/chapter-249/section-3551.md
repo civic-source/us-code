@@ -3,9 +3,9 @@ title: "Section 3551 - Multiyear procurement authority: purchase of dinitrogen t
 usc_title: 10
 usc_section: "3551"
 chapter: 249
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3551"
-generated_at: "2026-11-23T21:07:03.433Z"
+generated_at: "2026-11-23T21:08:58.601Z"
 status: "active"
 ---
 

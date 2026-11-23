@@ -3,9 +3,9 @@ title: "Section 6502 - Consolidated research database"
 usc_title: 49
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 6502"
-generated_at: "2026-11-23T21:08:10.529Z"
+generated_at: "2026-11-23T21:09:51.825Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15b - Cotton futures contracts"
 usc_title: 7
 usc_section: "15b"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 15b"
-generated_at: "2026-11-23T21:06:57.877Z"
+generated_at: "2026-11-23T21:08:53.618Z"
 status: "active"
 ---
 

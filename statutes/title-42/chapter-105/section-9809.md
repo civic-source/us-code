@@ -3,9 +3,9 @@ title: "Section 9809 - Statement of purpose"
 usc_title: 42
 usc_section: "9809"
 chapter: 105
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 9809"
-generated_at: "2026-11-23T21:08:02.687Z"
+generated_at: "2026-11-23T21:09:43.427Z"
 status: "active"
 ---
 

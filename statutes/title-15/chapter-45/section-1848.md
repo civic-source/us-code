@@ -3,9 +3,9 @@ title: "Section 1848 - Emergency loan guarantee fund"
 usc_title: 15
 usc_section: "1848"
 chapter: 45
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 1848"
-generated_at: "2026-11-23T21:07:11.414Z"
+generated_at: "2026-11-23T21:09:04.233Z"
 status: "active"
 ---
 

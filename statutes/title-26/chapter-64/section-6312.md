@@ -3,9 +3,9 @@ title: "Section 6312 - Repealed. Pub. L. 92–5, title I, § 4(a)(2) , Mar. 17, 
 usc_title: 26
 usc_section: "6312"
 chapter: 64
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 6312"
-generated_at: "2026-11-23T21:07:37.351Z"
+generated_at: "2026-11-23T21:09:25.103Z"
 status: "repealed"
 ---
 

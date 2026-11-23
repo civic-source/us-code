@@ -3,9 +3,9 @@ title: "Section 1442 - Recovery of annuity erroneously paid"
 usc_title: 10
 usc_section: "1442"
 chapter: 73
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 1442"
-generated_at: "2026-11-23T21:07:03.163Z"
+generated_at: "2026-11-23T21:08:58.399Z"
 status: "active"
 ---
 

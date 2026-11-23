@@ -3,9 +3,9 @@ title: "Section 410w - Administration, protection, and development"
 usc_title: 16
 usc_section: "410w"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 410w"
-generated_at: "2026-11-23T21:07:16.611Z"
+generated_at: "2026-11-23T21:09:11.785Z"
 status: "active"
 ---
 

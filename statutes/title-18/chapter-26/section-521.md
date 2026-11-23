@@ -3,9 +3,9 @@ title: "Section 521 - Criminal street gangs"
 usc_title: 18
 usc_section: "521"
 chapter: 26
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "18 U.S.C. § 521"
-generated_at: "2026-11-23T21:07:14.444Z"
+generated_at: "2026-11-23T21:09:06.517Z"
 status: "active"
 ---
 

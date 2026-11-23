@@ -3,9 +3,9 @@ title: "Section 397d - Administration"
 usc_title: 16
 usc_section: "397d"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 397d"
-generated_at: "2026-11-23T21:07:16.596Z"
+generated_at: "2026-11-23T21:09:11.760Z"
 status: "active"
 ---
 

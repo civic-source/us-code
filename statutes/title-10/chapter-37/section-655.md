@@ -3,9 +3,9 @@ title: "Section 655 - Designation of persons having interest in status of a miss
 usc_title: 10
 usc_section: "655"
 chapter: 37
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 655"
-generated_at: "2026-11-23T21:07:02.935Z"
+generated_at: "2026-11-23T21:08:58.265Z"
 status: "active"
 ---
 

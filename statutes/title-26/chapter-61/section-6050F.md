@@ -3,9 +3,9 @@ title: "Section 6050F - Returns relating to social security benefits"
 usc_title: 26
 usc_section: "6050F"
 chapter: 61
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "26 U.S.C. § 6050F"
-generated_at: "2026-11-23T21:07:37.314Z"
+generated_at: "2026-11-23T21:09:25.070Z"
 status: "active"
 ---
 

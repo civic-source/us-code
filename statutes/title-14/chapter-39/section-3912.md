@@ -3,9 +3,9 @@ title: "Section 3912 - Assignment and performance of duties"
 usc_title: 14
 usc_section: "3912"
 chapter: 39
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "14 U.S.C. § 3912"
-generated_at: "2026-11-23T21:07:06.182Z"
+generated_at: "2026-11-23T21:09:00.426Z"
 status: "active"
 ---
 

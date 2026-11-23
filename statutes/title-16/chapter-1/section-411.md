@@ -3,9 +3,9 @@ title: "Section 411 - Omitted"
 usc_title: 16
 usc_section: "411"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 411"
-generated_at: "2026-11-23T21:07:16.667Z"
+generated_at: "2026-11-23T21:09:11.836Z"
 status: "omitted"
 ---
 

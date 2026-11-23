@@ -3,9 +3,9 @@ title: "Section 4873 - Additional requirements pertaining to printed circuit boa
 usc_title: 10
 usc_section: "4873"
 chapter: 385
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 4873"
-generated_at: "2026-11-23T21:07:03.509Z"
+generated_at: "2026-11-23T21:08:58.660Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2215 - Reports to Congress and President"
 usc_title: 15
 usc_section: "2215"
 chapter: 49
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 2215"
-generated_at: "2026-11-23T21:07:11.437Z"
+generated_at: "2026-11-23T21:09:04.250Z"
 status: "active"
 ---
 

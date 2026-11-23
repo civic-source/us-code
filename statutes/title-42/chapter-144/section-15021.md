@@ -3,9 +3,9 @@ title: "Section 15021 - Purpose"
 usc_title: 42
 usc_section: "15021"
 chapter: 144
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 15021"
-generated_at: "2026-11-23T21:08:03.040Z"
+generated_at: "2026-11-23T21:09:43.631Z"
 status: "active"
 ---
 

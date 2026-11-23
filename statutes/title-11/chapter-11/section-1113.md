@@ -3,9 +3,9 @@ title: "Section 1113 - Rejection of collective bargaining agreements"
 usc_title: 11
 usc_section: "1113"
 chapter: 11
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "11 U.S.C. § 1113"
-generated_at: "2026-11-23T21:07:05.632Z"
+generated_at: "2026-11-23T21:09:00.699Z"
 status: "active"
 ---
 

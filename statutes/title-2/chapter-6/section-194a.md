@@ -3,9 +3,9 @@ title: "Section 194a - Request by Congressional committees to officers or employ
 usc_title: 2
 usc_section: "194a"
 chapter: 6
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 194a"
-generated_at: "2026-11-23T21:06:50.543Z"
+generated_at: "2026-11-23T21:08:46.537Z"
 status: "active"
 ---
 

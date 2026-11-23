@@ -3,9 +3,9 @@ title: "Section 8386 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "8386"
 chapter: 845
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8386"
-generated_at: "2026-11-23T21:07:03.685Z"
+generated_at: "2026-11-23T21:08:58.759Z"
 status: "active"
 ---
 

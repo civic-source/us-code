@@ -3,9 +3,9 @@ title: "Section 307 - Office of the Comptroller of the Currency"
 usc_title: 31
 usc_section: "307"
 chapter: 3
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "31 U.S.C. § 307"
-generated_at: "2026-11-23T21:07:39.972Z"
+generated_at: "2026-11-23T21:09:27.701Z"
 status: "active"
 ---
 

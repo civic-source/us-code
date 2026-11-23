@@ -3,9 +3,9 @@ title: "Section 2443 - Renumbered § 4328]"
 usc_title: 10
 usc_section: "2443"
 chapter: 144
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2443"
-generated_at: "2026-11-23T21:07:03.304Z"
+generated_at: "2026-11-23T21:08:58.500Z"
 status: "renumbered"
 ---
 

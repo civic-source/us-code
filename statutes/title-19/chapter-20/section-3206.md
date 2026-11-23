@@ -3,9 +3,9 @@ title: "Section 3206 - Termination of preferential treatment"
 usc_title: 19
 usc_section: "3206"
 chapter: 20
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 3206"
-generated_at: "2026-11-23T21:07:18.337Z"
+generated_at: "2026-11-23T21:09:07.876Z"
 status: "active"
 ---
 

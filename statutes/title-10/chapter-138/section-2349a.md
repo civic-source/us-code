@@ -3,9 +3,9 @@ title: "Section 2349a - Repealed. Pub. L. 112–239, div. A, title X, § 1076(g)
 usc_title: 10
 usc_section: "2349a"
 chapter: 138
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2349a"
-generated_at: "2026-11-23T21:07:03.292Z"
+generated_at: "2026-11-23T21:08:58.492Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2703 - Contingent expenses"
 usc_title: 14
 usc_section: "2703"
 chapter: 27
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "14 U.S.C. § 2703"
-generated_at: "2026-11-23T21:07:06.157Z"
+generated_at: "2026-11-23T21:09:00.415Z"
 status: "active"
 ---
 

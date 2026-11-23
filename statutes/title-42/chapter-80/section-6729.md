@@ -3,9 +3,9 @@ title: "Section 6729 - Reports to Secretary by States and local governments; con
 usc_title: 42
 usc_section: "6729"
 chapter: 80
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 6729"
-generated_at: "2026-11-23T21:08:02.319Z"
+generated_at: "2026-11-23T21:09:43.204Z"
 status: "active"
 ---
 

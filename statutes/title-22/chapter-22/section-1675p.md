@@ -3,9 +3,9 @@ title: "Section 1675p - Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(9)
 usc_title: 22
 usc_section: "1675p"
 chapter: 22
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 1675p"
-generated_at: "2026-11-23T21:07:27.215Z"
+generated_at: "2026-11-23T21:09:18.234Z"
 status: "repealed"
 ---
 

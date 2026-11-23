@@ -3,9 +3,9 @@ title: "Section 2160 - Subsequent arrangements"
 usc_title: 42
 usc_section: "2160"
 chapter: 23
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 2160"
-generated_at: "2026-11-23T21:08:01.951Z"
+generated_at: "2026-11-23T21:09:42.894Z"
 status: "active"
 ---
 

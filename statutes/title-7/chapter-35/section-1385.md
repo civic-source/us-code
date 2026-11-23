@@ -3,9 +3,9 @@ title: "Section 1385 - Finality of payments and loans; substitution of beneficia
 usc_title: 7
 usc_section: "1385"
 chapter: 35
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 1385"
-generated_at: "2026-11-23T21:06:58.013Z"
+generated_at: "2026-11-23T21:08:53.764Z"
 status: "active"
 ---
 

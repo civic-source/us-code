@@ -3,9 +3,9 @@ title: "Section 8911 - Monitoring and detection"
 usc_title: 15
 usc_section: "8911"
 chapter: 115
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "15 U.S.C. § 8911"
-generated_at: "2026-11-23T21:07:11.609Z"
+generated_at: "2026-11-23T21:09:04.396Z"
 status: "active"
 ---
 

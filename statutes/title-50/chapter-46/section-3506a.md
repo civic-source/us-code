@@ -3,9 +3,9 @@ title: "Section 3506a - Transformation of Central Intelligence Agency"
 usc_title: 50
 usc_section: "3506a"
 chapter: 46
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "50 U.S.C. § 3506a"
-generated_at: "2026-11-23T21:08:08.414Z"
+generated_at: "2026-11-23T21:09:49.417Z"
 status: "active"
 ---
 

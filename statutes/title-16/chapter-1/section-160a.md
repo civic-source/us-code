@@ -3,9 +3,9 @@ title: "Section 160a - Establishment; notice in Federal Register; donation of la
 usc_title: 16
 usc_section: "160a"
 chapter: 1
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 160a"
-generated_at: "2026-11-23T21:07:16.563Z"
+generated_at: "2026-11-23T21:09:11.713Z"
 status: "active"
 ---
 

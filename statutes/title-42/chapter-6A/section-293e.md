@@ -3,9 +3,9 @@ title: "Section 293e - Grants for health professions education"
 usc_title: 42
 usc_section: "293e"
 chapter: 6
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 293e"
-generated_at: "2026-11-23T21:08:00.838Z"
+generated_at: "2026-11-23T21:09:42.035Z"
 status: "active"
 ---
 

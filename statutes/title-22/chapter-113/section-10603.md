@@ -3,9 +3,9 @@ title: "Section 10603 - Governance of the Foundation"
 usc_title: 22
 usc_section: "10603"
 chapter: 113
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 10603"
-generated_at: "2026-11-23T21:07:27.849Z"
+generated_at: "2026-11-23T21:09:18.584Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 722 - Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1)
 usc_title: 10
 usc_section: "722"
 chapter: 41
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 722"
-generated_at: "2026-11-23T21:07:02.953Z"
+generated_at: "2026-11-23T21:08:58.273Z"
 status: "repealed"
 ---
 

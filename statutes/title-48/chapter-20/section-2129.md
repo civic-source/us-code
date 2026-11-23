@@ -3,9 +3,9 @@ title: "Section 2129 - Ethics"
 usc_title: 48
 usc_section: "2129"
 chapter: 20
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "48 U.S.C. § 2129"
-generated_at: "2026-11-23T21:08:05.480Z"
+generated_at: "2026-11-23T21:09:46.540Z"
 status: "active"
 ---
 

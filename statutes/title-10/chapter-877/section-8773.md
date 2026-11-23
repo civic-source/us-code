@@ -3,9 +3,9 @@ title: "Section 8773 - Quarters: temporary; transient members"
 usc_title: 10
 usc_section: "8773"
 chapter: 877
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8773"
-generated_at: "2026-11-23T21:07:03.749Z"
+generated_at: "2026-11-23T21:08:58.790Z"
 status: "active"
 ---
 

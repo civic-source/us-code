@@ -3,9 +3,9 @@ title: "Section 1 - Rules and regulations"
 usc_title: 42
 usc_section: "1"
 chapter: 19
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:08:01.900Z"
+generated_at: "2026-11-23T21:09:42.846Z"
 status: "active"
 ---
 

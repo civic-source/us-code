@@ -3,9 +3,9 @@ title: "Section 635 - Retirement for years of service: regular and Space Force b
 usc_title: 10
 usc_section: "635"
 chapter: 36
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 635"
-generated_at: "2026-11-23T21:07:02.926Z"
+generated_at: "2026-11-23T21:08:58.261Z"
 status: "active"
 ---
 

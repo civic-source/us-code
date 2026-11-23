@@ -3,9 +3,9 @@ title: "Section 411 - Cooperation with other Government agencies"
 usc_title: 39
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "39 U.S.C. § 411"
-generated_at: "2026-11-23T21:07:43.822Z"
+generated_at: "2026-11-23T21:09:32.372Z"
 status: "active"
 ---
 

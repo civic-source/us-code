@@ -3,9 +3,9 @@ title: "Section 7705e - Post-earthquake investigations program"
 usc_title: 42
 usc_section: "7705e"
 chapter: 86
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "42 U.S.C. § 7705e"
-generated_at: "2026-11-23T21:08:02.563Z"
+generated_at: "2026-11-23T21:09:43.354Z"
 status: "active"
 ---
 

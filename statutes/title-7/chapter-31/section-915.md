@@ -3,9 +3,9 @@ title: "Section 915 - Purchase of financial and credit reports"
 usc_title: 7
 usc_section: "915"
 chapter: 31
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 915"
-generated_at: "2026-11-23T21:06:57.976Z"
+generated_at: "2026-11-23T21:08:53.727Z"
 status: "active"
 ---
 

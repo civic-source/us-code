@@ -3,9 +3,9 @@ title: "Section 20503 - Powers"
 usc_title: 36
 usc_section: "20503"
 chapter: 205
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 20503"
-generated_at: "2026-11-23T21:07:45.561Z"
+generated_at: "2026-11-23T21:09:30.904Z"
 status: "active"
 ---
 

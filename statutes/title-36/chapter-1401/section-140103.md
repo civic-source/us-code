@@ -3,9 +3,9 @@ title: "Section 140103 - Powers"
 usc_title: 36
 usc_section: "140103"
 chapter: 1401
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "36 U.S.C. § 140103"
-generated_at: "2026-11-23T21:07:45.628Z"
+generated_at: "2026-11-23T21:09:30.955Z"
 status: "active"
 ---
 

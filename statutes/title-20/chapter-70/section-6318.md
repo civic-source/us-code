@@ -3,9 +3,9 @@ title: "Section 6318 - Parent and family engagement"
 usc_title: 20
 usc_section: "6318"
 chapter: 70
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "20 U.S.C. § 6318"
-generated_at: "2026-11-23T21:07:20.625Z"
+generated_at: "2026-11-23T21:09:09.431Z"
 status: "active"
 ---
 

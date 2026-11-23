@@ -3,9 +3,9 @@ title: "Section 5334 - Administrative provisions"
 usc_title: 49
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "49 U.S.C. § 5334"
-generated_at: "2026-11-23T21:08:10.501Z"
+generated_at: "2026-11-23T21:09:51.801Z"
 status: "active"
 ---
 

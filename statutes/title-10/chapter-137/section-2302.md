@@ -3,9 +3,9 @@ title: "Section 2302 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1806
 usc_title: 10
 usc_section: "2302"
 chapter: 137
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 2302"
-generated_at: "2026-11-23T21:07:03.288Z"
+generated_at: "2026-11-23T21:08:58.488Z"
 status: "repealed"
 ---
 

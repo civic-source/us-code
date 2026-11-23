@@ -3,9 +3,9 @@ title: "Section 622 - Definitions"
 usc_title: 2
 usc_section: "622"
 chapter: 17
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "2 U.S.C. § 622"
-generated_at: "2026-11-23T21:06:50.564Z"
+generated_at: "2026-11-23T21:08:46.573Z"
 status: "active"
 ---
 

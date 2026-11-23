@@ -3,9 +3,9 @@ title: "Section 2741 - Authority to pay for or reimburse for certain security se
 usc_title: 22
 usc_section: "2741"
 chapter: 38
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "22 U.S.C. § 2741"
-generated_at: "2026-11-23T21:07:27.445Z"
+generated_at: "2026-11-23T21:09:18.361Z"
 status: "active"
 ---
 

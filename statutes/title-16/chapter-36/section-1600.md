@@ -3,9 +3,9 @@ title: "Section 1600 - Congressional findings"
 usc_title: 16
 usc_section: "1600"
 chapter: 36
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 1600"
-generated_at: "2026-11-23T21:07:17.066Z"
+generated_at: "2026-11-23T21:09:12.295Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5841 - Establishment, purpose, and functions of National Genetic
 usc_title: 7
 usc_section: "5841"
 chapter: 88
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "7 U.S.C. § 5841"
-generated_at: "2026-11-23T21:06:58.277Z"
+generated_at: "2026-11-23T21:08:54.004Z"
 status: "active"
 ---
 

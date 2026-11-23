@@ -3,9 +3,9 @@ title: "Section 60304 - State reports"
 usc_title: 34
 usc_section: "60304"
 chapter: 603
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "34 U.S.C. § 60304"
-generated_at: "2026-11-23T21:07:41.112Z"
+generated_at: "2026-11-23T21:09:27.246Z"
 status: "active"
 ---
 

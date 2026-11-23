@@ -3,9 +3,9 @@ title: "Section 9 - Lands, easements, and rights-of-way; acquisition by local au
 usc_title: 33
 usc_section: "9"
 chapter: 15
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "33 U.S.C. § 9"
-generated_at: "2026-11-23T21:07:42.186Z"
+generated_at: "2026-11-23T21:09:28.519Z"
 status: "active"
 ---
 

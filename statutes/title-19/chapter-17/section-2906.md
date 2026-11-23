@@ -3,9 +3,9 @@ title: "Section 2906 - Definitions"
 usc_title: 19
 usc_section: "2906"
 chapter: 17
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "19 U.S.C. § 2906"
-generated_at: "2026-11-23T21:07:18.332Z"
+generated_at: "2026-11-23T21:09:07.871Z"
 status: "active"
 ---
 

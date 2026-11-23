@@ -3,9 +3,9 @@ title: "Section 6857 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6857"
 chapter: 87
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "16 U.S.C. § 6857"
-generated_at: "2026-11-23T21:07:17.234Z"
+generated_at: "2026-11-23T21:09:12.455Z"
 status: "active"
 ---
 

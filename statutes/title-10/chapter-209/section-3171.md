@@ -3,9 +3,9 @@ title: "Section 3171 - [Reserved]"
 usc_title: 10
 usc_section: "3171"
 chapter: 209
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 3171"
-generated_at: "2026-11-23T21:07:03.415Z"
+generated_at: "2026-11-23T21:08:58.587Z"
 status: "reserved"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8321 - Officers: 40 years"
 usc_title: 10
 usc_section: "8321"
 chapter: 841
-current_through: "PL 119-117"
+current_through: "PL 119-118"
 classification: "10 U.S.C. § 8321"
-generated_at: "2026-11-23T21:07:03.672Z"
+generated_at: "2026-11-23T21:08:58.751Z"
 status: "active"
 ---
 
