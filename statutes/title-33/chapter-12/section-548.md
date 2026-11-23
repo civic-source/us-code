@@ -3,9 +3,9 @@ title: "Section 548 - Omitted"
 usc_title: 33
 usc_section: "548"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 548"
-generated_at: "2026-11-23T21:17:19.820Z"
+generated_at: "2026-11-23T21:18:54.214Z"
 status: "omitted"
 ---
 

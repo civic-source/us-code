@@ -3,9 +3,9 @@ title: "Section 3704 - Experimental Program to Stimulate Competitive Technology"
 usc_title: 15
 usc_section: "3704"
 chapter: 63
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 3704"
-generated_at: "2026-11-23T21:16:57.574Z"
+generated_at: "2026-11-23T21:18:28.065Z"
 status: "active"
 ---
 

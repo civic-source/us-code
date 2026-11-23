@@ -3,9 +3,9 @@ title: "Section 8461 - Authority of the Office of Personnel Management"
 usc_title: 5
 usc_section: "8461"
 chapter: 84
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 8461"
-generated_at: "2026-11-23T21:16:42.819Z"
+generated_at: "2026-11-23T21:18:11.878Z"
 status: "active"
 ---
 

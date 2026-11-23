@@ -3,9 +3,9 @@ title: "Section 8 - Reservation of right of alteration, amendment, or repeal; as
 usc_title: 43
 usc_section: "8"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 8"
-generated_at: "2026-11-23T21:17:26.417Z"
+generated_at: "2026-11-23T21:19:03.565Z"
 status: "active"
 ---
 

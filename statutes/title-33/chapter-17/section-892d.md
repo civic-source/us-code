@@ -3,9 +3,9 @@ title: "Section 892d - Authorization of appropriations"
 usc_title: 33
 usc_section: "892d"
 chapter: 17
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 892d"
-generated_at: "2026-11-23T21:17:19.854Z"
+generated_at: "2026-11-23T21:18:54.268Z"
 status: "active"
 ---
 

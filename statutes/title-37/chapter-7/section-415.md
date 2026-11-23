@@ -3,9 +3,9 @@ title: "Section 415 - Uniform allowance: officers; initial allowance"
 usc_title: 37
 usc_section: "415"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "37 U.S.C. § 415"
-generated_at: "2026-11-23T21:17:21.413Z"
+generated_at: "2026-11-23T21:18:57.104Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 139b - Secretariat for Special Operations; Special Operations Po
 usc_title: 10
 usc_section: "139b"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-11-23T21:16:51.136Z"
+generated_at: "2026-11-23T21:18:19.964Z"
 status: "active"
 ---
 

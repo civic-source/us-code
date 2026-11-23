@@ -3,9 +3,9 @@ title: "Section 2023 - Omitted"
 usc_title: 19
 usc_section: "2023"
 chapter: 8
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "19 U.S.C. § 2023"
-generated_at: "2026-11-23T21:17:00.798Z"
+generated_at: "2026-11-23T21:18:31.718Z"
 status: "omitted"
 ---
 

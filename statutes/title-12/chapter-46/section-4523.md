@@ -3,9 +3,9 @@ title: "Section 4523 - Limitation on subsequent employment"
 usc_title: 12
 usc_section: "4523"
 chapter: 46
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 4523"
-generated_at: "2026-11-23T21:16:55.619Z"
+generated_at: "2026-11-23T21:18:25.871Z"
 status: "active"
 ---
 

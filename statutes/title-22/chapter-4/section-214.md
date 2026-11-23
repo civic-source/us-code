@@ -3,9 +3,9 @@ title: "Section 214 - Fees for execution and issuance of passports; persons excu
 usc_title: 22
 usc_section: "214"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 214"
-generated_at: "2026-11-23T21:17:09.551Z"
+generated_at: "2026-11-23T21:18:42.355Z"
 status: "active"
 ---
 

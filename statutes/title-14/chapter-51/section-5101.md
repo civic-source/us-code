@@ -3,9 +3,9 @@ title: "Section 5101 - Transmission of annual Coast Guard authorization request"
 usc_title: 14
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "14 U.S.C. § 5101"
-generated_at: "2026-11-23T21:16:53.815Z"
+generated_at: "2026-11-23T21:18:22.840Z"
 status: "active"
 ---
 

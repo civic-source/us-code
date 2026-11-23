@@ -3,9 +3,9 @@ title: "Section 300 - Establishment of positions; payment from applicable accoun
 usc_title: 2
 usc_section: "300"
 chapter: 10
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 300"
-generated_at: "2026-11-23T21:16:41.411Z"
+generated_at: "2026-11-23T21:18:09.899Z"
 status: "active"
 ---
 

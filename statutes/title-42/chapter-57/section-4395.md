@@ -3,9 +3,9 @@ title: "Section 4395 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4395"
 chapter: 57
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 4395"
-generated_at: "2026-11-23T21:17:32.208Z"
+generated_at: "2026-11-23T21:19:18.401Z"
 status: "active"
 ---
 

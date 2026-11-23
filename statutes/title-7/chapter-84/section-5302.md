@@ -3,9 +3,9 @@ title: "Section 5302 - Definitions"
 usc_title: 7
 usc_section: "5302"
 chapter: 84
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 5302"
-generated_at: "2026-11-23T21:16:46.929Z"
+generated_at: "2026-11-23T21:18:16.522Z"
 status: "active"
 ---
 

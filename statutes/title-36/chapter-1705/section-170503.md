@@ -3,9 +3,9 @@ title: "Section 170503 - Purposes"
 usc_title: 36
 usc_section: "170503"
 chapter: 1705
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "36 U.S.C. § 170503"
-generated_at: "2026-11-23T21:17:22.016Z"
+generated_at: "2026-11-23T21:18:58.260Z"
 status: "active"
 ---
 

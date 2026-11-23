@@ -3,9 +3,9 @@ title: "Section 817 - Projects not affecting navigable waters; necessity for Fed
 usc_title: 16
 usc_section: "817"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 817"
-generated_at: "2026-11-23T21:17:04.275Z"
+generated_at: "2026-11-23T21:18:36.115Z"
 status: "active"
 ---
 

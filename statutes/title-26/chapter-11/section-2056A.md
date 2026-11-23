@@ -3,9 +3,9 @@ title: "Section 2056A - Qualified domestic trust"
 usc_title: 26
 usc_section: "2056A"
 chapter: 11
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 2056A"
-generated_at: "2026-11-23T21:17:16.361Z"
+generated_at: "2026-11-23T21:18:50.298Z"
 status: "active"
 ---
 

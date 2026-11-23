@@ -3,9 +3,9 @@ title: "Section 6265 - Use of probabilistic risk assessment to ensure nuclear sa
 usc_title: 10
 usc_section: "6265"
 chapter: 606
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6265"
-generated_at: "2026-11-23T21:16:51.652Z"
+generated_at: "2026-11-23T21:18:20.700Z"
 status: "active"
 ---
 

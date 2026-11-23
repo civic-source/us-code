@@ -3,9 +3,9 @@ title: "Section 2206 - Custody of property and records"
 usc_title: 7
 usc_section: "2206"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2206"
-generated_at: "2026-11-23T21:16:46.865Z"
+generated_at: "2026-11-23T21:18:16.455Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 24
 usc_section: "31"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "24 U.S.C. § 31"
-generated_at: "2026-11-23T21:17:05.798Z"
+generated_at: "2026-11-23T21:18:38.112Z"
 status: "repealed"
 ---
 

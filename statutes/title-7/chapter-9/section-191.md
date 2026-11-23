@@ -3,9 +3,9 @@ title: "Section 191 - “Packer” defined"
 usc_title: 7
 usc_section: "191"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 191"
-generated_at: "2026-11-23T21:16:46.655Z"
+generated_at: "2026-11-23T21:18:16.233Z"
 status: "active"
 ---
 

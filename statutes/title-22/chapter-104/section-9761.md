@@ -3,9 +3,9 @@ title: "Section 9761 - Congressional briefings"
 usc_title: 22
 usc_section: "9761"
 chapter: 104
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 9761"
-generated_at: "2026-11-23T21:17:10.001Z"
+generated_at: "2026-11-23T21:18:42.831Z"
 status: "active"
 ---
 

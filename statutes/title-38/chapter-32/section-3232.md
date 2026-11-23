@@ -3,9 +3,9 @@ title: "Section 3232 - Duration; limitations"
 usc_title: 38
 usc_section: "3232"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 3232"
-generated_at: "2026-11-23T21:17:23.122Z"
+generated_at: "2026-11-23T21:19:00.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 619 - Definitions"
 usc_title: 42
 usc_section: "619"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 619"
-generated_at: "2026-11-23T21:17:31.589Z"
+generated_at: "2026-11-23T21:19:17.071Z"
 status: "active"
 ---
 

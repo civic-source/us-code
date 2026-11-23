@@ -3,9 +3,9 @@ title: "Section 9011 - Organization"
 usc_title: 10
 usc_section: "9011"
 chapter: 903
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 9011"
-generated_at: "2026-11-23T21:16:51.773Z"
+generated_at: "2026-11-23T21:18:20.858Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167a - Authority of Secretary"
 usc_title: 50
 usc_section: "167a"
 chapter: 10
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 167a"
-generated_at: "2026-11-23T21:17:37.127Z"
+generated_at: "2026-11-23T21:19:24.143Z"
 status: "active"
 ---
 

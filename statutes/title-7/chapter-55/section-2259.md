@@ -3,9 +3,9 @@ title: "Section 2259 - Market-inspection certificates as prima facie evidence"
 usc_title: 7
 usc_section: "2259"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2259"
-generated_at: "2026-11-23T21:16:46.870Z"
+generated_at: "2026-11-23T21:18:16.461Z"
 status: "active"
 ---
 

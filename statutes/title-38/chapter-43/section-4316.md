@@ -3,9 +3,9 @@ title: "Section 4316 - Rights, benefits, and obligations of persons absent from 
 usc_title: 38
 usc_section: "4316"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 4316"
-generated_at: "2026-11-23T21:17:23.172Z"
+generated_at: "2026-11-23T21:19:00.212Z"
 status: "active"
 ---
 

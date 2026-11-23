@@ -3,9 +3,9 @@ title: "Section 1485 - Rules and regulations"
 usc_title: 33
 usc_section: "1485"
 chapter: 28
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 1485"
-generated_at: "2026-11-23T21:17:19.922Z"
+generated_at: "2026-11-23T21:18:54.386Z"
 status: "active"
 ---
 

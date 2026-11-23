@@ -3,9 +3,9 @@ title: "Section 311 - Personnel"
 usc_title: 40
 usc_section: "311"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "40 U.S.C. § 311"
-generated_at: "2026-11-23T21:17:23.646Z"
+generated_at: "2026-11-23T21:18:57.549Z"
 status: "active"
 ---
 

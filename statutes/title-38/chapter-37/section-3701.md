@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 38
 usc_section: "3701"
 chapter: 37
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 3701"
-generated_at: "2026-11-23T21:17:23.149Z"
+generated_at: "2026-11-23T21:19:00.164Z"
 status: "active"
 ---
 

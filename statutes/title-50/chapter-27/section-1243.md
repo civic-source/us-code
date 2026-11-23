@@ -3,9 +3,9 @@ title: "Section 1243 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1243"
 chapter: 27
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 1243"
-generated_at: "2026-11-23T21:17:37.138Z"
+generated_at: "2026-11-23T21:19:24.165Z"
 status: "repealed"
 ---
 

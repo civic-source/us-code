@@ -3,9 +3,9 @@ title: "Section 16455 - Affiliate transactions"
 usc_title: 42
 usc_section: "16455"
 chapter: 149
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 16455"
-generated_at: "2026-11-23T21:17:32.709Z"
+generated_at: "2026-11-23T21:19:19.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7326 - Computation of years of service: voluntary retirement; re
 usc_title: 10
 usc_section: "7326"
 chapter: 741
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7326"
-generated_at: "2026-11-23T21:16:51.671Z"
+generated_at: "2026-11-23T21:18:20.726Z"
 status: "active"
 ---
 

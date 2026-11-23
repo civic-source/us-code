@@ -3,9 +3,9 @@ title: "Section 10153 - Standby Reserve: status of members"
 usc_title: 10
 usc_section: "10153"
 chapter: 1005
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 10153"
-generated_at: "2026-11-23T21:16:51.823Z"
+generated_at: "2026-11-23T21:18:20.937Z"
 status: "active"
 ---
 

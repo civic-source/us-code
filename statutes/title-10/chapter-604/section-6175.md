@@ -3,9 +3,9 @@ title: "Section 6175 - Accelerated schedule for defense environmental cleanup ac
 usc_title: 10
 usc_section: "6175"
 chapter: 604
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6175"
-generated_at: "2026-11-23T21:16:51.647Z"
+generated_at: "2026-11-23T21:18:20.694Z"
 status: "active"
 ---
 

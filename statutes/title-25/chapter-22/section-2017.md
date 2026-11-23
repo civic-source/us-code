@@ -3,9 +3,9 @@ title: "Section 2017 - Regulations"
 usc_title: 25
 usc_section: "2017"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "25 U.S.C. § 2017"
-generated_at: "2026-11-23T21:17:07.856Z"
+generated_at: "2026-11-23T21:18:39.416Z"
 status: "active"
 ---
 

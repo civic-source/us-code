@@ -3,9 +3,9 @@ title: "Section 263b - Certification of mammography facilities"
 usc_title: 42
 usc_section: "263b"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 263b"
-generated_at: "2026-11-23T21:17:31.303Z"
+generated_at: "2026-11-23T21:19:16.389Z"
 status: "active"
 ---
 

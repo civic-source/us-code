@@ -3,9 +3,9 @@ title: "Section 4111 - Block grants"
 usc_title: 25
 usc_section: "4111"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "25 U.S.C. § 4111"
-generated_at: "2026-11-23T21:17:07.921Z"
+generated_at: "2026-11-23T21:18:39.487Z"
 status: "active"
 ---
 

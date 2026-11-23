@@ -3,9 +3,9 @@ title: "Section 11 - Authority for compact between Middle Northwest States as to
 usc_title: 33
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 11"
-generated_at: "2026-11-23T21:17:19.789Z"
+generated_at: "2026-11-23T21:18:54.161Z"
 status: "active"
 ---
 

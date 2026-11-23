@@ -3,9 +3,9 @@ title: "Section 3451 - Definitions"
 usc_title: 10
 usc_section: "3451"
 chapter: 247
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 3451"
-generated_at: "2026-11-23T21:16:51.564Z"
+generated_at: "2026-11-23T21:18:20.550Z"
 status: "active"
 ---
 

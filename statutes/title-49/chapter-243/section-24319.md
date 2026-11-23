@@ -3,9 +3,9 @@ title: "Section 24319 - Grant process and reporting"
 usc_title: 49
 usc_section: "24319"
 chapter: 243
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 24319"
-generated_at: "2026-11-23T21:17:39.017Z"
+generated_at: "2026-11-23T21:19:29.247Z"
 status: "active"
 ---
 

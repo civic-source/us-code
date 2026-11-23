@@ -3,9 +3,9 @@ title: "Section 8564 - Report and imposition of sanctions with respect to foreig
 usc_title: 22
 usc_section: "8564"
 chapter: 92
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 8564"
-generated_at: "2026-11-23T21:17:09.958Z"
+generated_at: "2026-11-23T21:18:42.786Z"
 status: "active"
 ---
 

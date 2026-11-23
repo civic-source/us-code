@@ -3,9 +3,9 @@ title: "Section 1028 - Fraud and related activity in connection with identificat
 usc_title: 18
 usc_section: "1028"
 chapter: 47
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 1028"
-generated_at: "2026-11-23T21:16:59.829Z"
+generated_at: "2026-11-23T21:18:30.650Z"
 status: "active"
 ---
 

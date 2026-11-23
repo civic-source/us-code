@@ -3,9 +3,9 @@ title: "Section 6228 - Reporting on penetrations of networks of contractors and 
 usc_title: 10
 usc_section: "6228"
 chapter: 605
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6228"
-generated_at: "2026-11-23T21:16:51.650Z"
+generated_at: "2026-11-23T21:18:20.697Z"
 status: "active"
 ---
 

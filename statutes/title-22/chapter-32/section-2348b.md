@@ -3,9 +3,9 @@ title: "Section 2348b - Repealed. Pub. L. 96–533, title I, § 116(b) , Dec. 16
 usc_title: 22
 usc_section: "2348b"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 2348b"
-generated_at: "2026-11-23T21:17:09.695Z"
+generated_at: "2026-11-23T21:18:42.520Z"
 status: "repealed"
 ---
 

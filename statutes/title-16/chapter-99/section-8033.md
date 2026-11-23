@@ -3,9 +3,9 @@ title: "Section 8033 - Reports"
 usc_title: 16
 usc_section: "8033"
 chapter: 99
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 8033"
-generated_at: "2026-11-23T21:17:04.575Z"
+generated_at: "2026-11-23T21:18:36.431Z"
 status: "active"
 ---
 

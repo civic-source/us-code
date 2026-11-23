@@ -3,9 +3,9 @@ title: "Section 44302a - Temporary insurance"
 usc_title: 49
 usc_section: "44302a"
 chapter: 443
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 44302a"
-generated_at: "2026-11-23T21:17:39.157Z"
+generated_at: "2026-11-23T21:19:29.496Z"
 status: "active"
 ---
 

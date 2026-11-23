@@ -3,9 +3,9 @@ title: "Section 8515 - Prohibition on procurement contracts with persons that ex
 usc_title: 22
 usc_section: "8515"
 chapter: 92
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 8515"
-generated_at: "2026-11-23T21:17:09.955Z"
+generated_at: "2026-11-23T21:18:42.784Z"
 status: "active"
 ---
 

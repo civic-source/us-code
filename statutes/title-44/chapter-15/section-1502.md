@@ -3,9 +3,9 @@ title: "Section 1502 - Custody and publishing of Federal documents; appointment 
 usc_title: 44
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "44 U.S.C. § 1502"
-generated_at: "2026-11-23T21:17:33.028Z"
+generated_at: "2026-11-23T21:19:01.897Z"
 status: "active"
 ---
 

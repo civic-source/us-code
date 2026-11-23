@@ -3,9 +3,9 @@ title: "Section 3 - Officers and employees"
 usc_title: 35
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "35 U.S.C. § 3"
-generated_at: "2026-11-23T21:17:18.064Z"
+generated_at: "2026-11-23T21:18:52.299Z"
 status: "active"
 ---
 

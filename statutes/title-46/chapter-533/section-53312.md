@@ -3,9 +3,9 @@ title: "Section 53312 - Assessment and collection of deficiency tax"
 usc_title: 46
 usc_section: "53312"
 chapter: 533
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 53312"
-generated_at: "2026-11-23T21:17:36.258Z"
+generated_at: "2026-11-23T21:19:25.937Z"
 status: "active"
 ---
 

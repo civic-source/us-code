@@ -3,9 +3,9 @@ title: "Section 284l - Fourth replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284l"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 284l"
-generated_at: "2026-11-23T21:17:09.580Z"
+generated_at: "2026-11-23T21:18:42.392Z"
 status: "active"
 ---
 

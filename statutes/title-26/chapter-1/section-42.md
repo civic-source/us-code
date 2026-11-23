@@ -3,9 +3,9 @@ title: "Section 42 - Low-income housing credit"
 usc_title: 26
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 42"
-generated_at: "2026-11-23T21:17:15.930Z"
+generated_at: "2026-11-23T21:18:49.820Z"
 status: "active"
 ---
 
@@ -138,7 +138,7 @@ status: "active"
       - **(ii)** the amount of such expenditures during any 24-month period meets the requirements of whichever of the following subclauses requires the greater amount of such expenditures:
         - **(I)** The requirement of this subclause is met if such amount is not less than 20 percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
         - **(II)** The requirement of this subclause is met if the qualified basis attributable to such amount, when divided by the number of low-income units in the building, is $6,000 or more.
-    - **(B)** In the case of a building acquired by the taxpayer from a governmental unit, at the election of the taxpayer, subparagraph (A)(ii)(I) shall not apply and the credit under this section for such rehabilitation expenditures shall be determined using the percentage applicable under subsection (b)(2)(B)(ii).
+    - **(B)** In the case of a building acquired by the taxpayer from a governmental unit, at the election of the taxpayer, subparagraph (A)(ii)(I) shall not apply and the credit under this section for such rehabilitation expenditures shall be determined using the percentage applicable under subsection (b)(2)(B)(ii). 1 1 See References in Text note below.
     - **(C)** The determination under subparagraph (A) shall be made as of the close of the 1st taxable year in the credit period with respect to such expenditures.
     - **(D)** In the case of any expenditures which are treated under paragraph (4) as placed in service during any calendar year after 2009, the $6,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
       - **(i)** such dollar amount, multiplied by
@@ -388,7 +388,7 @@ status: "active"
       - **(iv)** For purposes of clause (i), a single-room occupancy unit shall not be treated as used on a transient basis merely because it is rented on a month-by-month basis.
     - **(C)** In the case of any building which has 4 or fewer residential rental units, no unit in such building shall be treated as a low-income unit if the units in such building are owned by—
       - **(i)** any individual who occupies a residential unit in such building, or
-      - **(ii)** any person who is related (as defined in subsection (d)(2)(D)(iii)) to such individual.
+      - **(ii)** any person who is related (as defined in subsection (d)(2)(D)(iii)) 1 to such individual.
     - **(D)** A unit shall not fail to be treated as a low-income unit merely because it is occupied—
       - **(i)** by an individual who is—
         - **(I)** a student and receiving assistance under title IV of the Social Security Act,
@@ -440,7 +440,7 @@ status: "active"
       - **(iv)** the amount of the increase in tax under this subsection for any taxable year shall be allocated among the partners of such partnership in the same manner as such partnership’s taxable income for such year is allocated among such partners.
     - **(B)** This paragraph shall apply to any partnership which has 35 or more partners unless the partnership elects not to have this paragraph apply.
     - **(C)**
-      - **(i)** For purposes of subparagraph (B)(i), a husband and wife (and their estates) shall be treated as 1 partner.
+      - **(i)** For purposes of subparagraph (B)(i), 1 a husband and wife (and their estates) shall be treated as 1 partner.
       - **(ii)** Any election under subparagraph (B), once made, shall be irrevocable.
   - **(6)**
     - **(A)** The increase in tax under this subsection shall not apply solely by reason of the disposition of a building (or an interest therein) if it is reasonably expected that such building will continue to be operated as a qualified low-income building for the remaining compliance period with respect to such building.

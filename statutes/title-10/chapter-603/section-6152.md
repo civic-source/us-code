@@ -3,9 +3,9 @@ title: "Section 6152 - Completion of material protection, control, and accountin
 usc_title: 10
 usc_section: "6152"
 chapter: 603
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6152"
-generated_at: "2026-11-23T21:16:51.645Z"
+generated_at: "2026-11-23T21:18:20.691Z"
 status: "active"
 ---
 

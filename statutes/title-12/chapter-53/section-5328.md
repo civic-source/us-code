@@ -3,9 +3,9 @@ title: "Section 5328 - Council funding"
 usc_title: 12
 usc_section: "5328"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 5328"
-generated_at: "2026-11-23T21:16:55.684Z"
+generated_at: "2026-11-23T21:18:25.936Z"
 status: "active"
 ---
 

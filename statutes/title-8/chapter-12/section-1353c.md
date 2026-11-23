@@ -3,9 +3,9 @@ title: "Section 1353c - Immigration officials; service in foreign contiguous ter
 usc_title: 8
 usc_section: "1353c"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "8 U.S.C. § 1353c"
-generated_at: "2026-11-23T21:16:45.090Z"
+generated_at: "2026-11-23T21:18:13.948Z"
 status: "active"
 ---
 

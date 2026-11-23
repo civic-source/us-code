@@ -3,9 +3,9 @@ title: "Section 1582 - Vessels for slave trade"
 usc_title: 18
 usc_section: "1582"
 chapter: 77
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 1582"
-generated_at: "2026-11-23T21:16:59.858Z"
+generated_at: "2026-11-23T21:18:30.669Z"
 status: "active"
 ---
 

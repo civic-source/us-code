@@ -3,9 +3,9 @@ title: "Section 6071 - Time for filing returns and other documents"
 usc_title: 26
 usc_section: "6071"
 chapter: 61
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 6071"
-generated_at: "2026-11-23T21:17:16.514Z"
+generated_at: "2026-11-23T21:18:50.520Z"
 status: "active"
 ---
 

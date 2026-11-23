@@ -3,9 +3,9 @@ title: "Section 4302 - Maximum annual rate of compensation of Chief of Staff of 
 usc_title: 2
 usc_section: "4302"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 4302"
-generated_at: "2026-11-23T21:16:41.494Z"
+generated_at: "2026-11-23T21:18:09.992Z"
 status: "active"
 ---
 

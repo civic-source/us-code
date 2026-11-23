@@ -3,9 +3,9 @@ title: "Section 8706 - Civil actions"
 usc_title: 41
 usc_section: "8706"
 chapter: 87
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "41 U.S.C. § 8706"
-generated_at: "2026-11-23T21:17:25.067Z"
+generated_at: "2026-11-23T21:19:02.585Z"
 status: "active"
 ---
 

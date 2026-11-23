@@ -3,9 +3,9 @@ title: "Section 3a - Hiring authority for scientific, technical, and professiona
 usc_title: 21
 usc_section: "3a"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 3a"
-generated_at: "2026-11-23T21:17:07.111Z"
+generated_at: "2026-11-23T21:18:40.651Z"
 status: "active"
 ---
 

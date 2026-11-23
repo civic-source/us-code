@@ -3,9 +3,9 @@ title: "Section 2400 - Renumbered § 4231]"
 usc_title: 10
 usc_section: "2400"
 chapter: 141
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 2400"
-generated_at: "2026-11-23T21:16:51.468Z"
+generated_at: "2026-11-23T21:18:20.416Z"
 status: "renumbered"
 ---
 

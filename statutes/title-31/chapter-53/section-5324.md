@@ -3,9 +3,9 @@ title: "Section 5324 - Structuring transactions to evade reporting requirement p
 usc_title: 31
 usc_section: "5324"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "31 U.S.C. § 5324"
-generated_at: "2026-11-23T21:17:19.154Z"
+generated_at: "2026-11-23T21:18:53.021Z"
 status: "active"
 ---
 

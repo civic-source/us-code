@@ -3,9 +3,9 @@ title: "Section 192 - Chief of bureau; investigations and reports"
 usc_title: 42
 usc_section: "192"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 192"
-generated_at: "2026-11-23T21:17:31.229Z"
+generated_at: "2026-11-23T21:19:16.191Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2595d - Annual report on comprehensive nuclear-test-ban treaty s
 usc_title: 22
 usc_section: "2595d"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 2595d"
-generated_at: "2026-11-23T21:17:09.737Z"
+generated_at: "2026-11-23T21:18:42.565Z"
 status: "active"
 ---
 

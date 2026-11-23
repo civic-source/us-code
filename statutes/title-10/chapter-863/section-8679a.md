@@ -3,9 +3,9 @@ title: "Section 8679a - Contracting with shipyards controlled by a foreign adver
 usc_title: 10
 usc_section: "8679a"
 chapter: 863
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 8679a"
-generated_at: "2026-11-23T21:16:51.749Z"
+generated_at: "2026-11-23T21:18:20.814Z"
 status: "active"
 ---
 

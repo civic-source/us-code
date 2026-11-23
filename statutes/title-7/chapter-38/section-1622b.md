@@ -3,9 +3,9 @@ title: "Section 1622b - Specialty crops market news allocation"
 usc_title: 7
 usc_section: "1622b"
 chapter: 38
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1622b"
-generated_at: "2026-11-23T21:16:46.761Z"
+generated_at: "2026-11-23T21:18:16.342Z"
 status: "active"
 ---
 

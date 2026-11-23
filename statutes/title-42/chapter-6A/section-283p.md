@@ -3,9 +3,9 @@ title: "Section 283p - Population focused research"
 usc_title: 42
 usc_section: "283p"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 283p"
-generated_at: "2026-11-23T21:17:31.335Z"
+generated_at: "2026-11-23T21:19:16.462Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10108 - Availability of funds"
 usc_title: 34
 usc_section: "10108"
 chapter: 101
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 10108"
-generated_at: "2026-11-23T21:17:18.502Z"
+generated_at: "2026-11-23T21:18:55.099Z"
 status: "active"
 ---
 

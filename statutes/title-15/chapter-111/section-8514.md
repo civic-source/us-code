@@ -3,9 +3,9 @@ title: "Section 8514 - Hurricane forecast improvement program"
 usc_title: 15
 usc_section: "8514"
 chapter: 111
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 8514"
-generated_at: "2026-11-23T21:16:57.653Z"
+generated_at: "2026-11-23T21:18:28.170Z"
 status: "active"
 ---
 

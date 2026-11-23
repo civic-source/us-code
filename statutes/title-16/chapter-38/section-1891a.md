@@ -3,9 +3,9 @@ title: "Section 1891a - Community-based restoration program for fishery and coas
 usc_title: 16
 usc_section: "1891a"
 chapter: 38
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 1891a"
-generated_at: "2026-11-23T21:17:04.425Z"
+generated_at: "2026-11-23T21:18:36.287Z"
 status: "active"
 ---
 

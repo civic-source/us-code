@@ -3,9 +3,9 @@ title: "Section 3225 - Discussion of risk in cost estimates"
 usc_title: 10
 usc_section: "3225"
 chapter: 222
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 3225"
-generated_at: "2026-11-23T21:16:51.556Z"
+generated_at: "2026-11-23T21:18:20.538Z"
 status: "active"
 ---
 

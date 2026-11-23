@@ -3,9 +3,9 @@ title: "Section 17218 - Authorization of appropriations"
 usc_title: 42
 usc_section: "17218"
 chapter: 152
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 17218"
-generated_at: "2026-11-23T21:17:32.730Z"
+generated_at: "2026-11-23T21:19:19.406Z"
 status: "active"
 ---
 

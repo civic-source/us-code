@@ -3,9 +3,9 @@ title: "Section 790f - Reports by Director"
 usc_title: 15
 usc_section: "790f"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 790f"
-generated_at: "2026-11-23T21:16:57.343Z"
+generated_at: "2026-11-23T21:18:27.873Z"
 status: "active"
 ---
 

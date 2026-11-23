@@ -3,9 +3,9 @@ title: "Section 4248 - Civil commitment of a sexually dangerous person"
 usc_title: 18
 usc_section: "4248"
 chapter: 313
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 4248"
-generated_at: "2026-11-23T21:16:59.990Z"
+generated_at: "2026-11-23T21:18:30.790Z"
 status: "active"
 ---
 

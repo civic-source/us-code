@@ -3,9 +3,9 @@ title: "Section 7252 - Repealed. Pub. L. 107–76, title VII, § 772(b) , Nov. 2
 usc_title: 7
 usc_section: "7252"
 chapter: 100
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 7252"
-generated_at: "2026-11-23T21:16:46.980Z"
+generated_at: "2026-11-23T21:18:16.575Z"
 status: "repealed"
 ---
 

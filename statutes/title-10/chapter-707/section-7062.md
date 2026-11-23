@@ -3,9 +3,9 @@ title: "Section 7062 - Policy; composition; organized peace establishment"
 usc_title: 10
 usc_section: "7062"
 chapter: 707
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7062"
-generated_at: "2026-11-23T21:16:51.662Z"
+generated_at: "2026-11-23T21:18:20.715Z"
 status: "active"
 ---
 

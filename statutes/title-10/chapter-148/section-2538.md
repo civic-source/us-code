@@ -3,9 +3,9 @@ title: "Section 2538 - Renumbered § 4882]"
 usc_title: 10
 usc_section: "2538"
 chapter: 148
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 2538"
-generated_at: "2026-11-23T21:16:51.479Z"
+generated_at: "2026-11-23T21:18:20.433Z"
 status: "renumbered"
 ---
 

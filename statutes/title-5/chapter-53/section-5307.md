@@ -3,9 +3,9 @@ title: "Section 5307 - Limitation on certain payments"
 usc_title: 5
 usc_section: "5307"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 5307"
-generated_at: "2026-11-23T21:16:42.659Z"
+generated_at: "2026-11-23T21:18:11.706Z"
 status: "active"
 ---
 

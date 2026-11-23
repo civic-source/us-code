@@ -3,9 +3,9 @@ title: "Section 1087gg - Collection of defaulted loans: Perkins Loan Revolving F
 usc_title: 20
 usc_section: "1087gg"
 chapter: 28
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 1087gg"
-generated_at: "2026-11-23T21:17:02.168Z"
+generated_at: "2026-11-23T21:18:33.367Z"
 status: "active"
 ---
 

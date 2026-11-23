@@ -3,9 +3,9 @@ title: "Section 210 - Recognition of equitable claims on certain lands in Oklaho
 usc_title: 43
 usc_section: "210"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 210"
-generated_at: "2026-11-23T21:17:26.356Z"
+generated_at: "2026-11-23T21:19:03.460Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7543 - Purposes"
 usc_title: 20
 usc_section: "7543"
 chapter: 70
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 7543"
-generated_at: "2026-11-23T21:17:02.341Z"
+generated_at: "2026-11-23T21:18:33.591Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10811 - Prohibition on importing, and sanctions with respect to,
 usc_title: 22
 usc_section: "10811"
 chapter: 115
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 10811"
-generated_at: "2026-11-23T21:17:10.017Z"
+generated_at: "2026-11-23T21:18:42.846Z"
 status: "active"
 ---
 

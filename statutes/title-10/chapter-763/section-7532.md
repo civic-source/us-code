@@ -3,9 +3,9 @@ title: "Section 7532 - Factories and arsenals: manufacture at"
 usc_title: 10
 usc_section: "7532"
 chapter: 763
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7532"
-generated_at: "2026-11-23T21:16:51.684Z"
+generated_at: "2026-11-23T21:18:20.740Z"
 status: "active"
 ---
 

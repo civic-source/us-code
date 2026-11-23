@@ -3,9 +3,9 @@ title: "Section 46 - Validity of contracts"
 usc_title: 15
 usc_section: "46"
 chapter: 2
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-11-23T21:16:57.224Z"
+generated_at: "2026-11-23T21:18:27.708Z"
 status: "active"
 ---
 

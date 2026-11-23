@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified productions"
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-11-23T21:17:16.064Z"
+generated_at: "2026-11-23T21:18:49.970Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2837 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2837"
 chapter: 34
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 2837"
-generated_at: "2026-11-23T21:17:32.121Z"
+generated_at: "2026-11-23T21:19:18.190Z"
 status: "repealed"
 ---
 

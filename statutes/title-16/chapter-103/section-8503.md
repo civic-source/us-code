@@ -3,9 +3,9 @@ title: "Section 8503 - Partnerships to promote military and veteran recreation"
 usc_title: 16
 usc_section: "8503"
 chapter: 103
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 8503"
-generated_at: "2026-11-23T21:17:04.589Z"
+generated_at: "2026-11-23T21:18:36.440Z"
 status: "active"
 ---
 

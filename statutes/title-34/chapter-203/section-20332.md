@@ -3,9 +3,9 @@ title: "Section 20332 - Grants for juvenile and family court personnel"
 usc_title: 34
 usc_section: "20332"
 chapter: 203
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 20332"
-generated_at: "2026-11-23T21:17:18.594Z"
+generated_at: "2026-11-23T21:18:55.228Z"
 status: "active"
 ---
 

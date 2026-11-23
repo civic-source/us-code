@@ -3,9 +3,9 @@ title: "Section 735 - Omitted"
 usc_title: 47
 usc_section: "735"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 735"
-generated_at: "2026-11-23T21:17:35.044Z"
+generated_at: "2026-11-23T21:19:22.490Z"
 status: "omitted"
 ---
 

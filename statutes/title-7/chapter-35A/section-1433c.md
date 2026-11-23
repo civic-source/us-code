@@ -3,9 +3,9 @@ title: "Section 1433c - Advance recourse commodity loans"
 usc_title: 7
 usc_section: "1433c"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1433c"
-generated_at: "2026-11-23T21:16:46.731Z"
+generated_at: "2026-11-23T21:18:16.311Z"
 status: "active"
 ---
 

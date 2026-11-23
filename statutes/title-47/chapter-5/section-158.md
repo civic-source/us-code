@@ -3,9 +3,9 @@ title: "Section 158 - Application fees"
 usc_title: 47
 usc_section: "158"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 158"
-generated_at: "2026-11-23T21:17:34.968Z"
+generated_at: "2026-11-23T21:19:22.356Z"
 status: "active"
 ---
 

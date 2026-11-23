@@ -3,9 +3,9 @@ title: "Section 4212 - Veterans’ employment emphasis under Federal contracts"
 usc_title: 38
 usc_section: "4212"
 chapter: 42
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 4212"
-generated_at: "2026-11-23T21:17:23.169Z"
+generated_at: "2026-11-23T21:19:00.206Z"
 status: "active"
 ---
 

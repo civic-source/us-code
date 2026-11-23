@@ -3,9 +3,9 @@ title: "Section 6328 - Cost-benefit analyses for competition of management and o
 usc_title: 10
 usc_section: "6328"
 chapter: 608
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6328"
-generated_at: "2026-11-23T21:16:51.655Z"
+generated_at: "2026-11-23T21:18:20.704Z"
 status: "active"
 ---
 

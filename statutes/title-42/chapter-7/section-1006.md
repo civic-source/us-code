@@ -3,9 +3,9 @@ title: "Section 1006 - Applications and furnishing of information"
 usc_title: 42
 usc_section: "1006"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 1006"
-generated_at: "2026-11-23T21:17:31.635Z"
+generated_at: "2026-11-23T21:19:17.181Z"
 status: "active"
 ---
 

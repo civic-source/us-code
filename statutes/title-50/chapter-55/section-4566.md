@@ -3,9 +3,9 @@ title: "Section 4566 - Prohibition on purchase of United States defense contract
 usc_title: 50
 usc_section: "4566"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 4566"
-generated_at: "2026-11-23T21:17:37.307Z"
+generated_at: "2026-11-23T21:19:24.541Z"
 status: "active"
 ---
 

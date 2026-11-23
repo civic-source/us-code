@@ -3,9 +3,9 @@ title: "Section 1379j - Regulations"
 usc_title: 7
 usc_section: "1379j"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1379j"
-generated_at: "2026-11-23T21:16:46.724Z"
+generated_at: "2026-11-23T21:18:16.303Z"
 status: "active"
 ---
 

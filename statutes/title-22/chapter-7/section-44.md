@@ -3,9 +3,9 @@ title: "Section 44 - Actions to be taken by the Commission and the Administrator
 usc_title: 22
 usc_section: "44"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 44"
-generated_at: "2026-11-23T21:17:09.573Z"
+generated_at: "2026-11-23T21:18:42.384Z"
 status: "active"
 ---
 

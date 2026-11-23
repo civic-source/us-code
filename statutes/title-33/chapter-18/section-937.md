@@ -3,9 +3,9 @@ title: "Section 937 - Certificate of compliance with chapter"
 usc_title: 33
 usc_section: "937"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 937"
-generated_at: "2026-11-23T21:17:19.861Z"
+generated_at: "2026-11-23T21:18:54.285Z"
 status: "active"
 ---
 

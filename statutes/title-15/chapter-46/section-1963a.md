@@ -3,9 +3,9 @@ title: "Section 1963a - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 10
 usc_title: 15
 usc_section: "1963a"
 chapter: 46
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 1963a"
-generated_at: "2026-11-23T21:16:57.510Z"
+generated_at: "2026-11-23T21:18:27.994Z"
 status: "repealed"
 ---
 

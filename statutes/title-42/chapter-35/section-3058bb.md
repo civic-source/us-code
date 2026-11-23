@@ -3,9 +3,9 @@ title: "Section 3058bb - Definitions"
 usc_title: 42
 usc_section: "3058bb"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 3058bb"
-generated_at: "2026-11-23T21:17:32.153Z"
+generated_at: "2026-11-23T21:19:18.264Z"
 status: "active"
 ---
 

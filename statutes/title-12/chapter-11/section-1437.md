@@ -3,9 +3,9 @@ title: "Section 1437 - Repealed. Pub. L. 101–73, title VII, § 703(a) , Aug. 9
 usc_title: 12
 usc_section: "1437"
 chapter: 11
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 1437"
-generated_at: "2026-11-23T21:16:55.213Z"
+generated_at: "2026-11-23T21:18:25.466Z"
 status: "repealed"
 ---
 

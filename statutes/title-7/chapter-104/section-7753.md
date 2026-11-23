@@ -3,9 +3,9 @@ title: "Section 7753 - Reimbursable agreements"
 usc_title: 7
 usc_section: "7753"
 chapter: 104
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 7753"
-generated_at: "2026-11-23T21:16:47.005Z"
+generated_at: "2026-11-23T21:18:16.602Z"
 status: "active"
 ---
 

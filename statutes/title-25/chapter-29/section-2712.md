@@ -3,9 +3,9 @@ title: "Section 2712 - Review of existing ordinances and contracts"
 usc_title: 25
 usc_section: "2712"
 chapter: 29
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "25 U.S.C. § 2712"
-generated_at: "2026-11-23T21:17:07.884Z"
+generated_at: "2026-11-23T21:18:39.441Z"
 status: "active"
 ---
 

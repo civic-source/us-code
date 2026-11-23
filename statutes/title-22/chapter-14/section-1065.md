@@ -3,9 +3,9 @@ title: "Section 1065 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1065"
 chapter: 14
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 1065"
-generated_at: "2026-11-23T21:17:09.614Z"
+generated_at: "2026-11-23T21:18:42.432Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2702b - Omitted"
 usc_title: 42
 usc_section: "2702b"
 chapter: 34
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 2702b"
-generated_at: "2026-11-23T21:17:32.120Z"
+generated_at: "2026-11-23T21:19:18.187Z"
 status: "omitted"
 ---
 

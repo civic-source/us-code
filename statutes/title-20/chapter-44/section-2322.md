@@ -3,9 +3,9 @@ title: "Section 2322 - Within State allocation"
 usc_title: 20
 usc_section: "2322"
 chapter: 44
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 2322"
-generated_at: "2026-11-23T21:17:02.254Z"
+generated_at: "2026-11-23T21:18:33.471Z"
 status: "active"
 ---
 

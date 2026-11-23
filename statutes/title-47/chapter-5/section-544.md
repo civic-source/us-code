@@ -3,9 +3,9 @@ title: "Section 544 - Regulation of services, facilities, and equipment"
 usc_title: 47
 usc_section: "544"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 544"
-generated_at: "2026-11-23T21:17:35.032Z"
+generated_at: "2026-11-23T21:19:22.462Z"
 status: "active"
 ---
 

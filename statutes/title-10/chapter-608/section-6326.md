@@ -3,9 +3,9 @@ title: "Section 6326 - Publication of contractor performance evaluations leading
 usc_title: 10
 usc_section: "6326"
 chapter: 608
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6326"
-generated_at: "2026-11-23T21:16:51.655Z"
+generated_at: "2026-11-23T21:18:20.704Z"
 status: "active"
 ---
 

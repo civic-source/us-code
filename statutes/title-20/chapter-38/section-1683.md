@@ -3,9 +3,9 @@ title: "Section 1683 - Judicial review"
 usc_title: 20
 usc_section: "1683"
 chapter: 38
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 1683"
-generated_at: "2026-11-23T21:17:02.245Z"
+generated_at: "2026-11-23T21:18:33.463Z"
 status: "active"
 ---
 

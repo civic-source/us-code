@@ -3,9 +3,9 @@ title: "Section 67 - 2-percent floor on miscellaneous itemized deductions"
 usc_title: 26
 usc_section: "67"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 67"
-generated_at: "2026-11-23T21:17:15.980Z"
+generated_at: "2026-11-23T21:18:49.879Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
     - **(A)** without regard to the dollar limitation,
     - **(B)** without regard to “(other than nonathletic supplies for courses of instruction in health or physical education)” in clause (ii) thereof, and
     - **(C)** by substituting “as part of instructional activity” for “in the classroom” in clause (ii) thereof, and
-  - **(2)** section 62(d)(1)(A) were applied by inserting “, interscholastic sports administrator or coach,” after “counselor”
+  - **(2)** section 62(d)(1)(A) were applied by inserting “, interscholastic sports administrator or coach,” after “counselor”.
 - **(h)** Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017 .
 
 Termination

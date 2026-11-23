@@ -3,9 +3,9 @@ title: "Section 2146 - Oversight Board duties related to restructuring"
 usc_title: 48
 usc_section: "2146"
 chapter: 20
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "48 U.S.C. § 2146"
-generated_at: "2026-11-23T21:17:35.471Z"
+generated_at: "2026-11-23T21:19:21.707Z"
 status: "active"
 ---
 

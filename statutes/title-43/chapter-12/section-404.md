@@ -3,9 +3,9 @@ title: "Section 404 - Repealed. June 30, 1947, ch. 166 , title II, § 206(c), 61
 usc_title: 43
 usc_section: "404"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 404"
-generated_at: "2026-11-23T21:17:26.383Z"
+generated_at: "2026-11-23T21:19:03.504Z"
 status: "repealed"
 ---
 

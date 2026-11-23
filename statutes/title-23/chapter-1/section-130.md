@@ -3,9 +3,9 @@ title: "Section 130 - Railway-highway crossings"
 usc_title: 23
 usc_section: "130"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "23 U.S.C. § 130"
-generated_at: "2026-11-23T21:17:06.313Z"
+generated_at: "2026-11-23T21:18:38.588Z"
 status: "active"
 ---
 

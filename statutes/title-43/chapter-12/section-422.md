@@ -3,9 +3,9 @@ title: "Section 422 - Construction of dams across Yellowstone River"
 usc_title: 43
 usc_section: "422"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 422"
-generated_at: "2026-11-23T21:17:26.385Z"
+generated_at: "2026-11-23T21:19:03.508Z"
 status: "active"
 ---
 

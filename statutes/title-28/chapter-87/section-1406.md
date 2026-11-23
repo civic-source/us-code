@@ -3,9 +3,9 @@ title: "Section 1406 - Cure or waiver of defects"
 usc_title: 28
 usc_section: "1406"
 chapter: 87
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 1406"
-generated_at: "2026-11-23T21:17:12.150Z"
+generated_at: "2026-11-23T21:18:45.043Z"
 status: "active"
 ---
 

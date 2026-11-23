@@ -3,9 +3,9 @@ title: "Section 554 - Equal employment opportunity"
 usc_title: 47
 usc_section: "554"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 554"
-generated_at: "2026-11-23T21:17:35.034Z"
+generated_at: "2026-11-23T21:19:22.468Z"
 status: "active"
 ---
 

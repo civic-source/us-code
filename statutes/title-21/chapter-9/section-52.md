@@ -3,9 +3,9 @@ title: "Section 52 - Authority to assess and use biosimilar biological product f
 usc_title: 21
 usc_section: "52"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 52"
-generated_at: "2026-11-23T21:17:07.125Z"
+generated_at: "2026-11-23T21:18:40.665Z"
 status: "active"
 ---
 

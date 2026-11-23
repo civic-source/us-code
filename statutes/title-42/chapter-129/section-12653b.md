@@ -3,9 +3,9 @@ title: "Section 12653b - ServeAmerica Fellowships"
 usc_title: 42
 usc_section: "12653b"
 chapter: 129
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 12653b"
-generated_at: "2026-11-23T21:17:32.607Z"
+generated_at: "2026-11-23T21:19:19.160Z"
 status: "active"
 ---
 

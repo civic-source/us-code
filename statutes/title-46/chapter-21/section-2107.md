@@ -3,9 +3,9 @@ title: "Section 2107 - Civil penalty procedures"
 usc_title: 46
 usc_section: "2107"
 chapter: 21
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 2107"
-generated_at: "2026-11-23T21:17:36.148Z"
+generated_at: "2026-11-23T21:19:25.674Z"
 status: "active"
 ---
 

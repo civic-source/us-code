@@ -3,9 +3,9 @@ title: "Section 355 - Special pay: retention incentives for members qualified in
 usc_title: 37
 usc_section: "355"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "37 U.S.C. § 355"
-generated_at: "2026-11-23T21:17:21.406Z"
+generated_at: "2026-11-23T21:18:57.096Z"
 status: "active"
 ---
 

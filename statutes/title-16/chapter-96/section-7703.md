@@ -3,9 +3,9 @@ title: "Section 7703 - Authority and responsibility of the Secretary of State"
 usc_title: 16
 usc_section: "7703"
 chapter: 96
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 7703"
-generated_at: "2026-11-23T21:17:04.567Z"
+generated_at: "2026-11-23T21:18:36.425Z"
 status: "active"
 ---
 

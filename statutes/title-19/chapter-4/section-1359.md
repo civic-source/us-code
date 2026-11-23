@@ -3,9 +3,9 @@ title: "Section 1359 - Repealed. Sept. 26, 1949, ch. 585, § 2 , 63 Stat. 698"
 usc_title: 19
 usc_section: "1359"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "19 U.S.C. § 1359"
-generated_at: "2026-11-23T21:17:00.740Z"
+generated_at: "2026-11-23T21:18:31.629Z"
 status: "repealed"
 ---
 

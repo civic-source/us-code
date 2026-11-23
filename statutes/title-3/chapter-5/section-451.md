@@ -3,9 +3,9 @@ title: "Section 451 - Procedure for consideration of alleged violations"
 usc_title: 3
 usc_section: "451"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "3 U.S.C. § 451"
-generated_at: "2026-11-23T21:16:40.882Z"
+generated_at: "2026-11-23T21:18:08.888Z"
 status: "active"
 ---
 

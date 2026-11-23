@@ -3,9 +3,9 @@ title: "Section 8619 - Leases of waterfront property from States or municipaliti
 usc_title: 10
 usc_section: "8619"
 chapter: 861
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 8619"
-generated_at: "2026-11-23T21:16:51.743Z"
+generated_at: "2026-11-23T21:18:20.807Z"
 status: "active"
 ---
 

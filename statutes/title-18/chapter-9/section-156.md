@@ -3,9 +3,9 @@ title: "Section 156 - Knowing disregard of bankruptcy law or rule"
 usc_title: 18
 usc_section: "156"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 156"
-generated_at: "2026-11-23T21:16:59.778Z"
+generated_at: "2026-11-23T21:18:30.590Z"
 status: "active"
 ---
 

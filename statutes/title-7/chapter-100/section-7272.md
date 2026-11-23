@@ -3,9 +3,9 @@ title: "Section 7272 - Sugar program"
 usc_title: 7
 usc_section: "7272"
 chapter: 100
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 7272"
-generated_at: "2026-11-23T21:16:46.981Z"
+generated_at: "2026-11-23T21:18:16.576Z"
 status: "active"
 ---
 

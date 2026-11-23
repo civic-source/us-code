@@ -3,9 +3,9 @@ title: "Section 184 - Civilian Protection Center of Excellence"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-11-23T21:16:51.149Z"
+generated_at: "2026-11-23T21:18:19.979Z"
 status: "active"
 ---
 

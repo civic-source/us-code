@@ -3,9 +3,9 @@ title: "Section 744 - Repealed. Pub. L. 114–328, div. A, title V, § 502(i)(1)
 usc_title: 10
 usc_section: "744"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 744"
-generated_at: "2026-11-23T21:16:51.236Z"
+generated_at: "2026-11-23T21:18:20.075Z"
 status: "repealed"
 ---
 

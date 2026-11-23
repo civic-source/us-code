@@ -3,9 +3,9 @@ title: "Section 9009 - Reports to Congress; regulations"
 usc_title: 26
 usc_section: "9009"
 chapter: 95
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 9009"
-generated_at: "2026-11-23T21:17:16.647Z"
+generated_at: "2026-11-23T21:18:50.727Z"
 status: "active"
 ---
 

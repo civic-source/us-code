@@ -3,9 +3,9 @@ title: "Section 6a - Transferred"
 usc_title: 2
 usc_section: "6a"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 6a"
-generated_at: "2026-11-23T21:16:41.390Z"
+generated_at: "2026-11-23T21:18:09.873Z"
 status: "transferred"
 ---
 

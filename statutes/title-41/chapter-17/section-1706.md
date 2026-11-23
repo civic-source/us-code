@@ -3,9 +3,9 @@ title: "Section 1706 - Personnel evaluation"
 usc_title: 41
 usc_section: "1706"
 chapter: 17
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "41 U.S.C. § 1706"
-generated_at: "2026-11-23T21:17:25.024Z"
+generated_at: "2026-11-23T21:19:02.485Z"
 status: "active"
 ---
 

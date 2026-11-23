@@ -3,9 +3,9 @@ title: "Section 22902 - Capital investment grants to support intercity passenger
 usc_title: 49
 usc_section: "22902"
 chapter: 229
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 22902"
-generated_at: "2026-11-23T21:17:39.001Z"
+generated_at: "2026-11-23T21:19:29.223Z"
 status: "active"
 ---
 

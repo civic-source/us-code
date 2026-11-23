@@ -3,9 +3,9 @@ title: "Section 407 - Complaints by employees"
 usc_title: 5
 usc_section: "407"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 407"
-generated_at: "2026-11-23T21:16:42.558Z"
+generated_at: "2026-11-23T21:18:11.578Z"
 status: "active"
 ---
 

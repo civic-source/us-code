@@ -3,9 +3,9 @@ title: "Section 2110 - Repealed. Pub. L. 97–164, title I, § 136 , Apr. 2, 198
 usc_title: 28
 usc_section: "2110"
 chapter: 133
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 2110"
-generated_at: "2026-11-23T21:17:12.173Z"
+generated_at: "2026-11-23T21:18:45.068Z"
 status: "repealed"
 ---
 

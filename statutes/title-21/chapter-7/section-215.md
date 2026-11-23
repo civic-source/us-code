@@ -3,9 +3,9 @@ title: "Section 215 - “Consul” defined"
 usc_title: 21
 usc_section: "215"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 215"
-generated_at: "2026-11-23T21:17:07.014Z"
+generated_at: "2026-11-23T21:18:40.504Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2274a - Firearm authority of employees conducting field work in 
 usc_title: 7
 usc_section: "2274a"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2274a"
-generated_at: "2026-11-23T21:16:46.872Z"
+generated_at: "2026-11-23T21:18:16.462Z"
 status: "active"
 ---
 

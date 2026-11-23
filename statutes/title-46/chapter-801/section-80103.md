@@ -3,9 +3,9 @@ title: "Section 80103 - Property on Florida coast to be taken to port of entry"
 usc_title: 46
 usc_section: "80103"
 chapter: 801
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 80103"
-generated_at: "2026-11-23T21:17:36.333Z"
+generated_at: "2026-11-23T21:19:26.066Z"
 status: "active"
 ---
 

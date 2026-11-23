@@ -3,9 +3,9 @@ title: "Section 681 - Disclaimer"
 usc_title: 2
 usc_section: "681"
 chapter: 17
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 681"
-generated_at: "2026-11-23T21:16:41.431Z"
+generated_at: "2026-11-23T21:18:09.921Z"
 status: "active"
 ---
 

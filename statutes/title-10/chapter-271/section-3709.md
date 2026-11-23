@@ -3,9 +3,9 @@ title: "Section 3709 - Program to accelerate contracting and pricing processes"
 usc_title: 10
 usc_section: "3709"
 chapter: 271
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 3709"
-generated_at: "2026-11-23T21:16:51.572Z"
+generated_at: "2026-11-23T21:18:20.564Z"
 status: "active"
 ---
 

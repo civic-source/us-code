@@ -3,9 +3,9 @@ title: "Section 2407 - Delinquents for public money; judgment at return term; co
 usc_title: 28
 usc_section: "2407"
 chapter: 161
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 2407"
-generated_at: "2026-11-23T21:17:12.180Z"
+generated_at: "2026-11-23T21:18:45.075Z"
 status: "active"
 ---
 

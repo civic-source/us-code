@@ -3,9 +3,9 @@ title: "Section 18382 - Suborbital research activities"
 usc_title: 42
 usc_section: "18382"
 chapter: 159
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 18382"
-generated_at: "2026-11-23T21:17:32.761Z"
+generated_at: "2026-11-23T21:19:19.475Z"
 status: "active"
 ---
 

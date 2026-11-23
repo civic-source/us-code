@@ -3,9 +3,9 @@ title: "Section 6531 - Periods of limitation on criminal prosecutions"
 usc_title: 26
 usc_section: "6531"
 chapter: 66
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 6531"
-generated_at: "2026-11-23T21:17:16.570Z"
+generated_at: "2026-11-23T21:18:50.606Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1505 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1505"
 chapter: 19
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "29 U.S.C. § 1505"
-generated_at: "2026-11-23T21:17:12.854Z"
+generated_at: "2026-11-23T21:18:46.039Z"
 status: "repealed"
 ---
 

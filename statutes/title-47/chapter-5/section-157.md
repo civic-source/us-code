@@ -3,9 +3,9 @@ title: "Section 157 - New technologies and services"
 usc_title: 47
 usc_section: "157"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 157"
-generated_at: "2026-11-23T21:17:34.968Z"
+generated_at: "2026-11-23T21:19:22.355Z"
 status: "active"
 ---
 

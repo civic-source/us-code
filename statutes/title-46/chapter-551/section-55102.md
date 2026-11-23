@@ -3,9 +3,9 @@ title: "Section 55102 - Transportation of merchandise"
 usc_title: 46
 usc_section: "55102"
 chapter: 551
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 55102"
-generated_at: "2026-11-23T21:17:36.285Z"
+generated_at: "2026-11-23T21:19:25.989Z"
 status: "active"
 ---
 

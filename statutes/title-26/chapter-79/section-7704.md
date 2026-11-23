@@ -3,9 +3,9 @@ title: "Section 7704 - Certain publicly traded partnerships treated as corporati
 usc_title: 26
 usc_section: "7704"
 chapter: 79
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 7704"
-generated_at: "2026-11-23T21:17:16.634Z"
+generated_at: "2026-11-23T21:18:50.710Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
         - **(II)** the capture of carbon dioxide by such facility,
       - **(iv)** the production of electricity from any advanced nuclear facility (as defined in section 45J(d)(2)),
       - **(v)** the production of electricity or thermal energy exclusively using a qualified energy resource described in subparagraph (D) or (H) of section 45(c)(1), or
-      - **(vi)** the operation of energy property described in clause (iii) or (vii) of section 48(a)(3)(A) (determined without regard to any requirement under such section with respect to the date on which construction of property begins).
+      - **(vi)** the operation of energy property described in clause (iii) or (vii) of section 48(a)(3)(A) (determined without regard to any requirement under such section with respect to the date on which construction of property begins). 1 1 So in original. The period probably should be a comma.
     - **(F)** any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
     - **(G)** in the case of a partnership described in the second sentence of subsection (c)(3), income and gains from commodities (not described in section 1221(a)(1)) or futures, forwards, and options with respect to commodities.
   - **(2)** Interest shall not be treated as qualifying income if—

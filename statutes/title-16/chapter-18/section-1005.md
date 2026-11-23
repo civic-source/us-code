@@ -3,9 +3,9 @@ title: "Section 1005 - Works of improvement"
 usc_title: 16
 usc_section: "1005"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 1005"
-generated_at: "2026-11-23T21:17:04.317Z"
+generated_at: "2026-11-23T21:18:36.160Z"
 status: "active"
 ---
 

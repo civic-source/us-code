@@ -3,9 +3,9 @@ title: "Section 3423d - Office of English Language Acquisition, Language Enhance
 usc_title: 20
 usc_section: "3423d"
 chapter: 48
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 3423d"
-generated_at: "2026-11-23T21:17:02.267Z"
+generated_at: "2026-11-23T21:18:33.491Z"
 status: "active"
 ---
 

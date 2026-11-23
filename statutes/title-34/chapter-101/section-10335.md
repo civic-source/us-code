@@ -3,9 +3,9 @@ title: "Section 10335 - Reports"
 usc_title: 34
 usc_section: "10335"
 chapter: 101
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 10335"
-generated_at: "2026-11-23T21:17:18.516Z"
+generated_at: "2026-11-23T21:18:55.114Z"
 status: "active"
 ---
 

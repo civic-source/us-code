@@ -3,9 +3,9 @@ title: "Section 4042 - Duties of Bureau of Prisons"
 usc_title: 18
 usc_section: "4042"
 chapter: 303
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 4042"
-generated_at: "2026-11-23T21:16:59.984Z"
+generated_at: "2026-11-23T21:18:30.782Z"
 status: "active"
 ---
 

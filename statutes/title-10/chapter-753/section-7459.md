@@ -3,9 +3,9 @@ title: "Section 7459 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "7459"
 chapter: 753
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7459"
-generated_at: "2026-11-23T21:16:51.683Z"
+generated_at: "2026-11-23T21:18:20.738Z"
 status: "active"
 ---
 

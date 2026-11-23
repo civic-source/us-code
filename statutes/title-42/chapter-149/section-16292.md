@@ -3,9 +3,9 @@ title: "Section 16292 - Carbon capture technology program"
 usc_title: 42
 usc_section: "16292"
 chapter: 149
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 16292"
-generated_at: "2026-11-23T21:17:32.698Z"
+generated_at: "2026-11-23T21:19:19.326Z"
 status: "active"
 ---
 

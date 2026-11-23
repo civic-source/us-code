@@ -3,9 +3,9 @@ title: "Section 1009 - Civil remedies"
 usc_title: 17
 usc_section: "1009"
 chapter: 10
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "17 U.S.C. § 1009"
-generated_at: "2026-11-23T21:16:59.013Z"
+generated_at: "2026-11-23T21:18:29.758Z"
 status: "active"
 ---
 

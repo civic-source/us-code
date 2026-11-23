@@ -3,9 +3,9 @@ title: "Section 6303 - Annual leave; accrual"
 usc_title: 5
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 6303"
-generated_at: "2026-11-23T21:16:42.730Z"
+generated_at: "2026-11-23T21:18:11.795Z"
 status: "active"
 ---
 

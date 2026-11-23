@@ -3,9 +3,9 @@ title: "Section 1383 - Insurance of cotton; reconcentration"
 usc_title: 7
 usc_section: "1383"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1383"
-generated_at: "2026-11-23T21:16:46.724Z"
+generated_at: "2026-11-23T21:18:16.303Z"
 status: "active"
 ---
 

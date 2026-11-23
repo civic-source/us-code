@@ -3,9 +3,9 @@ title: "Section 8131 - Cyberpiracy protections for individuals"
 usc_title: 15
 usc_section: "8131"
 chapter: 107
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 8131"
-generated_at: "2026-11-23T21:16:57.648Z"
+generated_at: "2026-11-23T21:18:28.161Z"
 status: "active"
 ---
 

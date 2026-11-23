@@ -3,9 +3,9 @@ title: "Section 77i - Court review of orders"
 usc_title: 15
 usc_section: "77i"
 chapter: 2
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 77i"
-generated_at: "2026-11-23T21:16:57.155Z"
+generated_at: "2026-11-23T21:18:27.622Z"
 status: "active"
 ---
 

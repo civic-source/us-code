@@ -3,9 +3,9 @@ title: "Section 2697b - Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 
 usc_title: 42
 usc_section: "2697b"
 chapter: 33
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 2697b"
-generated_at: "2026-11-23T21:17:32.120Z"
+generated_at: "2026-11-23T21:19:18.186Z"
 status: "repealed"
 ---
 

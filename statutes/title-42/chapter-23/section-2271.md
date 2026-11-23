@@ -3,9 +3,9 @@ title: "Section 2271 - General provisions"
 usc_title: 42
 usc_section: "2271"
 chapter: 23
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 2271"
-generated_at: "2026-11-23T21:17:32.104Z"
+generated_at: "2026-11-23T21:19:18.146Z"
 status: "active"
 ---
 

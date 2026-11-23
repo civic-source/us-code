@@ -3,9 +3,9 @@ title: "Section 1691 - Seal and teste of process"
 usc_title: 28
 usc_section: "1691"
 chapter: 113
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 1691"
-generated_at: "2026-11-23T21:17:12.158Z"
+generated_at: "2026-11-23T21:18:45.053Z"
 status: "active"
 ---
 

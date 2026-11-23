@@ -3,9 +3,9 @@ title: "Section 3825 - Scientific and technical research and monitoring; communi
 usc_title: 33
 usc_section: "3825"
 chapter: 51
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 3825"
-generated_at: "2026-11-23T21:17:20.002Z"
+generated_at: "2026-11-23T21:18:54.525Z"
 status: "active"
 ---
 

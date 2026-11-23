@@ -3,9 +3,9 @@ title: "Section 269B - Stapled entities"
 usc_title: 26
 usc_section: "269B"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 269B"
-generated_at: "2026-11-23T21:17:16.088Z"
+generated_at: "2026-11-23T21:18:49.993Z"
 status: "active"
 ---
 

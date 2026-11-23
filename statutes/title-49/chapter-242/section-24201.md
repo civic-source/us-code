@@ -3,9 +3,9 @@ title: "Section 24201 - Efficient environmental reviews"
 usc_title: 49
 usc_section: "24201"
 chapter: 242
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 24201"
-generated_at: "2026-11-23T21:17:39.006Z"
+generated_at: "2026-11-23T21:19:29.229Z"
 status: "active"
 ---
 

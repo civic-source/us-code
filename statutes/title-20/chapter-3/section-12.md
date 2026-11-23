@@ -3,9 +3,9 @@ title: "Section 12 - Grants by Secretary of the Interior to assist Indian tribes
 usc_title: 20
 usc_section: "12"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-11-23T21:17:02.063Z"
+generated_at: "2026-11-23T21:18:33.253Z"
 status: "active"
 ---
 

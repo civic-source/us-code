@@ -3,9 +3,9 @@ title: "Section 744 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "744"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 744"
-generated_at: "2026-11-23T21:17:19.844Z"
+generated_at: "2026-11-23T21:18:54.255Z"
 status: "repealed"
 ---
 

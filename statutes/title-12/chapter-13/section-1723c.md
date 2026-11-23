@@ -3,9 +3,9 @@ title: "Section 1723c - Obligations, participations, or other instruments as law
 usc_title: 12
 usc_section: "1723c"
 chapter: 13
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 1723c"
-generated_at: "2026-11-23T21:16:55.360Z"
+generated_at: "2026-11-23T21:18:25.597Z"
 status: "active"
 ---
 

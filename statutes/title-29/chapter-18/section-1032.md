@@ -3,9 +3,9 @@ title: "Section 1032 - Notice and disclosure requirements with respect to lump s
 usc_title: 29
 usc_section: "1032"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "29 U.S.C. § 1032"
-generated_at: "2026-11-23T21:17:12.782Z"
+generated_at: "2026-11-23T21:18:45.962Z"
 status: "active"
 ---
 

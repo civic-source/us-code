@@ -3,9 +3,9 @@ title: "Section 750 - Command: retired officers"
 usc_title: 10
 usc_section: "750"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 750"
-generated_at: "2026-11-23T21:16:51.236Z"
+generated_at: "2026-11-23T21:18:20.075Z"
 status: "active"
 ---
 

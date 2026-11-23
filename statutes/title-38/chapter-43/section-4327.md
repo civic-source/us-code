@@ -3,9 +3,9 @@ title: "Section 4327 - Noncompliance of Federal officials with deadlines; inappl
 usc_title: 38
 usc_section: "4327"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 4327"
-generated_at: "2026-11-23T21:17:23.174Z"
+generated_at: "2026-11-23T21:19:00.215Z"
 status: "active"
 ---
 

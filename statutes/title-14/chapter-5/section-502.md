@@ -3,9 +3,9 @@ title: "Section 502 - Delegation of powers by the Secretary"
 usc_title: 14
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "14 U.S.C. § 502"
-generated_at: "2026-11-23T21:16:53.749Z"
+generated_at: "2026-11-23T21:18:22.785Z"
 status: "active"
 ---
 

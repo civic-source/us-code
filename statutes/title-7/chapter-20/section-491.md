@@ -3,9 +3,9 @@ title: "Section 491 - Destruction or dumping of farm produce received in interst
 usc_title: 7
 usc_section: "491"
 chapter: 20
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 491"
-generated_at: "2026-11-23T21:16:46.672Z"
+generated_at: "2026-11-23T21:18:16.251Z"
 status: "active"
 ---
 

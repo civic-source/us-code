@@ -3,9 +3,9 @@ title: "Section 7727 - Cemetery concessions contracts"
 usc_title: 10
 usc_section: "7727"
 chapter: 776
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7727"
-generated_at: "2026-11-23T21:16:51.693Z"
+generated_at: "2026-11-23T21:18:20.750Z"
 status: "active"
 ---
 

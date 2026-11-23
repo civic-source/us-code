@@ -3,9 +3,9 @@ title: "Section 4309a - United States responsibilities for employees of the Unit
 usc_title: 22
 usc_section: "4309a"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 4309a"
-generated_at: "2026-11-23T21:17:09.852Z"
+generated_at: "2026-11-23T21:18:42.675Z"
 status: "active"
 ---
 

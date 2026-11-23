@@ -3,9 +3,9 @@ title: "Section 1905 - Authorities"
 usc_title: 21
 usc_section: "1905"
 chapter: 24
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 1905"
-generated_at: "2026-11-23T21:17:07.197Z"
+generated_at: "2026-11-23T21:18:40.751Z"
 status: "active"
 ---
 

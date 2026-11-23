@@ -3,9 +3,9 @@ title: "Section 8591 - Degree granting authority for Naval War College"
 usc_title: 10
 usc_section: "8591"
 chapter: 859
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 8591"
-generated_at: "2026-11-23T21:16:51.741Z"
+generated_at: "2026-11-23T21:18:20.805Z"
 status: "active"
 ---
 

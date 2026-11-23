@@ -3,9 +3,9 @@ title: "Section 303 - Director of the Government Publishing Office and Deputy Di
 usc_title: 44
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "44 U.S.C. § 303"
-generated_at: "2026-11-23T21:17:33.018Z"
+generated_at: "2026-11-23T21:19:01.875Z"
 status: "active"
 ---
 

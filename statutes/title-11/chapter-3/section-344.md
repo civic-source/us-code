@@ -3,9 +3,9 @@ title: "Section 344 - Self-incrimination; immunity"
 usc_title: 11
 usc_section: "344"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "11 U.S.C. § 344"
-generated_at: "2026-11-23T21:16:53.427Z"
+generated_at: "2026-11-23T21:18:22.496Z"
 status: "active"
 ---
 

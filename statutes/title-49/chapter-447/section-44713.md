@@ -3,9 +3,9 @@ title: "Section 44713 - Inspection and maintenance"
 usc_title: 49
 usc_section: "44713"
 chapter: 447
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 44713"
-generated_at: "2026-11-23T21:17:39.189Z"
+generated_at: "2026-11-23T21:19:29.539Z"
 status: "active"
 ---
 

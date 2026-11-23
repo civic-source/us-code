@@ -3,9 +3,9 @@ title: "Section 23l - Transferred"
 usc_title: 22
 usc_section: "23l"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 23l"
-generated_at: "2026-11-23T21:17:09.542Z"
+generated_at: "2026-11-23T21:18:42.353Z"
 status: "transferred"
 ---
 

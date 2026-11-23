@@ -3,9 +3,9 @@ title: "Section 1390 - Separability"
 usc_title: 7
 usc_section: "1390"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1390"
-generated_at: "2026-11-23T21:16:46.726Z"
+generated_at: "2026-11-23T21:18:16.304Z"
 status: "active"
 ---
 

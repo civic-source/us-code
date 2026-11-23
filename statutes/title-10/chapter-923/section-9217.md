@@ -3,9 +3,9 @@ title: "Section 9217 - Duties: chaplains; assistance required of commanding offi
 usc_title: 10
 usc_section: "9217"
 chapter: 923
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 9217"
-generated_at: "2026-11-23T21:16:51.783Z"
+generated_at: "2026-11-23T21:18:20.880Z"
 status: "active"
 ---
 

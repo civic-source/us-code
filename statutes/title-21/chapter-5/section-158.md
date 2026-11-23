@@ -3,9 +3,9 @@ title: "Section 158 - Offenses; punishment"
 usc_title: 21
 usc_section: "158"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 158"
-generated_at: "2026-11-23T21:17:07.012Z"
+generated_at: "2026-11-23T21:18:40.502Z"
 status: "active"
 ---
 

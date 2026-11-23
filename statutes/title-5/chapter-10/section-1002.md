@@ -3,9 +3,9 @@ title: "Section 1002 - Findings and declarations"
 usc_title: 5
 usc_section: "1002"
 chapter: 10
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 1002"
-generated_at: "2026-11-23T21:16:42.593Z"
+generated_at: "2026-11-23T21:18:11.623Z"
 status: "active"
 ---
 

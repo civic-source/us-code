@@ -3,9 +3,9 @@ title: "Section 18812 - Leveraging existing agency programs to assist small and 
 usc_title: 42
 usc_section: "18812"
 chapter: 162
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 18812"
-generated_at: "2026-11-23T21:17:32.779Z"
+generated_at: "2026-11-23T21:19:19.521Z"
 status: "active"
 ---
 

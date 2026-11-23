@@ -3,9 +3,9 @@ title: "Section 1703F - Credentialing verification requirements for providers of
 usc_title: 38
 usc_section: "1703F"
 chapter: 17
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 1703F"
-generated_at: "2026-11-23T21:17:23.052Z"
+generated_at: "2026-11-23T21:18:59.968Z"
 status: "active"
 ---
 

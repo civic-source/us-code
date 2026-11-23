@@ -3,9 +3,9 @@ title: "Section 5196a - Mutual aid pacts between States and neighboring countrie
 usc_title: 42
 usc_section: "5196a"
 chapter: 68
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 5196a"
-generated_at: "2026-11-23T21:17:32.251Z"
+generated_at: "2026-11-23T21:19:18.501Z"
 status: "active"
 ---
 

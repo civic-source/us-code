@@ -3,9 +3,9 @@ title: "Section 206a - Pay of members of reserve components for inactive-duty tr
 usc_title: 37
 usc_section: "206a"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "37 U.S.C. § 206a"
-generated_at: "2026-11-23T21:17:21.375Z"
+generated_at: "2026-11-23T21:18:57.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2563 - Injunction"
 usc_title: 7
 usc_section: "2563"
 chapter: 57
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2563"
-generated_at: "2026-11-23T21:16:46.880Z"
+generated_at: "2026-11-23T21:18:16.470Z"
 status: "active"
 ---
 

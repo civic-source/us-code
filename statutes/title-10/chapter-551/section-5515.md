@@ -3,9 +3,9 @@ title: "Section 5515 - Missile defense and defeat programs: major force program 
 usc_title: 10
 usc_section: "5515"
 chapter: 551
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 5515"
-generated_at: "2026-11-23T21:16:51.637Z"
+generated_at: "2026-11-23T21:18:20.683Z"
 status: "active"
 ---
 

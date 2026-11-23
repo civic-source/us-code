@@ -3,9 +3,9 @@ title: "Section 7725 - Superintendents"
 usc_title: 10
 usc_section: "7725"
 chapter: 776
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7725"
-generated_at: "2026-11-23T21:16:51.692Z"
+generated_at: "2026-11-23T21:18:20.749Z"
 status: "active"
 ---
 

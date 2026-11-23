@@ -3,9 +3,9 @@ title: "Section 1012 - Publications and reports"
 usc_title: 45
 usc_section: "1012"
 chapter: 19
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "45 U.S.C. § 1012"
-generated_at: "2026-11-23T21:17:33.237Z"
+generated_at: "2026-11-23T21:19:04.259Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18813 - Leveraging smart manufacturing infrastructure at Nationa
 usc_title: 42
 usc_section: "18813"
 chapter: 162
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 18813"
-generated_at: "2026-11-23T21:17:32.779Z"
+generated_at: "2026-11-23T21:19:19.522Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6158 - International agreements on information on radioactive ma
 usc_title: 10
 usc_section: "6158"
 chapter: 603
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6158"
-generated_at: "2026-11-23T21:16:51.646Z"
+generated_at: "2026-11-23T21:18:20.693Z"
 status: "active"
 ---
 

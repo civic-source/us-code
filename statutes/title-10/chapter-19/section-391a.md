@@ -3,9 +3,9 @@ title: "Section 391a - Annual reports on support by military departments for Uni
 usc_title: 10
 usc_section: "391a"
 chapter: 19
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 391a"
-generated_at: "2026-11-23T21:16:51.177Z"
+generated_at: "2026-11-23T21:18:20.007Z"
 status: "active"
 ---
 

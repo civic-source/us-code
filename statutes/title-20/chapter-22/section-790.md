@@ -3,9 +3,9 @@ title: "Section 790 - Repealed. Pub. L. 91–346, § 5(d)(3)(B) , July 20, 1970 
 usc_title: 20
 usc_section: "790"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 790"
-generated_at: "2026-11-23T21:17:02.081Z"
+generated_at: "2026-11-23T21:18:33.265Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3513 - Omitted or Repealed."
 usc_title: 22
 usc_section: "3513"
 chapter: 50
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 3513"
-generated_at: "2026-11-23T21:17:09.800Z"
+generated_at: "2026-11-23T21:18:42.629Z"
 status: "repealed"
 ---
 

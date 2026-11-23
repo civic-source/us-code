@@ -3,9 +3,9 @@ title: "Section 160a - Rules and regulations"
 usc_title: 45
 usc_section: "160a"
 chapter: 8
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "45 U.S.C. § 160a"
-generated_at: "2026-11-23T21:17:33.199Z"
+generated_at: "2026-11-23T21:19:04.186Z"
 status: "active"
 ---
 

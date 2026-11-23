@@ -3,9 +3,9 @@ title: "Section 1436 - Repealed. Pub. L. 91–609, title V, § 503(4) , Dec. 31,
 usc_title: 42
 usc_section: "1436"
 chapter: 8
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 1436"
-generated_at: "2026-11-23T21:17:31.945Z"
+generated_at: "2026-11-23T21:19:17.811Z"
 status: "repealed"
 ---
 

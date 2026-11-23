@@ -3,9 +3,9 @@ title: "Section 7382c - Fellowship Program"
 usc_title: 42
 usc_section: "7382c"
 chapter: 84
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 7382c"
-generated_at: "2026-11-23T21:17:32.369Z"
+generated_at: "2026-11-23T21:19:18.762Z"
 status: "active"
 ---
 

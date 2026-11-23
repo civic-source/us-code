@@ -3,9 +3,9 @@ title: "Section 320301 - National monuments"
 usc_title: 54
 usc_section: "320301"
 chapter: 3203
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "54 U.S.C. § 320301"
-generated_at: "2026-11-23T21:17:41.059Z"
+generated_at: "2026-11-23T21:19:32.213Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
 | Charles Young Buffalo Soldiers National Monument, Ohio.—Proc. No. 8945, Mar. 25, 2013 , 78 F.R. 18777. |
 | Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961 , 75 Stat. 1023 . |
 | Chimney Rock National Monument, Colorado.—Proc. No. 8868, Sept. 21, 2012 , 77 F.R. 59275. |
-| Chiricahua National Monument, Arizona.—Proc. No. 1692, Apr. 18, 1924 , 43 Stat. 1946 ; Proc. No. 2288, June 10, 1938 , 52 Stat. 1551 . |
+| Chiricahua National Monument, Arizona [Monument redesignated Chiricahua National Park, see section 410 llll of Title 16, Conservation].—Proc. No. 1692, Apr. 18, 1924 , 43 Stat. 1946 ; Proc. No. 2288, June 10, 1938 , 52 Stat. 1551 . |
 | Chuckwalla National Monument, California.—Proc. No. 10881, Jan. 14, 2025 , 90 F.R. 6715; Ex. Ord. No. 14354, § 1(q), Sept. 29, 2025 , 90 F.R. 48145. |
 | Cinder Cone National Monument, California.—Proc. No. 753, May 6, 1907 , 35 Stat. 2131 . |
 | Colonial National Monument, Virginia [Monument redesignated Colonial National Historical Park, see section 81 of Title 16 , Conservation].—Proc. No. 1929, Dec. 30, 1930 , 46 Stat. 3041 ; Proc. No. 2055, Aug. 22, 1933 , 48 Stat. 1706 . |

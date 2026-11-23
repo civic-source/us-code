@@ -3,9 +3,9 @@ title: "Section 61101 - Bridging Immigration-related Deficits Experienced Nation
 usc_title: 34
 usc_section: "61101"
 chapter: 611
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 61101"
-generated_at: "2026-11-23T21:17:18.639Z"
+generated_at: "2026-11-23T21:18:55.312Z"
 status: "active"
 ---
 

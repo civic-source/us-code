@@ -3,9 +3,9 @@ title: "Section 184 - Definitions"
 usc_title: 13
 usc_section: "184"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "13 U.S.C. § 184"
-generated_at: "2026-11-23T21:16:53.097Z"
+generated_at: "2026-11-23T21:18:22.244Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10156 - Interim Storage Fund"
 usc_title: 42
 usc_section: "10156"
 chapter: 108
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 10156"
-generated_at: "2026-11-23T21:17:32.529Z"
+generated_at: "2026-11-23T21:19:19.030Z"
 status: "active"
 ---
 

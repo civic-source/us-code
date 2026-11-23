@@ -3,9 +3,9 @@ title: "Section 79k - Mitigation of adverse economic impacts to local economy re
 usc_title: 16
 usc_section: "79k"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 79k"
-generated_at: "2026-11-23T21:17:03.974Z"
+generated_at: "2026-11-23T21:18:35.763Z"
 status: "active"
 ---
 

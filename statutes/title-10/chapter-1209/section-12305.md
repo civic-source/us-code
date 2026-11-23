@@ -3,9 +3,9 @@ title: "Section 12305 - Authority of President to suspend certain laws relating 
 usc_title: 10
 usc_section: "12305"
 chapter: 1209
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 12305"
-generated_at: "2026-11-23T21:16:51.842Z"
+generated_at: "2026-11-23T21:18:20.973Z"
 status: "active"
 ---
 

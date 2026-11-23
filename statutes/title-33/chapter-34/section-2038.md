@@ -3,9 +3,9 @@ title: "Section 2038 - Repealed. Pub. L. 108–293, title III, § 303(a) , (c), 
 usc_title: 33
 usc_section: "2038"
 chapter: 34
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 2038"
-generated_at: "2026-11-23T21:17:19.936Z"
+generated_at: "2026-11-23T21:18:54.406Z"
 status: "repealed"
 ---
 

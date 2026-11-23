@@ -3,9 +3,9 @@ title: "Section 642 - Special rules for credits and deductions"
 usc_title: 26
 usc_section: "642"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 642"
-generated_at: "2026-11-23T21:17:16.221Z"
+generated_at: "2026-11-23T21:18:50.148Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
         - **(II)** all of the beneficiaries of the trust as of the close of the taxable year are determined by the Commissioner of Social Security to have been disabled (within the meaning of section 1614(a)(3) of the Social Security Act, 42 U.S.C. 1382c(a)(3) ) for some portion of such year.
       - **(iii)**
         - **(I)** In the case of any taxable year in which the exemption amount under section 151(d) is zero, clause (i) shall be applied by substituting “$4,150” for “the exemption amount under section 151(d)”.
-        - **(II)** In the case of any taxable year beginning in a calendar year after 2018, the $4,150 amount in subparagraph (A) shall be increased in the same manner as provided in section 6334(d)(4)(C).
+        - **(II)** In the case of any taxable year beginning in a calendar year after 2018, the $4,150 2 2 So in original. amount in subparagraph (A) shall be increased in the same manner as provided in section 6334(d)(4)(C).
   - **(3)** The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).
 - **(c)**
   - **(1)** In the case of an estate or trust (other than a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.

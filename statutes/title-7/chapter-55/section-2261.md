@@ -3,9 +3,9 @@ title: "Section 2261 - Credit of donations and proceeds from exhibitions to appr
 usc_title: 7
 usc_section: "2261"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2261"
-generated_at: "2026-11-23T21:16:46.871Z"
+generated_at: "2026-11-23T21:18:16.461Z"
 status: "active"
 ---
 

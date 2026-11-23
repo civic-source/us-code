@@ -3,9 +3,9 @@ title: "Section 321h - Use of national private sector networks in emergency resp
 usc_title: 6
 usc_section: "321h"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "6 U.S.C. § 321h"
-generated_at: "2026-11-23T21:16:44.533Z"
+generated_at: "2026-11-23T21:18:14.556Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6249c - Contracts for which implementing legislation is needed"
 usc_title: 42
 usc_section: "6249c"
 chapter: 77
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 6249c"
-generated_at: "2026-11-23T21:17:32.286Z"
+generated_at: "2026-11-23T21:19:18.570Z"
 status: "active"
 ---
 

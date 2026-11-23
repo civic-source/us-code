@@ -3,9 +3,9 @@ title: "Section 8462 - Parking and restroom opportunities for Federal recreation
 usc_title: 16
 usc_section: "8462"
 chapter: 103
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 8462"
-generated_at: "2026-11-23T21:17:04.585Z"
+generated_at: "2026-11-23T21:18:36.437Z"
 status: "active"
 ---
 

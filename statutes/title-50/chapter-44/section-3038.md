@@ -3,9 +3,9 @@ title: "Section 3038 - Responsibilities of Secretary of Defense pertaining to Na
 usc_title: 50
 usc_section: "3038"
 chapter: 44
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 3038"
-generated_at: "2026-11-23T21:17:37.207Z"
+generated_at: "2026-11-23T21:19:24.324Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1012 - Rehabilitation of structural measures near, at, or past t
 usc_title: 16
 usc_section: "1012"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 1012"
-generated_at: "2026-11-23T21:17:04.318Z"
+generated_at: "2026-11-23T21:18:36.162Z"
 status: "active"
 ---
 

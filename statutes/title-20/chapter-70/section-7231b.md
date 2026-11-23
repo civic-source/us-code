@@ -3,9 +3,9 @@ title: "Section 7231b - Program authorized"
 usc_title: 20
 usc_section: "7231b"
 chapter: 70
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 7231b"
-generated_at: "2026-11-23T21:17:02.330Z"
+generated_at: "2026-11-23T21:18:33.577Z"
 status: "active"
 ---
 

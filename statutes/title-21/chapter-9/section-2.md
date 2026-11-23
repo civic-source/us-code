@@ -3,9 +3,9 @@ title: "Section 2 - Activities of the Food and Drug Administration"
 usc_title: 21
 usc_section: "2"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 2"
-generated_at: "2026-11-23T21:17:07.131Z"
+generated_at: "2026-11-23T21:18:40.674Z"
 status: "active"
 ---
 

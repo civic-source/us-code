@@ -3,9 +3,9 @@ title: "Section 1185b - Required coverage for reconstructive surgery following m
 usc_title: 29
 usc_section: "1185b"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "29 U.S.C. § 1185b"
-generated_at: "2026-11-23T21:17:12.822Z"
+generated_at: "2026-11-23T21:18:46.004Z"
 status: "active"
 ---
 

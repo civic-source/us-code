@@ -3,9 +3,9 @@ title: "Section 2313a - Designation of transactions of sanctioned persons as of 
 usc_title: 21
 usc_section: "2313a"
 chapter: 28
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 2313a"
-generated_at: "2026-11-23T21:17:07.203Z"
+generated_at: "2026-11-23T21:18:40.758Z"
 status: "active"
 ---
 

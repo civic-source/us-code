@@ -3,9 +3,9 @@ title: "Section 81A - Alaska"
 usc_title: 28
 usc_section: "81A"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 81A"
-generated_at: "2026-11-23T21:17:12.069Z"
+generated_at: "2026-11-23T21:18:44.954Z"
 status: "active"
 ---
 

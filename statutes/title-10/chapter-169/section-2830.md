@@ -3,9 +3,9 @@ title: "Section 2830 - Repealed. Pub. L. 116–283, div. B, title XXVIII, § 281
 usc_title: 10
 usc_section: "2830"
 chapter: 169
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 2830"
-generated_at: "2026-11-23T21:16:51.530Z"
+generated_at: "2026-11-23T21:18:20.503Z"
 status: "repealed"
 ---
 

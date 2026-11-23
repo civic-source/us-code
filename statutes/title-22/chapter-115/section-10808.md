@@ -3,9 +3,9 @@ title: "Section 10808 - Prohibition on energy exports to, and investment in ener
 usc_title: 22
 usc_section: "10808"
 chapter: 115
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 10808"
-generated_at: "2026-11-23T21:17:10.017Z"
+generated_at: "2026-11-23T21:18:42.846Z"
 status: "active"
 ---
 

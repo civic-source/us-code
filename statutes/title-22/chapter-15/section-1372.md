@@ -3,9 +3,9 @@ title: "Section 1372 - Omitted"
 usc_title: 22
 usc_section: "1372"
 chapter: 15
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 1372"
-generated_at: "2026-11-23T21:17:09.615Z"
+generated_at: "2026-11-23T21:18:42.435Z"
 status: "omitted"
 ---
 

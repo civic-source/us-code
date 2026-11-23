@@ -3,9 +3,9 @@ title: "Section 44914 - Airport construction guidelines"
 usc_title: 49
 usc_section: "44914"
 chapter: 449
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 44914"
-generated_at: "2026-11-23T21:17:39.228Z"
+generated_at: "2026-11-23T21:19:29.591Z"
 status: "active"
 ---
 

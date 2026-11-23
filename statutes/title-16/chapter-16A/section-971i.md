@@ -3,9 +3,9 @@ title: "Section 971i - Research on Atlantic highly migratory species"
 usc_title: 16
 usc_section: "971i"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 971i"
-generated_at: "2026-11-23T21:17:04.314Z"
+generated_at: "2026-11-23T21:18:36.157Z"
 status: "active"
 ---
 

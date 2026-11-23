@@ -3,9 +3,9 @@ title: "Section 2734e - Annual Report"
 usc_title: 22
 usc_section: "2734e"
 chapter: 38
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 2734e"
-generated_at: "2026-11-23T21:17:09.765Z"
+generated_at: "2026-11-23T21:18:42.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6125 - Selected acquisition reports 1 1 So in original. Probably
 usc_title: 10
 usc_section: "6125"
 chapter: 602
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6125"
-generated_at: "2026-11-23T21:16:51.641Z"
+generated_at: "2026-11-23T21:18:20.689Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9624 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9624"
 chapter: 76
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 9624"
-generated_at: "2026-11-23T21:17:02.374Z"
+generated_at: "2026-11-23T21:18:33.631Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8287 - United States Marine Band; United States Marine Drum and 
 usc_title: 10
 usc_section: "8287"
 chapter: 835
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 8287"
-generated_at: "2026-11-23T21:16:51.716Z"
+generated_at: "2026-11-23T21:18:20.779Z"
 status: "active"
 ---
 

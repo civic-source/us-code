@@ -3,9 +3,9 @@ title: "Section 6050Z - Reports relating to long-term care premium statements"
 usc_title: 26
 usc_section: "6050Z"
 chapter: 61
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 6050Z"
-generated_at: "2026-11-23T21:17:16.511Z"
+generated_at: "2026-11-23T21:18:50.514Z"
 status: "active"
 ---
 

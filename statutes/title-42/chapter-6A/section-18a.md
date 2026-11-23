@@ -3,9 +3,9 @@ title: "Section 18a - Annual study on boil water advisories"
 usc_title: 42
 usc_section: "18a"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 18a"
-generated_at: "2026-11-23T21:17:31.450Z"
+generated_at: "2026-11-23T21:19:16.750Z"
 status: "active"
 ---
 

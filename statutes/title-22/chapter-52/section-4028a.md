@@ -3,9 +3,9 @@ title: "Section 4028a - Per diem allowance for newly hired members of the Foreig
 usc_title: 22
 usc_section: "4028a"
 chapter: 52
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 4028a"
-generated_at: "2026-11-23T21:17:09.827Z"
+generated_at: "2026-11-23T21:18:42.653Z"
 status: "active"
 ---
 

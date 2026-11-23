@@ -3,9 +3,9 @@ title: "Section 361 - Prohibition on providing financial assistance to terrorist
 usc_title: 10
 usc_section: "361"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 361"
-generated_at: "2026-11-23T21:16:51.174Z"
+generated_at: "2026-11-23T21:18:20.004Z"
 status: "active"
 ---
 

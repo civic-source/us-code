@@ -3,9 +3,9 @@ title: "Section 580k - Grazing advisory boards"
 usc_title: 16
 usc_section: "580k"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 580k"
-generated_at: "2026-11-23T21:17:04.200Z"
+generated_at: "2026-11-23T21:18:36.042Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4603 - Repealed. Pub. L. 87–456, title III, § 302(d) , May 24
 usc_title: 26
 usc_section: "4603"
 chapter: 38
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 4603"
-generated_at: "2026-11-23T21:17:16.431Z"
+generated_at: "2026-11-23T21:18:50.386Z"
 status: "repealed"
 ---
 

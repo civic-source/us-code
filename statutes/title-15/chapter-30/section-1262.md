@@ -3,9 +3,9 @@ title: "Section 1262 - Declaration of hazardous substances"
 usc_title: 15
 usc_section: "1262"
 chapter: 30
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 1262"
-generated_at: "2026-11-23T21:16:57.363Z"
+generated_at: "2026-11-23T21:18:27.904Z"
 status: "active"
 ---
 

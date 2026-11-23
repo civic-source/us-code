@@ -3,9 +3,9 @@ title: "Section 3352f - Information-sharing program for positions of trust and s
 usc_title: 50
 usc_section: "3352f"
 chapter: 45
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 3352f"
-generated_at: "2026-11-23T21:17:37.242Z"
+generated_at: "2026-11-23T21:19:24.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111 - Gold Star Mother’s Day"
 usc_title: 36
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "36 U.S.C. § 111"
-generated_at: "2026-11-23T21:17:21.904Z"
+generated_at: "2026-11-23T21:18:58.092Z"
 status: "active"
 ---
 

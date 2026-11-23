@@ -3,9 +3,9 @@ title: "Section 4538 - Reimbursement of residential telecommunications expenses 
 usc_title: 2
 usc_section: "4538"
 chapter: 45
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 4538"
-generated_at: "2026-11-23T21:16:41.498Z"
+generated_at: "2026-11-23T21:18:09.997Z"
 status: "active"
 ---
 

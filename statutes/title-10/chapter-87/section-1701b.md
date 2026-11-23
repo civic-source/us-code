@@ -3,9 +3,9 @@ title: "Section 1701b - Enhanced pay authority for certain acquisition and techn
 usc_title: 10
 usc_section: "1701b"
 chapter: 87
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 1701b"
-generated_at: "2026-11-23T21:16:51.401Z"
+generated_at: "2026-11-23T21:18:20.334Z"
 status: "active"
 ---
 

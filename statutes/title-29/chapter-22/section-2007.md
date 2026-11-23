@@ -3,9 +3,9 @@ title: "Section 2007 - Restrictions on use of exemptions"
 usc_title: 29
 usc_section: "2007"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "29 U.S.C. § 2007"
-generated_at: "2026-11-23T21:17:12.860Z"
+generated_at: "2026-11-23T21:18:46.045Z"
 status: "active"
 ---
 

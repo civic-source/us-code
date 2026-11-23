@@ -3,9 +3,9 @@ title: "Section 70501 - Findings and declarations"
 usc_title: 46
 usc_section: "70501"
 chapter: 705
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 70501"
-generated_at: "2026-11-23T21:17:36.330Z"
+generated_at: "2026-11-23T21:19:26.062Z"
 status: "active"
 ---
 

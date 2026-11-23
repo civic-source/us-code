@@ -3,9 +3,9 @@ title: "Section 1 - Requisition and use of grain for prevention of starvation of
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-11-23T21:17:04.218Z"
+generated_at: "2026-11-23T21:18:36.062Z"
 status: "active"
 ---
 

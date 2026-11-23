@@ -3,9 +3,9 @@ title: "Section 10503 - Bilingual election requirements"
 usc_title: 52
 usc_section: "10503"
 chapter: 105
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "52 U.S.C. § 10503"
-generated_at: "2026-11-23T21:17:40.628Z"
+generated_at: "2026-11-23T21:19:31.259Z"
 status: "active"
 ---
 

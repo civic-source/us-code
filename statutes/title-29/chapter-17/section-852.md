@@ -3,9 +3,9 @@ title: "Section 852 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "852"
 chapter: 17
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "29 U.S.C. § 852"
-generated_at: "2026-11-23T21:17:12.773Z"
+generated_at: "2026-11-23T21:18:45.953Z"
 status: "repealed"
 ---
 

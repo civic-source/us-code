@@ -3,9 +3,9 @@ title: "Section 20231 - Eligibility for consideration for promotion: general rul
 usc_title: 10
 usc_section: "20231"
 chapter: 2005
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 20231"
-generated_at: "2026-11-23T21:16:51.876Z"
+generated_at: "2026-11-23T21:18:21.023Z"
 status: "active"
 ---
 

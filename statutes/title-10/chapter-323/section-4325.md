@@ -3,9 +3,9 @@ title: "Section 4325 - Major weapon systems: assessment, management, and control
 usc_title: 10
 usc_section: "4325"
 chapter: 323
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 4325"
-generated_at: "2026-11-23T21:16:51.605Z"
+generated_at: "2026-11-23T21:18:20.622Z"
 status: "active"
 ---
 

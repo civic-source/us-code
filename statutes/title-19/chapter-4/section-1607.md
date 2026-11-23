@@ -3,9 +3,9 @@ title: "Section 1607 - Seizure; value $500,000 or less, prohibited merchandise, 
 usc_title: 19
 usc_section: "1607"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-11-23T21:17:00.770Z"
+generated_at: "2026-11-23T21:18:31.668Z"
 status: "active"
 ---
 

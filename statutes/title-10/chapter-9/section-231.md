@@ -3,9 +3,9 @@ title: "Section 231 - Budgeting for construction, maintenance, and modernization
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-11-23T21:16:51.158Z"
+generated_at: "2026-11-23T21:18:19.986Z"
 status: "active"
 ---
 

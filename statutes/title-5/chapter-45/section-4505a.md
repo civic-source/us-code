@@ -3,9 +3,9 @@ title: "Section 4505a - Performance-based cash awards"
 usc_title: 5
 usc_section: "4505a"
 chapter: 45
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 4505a"
-generated_at: "2026-11-23T21:16:42.649Z"
+generated_at: "2026-11-23T21:18:11.694Z"
 status: "active"
 ---
 

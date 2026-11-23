@@ -3,9 +3,9 @@ title: "Section 3509 - Designation of central collection agency"
 usc_title: 44
 usc_section: "3509"
 chapter: 35
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "44 U.S.C. § 3509"
-generated_at: "2026-11-23T21:17:33.046Z"
+generated_at: "2026-11-23T21:19:01.938Z"
 status: "active"
 ---
 

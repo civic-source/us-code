@@ -3,9 +3,9 @@ title: "Section 384a - Foreign supplier verification program"
 usc_title: 21
 usc_section: "384a"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 384a"
-generated_at: "2026-11-23T21:17:07.134Z"
+generated_at: "2026-11-23T21:18:40.677Z"
 status: "active"
 ---
 

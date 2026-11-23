@@ -3,9 +3,9 @@ title: "Section 6908 - Recordkeeping"
 usc_title: 15
 usc_section: "6908"
 chapter: 95
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 6908"
-generated_at: "2026-11-23T21:16:57.626Z"
+generated_at: "2026-11-23T21:18:28.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 614 - Repealed. Pub. L. 113–235, div. G, title II, § 228(f) ,
 usc_title: 42
 usc_section: "614"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 614"
-generated_at: "2026-11-23T21:17:31.588Z"
+generated_at: "2026-11-23T21:19:17.070Z"
 status: "repealed"
 ---
 

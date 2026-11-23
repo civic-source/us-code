@@ -3,9 +3,9 @@ title: "Section 5609 - Destruction of unregistered stills, distilling apparatus,
 usc_title: 26
 usc_section: "5609"
 chapter: 51
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 5609"
-generated_at: "2026-11-23T21:17:16.483Z"
+generated_at: "2026-11-23T21:18:50.466Z"
 status: "active"
 ---
 

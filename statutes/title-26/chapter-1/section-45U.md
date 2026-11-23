@@ -3,9 +3,9 @@ title: "Section 45U - Zero-emission nuclear power production credit"
 usc_title: 26
 usc_section: "45U"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 45U"
-generated_at: "2026-11-23T21:17:15.952Z"
+generated_at: "2026-11-23T21:18:49.848Z"
 status: "active"
 ---
 

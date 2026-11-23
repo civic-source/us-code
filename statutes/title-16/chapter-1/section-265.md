@@ -3,9 +3,9 @@ title: "Section 265 - Addition of lands"
 usc_title: 16
 usc_section: "265"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 265"
-generated_at: "2026-11-23T21:17:03.994Z"
+generated_at: "2026-11-23T21:18:35.790Z"
 status: "active"
 ---
 

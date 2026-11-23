@@ -3,9 +3,9 @@ title: "Section 1766a - Presidential regulations"
 usc_title: 7
 usc_section: "1766a"
 chapter: 43
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 1766a"
-generated_at: "2026-11-23T21:16:46.791Z"
+generated_at: "2026-11-23T21:18:16.371Z"
 status: "active"
 ---
 

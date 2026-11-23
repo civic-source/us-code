@@ -3,9 +3,9 @@ title: "Section 371 - Definitions"
 usc_title: 43
 usc_section: "371"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 371"
-generated_at: "2026-11-23T21:17:26.368Z"
+generated_at: "2026-11-23T21:19:03.474Z"
 status: "active"
 ---
 

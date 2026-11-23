@@ -3,9 +3,9 @@ title: "Section 6107 - Enforcement"
 usc_title: 7
 usc_section: "6107"
 chapter: 90
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 6107"
-generated_at: "2026-11-23T21:16:46.948Z"
+generated_at: "2026-11-23T21:18:16.541Z"
 status: "active"
 ---
 

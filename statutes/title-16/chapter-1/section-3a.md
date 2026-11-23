@@ -3,9 +3,9 @@ title: "Section 3a - Contracts to provide visitor reservation services"
 usc_title: 16
 usc_section: "3a"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 3a"
-generated_at: "2026-11-23T21:17:04.102Z"
+generated_at: "2026-11-23T21:18:35.926Z"
 status: "active"
 ---
 

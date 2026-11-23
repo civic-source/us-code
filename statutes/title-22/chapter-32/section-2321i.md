@@ -3,9 +3,9 @@ title: "Section 2321i - Overseas management of assistance and sales programs"
 usc_title: 22
 usc_section: "2321i"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 2321i"
-generated_at: "2026-11-23T21:17:09.690Z"
+generated_at: "2026-11-23T21:18:42.514Z"
 status: "active"
 ---
 

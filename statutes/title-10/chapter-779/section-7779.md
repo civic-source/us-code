@@ -3,9 +3,9 @@ title: "Section 7779 - Use of public property"
 usc_title: 10
 usc_section: "7779"
 chapter: 779
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 7779"
-generated_at: "2026-11-23T21:16:51.694Z"
+generated_at: "2026-11-23T21:18:20.751Z"
 status: "active"
 ---
 

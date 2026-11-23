@@ -3,9 +3,9 @@ title: "Section 1855ii - Repealed. Pub. L. 91–606, title III, § 302(2) , Dec.
 usc_title: 42
 usc_section: "1855ii"
 chapter: 15
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 1855ii"
-generated_at: "2026-11-23T21:17:32.032Z"
+generated_at: "2026-11-23T21:19:17.979Z"
 status: "repealed"
 ---
 

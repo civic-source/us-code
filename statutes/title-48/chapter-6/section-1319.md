@@ -3,9 +3,9 @@ title: "Section 1319 - Omitted"
 usc_title: 48
 usc_section: "1319"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "48 U.S.C. § 1319"
-generated_at: "2026-11-23T21:17:35.348Z"
+generated_at: "2026-11-23T21:19:21.543Z"
 status: "omitted"
 ---
 

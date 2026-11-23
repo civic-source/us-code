@@ -3,9 +3,9 @@ title: "Section 254 - Employee discipline"
 usc_title: 6
 usc_section: "254"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "6 U.S.C. § 254"
-generated_at: "2026-11-23T21:16:44.522Z"
+generated_at: "2026-11-23T21:18:14.550Z"
 status: "active"
 ---
 

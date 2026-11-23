@@ -3,9 +3,9 @@ title: "Section 529 - Annual report to Congress"
 usc_title: 38
 usc_section: "529"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 529"
-generated_at: "2026-11-23T21:17:23.017Z"
+generated_at: "2026-11-23T21:18:59.889Z"
 status: "active"
 ---
 

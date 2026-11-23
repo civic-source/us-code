@@ -3,9 +3,9 @@ title: "Section 12202 - Emerging community development corporation revolving loa
 usc_title: 34
 usc_section: "12202"
 chapter: 121
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 12202"
-generated_at: "2026-11-23T21:17:18.566Z"
+generated_at: "2026-11-23T21:18:55.179Z"
 status: "active"
 ---
 

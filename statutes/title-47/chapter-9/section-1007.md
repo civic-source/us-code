@@ -3,9 +3,9 @@ title: "Section 1007 - Enforcement orders"
 usc_title: 47
 usc_section: "1007"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 1007"
-generated_at: "2026-11-23T21:17:35.057Z"
+generated_at: "2026-11-23T21:19:22.502Z"
 status: "active"
 ---
 

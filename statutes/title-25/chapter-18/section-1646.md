@@ -3,9 +3,9 @@ title: "Section 1646 - Authorization for emergency contract health services"
 usc_title: 25
 usc_section: "1646"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "25 U.S.C. § 1646"
-generated_at: "2026-11-23T21:17:07.828Z"
+generated_at: "2026-11-23T21:18:39.370Z"
 status: "active"
 ---
 

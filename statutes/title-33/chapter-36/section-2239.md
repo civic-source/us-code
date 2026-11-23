@@ -3,9 +3,9 @@ title: "Section 2239 - Repealed. Pub. L. 101–640, title IV, § 412(f) , Nov. 2
 usc_title: 33
 usc_section: "2239"
 chapter: 36
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 2239"
-generated_at: "2026-11-23T21:17:19.945Z"
+generated_at: "2026-11-23T21:18:54.422Z"
 status: "repealed"
 ---
 

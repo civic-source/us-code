@@ -3,9 +3,9 @@ title: "Section 4123 - Severability"
 usc_title: 12
 usc_section: "4123"
 chapter: 42
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 4123"
-generated_at: "2026-11-23T21:16:55.601Z"
+generated_at: "2026-11-23T21:18:25.856Z"
 status: "active"
 ---
 

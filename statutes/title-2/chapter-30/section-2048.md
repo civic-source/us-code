@@ -3,9 +3,9 @@ title: "Section 2048 - Repealed. Pub. L. 110–279, § 1(c)(4)(C) , July 17, 200
 usc_title: 2
 usc_section: "2048"
 chapter: 30
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 2048"
-generated_at: "2026-11-23T21:16:41.483Z"
+generated_at: "2026-11-23T21:18:09.976Z"
 status: "repealed"
 ---
 

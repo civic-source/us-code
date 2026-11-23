@@ -3,9 +3,9 @@ title: "Section 5706 - Allowable travel expenses"
 usc_title: 5
 usc_section: "5706"
 chapter: 57
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 5706"
-generated_at: "2026-11-23T21:16:42.712Z"
+generated_at: "2026-11-23T21:18:11.764Z"
 status: "active"
 ---
 

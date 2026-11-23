@@ -3,9 +3,9 @@ title: "Section 1471 - Authority of Secretary of State"
 usc_title: 22
 usc_section: "1471"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 1471"
-generated_at: "2026-11-23T21:17:09.621Z"
+generated_at: "2026-11-23T21:18:42.441Z"
 status: "active"
 ---
 

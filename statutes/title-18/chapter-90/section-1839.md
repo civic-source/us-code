@@ -3,9 +3,9 @@ title: "Section 1839 - Definitions"
 usc_title: 18
 usc_section: "1839"
 chapter: 90
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 1839"
-generated_at: "2026-11-23T21:16:59.872Z"
+generated_at: "2026-11-23T21:18:30.678Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1306 - Disclosure of information in possession of Social Securit
 usc_title: 42
 usc_section: "1306"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 1306"
-generated_at: "2026-11-23T21:17:31.644Z"
+generated_at: "2026-11-23T21:19:17.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9201 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "9201"
 chapter: 100
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 9201"
-generated_at: "2026-11-23T21:17:32.477Z"
+generated_at: "2026-11-23T21:19:18.915Z"
 status: "active"
 ---
 

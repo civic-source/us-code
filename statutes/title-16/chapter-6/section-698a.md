@@ -3,9 +3,9 @@ title: "Section 698a - Acquisition of property for Big Thicket Preserve"
 usc_title: 16
 usc_section: "698a"
 chapter: 6
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 698a"
-generated_at: "2026-11-23T21:17:04.234Z"
+generated_at: "2026-11-23T21:18:36.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-11-23T21:17:16.049Z"
+generated_at: "2026-11-23T21:18:49.957Z"
 status: "active"
 ---
 
@@ -487,7 +487,7 @@ status: "active"
   - **(4)** For purposes of this subsection—
     - **(A)** The term “additional contribution” means any charitable contribution by the taxpayer of any interest in property with respect to which the taxpayer has previously made an initial fractional contribution.
     - **(B)** The term “initial fractional contribution” means, with respect to any taxpayer, the first charitable contribution of an undivided portion of the taxpayer’s entire interest in any tangible personal property.
-- **(p)** In the case of any taxable year, if the individual does not elect to itemize deductions for such taxable year, the deduction under this section shall be equal to the deduction, not in excess of 1,000 ($2,000 in the case of a joint return), which would be determined under this section if the only charitable contributions taken into account in determining such deduction were contributions made in cash during such taxable year (determined without regard to subsections (b)(1)(G)(ii), (b)(1)(I), and (d)(1)) to an organization described in section 170(b)(1)(A) and not—
+- **(p)** In the case of any taxable year, if the individual does not elect to itemize deductions for such taxable year, the deduction under this section shall be equal to the deduction, not in excess of $1,000 ($2,000 in the case of a joint return), which would be determined under this section if the only charitable contributions taken into account in determining such deduction were contributions made in cash during such taxable year (determined without regard to subsections (b)(1)(G)(ii), (b)(1)(I), and (d)(1)) to an organization described in section 170(b)(1)(A) and not—
   - **(1)** to an organization described in section 509(a)(3), or
   - **(2)** for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).
 - **(q)**

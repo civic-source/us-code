@@ -3,9 +3,9 @@ title: "Section 243 - Maritime operations coordination plan"
 usc_title: 6
 usc_section: "243"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "6 U.S.C. § 243"
-generated_at: "2026-11-23T21:16:44.521Z"
+generated_at: "2026-11-23T21:18:14.549Z"
 status: "active"
 ---
 

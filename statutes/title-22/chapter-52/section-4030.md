@@ -3,9 +3,9 @@ title: "Section 4030 - Suitability reviews for Foreign Service Institute instruc
 usc_title: 22
 usc_section: "4030"
 chapter: 52
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 4030"
-generated_at: "2026-11-23T21:17:09.828Z"
+generated_at: "2026-11-23T21:18:42.653Z"
 status: "active"
 ---
 

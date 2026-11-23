@@ -3,9 +3,9 @@ title: "Section 51a - Extension of classification facilities to cotton growers"
 usc_title: 7
 usc_section: "51a"
 chapter: 2
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 51a"
-generated_at: "2026-11-23T21:16:46.612Z"
+generated_at: "2026-11-23T21:18:16.183Z"
 status: "active"
 ---
 

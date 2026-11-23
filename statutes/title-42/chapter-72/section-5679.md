@@ -3,9 +3,9 @@ title: "Section 5679 - Transferred"
 usc_title: 42
 usc_section: "5679"
 chapter: 72
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 5679"
-generated_at: "2026-11-23T21:17:32.270Z"
+generated_at: "2026-11-23T21:19:18.535Z"
 status: "transferred"
 ---
 

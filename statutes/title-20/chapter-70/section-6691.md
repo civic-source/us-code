@@ -3,9 +3,9 @@ title: "Section 6691 - Supplement, not supplant"
 usc_title: 20
 usc_section: "6691"
 chapter: 70
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "20 U.S.C. § 6691"
-generated_at: "2026-11-23T21:17:02.319Z"
+generated_at: "2026-11-23T21:18:33.565Z"
 status: "active"
 ---
 

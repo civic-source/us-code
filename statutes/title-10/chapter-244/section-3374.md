@@ -3,9 +3,9 @@ title: "Section 3374 - Undefinitized contractual actions: allowable profit"
 usc_title: 10
 usc_section: "3374"
 chapter: 244
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 3374"
-generated_at: "2026-11-23T21:16:51.562Z"
+generated_at: "2026-11-23T21:18:20.547Z"
 status: "active"
 ---
 

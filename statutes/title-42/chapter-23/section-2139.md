@@ -3,9 +3,9 @@ title: "Section 2139 - Component and other parts of facilities"
 usc_title: 42
 usc_section: "2139"
 chapter: 23
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 2139"
-generated_at: "2026-11-23T21:17:32.087Z"
+generated_at: "2026-11-23T21:19:18.106Z"
 status: "active"
 ---
 

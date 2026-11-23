@@ -3,9 +3,9 @@ title: "Section 361 - Control by Commission; review of decisions"
 usc_title: 47
 usc_section: "361"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "47 U.S.C. § 361"
-generated_at: "2026-11-23T21:17:35.020Z"
+generated_at: "2026-11-23T21:19:22.435Z"
 status: "active"
 ---
 

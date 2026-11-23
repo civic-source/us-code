@@ -3,9 +3,9 @@ title: "Section 1901 - Approval of Compact of Free Association"
 usc_title: 48
 usc_section: "1901"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "48 U.S.C. § 1901"
-generated_at: "2026-11-23T21:17:35.377Z"
+generated_at: "2026-11-23T21:19:21.602Z"
 status: "active"
 ---
 

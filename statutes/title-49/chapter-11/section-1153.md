@@ -3,9 +3,9 @@ title: "Section 1153 - Judicial review"
 usc_title: 49
 usc_section: "1153"
 chapter: 11
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 1153"
-generated_at: "2026-11-23T21:17:38.875Z"
+generated_at: "2026-11-23T21:19:29.000Z"
 status: "active"
 ---
 

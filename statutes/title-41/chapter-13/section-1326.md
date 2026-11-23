@@ -3,9 +3,9 @@ title: "Section 1326 - Requirements for executive agencies"
 usc_title: 41
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "41 U.S.C. § 1326"
-generated_at: "2026-11-23T21:17:25.015Z"
+generated_at: "2026-11-23T21:19:02.477Z"
 status: "active"
 ---
 

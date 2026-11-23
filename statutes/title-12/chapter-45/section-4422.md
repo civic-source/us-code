@@ -3,9 +3,9 @@ title: "Section 4422 - Repealed. Pub. L. 111–203, title VII, § 740 , July 21,
 usc_title: 12
 usc_section: "4422"
 chapter: 45
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 4422"
-generated_at: "2026-11-23T21:16:55.611Z"
+generated_at: "2026-11-23T21:18:25.865Z"
 status: "repealed"
 ---
 

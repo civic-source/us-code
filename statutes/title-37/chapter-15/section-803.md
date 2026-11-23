@@ -3,9 +3,9 @@ title: "Section 803 - Commissioned officers of the Army, Air Force, or Space For
 usc_title: 37
 usc_section: "803"
 chapter: 15
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "37 U.S.C. § 803"
-generated_at: "2026-11-23T21:17:21.425Z"
+generated_at: "2026-11-23T21:18:57.120Z"
 status: "active"
 ---
 

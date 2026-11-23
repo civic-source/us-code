@@ -3,9 +3,9 @@ title: "Section 6252 - Stockpile stewardship recruitment and training program"
 usc_title: 10
 usc_section: "6252"
 chapter: 606
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 6252"
-generated_at: "2026-11-23T21:16:51.651Z"
+generated_at: "2026-11-23T21:18:20.699Z"
 status: "active"
 ---
 

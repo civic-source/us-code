@@ -3,9 +3,9 @@ title: "Section 9497 - Board of Governors"
 usc_title: 10
 usc_section: "9497"
 chapter: 959
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 9497"
-generated_at: "2026-11-23T21:16:51.802Z"
+generated_at: "2026-11-23T21:18:20.914Z"
 status: "active"
 ---
 

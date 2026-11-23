@@ -3,9 +3,9 @@ title: "Section 94 - Indiana"
 usc_title: 28
 usc_section: "94"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 94"
-generated_at: "2026-11-23T21:17:12.072Z"
+generated_at: "2026-11-23T21:18:44.956Z"
 status: "active"
 ---
 

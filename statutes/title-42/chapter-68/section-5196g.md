@@ -3,9 +3,9 @@ title: "Section 5196g - Guidance and training by FEMA on coordination of emergen
 usc_title: 42
 usc_section: "5196g"
 chapter: 68
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 5196g"
-generated_at: "2026-11-23T21:17:32.251Z"
+generated_at: "2026-11-23T21:19:18.503Z"
 status: "active"
 ---
 

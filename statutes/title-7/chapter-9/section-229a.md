@@ -3,9 +3,9 @@ title: "Section 229a - Repealed. Pub. L. 106–78, title IX, § 913(a) , Oct. 22
 usc_title: 7
 usc_section: "229a"
 chapter: 9
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 229a"
-generated_at: "2026-11-23T21:16:46.660Z"
+generated_at: "2026-11-23T21:18:16.239Z"
 status: "repealed"
 ---
 

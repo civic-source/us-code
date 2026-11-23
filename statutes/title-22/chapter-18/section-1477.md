@@ -3,9 +3,9 @@ title: "Section 1477 - Transfer of funds"
 usc_title: 22
 usc_section: "1477"
 chapter: 18
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 1477"
-generated_at: "2026-11-23T21:17:09.622Z"
+generated_at: "2026-11-23T21:18:42.443Z"
 status: "active"
 ---
 

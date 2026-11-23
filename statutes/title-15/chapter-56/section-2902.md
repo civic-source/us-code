@@ -3,9 +3,9 @@ title: "Section 2902 - Purpose"
 usc_title: 15
 usc_section: "2902"
 chapter: 56
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 2902"
-generated_at: "2026-11-23T21:16:57.561Z"
+generated_at: "2026-11-23T21:18:28.049Z"
 status: "active"
 ---
 

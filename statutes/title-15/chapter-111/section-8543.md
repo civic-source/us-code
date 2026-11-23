@@ -3,9 +3,9 @@ title: "Section 8543 - Office of Oceanic and Atmospheric Research and National W
 usc_title: 15
 usc_section: "8543"
 chapter: 111
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 8543"
-generated_at: "2026-11-23T21:16:57.655Z"
+generated_at: "2026-11-23T21:18:28.174Z"
 status: "active"
 ---
 

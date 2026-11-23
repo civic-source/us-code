@@ -3,9 +3,9 @@ title: "Section 1408 - Payment of retired or retainer pay in compliance with cou
 usc_title: 10
 usc_section: "1408"
 chapter: 71
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 1408"
-generated_at: "2026-11-23T21:16:51.359Z"
+generated_at: "2026-11-23T21:18:20.263Z"
 status: "active"
 ---
 

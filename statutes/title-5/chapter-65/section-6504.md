@@ -3,9 +3,9 @@ title: "Section 6504 - Policy and support"
 usc_title: 5
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 6504"
-generated_at: "2026-11-23T21:16:42.740Z"
+generated_at: "2026-11-23T21:18:11.804Z"
 status: "active"
 ---
 

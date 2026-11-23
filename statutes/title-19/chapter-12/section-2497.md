@@ -3,9 +3,9 @@ title: "Section 2497 - Supplemental agricultural disaster assistance"
 usc_title: 19
 usc_section: "2497"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "19 U.S.C. § 2497"
-generated_at: "2026-11-23T21:17:00.834Z"
+generated_at: "2026-11-23T21:18:31.784Z"
 status: "active"
 ---
 

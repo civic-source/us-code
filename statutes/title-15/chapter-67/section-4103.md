@@ -3,9 +3,9 @@ title: "Section 4103 - Duties of Commission; publication of guidelines; report t
 usc_title: 15
 usc_section: "4103"
 chapter: 67
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 4103"
-generated_at: "2026-11-23T21:16:57.587Z"
+generated_at: "2026-11-23T21:18:28.085Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3320 - Edith Nourse Rogers STEM Scholarship"
 usc_title: 38
 usc_section: "3320"
 chapter: 33
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 3320"
-generated_at: "2026-11-23T21:17:23.126Z"
+generated_at: "2026-11-23T21:19:00.112Z"
 status: "active"
 ---
 

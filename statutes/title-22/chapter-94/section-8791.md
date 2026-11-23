@@ -3,9 +3,9 @@ title: "Section 8791 - Imposition of sanctions with respect to certain persons w
 usc_title: 22
 usc_section: "8791"
 chapter: 94
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 8791"
-generated_at: "2026-11-23T21:17:09.965Z"
+generated_at: "2026-11-23T21:18:42.794Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7917 - Relation to remaining payment authority under production 
 usc_title: 7
 usc_section: "7917"
 chapter: 106
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 7917"
-generated_at: "2026-11-23T21:16:47.011Z"
+generated_at: "2026-11-23T21:18:16.608Z"
 status: "active"
 ---
 

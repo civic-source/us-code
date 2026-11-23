@@ -3,9 +3,9 @@ title: "Section 10425 - Evaluation"
 usc_title: 34
 usc_section: "10425"
 chapter: 101
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 10425"
-generated_at: "2026-11-23T21:17:18.525Z"
+generated_at: "2026-11-23T21:18:55.120Z"
 status: "active"
 ---
 

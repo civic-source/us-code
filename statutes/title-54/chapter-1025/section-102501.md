@@ -3,9 +3,9 @@ title: "Section 102501 - Purpose"
 usc_title: 54
 usc_section: "102501"
 chapter: 1025
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "54 U.S.C. § 102501"
-generated_at: "2026-11-23T21:17:41.037Z"
+generated_at: "2026-11-23T21:19:32.170Z"
 status: "active"
 ---
 

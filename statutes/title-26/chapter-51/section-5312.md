@@ -3,9 +3,9 @@ title: "Section 5312 - Production and use of distilled spirits for experimental 
 usc_title: 26
 usc_section: "5312"
 chapter: 51
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 5312"
-generated_at: "2026-11-23T21:17:16.474Z"
+generated_at: "2026-11-23T21:18:50.453Z"
 status: "active"
 ---
 

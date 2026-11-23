@@ -3,9 +3,9 @@ title: "Section 1402 - Definitions"
 usc_title: 26
 usc_section: "1402"
 chapter: 2
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 1402"
-generated_at: "2026-11-23T21:17:16.341Z"
+generated_at: "2026-11-23T21:18:50.280Z"
 status: "active"
 ---
 
@@ -112,6 +112,10 @@ status: "active"
 - **(l)** For purposes of subsection (a)—
   - **(1)** The lower limit for any taxable year is the sum of the amounts required under section 213(d) of the Social Security Act for a quarter of coverage in effect with respect to each calendar quarter ending with or within such taxable year.
   - **(2)** The upper limit for any taxable year is the amount equal to 150 percent of the lower limit for such taxable year.
+
+In General
+
+Effective Date
 
 In General
 

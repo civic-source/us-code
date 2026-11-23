@@ -3,9 +3,9 @@ title: "Section 1511d - Chesapeake Bay Office"
 usc_title: 15
 usc_section: "1511d"
 chapter: 40
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 1511d"
-generated_at: "2026-11-23T21:16:57.375Z"
+generated_at: "2026-11-23T21:18:27.923Z"
 status: "active"
 ---
 

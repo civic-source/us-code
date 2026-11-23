@@ -3,9 +3,9 @@ title: "Section 7128 - Termination of authority"
 usc_title: 16
 usc_section: "7128"
 chapter: 90
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 7128"
-generated_at: "2026-11-23T21:17:04.558Z"
+generated_at: "2026-11-23T21:18:36.419Z"
 status: "active"
 ---
 

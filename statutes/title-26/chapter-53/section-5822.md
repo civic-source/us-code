@@ -3,9 +3,9 @@ title: "Section 5822 - Making"
 usc_title: 26
 usc_section: "5822"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 5822"
-generated_at: "2026-11-23T21:17:16.490Z"
+generated_at: "2026-11-23T21:18:50.478Z"
 status: "active"
 ---
 

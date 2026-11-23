@@ -3,9 +3,9 @@ title: "Section 2109 - Specially adapted housing destroyed or damaged by natural
 usc_title: 38
 usc_section: "2109"
 chapter: 21
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 2109"
-generated_at: "2026-11-23T21:17:23.100Z"
+generated_at: "2026-11-23T21:19:00.056Z"
 status: "active"
 ---
 

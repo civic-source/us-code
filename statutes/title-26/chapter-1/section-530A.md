@@ -3,9 +3,9 @@ title: "Section 530A - Trump accounts"
 usc_title: 26
 usc_section: "530A"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 530A"
-generated_at: "2026-11-23T21:17:16.208Z"
+generated_at: "2026-11-23T21:18:50.131Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(iii)** No part of the account funds will be invested in any asset other than an eligible investment during any period before the first day of the calendar year in which the account beneficiary attains age 18.
   - **(2)** The term “eligible individual” means any individual—
     - **(A)** who has not attained the age of 18 before the close of the calendar year in which the election under subparagraph (C) is made,
-    - **(B)** for whom a social security number (within the meaning of section 24(h)(7)) has been issued before the date on which an election under subsection (C) is made, and
+    - **(B)** for whom a social security number (within the meaning of section 24(h)(7)) has been issued before the date on which an election under subsection 1 1 So in original. Probably should be “subparagraph”. (C) is made, and
     - **(C)** for whom—
       - **(i)** an election is made under this subparagraph by the Secretary if the Secretary determines (based on information available to the Secretary from tax returns or otherwise) that such individual meets the requirements of subparagraphs (A) and (B) and no prior election has been made for such individual under clause (ii), or
       - **(ii)** an election is made under this subparagraph by a person other than the Secretary (at such time and in such manner as the Secretary may prescribe) for the establishment of a Trump account if no prior election has been made for such individual under clause (i).

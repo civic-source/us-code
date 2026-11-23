@@ -3,9 +3,9 @@ title: "Section 40911 - Enhancement of requirement that Federal departments and 
 usc_title: 34
 usc_section: "40911"
 chapter: 409
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 40911"
-generated_at: "2026-11-23T21:17:18.626Z"
+generated_at: "2026-11-23T21:18:55.286Z"
 status: "active"
 ---
 

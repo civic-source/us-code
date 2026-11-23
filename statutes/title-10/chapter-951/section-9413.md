@@ -3,9 +3,9 @@ title: "Section 9413 - United States Air Force Institute of Technology: establis
 usc_title: 10
 usc_section: "9413"
 chapter: 951
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 9413"
-generated_at: "2026-11-23T21:16:51.793Z"
+generated_at: "2026-11-23T21:18:20.897Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 931b - Art. 131b. Obstructing justice"
 usc_title: 10
 usc_section: "931b"
 chapter: 47
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 931b"
-generated_at: "2026-11-23T21:16:51.270Z"
+generated_at: "2026-11-23T21:18:20.119Z"
 status: "active"
 ---
 

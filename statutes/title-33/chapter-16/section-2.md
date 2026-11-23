@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(
 usc_title: 33
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-11-23T21:17:19.844Z"
+generated_at: "2026-11-23T21:18:54.256Z"
 status: "repealed"
 ---
 

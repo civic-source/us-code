@@ -3,9 +3,9 @@ title: "Section 2011 - Definitions"
 usc_title: 21
 usc_section: "2011"
 chapter: 25
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "21 U.S.C. § 2011"
-generated_at: "2026-11-23T21:17:07.198Z"
+generated_at: "2026-11-23T21:18:40.752Z"
 status: "active"
 ---
 

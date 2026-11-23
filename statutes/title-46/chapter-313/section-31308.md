@@ -3,9 +3,9 @@ title: "Section 31308 - Secretary of Commerce or Transportation as mortgagee"
 usc_title: 46
 usc_section: "31308"
 chapter: 313
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 31308"
-generated_at: "2026-11-23T21:17:36.216Z"
+generated_at: "2026-11-23T21:19:25.828Z"
 status: "active"
 ---
 

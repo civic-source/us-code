@@ -3,9 +3,9 @@ title: "Section 10009 - Coordinated support to recover assets stolen from the Su
 usc_title: 22
 usc_section: "10009"
 chapter: 107
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 10009"
-generated_at: "2026-11-23T21:17:10.005Z"
+generated_at: "2026-11-23T21:18:42.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3334p - Increased intelligence-related engineering, research, an
 usc_title: 50
 usc_section: "3334p"
 chapter: 45
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 3334p"
-generated_at: "2026-11-23T21:17:37.238Z"
+generated_at: "2026-11-23T21:19:24.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3504 - NOAA joint ocean and coastal mapping centers"
 usc_title: 33
 usc_section: "3504"
 chapter: 48
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "33 U.S.C. § 3504"
-generated_at: "2026-11-23T21:17:19.996Z"
+generated_at: "2026-11-23T21:18:54.515Z"
 status: "active"
 ---
 

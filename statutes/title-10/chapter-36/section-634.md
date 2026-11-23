@@ -3,9 +3,9 @@ title: "Section 634 - Retirement for years of service: regular and Space Force c
 usc_title: 10
 usc_section: "634"
 chapter: 36
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 634"
-generated_at: "2026-11-23T21:16:51.221Z"
+generated_at: "2026-11-23T21:18:20.058Z"
 status: "active"
 ---
 

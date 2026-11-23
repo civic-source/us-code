@@ -3,9 +3,9 @@ title: "Section 2341 - Petitions and determinations"
 usc_title: 19
 usc_section: "2341"
 chapter: 12
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "19 U.S.C. § 2341"
-generated_at: "2026-11-23T21:17:00.821Z"
+generated_at: "2026-11-23T21:18:31.756Z"
 status: "active"
 ---
 

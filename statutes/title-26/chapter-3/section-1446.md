@@ -3,9 +3,9 @@ title: "Section 1446 - Withholding of tax on foreign partners’ share of effect
 usc_title: 26
 usc_section: "1446"
 chapter: 3
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 1446"
-generated_at: "2026-11-23T21:17:16.345Z"
+generated_at: "2026-11-23T21:18:50.284Z"
 status: "active"
 ---
 

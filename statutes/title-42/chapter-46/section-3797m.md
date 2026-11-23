@@ -3,9 +3,9 @@ title: "Section 3797m - Transferred"
 usc_title: 42
 usc_section: "3797m"
 chapter: 46
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 3797m"
-generated_at: "2026-11-23T21:17:32.179Z"
+generated_at: "2026-11-23T21:19:18.328Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101938 - Sunset"
 usc_title: 54
 usc_section: "101938"
 chapter: 1019
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "54 U.S.C. § 101938"
-generated_at: "2026-11-23T21:17:41.035Z"
+generated_at: "2026-11-23T21:19:32.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5329 - Vouchers"
 usc_title: 2
 usc_section: "5329"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 5329"
-generated_at: "2026-11-23T21:16:41.511Z"
+generated_at: "2026-11-23T21:18:10.009Z"
 status: "active"
 ---
 

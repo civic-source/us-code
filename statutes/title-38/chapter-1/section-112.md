@@ -3,9 +3,9 @@ title: "Section 112 - Presidential memorial certificate program"
 usc_title: 38
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 112"
-generated_at: "2026-11-23T21:17:23.009Z"
+generated_at: "2026-11-23T21:18:59.865Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5301 - Policy"
 usc_title: 5
 usc_section: "5301"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "5 U.S.C. § 5301"
-generated_at: "2026-11-23T21:16:42.656Z"
+generated_at: "2026-11-23T21:18:11.702Z"
 status: "active"
 ---
 

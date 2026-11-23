@@ -3,9 +3,9 @@ title: "Section 937 - Filing profile of road; forfeiture of rights"
 usc_title: 43
 usc_section: "937"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "43 U.S.C. § 937"
-generated_at: "2026-11-23T21:17:26.416Z"
+generated_at: "2026-11-23T21:19:03.563Z"
 status: "active"
 ---
 

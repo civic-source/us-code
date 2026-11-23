@@ -3,9 +3,9 @@ title: "Section 12639 - Evaluation"
 usc_title: 42
 usc_section: "12639"
 chapter: 129
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 12639"
-generated_at: "2026-11-23T21:17:32.602Z"
+generated_at: "2026-11-23T21:19:19.153Z"
 status: "active"
 ---
 

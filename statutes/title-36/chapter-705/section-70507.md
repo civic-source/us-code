@@ -3,9 +3,9 @@ title: "Section 70507 - Restrictions"
 usc_title: 36
 usc_section: "70507"
 chapter: 705
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "36 U.S.C. § 70507"
-generated_at: "2026-11-23T21:17:21.967Z"
+generated_at: "2026-11-23T21:18:58.183Z"
 status: "active"
 ---
 

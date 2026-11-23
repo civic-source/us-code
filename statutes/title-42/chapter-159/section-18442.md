@@ -3,9 +3,9 @@ title: "Section 18442 - Reports on program and cost assessment and control asses
 usc_title: 42
 usc_section: "18442"
 chapter: 159
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 18442"
-generated_at: "2026-11-23T21:17:32.762Z"
+generated_at: "2026-11-23T21:19:19.478Z"
 status: "active"
 ---
 

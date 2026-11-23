@@ -3,9 +3,9 @@ title: "Section 1 - Remittance transfers"
 usc_title: 15
 usc_section: "1"
 chapter: 41
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-11-23T21:16:57.436Z"
+generated_at: "2026-11-23T21:18:27.985Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9014 - Payment acres"
 usc_title: 7
 usc_section: "9014"
 chapter: 115
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 9014"
-generated_at: "2026-11-23T21:16:47.039Z"
+generated_at: "2026-11-23T21:18:16.640Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2076a - Liens on stock"
 usc_title: 12
 usc_section: "2076a"
 chapter: 23
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 2076a"
-generated_at: "2026-11-23T21:16:55.479Z"
+generated_at: "2026-11-23T21:18:25.749Z"
 status: "active"
 ---
 

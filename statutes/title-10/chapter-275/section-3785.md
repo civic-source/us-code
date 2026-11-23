@@ -3,9 +3,9 @@ title: "Section 3785 - Technical data: decision by contracting officer; claims; 
 usc_title: 10
 usc_section: "3785"
 chapter: 275
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 3785"
-generated_at: "2026-11-23T21:16:51.576Z"
+generated_at: "2026-11-23T21:18:20.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12410 - Definitions"
 usc_title: 34
 usc_section: "12410"
 chapter: 121
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 12410"
-generated_at: "2026-11-23T21:17:18.573Z"
+generated_at: "2026-11-23T21:18:55.186Z"
 status: "active"
 ---
 

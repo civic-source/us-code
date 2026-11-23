@@ -3,9 +3,9 @@ title: "Section 715b - Annual report"
 usc_title: 16
 usc_section: "715b"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 715b"
-generated_at: "2026-11-23T21:17:04.240Z"
+generated_at: "2026-11-23T21:18:36.087Z"
 status: "active"
 ---
 

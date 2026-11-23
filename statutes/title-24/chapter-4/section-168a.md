@@ -3,9 +3,9 @@ title: "Section 168a - Repealed. Pub. L. 98–621, § 10(d)(1) , Nov. 8, 1984 , 
 usc_title: 24
 usc_section: "168a"
 chapter: 4
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "24 U.S.C. § 168a"
-generated_at: "2026-11-23T21:17:05.799Z"
+generated_at: "2026-11-23T21:18:38.122Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1966a - Protection of former Speakers of the House of Representa
 usc_title: 2
 usc_section: "1966a"
 chapter: 29
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "2 U.S.C. § 1966a"
-generated_at: "2026-11-23T21:16:41.479Z"
+generated_at: "2026-11-23T21:18:09.972Z"
 status: "active"
 ---
 

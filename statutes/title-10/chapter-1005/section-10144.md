@@ -3,9 +3,9 @@ title: "Section 10144 - Ready Reserve: Individual Ready Reserve"
 usc_title: 10
 usc_section: "10144"
 chapter: 1005
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 10144"
-generated_at: "2026-11-23T21:16:51.821Z"
+generated_at: "2026-11-23T21:18:20.936Z"
 status: "active"
 ---
 

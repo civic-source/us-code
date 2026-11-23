@@ -3,9 +3,9 @@ title: "Section 125 - Utah"
 usc_title: 28
 usc_section: "125"
 chapter: 5
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "28 U.S.C. § 125"
-generated_at: "2026-11-23T21:17:12.077Z"
+generated_at: "2026-11-23T21:18:44.959Z"
 status: "active"
 ---
 

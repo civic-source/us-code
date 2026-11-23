@@ -3,9 +3,9 @@ title: "Section 957 - Definitions"
 usc_title: 7
 usc_section: "957"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 957"
-generated_at: "2026-11-23T21:16:46.703Z"
+generated_at: "2026-11-23T21:18:16.282Z"
 status: "active"
 ---
 

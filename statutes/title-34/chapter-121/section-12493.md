@@ -3,9 +3,9 @@ title: "Section 12493 - Department of Housing and Urban Development Gender-based
 usc_title: 34
 usc_section: "12493"
 chapter: 121
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "34 U.S.C. § 12493"
-generated_at: "2026-11-23T21:17:18.576Z"
+generated_at: "2026-11-23T21:18:55.191Z"
 status: "active"
 ---
 

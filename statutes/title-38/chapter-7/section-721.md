@@ -3,9 +3,9 @@ title: "Section 721 - Recoupment of bonuses or awards paid to employees of Depar
 usc_title: 38
 usc_section: "721"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 721"
-generated_at: "2026-11-23T21:17:23.022Z"
+generated_at: "2026-11-23T21:18:59.900Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6427 - Fuels not used for taxable purposes"
 usc_title: 26
 usc_section: "6427"
 chapter: 65
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 6427"
-generated_at: "2026-11-23T21:17:16.560Z"
+generated_at: "2026-11-23T21:18:50.591Z"
 status: "active"
 ---
 

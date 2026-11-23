@@ -3,9 +3,9 @@ title: "Section 501 - Establishment of long-range proving ground for guided miss
 usc_title: 50
 usc_section: "501"
 chapter: 19
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 501"
-generated_at: "2026-11-23T21:17:37.134Z"
+generated_at: "2026-11-23T21:19:24.158Z"
 status: "active"
 ---
 

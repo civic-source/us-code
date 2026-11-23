@@ -3,9 +3,9 @@ title: "Section 45W - Credit for qualified commercial clean vehicles"
 usc_title: 26
 usc_section: "45W"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 45W"
-generated_at: "2026-11-23T21:17:15.953Z"
+generated_at: "2026-11-23T21:18:49.849Z"
 status: "active"
 ---
 
@@ -40,4 +40,4 @@ status: "active"
 
 ## Source Credit
 
-*(Added [Pub. L. 117–169, title I, § 13403(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1964](https://www.govinfo.gov/link/statute/136/1964); [Pub. L. 119–21, title VII, § 70503](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*
+*(Added [Pub. L. 117–169, title I, § 13403(a)](https://www.govinfo.gov/link/plaw/117/public/169), Aug. 16, 2022, [136 Stat. 1964](https://www.govinfo.gov/link/statute/136/1964); amended [Pub. L. 119–21, title VII, § 70503](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 251](https://www.govinfo.gov/link/statute/139/251).)*

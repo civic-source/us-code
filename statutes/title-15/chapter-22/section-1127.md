@@ -3,9 +3,9 @@ title: "Section 1127 - Construction and definitions; intent of chapter"
 usc_title: 15
 usc_section: "1127"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 1127"
-generated_at: "2026-11-23T21:16:57.357Z"
+generated_at: "2026-11-23T21:18:27.893Z"
 status: "active"
 ---
 

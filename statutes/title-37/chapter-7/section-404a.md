@@ -3,9 +3,9 @@ title: "Section 404a - Renumbered § 474a]"
 usc_title: 37
 usc_section: "404a"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "37 U.S.C. § 404a"
-generated_at: "2026-11-23T21:17:21.412Z"
+generated_at: "2026-11-23T21:18:57.103Z"
 status: "renumbered"
 ---
 

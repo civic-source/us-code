@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-11-23T21:17:16.626Z"
+generated_at: "2026-11-23T21:18:50.698Z"
 status: "active"
 ---
 
@@ -213,7 +213,7 @@ status: "active"
         - **(III)** in the case of any inverter described in subparagraphs (B) through (G) of section 45X(c)(2) which is sold—
         - **(IV)** in the case of any qualifying battery component (as such term is defined in section 45X(c)(5)(A)) which is sold—
         - **(V)** subject to clause (ii), in the case of any applicable critical mineral (as such term is defined in section 45X(c)(6)) which is sold—
-      - **(ii)** Not later than December 31, 2027 , the Secretary shall issue threshold percentages for each of the applicable critical minerals described in section 45X(c)(6)), which shall—
+      - **(ii)** Not later than December 31, 2027 , the Secretary shall issue threshold percentages for each of the applicable critical minerals described in section 45X(c)(6)), 2 2 So in original. The second closing parenthesis preceding the comma probably should not appear. which shall—
         - **(I)** apply in lieu of the threshold percentage determined under clause (i)(V) for each calendar year, and
         - **(II)** equal or exceed the threshold percentage which would otherwise apply with respect to such applicable critical mineral under such clause for such calendar year, taking into account—
     - **(D)**
@@ -310,7 +310,7 @@ status: "active"
       - **(iii)** a student, or
       - **(iv)** a professional athlete who is temporarily in the United States to compete in a sports event—
         - **(I)** which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
-        - **(II)** all of the net proceeds of which are contributed to such organization, and, 2 2 So in original. The comma probably should not appear.
+        - **(II)** all of the net proceeds of which are contributed to such organization, and, 3 3 So in original. The comma probably should not appear.
         - **(III)** which utilizes volunteers for substantially all of the work performed in carrying out such event.
     - **(B)** The term “foreign government-related individual” means any individual temporarily present in the United States by reason of—
       - **(i)** diplomatic status, or a visa which the Secretary (after consultation with the Secretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,

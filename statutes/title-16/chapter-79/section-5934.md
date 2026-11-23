@@ -3,9 +3,9 @@ title: "Section 5934 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5934"
 chapter: 79
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 5934"
-generated_at: "2026-11-23T21:17:04.517Z"
+generated_at: "2026-11-23T21:18:36.388Z"
 status: "repealed"
 ---
 

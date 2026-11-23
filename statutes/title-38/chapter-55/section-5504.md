@@ -3,9 +3,9 @@ title: "Section 5504 - Administration of trust funds"
 usc_title: 38
 usc_section: "5504"
 chapter: 55
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "38 U.S.C. § 5504"
-generated_at: "2026-11-23T21:17:23.184Z"
+generated_at: "2026-11-23T21:19:00.237Z"
 status: "active"
 ---
 

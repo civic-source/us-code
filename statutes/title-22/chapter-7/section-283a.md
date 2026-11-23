@@ -3,9 +3,9 @@ title: "Section 283a - Appointment of officers; term of office; salary"
 usc_title: 22
 usc_section: "283a"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 283a"
-generated_at: "2026-11-23T21:17:09.576Z"
+generated_at: "2026-11-23T21:18:42.388Z"
 status: "active"
 ---
 

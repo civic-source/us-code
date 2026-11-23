@@ -3,9 +3,9 @@ title: "Section 1777 - Establishment of Human Smuggling and Trafficking Center"
 usc_title: 8
 usc_section: "1777"
 chapter: 15
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "8 U.S.C. § 1777"
-generated_at: "2026-11-23T21:16:45.128Z"
+generated_at: "2026-11-23T21:18:13.984Z"
 status: "active"
 ---
 

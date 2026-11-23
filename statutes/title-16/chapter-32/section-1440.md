@@ -3,9 +3,9 @@ title: "Section 1440 - Research, monitoring, and education"
 usc_title: 16
 usc_section: "1440"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 1440"
-generated_at: "2026-11-23T21:17:04.382Z"
+generated_at: "2026-11-23T21:18:36.237Z"
 status: "active"
 ---
 

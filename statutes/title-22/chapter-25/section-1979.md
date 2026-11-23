@@ -3,9 +3,9 @@ title: "Section 1979 - Fishermen’s Protective Fund"
 usc_title: 22
 usc_section: "1979"
 chapter: 25
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 1979"
-generated_at: "2026-11-23T21:17:09.644Z"
+generated_at: "2026-11-23T21:18:42.465Z"
 status: "active"
 ---
 

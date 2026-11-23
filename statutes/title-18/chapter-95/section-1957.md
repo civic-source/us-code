@@ -3,9 +3,9 @@ title: "Section 1957 - Engaging in monetary transactions in property derived fro
 usc_title: 18
 usc_section: "1957"
 chapter: 95
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "18 U.S.C. § 1957"
-generated_at: "2026-11-23T21:16:59.880Z"
+generated_at: "2026-11-23T21:18:30.686Z"
 status: "active"
 ---
 

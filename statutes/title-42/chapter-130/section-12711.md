@@ -3,9 +3,9 @@ title: "Section 12711 - Protection of State and local authority"
 usc_title: 42
 usc_section: "12711"
 chapter: 130
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 12711"
-generated_at: "2026-11-23T21:17:32.615Z"
+generated_at: "2026-11-23T21:19:19.171Z"
 status: "active"
 ---
 

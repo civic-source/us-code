@@ -3,9 +3,9 @@ title: "Section 4815 - Licensing"
 usc_title: 50
 usc_section: "4815"
 chapter: 58
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 4815"
-generated_at: "2026-11-23T21:17:37.313Z"
+generated_at: "2026-11-23T21:19:24.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16795 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16795"
 chapter: 150
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 16795"
-generated_at: "2026-11-23T21:17:32.716Z"
+generated_at: "2026-11-23T21:19:19.371Z"
 status: "repealed"
 ---
 

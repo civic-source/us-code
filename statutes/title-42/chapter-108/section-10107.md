@@ -3,9 +3,9 @@ title: "Section 10107 - Applicability to atomic energy defense activities"
 usc_title: 42
 usc_section: "10107"
 chapter: 108
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "42 U.S.C. § 10107"
-generated_at: "2026-11-23T21:17:32.526Z"
+generated_at: "2026-11-23T21:19:19.021Z"
 status: "active"
 ---
 

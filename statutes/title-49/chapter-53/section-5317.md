@@ -3,9 +3,9 @@ title: "Section 5317 - Repealed. Pub. L. 112–141, div. B, § 20002(a) , July 6
 usc_title: 49
 usc_section: "5317"
 chapter: 53
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "49 U.S.C. § 5317"
-generated_at: "2026-11-23T21:17:38.913Z"
+generated_at: "2026-11-23T21:19:29.081Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14305 - Optional regulatory measurement"
 usc_title: 46
 usc_section: "14305"
 chapter: 143
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 14305"
-generated_at: "2026-11-23T21:17:36.206Z"
+generated_at: "2026-11-23T21:19:25.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 87–128, title III, § 341(a) , Aug. 8, 1
 usc_title: 12
 usc_section: "3"
 chapter: 7
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-11-23T21:16:55.200Z"
+generated_at: "2026-11-23T21:18:25.457Z"
 status: "repealed"
 ---
 

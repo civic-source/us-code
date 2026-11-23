@@ -3,9 +3,9 @@ title: "Section 3605 - Disclosure of Agency’s organization, function, activiti
 usc_title: 50
 usc_section: "3605"
 chapter: 47
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "50 U.S.C. § 3605"
-generated_at: "2026-11-23T21:17:37.261Z"
+generated_at: "2026-11-23T21:19:24.446Z"
 status: "active"
 ---
 

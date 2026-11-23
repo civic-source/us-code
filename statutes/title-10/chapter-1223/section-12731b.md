@@ -3,9 +3,9 @@ title: "Section 12731b - Special rule for members with physical disabilities not
 usc_title: 10
 usc_section: "12731b"
 chapter: 1223
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 12731b"
-generated_at: "2026-11-23T21:16:51.850Z"
+generated_at: "2026-11-23T21:18:20.990Z"
 status: "active"
 ---
 

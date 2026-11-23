@@ -3,9 +3,9 @@ title: "Section 3129a - Exemption from chapter 10 of title 5 for competitive res
 usc_title: 7
 usc_section: "3129a"
 chapter: 64
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 3129a"
-generated_at: "2026-11-23T21:16:46.895Z"
+generated_at: "2026-11-23T21:18:16.484Z"
 status: "active"
 ---
 

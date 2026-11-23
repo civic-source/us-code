@@ -3,9 +3,9 @@ title: "Section 7302 - Property used in violation of internal revenue laws"
 usc_title: 26
 usc_section: "7302"
 chapter: 75
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "26 U.S.C. § 7302"
-generated_at: "2026-11-23T21:17:16.599Z"
+generated_at: "2026-11-23T21:18:50.653Z"
 status: "active"
 ---
 

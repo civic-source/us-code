@@ -3,9 +3,9 @@ title: "Section 1611 - Aliens who are not qualified aliens ineligible for Federa
 usc_title: 8
 usc_section: "1611"
 chapter: 14
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "8 U.S.C. § 1611"
-generated_at: "2026-11-23T21:16:45.118Z"
+generated_at: "2026-11-23T21:18:13.976Z"
 status: "active"
 ---
 

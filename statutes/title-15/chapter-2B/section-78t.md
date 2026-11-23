@@ -3,9 +3,9 @@ title: "Section 78t - Liability of controlling persons and persons who aid and a
 usc_title: 15
 usc_section: "78t"
 chapter: 2
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 78t"
-generated_at: "2026-11-23T21:16:57.198Z"
+generated_at: "2026-11-23T21:18:27.677Z"
 status: "active"
 ---
 

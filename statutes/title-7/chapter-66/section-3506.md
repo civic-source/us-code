@@ -3,9 +3,9 @@ title: "Section 3506 - Public inspection"
 usc_title: 7
 usc_section: "3506"
 chapter: 66
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 3506"
-generated_at: "2026-11-23T21:16:46.912Z"
+generated_at: "2026-11-23T21:18:16.503Z"
 status: "active"
 ---
 

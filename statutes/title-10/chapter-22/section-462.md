@@ -3,9 +3,9 @@ title: "Section 462 - Financial assistance to certain employees in acquisition o
 usc_title: 10
 usc_section: "462"
 chapter: 22
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 462"
-generated_at: "2026-11-23T21:16:51.187Z"
+generated_at: "2026-11-23T21:18:20.019Z"
 status: "active"
 ---
 

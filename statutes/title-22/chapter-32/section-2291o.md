@@ -3,9 +3,9 @@ title: "Section 2291o - Fentanyl reporting and authorities"
 usc_title: 22
 usc_section: "2291o"
 chapter: 32
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "22 U.S.C. § 2291o"
-generated_at: "2026-11-23T21:17:09.682Z"
+generated_at: "2026-11-23T21:18:42.506Z"
 status: "active"
 ---
 

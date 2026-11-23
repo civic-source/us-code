@@ -3,9 +3,9 @@ title: "Section 9092 - Suspension of permanent price support authority"
 usc_title: 7
 usc_section: "9092"
 chapter: 115
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 9092"
-generated_at: "2026-11-23T21:16:47.048Z"
+generated_at: "2026-11-23T21:18:16.651Z"
 status: "active"
 ---
 

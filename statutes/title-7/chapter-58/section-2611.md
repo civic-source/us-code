@@ -3,9 +3,9 @@ title: "Section 2611 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "2611"
 chapter: 58
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "7 U.S.C. § 2611"
-generated_at: "2026-11-23T21:16:46.881Z"
+generated_at: "2026-11-23T21:18:16.471Z"
 status: "active"
 ---
 

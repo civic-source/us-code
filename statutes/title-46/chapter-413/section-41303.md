@@ -3,9 +3,9 @@ title: "Section 41303 - Discovery and subpoenas"
 usc_title: 46
 usc_section: "41303"
 chapter: 413
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "46 U.S.C. § 41303"
-generated_at: "2026-11-23T21:17:36.230Z"
+generated_at: "2026-11-23T21:19:25.858Z"
 status: "active"
 ---
 

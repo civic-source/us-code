@@ -3,9 +3,9 @@ title: "Section 3713 - Authorization of appropriations"
 usc_title: 15
 usc_section: "3713"
 chapter: 63
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "15 U.S.C. § 3713"
-generated_at: "2026-11-23T21:16:57.579Z"
+generated_at: "2026-11-23T21:18:28.070Z"
 status: "active"
 ---
 

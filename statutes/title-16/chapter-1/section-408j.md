@@ -3,9 +3,9 @@ title: "Section 408j - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 16
 usc_section: "408j"
 chapter: 1
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "16 U.S.C. § 408j"
-generated_at: "2026-11-23T21:17:04.014Z"
+generated_at: "2026-11-23T21:18:35.818Z"
 status: "repealed"
 ---
 

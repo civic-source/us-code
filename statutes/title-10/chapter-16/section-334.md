@@ -3,9 +3,9 @@ title: "Section 334 - Administrative support and payment of certain expenses for
 usc_title: 10
 usc_section: "334"
 chapter: 16
-current_through: "PL 119-124"
+current_through: "PL 119-134"
 classification: "10 U.S.C. § 334"
-generated_at: "2026-11-23T21:16:51.170Z"
+generated_at: "2026-11-23T21:18:19.998Z"
 status: "active"
 ---
 
