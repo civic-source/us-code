@@ -3,9 +3,9 @@ title: "Section 277 - Repealed. Pub. L. 93–191, § 13 , Dec. 18, 1973 , 87 Sta
 usc_title: 2
 usc_section: "277"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 277"
-generated_at: "2026-11-23T20:54:32.062Z"
+generated_at: "2026-11-23T20:56:37.000Z"
 status: "repealed"
 ---
 

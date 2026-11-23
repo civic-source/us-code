@@ -3,9 +3,9 @@ title: "Section 262m - Congressional findings and policies for multilateral deve
 usc_title: 22
 usc_section: "262m"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 262m"
-generated_at: "2026-11-23T20:55:13.191Z"
+generated_at: "2026-11-23T20:57:11.571Z"
 status: "active"
 ---
 

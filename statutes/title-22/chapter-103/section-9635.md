@@ -3,9 +3,9 @@ title: "Section 9635 - Coordination with other development agencies"
 usc_title: 22
 usc_section: "9635"
 chapter: 103
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 9635"
-generated_at: "2026-11-23T20:55:13.988Z"
+generated_at: "2026-11-23T20:57:12.285Z"
 status: "active"
 ---
 

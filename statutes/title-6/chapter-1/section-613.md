@@ -3,9 +3,9 @@ title: "Section 613 - Identification of reporting redundancies and development o
 usc_title: 6
 usc_section: "613"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 613"
-generated_at: "2026-11-23T20:54:39.565Z"
+generated_at: "2026-11-23T20:56:41.745Z"
 status: "active"
 ---
 

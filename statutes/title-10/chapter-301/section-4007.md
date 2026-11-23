@@ -3,9 +3,9 @@ title: "Section 4007 - Science and technology programs to be conducted so as to 
 usc_title: 10
 usc_section: "4007"
 chapter: 301
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 4007"
-generated_at: "2026-11-23T20:54:44.977Z"
+generated_at: "2026-11-23T20:56:49.118Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 211 - Receiving or securing compensation for appointment of empl
 usc_title: 13
 usc_section: "211"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "13 U.S.C. § 211"
-generated_at: "2026-11-23T20:54:46.761Z"
+generated_at: "2026-11-23T20:56:50.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Community Connect Grant Program"
 usc_title: 7
 usc_section: "3"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-11-23T20:54:38.390Z"
+generated_at: "2026-11-23T20:56:44.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 666g - Classification of lands; industrial leases; moneys subjec
 usc_title: 16
 usc_section: "666g"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 666g"
-generated_at: "2026-11-23T20:55:04.729Z"
+generated_at: "2026-11-23T20:57:05.364Z"
 status: "active"
 ---
 

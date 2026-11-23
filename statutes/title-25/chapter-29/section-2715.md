@@ -3,9 +3,9 @@ title: "Section 2715 - Subpoena and deposition authority"
 usc_title: 25
 usc_section: "2715"
 chapter: 29
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 2715"
-generated_at: "2026-11-23T20:55:08.580Z"
+generated_at: "2026-11-23T20:57:08.470Z"
 status: "active"
 ---
 

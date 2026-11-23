@@ -3,9 +3,9 @@ title: "Section 9303 - Program activities"
 usc_title: 42
 usc_section: "9303"
 chapter: 101
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 9303"
-generated_at: "2026-11-23T20:55:51.732Z"
+generated_at: "2026-11-23T20:57:43.835Z"
 status: "active"
 ---
 

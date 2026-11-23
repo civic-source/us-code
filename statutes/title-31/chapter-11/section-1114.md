@@ -3,9 +3,9 @@ title: "Section 1114 - Repealed. Pub. L. 103–355, title II, § 2454(c)(2) , Oc
 usc_title: 31
 usc_section: "1114"
 chapter: 11
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "31 U.S.C. § 1114"
-generated_at: "2026-11-23T20:55:27.580Z"
+generated_at: "2026-11-23T20:57:22.909Z"
 status: "repealed"
 ---
 

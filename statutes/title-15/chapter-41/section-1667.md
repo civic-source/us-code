@@ -3,9 +3,9 @@ title: "Section 1667 - Definitions"
 usc_title: 15
 usc_section: "1667"
 chapter: 41
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 1667"
-generated_at: "2026-11-23T20:54:53.657Z"
+generated_at: "2026-11-23T20:56:56.394Z"
 status: "active"
 ---
 

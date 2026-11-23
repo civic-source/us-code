@@ -3,9 +3,9 @@ title: "Section 4931 - Daniel Webster Senate Page Residence Revolving Fund"
 usc_title: 2
 usc_section: "4931"
 chapter: 49
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 4931"
-generated_at: "2026-11-23T20:54:32.171Z"
+generated_at: "2026-11-23T20:56:37.107Z"
 status: "active"
 ---
 

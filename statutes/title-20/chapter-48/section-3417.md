@@ -3,9 +3,9 @@ title: "Section 3417 - Office of Special Education and Rehabilitative Services"
 usc_title: 20
 usc_section: "3417"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 3417"
-generated_at: "2026-11-23T20:55:00.877Z"
+generated_at: "2026-11-23T20:57:02.266Z"
 status: "active"
 ---
 

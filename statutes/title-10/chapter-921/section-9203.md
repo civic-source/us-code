@@ -3,9 +3,9 @@ title: "Section 9203 - Retired commissioned officers: status"
 usc_title: 10
 usc_section: "9203"
 chapter: 921
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9203"
-generated_at: "2026-11-23T20:54:45.243Z"
+generated_at: "2026-11-23T20:56:49.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2153 - Voluntary retirement after thirty years’ service"
 usc_title: 14
 usc_section: "2153"
 chapter: 21
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "14 U.S.C. § 2153"
-generated_at: "2026-11-23T20:54:47.228Z"
+generated_at: "2026-11-23T20:56:51.621Z"
 status: "active"
 ---
 

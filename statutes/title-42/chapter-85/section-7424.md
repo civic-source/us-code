@@ -3,9 +3,9 @@ title: "Section 7424 - Assurance of adequacy of State plans"
 usc_title: 42
 usc_section: "7424"
 chapter: 85
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 7424"
-generated_at: "2026-11-23T20:55:51.602Z"
+generated_at: "2026-11-23T20:57:43.676Z"
 status: "active"
 ---
 

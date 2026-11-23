@@ -3,9 +3,9 @@ title: "Section 6327 - Absence in connection with serving as a bone-marrow or or
 usc_title: 5
 usc_section: "6327"
 chapter: 63
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 6327"
-generated_at: "2026-11-23T20:54:33.907Z"
+generated_at: "2026-11-23T20:56:39.177Z"
 status: "active"
 ---
 

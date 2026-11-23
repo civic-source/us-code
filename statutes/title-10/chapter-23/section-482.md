@@ -3,9 +3,9 @@ title: "Section 482 - Readiness reports"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-11-23T20:54:44.344Z"
+generated_at: "2026-11-23T20:56:48.689Z"
 status: "active"
 ---
 

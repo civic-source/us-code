@@ -3,9 +3,9 @@ title: "Section 337 - Coast Guard Junior Reserve Officers’ Training Corps"
 usc_title: 14
 usc_section: "337"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "14 U.S.C. § 337"
-generated_at: "2026-11-23T20:54:47.187Z"
+generated_at: "2026-11-23T20:56:51.566Z"
 status: "active"
 ---
 

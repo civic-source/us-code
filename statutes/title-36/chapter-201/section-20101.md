@@ -3,9 +3,9 @@ title: "Section 20101 - Organization"
 usc_title: 36
 usc_section: "20101"
 chapter: 201
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 20101"
-generated_at: "2026-11-23T20:55:31.714Z"
+generated_at: "2026-11-23T20:57:28.628Z"
 status: "active"
 ---
 

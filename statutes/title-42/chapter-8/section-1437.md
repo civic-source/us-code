@@ -3,9 +3,9 @@ title: "Section 1437 - Declaration of policy and public housing agency organizat
 usc_title: 42
 usc_section: "1437"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1437"
-generated_at: "2026-11-23T20:55:50.658Z"
+generated_at: "2026-11-23T20:57:43.067Z"
 status: "active"
 ---
 
@@ -51,6 +51,66 @@ Effective Date
 In general
 
 Effective date
+
+In General
+
+Eligibility.—
+
+In general
+
+Criteria
+
+Installation
+
+Collection of Complaint Records.—
+
+In general
+
+Definitions
+
+Data Collection.—
+
+In general
+
+Personally identifiable information
+
+Pilot Program Evaluation.—
+
+Interim evaluation
+
+Final evaluation
+
+Treatment of Projects
+
+Sunset
+
+Definitions
+
+Approved temperature sensor
+
+Covered federally assisted rental dwelling unit
+
+Owner
+
+Definitions
+
+Covered public housing agency
+
+Inspector general
+
+Secretary
+
+Required Notice
+
+Federal Monitor and Receiver Transparency.—
+
+In general
+
+Additional information
+
+Disclosure Required
+
+Inspector General Review
 
 Findings
 

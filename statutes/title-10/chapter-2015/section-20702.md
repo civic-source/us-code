@@ -3,9 +3,9 @@ title: "Section 20702 - Modifications to career fields and codes"
 usc_title: 10
 usc_section: "20702"
 chapter: 2015
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 20702"
-generated_at: "2026-11-23T20:54:45.363Z"
+generated_at: "2026-11-23T20:56:49.458Z"
 status: "active"
 ---
 

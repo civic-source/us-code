@@ -3,9 +3,9 @@ title: "Section 1406a - Expenses of management and operation of transferred proj
 usc_title: 42
 usc_section: "1406a"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1406a"
-generated_at: "2026-11-23T20:55:50.654Z"
+generated_at: "2026-11-23T20:57:43.065Z"
 status: "active"
 ---
 

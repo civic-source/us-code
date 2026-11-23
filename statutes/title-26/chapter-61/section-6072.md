@@ -3,9 +3,9 @@ title: "Section 6072 - Time for filing income tax returns"
 usc_title: 26
 usc_section: "6072"
 chapter: 61
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6072"
-generated_at: "2026-11-23T20:55:25.132Z"
+generated_at: "2026-11-23T20:57:20.487Z"
 status: "active"
 ---
 

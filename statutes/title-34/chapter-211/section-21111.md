@@ -3,9 +3,9 @@ title: "Section 21111 - Establishment of National Strategy for Child Exploitatio
 usc_title: 34
 usc_section: "21111"
 chapter: 211
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 21111"
-generated_at: "2026-11-23T20:55:28.642Z"
+generated_at: "2026-11-23T20:57:24.586Z"
 status: "active"
 ---
 

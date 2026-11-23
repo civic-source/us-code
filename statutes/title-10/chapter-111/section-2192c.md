@@ -3,9 +3,9 @@ title: "Section 2192c - Office for academic engagement relating to cyber activit
 usc_title: 10
 usc_section: "2192c"
 chapter: 111
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2192c"
-generated_at: "2026-11-23T20:54:44.712Z"
+generated_at: "2026-11-23T20:56:48.946Z"
 status: "active"
 ---
 

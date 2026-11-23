@@ -3,9 +3,9 @@ title: "Section 6617 - Coordination with other organizations"
 usc_title: 42
 usc_section: "6617"
 chapter: 79
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6617"
-generated_at: "2026-11-23T20:55:51.460Z"
+generated_at: "2026-11-23T20:57:43.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12638 - State Commissions on National and Community Service"
 usc_title: 42
 usc_section: "12638"
 chapter: 129
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12638"
-generated_at: "2026-11-23T20:55:51.907Z"
+generated_at: "2026-11-23T20:57:44.046Z"
 status: "active"
 ---
 

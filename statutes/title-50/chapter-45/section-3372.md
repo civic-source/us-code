@@ -3,9 +3,9 @@ title: "Section 3372 - Monitoring mineral investments under Belt and Road Initia
 usc_title: 50
 usc_section: "3372"
 chapter: 45
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 3372"
-generated_at: "2026-11-23T20:55:57.127Z"
+generated_at: "2026-11-23T20:57:49.633Z"
 status: "active"
 ---
 

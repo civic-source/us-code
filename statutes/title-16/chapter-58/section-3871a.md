@@ -3,9 +3,9 @@ title: "Section 3871a - Definitions"
 usc_title: 16
 usc_section: "3871a"
 chapter: 58
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 3871a"
-generated_at: "2026-11-23T20:55:05.098Z"
+generated_at: "2026-11-23T20:57:05.682Z"
 status: "active"
 ---
 

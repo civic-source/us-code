@@ -3,9 +3,9 @@ title: "Section 2015c - Partnership program with institutions of higher educatio
 usc_title: 42
 usc_section: "2015c"
 chapter: 23
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 2015c"
-generated_at: "2026-11-23T20:55:50.948Z"
+generated_at: "2026-11-23T20:57:43.229Z"
 status: "active"
 ---
 

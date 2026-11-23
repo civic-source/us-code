@@ -3,9 +3,9 @@ title: "Section 1437u - Family Self-Sufficiency program"
 usc_title: 42
 usc_section: "1437u"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1437u"
-generated_at: "2026-11-23T20:55:50.702Z"
+generated_at: "2026-11-23T20:57:43.089Z"
 status: "active"
 ---
 
@@ -106,6 +106,59 @@ status: "active"
   - **(1)** The term “eligible entity” means an entity that meets the requirements under subsection (c)(2) to administer a Family Self-Sufficiency program under this section.
   - **(2)** The term “eligible family” means a family that meets the requirements under subsection (c)(1) to participate in the Family Self-Sufficiency program under this section.
   - **(3)** The term “participating family” means an eligible family that is participating in the Family Self-Sufficiency program under this section.
+- **(p)**
+  - **(1)** In this subsection:
+    - **(A)** The term “covered family” means a family that receives assistance under section 1437f or 1437g of this title and is enrolled in the Pilot Program.
+    - **(B)** The term “eligible entity” means an entity described in subsection (c)(2).
+    - **(C)** The term “Pilot Program” means the Pilot Program established under paragraph (2).
+    - **(D)** The term “welfare assistance” has the meaning given the term in section 984.103 of title 24, Code of Federal Regulations, or any successor regulation.
+  - **(2)** The Secretary may establish a pilot program under which the Secretary shall select not more than 25 eligible entities to establish and manage escrow accounts for not more than 5,000 covered families, in accordance with this subsection.
+  - **(3)**
+    - **(A)** An eligible entity selected to participate in the Pilot Program—
+      - **(i)** shall establish an interest-bearing escrow account and place into the account an amount equal to any increase in the amount of rent paid by each covered family in accordance with the provisions of section 1437a, 1437f( o ), or 1437f(y) of this title, as applicable, that is attributable to increases in earned income by the covered families during the participation of each covered family in the Pilot Program; and
+      - **(ii)** notwithstanding any other provision of law, may use funds it controls under section 1437f or 1437g of this title for purposes of making the escrow deposit for covered families assisted under, or residing in units assisted under, section 1437f or 1437g of this title, respectively, provided such funds are offset by the increase in the amount of rent paid by the covered family.
+    - **(B)** An eligible entity may not escrow any amounts for any covered family whose adjusted income exceeds 80 percent of the area median income at the time of enrollment.
+    - **(C)** A covered family may withdraw funds, including interest earned, from an escrow account established by an eligible entity under the Pilot Program—
+      - **(i)** after the covered family ceases to receive welfare assistance; and
+      - **(ii)**
+        - **(I)** not earlier than the date that is 5 years after the date on which the eligible entity establishes the escrow account under this subsection;
+        - **(II)** not later than the date that is 7 years after the date on which the eligible entity establishes the escrow account under this subsection, if the covered family chooses to continue to participate in the Pilot Program after the date that is 5 years after the date on which the eligible entity establishes the escrow account;
+        - **(III)** on the date the covered family ceases to receive housing assistance under section 1437f or 1437g of this title, if such date is earlier than 5 years after the date on which the eligible entity establishes the escrow account;
+        - **(IV)** earlier than 5 years after the date on which the eligible entity establishes the escrow account, if the covered family is using the funds to advance a self-sufficiency goal as approved by the eligible entity;
+        - **(V)** for any reason listed under section 984.303(k) of title 24, Code of Federal Regulations; or
+        - **(VI)** under other circumstances in which the Secretary determines an exemption for good cause is warranted.
+    - **(D)** For purposes of the Pilot Program, a covered family may recertify the income of the covered family multiple times per year at the request of the participating family, as determined by the Secretary, and not less frequently than once per year, unless the eligible entity has established an alternative rent structure with approval from the Secretary.
+    - **(E)** A covered family is not required to complete a standard contract of participation or an individual training and services plan in order to participate in the Pilot Program.
+  - **(4)** Any increase in the earned income of a covered family during the enrollment of the family in the Pilot Program may not be considered as income or a resource for purposes of eligibility of the family for other benefits, or amount of benefits payable to the family, under any program administered by the Secretary.
+  - **(5)**
+    - **(A)** An eligible entity seeking to participate in the Pilot Program shall submit to the Secretary an application—
+      - **(i)** at such time, in such manner, and containing such information as the Secretary may require by notice; and
+      - **(ii)** that includes the number of proposed covered families to be served by the eligible entity under this subsection.
+    - **(B)** The Secretary shall ensure that eligible entities selected to participate in the Pilot Program—
+      - **(i)** are located across various States and in both urban and rural areas; and
+      - **(ii)** vary by size and type, including both public housing agencies and private owners of projects receiving project-based rental assistance under section 1437f of this title .
+  - **(6)** An eligible entity participating in the Pilot Program shall—
+    - **(A)** notify covered families of their enrollment in the Pilot Program;
+    - **(B)** provide covered families with a detailed description of the Pilot Program, including how the Pilot Program will impact their rent and finances;
+    - **(C)** inform covered families that the families cannot simultaneously participate in the Pilot Program and the Family Self-Sufficiency program under this section; and
+    - **(D)** provide covered families with the ability to elect not to participate in the Pilot Program—
+      - **(i)** not less than 2 weeks before the date on which the escrow account is established under paragraph (3); and
+      - **(ii)** at any point during the duration of the Pilot Program.
+  - **(7)** During the term of participation by a covered family in the Pilot Program, the amount of rent paid by the covered family shall be calculated under the rental provisions of section 1437a or 1437f( o ) of this title, as applicable.
+  - **(8)**
+    - **(A)** Not later than 1 year after establishing the Pilot Program, the Secretary shall select the eligible entities to participate in the Pilot Program.
+    - **(B)** An eligible entity selected to participate in the Pilot Program shall—
+      - **(i)** not later than 6 months after selection, establish escrow accounts under paragraph (3) for covered families; and
+      - **(ii)** maintain those escrow accounts for not less than 5 years, or until a determination is made for termination with FSS escrow disbursement under section 984.303(k) of title 24, Code of Federal Regulations, or until the date the family ceases to receive assistance under section 1437f or 1437g of this title, and, at the discretion of the covered family, not more than 7 years after the date on which the escrow account is established.
+  - **(9)**
+    - **(A)** Assistance under section 1437f or 1437g of this title for a family that elects not to participate in the Pilot Program shall not be delayed or denied by reason of such election.
+    - **(B)** Housing assistance may not be terminated as a consequence of participating, or not participating, in the Pilot Program under this subsection for any period.
+  - **(10)** Not later than 10 years after the date the Secretary selects eligible entities to participate in the Pilot Program under this subsection, the Secretary shall, if awards were made, conduct a study and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on outcomes for covered families under the Pilot Program, which shall evaluate the effectiveness of the Pilot Program in assisting families to achieve economic independence and self-sufficiency, and the impact coaching and supportive services, or the lack thereof, had on individual incomes.
+  - **(11)** To allow selected eligible entities to effectively administer the Pilot Program and make the required escrow account deposits under this subsection, the Secretary may waive requirements under this section.
+  - **(12)** The Pilot Program under this subsection shall terminate on the date that is 10 years after July 11, 2026 .
+  - **(13)** Subject to the appropriation of funds, the Secretary may use funds—
+    - **(A)** for technical assistance related to implementation of the Pilot Program; and
+    - **(B)** to carry out an evaluation of the Pilot Program under paragraph (10).
 
 In general
 
@@ -115,4 +168,4 @@ Applicability to indian public housing
 
 ## Source Credit
 
-*(Sept. 1, 1937, ch. 896, title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4225](https://www.govinfo.gov/link/statute/104/4225); amended [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684](https://www.govinfo.gov/link/statute/106/3684), 3747; [Pub. L. 104–316, title I, § 122](https://www.govinfo.gov/link/plaw/104/public/316) (l), Oct. 19, 1996, [110 Stat. 3837](https://www.govinfo.gov/link/statute/110/3837); [Pub. L. 104–330, title V, § 501(b)(8)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V, § 509(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2530](https://www.govinfo.gov/link/statute/112/2530); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(31), (f)(23)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1721](https://www.govinfo.gov/link/statute/128/1721); [Pub. L. 115–174, title III, § 306(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339).)*
+*(Sept. 1, 1937, ch. 896, title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4225](https://www.govinfo.gov/link/statute/104/4225); amended [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684](https://www.govinfo.gov/link/statute/106/3684), 3747; [Pub. L. 104–316, title I, § 122](https://www.govinfo.gov/link/plaw/104/public/316) (l), Oct. 19, 1996, [110 Stat. 3837](https://www.govinfo.gov/link/statute/110/3837); [Pub. L. 104–330, title V, § 501(b)(8)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4042](https://www.govinfo.gov/link/statute/110/4042); [Pub. L. 105–276, title V, § 509(a)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2530](https://www.govinfo.gov/link/statute/112/2530); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(31), (f)(23)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1721](https://www.govinfo.gov/link/statute/128/1721); [Pub. L. 115–174, title III, § 306(a)](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339); [Pub. L. 119–101, title IV, § 404](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 901](https://www.govinfo.gov/link/statute/140/901).)*

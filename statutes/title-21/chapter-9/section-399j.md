@@ -3,9 +3,9 @@ title: "Section 399j - Abraham Accords Office"
 usc_title: 21
 usc_section: "399j"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 399j"
-generated_at: "2026-11-23T20:55:10.053Z"
+generated_at: "2026-11-23T20:57:09.618Z"
 status: "active"
 ---
 

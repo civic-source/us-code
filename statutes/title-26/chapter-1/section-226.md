@@ -3,9 +3,9 @@ title: "Section 226 - Cross reference"
 usc_title: 26
 usc_section: "226"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 226"
-generated_at: "2026-11-23T20:55:24.465Z"
+generated_at: "2026-11-23T20:57:19.813Z"
 status: "active"
 ---
 

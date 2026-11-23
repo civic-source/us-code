@@ -3,9 +3,9 @@ title: "Section 201 - Establishment; boundaries; trespassers; entries under land
 usc_title: 16
 usc_section: "201"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 201"
-generated_at: "2026-11-23T20:55:04.233Z"
+generated_at: "2026-11-23T20:57:05.006Z"
 status: "active"
 ---
 

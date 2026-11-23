@@ -3,9 +3,9 @@ title: "Section 282 - Repealed. Pub. L. 93–43, § 7(a)(6) , (8), (10)–(12), 
 usc_title: 24
 usc_section: "282"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "24 U.S.C. § 282"
-generated_at: "2026-11-23T20:55:06.524Z"
+generated_at: "2026-11-23T20:57:07.162Z"
 status: "repealed"
 ---
 

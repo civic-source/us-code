@@ -3,9 +3,9 @@ title: "Section 617o - Officials of ratifying States; authority to act in adviso
 usc_title: 43
 usc_section: "617o"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 617o"
-generated_at: "2026-11-23T20:55:37.720Z"
+generated_at: "2026-11-23T20:57:33.459Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7614a - Roadmap"
 usc_title: 7
 usc_section: "7614a"
 chapter: 103
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 7614a"
-generated_at: "2026-11-23T20:54:38.907Z"
+generated_at: "2026-11-23T20:56:44.627Z"
 status: "active"
 ---
 

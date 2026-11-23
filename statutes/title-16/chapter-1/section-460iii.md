@@ -3,9 +3,9 @@ title: "Section 460iii - Findings"
 usc_title: 16
 usc_section: "460iii"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 460iii"
-generated_at: "2026-11-23T20:55:04.571Z"
+generated_at: "2026-11-23T20:57:05.279Z"
 status: "active"
 ---
 

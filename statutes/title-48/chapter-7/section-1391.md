@@ -3,9 +3,9 @@ title: "Section 1391 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 48
 usc_section: "1391"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "48 U.S.C. § 1391"
-generated_at: "2026-11-23T20:55:54.080Z"
+generated_at: "2026-11-23T20:57:46.305Z"
 status: "repealed"
 ---
 

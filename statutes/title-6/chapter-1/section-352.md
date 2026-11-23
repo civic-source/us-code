@@ -3,9 +3,9 @@ title: "Section 352 - Annual employee award program"
 usc_title: 6
 usc_section: "352"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 352"
-generated_at: "2026-11-23T20:54:39.518Z"
+generated_at: "2026-11-23T20:56:41.718Z"
 status: "active"
 ---
 

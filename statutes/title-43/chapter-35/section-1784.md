@@ -3,9 +3,9 @@ title: "Section 1784 - Lands in Alaska; designation as wilderness; management by
 usc_title: 43
 usc_section: "1784"
 chapter: 35
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 1784"
-generated_at: "2026-11-23T20:55:37.877Z"
+generated_at: "2026-11-23T20:57:33.595Z"
 status: "active"
 ---
 

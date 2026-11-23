@@ -3,9 +3,9 @@ title: "Section 505 - Seals of courts; signatures of judges or court officers"
 usc_title: 18
 usc_section: "505"
 chapter: 25
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 505"
-generated_at: "2026-11-23T20:54:58.527Z"
+generated_at: "2026-11-23T20:56:58.805Z"
 status: "active"
 ---
 

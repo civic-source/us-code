@@ -3,9 +3,9 @@ title: "Section 2435 - Commercial agreements"
 usc_title: 19
 usc_section: "2435"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 2435"
-generated_at: "2026-11-23T20:54:57.149Z"
+generated_at: "2026-11-23T20:57:00.383Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16158 - Codes and standards"
 usc_title: 42
 usc_section: "16158"
 chapter: 149
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 16158"
-generated_at: "2026-11-23T20:55:52.020Z"
+generated_at: "2026-11-23T20:57:44.213Z"
 status: "active"
 ---
 

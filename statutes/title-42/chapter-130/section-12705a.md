@@ -3,9 +3,9 @@ title: "Section 12705a - Purposes of Removal of Regulatory Barriers to Affordabl
 usc_title: 42
 usc_section: "12705a"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12705a"
-generated_at: "2026-11-23T20:55:51.923Z"
+generated_at: "2026-11-23T20:57:44.074Z"
 status: "active"
 ---
 
@@ -31,6 +31,20 @@ Sec
 Sec
 
 Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
 
 Donald J. Trump.
 

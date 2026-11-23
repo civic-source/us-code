@@ -3,9 +3,9 @@ title: "Section 331 - Certifying checks on State banks admitted as members"
 usc_title: 12
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 331"
-generated_at: "2026-11-23T20:54:49.912Z"
+generated_at: "2026-11-23T20:56:54.020Z"
 status: "active"
 ---
 

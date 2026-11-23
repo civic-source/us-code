@@ -3,9 +3,9 @@ title: "Section 1834 - Criminal forfeiture"
 usc_title: 18
 usc_section: "1834"
 chapter: 90
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 1834"
-generated_at: "2026-11-23T20:54:58.635Z"
+generated_at: "2026-11-23T20:56:58.920Z"
 status: "active"
 ---
 

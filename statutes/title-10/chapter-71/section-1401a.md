@@ -3,9 +3,9 @@ title: "Section 1401a - Adjustment of retired pay and retainer pay to reflect ch
 usc_title: 10
 usc_section: "1401a"
 chapter: 71
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1401a"
-generated_at: "2026-11-23T20:54:44.562Z"
+generated_at: "2026-11-23T20:56:48.851Z"
 status: "active"
 ---
 

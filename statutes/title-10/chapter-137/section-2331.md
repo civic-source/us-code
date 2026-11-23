@@ -3,9 +3,9 @@ title: "Section 2331 - Renumbered § 4507]"
 usc_title: 10
 usc_section: "2331"
 chapter: 137
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2331"
-generated_at: "2026-11-23T20:54:44.754Z"
+generated_at: "2026-11-23T20:56:48.970Z"
 status: "renumbered"
 ---
 

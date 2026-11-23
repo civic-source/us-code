@@ -3,9 +3,9 @@ title: "Section 4568 - Housing Trust Fund"
 usc_title: 12
 usc_section: "4568"
 chapter: 46
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 4568"
-generated_at: "2026-11-23T20:54:50.548Z"
+generated_at: "2026-11-23T20:56:54.413Z"
 status: "active"
 ---
 
@@ -63,11 +63,11 @@ status: "active"
     - **(A)** the production, preservation, and rehabilitation of rental housing, including housing under the programs identified in section 4565(a)(2)(B) of this title and for operating costs, except that not less than 75 percent of such grant amounts shall be used for the benefit only of extremely low-income families or families with incomes at or below the poverty line (as such term is defined in section 9902 of title 42 , including any revision required by such section) applicable to a family of the size involved, and not more than 25 percent for the benefit only of very low-income families; and
     - **(B)** the production, preservation, and rehabilitation of housing for homeownership, including such forms as down payment assistance, closing cost assistance, and assistance for interest rate buy-downs, that—
       - **(i)** is available for purchase only for use as a principal residence by families that qualify both as—
-        - **(I)** extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12745(b)(2) ); and
+        - **(I)** extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) 3 3 See References in Text note below. of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12745(b)(2) ); and
         - **(II)** first-time homebuyers, as such term is defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12704 ), except that any reference in such section to assistance under title II of such Act [ 42 U.S.C. 12721 et seq.] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
-      - **(ii)** has an initial purchase price that meets the requirements of section 215(b)(1) of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12745(b)(1) ];
-      - **(iii)** is subject to the same resale restrictions established under section 215(b)(3) of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 12745(b)(3) ] and applicable to the participating jurisdiction that is the State in which such housing is located; and
-      - **(iv)** is made available for purchase only by, or in the case of assistance under this subsection, is made available only to homebuyers who have, before purchase completed a program of independent financial education and counseling from an eligible organization that meets the requirements of section 132 of the Federal Housing Finance Regulatory Reform Act of 2008. 3 3 See References in Text note below.
+      - **(ii)** has an initial purchase price that meets the requirements of section 215(b)(1) 3 of the Cranston-Gonzalez National Affordable Housing Act;
+      - **(iii)** is subject to the same resale restrictions established under section 215(b)(3) 3 of the Cranston-Gonzalez National Affordable Housing Act and applicable to the participating jurisdiction that is the State in which such housing is located; and
+      - **(iv)** is made available for purchase only by, or in the case of assistance under this subsection, is made available only to homebuyers who have, before purchase completed a program of independent financial education and counseling from an eligible organization that meets the requirements of section 132 of the Federal Housing Finance Regulatory Reform Act of 2008. 3
   - **(8)** All amounts from the Trust Fund shall be allocated in accordance with, and any eligible activities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
     - **(A)** laws relating to tenant protections and tenant rights to participate in decision making regarding their residences;
     - **(B)** laws requiring public participation, including laws relating to Consolidated Plans, Qualified Allocation Plans, and Public Housing Agency Plans; and

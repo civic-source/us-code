@@ -3,9 +3,9 @@ title: "Section 1781c - Office of Special Needs"
 usc_title: 10
 usc_section: "1781c"
 chapter: 88
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1781c"
-generated_at: "2026-11-23T20:54:44.671Z"
+generated_at: "2026-11-23T20:56:48.908Z"
 status: "active"
 ---
 

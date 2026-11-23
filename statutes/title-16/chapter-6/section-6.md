@@ -3,9 +3,9 @@ title: "Section 6 - Restriction on authority"
 usc_title: 16
 usc_section: "6"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-11-23T20:55:04.765Z"
+generated_at: "2026-11-23T20:57:05.389Z"
 status: "active"
 ---
 

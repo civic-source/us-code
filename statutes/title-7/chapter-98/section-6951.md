@@ -3,9 +3,9 @@ title: "Section 6951 - Under Secretary of Agriculture for Food, Nutrition, and C
 usc_title: 7
 usc_section: "6951"
 chapter: 98
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 6951"
-generated_at: "2026-11-23T20:54:38.870Z"
+generated_at: "2026-11-23T20:56:44.571Z"
 status: "active"
 ---
 

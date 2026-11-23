@@ -3,9 +3,9 @@ title: "Section 6903 - Definitions"
 usc_title: 42
 usc_section: "6903"
 chapter: 82
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6903"
-generated_at: "2026-11-23T20:55:51.490Z"
+generated_at: "2026-11-23T20:57:43.588Z"
 status: "active"
 ---
 

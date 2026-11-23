@@ -3,9 +3,9 @@ title: "Section 20151 - Railroad trespassing, vandalism, and highway-rail grade 
 usc_title: 49
 usc_section: "20151"
 chapter: 201
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 20151"
-generated_at: "2026-11-23T20:55:59.428Z"
+generated_at: "2026-11-23T20:57:52.064Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10706 - Promoting cross-cultural and educational engagement"
 usc_title: 22
 usc_section: "10706"
 chapter: 114
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 10706"
-generated_at: "2026-11-23T20:55:14.025Z"
+generated_at: "2026-11-23T20:57:12.313Z"
 status: "active"
 ---
 

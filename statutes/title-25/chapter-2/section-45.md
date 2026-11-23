@@ -3,9 +3,9 @@ title: "Section 45 - Preference to Indians qualified for duties"
 usc_title: 25
 usc_section: "45"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 45"
-generated_at: "2026-11-23T20:55:08.350Z"
+generated_at: "2026-11-23T20:57:08.342Z"
 status: "active"
 ---
 

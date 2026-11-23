@@ -3,9 +3,9 @@ title: "Section 3699D - Notice of changes to policies and guidance relating to e
 usc_title: 38
 usc_section: "3699D"
 chapter: 36
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "38 U.S.C. § 3699D"
-generated_at: "2026-11-23T20:55:34.411Z"
+generated_at: "2026-11-23T20:57:30.325Z"
 status: "active"
 ---
 

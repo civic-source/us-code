@@ -3,9 +3,9 @@ title: "Section 41748 - Repealed. Pub. L. 118–63, title V, § 561 ( l ), May 1
 usc_title: 49
 usc_section: "41748"
 chapter: 417
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 41748"
-generated_at: "2026-11-23T20:55:59.592Z"
+generated_at: "2026-11-23T20:57:52.235Z"
 status: "repealed"
 ---
 

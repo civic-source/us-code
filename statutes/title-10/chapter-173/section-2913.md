@@ -3,9 +3,9 @@ title: "Section 2913 - Energy savings contracts and activities"
 usc_title: 10
 usc_section: "2913"
 chapter: 173
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2913"
-generated_at: "2026-11-23T20:54:44.901Z"
+generated_at: "2026-11-23T20:56:49.071Z"
 status: "active"
 ---
 

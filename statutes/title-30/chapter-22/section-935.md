@@ -3,9 +3,9 @@ title: "Section 935 - Utilization of services of State and local agencies"
 usc_title: 30
 usc_section: "935"
 chapter: 22
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "30 U.S.C. § 935"
-generated_at: "2026-11-23T20:55:15.948Z"
+generated_at: "2026-11-23T20:57:13.942Z"
 status: "active"
 ---
 

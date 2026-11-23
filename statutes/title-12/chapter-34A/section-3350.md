@@ -3,9 +3,9 @@ title: "Section 3350 - Definitions"
 usc_title: 12
 usc_section: "3350"
 chapter: 34
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 3350"
-generated_at: "2026-11-23T20:54:50.484Z"
+generated_at: "2026-11-23T20:56:54.373Z"
 status: "active"
 ---
 
@@ -33,7 +33,10 @@ For purposes of this chapter:
     - **(B)** to contract with licensed and certified appraisers to perform appraisal assignments;
     - **(C)** to manage the process of having an appraisal performed, including providing administrative duties such as receiving appraisal orders and appraisal reports, submitting completed appraisal reports to creditors and underwriters, collecting fees from creditors and underwriters for services provided, and reimbursing appraisers for services performed; or
     - **(D)** to review and verify the work of appraisers.
+  - **(12)** The term “State credentialed trainee appraiser” means an individual who—
+    - **(A)** meets the minimum criteria established by the Appraiser Qualification Board for a trainee appraiser credential; and
+    - **(B)** is credentialed by a State appraiser certifying and licensing agency.
 
 ## Source Credit
 
-*([Pub. L. 101–73, title XI, § 1121](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 517](https://www.govinfo.gov/link/statute/103/517); [Pub. L. 111–203, title XIV, § 1473(f)(4)](https://www.govinfo.gov/link/plaw/111/public/203), (t)(2), (3), July 21, 2010, [124 Stat. 2193](https://www.govinfo.gov/link/statute/124/2193), 2199.)*
+*([Pub. L. 101–73, title XI, § 1121](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 517](https://www.govinfo.gov/link/statute/103/517); [Pub. L. 111–203, title XIV, § 1473(f)(4)](https://www.govinfo.gov/link/plaw/111/public/203), (t)(2), (3), July 21, 2010, [124 Stat. 2193](https://www.govinfo.gov/link/statute/124/2193), 2199; [Pub. L. 119–101, title IV, § 403(c)(4)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 901](https://www.govinfo.gov/link/statute/140/901).)*

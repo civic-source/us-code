@@ -3,9 +3,9 @@ title: "Section 8749 - Civil service mariners of Military Sealift Command: relea
 usc_title: 10
 usc_section: "8749"
 chapter: 871
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 8749"
-generated_at: "2026-11-23T20:54:45.203Z"
+generated_at: "2026-11-23T20:56:49.318Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-11-23T20:54:44.945Z"
+generated_at: "2026-11-23T20:56:49.097Z"
 status: "active"
 ---
 

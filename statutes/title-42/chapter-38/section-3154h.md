@@ -3,9 +3,9 @@ title: "Section 3154h - Critical Supply Chain Site Development grant program"
 usc_title: 42
 usc_section: "3154h"
 chapter: 38
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 3154h"
-generated_at: "2026-11-23T20:55:51.110Z"
+generated_at: "2026-11-23T20:57:43.341Z"
 status: "active"
 ---
 

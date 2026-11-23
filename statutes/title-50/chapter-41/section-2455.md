@@ -3,9 +3,9 @@ title: "Section 2455 - Repealed. Pub. L. 116–92, div. C, title XXXI, § 3132(a
 usc_title: 50
 usc_section: "2455"
 chapter: 41
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 2455"
-generated_at: "2026-11-23T20:55:57.017Z"
+generated_at: "2026-11-23T20:57:49.576Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 644 - Banker receiving unauthorized deposit of public money"
 usc_title: 18
 usc_section: "644"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 644"
-generated_at: "2026-11-23T20:54:58.541Z"
+generated_at: "2026-11-23T20:56:58.814Z"
 status: "active"
 ---
 

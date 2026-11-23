@@ -3,9 +3,9 @@ title: "Section 534 - Conveyance of right, title, and interest of United States 
 usc_title: 33
 usc_section: "534"
 chapter: 11
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 534"
-generated_at: "2026-11-23T20:55:29.567Z"
+generated_at: "2026-11-23T20:57:25.530Z"
 status: "active"
 ---
 

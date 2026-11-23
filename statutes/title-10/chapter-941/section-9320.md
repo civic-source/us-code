@@ -3,9 +3,9 @@ title: "Section 9320 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "9320"
 chapter: 941
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9320"
-generated_at: "2026-11-23T20:54:45.250Z"
+generated_at: "2026-11-23T20:56:49.356Z"
 status: "active"
 ---
 

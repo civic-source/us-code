@@ -3,9 +3,9 @@ title: "Section 19351 - Advanced nuclear technologies Federal research, developm
 usc_title: 42
 usc_section: "19351"
 chapter: 163
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 19351"
-generated_at: "2026-11-23T20:55:52.187Z"
+generated_at: "2026-11-23T20:57:44.449Z"
 status: "active"
 ---
 

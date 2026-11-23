@@ -3,9 +3,9 @@ title: "Section 4659 - Prohibition on contracting with entities that comply with
 usc_title: 10
 usc_section: "4659"
 chapter: 363
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 4659"
-generated_at: "2026-11-23T20:54:45.019Z"
+generated_at: "2026-11-23T20:56:49.146Z"
 status: "active"
 ---
 

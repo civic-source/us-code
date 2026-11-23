@@ -3,9 +3,9 @@ title: "Section 3735 - Expansion of the United States and Foreign Commercial Ser
 usc_title: 19
 usc_section: "3735"
 chapter: 23
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 3735"
-generated_at: "2026-11-23T20:54:57.237Z"
+generated_at: "2026-11-23T20:57:00.432Z"
 status: "active"
 ---
 

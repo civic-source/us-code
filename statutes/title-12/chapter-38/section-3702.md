@@ -3,9 +3,9 @@ title: "Section 3702 - Definitions"
 usc_title: 12
 usc_section: "3702"
 chapter: 38
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 3702"
-generated_at: "2026-11-23T20:54:50.495Z"
+generated_at: "2026-11-23T20:56:54.383Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ As used in this chapter—
     - **(C)** section 202 of the Housing Act of 1959 [ 12 U.S.C. 1701q ], as it existed immediately before its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
     - **(D)** section 202 of the Housing Act of 1959 [ 12 U.S.C. 1701q ], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
     - **(E)** section 811 of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 8013 ]; and
-    - **(F)** section 514 or 515 of the Housing Act of 1949 ( 42 U.S.C. 1484 , 1485).
+    - **(F)** section 514 1 1 So in original. Probably should be followed by a comma. 515, or 538 of the Housing Act of 1949 ( 42 U.S.C. 1484 , 1485, 1490p–2).
   - **(3)** “mortgage agreement” means the note or debt instrument and the mortgage instrument, deed of trust instrument, trust deed, or instrument or instruments creating the mortgage, including any instrument incorporated by reference therein (including any applicable regulatory agreement), and any instrument or agreement amending or modifying any of the foregoing;
   - **(4)** “mortgagor” means the obligor, grantor, or trustor named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not personally liable on the mortgage debt;
   - **(5)** “person” includes any individual, group of individuals, association, partnership, corporation, or organization;
@@ -32,4 +32,4 @@ As used in this chapter—
 
 ## Source Credit
 
-*([Pub. L. 97–35, title III, § 363](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 422](https://www.govinfo.gov/link/statute/95/422); [Pub. L. 102–550, title V, § 517(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3792](https://www.govinfo.gov/link/statute/106/3792); [Pub. L. 118–42, div. B, title VII, § 762](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 115](https://www.govinfo.gov/link/statute/138/115); [Pub. L. 119–37, div. B, title VII, § 765](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 554](https://www.govinfo.gov/link/statute/139/554).)*
+*([Pub. L. 97–35, title III, § 363](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 422](https://www.govinfo.gov/link/statute/95/422); [Pub. L. 102–550, title V, § 517(b)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3792](https://www.govinfo.gov/link/statute/106/3792); [Pub. L. 118–42, div. B, title VII, § 762](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 115](https://www.govinfo.gov/link/statute/138/115); [Pub. L. 119–37, div. B, title VII, § 765](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 554](https://www.govinfo.gov/link/statute/139/554); [Pub. L. 119–101, title V, § 502(a)(1)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 918](https://www.govinfo.gov/link/statute/140/918).)*

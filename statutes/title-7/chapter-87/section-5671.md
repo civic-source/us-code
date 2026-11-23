@@ -3,9 +3,9 @@ title: "Section 5671 - Agricultural embargo protection"
 usc_title: 7
 usc_section: "5671"
 chapter: 87
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 5671"
-generated_at: "2026-11-23T20:54:38.819Z"
+generated_at: "2026-11-23T20:56:44.498Z"
 status: "active"
 ---
 

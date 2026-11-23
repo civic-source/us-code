@@ -3,9 +3,9 @@ title: "Section 1395mmm - Limiting Medicare coverage of certain individuals"
 usc_title: 42
 usc_section: "1395mmm"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1395mmm"
-generated_at: "2026-11-23T20:55:50.474Z"
+generated_at: "2026-11-23T20:57:42.977Z"
 status: "active"
 ---
 

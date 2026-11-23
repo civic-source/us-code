@@ -3,9 +3,9 @@ title: "Section 492 - Function"
 usc_title: 6
 usc_section: "492"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 492"
-generated_at: "2026-11-23T20:54:39.541Z"
+generated_at: "2026-11-23T20:56:41.731Z"
 status: "active"
 ---
 

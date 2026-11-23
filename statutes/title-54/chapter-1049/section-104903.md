@@ -3,9 +3,9 @@ title: "Section 104903 - Care, removal, and burial of indigents"
 usc_title: 54
 usc_section: "104903"
 chapter: 1049
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "54 U.S.C. § 104903"
-generated_at: "2026-11-23T20:56:01.940Z"
+generated_at: "2026-11-23T20:57:54.227Z"
 status: "active"
 ---
 

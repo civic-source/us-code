@@ -3,9 +3,9 @@ title: "Section 5811 - Findings"
 usc_title: 22
 usc_section: "5811"
 chapter: 67
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 5811"
-generated_at: "2026-11-23T20:55:13.731Z"
+generated_at: "2026-11-23T20:57:12.062Z"
 status: "active"
 ---
 

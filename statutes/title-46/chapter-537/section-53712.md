@@ -3,9 +3,9 @@ title: "Section 53712 - Monitoring financial condition and operations of obligor
 usc_title: 46
 usc_section: "53712"
 chapter: 537
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "46 U.S.C. § 53712"
-generated_at: "2026-11-23T20:55:55.958Z"
+generated_at: "2026-11-23T20:57:47.706Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4606 - Officers and employees"
 usc_title: 22
 usc_section: "4606"
 chapter: 56
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 4606"
-generated_at: "2026-11-23T20:55:13.698Z"
+generated_at: "2026-11-23T20:57:12.027Z"
 status: "active"
 ---
 

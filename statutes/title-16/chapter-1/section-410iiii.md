@@ -3,9 +3,9 @@ title: "Section 410iiii - Definitions"
 usc_title: 16
 usc_section: "410iiii"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 410iiii"
-generated_at: "2026-11-23T20:55:04.401Z"
+generated_at: "2026-11-23T20:57:05.161Z"
 status: "active"
 ---
 

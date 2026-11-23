@@ -3,9 +3,9 @@ title: "Section 3586 - Implementation of a sentence of imprisonment"
 usc_title: 18
 usc_section: "3586"
 chapter: 227
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 3586"
-generated_at: "2026-11-23T20:54:58.739Z"
+generated_at: "2026-11-23T20:56:59.065Z"
 status: "active"
 ---
 

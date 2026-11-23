@@ -3,9 +3,9 @@ title: "Section 50902 - Best practices and support"
 usc_title: 34
 usc_section: "50902"
 chapter: 509
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 50902"
-generated_at: "2026-11-23T20:55:28.696Z"
+generated_at: "2026-11-23T20:57:24.645Z"
 status: "active"
 ---
 

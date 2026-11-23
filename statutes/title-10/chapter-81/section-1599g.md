@@ -3,9 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-11-23T20:54:44.644Z"
+generated_at: "2026-11-23T20:56:48.895Z"
 status: "active"
 ---
 

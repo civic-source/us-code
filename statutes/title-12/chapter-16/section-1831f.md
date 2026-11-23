@@ -3,9 +3,9 @@ title: "Section 1831f - Brokered deposits"
 usc_title: 12
 usc_section: "1831f"
 chapter: 16
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 1831f"
-generated_at: "2026-11-23T20:54:50.206Z"
+generated_at: "2026-11-23T20:56:54.277Z"
 status: "active"
 ---
 
@@ -53,13 +53,14 @@ status: "active"
   - **(1)** in such institution’s normal market areas; or
   - **(2)** in the market area in which such deposits would otherwise be accepted.
 - **(i)**
-  - **(1)** Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
-    - **(A)** $5,000,000,000; or
-    - **(B)** an amount equal to 20 percent of the total liabilities of the agent institution.
+  - **(1)** The sum of the following amounts of reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker:
+    - **(A)** An amount equal to 50 percent of the portion of the total liabilities of the agent institution that is less than or equal to $1,000,000,000.
+    - **(B)** An amount equal to 40 percent of the portion, if any, of the total liabilities of the agent institution that is greater than $1,000,000,000, but less than or equal to $10,000,000,000.
+    - **(C)** An amount equal to 30 percent of the portion, if any, of the total liabilities of the agent institution that is greater than $10,000,000,000, but less than or equal to $96,333,333,333.
   - **(2)** In this subsection:
     - **(A)** The term “agent institution” means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution—
       - **(i)**
-        - **(I)** when most recently examined under section 1820(d) of this title was found to have a composite condition of outstanding or good; and
+        - **(I)** when most recently examined under section 1820(d) of this title was assigned a CAMELS rating of 1, 2, or 3 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system); and
         - **(II)** is well capitalized;
       - **(ii)** has obtained a waiver pursuant to subsection (c); or
       - **(iii)** does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the 4 calendar quarters preceding the calendar quarter in which the agent institution was found not to have a composite condition of outstanding or good or was determined to be not well capitalized.
@@ -70,7 +71,31 @@ status: "active"
     - **(D)** The term “network member bank” means an insured depository institution that is a member of a deposit placement network.
     - **(E)** The term “reciprocal deposits” means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
     - **(F)** The term “well capitalized” has the meaning given the term in section 1831 o (b)(1) of this title.
+- **(j)**
+  - **(1)** Custodial deposits of an eligible institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such custodial deposits does not exceed an amount equal to 20 percent of the total liabilities of the eligible institution.
+  - **(2)** In this subsection:
+    - **(A)** The term “custodial deposit” means a deposit that is not deposited at an insured depository institution in return for fees paid by the insured depository institution pursuant to an agreement with a third party and that would otherwise be considered to be obtained, directly or indirectly, by or through a deposit broker, if the deposit is deposited at 1 or more insured depository institutions, for the purpose of providing or maintaining deposit insurance for the benefit of a third party, by or through any of the following, each acting in a formal custodial or fiduciary capacity for the benefit of a third party:
+      - **(i)** An insured depository institution serving as agent, trustee, or custodian.
+      - **(ii)** A trust entity controlled by an insured depository institution serving as agent, trustee, or custodian.
+      - **(iii)** A State-chartered trust company serving as agent, trustee, or custodian.
+      - **(iv)** A plan administrator or investment advisor, acting in a formal custodial or fiduciary capacity for the benefit of a plan.
+    - **(B)** The term “eligible institution” means an insured depository institution that accepts custodial deposits, if the insured depository institution has less than $10,000,000,000 in total assets as reported on the consolidated report of condition and income as reported quarterly to the appropriate Federal banking agency and—
+      - **(i)**
+        - **(I)** when most recently examined under section 10(d) was assigned a composite rating of 1, 2, or 3 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system); and
+        - **(II)** is well capitalized; or
+      - **(ii)** has obtained a waiver pursuant to subsection (c).
+    - **(C)** The term “plan” has the meaning given the term in section 1002 of title 29 .
+    - **(D)** The term “plan administrator” has the meaning given the term “administrator” in section 1002 of title 29 .
+    - **(E)** The term “well capitalized” has the meaning given the term in section 1831 o (b) of this title.
+- **(k)**
+  - **(1)** In this subsection—
+    - **(A)** the terms “custodial deposit”, “eligible institution”, and “well capitalized” have the meanings given those terms in subsection (j); and
+    - **(B)** the term “covered insured depository institution” means an insured depository institution that while acting as an eligible institution under subsection (j), accepts custodial deposits while not well capitalized.
+  - **(2)** A covered insured depository institution may not pay a rate of interest on custodial deposits that are accepted while not well capitalized that, at the time the funds or custodial deposits are accepted, significantly exceeds the limit set forth in paragraph (3).
+  - **(3)** The limit on the rate of interest referred to in paragraph (2) shall be not greater than—
+    - **(A)** the rate paid on deposits of similar maturity in the normal market area of the covered insured depository institution for deposits accepted in the normal market area of the covered insured depository institution; or
+    - **(B)** the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the normal market area of the covered insured depository institution.
 
 ## Source Credit
 
-*(Sept. 21, 1950, ch. 967, § 2 [29], as added [Pub. L. 101–73, title II, § 224(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 273](https://www.govinfo.gov/link/statute/103/273); amended [Pub. L. 102–242, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/242), (c), Dec. 19, 1991, [105 Stat. 2343](https://www.govinfo.gov/link/statute/105/2343), 2345; [Pub. L. 102–550, title XVI, § 1605(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4084](https://www.govinfo.gov/link/statute/106/4084); [Pub. L. 103–325, title III, § 337](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2235](https://www.govinfo.gov/link/statute/108/2235); [Pub. L. 115–174, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1307](https://www.govinfo.gov/link/statute/132/1307).)*
+*(Sept. 21, 1950, ch. 967, § 2 [29], as added [Pub. L. 101–73, title II, § 224(a)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 273](https://www.govinfo.gov/link/statute/103/273); amended [Pub. L. 102–242, title III, § 301(a)](https://www.govinfo.gov/link/plaw/102/public/242), (c), Dec. 19, 1991, [105 Stat. 2343](https://www.govinfo.gov/link/statute/105/2343), 2345; [Pub. L. 102–550, title XVI, § 1605(a)(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 4084](https://www.govinfo.gov/link/statute/106/4084); [Pub. L. 103–325, title III, § 337](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2235](https://www.govinfo.gov/link/statute/108/2235); [Pub. L. 115–174, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1307](https://www.govinfo.gov/link/statute/132/1307); [Pub. L. 119–101, title IX](https://www.govinfo.gov/link/plaw/119/public/101), §§ 901, 902(a), (b), July 11, 2026, [140 Stat. 964–966](https://www.govinfo.gov/link/statute/140/964).)*

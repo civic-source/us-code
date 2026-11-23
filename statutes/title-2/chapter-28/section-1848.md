@@ -3,9 +3,9 @@ title: "Section 1848 - Compensation of certain positions in Office of Architect 
 usc_title: 2
 usc_section: "1848"
 chapter: 28
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 1848"
-generated_at: "2026-11-23T20:54:32.128Z"
+generated_at: "2026-11-23T20:56:37.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9003 - Contracting authority"
 usc_title: 5
 usc_section: "9003"
 chapter: 90
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 9003"
-generated_at: "2026-11-23T20:54:34.042Z"
+generated_at: "2026-11-23T20:56:39.348Z"
 status: "active"
 ---
 

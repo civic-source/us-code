@@ -3,9 +3,9 @@ title: "Section 7718 - Certification for exports"
 usc_title: 7
 usc_section: "7718"
 chapter: 104
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 7718"
-generated_at: "2026-11-23T20:54:38.917Z"
+generated_at: "2026-11-23T20:56:44.639Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15e - Distribution of damages"
 usc_title: 15
 usc_section: "15e"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 15e"
-generated_at: "2026-11-23T20:54:53.162Z"
+generated_at: "2026-11-23T20:56:56.044Z"
 status: "active"
 ---
 

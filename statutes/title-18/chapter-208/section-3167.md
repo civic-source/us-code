@@ -3,9 +3,9 @@ title: "Section 3167 - Reports to Congress"
 usc_title: 18
 usc_section: "3167"
 chapter: 208
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 3167"
-generated_at: "2026-11-23T20:54:58.700Z"
+generated_at: "2026-11-23T20:56:59.025Z"
 status: "active"
 ---
 

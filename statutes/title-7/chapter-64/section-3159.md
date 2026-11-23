@@ -3,9 +3,9 @@ title: "Section 3159 - Land-grant designation"
 usc_title: 7
 usc_section: "3159"
 chapter: 64
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 3159"
-generated_at: "2026-11-23T20:54:38.759Z"
+generated_at: "2026-11-23T20:56:44.440Z"
 status: "active"
 ---
 

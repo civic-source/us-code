@@ -3,9 +3,9 @@ title: "Section 24103 - Enforcement"
 usc_title: 49
 usc_section: "24103"
 chapter: 241
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 24103"
-generated_at: "2026-11-23T20:55:59.450Z"
+generated_at: "2026-11-23T20:57:52.090Z"
 status: "active"
 ---
 

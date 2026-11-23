@@ -3,9 +3,9 @@ title: "Section 3507 - Existing references to transferor officials or bodies dee
 usc_title: 20
 usc_section: "3507"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 3507"
-generated_at: "2026-11-23T20:55:00.883Z"
+generated_at: "2026-11-23T20:57:02.271Z"
 status: "active"
 ---
 

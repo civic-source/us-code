@@ -3,9 +3,9 @@ title: "Section 606 - Transferred"
 usc_title: 8
 usc_section: "606"
 chapter: 11
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "8 U.S.C. § 606"
-generated_at: "2026-11-23T20:54:35.748Z"
+generated_at: "2026-11-23T20:56:41.162Z"
 status: "transferred"
 ---
 

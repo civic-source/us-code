@@ -3,9 +3,9 @@ title: "Section 12312 - Confidentiality of communications between sexual assault
 usc_title: 34
 usc_section: "12312"
 chapter: 121
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 12312"
-generated_at: "2026-11-23T20:55:28.570Z"
+generated_at: "2026-11-23T20:57:24.518Z"
 status: "active"
 ---
 

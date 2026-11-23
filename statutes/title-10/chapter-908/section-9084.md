@@ -3,9 +3,9 @@ title: "Section 9084 - Office of the Chief of Space Operations: function; compos
 usc_title: 10
 usc_section: "9084"
 chapter: 908
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9084"
-generated_at: "2026-11-23T20:54:45.240Z"
+generated_at: "2026-11-23T20:56:49.344Z"
 status: "active"
 ---
 

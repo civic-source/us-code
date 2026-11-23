@@ -3,9 +3,9 @@ title: "Section 1723h - Repealed. Pub. L. 102–550, title IX, § 912(i)(2) , Oc
 usc_title: 12
 usc_section: "1723h"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 1723h"
-generated_at: "2026-11-23T20:54:50.102Z"
+generated_at: "2026-11-23T20:56:54.174Z"
 status: "repealed"
 ---
 

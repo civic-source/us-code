@@ -3,9 +3,9 @@ title: "Section 1591d - Powers as cumulative and additional"
 usc_title: 42
 usc_section: "1591d"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1591d"
-generated_at: "2026-11-23T20:55:50.766Z"
+generated_at: "2026-11-23T20:57:43.124Z"
 status: "active"
 ---
 

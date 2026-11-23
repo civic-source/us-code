@@ -3,9 +3,9 @@ title: "Section 9682 - Obsolete or excess material: sale to National Council of 
 usc_title: 10
 usc_section: "9682"
 chapter: 973
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9682"
-generated_at: "2026-11-23T20:54:45.274Z"
+generated_at: "2026-11-23T20:56:49.379Z"
 status: "active"
 ---
 

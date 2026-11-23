@@ -3,9 +3,9 @@ title: "Section 890 - Art. 90. Willfully disobeying superior commissioned office
 usc_title: 10
 usc_section: "890"
 chapter: 47
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 890"
-generated_at: "2026-11-23T20:54:44.439Z"
+generated_at: "2026-11-23T20:56:48.761Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9362 - Recomputation of retired pay to reflect advancement on re
 usc_title: 10
 usc_section: "9362"
 chapter: 945
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9362"
-generated_at: "2026-11-23T20:54:45.253Z"
+generated_at: "2026-11-23T20:56:49.359Z"
 status: "active"
 ---
 

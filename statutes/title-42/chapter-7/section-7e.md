@@ -3,9 +3,9 @@ title: "Section 7e - Health care fraud and abuse data collection program"
 usc_title: 42
 usc_section: "7e"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-11-23T20:55:50.097Z"
+generated_at: "2026-11-23T20:57:42.711Z"
 status: "active"
 ---
 

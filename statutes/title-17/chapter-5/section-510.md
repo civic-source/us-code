@@ -3,9 +3,9 @@ title: "Section 510 - Remedies for alteration of programming by cable systems"
 usc_title: 17
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "17 U.S.C. § 510"
-generated_at: "2026-11-23T20:54:55.473Z"
+generated_at: "2026-11-23T20:56:59.458Z"
 status: "active"
 ---
 

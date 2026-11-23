@@ -3,9 +3,9 @@ title: "Section 286yy - Opposition to assistance for any government that fails t
 usc_title: 22
 usc_section: "286yy"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 286yy"
-generated_at: "2026-11-23T20:55:13.251Z"
+generated_at: "2026-11-23T20:57:11.613Z"
 status: "active"
 ---
 

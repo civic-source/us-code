@@ -3,9 +3,9 @@ title: "Section 407e - Boundaries"
 usc_title: 16
 usc_section: "407e"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 407e"
-generated_at: "2026-11-23T20:55:04.293Z"
+generated_at: "2026-11-23T20:57:05.060Z"
 status: "active"
 ---
 

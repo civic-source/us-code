@@ -3,9 +3,9 @@ title: "Section 77aaaa - Contrary stipulations void"
 usc_title: 15
 usc_section: "77aaaa"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 77aaaa"
-generated_at: "2026-11-23T20:54:53.229Z"
+generated_at: "2026-11-23T20:56:56.080Z"
 status: "active"
 ---
 

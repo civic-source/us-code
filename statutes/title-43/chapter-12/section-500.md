@@ -3,9 +3,9 @@ title: "Section 500 - Duty of association or district to take over management"
 usc_title: 43
 usc_section: "500"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 500"
-generated_at: "2026-11-23T20:55:37.702Z"
+generated_at: "2026-11-23T20:57:33.450Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9036 - Payments in lieu of loan deficiency payments for grazed a
 usc_title: 7
 usc_section: "9036"
 chapter: 115
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 9036"
-generated_at: "2026-11-23T20:54:38.964Z"
+generated_at: "2026-11-23T20:56:44.711Z"
 status: "active"
 ---
 

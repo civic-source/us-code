@@ -3,9 +3,9 @@ title: "Section 3174a - Repealed. Pub. L. 113–79, title VII , §§ 7108, 7109,
 usc_title: 7
 usc_section: "3174a"
 chapter: 64
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 3174a"
-generated_at: "2026-11-23T20:54:38.760Z"
+generated_at: "2026-11-23T20:56:44.441Z"
 status: "repealed"
 ---
 

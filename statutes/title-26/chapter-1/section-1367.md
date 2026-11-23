@@ -3,9 +3,9 @@ title: "Section 1367 - Adjustments to basis of stock of shareholders, etc."
 usc_title: 26
 usc_section: "1367"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 1367"
-generated_at: "2026-11-23T20:55:24.884Z"
+generated_at: "2026-11-23T20:57:20.193Z"
 status: "active"
 ---
 

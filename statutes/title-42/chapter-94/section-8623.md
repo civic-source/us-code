@@ -3,9 +3,9 @@ title: "Section 8623 - State allotments"
 usc_title: 42
 usc_section: "8623"
 chapter: 94
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 8623"
-generated_at: "2026-11-23T20:55:51.716Z"
+generated_at: "2026-11-23T20:57:43.811Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 124i - Homeland Security Information Sharing Fellows Program"
 usc_title: 6
 usc_section: "124i"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 124i"
-generated_at: "2026-11-23T20:54:39.456Z"
+generated_at: "2026-11-23T20:56:41.682Z"
 status: "active"
 ---
 

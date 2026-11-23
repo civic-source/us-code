@@ -3,9 +3,9 @@ title: "Section 20161 - Fostering introduction of new technology to improve safe
 usc_title: 49
 usc_section: "20161"
 chapter: 201
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 20161"
-generated_at: "2026-11-23T20:55:59.430Z"
+generated_at: "2026-11-23T20:57:52.066Z"
 status: "active"
 ---
 

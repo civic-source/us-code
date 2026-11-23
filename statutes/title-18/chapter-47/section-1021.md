@@ -3,9 +3,9 @@ title: "Section 1021 - Title records"
 usc_title: 18
 usc_section: "1021"
 chapter: 47
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 1021"
-generated_at: "2026-11-23T20:54:58.593Z"
+generated_at: "2026-11-23T20:56:58.865Z"
 status: "active"
 ---
 

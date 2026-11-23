@@ -3,9 +3,9 @@ title: "Section 6694 - Understatement of taxpayer’s liability by tax return pr
 usc_title: 26
 usc_section: "6694"
 chapter: 68
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6694"
-generated_at: "2026-11-23T20:55:25.209Z"
+generated_at: "2026-11-23T20:57:20.614Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2102 - Congressional statement of purpose"
 usc_title: 19
 usc_section: "2102"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 2102"
-generated_at: "2026-11-23T20:54:57.099Z"
+generated_at: "2026-11-23T20:57:00.348Z"
 status: "active"
 ---
 

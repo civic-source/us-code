@@ -3,9 +3,9 @@ title: "Section 1214 - Right to full and fair hearing"
 usc_title: 10
 usc_section: "1214"
 chapter: 61
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1214"
-generated_at: "2026-11-23T20:54:44.553Z"
+generated_at: "2026-11-23T20:56:48.846Z"
 status: "active"
 ---
 

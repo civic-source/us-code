@@ -3,9 +3,9 @@ title: "Section 1070h - Repealed. Pub. L. 117–103, div. R, § 103(c)(2) , Mar.
 usc_title: 20
 usc_section: "1070h"
 chapter: 28
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 1070h"
-generated_at: "2026-11-23T20:55:00.667Z"
+generated_at: "2026-11-23T20:57:02.103Z"
 status: "repealed"
 ---
 

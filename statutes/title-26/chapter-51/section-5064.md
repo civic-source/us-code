@@ -3,9 +3,9 @@ title: "Section 5064 - Losses resulting from disaster, vandalism, or malicious m
 usc_title: 26
 usc_section: "5064"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 5064"
-generated_at: "2026-11-23T20:55:25.070Z"
+generated_at: "2026-11-23T20:57:20.397Z"
 status: "active"
 ---
 

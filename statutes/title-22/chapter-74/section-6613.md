@@ -3,9 +3,9 @@ title: "Section 6613 - Transfer, appointment, and assignment of personnel"
 usc_title: 22
 usc_section: "6613"
 chapter: 74
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 6613"
-generated_at: "2026-11-23T20:55:13.793Z"
+generated_at: "2026-11-23T20:57:12.114Z"
 status: "active"
 ---
 

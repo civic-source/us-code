@@ -3,9 +3,9 @@ title: "Section 738 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "738"
 chapter: 16
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 738"
-generated_at: "2026-11-23T20:55:29.600Z"
+generated_at: "2026-11-23T20:57:25.562Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 444 - Election of taxable year other than required taxable year"
 usc_title: 26
 usc_section: "444"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 444"
-generated_at: "2026-11-23T20:55:24.589Z"
+generated_at: "2026-11-23T20:57:19.922Z"
 status: "active"
 ---
 

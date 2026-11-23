@@ -3,9 +3,9 @@ title: "Section 130301 - Organization"
 usc_title: 36
 usc_section: "130301"
 chapter: 1303
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 130301"
-generated_at: "2026-11-23T20:55:31.794Z"
+generated_at: "2026-11-23T20:57:28.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11112 - Standards for professional review actions"
 usc_title: 42
 usc_section: "11112"
 chapter: 117
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 11112"
-generated_at: "2026-11-23T20:55:51.833Z"
+generated_at: "2026-11-23T20:57:43.952Z"
 status: "active"
 ---
 

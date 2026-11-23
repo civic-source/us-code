@@ -3,9 +3,9 @@ title: "Section 20502 - Requirements for installation and use"
 usc_title: 49
 usc_section: "20502"
 chapter: 205
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 20502"
-generated_at: "2026-11-23T20:55:59.433Z"
+generated_at: "2026-11-23T20:57:52.071Z"
 status: "active"
 ---
 

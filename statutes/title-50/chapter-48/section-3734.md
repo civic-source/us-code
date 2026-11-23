@@ -3,9 +3,9 @@ title: "Section 3734 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3734"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 3734"
-generated_at: "2026-11-23T20:55:57.156Z"
+generated_at: "2026-11-23T20:57:49.655Z"
 status: "active"
 ---
 

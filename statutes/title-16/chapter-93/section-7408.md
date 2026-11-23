@@ -3,9 +3,9 @@ title: "Section 7408 - International cooperation and assistance"
 usc_title: 16
 usc_section: "7408"
 chapter: 93
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 7408"
-generated_at: "2026-11-23T20:55:05.169Z"
+generated_at: "2026-11-23T20:57:05.751Z"
 status: "active"
 ---
 

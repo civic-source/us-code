@@ -3,9 +3,9 @@ title: "Section 3615 - Reports to Congress; GAO report"
 usc_title: 44
 usc_section: "3615"
 chapter: 36
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "44 U.S.C. § 3615"
-generated_at: "2026-11-23T20:55:36.458Z"
+generated_at: "2026-11-23T20:57:32.557Z"
 status: "active"
 ---
 

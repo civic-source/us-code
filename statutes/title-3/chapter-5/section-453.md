@@ -3,9 +3,9 @@ title: "Section 453 - Election of proceeding"
 usc_title: 3
 usc_section: "453"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "3 U.S.C. § 453"
-generated_at: "2026-11-23T20:54:31.414Z"
+generated_at: "2026-11-23T20:56:37.309Z"
 status: "active"
 ---
 

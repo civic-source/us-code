@@ -3,9 +3,9 @@ title: "Section 1708 - Federal Housing Administration operations"
 usc_title: 12
 usc_section: "1708"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 1708"
-generated_at: "2026-11-23T20:54:50.035Z"
+generated_at: "2026-11-23T20:56:54.103Z"
 status: "active"
 ---
 
@@ -26,6 +26,9 @@ status: "active"
   - **(7)** The operational goals for the Fund are—
     - **(A)** to minimize the default risk to the Fund and to homeowners by among other actions instituting fraud prevention quality control screening not later than 18 months after July 30, 2008 ; and
     - **(B)** to meet the housing needs of the borrowers that the single family mortgage insurance program under this subchapter is designed to serve.
+  - **(8)** The Secretary shall—
+    - **(A)** submit to Congress monthly reports on the capital ratio required under section 1711(f)(2) of this title ; and
+    - **(B)** notify Congress as soon as practicable after the Fund falls below the capital ratio required under section 1711(f)(2) of this title .
 - **(b)** There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of chapter 10 of title 5.
   - **(1)** The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
     - **(A)** 9 shall be appointed by the Secretary;
@@ -127,10 +130,11 @@ status: "active"
     - **(A)** Any individual who is an employee of an appraisal company (including any company organized as a corporation, partnership, or sole proprietorship) and who meets the qualifications or standards for appraisers and inclusion on appraiser fee panels established by the Secretary, shall be eligible for assignment to conduct appraisals for mortgages under this subchapter in the same manner and on the same basis as other approved appraisers.
     - **(B)** With respect to any employee of an appraisal company described in subparagraph (A) who is offered an appraisal assignment in connection with a mortgage under this subchapter, the person utilizing the appraiser may contract directly with the appraisal company employing the appraiser for the furnishing of the appraisal services.
   - **(5)** Beginning on July 30, 2008 , any appraiser chosen or approved to conduct appraisals for mortgages under this subchapter shall—
-    - **(A)** be certified—
-      - **(i)** by the State in which the property to be appraised is located; or
-      - **(ii)** by a nationally recognized professional appraisal organization; and
-    - **(B)** have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection.
+    - **(A)** be certified or licensed by the State in which the property to be appraised is located, except that a Federal employee who has as their primary duty conducting appraisal-related activities and who chooses to become a State-licensed or certified real estate appraiser need only to be licensed or certified in 1 State or territory to perform appraisals on mortgages insured by the Federal Housing Administration in all States and territories;
+    - **(B)** meet the requirements under the competency rule set forth in the Uniform Standards of Professional Appraisal Practice before accepting an assignment; and
+    - **(C)** have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection, which shall include the completion of a course or seminar that educates appraisers on those appraisal requirements, which shall be provided by—
+      - **(i)** the Federal Housing Administration; or
+      - **(ii)** a third party, if the course is approved by the Secretary or a State appraiser certifying or licensing agency.
 - **(h)** The Secretary shall, by regulation, require each mortgagee approved by the Secretary for participation in the FHA mortgage insurance programs of the Secretary—
   - **(1)** to use the business name of the mortgagee that is registered with the Secretary in connection with such approval in all advertisements and promotional materials, as such terms are defined by the Secretary, relating to the business of such mortgagee in such mortgage insurance programs; and
   - **(2)** to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.
@@ -141,8 +145,22 @@ Fee Panel Appraisers.—
 
 Additional appraiser standards
 
+“Not later than the 240 days after the date of enactment of this Act [ July 11, 2026 ], the Secretary of Housing and Urban Development shall issue a mortgagee letter or guidance that—
+
+In General
+
+Report
+
+Sunset
+
+Expiration of Authority
+
+Small-dollar Mortgage Defined
+
+“On and after the effective date described in paragraph (3)(C) [of section 403(a) of Pub. L. 119–101 , set out above], no appraiser may conduct an appraisal on a property securing a mortgage to be insured by the Federal Housing Administration unless—
+
 “Not later than the expiration of the 3-month period beginning upon the date of the enactment of this Act [ May 20, 2009 ], the Secretary of Housing and Urban Development shall—
 
 ## Source Credit
 
-*(June 27, 1934, ch. 847, title II, § 202, [48 Stat. 1248](https://www.govinfo.gov/link/statute/48/1248); Feb. 3, 1938, ch. 13, § 3, [52 Stat. 10](https://www.govinfo.gov/link/statute/52/10); June 3, 1939, ch. 175, § 5, [53 Stat. 805](https://www.govinfo.gov/link/statute/53/805); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 101–235, title I, § 142](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2030](https://www.govinfo.gov/link/statute/103/2030); [Pub. L. 101–625, title III, § 322](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4134](https://www.govinfo.gov/link/statute/104/4134); [Pub. L. 102–550, title V](https://www.govinfo.gov/link/plaw/102/public/550), §§ 502, 518, 519, Oct. 28, 1992, [106 Stat. 3778](https://www.govinfo.gov/link/statute/106/3778), 3792; [Pub. L. 105–65, title V, § 551](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1412](https://www.govinfo.gov/link/statute/111/1412); [Pub. L. 106–377, § 1(a)(1) [title II, § 209(c)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–25; [Pub. L. 110–289, div. A, title IV, § 1404](https://www.govinfo.gov/link/plaw/110/public/289), div. B, title I, §§ 2116(1), (3), 2118(a), July 30, 2008, [122 Stat. 2810](https://www.govinfo.gov/link/statute/122/2810), 2832, 2833; [Pub. L. 111–22, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/111/public/22), (b), May 20, 2009, [123 Stat. 1643](https://www.govinfo.gov/link/statute/123/1643); [Pub. L. 111–203, title III, § 373](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566); [Pub. L. 117–286, § 4(a)(54)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311).)*
+*(June 27, 1934, ch. 847, title II, § 202, [48 Stat. 1248](https://www.govinfo.gov/link/statute/48/1248); Feb. 3, 1938, ch. 13, § 3, [52 Stat. 10](https://www.govinfo.gov/link/statute/52/10); June 3, 1939, ch. 175, § 5, [53 Stat. 805](https://www.govinfo.gov/link/statute/53/805); Apr. 20, 1950, ch. 94, title I, § 122, [64 Stat. 59](https://www.govinfo.gov/link/statute/64/59); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17); [Pub. L. 101–235, title I, § 142](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2030](https://www.govinfo.gov/link/statute/103/2030); [Pub. L. 101–625, title III, § 322](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4134](https://www.govinfo.gov/link/statute/104/4134); [Pub. L. 102–550, title V](https://www.govinfo.gov/link/plaw/102/public/550), §§ 502, 518, 519, Oct. 28, 1992, [106 Stat. 3778](https://www.govinfo.gov/link/statute/106/3778), 3792; [Pub. L. 105–65, title V, § 551](https://www.govinfo.gov/link/plaw/105/public/65), Oct. 27, 1997, [111 Stat. 1412](https://www.govinfo.gov/link/statute/111/1412); [Pub. L. 106–377, § 1(a)(1) [title II, § 209(c)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–25; [Pub. L. 110–289, div. A, title IV, § 1404](https://www.govinfo.gov/link/plaw/110/public/289), div. B, title I, §§ 2116(1), (3), 2118(a), July 30, 2008, [122 Stat. 2810](https://www.govinfo.gov/link/statute/122/2810), 2832, 2833; [Pub. L. 111–22, div. A, title II, § 203(a)](https://www.govinfo.gov/link/plaw/111/public/22), (b), May 20, 2009, [123 Stat. 1643](https://www.govinfo.gov/link/statute/123/1643); [Pub. L. 111–203, title III, § 373](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1566](https://www.govinfo.gov/link/statute/124/1566); [Pub. L. 117–286, § 4(a)(54)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4311](https://www.govinfo.gov/link/statute/136/4311); [Pub. L. 119–101, title IV, § 403(a)(1)(A)](https://www.govinfo.gov/link/plaw/119/public/101), title VII, § 702, July 11, 2026, [140 Stat. 898](https://www.govinfo.gov/link/statute/140/898), 955.)*

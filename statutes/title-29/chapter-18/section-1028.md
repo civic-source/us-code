@@ -3,9 +3,9 @@ title: "Section 1028 - Reliance on administrative interpretations"
 usc_title: 29
 usc_section: "1028"
 chapter: 18
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "29 U.S.C. § 1028"
-generated_at: "2026-11-23T20:55:18.147Z"
+generated_at: "2026-11-23T20:57:15.782Z"
 status: "active"
 ---
 

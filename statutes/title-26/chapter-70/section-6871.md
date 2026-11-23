@@ -3,9 +3,9 @@ title: "Section 6871 - Claims for income, estate, gift, and certain excise taxes
 usc_title: 26
 usc_section: "6871"
 chapter: 70
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6871"
-generated_at: "2026-11-23T20:55:25.219Z"
+generated_at: "2026-11-23T20:57:20.630Z"
 status: "active"
 ---
 

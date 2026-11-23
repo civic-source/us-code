@@ -3,9 +3,9 @@ title: "Section 910 - Replacement of lost income: involuntarily mobilized reserv
 usc_title: 37
 usc_section: "910"
 chapter: 17
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "37 U.S.C. § 910"
-generated_at: "2026-11-23T20:55:31.244Z"
+generated_at: "2026-11-23T20:57:27.379Z"
 status: "active"
 ---
 

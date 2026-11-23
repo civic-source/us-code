@@ -3,9 +3,9 @@ title: "Section 144 - Qualified small issue bond; qualified student loan bond; q
 usc_title: 26
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 144"
-generated_at: "2026-11-23T20:55:24.400Z"
+generated_at: "2026-11-23T20:57:19.743Z"
 status: "active"
 ---
 

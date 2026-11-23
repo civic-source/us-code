@@ -3,9 +3,9 @@ title: "Section 115 - Payment of annuities in goods"
 usc_title: 25
 usc_section: "115"
 chapter: 4
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 115"
-generated_at: "2026-11-23T20:55:08.357Z"
+generated_at: "2026-11-23T20:57:08.346Z"
 status: "active"
 ---
 

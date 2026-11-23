@@ -3,9 +3,9 @@ title: "Section 5301 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "5301"
 chapter: 69
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 5301"
-generated_at: "2026-11-23T20:55:51.316Z"
+generated_at: "2026-11-23T20:57:43.486Z"
 status: "active"
 ---
 
@@ -35,6 +35,28 @@ status: "active"
   - **(2)** encourages community development activities which are consistent with comprehensive local and areawide development planning;
   - **(3)** furthers achievement of the national housing goal of a decent home and a suitable living environment for every American family; and
   - **(4)** fosters the undertaking of housing and community development activities in a coordinated and mutually supportive manner by Federal agencies and programs, as well as by communities.
+
+In General
+
+Contents
+
+Coordination With the International Code Council
+
+Grants.—
+
+In general
+
+Sunset
+
+Treatment of Projects
+
+Rule of Construction
+
+Definitions
+
+Eligible entity
+
+Point-access block building
 
 Authorization of Appropriations
 

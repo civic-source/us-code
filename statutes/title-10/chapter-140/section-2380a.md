@@ -3,9 +3,9 @@ title: "Section 2380a - Renumbered § 3457]"
 usc_title: 10
 usc_section: "2380a"
 chapter: 140
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2380a"
-generated_at: "2026-11-23T20:54:44.762Z"
+generated_at: "2026-11-23T20:56:48.980Z"
 status: "renumbered"
 ---
 

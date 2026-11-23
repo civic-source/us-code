@@ -3,9 +3,9 @@ title: "Section 1402 - Plan for use or distribution of funds"
 usc_title: 25
 usc_section: "1402"
 chapter: 16
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 1402"
-generated_at: "2026-11-23T20:55:08.457Z"
+generated_at: "2026-11-23T20:57:08.400Z"
 status: "active"
 ---
 

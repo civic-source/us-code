@@ -3,9 +3,9 @@ title: "Section 5 - United States defined"
 usc_title: 18
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 5"
-generated_at: "2026-11-23T20:54:58.500Z"
+generated_at: "2026-11-23T20:56:58.755Z"
 status: "active"
 ---
 

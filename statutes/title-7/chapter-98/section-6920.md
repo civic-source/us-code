@@ -3,9 +3,9 @@ title: "Section 6920 - Office of Energy Policy and New Uses"
 usc_title: 7
 usc_section: "6920"
 chapter: 98
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 6920"
-generated_at: "2026-11-23T20:54:38.866Z"
+generated_at: "2026-11-23T20:56:44.563Z"
 status: "active"
 ---
 

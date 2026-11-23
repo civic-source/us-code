@@ -3,9 +3,9 @@ title: "Section 2287 - Initial capital"
 usc_title: 12
 usc_section: "2287"
 chapter: 24
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 2287"
-generated_at: "2026-11-23T20:54:50.442Z"
+generated_at: "2026-11-23T20:56:54.346Z"
 status: "active"
 ---
 

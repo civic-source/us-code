@@ -3,9 +3,9 @@ title: "Section 3330d - Appointment of military and Department of Defense, Depar
 usc_title: 5
 usc_section: "3330d"
 chapter: 33
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 3330d"
-generated_at: "2026-11-23T20:54:33.779Z"
+generated_at: "2026-11-23T20:56:39.018Z"
 status: "active"
 ---
 

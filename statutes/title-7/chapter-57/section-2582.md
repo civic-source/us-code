@@ -3,9 +3,9 @@ title: "Section 2582 - Severability"
 usc_title: 7
 usc_section: "2582"
 chapter: 57
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2582"
-generated_at: "2026-11-23T20:54:38.728Z"
+generated_at: "2026-11-23T20:56:44.423Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20503 - Amending regulations and changing requirements"
 usc_title: 49
 usc_section: "20503"
 chapter: 205
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 20503"
-generated_at: "2026-11-23T20:55:59.434Z"
+generated_at: "2026-11-23T20:57:52.071Z"
 status: "active"
 ---
 

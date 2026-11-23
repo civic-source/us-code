@@ -3,9 +3,9 @@ title: "Section 8 - No Federal funding for credit enhancements"
 usc_title: 42
 usc_section: "8"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-11-23T20:55:50.630Z"
+generated_at: "2026-11-23T20:57:43.052Z"
 status: "active"
 ---
 

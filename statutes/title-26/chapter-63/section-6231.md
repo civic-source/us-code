@@ -3,9 +3,9 @@ title: "Section 6231 - Notice of proceedings and adjustment"
 usc_title: 26
 usc_section: "6231"
 chapter: 63
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6231"
-generated_at: "2026-11-23T20:55:25.159Z"
+generated_at: "2026-11-23T20:57:20.532Z"
 status: "active"
 ---
 

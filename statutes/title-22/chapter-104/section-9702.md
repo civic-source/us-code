@@ -3,9 +3,9 @@ title: "Section 9702 - Recognition of Venezuela’s democratically elected Natio
 usc_title: 22
 usc_section: "9702"
 chapter: 104
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 9702"
-generated_at: "2026-11-23T20:55:13.993Z"
+generated_at: "2026-11-23T20:57:12.290Z"
 status: "active"
 ---
 

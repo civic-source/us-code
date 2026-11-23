@@ -3,9 +3,9 @@ title: "Section 10501 - Definitions"
 usc_title: 22
 usc_section: "10501"
 chapter: 112
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 10501"
-generated_at: "2026-11-23T20:55:14.017Z"
+generated_at: "2026-11-23T20:57:12.308Z"
 status: "active"
 ---
 

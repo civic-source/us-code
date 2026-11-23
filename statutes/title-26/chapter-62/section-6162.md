@@ -3,9 +3,9 @@ title: "Section 6162 - Repealed. Pub. L. 94–455, title XIX, § 1906(a)(12) , O
 usc_title: 26
 usc_section: "6162"
 chapter: 62
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6162"
-generated_at: "2026-11-23T20:55:25.149Z"
+generated_at: "2026-11-23T20:57:20.514Z"
 status: "repealed"
 ---
 

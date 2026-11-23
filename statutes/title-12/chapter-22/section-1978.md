@@ -3,9 +3,9 @@ title: "Section 1978 - Actions under other Federal or State laws unaffected; reg
 usc_title: 12
 usc_section: "1978"
 chapter: 22
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 1978"
-generated_at: "2026-11-23T20:54:50.234Z"
+generated_at: "2026-11-23T20:56:54.309Z"
 status: "active"
 ---
 

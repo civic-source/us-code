@@ -3,9 +3,9 @@ title: "Section 2317 - Rapid response information system"
 usc_title: 50
 usc_section: "2317"
 chapter: 40
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 2317"
-generated_at: "2026-11-23T20:55:57.002Z"
+generated_at: "2026-11-23T20:57:49.570Z"
 status: "active"
 ---
 

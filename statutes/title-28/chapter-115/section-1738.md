@@ -3,9 +3,9 @@ title: "Section 1738 - State and Territorial statutes and judicial proceedings; 
 usc_title: 28
 usc_section: "1738"
 chapter: 115
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "28 U.S.C. § 1738"
-generated_at: "2026-11-23T20:55:17.096Z"
+generated_at: "2026-11-23T20:57:14.768Z"
 status: "active"
 ---
 

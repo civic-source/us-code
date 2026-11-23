@@ -3,9 +3,9 @@ title: "Section 8a - Discontinuance of preliminary examination reports"
 usc_title: 33
 usc_section: "8a"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 8a"
-generated_at: "2026-11-23T20:55:29.588Z"
+generated_at: "2026-11-23T20:57:25.550Z"
 status: "active"
 ---
 

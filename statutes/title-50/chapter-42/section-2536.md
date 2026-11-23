@@ -3,9 +3,9 @@ title: "Section 2536 - Repealed. Pub. L. 118–159, div. C, title XXXI, § 3111(
 usc_title: 50
 usc_section: "2536"
 chapter: 42
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 2536"
-generated_at: "2026-11-23T20:55:57.021Z"
+generated_at: "2026-11-23T20:57:49.577Z"
 status: "repealed"
 ---
 

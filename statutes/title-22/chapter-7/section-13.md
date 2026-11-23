@@ -3,9 +3,9 @@ title: "Section 13 - General callable capital increase"
 usc_title: 22
 usc_section: "13"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 13"
-generated_at: "2026-11-23T20:55:13.265Z"
+generated_at: "2026-11-23T20:57:11.624Z"
 status: "active"
 ---
 

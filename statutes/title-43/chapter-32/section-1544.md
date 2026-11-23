@@ -3,9 +3,9 @@ title: "Section 1544 - Annual report to Congress"
 usc_title: 43
 usc_section: "1544"
 chapter: 32
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 1544"
-generated_at: "2026-11-23T20:55:37.807Z"
+generated_at: "2026-11-23T20:57:33.541Z"
 status: "active"
 ---
 

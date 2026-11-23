@@ -3,9 +3,9 @@ title: "Section 670 - Congressional declaration of purpose; authorization of app
 usc_title: 42
 usc_section: "670"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 670"
-generated_at: "2026-11-23T20:55:50.023Z"
+generated_at: "2026-11-23T20:57:42.647Z"
 status: "active"
 ---
 
@@ -99,6 +99,18 @@ Section
 Sec.
 
 Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
 
 Sec.
 

@@ -3,16 +3,16 @@ title: "Section 12708 - Compliance"
 usc_title: 42
 usc_section: "12708"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-11-23T20:55:51.924Z"
+generated_at: "2026-11-23T20:57:44.075Z"
 status: "active"
 ---
 
 # § 12708. Compliance
 
 - **(a)**
-  - **(1)** Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction’s progress in meeting its goal established in section 12705(b)(15) 1 1 See References in Text note below. of this title, and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic status of persons served that will be assisted with funds made available.
+  - **(1)** Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction’s progress in meeting its goal established in section 12705(b)(18) of this title , and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic status of persons served that will be assisted with funds made available.
   - **(2)** The Secretary shall (A) establish dates for submission of reports under this subsection, and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
   - **(3)** If a jurisdiction fails to submit a report satisfactory to the Secretary in a timely manner, assistance to the jurisdiction under subchapter II of this chapter or the other programs referred to in section 12706 of this title may be—
     - **(A)** suspended until a report satisfactory to the Secretary is submitted; or
@@ -28,4 +28,4 @@ status: "active"
 
 ## Source Credit
 
-*([Pub. L. 101–625, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4092](https://www.govinfo.gov/link/statute/104/4092).)*
+*([Pub. L. 101–625, title I, § 108](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4092](https://www.govinfo.gov/link/statute/104/4092); [Pub. L. 119–101, title V, § 501(v)(6)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 917](https://www.govinfo.gov/link/statute/140/917).)*

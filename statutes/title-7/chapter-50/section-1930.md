@@ -3,9 +3,9 @@ title: "Section 1930 - Continued availability of appropriated funds for direct r
 usc_title: 7
 usc_section: "1930"
 chapter: 50
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 1930"
-generated_at: "2026-11-23T20:54:38.594Z"
+generated_at: "2026-11-23T20:56:44.310Z"
 status: "active"
 ---
 

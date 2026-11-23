@@ -3,9 +3,9 @@ title: "Section 1981 - Farmers Home Administration"
 usc_title: 7
 usc_section: "1981"
 chapter: 50
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 1981"
-generated_at: "2026-11-23T20:54:38.606Z"
+generated_at: "2026-11-23T20:56:44.318Z"
 status: "active"
 ---
 
@@ -35,6 +35,16 @@ status: "active"
   - **(2)** Paragraph (1) of this subsection shall not apply to a recipient who is seeking to provide retail broadband service in any area where retail broadband service is available at the minimum broadband speeds, as defined under section 601(e) of the Rural Electrification Act of 1936 [ 7 U.S.C. 950bb(e) ].
   - **(3)** The Secretary shall not provide funding under paragraph (1) if the funding would result in competitive harm to any grant, loan, or loan guarantee provided under the Rural Electrification Act of 1936.
 - **(f)** The Secretary and the designees of the Secretary are hereby granted the same access to information and subject to the same requirements applicable to the Secretary of Housing and Urban Development as provided in section 653 of title 42 and section 6103( l )(7)(D)(ix) of title 26 to verify income for individuals participating in sections 502, 504, 521, and 542 of the Housing Act of 1949 ( 42 U.S.C. 1472 , 1474, 1490a, and 1490r), notwithstanding section 653( l ) of title 42.
+
+Staffing and Information Technology Upgrades
+
+Technical Improvements.—
+
+Authorization of appropriations
+
+Availability
+
+Timeline
 
 ## Source Credit
 

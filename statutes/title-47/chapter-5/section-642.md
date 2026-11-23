@@ -3,9 +3,9 @@ title: "Section 642 - Broadband maps"
 usc_title: 47
 usc_section: "642"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "47 U.S.C. § 642"
-generated_at: "2026-11-23T20:55:54.654Z"
+generated_at: "2026-11-23T20:57:48.377Z"
 status: "active"
 ---
 

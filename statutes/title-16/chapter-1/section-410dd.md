@@ -3,9 +3,9 @@ title: "Section 410dd - Establishment"
 usc_title: 16
 usc_section: "410dd"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 410dd"
-generated_at: "2026-11-23T20:55:04.317Z"
+generated_at: "2026-11-23T20:57:05.083Z"
 status: "active"
 ---
 

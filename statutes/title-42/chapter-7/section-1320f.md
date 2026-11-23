@@ -3,9 +3,9 @@ title: "Section 1320f - Establishment of program"
 usc_title: 42
 usc_section: "1320f"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1320f"
-generated_at: "2026-11-23T20:55:50.132Z"
+generated_at: "2026-11-23T20:57:42.743Z"
 status: "active"
 ---
 
@@ -48,6 +48,36 @@ status: "active"
     - **(B)** in subparagraph (B), by substituting “ February 1, 2024 ” for “the June 1 following the selected drug publication date”; and
     - **(C)** in subparagraph (E), by substituting “ August 1, 2024 ” for “the first day of November following the selected drug publication date, with respect to the initial price applicability year”.
   - **(6)** Section 1320f–4(a)(1) of this title shall be applied by substituting “ September 1, 2024 ” for “November 30 of the year that is 2 years prior to such initial price applicability year”.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

@@ -3,9 +3,9 @@ title: "Section 635p - Presidential mandate to negotiate; objectives"
 usc_title: 12
 usc_section: "635p"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 635p"
-generated_at: "2026-11-23T20:54:49.957Z"
+generated_at: "2026-11-23T20:56:54.048Z"
 status: "active"
 ---
 

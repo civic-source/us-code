@@ -3,9 +3,9 @@ title: "Section 2350n - North Atlantic Treaty Organization Joint Force Command"
 usc_title: 10
 usc_section: "2350n"
 chapter: 138
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2350n"
-generated_at: "2026-11-23T20:54:44.760Z"
+generated_at: "2026-11-23T20:56:48.978Z"
 status: "active"
 ---
 

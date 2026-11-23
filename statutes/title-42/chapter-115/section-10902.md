@@ -3,9 +3,9 @@ title: "Section 10902 - Application for grants"
 usc_title: 42
 usc_section: "10902"
 chapter: 115
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 10902"
-generated_at: "2026-11-23T20:55:51.824Z"
+generated_at: "2026-11-23T20:57:43.943Z"
 status: "active"
 ---
 

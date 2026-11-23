@@ -3,9 +3,9 @@ title: "Section 2223c - Report and recommendations"
 usc_title: 15
 usc_section: "2223c"
 chapter: 49
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 2223c"
-generated_at: "2026-11-23T20:54:53.754Z"
+generated_at: "2026-11-23T20:56:56.460Z"
 status: "active"
 ---
 

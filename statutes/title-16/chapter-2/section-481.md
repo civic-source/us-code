@@ -3,9 +3,9 @@ title: "Section 481 - Use of waters"
 usc_title: 16
 usc_section: "481"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 481"
-generated_at: "2026-11-23T20:55:04.630Z"
+generated_at: "2026-11-23T20:57:05.306Z"
 status: "active"
 ---
 

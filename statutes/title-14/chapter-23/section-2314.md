@@ -3,9 +3,9 @@ title: "Section 2314 - Detention beyond term of enlistment"
 usc_title: 14
 usc_section: "2314"
 chapter: 23
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "14 U.S.C. § 2314"
-generated_at: "2026-11-23T20:54:47.236Z"
+generated_at: "2026-11-23T20:56:51.628Z"
 status: "active"
 ---
 

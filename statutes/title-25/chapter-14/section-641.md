@@ -3,9 +3,9 @@ title: "Section 641 - Omitted"
 usc_title: 25
 usc_section: "641"
 chapter: 14
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 641"
-generated_at: "2026-11-23T20:55:08.418Z"
+generated_at: "2026-11-23T20:57:08.384Z"
 status: "omitted"
 ---
 

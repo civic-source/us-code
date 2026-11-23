@@ -3,9 +3,9 @@ title: "Section 9 - Reimbursement of corporation from funds of Government agenci
 usc_title: 15
 usc_section: "9"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-11-23T20:54:53.556Z"
+generated_at: "2026-11-23T20:56:56.322Z"
 status: "active"
 ---
 

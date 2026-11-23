@@ -3,9 +3,9 @@ title: "Section 80101 - Organization"
 usc_title: 36
 usc_section: "80101"
 chapter: 801
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 80101"
-generated_at: "2026-11-23T20:55:31.779Z"
+generated_at: "2026-11-23T20:57:28.684Z"
 status: "active"
 ---
 

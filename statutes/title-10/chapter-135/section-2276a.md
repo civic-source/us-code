@@ -3,9 +3,9 @@ title: "Section 2276a - Special authority for provision of space launch support 
 usc_title: 10
 usc_section: "2276a"
 chapter: 135
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2276a"
-generated_at: "2026-11-23T20:54:44.749Z"
+generated_at: "2026-11-23T20:56:48.966Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3358 - Interagency working group for Governmentwide payment inte
 usc_title: 31
 usc_section: "3358"
 chapter: 33
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "31 U.S.C. § 3358"
-generated_at: "2026-11-23T20:55:27.646Z"
+generated_at: "2026-11-23T20:57:22.970Z"
 status: "active"
 ---
 

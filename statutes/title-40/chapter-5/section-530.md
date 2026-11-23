@@ -3,9 +3,9 @@ title: "Section 530 - Internal guidance on excess personal property"
 usc_title: 40
 usc_section: "530"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "40 U.S.C. § 530"
-generated_at: "2026-11-23T20:55:32.502Z"
+generated_at: "2026-11-23T20:57:28.011Z"
 status: "active"
 ---
 

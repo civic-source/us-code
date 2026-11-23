@@ -3,9 +3,9 @@ title: "Section 421 - Additional provisions with respect to the Department of En
 usc_title: 5
 usc_section: "421"
 chapter: 4
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 421"
-generated_at: "2026-11-23T20:54:33.718Z"
+generated_at: "2026-11-23T20:56:38.958Z"
 status: "active"
 ---
 

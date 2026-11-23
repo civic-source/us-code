@@ -3,9 +3,9 @@ title: "Section 20506 - Officers eligible to serve on retention boards"
 usc_title: 10
 usc_section: "20506"
 chapter: 2011
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 20506"
-generated_at: "2026-11-23T20:54:45.362Z"
+generated_at: "2026-11-23T20:56:49.457Z"
 status: "active"
 ---
 

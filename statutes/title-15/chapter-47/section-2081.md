@@ -3,9 +3,9 @@ title: "Section 2081 - Authorization of appropriations"
 usc_title: 15
 usc_section: "2081"
 chapter: 47
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 2081"
-generated_at: "2026-11-23T20:54:53.740Z"
+generated_at: "2026-11-23T20:56:56.449Z"
 status: "active"
 ---
 

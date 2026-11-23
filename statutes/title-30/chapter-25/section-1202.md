@@ -3,9 +3,9 @@ title: "Section 1202 - Statement of purpose"
 usc_title: 30
 usc_section: "1202"
 chapter: 25
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "30 U.S.C. § 1202"
-generated_at: "2026-11-23T20:55:15.965Z"
+generated_at: "2026-11-23T20:57:13.950Z"
 status: "active"
 ---
 

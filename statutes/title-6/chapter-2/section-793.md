@@ -3,9 +3,9 @@ title: "Section 793 - Oversight and accountability of Federal disaster expenditu
 usc_title: 6
 usc_section: "793"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 793"
-generated_at: "2026-11-23T20:54:39.599Z"
+generated_at: "2026-11-23T20:56:41.769Z"
 status: "active"
 ---
 

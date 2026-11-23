@@ -3,9 +3,9 @@ title: "Section 8411 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "8411"
 chapter: 103
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 8411"
-generated_at: "2026-11-23T20:55:05.181Z"
+generated_at: "2026-11-23T20:57:05.762Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8992 - Administrative functions"
 usc_title: 5
 usc_section: "8992"
 chapter: 89
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 8992"
-generated_at: "2026-11-23T20:54:34.041Z"
+generated_at: "2026-11-23T20:56:39.347Z"
 status: "active"
 ---
 

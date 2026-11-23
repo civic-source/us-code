@@ -3,9 +3,9 @@ title: "Section 10150 - Ready Reserve: transfer back from Standby Reserve"
 usc_title: 10
 usc_section: "10150"
 chapter: 1005
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 10150"
-generated_at: "2026-11-23T20:54:45.285Z"
+generated_at: "2026-11-23T20:56:49.391Z"
 status: "active"
 ---
 

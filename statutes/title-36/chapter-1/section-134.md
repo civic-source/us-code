@@ -3,9 +3,9 @@ title: "Section 134 - Pan American Aviation Day"
 usc_title: 36
 usc_section: "134"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 134"
-generated_at: "2026-11-23T20:55:31.697Z"
+generated_at: "2026-11-23T20:57:28.613Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12773 - Housing education and organizational support"
 usc_title: 42
 usc_section: "12773"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12773"
-generated_at: "2026-11-23T20:55:51.930Z"
+generated_at: "2026-11-23T20:57:44.084Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(3)** Technical assistance, training, and continuing support may be made available to eligible community housing development organizations for managing and conserving properties developed under this subchapter.
   - **(4)** Technical assistance may be made available to increase the investment of private capital in housing for very low-income families, particularly by encouraging the establishment of benevolent loan funds through which private financial institutions will accept deposits at below-market interest rates and make those funds available at favorable rates to developers of low-income housing and to low-income homebuyers.
   - **(5)** Technical assistance may be made available to establish privately owned, local community development banks and credit unions to finance affordable housing.
-  - **(6)** Organizational support, technical assistance, education, training, and continuing support under this subsection may be made available to community land trusts (as such term is defined in subsection (f)) and to community groups for the establishment of community land trusts.
+  - **(6)** Organizational support, technical assistance, education, training, and continuing support under this subsection may be made available to community land trusts (as such term is defined in section 12704 of this title ) and to community groups for the establishment of community land trusts.
   - **(7)** Technical assistance may be made available to businesses, unions, and organizations involved in construction and rehabilitation of housing in low- and moderate-income areas to assist women residing in the area to obtain jobs involving such activities, which may include facilitating access by such women to, and providing, apprenticeship and other training programs regarding nontraditional skills, recruiting women to participate in such programs, providing continuing support for women at job sites, counseling and educating businesses regarding suitable work environments for women, providing information to such women regarding opportunities for establishing small housing construction and rehabilitation businesses, and providing materials and tools for training such women (in an amount not exceeding 10 percent of any assistance provided under this paragraph). The Secretary shall give priority under this paragraph to providing technical assistance for organizations rehabilitating single family or multifamily housing owned or controlled by the Secretary pursuant to title II of the National Housing Act [ 12 U.S.C. 1707 et seq.] and which have women members in occupations in which women constitute 25 percent or less of the total number of workers in the occupation (in this section referred to as “nontraditional occupations”).
 - **(c)** The Secretary shall provide this assistance only through contract—
   - **(1)** with a nonprofit intermediary organization that, in the determination of the Secretary—
@@ -35,18 +35,7 @@ status: "active"
   - **(1)** exceed 40 percent of the amount appropriated for this section for such fiscal year; or
   - **(2)** provide more than 20 percent of the operating budget (which shall not include funds that are passed through to community housing development organizations) of the contracting organization for any one year.
 - **(e)** Not less than 25 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
-- **(f)** For purposes of this section, the term “community land trust” means a community housing development organization (except that the requirements under subparagraphs (C) and (D) of section 12704(6) of this title shall not apply for purposes of this subsection)—
-  - **(1)** that is not sponsored by a for-profit organization;
-  - **(2)** that is established to carry out the activities under paragraph (3);
-  - **(3)** that—
-    - **(A)** acquires parcels of land, held in perpetuity, primarily for conveyance under long-term ground leases;
-    - **(B)** transfers ownership of any structural improvements located on such leased parcels to the lessees; and
-    - **(C)** retains a preemptive option to purchase any such structural improvement at a price determined by formula that is designed to ensure that the improvement remains affordable to low- and moderate-income families in perpetuity;
-  - **(4)** whose corporate membership that is open to any adult resident of a particular geographic area specified in the bylaws of the organization; and
-  - **(5)** whose board of directors—
-    - **(A)** includes a majority of members who are elected by the corporate membership; and
-    - **(B)** is composed of equal numbers of (i) lessees pursuant to paragraph (3)(B), (ii) corporate members who are not lessees, and (iii) any other category of persons described in the bylaws of the organization.
 
 ## Source Credit
 
-*([Pub. L. 101–625, title II, § 233](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4116](https://www.govinfo.gov/link/statute/104/4116); [Pub. L. 102–550, title II, § 213](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3757](https://www.govinfo.gov/link/statute/106/3757); [Pub. L. 111–8, div. I, title II, § 229(1)](https://www.govinfo.gov/link/plaw/111/public/8), (2), Mar. 11, 2009, [123 Stat. 978](https://www.govinfo.gov/link/statute/123/978).)*
+*([Pub. L. 101–625, title II, § 233](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4116](https://www.govinfo.gov/link/statute/104/4116); [Pub. L. 102–550, title II, § 213](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3757](https://www.govinfo.gov/link/statute/106/3757); [Pub. L. 111–8, div. I, title II, § 229(1)](https://www.govinfo.gov/link/plaw/111/public/8), (2), Mar. 11, 2009, [123 Stat. 978](https://www.govinfo.gov/link/statute/123/978); [Pub. L. 119–101, title V, § 501(v)(12)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 918](https://www.govinfo.gov/link/statute/140/918).)*

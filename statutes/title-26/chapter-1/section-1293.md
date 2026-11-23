@@ -3,9 +3,9 @@ title: "Section 1293 - Current taxation of income from qualified electing funds"
 usc_title: 26
 usc_section: "1293"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 1293"
-generated_at: "2026-11-23T20:55:24.869Z"
+generated_at: "2026-11-23T20:57:20.179Z"
 status: "active"
 ---
 

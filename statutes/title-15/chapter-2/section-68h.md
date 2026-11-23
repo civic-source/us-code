@@ -3,9 +3,9 @@ title: "Section 68h - Criminal penalty"
 usc_title: 15
 usc_section: "68h"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 68h"
-generated_at: "2026-11-23T20:54:53.192Z"
+generated_at: "2026-11-23T20:56:56.060Z"
 status: "active"
 ---
 

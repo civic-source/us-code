@@ -3,9 +3,9 @@ title: "Section 2355 - Treatment of forfeited property of transnational criminal
 usc_title: 21
 usc_section: "2355"
 chapter: 28
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 2355"
-generated_at: "2026-11-23T20:55:10.174Z"
+generated_at: "2026-11-23T20:57:09.700Z"
 status: "active"
 ---
 

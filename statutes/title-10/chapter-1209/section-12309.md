@@ -3,9 +3,9 @@ title: "Section 12309 - Reserve officers: use of in expansion of armed forces"
 usc_title: 10
 usc_section: "12309"
 chapter: 1209
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 12309"
-generated_at: "2026-11-23T20:54:45.307Z"
+generated_at: "2026-11-23T20:56:49.415Z"
 status: "active"
 ---
 

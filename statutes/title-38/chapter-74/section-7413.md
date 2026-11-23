@@ -3,9 +3,9 @@ title: "Section 7413 - Treatment of podiatrists; clinical oversight standards"
 usc_title: 38
 usc_section: "7413"
 chapter: 74
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "38 U.S.C. § 7413"
-generated_at: "2026-11-23T20:55:34.491Z"
+generated_at: "2026-11-23T20:57:30.443Z"
 status: "active"
 ---
 

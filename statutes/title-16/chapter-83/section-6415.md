@@ -3,9 +3,9 @@ title: "Section 6415 - Definitions"
 usc_title: 16
 usc_section: "6415"
 chapter: 83
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 6415"
-generated_at: "2026-11-23T20:55:05.140Z"
+generated_at: "2026-11-23T20:57:05.721Z"
 status: "active"
 ---
 

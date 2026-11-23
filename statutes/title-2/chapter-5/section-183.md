@@ -3,9 +3,9 @@ title: "Section 183 - Written history of the House of Representatives"
 usc_title: 2
 usc_section: "183"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 183"
-generated_at: "2026-11-23T20:54:32.058Z"
+generated_at: "2026-11-23T20:56:36.996Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9508 - Leaking Underground Storage Tank Trust Fund"
 usc_title: 26
 usc_section: "9508"
 chapter: 98
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 9508"
-generated_at: "2026-11-23T20:55:25.293Z"
+generated_at: "2026-11-23T20:57:20.739Z"
 status: "active"
 ---
 

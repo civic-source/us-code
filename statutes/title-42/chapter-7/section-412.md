@@ -3,9 +3,9 @@ title: "Section 412 - Self-employment income credited to calendar years"
 usc_title: 42
 usc_section: "412"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 412"
-generated_at: "2026-11-23T20:55:49.960Z"
+generated_at: "2026-11-23T20:57:42.559Z"
 status: "active"
 ---
 

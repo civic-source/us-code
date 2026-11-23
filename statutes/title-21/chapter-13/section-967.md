@@ -3,9 +3,9 @@ title: "Section 967 - Smuggling of controlled substances; investigations; oaths;
 usc_title: 21
 usc_section: "967"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 967"
-generated_at: "2026-11-23T20:55:10.122Z"
+generated_at: "2026-11-23T20:57:09.665Z"
 status: "active"
 ---
 

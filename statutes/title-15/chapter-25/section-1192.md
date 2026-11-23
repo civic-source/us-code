@@ -3,9 +3,9 @@ title: "Section 1192 - Prohibited transactions"
 usc_title: 15
 usc_section: "1192"
 chapter: 25
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 1192"
-generated_at: "2026-11-23T20:54:53.593Z"
+generated_at: "2026-11-23T20:56:56.356Z"
 status: "active"
 ---
 

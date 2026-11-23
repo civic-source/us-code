@@ -3,9 +3,9 @@ title: "Section 3406 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3406"
 chapter: 47
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 3406"
-generated_at: "2026-11-23T20:55:29.774Z"
+generated_at: "2026-11-23T20:57:25.744Z"
 status: "active"
 ---
 

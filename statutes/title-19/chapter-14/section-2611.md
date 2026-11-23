@@ -3,9 +3,9 @@ title: "Section 2611 - Certain material and articles exempt from this chapter"
 usc_title: 19
 usc_section: "2611"
 chapter: 14
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 2611"
-generated_at: "2026-11-23T20:54:57.178Z"
+generated_at: "2026-11-23T20:57:00.402Z"
 status: "active"
 ---
 

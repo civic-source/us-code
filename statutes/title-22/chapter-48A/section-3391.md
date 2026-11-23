@@ -3,9 +3,9 @@ title: "Section 3391 - Rule of construction"
 usc_title: 22
 usc_section: "3391"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 3391"
-generated_at: "2026-11-23T20:55:13.622Z"
+generated_at: "2026-11-23T20:57:11.946Z"
 status: "active"
 ---
 

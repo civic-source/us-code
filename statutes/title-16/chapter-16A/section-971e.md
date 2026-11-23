@@ -3,9 +3,9 @@ title: "Section 971e - Violations"
 usc_title: 16
 usc_section: "971e"
 chapter: 16
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 971e"
-generated_at: "2026-11-23T20:55:04.857Z"
+generated_at: "2026-11-23T20:57:05.466Z"
 status: "active"
 ---
 

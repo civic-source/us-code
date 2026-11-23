@@ -3,9 +3,9 @@ title: "Section 207 - Band leaders"
 usc_title: 37
 usc_section: "207"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "37 U.S.C. § 207"
-generated_at: "2026-11-23T20:55:31.190Z"
+generated_at: "2026-11-23T20:57:27.286Z"
 status: "active"
 ---
 

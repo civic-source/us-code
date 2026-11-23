@@ -3,9 +3,9 @@ title: "Section 6991h - Study of underground storage tanks"
 usc_title: 42
 usc_section: "6991h"
 chapter: 82
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6991h"
-generated_at: "2026-11-23T20:55:51.529Z"
+generated_at: "2026-11-23T20:57:43.613Z"
 status: "active"
 ---
 

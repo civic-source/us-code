@@ -3,9 +3,9 @@ title: "Section 5061 - Method of collecting tax"
 usc_title: 26
 usc_section: "5061"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 5061"
-generated_at: "2026-11-23T20:55:25.069Z"
+generated_at: "2026-11-23T20:57:20.396Z"
 status: "active"
 ---
 

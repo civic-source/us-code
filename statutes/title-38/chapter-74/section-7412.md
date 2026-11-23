@@ -3,9 +3,9 @@ title: "Section 7412 - Annual determination of staffing shortages; recruitment a
 usc_title: 38
 usc_section: "7412"
 chapter: 74
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "38 U.S.C. § 7412"
-generated_at: "2026-11-23T20:55:34.490Z"
+generated_at: "2026-11-23T20:57:30.443Z"
 status: "active"
 ---
 

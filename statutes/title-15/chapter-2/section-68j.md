@@ -3,9 +3,9 @@ title: "Section 68j - Exceptions from subchapter"
 usc_title: 15
 usc_section: "68j"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 68j"
-generated_at: "2026-11-23T20:54:53.193Z"
+generated_at: "2026-11-23T20:56:56.060Z"
 status: "active"
 ---
 

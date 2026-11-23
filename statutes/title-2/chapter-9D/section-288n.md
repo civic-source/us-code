@@ -3,9 +3,9 @@ title: "Section 288n - Travel and related expenses"
 usc_title: 2
 usc_section: "288n"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 288n"
-generated_at: "2026-11-23T20:54:32.065Z"
+generated_at: "2026-11-23T20:56:37.003Z"
 status: "active"
 ---
 

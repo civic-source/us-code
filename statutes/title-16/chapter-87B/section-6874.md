@@ -3,9 +3,9 @@ title: "Section 6874 - Cooperation and coordination"
 usc_title: 16
 usc_section: "6874"
 chapter: 87
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 6874"
-generated_at: "2026-11-23T20:55:05.157Z"
+generated_at: "2026-11-23T20:57:05.739Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 141 - Enforcement of requirements"
 usc_title: 23
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "23 U.S.C. § 141"
-generated_at: "2026-11-23T20:55:07.172Z"
+generated_at: "2026-11-23T20:57:07.563Z"
 status: "active"
 ---
 

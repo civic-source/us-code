@@ -3,9 +3,9 @@ title: "Section 2651 - Generation assignment"
 usc_title: 26
 usc_section: "2651"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 2651"
-generated_at: "2026-11-23T20:55:24.951Z"
+generated_at: "2026-11-23T20:57:20.240Z"
 status: "active"
 ---
 

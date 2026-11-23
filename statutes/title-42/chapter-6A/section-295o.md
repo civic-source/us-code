@@ -3,9 +3,9 @@ title: "Section 295o - Matching requirement"
 usc_title: 42
 usc_section: "295o"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 295o"
-generated_at: "2026-11-23T20:55:49.744Z"
+generated_at: "2026-11-23T20:57:42.361Z"
 status: "active"
 ---
 

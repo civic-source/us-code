@@ -3,9 +3,9 @@ title: "Section 20402 - Enlisted members: standards and qualifications for reten
 usc_title: 10
 usc_section: "20402"
 chapter: 2009
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 20402"
-generated_at: "2026-11-23T20:54:45.360Z"
+generated_at: "2026-11-23T20:56:49.454Z"
 status: "active"
 ---
 

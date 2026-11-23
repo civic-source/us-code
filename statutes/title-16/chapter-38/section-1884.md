@@ -3,9 +3,9 @@ title: "Section 1884 - Deep sea coral research and technology program"
 usc_title: 16
 usc_section: "1884"
 chapter: 38
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 1884"
-generated_at: "2026-11-23T20:55:05.008Z"
+generated_at: "2026-11-23T20:57:05.611Z"
 status: "active"
 ---
 

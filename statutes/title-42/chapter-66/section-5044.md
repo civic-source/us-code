@@ -3,9 +3,9 @@ title: "Section 5044 - Special limitations"
 usc_title: 42
 usc_section: "5044"
 chapter: 66
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 5044"
-generated_at: "2026-11-23T20:55:51.251Z"
+generated_at: "2026-11-23T20:57:43.443Z"
 status: "active"
 ---
 

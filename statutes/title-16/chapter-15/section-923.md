@@ -3,9 +3,9 @@ title: "Section 923 - Omitted"
 usc_title: 16
 usc_section: "923"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 923"
-generated_at: "2026-11-23T20:55:04.851Z"
+generated_at: "2026-11-23T20:57:05.460Z"
 status: "omitted"
 ---
 

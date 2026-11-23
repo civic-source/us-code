@@ -3,9 +3,9 @@ title: "Section 2118 - Establishment of equipment standards"
 usc_title: 46
 usc_section: "2118"
 chapter: 21
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "46 U.S.C. § 2118"
-generated_at: "2026-11-23T20:55:55.791Z"
+generated_at: "2026-11-23T20:57:47.482Z"
 status: "active"
 ---
 

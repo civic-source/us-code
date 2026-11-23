@@ -3,9 +3,9 @@ title: "Section 1923 - Veterans’ Special Life Insurance"
 usc_title: 38
 usc_section: "1923"
 chapter: 19
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "38 U.S.C. § 1923"
-generated_at: "2026-11-23T20:55:34.335Z"
+generated_at: "2026-11-23T20:57:30.218Z"
 status: "active"
 ---
 

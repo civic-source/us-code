@@ -3,9 +3,9 @@ title: "Section 80104 - Form and requirements for negotiation"
 usc_title: 49
 usc_section: "80104"
 chapter: 801
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 80104"
-generated_at: "2026-11-23T20:55:59.770Z"
+generated_at: "2026-11-23T20:57:52.417Z"
 status: "active"
 ---
 

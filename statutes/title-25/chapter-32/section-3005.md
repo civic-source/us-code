@@ -3,9 +3,9 @@ title: "Section 3005 - Repatriation"
 usc_title: 25
 usc_section: "3005"
 chapter: 32
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 3005"
-generated_at: "2026-11-23T20:55:08.590Z"
+generated_at: "2026-11-23T20:57:08.475Z"
 status: "active"
 ---
 

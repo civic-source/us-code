@@ -3,9 +3,9 @@ title: "Section 2323 - Omitted"
 usc_title: 19
 usc_section: "2323"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 2323"
-generated_at: "2026-11-23T20:54:57.130Z"
+generated_at: "2026-11-23T20:57:00.372Z"
 status: "omitted"
 ---
 

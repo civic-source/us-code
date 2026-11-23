@@ -3,9 +3,9 @@ title: "Section 4415 - President of Institute"
 usc_title: 20
 usc_section: "4415"
 chapter: 56
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 4415"
-generated_at: "2026-11-23T20:55:00.897Z"
+generated_at: "2026-11-23T20:57:02.283Z"
 status: "active"
 ---
 

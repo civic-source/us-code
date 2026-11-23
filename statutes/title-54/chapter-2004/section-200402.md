@@ -3,9 +3,9 @@ title: "Section 200402 - National Parks and Public Land Legacy Restoration Fund"
 usc_title: 54
 usc_section: "200402"
 chapter: 2004
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "54 U.S.C. § 200402"
-generated_at: "2026-11-23T20:56:01.957Z"
+generated_at: "2026-11-23T20:57:54.249Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 425a - Acquisition of lands"
 usc_title: 16
 usc_section: "425a"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 425a"
-generated_at: "2026-11-23T20:55:04.411Z"
+generated_at: "2026-11-23T20:57:05.169Z"
 status: "active"
 ---
 

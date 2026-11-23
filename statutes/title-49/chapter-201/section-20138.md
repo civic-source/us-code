@@ -3,9 +3,9 @@ title: "Section 20138 - Tampering with safety and operational monitoring devices
 usc_title: 49
 usc_section: "20138"
 chapter: 201
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 20138"
-generated_at: "2026-11-23T20:55:59.425Z"
+generated_at: "2026-11-23T20:57:52.061Z"
 status: "active"
 ---
 

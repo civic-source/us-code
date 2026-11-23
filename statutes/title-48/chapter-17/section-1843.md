@@ -3,9 +3,9 @@ title: "Section 1843 - Exemption from taxation for income derived from sources w
 usc_title: 48
 usc_section: "1843"
 chapter: 17
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "48 U.S.C. § 1843"
-generated_at: "2026-11-23T20:55:54.107Z"
+generated_at: "2026-11-23T20:57:46.354Z"
 status: "active"
 ---
 

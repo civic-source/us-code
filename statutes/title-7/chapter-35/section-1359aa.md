@@ -3,9 +3,9 @@ title: "Section 1359aa - Definitions"
 usc_title: 7
 usc_section: "1359aa"
 chapter: 35
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 1359aa"
-generated_at: "2026-11-23T20:54:38.427Z"
+generated_at: "2026-11-23T20:56:44.205Z"
 status: "active"
 ---
 

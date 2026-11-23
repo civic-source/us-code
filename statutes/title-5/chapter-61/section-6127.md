@@ -3,9 +3,9 @@ title: "Section 6127 - Compressed schedules; agencies authorized to use"
 usc_title: 5
 usc_section: "6127"
 chapter: 61
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 6127"
-generated_at: "2026-11-23T20:54:33.900Z"
+generated_at: "2026-11-23T20:56:39.168Z"
 status: "active"
 ---
 

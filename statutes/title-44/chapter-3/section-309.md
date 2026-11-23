@@ -3,9 +3,9 @@ title: "Section 309 - Revolving fund for operation and maintenance of Government
 usc_title: 44
 usc_section: "309"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "44 U.S.C. § 309"
-generated_at: "2026-11-23T20:55:36.386Z"
+generated_at: "2026-11-23T20:57:32.503Z"
 status: "active"
 ---
 

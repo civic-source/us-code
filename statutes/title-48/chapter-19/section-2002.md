@@ -3,9 +3,9 @@ title: "Section 2002 - Reports"
 usc_title: 48
 usc_section: "2002"
 chapter: 19
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "48 U.S.C. § 2002"
-generated_at: "2026-11-23T20:55:54.187Z"
+generated_at: "2026-11-23T20:57:46.466Z"
 status: "active"
 ---
 

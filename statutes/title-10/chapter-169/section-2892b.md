@@ -3,9 +3,9 @@ title: "Section 2892b - Prohibition on requirement to disclose personally identi
 usc_title: 10
 usc_section: "2892b"
 chapter: 169
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2892b"
-generated_at: "2026-11-23T20:54:44.897Z"
+generated_at: "2026-11-23T20:56:49.064Z"
 status: "active"
 ---
 

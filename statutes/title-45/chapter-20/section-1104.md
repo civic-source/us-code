@@ -3,9 +3,9 @@ title: "Section 1104 - Definitions"
 usc_title: 45
 usc_section: "1104"
 chapter: 20
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "45 U.S.C. § 1104"
-generated_at: "2026-11-23T20:55:38.447Z"
+generated_at: "2026-11-23T20:57:32.124Z"
 status: "active"
 ---
 

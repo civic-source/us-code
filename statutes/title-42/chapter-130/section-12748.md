@@ -3,9 +3,9 @@ title: "Section 12748 - HOME Investment Trust Funds"
 usc_title: 42
 usc_section: "12748"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12748"
-generated_at: "2026-11-23T20:55:51.929Z"
+generated_at: "2026-11-23T20:57:44.081Z"
 status: "active"
 ---
 
@@ -22,9 +22,8 @@ status: "active"
 - **(d)** A participating jurisdiction may draw funds from its HOME Investment Trust Fund, but not to exceed the remaining line of credit, only after providing certification that the funds shall be used pursuant to the participating jurisdiction’s approved housing strategy and in compliance with all requirements of this subchapter. When such certification is received, the Secretary shall immediately disburse such funds in accordance with the form of the assistance determined by the participating jurisdiction.
 - **(e)** The participating jurisdiction shall, not later than 15 days after funds are drawn from the jurisdiction’s HOME Investment Trust Fund, invest such funds, together with any interest earned thereon, in the affordable housing for which the funds were withdrawn.
 - **(f)** The Secretary shall not charge any interest or levy any other fee with regard to funds in a HOME Investment Trust Fund.
-- **(g)** If any funds becoming available to a participating jurisdiction under this subchapter are not placed under binding commitment to affordable housing within 24 months after the last day of the month in which such funds are deposited in the jurisdiction’s HOME Investment Trust Fund, the jurisdiction’s right to draw such funds from the HOME Investment Trust Fund shall expire. The Secretary shall reduce the line of credit in the participating jurisdiction’s HOME Investment Trust Fund by the expiring amount and shall reallocate the funds by formula in accordance with section 12747(d) of this title .
-- **(h)** The Secretary shall keep each participating jurisdiction informed of the status of its HOME Investment Trust Fund, including the status of amounts under various stages of commitment.
+- **(g)** The Secretary shall keep each participating jurisdiction informed of the status of its HOME Investment Trust Fund, including the status of amounts under various stages of commitment.
 
 ## Source Credit
 
-*([Pub. L. 101–625, title II, § 218](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4109](https://www.govinfo.gov/link/statute/104/4109); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 203(c), 221, Oct. 28, 1992, [106 Stat. 3752](https://www.govinfo.gov/link/statute/106/3752), 3762.)*
+*([Pub. L. 101–625, title II, § 218](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4109](https://www.govinfo.gov/link/statute/104/4109); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 203(c), 221, Oct. 28, 1992, [106 Stat. 3752](https://www.govinfo.gov/link/statute/106/3752), 3762; [Pub. L. 119–101, title V, § 501(i)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 911](https://www.govinfo.gov/link/statute/140/911).)*

@@ -3,9 +3,9 @@ title: "Section 274m - Authorization of appropriations"
 usc_title: 42
 usc_section: "274m"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 274m"
-generated_at: "2026-11-23T20:55:49.597Z"
+generated_at: "2026-11-23T20:57:42.191Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14710 - Enforcement of Federal laws and regulations with respect
 usc_title: 49
 usc_section: "14710"
 chapter: 147
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 14710"
-generated_at: "2026-11-23T20:55:59.410Z"
+generated_at: "2026-11-23T20:57:52.045Z"
 status: "active"
 ---
 

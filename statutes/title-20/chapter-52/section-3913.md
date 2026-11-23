@@ -3,9 +3,9 @@ title: "Section 3913 - Teacher institutes"
 usc_title: 20
 usc_section: "3913"
 chapter: 52
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 3913"
-generated_at: "2026-11-23T20:55:00.887Z"
+generated_at: "2026-11-23T20:57:02.274Z"
 status: "active"
 ---
 

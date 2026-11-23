@@ -3,9 +3,9 @@ title: "Section 9771 - Acceptance of donations: land for mobilization, training,
 usc_title: 10
 usc_section: "9771"
 chapter: 979
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9771"
-generated_at: "2026-11-23T20:54:45.275Z"
+generated_at: "2026-11-23T20:56:49.380Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13145 - Civil penalties"
 usc_title: 5
 usc_section: "13145"
 chapter: 131
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 13145"
-generated_at: "2026-11-23T20:54:34.065Z"
+generated_at: "2026-11-23T20:56:39.377Z"
 status: "active"
 ---
 

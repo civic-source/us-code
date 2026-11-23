@@ -3,9 +3,9 @@ title: "Section 9442a - Cadets: nomination in event of death, resignation, or ex
 usc_title: 10
 usc_section: "9442a"
 chapter: 953
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 9442a"
-generated_at: "2026-11-23T20:54:45.260Z"
+generated_at: "2026-11-23T20:56:49.366Z"
 status: "active"
 ---
 

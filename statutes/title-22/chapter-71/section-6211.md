@@ -3,9 +3,9 @@ title: "Section 6211 - Repealed. Pub. L. 116–283, div. A, title XII, § 1299Q(
 usc_title: 22
 usc_section: "6211"
 chapter: 71
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 6211"
-generated_at: "2026-11-23T20:55:13.769Z"
+generated_at: "2026-11-23T20:57:12.095Z"
 status: "repealed"
 ---
 

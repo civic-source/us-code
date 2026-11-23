@@ -3,9 +3,9 @@ title: "Section 10497 - Reports"
 usc_title: 34
 usc_section: "10497"
 chapter: 101
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 10497"
-generated_at: "2026-11-23T20:55:28.496Z"
+generated_at: "2026-11-23T20:57:24.443Z"
 status: "active"
 ---
 

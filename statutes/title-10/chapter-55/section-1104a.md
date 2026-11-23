@@ -3,9 +3,9 @@ title: "Section 1104a - Shared medical facilities with Department of Veterans Af
 usc_title: 10
 usc_section: "1104a"
 chapter: 55
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1104a"
-generated_at: "2026-11-23T20:54:44.530Z"
+generated_at: "2026-11-23T20:56:48.821Z"
 status: "active"
 ---
 

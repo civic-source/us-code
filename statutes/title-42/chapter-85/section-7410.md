@@ -3,9 +3,9 @@ title: "Section 7410 - State implementation plans for national primary and secon
 usc_title: 42
 usc_section: "7410"
 chapter: 85
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 7410"
-generated_at: "2026-11-23T20:55:51.587Z"
+generated_at: "2026-11-23T20:57:43.659Z"
 status: "active"
 ---
 

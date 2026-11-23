@@ -3,9 +3,9 @@ title: "Section 6302 - Mode or time of collection"
 usc_title: 26
 usc_section: "6302"
 chapter: 64
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6302"
-generated_at: "2026-11-23T20:55:25.161Z"
+generated_at: "2026-11-23T20:57:20.535Z"
 status: "active"
 ---
 

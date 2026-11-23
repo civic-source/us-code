@@ -3,9 +3,9 @@ title: "Section 39 - Reservation of timber, minerals, or easements by owners on 
 usc_title: 16
 usc_section: "39"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 39"
-generated_at: "2026-11-23T20:55:04.204Z"
+generated_at: "2026-11-23T20:57:04.969Z"
 status: "active"
 ---
 

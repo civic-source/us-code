@@ -3,9 +3,9 @@ title: "Section 10741 - Grant program to evaluate and improve educational method
 usc_title: 34
 usc_section: "10741"
 chapter: 101
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 10741"
-generated_at: "2026-11-23T20:55:28.522Z"
+generated_at: "2026-11-23T20:57:24.470Z"
 status: "active"
 ---
 

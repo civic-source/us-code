@@ -3,9 +3,9 @@ title: "Section 227 - Budget justification for covered military unaccompanied ho
 usc_title: 10
 usc_section: "227"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 227"
-generated_at: "2026-11-23T20:54:44.315Z"
+generated_at: "2026-11-23T20:56:48.654Z"
 status: "active"
 ---
 

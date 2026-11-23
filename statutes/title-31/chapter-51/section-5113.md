@@ -3,9 +3,9 @@ title: "Section 5113 - Tolerances and testing of coins"
 usc_title: 31
 usc_section: "5113"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "31 U.S.C. § 5113"
-generated_at: "2026-11-23T20:55:27.689Z"
+generated_at: "2026-11-23T20:57:23.017Z"
 status: "active"
 ---
 

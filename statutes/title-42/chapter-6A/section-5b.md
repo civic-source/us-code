@@ -3,9 +3,9 @@ title: "Section 5b - Repealed. Pub. L. 114–255, div. B, title IX, § 9017 , De
 usc_title: 42
 usc_section: "5b"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-11-23T20:55:49.678Z"
+generated_at: "2026-11-23T20:57:42.303Z"
 status: "repealed"
 ---
 

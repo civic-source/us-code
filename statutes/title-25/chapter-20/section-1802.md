@@ -3,9 +3,9 @@ title: "Section 1802 - Purpose"
 usc_title: 25
 usc_section: "1802"
 chapter: 20
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "25 U.S.C. § 1802"
-generated_at: "2026-11-23T20:55:08.519Z"
+generated_at: "2026-11-23T20:57:08.437Z"
 status: "active"
 ---
 

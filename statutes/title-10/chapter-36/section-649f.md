@@ -3,9 +3,9 @@ title: "Section 649f - Failure of selection for promotion"
 usc_title: 10
 usc_section: "649f"
 chapter: 36
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 649f"
-generated_at: "2026-11-23T20:54:44.394Z"
+generated_at: "2026-11-23T20:56:48.725Z"
 status: "active"
 ---
 

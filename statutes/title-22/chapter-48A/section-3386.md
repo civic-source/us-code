@@ -3,9 +3,9 @@ title: "Section 3386 - Taiwan fellows on detail from Government service"
 usc_title: 22
 usc_section: "3386"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 3386"
-generated_at: "2026-11-23T20:55:13.621Z"
+generated_at: "2026-11-23T20:57:11.945Z"
 status: "active"
 ---
 

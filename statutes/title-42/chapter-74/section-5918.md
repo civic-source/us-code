@@ -3,9 +3,9 @@ title: "Section 5918 - Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304
 usc_title: 42
 usc_section: "5918"
 chapter: 74
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 5918"
-generated_at: "2026-11-23T20:55:51.369Z"
+generated_at: "2026-11-23T20:57:43.519Z"
 status: "repealed"
 ---
 

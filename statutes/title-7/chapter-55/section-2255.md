@@ -3,9 +3,9 @@ title: "Section 2255 - Membership in International Wheat Advisory Committee, Int
 usc_title: 7
 usc_section: "2255"
 chapter: 55
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2255"
-generated_at: "2026-11-23T20:54:38.711Z"
+generated_at: "2026-11-23T20:56:44.409Z"
 status: "active"
 ---
 

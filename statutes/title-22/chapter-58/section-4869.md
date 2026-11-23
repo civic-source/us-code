@@ -3,9 +3,9 @@ title: "Section 4869 - Counter-intelligence training for certain Diplomatic Secu
 usc_title: 22
 usc_section: "4869"
 chapter: 58
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 4869"
-generated_at: "2026-11-23T20:55:13.711Z"
+generated_at: "2026-11-23T20:57:12.040Z"
 status: "active"
 ---
 

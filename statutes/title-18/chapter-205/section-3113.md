@@ -3,9 +3,9 @@ title: "Section 3113 - Liquor violations in Indian country"
 usc_title: 18
 usc_section: "3113"
 chapter: 205
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "18 U.S.C. § 3113"
-generated_at: "2026-11-23T20:54:58.694Z"
+generated_at: "2026-11-23T20:56:59.016Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12574 - Scholarships"
 usc_title: 34
 usc_section: "12574"
 chapter: 121
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 12574"
-generated_at: "2026-11-23T20:55:28.595Z"
+generated_at: "2026-11-23T20:57:24.539Z"
 status: "active"
 ---
 

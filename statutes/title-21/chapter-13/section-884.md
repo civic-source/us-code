@@ -3,9 +3,9 @@ title: "Section 884 - Immunity and privilege"
 usc_title: 21
 usc_section: "884"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 884"
-generated_at: "2026-11-23T20:55:10.111Z"
+generated_at: "2026-11-23T20:57:09.660Z"
 status: "active"
 ---
 

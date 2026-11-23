@@ -3,9 +3,9 @@ title: "Section 2482 - How issued"
 usc_title: 7
 usc_section: "2482"
 chapter: 57
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2482"
-generated_at: "2026-11-23T20:54:38.724Z"
+generated_at: "2026-11-23T20:56:44.420Z"
 status: "active"
 ---
 

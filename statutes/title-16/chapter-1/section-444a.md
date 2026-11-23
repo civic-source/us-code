@@ -3,9 +3,9 @@ title: "Section 444a - Ascertainment of value of lands offered for exchange; evi
 usc_title: 16
 usc_section: "444a"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 444a"
-generated_at: "2026-11-23T20:55:04.443Z"
+generated_at: "2026-11-23T20:57:05.197Z"
 status: "active"
 ---
 

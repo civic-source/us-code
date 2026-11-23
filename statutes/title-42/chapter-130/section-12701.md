@@ -3,9 +3,9 @@ title: "Section 12701 - National housing goal"
 usc_title: 42
 usc_section: "12701"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12701"
-generated_at: "2026-11-23T20:55:51.921Z"
+generated_at: "2026-11-23T20:57:44.069Z"
 status: "active"
 ---
 
@@ -13,6 +13,22 @@ status: "active"
 
 The Congress affirms the national goal that every American family be able to afford a decent home in a suitable environment.
 
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

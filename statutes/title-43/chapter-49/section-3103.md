@@ -3,9 +3,9 @@ title: "Section 3103 - Ground subsidence"
 usc_title: 43
 usc_section: "3103"
 chapter: 49
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 3103"
-generated_at: "2026-11-23T20:55:37.915Z"
+generated_at: "2026-11-23T20:57:33.618Z"
 status: "active"
 ---
 

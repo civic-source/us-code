@@ -3,9 +3,9 @@ title: "Section 6373 - Off-highway motor vehicles"
 usc_title: 42
 usc_section: "6373"
 chapter: 77
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6373"
-generated_at: "2026-11-23T20:55:51.446Z"
+generated_at: "2026-11-23T20:57:43.562Z"
 status: "active"
 ---
 

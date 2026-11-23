@@ -3,9 +3,9 @@ title: "Section 1i - Increase in United States quota; consultations with Congres
 usc_title: 22
 usc_section: "1i"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 1i"
-generated_at: "2026-11-23T20:55:13.245Z"
+generated_at: "2026-11-23T20:57:11.607Z"
 status: "active"
 ---
 

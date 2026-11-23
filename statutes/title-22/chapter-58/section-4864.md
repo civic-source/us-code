@@ -3,9 +3,9 @@ title: "Section 4864 - Increased participation of United States contractors in l
 usc_title: 22
 usc_section: "4864"
 chapter: 58
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 4864"
-generated_at: "2026-11-23T20:55:13.706Z"
+generated_at: "2026-11-23T20:57:12.037Z"
 status: "active"
 ---
 

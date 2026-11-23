@@ -3,9 +3,9 @@ title: "Section 1482 - Expenses incident to death"
 usc_title: 10
 usc_section: "1482"
 chapter: 75
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 1482"
-generated_at: "2026-11-23T20:54:44.603Z"
+generated_at: "2026-11-23T20:56:48.871Z"
 status: "active"
 ---
 

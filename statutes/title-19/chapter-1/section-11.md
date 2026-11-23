@@ -3,9 +3,9 @@ title: "Section 11 - Repealed. Pub. L. 91–271, title III, § 321(c) –(g), Ju
 usc_title: 19
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 11"
-generated_at: "2026-11-23T20:54:56.951Z"
+generated_at: "2026-11-23T20:57:00.255Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12475 - Grants to combat violence against women in public and as
 usc_title: 34
 usc_section: "12475"
 chapter: 121
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 12475"
-generated_at: "2026-11-23T20:55:28.582Z"
+generated_at: "2026-11-23T20:57:24.528Z"
 status: "active"
 ---
 

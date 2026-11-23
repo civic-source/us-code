@@ -3,9 +3,9 @@ title: "Section 4462 - Definitions and special rules"
 usc_title: 26
 usc_section: "4462"
 chapter: 36
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 4462"
-generated_at: "2026-11-23T20:55:25.026Z"
+generated_at: "2026-11-23T20:57:20.336Z"
 status: "active"
 ---
 

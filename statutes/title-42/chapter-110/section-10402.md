@@ -3,9 +3,9 @@ title: "Section 10402 - Definitions"
 usc_title: 42
 usc_section: "10402"
 chapter: 110
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-11-23T20:55:51.812Z"
+generated_at: "2026-11-23T20:57:43.927Z"
 status: "active"
 ---
 

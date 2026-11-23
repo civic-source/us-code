@@ -3,9 +3,9 @@ title: "Section 4 - Outdated broadband systems"
 usc_title: 7
 usc_section: "4"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-11-23T20:54:38.391Z"
+generated_at: "2026-11-23T20:56:44.183Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50106 - Powers"
 usc_title: 36
 usc_section: "50106"
 chapter: 501
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 50106"
-generated_at: "2026-11-23T20:55:31.764Z"
+generated_at: "2026-11-23T20:57:28.673Z"
 status: "active"
 ---
 

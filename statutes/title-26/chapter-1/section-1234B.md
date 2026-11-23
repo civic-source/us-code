@@ -3,9 +3,9 @@ title: "Section 1234B - Gains or losses from securities futures contracts"
 usc_title: 26
 usc_section: "1234B"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 1234B"
-generated_at: "2026-11-23T20:55:24.843Z"
+generated_at: "2026-11-23T20:57:20.157Z"
 status: "active"
 ---
 

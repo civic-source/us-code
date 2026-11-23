@@ -3,9 +3,9 @@ title: "Section 2804 - Contingency construction"
 usc_title: 10
 usc_section: "2804"
 chapter: 169
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2804"
-generated_at: "2026-11-23T20:54:44.874Z"
+generated_at: "2026-11-23T20:56:49.044Z"
 status: "active"
 ---
 

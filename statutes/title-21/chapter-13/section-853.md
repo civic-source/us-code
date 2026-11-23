@@ -3,9 +3,9 @@ title: "Section 853 - Criminal forfeitures"
 usc_title: 21
 usc_section: "853"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 853"
-generated_at: "2026-11-23T20:55:10.100Z"
+generated_at: "2026-11-23T20:57:09.651Z"
 status: "active"
 ---
 

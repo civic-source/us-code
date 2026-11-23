@@ -3,9 +3,9 @@ title: "Section 44933 - Federal Security Managers 1 1 So in original. Probably s
 usc_title: 49
 usc_section: "44933"
 chapter: 449
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 44933"
-generated_at: "2026-11-23T20:55:59.655Z"
+generated_at: "2026-11-23T20:57:52.312Z"
 status: "active"
 ---
 

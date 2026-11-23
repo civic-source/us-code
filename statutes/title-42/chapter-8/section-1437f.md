@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-11-23T20:55:50.673Z"
+generated_at: "2026-11-23T20:57:43.075Z"
 status: "active"
 ---
 
@@ -142,6 +142,11 @@ status: "active"
       - **(i)** For each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency (or other entity pursuant to paragraph (11)) shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B), except as provided in clause (ii) or (iii) of this subparagraph.
       - **(ii)** In the case of any dwelling unit that is determined, pursuant to an inspection under clause (i), not to meet the housing quality standards under subparagraph (B), assistance payments may be made for the unit notwithstanding subparagraph (C) if failure to meet such standards is a result only of non-life-threatening conditions, as such conditions are established by the Secretary. A public housing agency making assistance payments pursuant to this clause for a dwelling unit shall, 30 days after the beginning of the period for which such payments are made, withhold any assistance payments for the unit if any deficiency resulting in noncompliance with the housing quality standards has not been corrected by such time. The public housing agency shall recommence assistance payments when such deficiency has been corrected, and may use any payments withheld to make assistance payments relating to the period during which payments were withheld.
       - **(iii)** In the case of any property that within the previous 24 months has met the requirements of an inspection that qualifies as an alternative inspection method pursuant to subparagraph (E), a public housing agency may authorize occupancy before the inspection under clause (i) has been completed, and may make assistance payments retroactive to the beginning of the lease term after the unit has been determined pursuant to an inspection under clause (i) to meet the housing quality standards under subparagraph (B). This clause may not be construed to exempt any dwelling unit from compliance with the requirements of subparagraph (D).
+      - **(iv)**
+        - **(I)** In this clause, the term “new landlord” means an owner of a dwelling unit who has not previously entered into a housing assistance payment contract with a public housing agency under this subsection for any dwelling unit.
+        - **(II)** Upon the request of a new landlord, a public housing agency may inspect the dwelling unit owned by the new landlord to determine whether the unit meets the housing quality standards under subparagraph (B) before the unit is selected by a tenant assisted under this subsection.
+        - **(III)** An inspection conducted under subclause (II) that determines that the dwelling unit meets the housing quality standards under subparagraph (B) shall satisfy this subparagraph and subparagraph (C) if the new landlord enters into a lease agreement with a tenant assisted under this subsection not later than 60 days after the date of the inspection.
+        - **(IV)** When a public housing agency selects a family to participate in the tenant-based assistance program under this subsection, the public housing agency shall include in the information provided to the family a list of dwelling units that have been inspected under subclause (II) and determined to meet the housing quality standards under subparagraph (B).
     - **(B)** The housing quality standards under this subparagraph are standards for safe and habitable housing established—
       - **(i)** by the Secretary for purposes of this subsection; or
       - **(ii)** by local housing codes or by codes adopted by public housing agencies that—
@@ -178,6 +183,24 @@ status: "active"
       - **(viii)** If a public housing agency determines that any damage to a dwelling unit that results in a failure of the dwelling unit to comply with housing quality standards under subparagraph (B), other than any damage resulting from ordinary use, was caused by the tenant, any member of the tenant’s household, or any guest or other person under the tenant’s control, the agency may waive the applicability of this subparagraph, except that this clause shall not exonerate a tenant from any liability otherwise existing under applicable law for damages to the premises caused by such tenant.
       - **(ix)** This subparagraph shall apply to any dwelling unit for which a housing assistance payments contract is entered into or renewed after the date of the effectiveness of the regulations implementing this subparagraph.
     - **(H)** The Secretary shall establish procedural guidelines and performance standards to facilitate inspections of dwelling units and conform such inspections with practices utilized in the private housing market. Such guidelines and standards shall take into consideration variations in local laws and practices of public housing agencies and shall provide flexibility to authorities appropriate to facilitate efficient provision of assistance under this subsection.
+    - **(I)**
+      - **(i)** A dwelling unit shall be deemed to meet the inspection requirements under this paragraph if—
+        - **(I)** the dwelling unit is in a building, the acquisition, rehabilitation, or construction of which was done by a building owner who may be eligible for low-income housing credits because the building had been allocated a housing credit dollar amount under section 42(h) of title 26 or is described in section 42(h)(4) of such title (concerning buildings that meet a criterion for a certain amount of tax-exempt financing);
+        - **(II)** the dwelling unit, during the preceding 12-month period, was physically inspected and satisfied the suitability-for-occupancy requirement in section 42(i)(3)(B)(ii) of such title; and
+        - **(III)** the applicable public housing agency performed the inspection itself or is able to obtain the results of the inspection described in subclause (II).
+      - **(ii)** A dwelling shall be deemed to meet the inspection requirements under this paragraph if—
+        - **(I)** the dwelling unit is assisted under the HOME Investment Partnerships Program under title II of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12721 et seq.);
+        - **(II)** the dwelling unit was physically inspected and passed inspection as part of the program described in subclause (I) during the preceding 12-month period; and
+        - **(III)** the applicable public housing agency is able to obtain the results of the inspection described in subclause (II).
+      - **(iii)** A dwelling unit shall be deemed to meet the inspection requirements under this paragraph if—
+        - **(I)** the dwelling unit is assisted by the Rural Housing Service of the Department of Agriculture;
+        - **(II)** the dwelling unit was physically inspected and passed inspection in connection with the assistance described in subclause (I) during the preceding 12-month period; and
+        - **(III)** the applicable public housing agency is able to obtain the results of the inspection described in subclause (II).
+      - **(iv)** When complying with inspection requirements for a housing unit located in a rural or small area using assistance under this section, the Secretary may allow a grantee to conduct a remote or video inspection of a unit if the remote or video inspection—
+        - **(I)** is thorough;
+        - **(II)** does not misrepresent the condition of the unit; and
+        - **(III)** provides the information necessary to fully and accurately evaluate the conditions of the unit to ensure that the unit meets the relevant standards.
+      - **(v)** Nothing in clause (i), (ii), (iii), or (iv) shall be construed to affect the operation of a housing program described in, or authorized under a provision of law described in, that clause.
   - **(9)** If an assisted family vacates a dwelling unit for which rental assistance is provided under a housing assistance payment contract before the expiration of the term of the lease for the unit, rental assistance pursuant to such contract may not be provided for the unit after the month during which the unit was vacated.
   - **(10)**
     - **(A)** The rent for dwelling units for which a housing assistance payment contract is established under this subsection shall be reasonable in comparison with rents charged for comparable dwelling units in the private, unassisted local market.
@@ -1057,6 +1080,98 @@ Contents
 
 Contents of final report
 
+Definitions
+
+Moving to work demonstration
+
+Secretary
+
+Authorization of Additional Public Housing Agencies.—
+
+In general
+
+Name
+
+Waiver Authority.—
+
+In general
+
+Modifications
+
+Exceptions.—
+
+In general
+
+Specific wavers
+
+“waivers”
+
+Policy options
+
+Funding and Use of Funds.—
+
+In general
+
+Other uses
+
+Formula.—
+
+Renewal
+
+Administrative fees
+
+Selection Requirements
+
+Requirements for Selected Public Housing Agencies
+
+Noncompliance.—
+
+In general
+
+Compliance
+
+Removal
+
+Notification
+
+Comprehensive Moving to Work Reporting and Oversight Requirements.—
+
+Cohort research.—
+
+In general
+
+Coordination
+
+Comprehensive reporting requirement
+
+“(aa) Voucher unit utilization rates.
+
+“(bb) Voucher budget utilization rates.
+
+“(cc) Annualized voucher success rate.
+
+“(dd) Demographic composition of households issued vouchers compared to utilized vouchers.
+
+“(ee) Average time to lease-up.
+
+“(ff) Average cost per voucher.
+
+“(gg) Average cost per landlord incentive.
+
+“(hh) Ratio of the proportion of voucher households living in concentrated low-income areas to the proportion of renter-occupied units in concentrated low-income areas.
+
+“(ii) Characteristics of census tracts where voucher recipients reside.
+
+Public availability.—
+
+In general
+
+Other information.—
+
+In general
+
+Database
+
 Purpose
 
 Program Authority
@@ -1171,4 +1286,4 @@ Recovery
 
 ## Source Credit
 
-*(Sept. 1, 1937, ch. 896, title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 662](https://www.govinfo.gov/link/statute/88/662); amended [Pub. L. 94–375, § 2(d)](https://www.govinfo.gov/link/plaw/94/public/375), (e), (g), Aug. 3, 1976, [90 Stat. 1068](https://www.govinfo.gov/link/statute/90/1068); [Pub. L. 95–24, title I, § 101(c)](https://www.govinfo.gov/link/plaw/95/public/24), Apr. 30, 1977, [91 Stat. 55](https://www.govinfo.gov/link/statute/91/55); [Pub. L. 95–128, title II, § 201(c)](https://www.govinfo.gov/link/plaw/95/public/128) –(e), Oct. 12, 1977, [91 Stat. 1128](https://www.govinfo.gov/link/statute/91/1128); [Pub. L. 95–557, title II, § 206(d)(1)](https://www.govinfo.gov/link/plaw/95/public/557), (e), (f), Oct. 31, 1978, [92 Stat. 2091](https://www.govinfo.gov/link/statute/92/2091), 2092; [Pub. L. 96–153, title II](https://www.govinfo.gov/link/plaw/96/public/153), §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106), 1108–1110; [Pub. L. 96–399, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/399), title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629](https://www.govinfo.gov/link/statute/94/1629), 1641; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402), 405–407, 410; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 203(b)(1), (2), 207–209(a), 210, 211], Nov. 30, 1983, [97 Stat. 1178](https://www.govinfo.gov/link/statute/97/1178), 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)](https://www.govinfo.gov/link/plaw/98/public/479) –(10), Oct. 17, 1984, [98 Stat. 2221](https://www.govinfo.gov/link/statute/98/2221), 2222; [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853](https://www.govinfo.gov/link/statute/101/1849), 1890; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 100–628, title X](https://www.govinfo.gov/link/plaw/100/public/628), §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264](https://www.govinfo.gov/link/statute/102/3264), 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127](https://www.govinfo.gov/link/plaw/101/public/235), title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025](https://www.govinfo.gov/link/statute/103/2025), 2058, 2059; [Pub. L. 101–625, title II, § 289(b)](https://www.govinfo.gov/link/plaw/101/public/625), title IV, § 413, title V, §§ 541–545(a), 545(2)[(b)], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128](https://www.govinfo.gov/link/statute/104/4128), 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II](https://www.govinfo.gov/link/plaw/102/public/139), Oct. 28, 1991, [105 Stat. 756](https://www.govinfo.gov/link/statute/105/756); [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715](https://www.govinfo.gov/link/statute/106/3713), 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/103/public/233), (3), (d), Apr. 11, 1994, [108 Stat. 357](https://www.govinfo.gov/link/statute/108/357); [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2315](https://www.govinfo.gov/link/statute/108/2315); [Pub. L. 104–19, title I, § 1003](https://www.govinfo.gov/link/plaw/104/public/19), July 27, 1995, [109 Stat. 236](https://www.govinfo.gov/link/statute/109/236); [Pub. L. 104–99, title IV](https://www.govinfo.gov/link/plaw/104/public/99), §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41](https://www.govinfo.gov/link/statute/110/41), 42, 44; [Pub. L. 104–134, title I, § 101(e) [title II, §§ 203(a)–(c), 208]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–193, title IX, § 903(a)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2348](https://www.govinfo.gov/link/statute/110/2348); [Pub. L. 104–204, title II, § 201(g)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2893](https://www.govinfo.gov/link/statute/110/2893); [Pub. L. 105–18, title II, § 10002](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 201](https://www.govinfo.gov/link/statute/111/201); [Pub. L. 105–33, title II](https://www.govinfo.gov/link/plaw/105/public/33), §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257](https://www.govinfo.gov/link/statute/111/257); [Pub. L. 105–65, title II](https://www.govinfo.gov/link/plaw/105/public/65), §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364](https://www.govinfo.gov/link/statute/111/1364), 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)](https://www.govinfo.gov/link/plaw/105/public/276), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485](https://www.govinfo.gov/link/statute/112/2485), 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223](https://www.govinfo.gov/link/plaw/106/public/74), title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076](https://www.govinfo.gov/link/statute/113/1076), 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 569](https://www.govinfo.gov/link/statute/114/569); [Pub. L. 106–377, § 1(a)(1) [title II, §§ 205, 228, 232(a), 234]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/569), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952](https://www.govinfo.gov/link/statute/114/2952), 3026; [Pub. L. 107–95, § 12](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 921](https://www.govinfo.gov/link/statute/115/921); [Pub. L. 107–116, title VI, § 632](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2227](https://www.govinfo.gov/link/statute/115/2227); [Pub. L. 109–162, title VI, § 606](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3041](https://www.govinfo.gov/link/statute/119/3041); [Pub. L. 109–271, § 5(d)](https://www.govinfo.gov/link/plaw/109/public/271), (e), Aug. 12, 2006, [120 Stat. 759](https://www.govinfo.gov/link/statute/120/759); [Pub. L. 109–461, title VII, § 710](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3441](https://www.govinfo.gov/link/statute/120/3441); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(Y), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2871](https://www.govinfo.gov/link/statute/122/2871); [Pub. L. 111–22, div. A, title VII](https://www.govinfo.gov/link/plaw/111/public/22), §§ 703, 704, May 20, 2009, [123 Stat. 1661](https://www.govinfo.gov/link/statute/123/1661), 1662; [Pub. L. 111–203, title XIV, § 1484(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2204](https://www.govinfo.gov/link/statute/124/2204); [Pub. L. 111–372, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/372), Jan. 4, 2011, [124 Stat. 4084](https://www.govinfo.gov/link/statute/124/4084); [Pub. L. 113–4, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 107](https://www.govinfo.gov/link/statute/127/107); [Pub. L. 113–76, div. L, title II](https://www.govinfo.gov/link/plaw/113/public/76), §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630](https://www.govinfo.gov/link/statute/128/630), 636; [Pub. L. 114–94, div. G, title LXXVIII, § 78001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1791](https://www.govinfo.gov/link/statute/129/1791); [Pub. L. 114–201, title I](https://www.govinfo.gov/link/plaw/114/public/201), §§ 101(a), 102(d)–(f), 105, 106(a), 107(a), (b), 108, 110, 112(a), July 29, 2016, [130 Stat. 783](https://www.govinfo.gov/link/statute/130/783), 790, 791, 796, 800, 801, 803; [Pub. L. 115–174, title III, § 304(a)](https://www.govinfo.gov/link/plaw/115/public/174), (b), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339); [Pub. L. 116–260, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 101(b)(2), 103(b), (c), Dec. 27, 2020, [134 Stat. 2163](https://www.govinfo.gov/link/statute/134/2163), 2166, 2169; [Pub. L. 116–283, div. H, title XCI, § 9103(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4781](https://www.govinfo.gov/link/statute/134/4781); [Pub. L. 117–328, div. AA, title VI, § 601(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5543](https://www.govinfo.gov/link/statute/136/5543).)*
+*(Sept. 1, 1937, ch. 896, title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 662](https://www.govinfo.gov/link/statute/88/662); amended [Pub. L. 94–375, § 2(d)](https://www.govinfo.gov/link/plaw/94/public/375), (e), (g), Aug. 3, 1976, [90 Stat. 1068](https://www.govinfo.gov/link/statute/90/1068); [Pub. L. 95–24, title I, § 101(c)](https://www.govinfo.gov/link/plaw/95/public/24), Apr. 30, 1977, [91 Stat. 55](https://www.govinfo.gov/link/statute/91/55); [Pub. L. 95–128, title II, § 201(c)](https://www.govinfo.gov/link/plaw/95/public/128) –(e), Oct. 12, 1977, [91 Stat. 1128](https://www.govinfo.gov/link/statute/91/1128); [Pub. L. 95–557, title II, § 206(d)(1)](https://www.govinfo.gov/link/plaw/95/public/557), (e), (f), Oct. 31, 1978, [92 Stat. 2091](https://www.govinfo.gov/link/statute/92/2091), 2092; [Pub. L. 96–153, title II](https://www.govinfo.gov/link/plaw/96/public/153), §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106), 1108–1110; [Pub. L. 96–399, title II, § 203](https://www.govinfo.gov/link/plaw/96/public/399), title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629](https://www.govinfo.gov/link/statute/94/1629), 1641; [Pub. L. 97–35, title III](https://www.govinfo.gov/link/plaw/97/public/35), §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402](https://www.govinfo.gov/link/statute/95/402), 405–407, 410; [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 203(b)(1), (2), 207–209(a), 210, 211], Nov. 30, 1983, [97 Stat. 1178](https://www.govinfo.gov/link/statute/97/1178), 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)](https://www.govinfo.gov/link/plaw/98/public/479) –(10), Oct. 17, 1984, [98 Stat. 2221](https://www.govinfo.gov/link/statute/98/2221), 2222; [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853](https://www.govinfo.gov/link/statute/101/1849), 1890; renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); [Pub. L. 100–628, title X](https://www.govinfo.gov/link/plaw/100/public/628), §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264](https://www.govinfo.gov/link/statute/102/3264), 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127](https://www.govinfo.gov/link/plaw/101/public/235), title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025](https://www.govinfo.gov/link/statute/103/2025), 2058, 2059; [Pub. L. 101–625, title II, § 289(b)](https://www.govinfo.gov/link/plaw/101/public/625), title IV, § 413, title V, §§ 541–545(a), 545(2)[(b)], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128](https://www.govinfo.gov/link/statute/104/4128), 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II](https://www.govinfo.gov/link/plaw/102/public/139), Oct. 28, 1991, [105 Stat. 756](https://www.govinfo.gov/link/statute/105/756); [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715](https://www.govinfo.gov/link/statute/106/3713), 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)](https://www.govinfo.gov/link/plaw/103/public/233), (3), (d), Apr. 11, 1994, [108 Stat. 357](https://www.govinfo.gov/link/statute/108/357); [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2315](https://www.govinfo.gov/link/statute/108/2315); [Pub. L. 104–19, title I, § 1003](https://www.govinfo.gov/link/plaw/104/public/19), July 27, 1995, [109 Stat. 236](https://www.govinfo.gov/link/statute/109/236); [Pub. L. 104–99, title IV](https://www.govinfo.gov/link/plaw/104/public/99), §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41](https://www.govinfo.gov/link/statute/110/41), 42, 44; [Pub. L. 104–134, title I, § 101(e) [title II, §§ 203(a)–(c), 208]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–257](https://www.govinfo.gov/link/statute/110/1321), 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 104–193, title IX, § 903(a)(2)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2348](https://www.govinfo.gov/link/statute/110/2348); [Pub. L. 104–204, title II, § 201(g)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2893](https://www.govinfo.gov/link/statute/110/2893); [Pub. L. 105–18, title II, § 10002](https://www.govinfo.gov/link/plaw/105/public/18), June 12, 1997, [111 Stat. 201](https://www.govinfo.gov/link/statute/111/201); [Pub. L. 105–33, title II](https://www.govinfo.gov/link/plaw/105/public/33), §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257](https://www.govinfo.gov/link/statute/111/257); [Pub. L. 105–65, title II](https://www.govinfo.gov/link/plaw/105/public/65), §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364](https://www.govinfo.gov/link/statute/111/1364), 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)](https://www.govinfo.gov/link/plaw/105/public/276), title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485](https://www.govinfo.gov/link/statute/112/2485), 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223](https://www.govinfo.gov/link/plaw/106/public/74), title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076](https://www.govinfo.gov/link/statute/113/1076), 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801](https://www.govinfo.gov/link/plaw/106/public/246), July 13, 2000, [114 Stat. 569](https://www.govinfo.gov/link/statute/114/569); [Pub. L. 106–377, § 1(a)(1) [title II, §§ 205, 228, 232(a), 234]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)](https://www.govinfo.gov/link/plaw/106/public/569), title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952](https://www.govinfo.gov/link/statute/114/2952), 3026; [Pub. L. 107–95, § 12](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 921](https://www.govinfo.gov/link/statute/115/921); [Pub. L. 107–116, title VI, § 632](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2227](https://www.govinfo.gov/link/statute/115/2227); [Pub. L. 109–162, title VI, § 606](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3041](https://www.govinfo.gov/link/statute/119/3041); [Pub. L. 109–271, § 5(d)](https://www.govinfo.gov/link/plaw/109/public/271), (e), Aug. 12, 2006, [120 Stat. 759](https://www.govinfo.gov/link/statute/120/759); [Pub. L. 109–461, title VII, § 710](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3441](https://www.govinfo.gov/link/statute/120/3441); [Pub. L. 110–234, title IV, § 4002(b)(1)(B)](https://www.govinfo.gov/link/plaw/110/public/234), (2)(Y), May 22, 2008, [122 Stat. 1096](https://www.govinfo.gov/link/statute/122/1096), 1097; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2871](https://www.govinfo.gov/link/statute/122/2871); [Pub. L. 111–22, div. A, title VII](https://www.govinfo.gov/link/plaw/111/public/22), §§ 703, 704, May 20, 2009, [123 Stat. 1661](https://www.govinfo.gov/link/statute/123/1661), 1662; [Pub. L. 111–203, title XIV, § 1484(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2204](https://www.govinfo.gov/link/statute/124/2204); [Pub. L. 111–372, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/372), Jan. 4, 2011, [124 Stat. 4084](https://www.govinfo.gov/link/statute/124/4084); [Pub. L. 113–4, title VI, § 601(b)(2)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 107](https://www.govinfo.gov/link/statute/127/107); [Pub. L. 113–76, div. L, title II](https://www.govinfo.gov/link/plaw/113/public/76), §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630](https://www.govinfo.gov/link/statute/128/630), 636; [Pub. L. 114–94, div. G, title LXXVIII, § 78001(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1791](https://www.govinfo.gov/link/statute/129/1791); [Pub. L. 114–201, title I](https://www.govinfo.gov/link/plaw/114/public/201), §§ 101(a), 102(d)–(f), 105, 106(a), 107(a), (b), 108, 110, 112(a), July 29, 2016, [130 Stat. 783](https://www.govinfo.gov/link/statute/130/783), 790, 791, 796, 800, 801, 803; [Pub. L. 115–174, title III, § 304(a)](https://www.govinfo.gov/link/plaw/115/public/174), (b), May 24, 2018, [132 Stat. 1339](https://www.govinfo.gov/link/statute/132/1339); [Pub. L. 116–260, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 101(b)(2), 103(b), (c), Dec. 27, 2020, [134 Stat. 2163](https://www.govinfo.gov/link/statute/134/2163), 2166, 2169; [Pub. L. 116–283, div. H, title XCI, § 9103(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4781](https://www.govinfo.gov/link/statute/134/4781); [Pub. L. 117–328, div. AA, title VI, § 601(a)(2)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5543](https://www.govinfo.gov/link/statute/136/5543); [Pub. L. 119–101, title IV, § 405](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 905](https://www.govinfo.gov/link/statute/140/905).)*

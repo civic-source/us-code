@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 35
 usc_section: "201"
 chapter: 18
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "35 U.S.C. § 201"
-generated_at: "2026-11-23T20:55:26.894Z"
+generated_at: "2026-11-23T20:57:23.284Z"
 status: "active"
 ---
 

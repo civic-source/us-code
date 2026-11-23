@@ -3,9 +3,9 @@ title: "Section 2074 - Establishment of revolving fund"
 usc_title: 19
 usc_section: "2074"
 chapter: 10
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 2074"
-generated_at: "2026-11-23T20:54:57.096Z"
+generated_at: "2026-11-23T20:57:00.346Z"
 status: "active"
 ---
 

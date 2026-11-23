@@ -3,9 +3,9 @@ title: "Section 4008 - Regulations and reports by Board"
 usc_title: 12
 usc_section: "4008"
 chapter: 41
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 4008"
-generated_at: "2026-11-23T20:54:50.510Z"
+generated_at: "2026-11-23T20:56:54.391Z"
 status: "active"
 ---
 

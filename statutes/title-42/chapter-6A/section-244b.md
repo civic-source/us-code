@@ -3,9 +3,9 @@ title: "Section 244b - Activities relating to cardiomyopathy"
 usc_title: 42
 usc_section: "244b"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 244b"
-generated_at: "2026-11-23T20:55:49.510Z"
+generated_at: "2026-11-23T20:57:42.102Z"
 status: "active"
 ---
 

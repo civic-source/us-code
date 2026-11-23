@@ -3,9 +3,9 @@ title: "Section 1207 - Regulations"
 usc_title: 33
 usc_section: "1207"
 chapter: 24
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 1207"
-generated_at: "2026-11-23T20:55:29.631Z"
+generated_at: "2026-11-23T20:57:25.596Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 600a - Arch Hurley Conservancy District project, New Mexico"
 usc_title: 43
 usc_section: "600a"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 600a"
-generated_at: "2026-11-23T20:55:37.713Z"
+generated_at: "2026-11-23T20:57:33.456Z"
 status: "active"
 ---
 

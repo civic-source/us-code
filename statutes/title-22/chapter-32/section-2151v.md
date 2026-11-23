@@ -3,9 +3,9 @@ title: "Section 2151v - Aid to relatively least developed countries"
 usc_title: 22
 usc_section: "2151v"
 chapter: 32
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 2151v"
-generated_at: "2026-11-23T20:55:13.374Z"
+generated_at: "2026-11-23T20:57:11.729Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 526a - Renumbered § 526]"
 usc_title: 10
 usc_section: "526a"
 chapter: 32
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 526a"
-generated_at: "2026-11-23T20:54:44.366Z"
+generated_at: "2026-11-23T20:56:48.702Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11504 - Recommended legislation"
 usc_title: 40
 usc_section: "11504"
 chapter: 115
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "40 U.S.C. § 11504"
-generated_at: "2026-11-23T20:55:32.580Z"
+generated_at: "2026-11-23T20:57:28.087Z"
 status: "active"
 ---
 

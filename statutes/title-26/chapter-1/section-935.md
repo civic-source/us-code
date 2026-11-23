@@ -3,9 +3,9 @@ title: "Section 935 - Repealed. Pub. L. 99–514, title XII, § 1272(d)(2) , Oct
 usc_title: 26
 usc_section: "935"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 935"
-generated_at: "2026-11-23T20:55:24.781Z"
+generated_at: "2026-11-23T20:57:20.100Z"
 status: "repealed"
 ---
 

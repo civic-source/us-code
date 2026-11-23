@@ -3,9 +3,9 @@ title: "Section 315 - Advisory Committee on Data for Evidence Building"
 usc_title: 5
 usc_section: "315"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 315"
-generated_at: "2026-11-23T20:54:33.706Z"
+generated_at: "2026-11-23T20:56:38.942Z"
 status: "active"
 ---
 

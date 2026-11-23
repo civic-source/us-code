@@ -3,9 +3,9 @@ title: "Section 8985 - Information to individuals eligible to enroll"
 usc_title: 5
 usc_section: "8985"
 chapter: 89
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 8985"
-generated_at: "2026-11-23T20:54:34.041Z"
+generated_at: "2026-11-23T20:56:39.346Z"
 status: "active"
 ---
 

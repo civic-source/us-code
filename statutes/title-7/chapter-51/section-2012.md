@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-11-23T20:54:38.650Z"
+generated_at: "2026-11-23T20:56:44.351Z"
 status: "active"
 ---
 
@@ -91,7 +91,7 @@ As used in this chapter, the term:
 - **(s)** “State agency” means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title .
 - **(t)** “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
 - **(u)**
-  - **(1)**
+  - **(1)** The term “thrifty food plan” means the diet required to feed a family of 4 persons consisting of a man and a woman ages 20 through 50, a child ages 6 through 8, and a child ages 9 through 11 using the items and quantities of food described in the report of the Department of Agriculture entitled “Thrifty Food Plan, 2021”, and each successor report updated pursuant to this subsection, subject to the conditions that—
     - **(A)** the relevant market baskets of the thrifty food plan shall only be changed pursuant to paragraph (4);
     - **(B)** the cost of the thrifty food plan shall be the basis for uniform allotments for all households, regardless of the actual composition of the household; and
     - **(C)** the cost of the thrifty food plan may only be adjusted in accordance with this subsection.
@@ -110,8 +110,8 @@ As used in this chapter, the term:
     - **(B)** make cost adjustments in the separate thrifty food plans for Guam and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the 50 States and the District of Columbia; and
     - **(C)** on October 1, 2025 , and on each October 1 thereafter, adjust the cost of the thrifty food plan to reflect changes in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June.
   - **(4)**
-    - **(A)**
-    - **(B)**
+    - **(A)** Not earlier than October 1, 2027 , the Secretary may re-evaluate the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.
+    - **(B)** The Secretary shall not increase the cost of the thrifty food plan based on a re-evaluation under this paragraph.
 - **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in section 5304 of title 25 , as well as any Indian tribe, band, or community holding a treaty with a State government.
 
 Benefit
@@ -120,7 +120,7 @@ Benefit Issuer
 
 Card
 
-Thrifty Food Plan
+Thrifty Food Plan.—
 
 In general
 
@@ -128,7 +128,7 @@ Household adjustments
 
 Allowable cost adjustments
 
-Re-evaluation of market baskets
+Re-evaluation of market baskets.—
 
 Re-evaluation
 

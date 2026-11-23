@@ -3,9 +3,9 @@ title: "Section 343e - Repealed. Oct. 27, 1949, ch. 768, § 3 , 63 Stat. 940"
 usc_title: 7
 usc_section: "343e"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 343e"
-generated_at: "2026-11-23T20:54:38.315Z"
+generated_at: "2026-11-23T20:56:44.137Z"
 status: "repealed"
 ---
 

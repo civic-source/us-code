@@ -3,9 +3,9 @@ title: "Section 973h - Enforcement"
 usc_title: 16
 usc_section: "973h"
 chapter: 16
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 973h"
-generated_at: "2026-11-23T20:55:04.859Z"
+generated_at: "2026-11-23T20:57:05.468Z"
 status: "active"
 ---
 

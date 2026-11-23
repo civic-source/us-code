@@ -3,9 +3,9 @@ title: "Section 12501 - Grant for national resource center on workplace response
 usc_title: 34
 usc_section: "12501"
 chapter: 121
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 12501"
-generated_at: "2026-11-23T20:55:28.585Z"
+generated_at: "2026-11-23T20:57:24.531Z"
 status: "active"
 ---
 

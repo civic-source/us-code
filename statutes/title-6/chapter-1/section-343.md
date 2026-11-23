@@ -3,9 +3,9 @@ title: "Section 343 - Chief Information Officer"
 usc_title: 6
 usc_section: "343"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 343"
-generated_at: "2026-11-23T20:54:39.514Z"
+generated_at: "2026-11-23T20:56:41.715Z"
 status: "active"
 ---
 

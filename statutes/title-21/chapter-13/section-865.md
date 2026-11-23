@@ -3,9 +3,9 @@ title: "Section 865 - Smuggling methamphetamine or methamphetamine precursor che
 usc_title: 21
 usc_section: "865"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 865"
-generated_at: "2026-11-23T20:55:10.106Z"
+generated_at: "2026-11-23T20:57:09.655Z"
 status: "active"
 ---
 

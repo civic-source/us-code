@@ -3,9 +3,9 @@ title: "Section 3102 - Employment of personal assistants for handicapped employe
 usc_title: 5
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 3102"
-generated_at: "2026-11-23T20:54:33.766Z"
+generated_at: "2026-11-23T20:56:39.005Z"
 status: "active"
 ---
 

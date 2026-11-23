@@ -3,9 +3,9 @@ title: "Section 70123 - Mobile biometric identification"
 usc_title: 46
 usc_section: "70123"
 chapter: 701
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "46 U.S.C. § 70123"
-generated_at: "2026-11-23T20:55:56.008Z"
+generated_at: "2026-11-23T20:57:47.785Z"
 status: "active"
 ---
 

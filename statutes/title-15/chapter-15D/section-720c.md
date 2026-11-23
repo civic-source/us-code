@@ -3,9 +3,9 @@ title: "Section 720c - Pipeline expansion"
 usc_title: 15
 usc_section: "720c"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 720c"
-generated_at: "2026-11-23T20:54:53.568Z"
+generated_at: "2026-11-23T20:56:56.333Z"
 status: "active"
 ---
 

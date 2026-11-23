@@ -3,9 +3,9 @@ title: "Section 5509 - Appropriations"
 usc_title: 5
 usc_section: "5509"
 chapter: 55
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 5509"
-generated_at: "2026-11-23T20:54:33.850Z"
+generated_at: "2026-11-23T20:56:39.101Z"
 status: "active"
 ---
 

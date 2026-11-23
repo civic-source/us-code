@@ -3,9 +3,9 @@ title: "Section 12705 - State and local housing strategies"
 usc_title: 42
 usc_section: "12705"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12705"
-generated_at: "2026-11-23T20:55:51.922Z"
+generated_at: "2026-11-23T20:57:44.073Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(5)** explain the institutional structure, including private industry, nonprofit organizations, and public institutions, through which the jurisdiction will carry out its housing strategy, assessing the strengths and gaps in that delivery system and describing what the jurisdiction will do to overcome those gaps;
   - **(6)** indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
   - **(7)** set forth the jurisdiction’s plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act [ 42 U.S.C. 11301 et seq.], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
-  - **(8)** describe how the jurisdiction’s plan will address the housing needs identified pursuant to subparagraphs 1 1 So in original. Probably should be “paragraphs”. (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
+  - **(8)** describe how the jurisdiction’s plan will address the housing needs identified pursuant to paragraphs (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
   - **(9)** describe the means of cooperation and coordination among the State and any units of general local government in the development, submission, and implementation of their housing strategies;
   - **(10)** in the case of a unit of local government, describe the number of public housing units in the jurisdiction, the physical condition of such units, the restoration and revitalization needs of public housing projects within the jurisdiction, the public housing agency’s strategy for improving the management and operation of such public housing, and the public housing agency’s strategy for improving the living environment of low- and very-low-income families residing in public housing;
   - **(11)** describe the manner in which the plan of the jurisdiction will help address the needs of public housing;
@@ -49,6 +49,40 @@ status: "active"
   - **(1)** The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubled public housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
   - **(2)** For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 [ 42 U.S.C. 1437d(j)(2) ] as a troubled public housing agency.
 
+Definitions
+
+Affordable housing
+
+Assistant secretary
+
+Local zoning framework
+
+Secretary
+
+State zoning framework
+
+Guidelines on State and Local Zoning Frameworks.—
+
+In general
+
+Consultation; public comment
+
+Contents
+
+“(aa) create a process for developers or builders requesting a variance, conditional use, special permit, zoning district change, similar discretionary permit, or otherwise petitioning a local zoning or planning board for a project, including a State-defined amount of affordable housing to appeal a rejection to a State body or regional body empowered by the State; and
+
+“(bb) establish qualifications for communities to be exempted from the appeals process based on their available stock of affordable housing; and
+
+Abolishment of the Regulatory Barriers Clearinghouse.—
+
+In general
+
+Repeal
+
+Reporting
+
+Rule of Construction
+
 ## Source Credit
 
-*([Pub. L. 101–625, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4088](https://www.govinfo.gov/link/statute/104/4088); [Pub. L. 102–550, title II, § 220](https://www.govinfo.gov/link/plaw/102/public/550), title VI, § 681, title X, § 1014, title XII, § 1206, Oct. 28, 1992, [106 Stat. 3761](https://www.govinfo.gov/link/statute/106/3761), 3830, 3908, 3940; [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 568, 583, Oct. 21, 1998, [112 Stat. 2634](https://www.govinfo.gov/link/statute/112/2634), 2644; [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675); [Pub. L. 109–162, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3040](https://www.govinfo.gov/link/statute/119/3040).)*
+*([Pub. L. 101–625, title I, § 105](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4088](https://www.govinfo.gov/link/statute/104/4088); [Pub. L. 102–550, title II, § 220](https://www.govinfo.gov/link/plaw/102/public/550), title VI, § 681, title X, § 1014, title XII, § 1206, Oct. 28, 1992, [106 Stat. 3761](https://www.govinfo.gov/link/statute/106/3761), 3830, 3908, 3940; [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 568, 583, Oct. 21, 1998, [112 Stat. 2634](https://www.govinfo.gov/link/statute/112/2634), 2644; [Pub. L. 109–162, title VI, § 604](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3040](https://www.govinfo.gov/link/statute/119/3040); [Pub. L. 119–101, title V, § 501(v)(1)](https://www.govinfo.gov/link/plaw/119/public/101), (5), July 11, 2026, [140 Stat. 917](https://www.govinfo.gov/link/statute/140/917).)*

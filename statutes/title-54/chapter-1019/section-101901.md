@@ -3,9 +3,9 @@ title: "Section 101901 - Utility services"
 usc_title: 54
 usc_section: "101901"
 chapter: 1019
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "54 U.S.C. § 101901"
-generated_at: "2026-11-23T20:56:01.921Z"
+generated_at: "2026-11-23T20:57:54.210Z"
 status: "active"
 ---
 

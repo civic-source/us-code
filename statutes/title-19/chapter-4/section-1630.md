@@ -3,9 +3,9 @@ title: "Section 1630 - Authority to settle claims"
 usc_title: 19
 usc_section: "1630"
 chapter: 4
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 1630"
-generated_at: "2026-11-23T20:54:57.066Z"
+generated_at: "2026-11-23T20:57:00.319Z"
 status: "active"
 ---
 

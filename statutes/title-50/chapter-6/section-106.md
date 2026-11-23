@@ -3,9 +3,9 @@ title: "Section 106 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 50
 usc_section: "106"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 106"
-generated_at: "2026-11-23T20:55:56.874Z"
+generated_at: "2026-11-23T20:57:49.504Z"
 status: "repealed"
 ---
 

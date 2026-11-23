@@ -3,9 +3,9 @@ title: "Section 5111 - Eligibility"
 usc_title: 26
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 5111"
-generated_at: "2026-11-23T20:55:25.072Z"
+generated_at: "2026-11-23T20:57:20.399Z"
 status: "active"
 ---
 

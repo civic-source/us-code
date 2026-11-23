@@ -3,9 +3,9 @@ title: "Section 8353 - General requirements for exemptions"
 usc_title: 42
 usc_section: "8353"
 chapter: 92
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 8353"
-generated_at: "2026-11-23T20:55:51.709Z"
+generated_at: "2026-11-23T20:57:43.800Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** if the Secretary has not made a finding that the use of a method of fluidized bed combustion of coal or an alternate fuel is economically and technically feasible.
 - **(b)**
   - **(1)** In the case of an exemption under section 8352(b) or (g) of this title, the Secretary may not grant an exemption for an existing powerplant unless he finds that the petitioner has demonstrated that there is no alternative supply of electric power which is available within a reasonable distance at a reasonable cost without impairing short-run or long-run reliability of service and which can be obtained by the petitioner, despite reasonable good faith efforts.
-  - **(2)** The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with the Commission before making any finding on such petition under paragraph (l).
+  - **(2)** The Secretary shall forward a copy of any such petition to the Federal Energy Regulatory Commission promptly after it is filed with the Secretary and shall consult with the Commission before making any finding on such petition under paragraph (1).
 
 ## Source Credit
 

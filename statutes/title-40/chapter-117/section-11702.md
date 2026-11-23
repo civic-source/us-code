@@ -3,9 +3,9 @@ title: "Section 11702 - Index of certain information in information systems incl
 usc_title: 40
 usc_section: "11702"
 chapter: 117
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "40 U.S.C. § 11702"
-generated_at: "2026-11-23T20:55:32.581Z"
+generated_at: "2026-11-23T20:57:28.087Z"
 status: "active"
 ---
 

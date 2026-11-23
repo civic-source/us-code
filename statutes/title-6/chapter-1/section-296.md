@@ -3,9 +3,9 @@ title: "Section 296 - Separation of funding"
 usc_title: 6
 usc_section: "296"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 296"
-generated_at: "2026-11-23T20:54:39.496Z"
+generated_at: "2026-11-23T20:56:41.706Z"
 status: "active"
 ---
 

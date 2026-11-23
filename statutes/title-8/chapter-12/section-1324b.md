@@ -3,9 +3,9 @@ title: "Section 1324b - Unfair immigration-related employment practices"
 usc_title: 8
 usc_section: "1324b"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "8 U.S.C. § 1324b"
-generated_at: "2026-11-23T20:54:35.867Z"
+generated_at: "2026-11-23T20:56:41.231Z"
 status: "active"
 ---
 

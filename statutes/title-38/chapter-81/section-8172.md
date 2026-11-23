@@ -3,9 +3,9 @@ title: "Section 8172 - Management of major information technology projects"
 usc_title: 38
 usc_section: "8172"
 chapter: 81
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "38 U.S.C. § 8172"
-generated_at: "2026-11-23T20:55:34.524Z"
+generated_at: "2026-11-23T20:57:30.495Z"
 status: "active"
 ---
 

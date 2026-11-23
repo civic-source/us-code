@@ -3,9 +3,9 @@ title: "Section 201 - Publication and distribution of Code of Laws of United Sta
 usc_title: 1
 usc_section: "201"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "1 U.S.C. § 201"
-generated_at: "2026-11-23T20:54:31.222Z"
+generated_at: "2026-11-23T20:56:37.238Z"
 status: "active"
 ---
 

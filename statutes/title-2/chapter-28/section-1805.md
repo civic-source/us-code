@@ -3,9 +3,9 @@ title: "Section 1805 - Deputy Architect of the Capitol"
 usc_title: 2
 usc_section: "1805"
 chapter: 28
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "2 U.S.C. § 1805"
-generated_at: "2026-11-23T20:54:32.121Z"
+generated_at: "2026-11-23T20:56:37.062Z"
 status: "active"
 ---
 

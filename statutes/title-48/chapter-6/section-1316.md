@@ -3,9 +3,9 @@ title: "Section 1316 - Repealed. Sept. 26, 1950, ch. 1049, § 13(3) , 64 Stat. 1
 usc_title: 48
 usc_section: "1316"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "48 U.S.C. § 1316"
-generated_at: "2026-11-23T20:55:54.079Z"
+generated_at: "2026-11-23T20:57:46.303Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 161 - Combatant commands: establishment"
 usc_title: 10
 usc_section: "161"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 161"
-generated_at: "2026-11-23T20:54:44.284Z"
+generated_at: "2026-11-23T20:56:48.638Z"
 status: "active"
 ---
 

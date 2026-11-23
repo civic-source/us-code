@@ -3,9 +3,9 @@ title: "Section 5221 - Commencement, suspension, and resumption of operations"
 usc_title: 26
 usc_section: "5221"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 5221"
-generated_at: "2026-11-23T20:55:25.080Z"
+generated_at: "2026-11-23T20:57:20.409Z"
 status: "active"
 ---
 

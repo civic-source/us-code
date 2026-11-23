@@ -3,9 +3,9 @@ title: "Section 10605 - Safeguards and accountability"
 usc_title: 22
 usc_section: "10605"
 chapter: 113
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 10605"
-generated_at: "2026-11-23T20:55:14.020Z"
+generated_at: "2026-11-23T20:57:12.311Z"
 status: "active"
 ---
 

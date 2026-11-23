@@ -3,9 +3,9 @@ title: "Section 2402 - Annual report"
 usc_title: 39
 usc_section: "2402"
 chapter: 24
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "39 U.S.C. § 2402"
-generated_at: "2026-11-23T20:55:32.027Z"
+generated_at: "2026-11-23T20:57:27.654Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 98f - Special Presidential disposal authority"
 usc_title: 50
 usc_section: "98f"
 chapter: 5
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 98f"
-generated_at: "2026-11-23T20:55:56.870Z"
+generated_at: "2026-11-23T20:57:49.502Z"
 status: "active"
 ---
 

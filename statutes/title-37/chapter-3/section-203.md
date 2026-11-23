@@ -3,9 +3,9 @@ title: "Section 203 - Rates"
 usc_title: 37
 usc_section: "203"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "37 U.S.C. § 203"
-generated_at: "2026-11-23T20:55:31.178Z"
+generated_at: "2026-11-23T20:57:27.278Z"
 status: "active"
 ---
 

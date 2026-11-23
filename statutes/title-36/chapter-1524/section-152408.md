@@ -3,9 +3,9 @@ title: "Section 152408 - Service of process"
 usc_title: 36
 usc_section: "152408"
 chapter: 1524
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 152408"
-generated_at: "2026-11-23T20:55:31.823Z"
+generated_at: "2026-11-23T20:57:28.726Z"
 status: "active"
 ---
 

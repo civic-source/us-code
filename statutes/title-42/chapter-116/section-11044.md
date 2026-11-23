@@ -3,9 +3,9 @@ title: "Section 11044 - Public availability of plans, data sheets, forms, and fo
 usc_title: 42
 usc_section: "11044"
 chapter: 116
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 11044"
-generated_at: "2026-11-23T20:55:51.831Z"
+generated_at: "2026-11-23T20:57:43.949Z"
 status: "active"
 ---
 

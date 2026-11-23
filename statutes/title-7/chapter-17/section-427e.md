@@ -3,9 +3,9 @@ title: "Section 427e - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "427e"
 chapter: 17
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 427e"
-generated_at: "2026-11-23T20:54:38.322Z"
+generated_at: "2026-11-23T20:56:44.144Z"
 status: "repealed"
 ---
 

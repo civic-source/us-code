@@ -3,9 +3,9 @@ title: "Section 2009d - Rural Development Trust Fund"
 usc_title: 7
 usc_section: "2009d"
 chapter: 50
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2009d"
-generated_at: "2026-11-23T20:54:38.631Z"
+generated_at: "2026-11-23T20:56:44.334Z"
 status: "active"
 ---
 

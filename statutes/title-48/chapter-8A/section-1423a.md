@@ -3,9 +3,9 @@ title: "Section 1423a - Power of legislature; limitation on indebtedness of Guam
 usc_title: 48
 usc_section: "1423a"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "48 U.S.C. § 1423a"
-generated_at: "2026-11-23T20:55:54.086Z"
+generated_at: "2026-11-23T20:57:46.322Z"
 status: "active"
 ---
 

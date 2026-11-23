@@ -3,9 +3,9 @@ title: "Section 5345 - Repealed. Pub. L. 95–454, title VIII, § 801(a)(2) , Oc
 usc_title: 5
 usc_section: "5345"
 chapter: 53
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 5345"
-generated_at: "2026-11-23T20:54:33.843Z"
+generated_at: "2026-11-23T20:56:39.087Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12302 - Definitions"
 usc_title: 42
 usc_section: "12302"
 chapter: 127
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12302"
-generated_at: "2026-11-23T20:55:51.882Z"
+generated_at: "2026-11-23T20:57:44.013Z"
 status: "active"
 ---
 

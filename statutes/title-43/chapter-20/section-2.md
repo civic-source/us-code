@@ -3,9 +3,9 @@ title: "Section 2 - Conditions of transfer by grantee; solid waste disposal"
 usc_title: 43
 usc_section: "2"
 chapter: 20
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-11-23T20:55:37.751Z"
+generated_at: "2026-11-23T20:57:33.489Z"
 status: "active"
 ---
 

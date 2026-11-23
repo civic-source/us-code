@@ -3,9 +3,9 @@ title: "Section 1b - Tenant participation in multifamily housing projects"
 usc_title: 12
 usc_section: "1b"
 chapter: 13
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 1b"
-generated_at: "2026-11-23T20:54:50.078Z"
+generated_at: "2026-11-23T20:56:54.142Z"
 status: "active"
 ---
 

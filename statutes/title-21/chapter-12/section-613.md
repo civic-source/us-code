@@ -3,9 +3,9 @@ title: "Section 613 - Plans and reassessments"
 usc_title: 21
 usc_section: "613"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "21 U.S.C. § 613"
-generated_at: "2026-11-23T20:55:10.061Z"
+generated_at: "2026-11-23T20:57:09.624Z"
 status: "active"
 ---
 

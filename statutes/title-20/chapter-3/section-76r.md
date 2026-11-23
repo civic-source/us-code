@@ -3,9 +3,9 @@ title: "Section 76r - Authorization of appropriations"
 usc_title: 20
 usc_section: "76r"
 chapter: 3
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 76r"
-generated_at: "2026-11-23T20:55:00.572Z"
+generated_at: "2026-11-23T20:57:02.023Z"
 status: "active"
 ---
 

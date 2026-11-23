@@ -3,9 +3,9 @@ title: "Section 6429 - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(
 usc_title: 26
 usc_section: "6429"
 chapter: 65
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 6429"
-generated_at: "2026-11-23T20:55:25.186Z"
+generated_at: "2026-11-23T20:57:20.578Z"
 status: "repealed"
 ---
 

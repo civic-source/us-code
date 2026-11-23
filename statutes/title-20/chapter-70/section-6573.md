@@ -3,9 +3,9 @@ title: "Section 6573 - State administration"
 usc_title: 20
 usc_section: "6573"
 chapter: 70
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 6573"
-generated_at: "2026-11-23T20:55:00.936Z"
+generated_at: "2026-11-23T20:57:02.321Z"
 status: "active"
 ---
 

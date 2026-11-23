@@ -3,9 +3,9 @@ title: "Section 665 - Definitions applicable to subpart D"
 usc_title: 26
 usc_section: "665"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 665"
-generated_at: "2026-11-23T20:55:24.678Z"
+generated_at: "2026-11-23T20:57:19.999Z"
 status: "active"
 ---
 

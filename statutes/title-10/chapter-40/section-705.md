@@ -3,9 +3,9 @@ title: "Section 705 - Rest and recuperation absence: qualified members extending
 usc_title: 10
 usc_section: "705"
 chapter: 40
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 705"
-generated_at: "2026-11-23T20:54:44.403Z"
+generated_at: "2026-11-23T20:56:48.731Z"
 status: "active"
 ---
 

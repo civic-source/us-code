@@ -3,9 +3,9 @@ title: "Section 12839 - Termination of existing housing programs"
 usc_title: 42
 usc_section: "12839"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12839"
-generated_at: "2026-11-23T20:55:51.933Z"
+generated_at: "2026-11-23T20:57:44.089Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ status: "active"
 
 ## Source Credit
 
-*([Pub. L. 101–625, title II, § 289](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4128](https://www.govinfo.gov/link/statute/104/4128); [Pub. L. 106–400, § 2](https://www.govinfo.gov/link/plaw/106/public/400), Oct. 30, 2000, [114 Stat. 1675](https://www.govinfo.gov/link/statute/114/1675).)*
+*([Pub. L. 101–625, title II, § 289](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4128](https://www.govinfo.gov/link/statute/104/4128); [Pub. L. 119–101, title V, § 501(v)(1)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 917](https://www.govinfo.gov/link/statute/140/917).)*

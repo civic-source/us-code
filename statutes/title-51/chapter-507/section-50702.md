@@ -3,9 +3,9 @@ title: "Section 50702 - Establishment"
 usc_title: 51
 usc_section: "50702"
 chapter: 507
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "51 U.S.C. § 50702"
-generated_at: "2026-11-23T20:56:01.469Z"
+generated_at: "2026-11-23T20:57:54.586Z"
 status: "active"
 ---
 

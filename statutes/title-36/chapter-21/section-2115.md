@@ -3,9 +3,9 @@ title: "Section 2115 - Acquisition, operation, and maintenance of Lafayette Esca
 usc_title: 36
 usc_section: "2115"
 chapter: 21
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 2115"
-generated_at: "2026-11-23T20:55:31.704Z"
+generated_at: "2026-11-23T20:57:28.624Z"
 status: "active"
 ---
 

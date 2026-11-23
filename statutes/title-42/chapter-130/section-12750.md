@@ -3,31 +3,28 @@ title: "Section 12750 - Matching requirements"
 usc_title: 42
 usc_section: "12750"
 chapter: 130
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 12750"
-generated_at: "2026-11-23T20:55:51.929Z"
+generated_at: "2026-11-23T20:57:44.081Z"
 status: "active"
 ---
 
 # § 12750. Matching requirements
 
 - **(a)** Each participating jurisdiction shall make contributions to housing that qualifies as affordable housing under this subchapter that total, throughout a fiscal year, not less than 25 percent of the funds drawn from the jurisdiction’s HOME Investment Trust Fund in such fiscal year. Such contributions shall be in addition to any amounts made available under section 12746(3)(A)(ii) of this title .
-- **(b)**
-  - **(1)** A contribution shall be recognized for purposes of subsection (a) only if it—
-    - **(A)** is made with respect to housing that qualifies as affordable housing under section 12745 of this title ; or
-    - **(B)** is made with respect to any portion of a project not less than 50 percent of the units of which qualify as affordable housing under section 12745 of this title .
-  - **(2)** Contributions for administrative expenses may not be recognized for purposes of subsection (a).
+- **(b)** A contribution shall be recognized for purposes of subsection (a) only if it—
+  - **(1)** is made with respect to housing that qualifies as affordable housing under section 12745 of this title ; or
+  - **(2)** is made with respect to any portion of a project not less than 50 percent of the units of which qualify as affordable housing under section 12745 of this title .
 - **(c)** Such contributions may be in the form of—
   - **(1)** cash contributions from non-Federal resources, which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title ;
   - **(2)** the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that achieves affordability of housing assisted under this subchapter;
   - **(3)** the value of land or other real property as appraised according to procedures acceptable to the Secretary;
   - **(4)** the value of investment in on-site and off-site infrastructure directly required for affordable housing assisted under this subchapter;
-  - **(5)** Redesignated (4)
-  - **(6)** up to—
+  - **(5)** up to—
     - **(A)** 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
     - **(B)** 25 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a single-family project financed,
-  - **(7)** the reasonable value of any site-preparation and construction materials and any donated or voluntary labor in connection with the site-preparation for, or construction or rehabilitation of, affordable housing; and
-  - **(8)** such other contributions to affordable housing as the Secretary considers appropriate.
+  - **(6)** the reasonable value of any site-preparation and construction materials and any donated or voluntary labor in connection with the site-preparation for, or construction or rehabilitation of, affordable housing; and
+  - **(7)** such other contributions to affordable housing as the Secretary considers appropriate.
 - **(d)**
   - **(1)** The Secretary shall reduce the matching requirement under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during a fiscal year by—
     - **(A)** 50 percent for a jurisdiction that certifies that it is in fiscal distress; and
@@ -43,4 +40,4 @@ status: "active"
 
 ## Source Credit
 
-*([Pub. L. 101–625, title II, § 220](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4111](https://www.govinfo.gov/link/statute/104/4111); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 207(c), 210(a)–(c), Oct. 28, 1992, [106 Stat. 3753](https://www.govinfo.gov/link/statute/106/3753), 3755; [Pub. L. 103–233, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 364](https://www.govinfo.gov/link/statute/108/364).)*
+*([Pub. L. 101–625, title II, § 220](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4111](https://www.govinfo.gov/link/statute/104/4111); [Pub. L. 102–550, title II](https://www.govinfo.gov/link/plaw/102/public/550), §§ 207(c), 210(a)–(c), Oct. 28, 1992, [106 Stat. 3753](https://www.govinfo.gov/link/statute/106/3753), 3755; [Pub. L. 103–233, title II, § 204](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 364](https://www.govinfo.gov/link/statute/108/364); [Pub. L. 119–101, title V, § 501(t)(1)](https://www.govinfo.gov/link/plaw/119/public/101), (v)(10), July 11, 2026, [140 Stat. 915](https://www.govinfo.gov/link/statute/140/915), 918.)*

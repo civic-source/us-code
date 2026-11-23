@@ -3,9 +3,9 @@ title: "Section 792 - Account"
 usc_title: 31
 usc_section: "792"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "31 U.S.C. § 792"
-generated_at: "2026-11-23T20:55:27.566Z"
+generated_at: "2026-11-23T20:57:22.897Z"
 status: "active"
 ---
 

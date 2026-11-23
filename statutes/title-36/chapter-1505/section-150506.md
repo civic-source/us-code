@@ -3,9 +3,9 @@ title: "Section 150506 - Powers"
 usc_title: 36
 usc_section: "150506"
 chapter: 1505
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 150506"
-generated_at: "2026-11-23T20:55:31.808Z"
+generated_at: "2026-11-23T20:57:28.710Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5841 - Establishment and transfers"
 usc_title: 42
 usc_section: "5841"
 chapter: 73
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 5841"
-generated_at: "2026-11-23T20:55:51.356Z"
+generated_at: "2026-11-23T20:57:43.511Z"
 status: "active"
 ---
 
@@ -73,6 +73,20 @@ The White House
 Jimmy Carter.
 
 The White House
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

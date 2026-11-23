@@ -3,9 +3,9 @@ title: "Section 150704 - National officers"
 usc_title: 36
 usc_section: "150704"
 chapter: 1507
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 150704"
-generated_at: "2026-11-23T20:55:31.809Z"
+generated_at: "2026-11-23T20:57:28.711Z"
 status: "active"
 ---
 

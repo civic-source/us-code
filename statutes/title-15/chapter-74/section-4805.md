@@ -3,9 +3,9 @@ title: "Section 4805 - Executive Director and staff"
 usc_title: 15
 usc_section: "4805"
 chapter: 74
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "15 U.S.C. § 4805"
-generated_at: "2026-11-23T20:54:53.846Z"
+generated_at: "2026-11-23T20:56:56.580Z"
 status: "active"
 ---
 

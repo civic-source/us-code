@@ -3,9 +3,9 @@ title: "Section 613 - Percentage depletion"
 usc_title: 26
 usc_section: "613"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 613"
-generated_at: "2026-11-23T20:55:24.664Z"
+generated_at: "2026-11-23T20:57:19.985Z"
 status: "active"
 ---
 

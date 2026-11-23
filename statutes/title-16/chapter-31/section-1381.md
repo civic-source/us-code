@@ -3,9 +3,9 @@ title: "Section 1381 - Commercial fisheries gear development"
 usc_title: 16
 usc_section: "1381"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 1381"
-generated_at: "2026-11-23T20:55:04.930Z"
+generated_at: "2026-11-23T20:57:05.544Z"
 status: "active"
 ---
 

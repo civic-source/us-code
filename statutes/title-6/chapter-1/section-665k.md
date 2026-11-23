@@ -3,9 +3,9 @@ title: "Section 665k - Federal Clearinghouse on School Safety Evidence-based Pra
 usc_title: 6
 usc_section: "665k"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "6 U.S.C. § 665k"
-generated_at: "2026-11-23T20:54:39.582Z"
+generated_at: "2026-11-23T20:56:41.759Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50901 - Confidentiality of peer support communications"
 usc_title: 34
 usc_section: "50901"
 chapter: 509
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 50901"
-generated_at: "2026-11-23T20:55:28.696Z"
+generated_at: "2026-11-23T20:57:24.645Z"
 status: "active"
 ---
 

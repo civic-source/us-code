@@ -3,9 +3,9 @@ title: "Section 1355 - Restrictions on employment of former officers or employee
 usc_title: 43
 usc_section: "1355"
 chapter: 29
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 1355"
-generated_at: "2026-11-23T20:55:37.788Z"
+generated_at: "2026-11-23T20:57:33.522Z"
 status: "active"
 ---
 

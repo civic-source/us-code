@@ -3,9 +3,9 @@ title: "Section 708 - Sale of surplus waters for domestic and industrial uses; d
 usc_title: 33
 usc_section: "708"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "33 U.S.C. § 708"
-generated_at: "2026-11-23T20:55:29.599Z"
+generated_at: "2026-11-23T20:57:25.560Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2091 - Estimate of appropriations needed"
 usc_title: 50
 usc_section: "2091"
 chapter: 38
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 2091"
-generated_at: "2026-11-23T20:55:56.992Z"
+generated_at: "2026-11-23T20:57:49.566Z"
 status: "active"
 ---
 

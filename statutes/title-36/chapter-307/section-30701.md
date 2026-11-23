@@ -3,9 +3,9 @@ title: "Section 30701 - Organization"
 usc_title: 36
 usc_section: "30701"
 chapter: 307
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 30701"
-generated_at: "2026-11-23T20:55:31.755Z"
+generated_at: "2026-11-23T20:57:28.662Z"
 status: "active"
 ---
 

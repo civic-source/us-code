@@ -3,9 +3,9 @@ title: "Section 2 - Arbitration"
 usc_title: 20
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-11-23T20:55:00.593Z"
+generated_at: "2026-11-23T20:57:02.040Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 482 - Allocation of income and deductions among taxpayers"
 usc_title: 26
 usc_section: "482"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 482"
-generated_at: "2026-11-23T20:55:24.615Z"
+generated_at: "2026-11-23T20:57:19.942Z"
 status: "active"
 ---
 

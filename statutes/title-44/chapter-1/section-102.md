@@ -3,9 +3,9 @@ title: "Section 102 - Joint Committee on Printing: succession; powers during rec
 usc_title: 44
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "44 U.S.C. § 102"
-generated_at: "2026-11-23T20:55:36.384Z"
+generated_at: "2026-11-23T20:57:32.501Z"
 status: "active"
 ---
 

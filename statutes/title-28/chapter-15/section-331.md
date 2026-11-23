@@ -3,9 +3,9 @@ title: "Section 331 - Judicial Conference of the United States"
 usc_title: 28
 usc_section: "331"
 chapter: 15
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "28 U.S.C. § 331"
-generated_at: "2026-11-23T20:55:16.983Z"
+generated_at: "2026-11-23T20:57:14.688Z"
 status: "active"
 ---
 

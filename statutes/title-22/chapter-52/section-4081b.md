@@ -3,9 +3,9 @@ title: "Section 4081b - Presence of chiefs of mission at diplomatic posts"
 usc_title: 22
 usc_section: "4081b"
 chapter: 52
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 4081b"
-generated_at: "2026-11-23T20:55:13.675Z"
+generated_at: "2026-11-23T20:57:11.998Z"
 status: "active"
 ---
 

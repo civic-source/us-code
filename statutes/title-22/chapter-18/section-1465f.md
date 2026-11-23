@@ -3,9 +3,9 @@ title: "Section 1465f - Authorization of appropriations"
 usc_title: 22
 usc_section: "1465f"
 chapter: 18
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 1465f"
-generated_at: "2026-11-23T20:55:13.299Z"
+generated_at: "2026-11-23T20:57:11.658Z"
 status: "active"
 ---
 

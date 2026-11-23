@@ -3,9 +3,9 @@ title: "Section 95 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 
 usc_title: 19
 usc_section: "95"
 chapter: 2
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "19 U.S.C. § 95"
-generated_at: "2026-11-23T20:54:56.965Z"
+generated_at: "2026-11-23T20:57:00.269Z"
 status: "repealed"
 ---
 

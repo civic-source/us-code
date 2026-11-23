@@ -3,9 +3,9 @@ title: "Section 160e - Payment of value differential by Secretary to owner of co
 usc_title: 16
 usc_section: "160e"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 160e"
-generated_at: "2026-11-23T20:55:04.224Z"
+generated_at: "2026-11-23T20:57:04.999Z"
 status: "active"
 ---
 

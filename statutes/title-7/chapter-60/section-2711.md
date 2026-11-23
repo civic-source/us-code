@@ -3,9 +3,9 @@ title: "Section 2711 - Exempted egg producers and breeding hen flocks; condition
 usc_title: 7
 usc_section: "2711"
 chapter: 60
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 2711"
-generated_at: "2026-11-23T20:54:38.737Z"
+generated_at: "2026-11-23T20:56:44.427Z"
 status: "active"
 ---
 

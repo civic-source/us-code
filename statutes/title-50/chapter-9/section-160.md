@@ -3,9 +3,9 @@ title: "Section 160 - Omitted"
 usc_title: 50
 usc_section: "160"
 chapter: 9
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "50 U.S.C. § 160"
-generated_at: "2026-11-23T20:55:56.875Z"
+generated_at: "2026-11-23T20:57:49.504Z"
 status: "omitted"
 ---
 

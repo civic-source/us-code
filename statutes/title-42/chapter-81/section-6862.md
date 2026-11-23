@@ -3,9 +3,9 @@ title: "Section 6862 - Definitions"
 usc_title: 42
 usc_section: "6862"
 chapter: 81
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6862"
-generated_at: "2026-11-23T20:55:51.481Z"
+generated_at: "2026-11-23T20:57:43.584Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2168 - Defense Language Institute Foreign Language Center: degre
 usc_title: 10
 usc_section: "2168"
 chapter: 108
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "10 U.S.C. § 2168"
-generated_at: "2026-11-23T20:54:44.709Z"
+generated_at: "2026-11-23T20:56:48.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40130 - FAA authority to conduct criminal history record checks"
 usc_title: 49
 usc_section: "40130"
 chapter: 401
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "49 U.S.C. § 40130"
-generated_at: "2026-11-23T20:55:59.571Z"
+generated_at: "2026-11-23T20:57:52.210Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6002 - Statement of policy"
 usc_title: 22
 usc_section: "6002"
 chapter: 69
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 6002"
-generated_at: "2026-11-23T20:55:13.749Z"
+generated_at: "2026-11-23T20:57:12.077Z"
 status: "active"
 ---
 

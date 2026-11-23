@@ -3,9 +3,9 @@ title: "Section 12351 - Transitional housing assistance grants for victims of do
 usc_title: 34
 usc_section: "12351"
 chapter: 121
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "34 U.S.C. § 12351"
-generated_at: "2026-11-23T20:55:28.572Z"
+generated_at: "2026-11-23T20:57:24.519Z"
 status: "active"
 ---
 

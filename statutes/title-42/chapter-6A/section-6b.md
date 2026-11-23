@@ -3,9 +3,9 @@ title: "Section 6b - Strategic National Stockpile and security countermeasure pr
 usc_title: 42
 usc_section: "6b"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 6b"
-generated_at: "2026-11-23T20:55:49.534Z"
+generated_at: "2026-11-23T20:57:42.132Z"
 status: "active"
 ---
 
@@ -375,6 +375,16 @@ Sec.
 Sec.
 
 J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 George W. Bush.
 

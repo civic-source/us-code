@@ -3,9 +3,9 @@ title: "Section 7116 - Unfair labor practices"
 usc_title: 5
 usc_section: "7116"
 chapter: 71
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 7116"
-generated_at: "2026-11-23T20:54:33.915Z"
+generated_at: "2026-11-23T20:56:39.191Z"
 status: "active"
 ---
 

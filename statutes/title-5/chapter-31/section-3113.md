@@ -3,9 +3,9 @@ title: "Section 3113 - Restriction on reemployment after conviction of certain c
 usc_title: 5
 usc_section: "3113"
 chapter: 31
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "5 U.S.C. § 3113"
-generated_at: "2026-11-23T20:54:33.768Z"
+generated_at: "2026-11-23T20:56:39.008Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2109 - Quorum of Supreme Court justices absent"
 usc_title: 28
 usc_section: "2109"
 chapter: 133
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "28 U.S.C. § 2109"
-generated_at: "2026-11-23T20:55:17.120Z"
+generated_at: "2026-11-23T20:57:14.781Z"
 status: "active"
 ---
 

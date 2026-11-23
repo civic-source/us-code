@@ -3,9 +3,9 @@ title: "Section 4316 - Application of travel restrictions to personnel of certai
 usc_title: 22
 usc_section: "4316"
 chapter: 53
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 4316"
-generated_at: "2026-11-23T20:55:13.691Z"
+generated_at: "2026-11-23T20:57:12.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4022 - State and local land use controls"
 usc_title: 42
 usc_section: "4022"
 chapter: 50
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 4022"
-generated_at: "2026-11-23T20:55:51.176Z"
+generated_at: "2026-11-23T20:57:43.384Z"
 status: "active"
 ---
 

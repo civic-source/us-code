@@ -3,9 +3,9 @@ title: "Section 3355 - Multi-year plan to fulfill defensive requirements of mili
 usc_title: 22
 usc_section: "3355"
 chapter: 48
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 3355"
-generated_at: "2026-11-23T20:55:13.618Z"
+generated_at: "2026-11-23T20:57:11.941Z"
 status: "active"
 ---
 

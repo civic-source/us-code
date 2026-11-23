@@ -3,9 +3,9 @@ title: "Section 482 - Omitted"
 usc_title: 43
 usc_section: "482"
 chapter: 12
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "43 U.S.C. § 482"
-generated_at: "2026-11-23T20:55:37.697Z"
+generated_at: "2026-11-23T20:57:33.446Z"
 status: "omitted"
 ---
 

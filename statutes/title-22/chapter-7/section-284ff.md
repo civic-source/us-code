@@ -3,9 +3,9 @@ title: "Section 284ff - Exemption from securities laws; reports to Securities an
 usc_title: 22
 usc_section: "284ff"
 chapter: 7
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "22 U.S.C. § 284ff"
-generated_at: "2026-11-23T20:55:13.240Z"
+generated_at: "2026-11-23T20:57:11.602Z"
 status: "active"
 ---
 

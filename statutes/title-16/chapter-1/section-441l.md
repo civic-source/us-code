@@ -3,9 +3,9 @@ title: "Section 441l - Exchange of lands; transfer from Federal agency to admini
 usc_title: 16
 usc_section: "441l"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "16 U.S.C. § 441l"
-generated_at: "2026-11-23T20:55:04.441Z"
+generated_at: "2026-11-23T20:57:05.196Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5318 - Compliance, exemptions, and summons authority"
 usc_title: 31
 usc_section: "5318"
 chapter: 53
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "31 U.S.C. § 5318"
-generated_at: "2026-11-23T20:55:27.705Z"
+generated_at: "2026-11-23T20:57:23.029Z"
 status: "active"
 ---
 

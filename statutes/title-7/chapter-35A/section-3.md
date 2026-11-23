@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 104–127, title I, § 171(b)(2)(E) , Apr.
 usc_title: 7
 usc_section: "3"
 chapter: 35
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-11-23T20:54:38.465Z"
+generated_at: "2026-11-23T20:56:44.230Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 619 - Capital stock; by whom held; ownership of capital stock by
 usc_title: 12
 usc_section: "619"
 chapter: 6
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "12 U.S.C. § 619"
-generated_at: "2026-11-23T20:54:49.945Z"
+generated_at: "2026-11-23T20:56:54.037Z"
 status: "active"
 ---
 

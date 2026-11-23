@@ -3,9 +3,9 @@ title: "Section 5182 - Cross references"
 usc_title: 26
 usc_section: "5182"
 chapter: 51
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "26 U.S.C. § 5182"
-generated_at: "2026-11-23T20:55:25.076Z"
+generated_at: "2026-11-23T20:57:20.405Z"
 status: "active"
 ---
 

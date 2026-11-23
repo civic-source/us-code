@@ -3,9 +3,9 @@ title: "Section 4710 - Definitions"
 usc_title: 46
 usc_section: "4710"
 chapter: 47
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "46 U.S.C. § 4710"
-generated_at: "2026-11-23T20:55:55.816Z"
+generated_at: "2026-11-23T20:57:47.512Z"
 status: "active"
 ---
 

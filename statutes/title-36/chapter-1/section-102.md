@@ -3,9 +3,9 @@ title: "Section 102 - Asian/Pacific American Heritage Month"
 usc_title: 36
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 102"
-generated_at: "2026-11-23T20:55:31.693Z"
+generated_at: "2026-11-23T20:57:28.607Z"
 status: "active"
 ---
 

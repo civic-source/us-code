@@ -3,9 +3,9 @@ title: "Section 7732 - Collection of information"
 usc_title: 7
 usc_section: "7732"
 chapter: 104
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "7 U.S.C. § 7732"
-generated_at: "2026-11-23T20:54:38.918Z"
+generated_at: "2026-11-23T20:56:44.641Z"
 status: "active"
 ---
 

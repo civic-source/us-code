@@ -3,9 +3,9 @@ title: "Section 240103 - Purposes"
 usc_title: 36
 usc_section: "240103"
 chapter: 2401
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "36 U.S.C. § 240103"
-generated_at: "2026-11-23T20:55:31.878Z"
+generated_at: "2026-11-23T20:57:28.784Z"
 status: "active"
 ---
 

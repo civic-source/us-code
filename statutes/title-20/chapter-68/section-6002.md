@@ -3,9 +3,9 @@ title: "Section 6002 - Findings"
 usc_title: 20
 usc_section: "6002"
 chapter: 68
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "20 U.S.C. § 6002"
-generated_at: "2026-11-23T20:55:00.912Z"
+generated_at: "2026-11-23T20:57:02.298Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1490e - Programs of technical and supervisory assistance for low
 usc_title: 42
 usc_section: "1490e"
 chapter: 8
-current_through: "PL 119-102not101"
+current_through: "PL 119-102"
 classification: "42 U.S.C. § 1490e"
-generated_at: "2026-11-23T20:55:50.741Z"
+generated_at: "2026-11-23T20:57:43.113Z"
 status: "active"
 ---
 
