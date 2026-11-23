@@ -3,9 +3,9 @@ title: "Section 1828 - Rules and regulations"
 usc_title: 15
 usc_section: "1828"
 chapter: 44
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 1828"
-generated_at: "2026-11-23T21:14:39.144Z"
+generated_at: "2026-11-23T21:16:57.444Z"
 status: "active"
 ---
 

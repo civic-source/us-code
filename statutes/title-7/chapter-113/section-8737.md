@@ -3,9 +3,9 @@ title: "Section 8737 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "8737"
 chapter: 113
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 8737"
-generated_at: "2026-11-23T21:14:16.958Z"
+generated_at: "2026-11-23T21:16:47.032Z"
 status: "active"
 ---
 

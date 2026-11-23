@@ -3,9 +3,9 @@ title: "Section 1102 - Joint United States-Canadian Commission; establishment; f
 usc_title: 16
 usc_section: "1102"
 chapter: 22
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 1102"
-generated_at: "2026-11-23T21:14:55.415Z"
+generated_at: "2026-11-23T21:17:04.320Z"
 status: "active"
 ---
 

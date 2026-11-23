@@ -3,9 +3,9 @@ title: "Section 717 - Limitation on administrative leave"
 usc_title: 38
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 717"
-generated_at: "2026-11-23T21:15:37.608Z"
+generated_at: "2026-11-23T21:17:23.021Z"
 status: "active"
 ---
 

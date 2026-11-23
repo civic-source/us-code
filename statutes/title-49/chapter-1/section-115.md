@@ -3,9 +3,9 @@ title: "Section 115 - Transportation Security Oversight Board"
 usc_title: 49
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 115"
-generated_at: "2026-11-23T21:16:11.972Z"
+generated_at: "2026-11-23T21:17:38.851Z"
 status: "active"
 ---
 

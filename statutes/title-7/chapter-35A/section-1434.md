@@ -3,9 +3,9 @@ title: "Section 1434 - Encouragement of production of crops of which United Stat
 usc_title: 7
 usc_section: "1434"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1434"
-generated_at: "2026-11-23T21:14:16.222Z"
+generated_at: "2026-11-23T21:16:46.731Z"
 status: "active"
 ---
 

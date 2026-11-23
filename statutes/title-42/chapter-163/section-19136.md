@@ -3,9 +3,9 @@ title: "Section 19136 - Rule of construction"
 usc_title: 42
 usc_section: "19136"
 chapter: 163
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 19136"
-generated_at: "2026-11-23T21:16:03.053Z"
+generated_at: "2026-11-23T21:17:32.793Z"
 status: "active"
 ---
 

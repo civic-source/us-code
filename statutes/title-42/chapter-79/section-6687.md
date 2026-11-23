@@ -3,9 +3,9 @@ title: "Section 6687 - Critical technology strategies"
 usc_title: 42
 usc_section: "6687"
 chapter: 79
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 6687"
-generated_at: "2026-11-23T21:16:01.854Z"
+generated_at: "2026-11-23T21:17:32.324Z"
 status: "active"
 ---
 

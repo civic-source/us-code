@@ -3,9 +3,9 @@ title: "Section 9089 - Program Executive Officer for Assured Access to Space"
 usc_title: 10
 usc_section: "9089"
 chapter: 908
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 9089"
-generated_at: "2026-11-23T21:14:25.474Z"
+generated_at: "2026-11-23T21:16:51.782Z"
 status: "active"
 ---
 

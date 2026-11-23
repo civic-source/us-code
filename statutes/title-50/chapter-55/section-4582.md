@@ -3,9 +3,9 @@ title: "Section 4582 - Notification on investments"
 usc_title: 50
 usc_section: "4582"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 4582"
-generated_at: "2026-11-23T21:16:09.913Z"
+generated_at: "2026-11-23T21:17:37.308Z"
 status: "active"
 ---
 

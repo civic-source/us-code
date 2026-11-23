@@ -3,9 +3,9 @@ title: "Section 552 - Discontinuance of aid to navigation"
 usc_title: 14
 usc_section: "552"
 chapter: 5
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 552"
-generated_at: "2026-11-23T21:14:28.174Z"
+generated_at: "2026-11-23T21:16:53.755Z"
 status: "active"
 ---
 

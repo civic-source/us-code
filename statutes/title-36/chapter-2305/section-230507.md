@@ -3,9 +3,9 @@ title: "Section 230507 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "230507"
 chapter: 2305
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 230507"
-generated_at: "2026-11-23T21:15:33.906Z"
+generated_at: "2026-11-23T21:17:22.040Z"
 status: "active"
 ---
 

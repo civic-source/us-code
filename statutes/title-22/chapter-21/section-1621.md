@@ -3,9 +3,9 @@ title: "Section 1621 - Definitions"
 usc_title: 22
 usc_section: "1621"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1621"
-generated_at: "2026-11-23T21:15:04.664Z"
+generated_at: "2026-11-23T21:17:09.624Z"
 status: "active"
 ---
 

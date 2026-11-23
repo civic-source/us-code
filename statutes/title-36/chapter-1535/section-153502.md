@@ -3,9 +3,9 @@ title: "Section 153502 - Purposes"
 usc_title: 36
 usc_section: "153502"
 chapter: 1535
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 153502"
-generated_at: "2026-11-23T21:15:33.799Z"
+generated_at: "2026-11-23T21:17:22.007Z"
 status: "active"
 ---
 

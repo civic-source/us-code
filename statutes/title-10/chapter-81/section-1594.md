@@ -3,9 +3,9 @@ title: "Section 1594 - Reimbursement for financial institution charges incurred 
 usc_title: 10
 usc_section: "1594"
 chapter: 81
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1594"
-generated_at: "2026-11-23T21:14:24.592Z"
+generated_at: "2026-11-23T21:16:51.395Z"
 status: "active"
 ---
 

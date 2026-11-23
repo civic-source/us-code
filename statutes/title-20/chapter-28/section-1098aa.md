@@ -3,9 +3,9 @@ title: "Section 1098aa - Short title; findings; reference"
 usc_title: 20
 usc_section: "1098aa"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1098aa"
-generated_at: "2026-11-23T21:14:49.896Z"
+generated_at: "2026-11-23T21:17:02.192Z"
 status: "active"
 ---
 

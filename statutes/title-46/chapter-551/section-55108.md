@@ -3,9 +3,9 @@ title: "Section 55108 - Platform jackets"
 usc_title: 46
 usc_section: "55108"
 chapter: 551
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 55108"
-generated_at: "2026-11-23T21:16:07.958Z"
+generated_at: "2026-11-23T21:17:36.287Z"
 status: "active"
 ---
 

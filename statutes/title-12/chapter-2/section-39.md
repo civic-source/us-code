@@ -3,9 +3,9 @@ title: "Section 39 - Reservation of rights of associations organized under Act o
 usc_title: 12
 usc_section: "39"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 39"
-generated_at: "2026-11-23T21:14:32.519Z"
+generated_at: "2026-11-23T21:16:55.123Z"
 status: "active"
 ---
 

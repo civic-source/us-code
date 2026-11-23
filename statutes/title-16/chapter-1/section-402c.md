@@ -3,9 +3,9 @@ title: "Section 402c - Further additions to park"
 usc_title: 16
 usc_section: "402c"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 402c"
-generated_at: "2026-11-23T21:14:54.670Z"
+generated_at: "2026-11-23T21:17:04.008Z"
 status: "active"
 ---
 

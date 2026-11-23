@@ -3,9 +3,9 @@ title: "Section 2568 - Payments to Humphrey Institute and Dirksen Center; proced
 usc_title: 20
 usc_section: "2568"
 chapter: 45
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 2568"
-generated_at: "2026-11-23T21:14:50.062Z"
+generated_at: "2026-11-23T21:17:02.262Z"
 status: "active"
 ---
 

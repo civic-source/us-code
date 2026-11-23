@@ -3,9 +3,9 @@ title: "Section 5357 - Premises"
 usc_title: 26
 usc_section: "5357"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 5357"
-generated_at: "2026-11-23T21:15:22.213Z"
+generated_at: "2026-11-23T21:17:16.475Z"
 status: "active"
 ---
 

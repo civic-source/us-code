@@ -3,9 +3,9 @@ title: "Section 475 - Renumbered § 405]"
 usc_title: 37
 usc_section: "475"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "37 U.S.C. § 475"
-generated_at: "2026-11-23T21:15:32.394Z"
+generated_at: "2026-11-23T21:17:21.420Z"
 status: "renumbered"
 ---
 

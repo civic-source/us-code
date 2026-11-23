@@ -3,9 +3,9 @@ title: "Section 1176 - Enlisted members: retention after completion of 18 or mor
 usc_title: 10
 usc_section: "1176"
 chapter: 59
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1176"
-generated_at: "2026-11-23T21:14:24.475Z"
+generated_at: "2026-11-23T21:16:51.344Z"
 status: "active"
 ---
 

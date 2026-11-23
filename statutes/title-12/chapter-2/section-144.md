@@ -3,9 +3,9 @@ title: "Section 144 - Certain balances counted toward reserves in dependencies a
 usc_title: 12
 usc_section: "144"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 144"
-generated_at: "2026-11-23T21:14:32.533Z"
+generated_at: "2026-11-23T21:16:55.133Z"
 status: "active"
 ---
 

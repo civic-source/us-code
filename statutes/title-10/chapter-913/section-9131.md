@@ -3,9 +3,9 @@ title: "Section 9131 - Definition"
 usc_title: 10
 usc_section: "9131"
 chapter: 913
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 9131"
-generated_at: "2026-11-23T21:14:25.475Z"
+generated_at: "2026-11-23T21:16:51.782Z"
 status: "active"
 ---
 

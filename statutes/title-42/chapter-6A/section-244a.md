@@ -3,9 +3,9 @@ title: "Section 244a - Materials and resources to increase education and awarene
 usc_title: 42
 usc_section: "244a"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 244a"
-generated_at: "2026-11-23T21:15:59.273Z"
+generated_at: "2026-11-23T21:17:31.249Z"
 status: "active"
 ---
 

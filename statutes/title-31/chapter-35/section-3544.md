@@ -3,9 +3,9 @@ title: "Section 3544 - Rights and remedies of the United States Government reser
 usc_title: 31
 usc_section: "3544"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "31 U.S.C. § 3544"
-generated_at: "2026-11-23T21:15:25.738Z"
+generated_at: "2026-11-23T21:17:19.111Z"
 status: "active"
 ---
 

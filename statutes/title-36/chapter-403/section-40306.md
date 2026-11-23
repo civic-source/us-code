@@ -3,9 +3,9 @@ title: "Section 40306 - Exclusive right to name, insignia, copyrights, emblems, 
 usc_title: 36
 usc_section: "40306"
 chapter: 403
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 40306"
-generated_at: "2026-11-23T21:15:33.647Z"
+generated_at: "2026-11-23T21:17:21.956Z"
 status: "active"
 ---
 

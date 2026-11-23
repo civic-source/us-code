@@ -3,9 +3,9 @@ title: "Section 6202 - Hanford waste tank cleanup program reforms"
 usc_title: 10
 usc_section: "6202"
 chapter: 604
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6202"
-generated_at: "2026-11-23T21:14:25.164Z"
+generated_at: "2026-11-23T21:16:51.649Z"
 status: "active"
 ---
 

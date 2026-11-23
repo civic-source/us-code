@@ -3,9 +3,9 @@ title: "Section 2892 - Maintenance work order system for housing units"
 usc_title: 10
 usc_section: "2892"
 chapter: 169
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2892"
-generated_at: "2026-11-23T21:14:24.936Z"
+generated_at: "2026-11-23T21:16:51.540Z"
 status: "active"
 ---
 

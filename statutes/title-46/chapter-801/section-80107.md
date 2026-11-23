@@ -3,9 +3,9 @@ title: "Section 80107 - Salvors of life to share in remuneration"
 usc_title: 46
 usc_section: "80107"
 chapter: 801
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 80107"
-generated_at: "2026-11-23T21:16:08.043Z"
+generated_at: "2026-11-23T21:17:36.333Z"
 status: "active"
 ---
 

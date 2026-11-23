@@ -3,9 +3,9 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-11-23T21:15:37.726Z"
+generated_at: "2026-11-23T21:17:23.065Z"
 status: "active"
 ---
 

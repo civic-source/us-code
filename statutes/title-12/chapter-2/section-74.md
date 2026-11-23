@@ -3,9 +3,9 @@ title: "Section 74 - Vacancies"
 usc_title: 12
 usc_section: "74"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 74"
-generated_at: "2026-11-23T21:14:32.526Z"
+generated_at: "2026-11-23T21:16:55.125Z"
 status: "active"
 ---
 

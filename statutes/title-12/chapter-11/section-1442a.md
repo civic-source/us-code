@@ -3,9 +3,9 @@ title: "Section 1442a - Repealed. Pub. L. 106–102, title VI, § 606(c) , Nov. 
 usc_title: 12
 usc_section: "1442a"
 chapter: 11
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 1442a"
-generated_at: "2026-11-23T21:14:32.681Z"
+generated_at: "2026-11-23T21:16:55.223Z"
 status: "repealed"
 ---
 

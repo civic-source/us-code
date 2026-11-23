@@ -3,9 +3,9 @@ title: "Section 130f - Notification requirements for sensitive military operatio
 usc_title: 10
 usc_section: "130f"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-11-23T21:14:23.998Z"
+generated_at: "2026-11-23T21:16:51.129Z"
 status: "active"
 ---
 

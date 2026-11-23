@@ -3,9 +3,9 @@ title: "Section 2039 - Advisory Committee on Reactor Safeguards; composition; te
 usc_title: 42
 usc_section: "2039"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 2039"
-generated_at: "2026-11-23T21:16:01.207Z"
+generated_at: "2026-11-23T21:17:32.081Z"
 status: "active"
 ---
 

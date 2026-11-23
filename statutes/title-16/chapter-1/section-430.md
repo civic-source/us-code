@@ -3,9 +3,9 @@ title: "Section 430 - Kings Mountain National Military Park; establishment"
 usc_title: 16
 usc_section: "430"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 430"
-generated_at: "2026-11-23T21:14:54.832Z"
+generated_at: "2026-11-23T21:17:04.071Z"
 status: "active"
 ---
 

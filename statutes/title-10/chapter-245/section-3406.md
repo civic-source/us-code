@@ -3,9 +3,9 @@ title: "Section 3406 - Task and delivery order contracts: orders"
 usc_title: 10
 usc_section: "3406"
 chapter: 245
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 3406"
-generated_at: "2026-11-23T21:14:24.991Z"
+generated_at: "2026-11-23T21:16:51.563Z"
 status: "active"
 ---
 

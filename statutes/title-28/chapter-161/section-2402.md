@@ -3,9 +3,9 @@ title: "Section 2402 - Jury trial in actions against United States"
 usc_title: 28
 usc_section: "2402"
 chapter: 161
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "28 U.S.C. § 2402"
-generated_at: "2026-11-23T21:15:10.990Z"
+generated_at: "2026-11-23T21:17:12.179Z"
 status: "active"
 ---
 

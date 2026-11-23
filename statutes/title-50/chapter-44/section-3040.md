@@ -3,9 +3,9 @@ title: "Section 3040 - Disclosure of foreign intelligence acquired in criminal i
 usc_title: 50
 usc_section: "3040"
 chapter: 44
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 3040"
-generated_at: "2026-11-23T21:16:09.702Z"
+generated_at: "2026-11-23T21:17:37.207Z"
 status: "active"
 ---
 

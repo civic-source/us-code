@@ -3,9 +3,9 @@ title: "Section 42 - Court review of orders"
 usc_title: 15
 usc_section: "42"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 42"
-generated_at: "2026-11-23T21:14:38.506Z"
+generated_at: "2026-11-23T21:16:57.223Z"
 status: "active"
 ---
 

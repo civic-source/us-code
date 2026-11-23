@@ -3,9 +3,9 @@ title: "Section 262d - Human rights and United States assistance policies with i
 usc_title: 22
 usc_section: "262d"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 262d"
-generated_at: "2026-11-23T21:15:04.464Z"
+generated_at: "2026-11-23T21:17:09.554Z"
 status: "active"
 ---
 

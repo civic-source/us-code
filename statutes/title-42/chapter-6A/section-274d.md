@@ -3,9 +3,9 @@ title: "Section 274d - Report"
 usc_title: 42
 usc_section: "274d"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 274d"
-generated_at: "2026-11-23T21:15:59.422Z"
+generated_at: "2026-11-23T21:17:31.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6705 - Cooperation between Institutes and Federal agencies"
 usc_title: 16
 usc_section: "6705"
 chapter: 86
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 6705"
-generated_at: "2026-11-23T21:14:55.958Z"
+generated_at: "2026-11-23T21:17:04.535Z"
 status: "active"
 ---
 

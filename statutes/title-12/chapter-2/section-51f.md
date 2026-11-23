@@ -3,9 +3,9 @@ title: "Section 51f - Repealed. June 30, 1947, ch. 166 , title II, § 206(b), (o
 usc_title: 12
 usc_section: "51f"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 51f"
-generated_at: "2026-11-23T21:14:32.521Z"
+generated_at: "2026-11-23T21:16:55.124Z"
 status: "repealed"
 ---
 

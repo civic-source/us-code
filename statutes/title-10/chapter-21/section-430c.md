@@ -3,9 +3,9 @@ title: "Section 430c - Senior Intelligence Oversight Official"
 usc_title: 10
 usc_section: "430c"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 430c"
-generated_at: "2026-11-23T21:14:24.119Z"
+generated_at: "2026-11-23T21:16:51.184Z"
 status: "active"
 ---
 

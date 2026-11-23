@@ -3,9 +3,9 @@ title: "Section 841 - Credit for foreign taxes"
 usc_title: 26
 usc_section: "841"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 841"
-generated_at: "2026-11-23T21:15:21.685Z"
+generated_at: "2026-11-23T21:17:16.243Z"
 status: "active"
 ---
 

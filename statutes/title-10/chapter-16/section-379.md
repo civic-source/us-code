@@ -3,9 +3,9 @@ title: "Section 379 - Renumbered § 279]"
 usc_title: 10
 usc_section: "379"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 379"
-generated_at: "2026-11-23T21:14:24.100Z"
+generated_at: "2026-11-23T21:16:51.175Z"
 status: "renumbered"
 ---
 

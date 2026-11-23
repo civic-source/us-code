@@ -3,9 +3,9 @@ title: "Section 8501 - Vesting of property left by decedents"
 usc_title: 38
 usc_section: "8501"
 chapter: 85
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 8501"
-generated_at: "2026-11-23T21:15:38.173Z"
+generated_at: "2026-11-23T21:17:23.239Z"
 status: "active"
 ---
 

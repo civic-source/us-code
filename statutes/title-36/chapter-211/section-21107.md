@@ -3,9 +3,9 @@ title: "Section 21107 - Restrictions"
 usc_title: 36
 usc_section: "21107"
 chapter: 211
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 21107"
-generated_at: "2026-11-23T21:15:33.591Z"
+generated_at: "2026-11-23T21:17:21.930Z"
 status: "active"
 ---
 

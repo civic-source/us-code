@@ -3,9 +3,9 @@ title: "Section 421a - Construction of distribution and drainage systems by irri
 usc_title: 43
 usc_section: "421a"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 421a"
-generated_at: "2026-11-23T21:15:43.008Z"
+generated_at: "2026-11-23T21:17:26.384Z"
 status: "active"
 ---
 

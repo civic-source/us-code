@@ -3,9 +3,9 @@ title: "Section 407cc - Acquisition of site for and operation of Center"
 usc_title: 16
 usc_section: "407cc"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 407cc"
-generated_at: "2026-11-23T21:14:54.684Z"
+generated_at: "2026-11-23T21:17:04.013Z"
 status: "active"
 ---
 

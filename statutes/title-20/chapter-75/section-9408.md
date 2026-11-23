@@ -3,9 +3,9 @@ title: "Section 9408 - Reservations and allotments"
 usc_title: 20
 usc_section: "9408"
 chapter: 75
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 9408"
-generated_at: "2026-11-23T21:14:50.326Z"
+generated_at: "2026-11-23T21:17:02.366Z"
 status: "active"
 ---
 

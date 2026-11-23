@@ -3,9 +3,9 @@ title: "Section 4 - Education program"
 usc_title: 7
 usc_section: "4"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-11-23T21:14:16.176Z"
+generated_at: "2026-11-23T21:16:46.710Z"
 status: "active"
 ---
 

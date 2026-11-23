@@ -3,9 +3,9 @@ title: "Section 3753 - Disaster relief"
 usc_title: 22
 usc_section: "3753"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3753"
-generated_at: "2026-11-23T21:15:05.129Z"
+generated_at: "2026-11-23T21:17:09.812Z"
 status: "active"
 ---
 

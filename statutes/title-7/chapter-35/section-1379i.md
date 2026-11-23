@@ -3,9 +3,9 @@ title: "Section 1379i - Penalties"
 usc_title: 7
 usc_section: "1379i"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1379i"
-generated_at: "2026-11-23T21:14:16.209Z"
+generated_at: "2026-11-23T21:16:46.723Z"
 status: "active"
 ---
 

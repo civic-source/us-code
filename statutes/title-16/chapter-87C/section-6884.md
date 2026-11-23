@@ -3,9 +3,9 @@ title: "Section 6884 - Cooperation and coordination"
 usc_title: 16
 usc_section: "6884"
 chapter: 87
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 6884"
-generated_at: "2026-11-23T21:14:55.971Z"
+generated_at: "2026-11-23T21:17:04.545Z"
 status: "active"
 ---
 

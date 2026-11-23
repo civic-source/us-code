@@ -3,9 +3,9 @@ title: "Section 2 - Grants to upgrade agriculture and food sciences facilities a
 usc_title: 7
 usc_section: "2"
 chapter: 64
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T21:14:16.628Z"
+generated_at: "2026-11-23T21:16:46.903Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1036 - Graduate fellowships to prepare faculty in high-need area
 usc_title: 20
 usc_section: "1036"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1036"
-generated_at: "2026-11-23T21:14:49.677Z"
+generated_at: "2026-11-23T21:17:02.108Z"
 status: "active"
 ---
 

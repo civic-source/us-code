@@ -3,9 +3,9 @@ title: "Section 326 - Maintenance of printing office in Washington, D.C."
 usc_title: 15
 usc_section: "326"
 chapter: 9
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 326"
-generated_at: "2026-11-23T21:14:38.582Z"
+generated_at: "2026-11-23T21:16:57.253Z"
 status: "active"
 ---
 

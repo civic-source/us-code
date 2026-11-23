@@ -3,9 +3,9 @@ title: "Section 32706 - Inspections, investigations, and records"
 usc_title: 49
 usc_section: "32706"
 chapter: 327
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 32706"
-generated_at: "2026-11-23T21:16:12.322Z"
+generated_at: "2026-11-23T21:17:39.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11a - Interest prohibited when reimbursing Corporation for net r
 usc_title: 15
 usc_section: "11a"
 chapter: 15
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 11a"
-generated_at: "2026-11-23T21:14:38.799Z"
+generated_at: "2026-11-23T21:16:57.328Z"
 status: "active"
 ---
 

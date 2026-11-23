@@ -3,9 +3,9 @@ title: "Section 419A - Qualified asset account; limitation on additions to accou
 usc_title: 26
 usc_section: "419A"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 419A"
-generated_at: "2026-11-23T21:15:21.476Z"
+generated_at: "2026-11-23T21:17:16.158Z"
 status: "active"
 ---
 

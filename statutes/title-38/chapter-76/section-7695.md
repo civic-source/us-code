@@ -3,9 +3,9 @@ title: "Section 7695 - Choice of location"
 usc_title: 38
 usc_section: "7695"
 chapter: 76
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 7695"
-generated_at: "2026-11-23T21:15:38.127Z"
+generated_at: "2026-11-23T21:17:23.221Z"
 status: "active"
 ---
 

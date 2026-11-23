@@ -3,9 +3,9 @@ title: "Section 2753 - Repealed. Pub. L. 104–134, title I, § 101(c) [title I,
 usc_title: 33
 usc_section: "2753"
 chapter: 40
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 2753"
-generated_at: "2026-11-23T21:15:29.866Z"
+generated_at: "2026-11-23T21:17:19.982Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2278 - Consistency with international obligations of United Stat
 usc_title: 7
 usc_section: "2278"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2278"
-generated_at: "2026-11-23T21:14:16.553Z"
+generated_at: "2026-11-23T21:16:46.872Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 71 - Definitions"
 usc_title: 21
 usc_section: "71"
 chapter: 9
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "21 U.S.C. § 71"
-generated_at: "2026-11-23T21:15:07.118Z"
+generated_at: "2026-11-23T21:17:07.127Z"
 status: "active"
 ---
 

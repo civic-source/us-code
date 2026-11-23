@@ -3,9 +3,9 @@ title: "Section 60105 - Governing body"
 usc_title: 36
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 60105"
-generated_at: "2026-11-23T21:15:33.666Z"
+generated_at: "2026-11-23T21:17:21.963Z"
 status: "active"
 ---
 

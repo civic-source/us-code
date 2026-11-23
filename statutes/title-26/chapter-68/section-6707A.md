@@ -3,9 +3,9 @@ title: "Section 6707A - Penalty for failure to include reportable transaction in
 usc_title: 26
 usc_section: "6707A"
 chapter: 68
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 6707A"
-generated_at: "2026-11-23T21:15:22.477Z"
+generated_at: "2026-11-23T21:17:16.586Z"
 status: "active"
 ---
 

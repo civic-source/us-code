@@ -3,9 +3,9 @@ title: "Section 2315a - Transparency in accounting and administrative expenses"
 usc_title: 33
 usc_section: "2315a"
 chapter: 36
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 2315a"
-generated_at: "2026-11-23T21:15:29.815Z"
+generated_at: "2026-11-23T21:17:19.958Z"
 status: "active"
 ---
 

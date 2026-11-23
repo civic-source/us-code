@@ -3,9 +3,9 @@ title: "Section 3715a - Operation of Fund"
 usc_title: 22
 usc_section: "3715a"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3715a"
-generated_at: "2026-11-23T21:15:05.126Z"
+generated_at: "2026-11-23T21:17:09.810Z"
 status: "active"
 ---
 

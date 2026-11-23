@@ -3,9 +3,9 @@ title: "Section 2616 - Specific enforcement and seizure"
 usc_title: 15
 usc_section: "2616"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 2616"
-generated_at: "2026-11-23T21:14:39.241Z"
+generated_at: "2026-11-23T21:16:57.545Z"
 status: "active"
 ---
 

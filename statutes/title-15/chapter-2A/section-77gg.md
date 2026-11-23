@@ -3,9 +3,9 @@ title: "Section 77gg - Annual report by Corporation; printing and distribution"
 usc_title: 15
 usc_section: "77gg"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 77gg"
-generated_at: "2026-11-23T21:14:38.062Z"
+generated_at: "2026-11-23T21:16:57.160Z"
 status: "active"
 ---
 

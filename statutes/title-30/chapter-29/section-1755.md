@@ -3,9 +3,9 @@ title: "Section 1755 - Statute of limitations"
 usc_title: 30
 usc_section: "1755"
 chapter: 29
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "30 U.S.C. § 1755"
-generated_at: "2026-11-23T21:15:09.410Z"
+generated_at: "2026-11-23T21:17:11.556Z"
 status: "active"
 ---
 

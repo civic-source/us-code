@@ -3,9 +3,9 @@ title: "Section 324 - Rule of construction"
 usc_title: 5
 usc_section: "324"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 324"
-generated_at: "2026-11-23T21:14:06.818Z"
+generated_at: "2026-11-23T21:16:42.555Z"
 status: "active"
 ---
 

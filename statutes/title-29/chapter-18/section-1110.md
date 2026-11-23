@@ -3,9 +3,9 @@ title: "Section 1110 - Exculpatory provisions; insurance"
 usc_title: 29
 usc_section: "1110"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 1110"
-generated_at: "2026-11-23T21:15:12.734Z"
+generated_at: "2026-11-23T21:17:12.811Z"
 status: "active"
 ---
 

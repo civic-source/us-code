@@ -3,9 +3,9 @@ title: "Section 2793 - Renumbered § 452]"
 usc_title: 10
 usc_section: "2793"
 chapter: 167
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2793"
-generated_at: "2026-11-23T21:14:24.883Z"
+generated_at: "2026-11-23T21:16:51.520Z"
 status: "renumbered"
 ---
 

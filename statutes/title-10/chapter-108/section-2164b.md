@@ -3,9 +3,9 @@ title: "Section 2164b - Eligibility of certain dependents for enrollment in dome
 usc_title: 10
 usc_section: "2164b"
 chapter: 108
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2164b"
-generated_at: "2026-11-23T21:14:24.678Z"
+generated_at: "2026-11-23T21:16:51.431Z"
 status: "active"
 ---
 

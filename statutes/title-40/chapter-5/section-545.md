@@ -3,9 +3,9 @@ title: "Section 545 - Procedure for disposal"
 usc_title: 40
 usc_section: "545"
 chapter: 5
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "40 U.S.C. § 545"
-generated_at: "2026-11-23T21:15:34.626Z"
+generated_at: "2026-11-23T21:17:23.651Z"
 status: "active"
 ---
 

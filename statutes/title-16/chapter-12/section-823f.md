@@ -3,9 +3,9 @@ title: "Section 823f - Closed-loop pumped storage projects"
 usc_title: 16
 usc_section: "823f"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 823f"
-generated_at: "2026-11-23T21:14:55.310Z"
+generated_at: "2026-11-23T21:17:04.278Z"
 status: "active"
 ---
 

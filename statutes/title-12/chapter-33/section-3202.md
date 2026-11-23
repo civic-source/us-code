@@ -3,9 +3,9 @@ title: "Section 3202 - Dual service of management official as management officia
 usc_title: 12
 usc_section: "3202"
 chapter: 33
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 3202"
-generated_at: "2026-11-23T21:14:33.250Z"
+generated_at: "2026-11-23T21:16:55.559Z"
 status: "active"
 ---
 

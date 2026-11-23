@@ -3,9 +3,9 @@ title: "Section 11302 - Manner of making entries"
 usc_title: 46
 usc_section: "11302"
 chapter: 113
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 11302"
-generated_at: "2026-11-23T21:16:07.760Z"
+generated_at: "2026-11-23T21:17:36.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5309 - Fixed guideway capital investment grants"
 usc_title: 49
 usc_section: "5309"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 5309"
-generated_at: "2026-11-23T21:16:12.039Z"
+generated_at: "2026-11-23T21:17:38.903Z"
 status: "active"
 ---
 

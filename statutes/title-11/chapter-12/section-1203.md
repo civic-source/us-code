@@ -3,9 +3,9 @@ title: "Section 1203 - Rights and powers of debtor"
 usc_title: 11
 usc_section: "1203"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "11 U.S.C. § 1203"
-generated_at: "2026-11-23T21:14:28.955Z"
+generated_at: "2026-11-23T21:16:53.463Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6050L - Returns relating to certain donated property"
 usc_title: 26
 usc_section: "6050L"
 chapter: 61
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 6050L"
-generated_at: "2026-11-23T21:15:22.295Z"
+generated_at: "2026-11-23T21:17:16.509Z"
 status: "active"
 ---
 

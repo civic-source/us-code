@@ -3,9 +3,9 @@ title: "Section 166a - Combatant commands: funding through the Chairman of Joint
 usc_title: 10
 usc_section: "166a"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 166a"
-generated_at: "2026-11-23T21:14:24.026Z"
+generated_at: "2026-11-23T21:16:51.142Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13101 - Definitions"
 usc_title: 46
 usc_section: "13101"
 chapter: 131
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 13101"
-generated_at: "2026-11-23T21:16:07.779Z"
+generated_at: "2026-11-23T21:17:36.203Z"
 status: "active"
 ---
 

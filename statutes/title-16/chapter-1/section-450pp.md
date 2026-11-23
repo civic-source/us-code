@@ -3,9 +3,9 @@ title: "Section 450pp - Roger Williams National Memorial; acquisition of site"
 usc_title: 16
 usc_section: "450pp"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 450pp"
-generated_at: "2026-11-23T21:14:54.872Z"
+generated_at: "2026-11-23T21:17:04.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7702 - Administrative procedure"
 usc_title: 46
 usc_section: "7702"
 chapter: 77
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 7702"
-generated_at: "2026-11-23T21:16:07.724Z"
+generated_at: "2026-11-23T21:17:36.174Z"
 status: "active"
 ---
 

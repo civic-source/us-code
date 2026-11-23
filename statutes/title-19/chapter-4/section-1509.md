@@ -3,9 +3,9 @@ title: "Section 1509 - Examination of books and witnesses"
 usc_title: 19
 usc_section: "1509"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "19 U.S.C. § 1509"
-generated_at: "2026-11-23T21:14:46.067Z"
+generated_at: "2026-11-23T21:17:00.754Z"
 status: "active"
 ---
 

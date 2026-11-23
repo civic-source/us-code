@@ -3,9 +3,9 @@ title: "Section 1399 - Partition action involving United States"
 usc_title: 28
 usc_section: "1399"
 chapter: 87
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "28 U.S.C. § 1399"
-generated_at: "2026-11-23T21:15:10.915Z"
+generated_at: "2026-11-23T21:17:12.149Z"
 status: "active"
 ---
 

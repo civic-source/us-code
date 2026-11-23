@@ -3,9 +3,9 @@ title: "Section 6321 - Bilateral and multilateral initiatives"
 usc_title: 22
 usc_section: "6321"
 chapter: 72
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 6321"
-generated_at: "2026-11-23T21:15:05.322Z"
+generated_at: "2026-11-23T21:17:09.895Z"
 status: "active"
 ---
 

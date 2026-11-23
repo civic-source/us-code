@@ -3,9 +3,9 @@ title: "Section 2093 - Forfeiture of unlawful imports"
 usc_title: 19
 usc_section: "2093"
 chapter: 11
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "19 U.S.C. § 2093"
-generated_at: "2026-11-23T21:14:46.178Z"
+generated_at: "2026-11-23T21:17:00.800Z"
 status: "active"
 ---
 

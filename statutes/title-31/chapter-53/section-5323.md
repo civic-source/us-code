@@ -3,9 +3,9 @@ title: "Section 5323 - Whistleblower incentives and protections"
 usc_title: 31
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "31 U.S.C. § 5323"
-generated_at: "2026-11-23T21:15:25.841Z"
+generated_at: "2026-11-23T21:17:19.153Z"
 status: "active"
 ---
 

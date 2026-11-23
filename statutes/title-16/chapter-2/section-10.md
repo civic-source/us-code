@@ -3,9 +3,9 @@ title: "Section 10 - Judicial review"
 usc_title: 16
 usc_section: "10"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-11-23T21:14:55.105Z"
+generated_at: "2026-11-23T21:17:04.181Z"
 status: "active"
 ---
 

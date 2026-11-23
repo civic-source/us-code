@@ -3,9 +3,9 @@ title: "Section 2670 - Regulations"
 usc_title: 15
 usc_section: "2670"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 2670"
-generated_at: "2026-11-23T21:14:39.263Z"
+generated_at: "2026-11-23T21:16:57.555Z"
 status: "active"
 ---
 

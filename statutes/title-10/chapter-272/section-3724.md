@@ -3,9 +3,9 @@ title: "Section 3724 - [Reserved]"
 usc_title: 10
 usc_section: "3724"
 chapter: 272
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 3724"
-generated_at: "2026-11-23T21:14:25.008Z"
+generated_at: "2026-11-23T21:16:51.572Z"
 status: "reserved"
 ---
 

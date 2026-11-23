@@ -3,9 +3,9 @@ title: "Section 47d - Hearings; rules and regulations; conclusiveness of determi
 usc_title: 50
 usc_section: "47d"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 47d"
-generated_at: "2026-11-23T21:16:09.540Z"
+generated_at: "2026-11-23T21:17:37.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4316 - Regulations"
 usc_title: 7
 usc_section: "4316"
 chapter: 74
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 4316"
-generated_at: "2026-11-23T21:14:16.670Z"
+generated_at: "2026-11-23T21:16:46.916Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8039 - Deputy Commander of the Naval Sea Systems Command for the
 usc_title: 10
 usc_section: "8039"
 chapter: 805
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8039"
-generated_at: "2026-11-23T21:14:25.289Z"
+generated_at: "2026-11-23T21:16:51.700Z"
 status: "active"
 ---
 

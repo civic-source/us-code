@@ -3,9 +3,9 @@ title: "Section 32301 - Definitions"
 usc_title: 49
 usc_section: "32301"
 chapter: 323
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 32301"
-generated_at: "2026-11-23T21:16:12.310Z"
+generated_at: "2026-11-23T21:17:39.075Z"
 status: "active"
 ---
 

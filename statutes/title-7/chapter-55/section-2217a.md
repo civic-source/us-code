@@ -3,9 +3,9 @@ title: "Section 2217a - Power to administer oaths, examine witnesses, or require
 usc_title: 7
 usc_section: "2217a"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2217a"
-generated_at: "2026-11-23T21:14:16.541Z"
+generated_at: "2026-11-23T21:16:46.867Z"
 status: "active"
 ---
 

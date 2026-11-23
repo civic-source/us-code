@@ -3,9 +3,9 @@ title: "Section 1100 - Omitted"
 usc_title: 7
 usc_section: "1100"
 chapter: 34
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1100"
-generated_at: "2026-11-23T21:14:16.166Z"
+generated_at: "2026-11-23T21:16:46.705Z"
 status: "omitted"
 ---
 

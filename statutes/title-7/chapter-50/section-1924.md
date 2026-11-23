@@ -3,9 +3,9 @@ title: "Section 1924 - Conservation loan and loan guarantee program"
 usc_title: 7
 usc_section: "1924"
 chapter: 50
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1924"
-generated_at: "2026-11-23T21:14:16.373Z"
+generated_at: "2026-11-23T21:16:46.795Z"
 status: "active"
 ---
 

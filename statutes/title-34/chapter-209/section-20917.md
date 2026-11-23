@@ -3,9 +3,9 @@ title: "Section 20917 - Checking system for social networking websites"
 usc_title: 34
 usc_section: "20917"
 chapter: 209
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "34 U.S.C. § 20917"
-generated_at: "2026-11-23T21:15:27.385Z"
+generated_at: "2026-11-23T21:17:18.601Z"
 status: "active"
 ---
 

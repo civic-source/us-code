@@ -3,9 +3,9 @@ title: "Section 201 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "201"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "24 U.S.C. § 201"
-generated_at: "2026-11-23T21:14:57.659Z"
+generated_at: "2026-11-23T21:17:05.800Z"
 status: "repealed"
 ---
 

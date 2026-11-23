@@ -3,9 +3,9 @@ title: "Section 42 - Repealed. Pub. L. 90–391, § 13 , July 7, 1968 , 82 Stat.
 usc_title: 29
 usc_section: "42"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 42"
-generated_at: "2026-11-23T21:15:12.515Z"
+generated_at: "2026-11-23T21:17:12.717Z"
 status: "repealed"
 ---
 

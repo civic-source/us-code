@@ -3,9 +3,9 @@ title: "Section 4314 - Ratings for performance appraisals"
 usc_title: 5
 usc_section: "4314"
 chapter: 43
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 4314"
-generated_at: "2026-11-23T21:14:07.070Z"
+generated_at: "2026-11-23T21:16:42.648Z"
 status: "active"
 ---
 

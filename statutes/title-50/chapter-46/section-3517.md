@@ -3,9 +3,9 @@ title: "Section 3517 - Inspector General for Agency"
 usc_title: 50
 usc_section: "3517"
 chapter: 46
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 3517"
-generated_at: "2026-11-23T21:16:09.807Z"
+generated_at: "2026-11-23T21:17:37.255Z"
 status: "active"
 ---
 

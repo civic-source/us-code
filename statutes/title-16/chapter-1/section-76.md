@@ -3,9 +3,9 @@ title: "Section 76 - Federal reserved water rights"
 usc_title: 16
 usc_section: "76"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 76"
-generated_at: "2026-11-23T21:14:54.756Z"
+generated_at: "2026-11-23T21:17:04.039Z"
 status: "active"
 ---
 

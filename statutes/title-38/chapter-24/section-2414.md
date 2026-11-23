@@ -3,9 +3,9 @@ title: "Section 2414 - Communication between Department of Veterans Affairs and 
 usc_title: 38
 usc_section: "2414"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 2414"
-generated_at: "2026-11-23T21:15:37.828Z"
+generated_at: "2026-11-23T21:17:23.106Z"
 status: "active"
 ---
 

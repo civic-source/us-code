@@ -3,9 +3,9 @@ title: "Section 1106 - Employees"
 usc_title: 16
 usc_section: "1106"
 chapter: 22
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 1106"
-generated_at: "2026-11-23T21:14:55.415Z"
+generated_at: "2026-11-23T21:17:04.320Z"
 status: "active"
 ---
 

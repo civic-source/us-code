@@ -3,9 +3,9 @@ title: "Section 2154 - Effective dates"
 usc_title: 7
 usc_section: "2154"
 chapter: 54
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2154"
-generated_at: "2026-11-23T21:14:16.528Z"
+generated_at: "2026-11-23T21:16:46.861Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2245 - Organization of Farm Credit Administration"
 usc_title: 12
 usc_section: "2245"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2245"
-generated_at: "2026-11-23T21:14:33.167Z"
+generated_at: "2026-11-23T21:16:55.497Z"
 status: "active"
 ---
 

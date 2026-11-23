@@ -3,9 +3,9 @@ title: "Section 3714 - Record of foreclosure and sale"
 usc_title: 12
 usc_section: "3714"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 3714"
-generated_at: "2026-11-23T21:14:33.275Z"
+generated_at: "2026-11-23T21:16:55.579Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6711 - Prohibited discrimination"
 usc_title: 31
 usc_section: "6711"
 chapter: 67
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "31 U.S.C. § 6711"
-generated_at: "2026-11-23T21:15:25.878Z"
+generated_at: "2026-11-23T21:17:19.168Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2151y - Accelerated loan repayments; annual review of countries 
 usc_title: 22
 usc_section: "2151y"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2151y"
-generated_at: "2026-11-23T21:15:04.759Z"
+generated_at: "2026-11-23T21:17:09.662Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 755 - Officer permitting escape"
 usc_title: 18
 usc_section: "755"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 755"
-generated_at: "2026-11-23T21:14:43.800Z"
+generated_at: "2026-11-23T21:16:59.808Z"
 status: "active"
 ---
 

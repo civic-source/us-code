@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 43
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-11-23T21:15:42.905Z"
+generated_at: "2026-11-23T21:17:26.336Z"
 status: "repealed"
 ---
 

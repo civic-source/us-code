@@ -3,9 +3,9 @@ title: "Section 8117 - Time of accrual of right"
 usc_title: 5
 usc_section: "8117"
 chapter: 81
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 8117"
-generated_at: "2026-11-23T21:14:07.515Z"
+generated_at: "2026-11-23T21:16:42.760Z"
 status: "active"
 ---
 

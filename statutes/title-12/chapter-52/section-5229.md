@@ -3,9 +3,9 @@ title: "Section 5229 - Judicial review and related matters"
 usc_title: 12
 usc_section: "5229"
 chapter: 52
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 5229"
-generated_at: "2026-11-23T21:14:33.432Z"
+generated_at: "2026-11-23T21:16:55.675Z"
 status: "active"
 ---
 

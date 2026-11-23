@@ -3,9 +3,9 @@ title: "Section 5016 - Repealed. Pub. L. 103–382, title III, § 391(i) , Oct. 
 usc_title: 20
 usc_section: "5016"
 chapter: 62
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 5016"
-generated_at: "2026-11-23T21:14:50.124Z"
+generated_at: "2026-11-23T21:17:02.288Z"
 status: "repealed"
 ---
 

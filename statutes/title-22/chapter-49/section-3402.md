@@ -3,9 +3,9 @@ title: "Section 3402 - Supplemental authorization of foreign military sales loan
 usc_title: 22
 usc_section: "3402"
 chapter: 49
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3402"
-generated_at: "2026-11-23T21:15:05.109Z"
+generated_at: "2026-11-23T21:17:09.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1772 - Vegetation managment, 1 1 So in original. Probably should
 usc_title: 43
 usc_section: "1772"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 1772"
-generated_at: "2026-11-23T21:15:43.236Z"
+generated_at: "2026-11-23T21:17:26.467Z"
 status: "active"
 ---
 

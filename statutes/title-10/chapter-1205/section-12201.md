@@ -3,9 +3,9 @@ title: "Section 12201 - Reserve officers: qualifications for appointment"
 usc_title: 10
 usc_section: "12201"
 chapter: 1205
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 12201"
-generated_at: "2026-11-23T21:14:25.585Z"
+generated_at: "2026-11-23T21:16:51.836Z"
 status: "active"
 ---
 

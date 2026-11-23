@@ -3,9 +3,9 @@ title: "Section 382 - Use of proceeds derived from criminal investigations"
 usc_title: 6
 usc_section: "382"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "6 U.S.C. § 382"
-generated_at: "2026-11-23T21:14:10.570Z"
+generated_at: "2026-11-23T21:16:44.541Z"
 status: "active"
 ---
 

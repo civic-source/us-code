@@ -3,9 +3,9 @@ title: "Section 30103 - Membership"
 usc_title: 36
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 30103"
-generated_at: "2026-11-23T21:15:33.623Z"
+generated_at: "2026-11-23T21:17:21.948Z"
 status: "active"
 ---
 

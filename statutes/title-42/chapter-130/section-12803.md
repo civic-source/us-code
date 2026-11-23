@@ -3,9 +3,9 @@ title: "Section 12803 - Rental rehabilitation"
 usc_title: 42
 usc_section: "12803"
 chapter: 130
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 12803"
-generated_at: "2026-11-23T21:16:02.602Z"
+generated_at: "2026-11-23T21:17:32.621Z"
 status: "active"
 ---
 

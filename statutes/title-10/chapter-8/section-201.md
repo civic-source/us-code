@@ -3,9 +3,9 @@ title: "Section 201 - Certain intelligence officials: consultation and concurren
 usc_title: 10
 usc_section: "201"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 201"
-generated_at: "2026-11-23T21:14:24.048Z"
+generated_at: "2026-11-23T21:16:51.152Z"
 status: "active"
 ---
 

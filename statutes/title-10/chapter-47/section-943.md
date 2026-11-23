@@ -3,9 +3,9 @@ title: "Section 943 - Art. 143. Organization and employees"
 usc_title: 10
 usc_section: "943"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 943"
-generated_at: "2026-11-23T21:14:24.308Z"
+generated_at: "2026-11-23T21:16:51.272Z"
 status: "active"
 ---
 

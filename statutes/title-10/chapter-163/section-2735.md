@@ -3,9 +3,9 @@ title: "Section 2735 - Settlement: final and conclusive"
 usc_title: 10
 usc_section: "2735"
 chapter: 163
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2735"
-generated_at: "2026-11-23T21:14:24.875Z"
+generated_at: "2026-11-23T21:16:51.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21 - Early intervention and college awareness program authorized
 usc_title: 20
 usc_section: "21"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 21"
-generated_at: "2026-11-23T21:14:49.721Z"
+generated_at: "2026-11-23T21:17:02.122Z"
 status: "active"
 ---
 

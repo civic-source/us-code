@@ -3,9 +3,9 @@ title: "Section 1 - Board of grazing district advisers; composition; meetings; d
 usc_title: 43
 usc_section: "1"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-11-23T21:15:42.963Z"
+generated_at: "2026-11-23T21:17:26.362Z"
 status: "active"
 ---
 

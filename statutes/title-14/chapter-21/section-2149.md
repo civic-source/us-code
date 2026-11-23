@@ -3,9 +3,9 @@ title: "Section 2149 - Regular captains; retirement"
 usc_title: 14
 usc_section: "2149"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 2149"
-generated_at: "2026-11-23T21:14:28.235Z"
+generated_at: "2026-11-23T21:16:53.794Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8704 - Required terms in orders"
 usc_title: 15
 usc_section: "8704"
 chapter: 113
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 8704"
-generated_at: "2026-11-23T21:14:39.531Z"
+generated_at: "2026-11-23T21:16:57.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 745 - Omitted"
 usc_title: 20
 usc_section: "745"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 745"
-generated_at: "2026-11-23T21:14:49.618Z"
+generated_at: "2026-11-23T21:17:02.081Z"
 status: "omitted"
 ---
 

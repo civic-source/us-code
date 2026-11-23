@@ -3,9 +3,9 @@ title: "Section 2734g - Promoting transparency and accountability in the Departm
 usc_title: 22
 usc_section: "2734g"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2734g"
-generated_at: "2026-11-23T21:15:05.026Z"
+generated_at: "2026-11-23T21:17:09.765Z"
 status: "active"
 ---
 

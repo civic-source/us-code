@@ -3,9 +3,9 @@ title: "Section 10211 - Statement of policy"
 usc_title: 22
 usc_section: "10211"
 chapter: 109
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 10211"
-generated_at: "2026-11-23T21:15:05.574Z"
+generated_at: "2026-11-23T21:17:10.006Z"
 status: "active"
 ---
 

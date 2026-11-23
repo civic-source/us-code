@@ -3,9 +3,9 @@ title: "Section 3235 - Venue in capital cases"
 usc_title: 18
 usc_section: "3235"
 chapter: 211
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 3235"
-generated_at: "2026-11-23T21:14:44.076Z"
+generated_at: "2026-11-23T21:16:59.953Z"
 status: "active"
 ---
 

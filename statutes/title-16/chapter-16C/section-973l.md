@@ -3,9 +3,9 @@ title: "Section 973l - Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8422
 usc_title: 16
 usc_section: "973l"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 973l"
-generated_at: "2026-11-23T21:14:55.403Z"
+generated_at: "2026-11-23T21:17:04.315Z"
 status: "repealed"
 ---
 

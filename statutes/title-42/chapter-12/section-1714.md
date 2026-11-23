@@ -3,9 +3,9 @@ title: "Section 1714 - Legal services"
 usc_title: 42
 usc_section: "1714"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 1714"
-generated_at: "2026-11-23T21:16:01.052Z"
+generated_at: "2026-11-23T21:17:32.001Z"
 status: "active"
 ---
 

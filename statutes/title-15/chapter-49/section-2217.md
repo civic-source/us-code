@@ -3,9 +3,9 @@ title: "Section 2217 - Public access to information"
 usc_title: 15
 usc_section: "2217"
 chapter: 49
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 2217"
-generated_at: "2026-11-23T21:14:39.196Z"
+generated_at: "2026-11-23T21:16:57.528Z"
 status: "active"
 ---
 

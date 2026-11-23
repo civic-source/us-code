@@ -3,9 +3,9 @@ title: "Section 3521 - Witness relocation and protection"
 usc_title: 18
 usc_section: "3521"
 chapter: 224
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 3521"
-generated_at: "2026-11-23T21:14:44.094Z"
+generated_at: "2026-11-23T21:16:59.963Z"
 status: "active"
 ---
 

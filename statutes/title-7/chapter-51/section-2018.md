@@ -3,9 +3,9 @@ title: "Section 2018 - Approval of retail food stores and wholesale food concern
 usc_title: 7
 usc_section: "2018"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2018"
-generated_at: "2026-11-23T21:14:16.481Z"
+generated_at: "2026-11-23T21:16:46.838Z"
 status: "active"
 ---
 

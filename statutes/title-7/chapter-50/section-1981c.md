@@ -3,9 +3,9 @@ title: "Section 1981c - Oil and gas royalty payments on loans"
 usc_title: 7
 usc_section: "1981c"
 chapter: 50
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1981c"
-generated_at: "2026-11-23T21:14:16.406Z"
+generated_at: "2026-11-23T21:16:46.808Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10303 - Provisions"
 usc_title: 46
 usc_section: "10303"
 chapter: 103
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 10303"
-generated_at: "2026-11-23T21:16:07.742Z"
+generated_at: "2026-11-23T21:17:36.187Z"
 status: "active"
 ---
 

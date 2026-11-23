@@ -3,9 +3,9 @@ title: "Section 6039K - Returns with respect to qualified opportunity funds and 
 usc_title: 26
 usc_section: "6039K"
 chapter: 61
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 6039K"
-generated_at: "2026-11-23T21:15:22.278Z"
+generated_at: "2026-11-23T21:17:16.502Z"
 status: "active"
 ---
 

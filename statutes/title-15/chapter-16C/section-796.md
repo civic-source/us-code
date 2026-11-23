@@ -3,9 +3,9 @@ title: "Section 796 - Reporting of energy information"
 usc_title: 15
 usc_section: "796"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 796"
-generated_at: "2026-11-23T21:14:38.857Z"
+generated_at: "2026-11-23T21:16:57.344Z"
 status: "active"
 ---
 

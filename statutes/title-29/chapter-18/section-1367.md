@@ -3,9 +3,9 @@ title: "Section 1367 - Recovery of liability for plan termination"
 usc_title: 29
 usc_section: "1367"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 1367"
-generated_at: "2026-11-23T21:15:12.806Z"
+generated_at: "2026-11-23T21:17:12.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 302a - Special pay: optometrists"
 usc_title: 37
 usc_section: "302a"
 chapter: 5
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "37 U.S.C. § 302a"
-generated_at: "2026-11-23T21:15:32.295Z"
+generated_at: "2026-11-23T21:17:21.381Z"
 status: "active"
 ---
 

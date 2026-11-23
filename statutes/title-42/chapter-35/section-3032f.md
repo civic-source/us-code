@@ -3,9 +3,9 @@ title: "Section 3032f - Demonstration, support, and research projects for multig
 usc_title: 42
 usc_section: "3032f"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 3032f"
-generated_at: "2026-11-23T21:16:01.379Z"
+generated_at: "2026-11-23T21:17:32.144Z"
 status: "active"
 ---
 

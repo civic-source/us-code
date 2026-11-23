@@ -3,9 +3,9 @@ title: "Section 4323 - Sustainment reviews"
 usc_title: 10
 usc_section: "4323"
 chapter: 323
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 4323"
-generated_at: "2026-11-23T21:14:25.063Z"
+generated_at: "2026-11-23T21:16:51.605Z"
 status: "active"
 ---
 

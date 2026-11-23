@@ -3,9 +3,9 @@ title: "Section 3033 - Suspension during war or emergency"
 usc_title: 33
 usc_section: "3033"
 chapter: 43
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 3033"
-generated_at: "2026-11-23T21:15:29.879Z"
+generated_at: "2026-11-23T21:17:19.987Z"
 status: "active"
 ---
 

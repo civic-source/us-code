@@ -3,9 +3,9 @@ title: "Section 2b - Number of Representatives from each State in 78th and subse
 usc_title: 2
 usc_section: "2b"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-11-23T21:14:02.678Z"
+generated_at: "2026-11-23T21:16:41.382Z"
 status: "active"
 ---
 

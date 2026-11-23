@@ -3,9 +3,9 @@ title: "Section 1040 - Transportation of dependent patients"
 usc_title: 10
 usc_section: "1040"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1040"
-generated_at: "2026-11-23T21:14:24.348Z"
+generated_at: "2026-11-23T21:16:51.290Z"
 status: "active"
 ---
 

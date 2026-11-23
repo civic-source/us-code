@@ -3,9 +3,9 @@ title: "Section 7432 - Clean heavy-duty vehicles"
 usc_title: 42
 usc_section: "7432"
 chapter: 85
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7432"
-generated_at: "2026-11-23T21:16:02.026Z"
+generated_at: "2026-11-23T21:17:32.392Z"
 status: "active"
 ---
 

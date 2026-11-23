@@ -3,9 +3,9 @@ title: "Section 7477 - Enforcement"
 usc_title: 42
 usc_section: "7477"
 chapter: 85
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7477"
-generated_at: "2026-11-23T21:16:02.033Z"
+generated_at: "2026-11-23T21:17:32.395Z"
 status: "active"
 ---
 

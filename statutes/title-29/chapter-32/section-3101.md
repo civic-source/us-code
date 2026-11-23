@@ -3,9 +3,9 @@ title: "Section 3101 - Purposes"
 usc_title: 29
 usc_section: "3101"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 3101"
-generated_at: "2026-11-23T21:15:12.868Z"
+generated_at: "2026-11-23T21:17:12.870Z"
 status: "active"
 ---
 
@@ -39,6 +39,20 @@ Submission
 Disability Provisions
 
 “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

@@ -3,9 +3,9 @@ title: "Section 205d - United States Metric Board"
 usc_title: 15
 usc_section: "205d"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 205d"
-generated_at: "2026-11-23T21:14:38.537Z"
+generated_at: "2026-11-23T21:16:57.237Z"
 status: "active"
 ---
 

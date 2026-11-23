@@ -3,9 +3,9 @@ title: "Section 579d - Repealed. Pub. L. 116–260, div. AA, title III, § 360(e
 usc_title: 33
 usc_section: "579d"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 579d"
-generated_at: "2026-11-23T21:15:29.493Z"
+generated_at: "2026-11-23T21:17:19.824Z"
 status: "repealed"
 ---
 

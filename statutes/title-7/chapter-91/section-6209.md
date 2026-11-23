@@ -3,9 +3,9 @@ title: "Section 6209 - Initial referendum"
 usc_title: 7
 usc_section: "6209"
 chapter: 91
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 6209"
-generated_at: "2026-11-23T21:14:16.749Z"
+generated_at: "2026-11-23T21:16:46.950Z"
 status: "active"
 ---
 

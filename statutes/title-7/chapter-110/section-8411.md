@@ -3,9 +3,9 @@ title: "Section 8411 - Interagency coordination"
 usc_title: 7
 usc_section: "8411"
 chapter: 110
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 8411"
-generated_at: "2026-11-23T21:14:16.945Z"
+generated_at: "2026-11-23T21:16:47.028Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2347b - Congressional declaration of purpose"
 usc_title: 22
 usc_section: "2347b"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2347b"
-generated_at: "2026-11-23T21:15:04.842Z"
+generated_at: "2026-11-23T21:17:09.695Z"
 status: "active"
 ---
 

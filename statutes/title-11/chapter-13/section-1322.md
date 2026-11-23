@@ -3,9 +3,9 @@ title: "Section 1322 - Contents of plan"
 usc_title: 11
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "11 U.S.C. § 1322"
-generated_at: "2026-11-23T21:14:28.966Z"
+generated_at: "2026-11-23T21:16:53.469Z"
 status: "active"
 ---
 

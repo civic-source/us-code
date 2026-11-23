@@ -3,9 +3,9 @@ title: "Section 1442 - Research program respecting possible long-range effects o
 usc_title: 33
 usc_section: "1442"
 chapter: 27
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 1442"
-generated_at: "2026-11-23T21:15:29.729Z"
+generated_at: "2026-11-23T21:17:19.921Z"
 status: "active"
 ---
 

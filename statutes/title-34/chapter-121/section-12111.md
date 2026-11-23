@@ -3,9 +3,9 @@ title: "Section 12111 - Support of Federal prisoners in non-Federal institutions
 usc_title: 34
 usc_section: "12111"
 chapter: 121
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "34 U.S.C. § 12111"
-generated_at: "2026-11-23T21:15:27.286Z"
+generated_at: "2026-11-23T21:17:18.560Z"
 status: "active"
 ---
 

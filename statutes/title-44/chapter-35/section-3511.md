@@ -3,9 +3,9 @@ title: "Section 3511 - Data inventory and Federal data catalogue"
 usc_title: 44
 usc_section: "3511"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "44 U.S.C. § 3511"
-generated_at: "2026-11-23T21:15:40.473Z"
+generated_at: "2026-11-23T21:17:33.046Z"
 status: "active"
 ---
 

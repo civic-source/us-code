@@ -3,9 +3,9 @@ title: "Section 939 - Art. 139. Redress of injuries to property"
 usc_title: 10
 usc_section: "939"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 939"
-generated_at: "2026-11-23T21:14:24.307Z"
+generated_at: "2026-11-23T21:16:51.271Z"
 status: "active"
 ---
 

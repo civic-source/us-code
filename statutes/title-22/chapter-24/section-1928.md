@@ -3,9 +3,9 @@ title: "Section 1928 - North Atlantic Treaty Organization"
 usc_title: 22
 usc_section: "1928"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1928"
-generated_at: "2026-11-23T21:15:04.693Z"
+generated_at: "2026-11-23T21:17:09.640Z"
 status: "active"
 ---
 

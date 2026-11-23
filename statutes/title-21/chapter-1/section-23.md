@@ -3,9 +3,9 @@ title: "Section 23 - Penalties"
 usc_title: 21
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "21 U.S.C. § 23"
-generated_at: "2026-11-23T21:15:06.862Z"
+generated_at: "2026-11-23T21:17:07.009Z"
 status: "active"
 ---
 

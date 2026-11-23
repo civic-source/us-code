@@ -3,9 +3,9 @@ title: "Section 3248 - Nondiscrimination"
 usc_title: 29
 usc_section: "3248"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 3248"
-generated_at: "2026-11-23T21:15:12.926Z"
+generated_at: "2026-11-23T21:17:12.897Z"
 status: "active"
 ---
 

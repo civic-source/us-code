@@ -3,9 +3,9 @@ title: "Section 1936 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1936"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1936"
-generated_at: "2026-11-23T21:15:04.707Z"
+generated_at: "2026-11-23T21:17:09.642Z"
 status: "repealed"
 ---
 

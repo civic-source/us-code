@@ -3,9 +3,9 @@ title: "Section 3134 - Limitations on noncareer and limited appointments"
 usc_title: 5
 usc_section: "3134"
 chapter: 31
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 3134"
-generated_at: "2026-11-23T21:14:06.998Z"
+generated_at: "2026-11-23T21:16:42.620Z"
 status: "active"
 ---
 

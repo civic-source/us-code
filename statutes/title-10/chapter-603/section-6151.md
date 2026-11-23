@@ -3,9 +3,9 @@ title: "Section 6151 - Authority to conduct program relating to fissile material
 usc_title: 10
 usc_section: "6151"
 chapter: 603
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6151"
-generated_at: "2026-11-23T21:14:25.156Z"
+generated_at: "2026-11-23T21:16:51.645Z"
 status: "active"
 ---
 

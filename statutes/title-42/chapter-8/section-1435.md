@@ -3,9 +3,9 @@ title: "Section 1435 - Access to books, documents, etc., for purpose of audit"
 usc_title: 42
 usc_section: "1435"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 1435"
-generated_at: "2026-11-23T21:16:00.959Z"
+generated_at: "2026-11-23T21:17:31.945Z"
 status: "active"
 ---
 

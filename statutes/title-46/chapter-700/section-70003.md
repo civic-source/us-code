@@ -3,9 +3,9 @@ title: "Section 70003 - Port access routes"
 usc_title: 46
 usc_section: "70003"
 chapter: 700
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 70003"
-generated_at: "2026-11-23T21:16:08.010Z"
+generated_at: "2026-11-23T21:17:36.314Z"
 status: "active"
 ---
 

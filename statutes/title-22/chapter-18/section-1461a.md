@@ -3,9 +3,9 @@ title: "Section 1461a - Omitted"
 usc_title: 22
 usc_section: "1461a"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1461a"
-generated_at: "2026-11-23T21:15:04.653Z"
+generated_at: "2026-11-23T21:17:09.618Z"
 status: "omitted"
 ---
 

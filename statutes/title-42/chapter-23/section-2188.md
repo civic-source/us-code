@@ -3,9 +3,9 @@ title: "Section 2188 - Monopolistic use of patents"
 usc_title: 42
 usc_section: "2188"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 2188"
-generated_at: "2026-11-23T21:16:01.242Z"
+generated_at: "2026-11-23T21:17:32.095Z"
 status: "active"
 ---
 

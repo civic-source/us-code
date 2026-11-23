@@ -3,9 +3,9 @@ title: "Section 135k - Omitted"
 usc_title: 7
 usc_section: "135k"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 135k"
-generated_at: "2026-11-23T21:14:15.972Z"
+generated_at: "2026-11-23T21:16:46.619Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 928 - Art. 128. Assault"
 usc_title: 10
 usc_section: "928"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 928"
-generated_at: "2026-11-23T21:14:24.303Z"
+generated_at: "2026-11-23T21:16:51.269Z"
 status: "active"
 ---
 

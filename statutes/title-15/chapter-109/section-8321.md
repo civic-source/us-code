@@ -3,9 +3,9 @@ title: "Section 8321 - Authority to define terms"
 usc_title: 15
 usc_section: "8321"
 chapter: 109
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 8321"
-generated_at: "2026-11-23T21:14:39.517Z"
+generated_at: "2026-11-23T21:16:57.652Z"
 status: "active"
 ---
 

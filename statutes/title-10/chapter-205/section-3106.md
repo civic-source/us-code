@@ -3,9 +3,9 @@ title: "Section 3106 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "3106"
 chapter: 205
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 3106"
-generated_at: "2026-11-23T21:14:24.962Z"
+generated_at: "2026-11-23T21:16:51.551Z"
 status: "repealed"
 ---
 

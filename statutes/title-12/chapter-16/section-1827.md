@@ -3,9 +3,9 @@ title: "Section 1827 - Reports by Corporation; audit of financial transactions; 
 usc_title: 12
 usc_section: "1827"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 1827"
-generated_at: "2026-11-23T21:14:33.055Z"
+generated_at: "2026-11-23T21:16:55.432Z"
 status: "active"
 ---
 

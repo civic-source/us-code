@@ -3,9 +3,9 @@ title: "Section 1667b - Indian youth telemental health demonstration project"
 usc_title: 25
 usc_section: "1667b"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 1667b"
-generated_at: "2026-11-23T21:15:00.633Z"
+generated_at: "2026-11-23T21:17:07.834Z"
 status: "active"
 ---
 

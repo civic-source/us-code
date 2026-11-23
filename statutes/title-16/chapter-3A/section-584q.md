@@ -3,9 +3,9 @@ title: "Section 584q - Omitted"
 usc_title: 16
 usc_section: "584q"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 584q"
-generated_at: "2026-11-23T21:14:55.167Z"
+generated_at: "2026-11-23T21:17:04.204Z"
 status: "omitted"
 ---
 

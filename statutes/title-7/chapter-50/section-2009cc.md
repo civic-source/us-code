@@ -3,9 +3,9 @@ title: "Section 2009cc - Definitions"
 usc_title: 7
 usc_section: "2009cc"
 chapter: 50
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2009cc"
-generated_at: "2026-11-23T21:14:16.448Z"
+generated_at: "2026-11-23T21:16:46.826Z"
 status: "active"
 ---
 

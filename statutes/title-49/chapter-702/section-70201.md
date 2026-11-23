@@ -3,9 +3,9 @@ title: "Section 70201 - State freight advisory committees"
 usc_title: 49
 usc_section: "70201"
 chapter: 702
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 70201"
-generated_at: "2026-11-23T21:16:12.644Z"
+generated_at: "2026-11-23T21:17:39.360Z"
 status: "active"
 ---
 

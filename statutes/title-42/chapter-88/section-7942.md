@@ -3,9 +3,9 @@ title: "Section 7942 - Designation by Secretary as processing sites for subchapt
 usc_title: 42
 usc_section: "7942"
 chapter: 88
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7942"
-generated_at: "2026-11-23T21:16:02.150Z"
+generated_at: "2026-11-23T21:17:32.442Z"
 status: "active"
 ---
 

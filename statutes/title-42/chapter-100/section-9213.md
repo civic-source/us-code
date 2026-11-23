@@ -3,9 +3,9 @@ title: "Section 9213 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9213"
 chapter: 100
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 9213"
-generated_at: "2026-11-23T21:16:02.238Z"
+generated_at: "2026-11-23T21:17:32.478Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45d - Unfair or deceptive acts or practices with respect to subs
 usc_title: 15
 usc_section: "45d"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 45d"
-generated_at: "2026-11-23T21:14:37.943Z"
+generated_at: "2026-11-23T21:16:57.137Z"
 status: "active"
 ---
 

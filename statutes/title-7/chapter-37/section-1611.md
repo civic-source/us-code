@@ -3,9 +3,9 @@ title: "Section 1611 - Illegal sales of uncertified seed"
 usc_title: 7
 usc_section: "1611"
 chapter: 37
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1611"
-generated_at: "2026-11-23T21:14:16.290Z"
+generated_at: "2026-11-23T21:16:46.760Z"
 status: "active"
 ---
 

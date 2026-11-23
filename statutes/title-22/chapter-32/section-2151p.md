@@ -3,9 +3,9 @@ title: "Section 2151p - Environmental and natural resources"
 usc_title: 22
 usc_section: "2151p"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2151p"
-generated_at: "2026-11-23T21:15:04.754Z"
+generated_at: "2026-11-23T21:17:09.660Z"
 status: "active"
 ---
 

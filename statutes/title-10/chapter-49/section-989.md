@@ -3,9 +3,9 @@ title: "Section 989 - Prohibition on former members of the armed forces acceptin
 usc_title: 10
 usc_section: "989"
 chapter: 49
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 989"
-generated_at: "2026-11-23T21:14:24.335Z"
+generated_at: "2026-11-23T21:16:51.285Z"
 status: "active"
 ---
 

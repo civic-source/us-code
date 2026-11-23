@@ -3,9 +3,9 @@ title: "Section 7221e - Federal formula allocation during first year and for suc
 usc_title: 20
 usc_section: "7221e"
 chapter: 70
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 7221e"
-generated_at: "2026-11-23T21:14:50.227Z"
+generated_at: "2026-11-23T21:17:02.329Z"
 status: "active"
 ---
 

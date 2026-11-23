@@ -3,9 +3,9 @@ title: "Section 2321 - Reservations and State allotment"
 usc_title: 20
 usc_section: "2321"
 chapter: 44
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 2321"
-generated_at: "2026-11-23T21:14:50.041Z"
+generated_at: "2026-11-23T21:17:02.253Z"
 status: "active"
 ---
 

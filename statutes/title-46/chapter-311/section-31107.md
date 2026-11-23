@@ -3,9 +3,9 @@ title: "Section 31107 - Interest"
 usc_title: 46
 usc_section: "31107"
 chapter: 311
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 31107"
-generated_at: "2026-11-23T21:16:07.807Z"
+generated_at: "2026-11-23T21:17:36.215Z"
 status: "active"
 ---
 

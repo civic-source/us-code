@@ -3,9 +3,9 @@ title: "Section 7752 - Buildings, land, people, claims, and agreements"
 usc_title: 7
 usc_section: "7752"
 chapter: 104
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 7752"
-generated_at: "2026-11-23T21:14:16.886Z"
+generated_at: "2026-11-23T21:16:47.005Z"
 status: "active"
 ---
 

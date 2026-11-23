@@ -3,9 +3,9 @@ title: "Section 240d - Audits: audit of financial statements of Department of De
 usc_title: 10
 usc_section: "240d"
 chapter: 9
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 240d"
-generated_at: "2026-11-23T21:14:24.073Z"
+generated_at: "2026-11-23T21:16:51.161Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 931a - Art. 131a. Subornation of perjury"
 usc_title: 10
 usc_section: "931a"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 931a"
-generated_at: "2026-11-23T21:14:24.304Z"
+generated_at: "2026-11-23T21:16:51.270Z"
 status: "active"
 ---
 

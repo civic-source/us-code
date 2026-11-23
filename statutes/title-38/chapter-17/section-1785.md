@@ -3,9 +3,9 @@ title: "Section 1785 - Care and services during certain disasters and emergencie
 usc_title: 38
 usc_section: "1785"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 1785"
-generated_at: "2026-11-23T21:15:37.750Z"
+generated_at: "2026-11-23T21:17:23.074Z"
 status: "active"
 ---
 

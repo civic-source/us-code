@@ -3,9 +3,9 @@ title: "Section 1454 - Documents and copies issued by Attorney General"
 usc_title: 8
 usc_section: "1454"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "8 U.S.C. § 1454"
-generated_at: "2026-11-23T21:14:12.034Z"
+generated_at: "2026-11-23T21:16:45.107Z"
 status: "active"
 ---
 

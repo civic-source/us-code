@@ -3,9 +3,9 @@ title: "Section 198b - Report on the Secretary’s jurisdiction, power, duties, 
 usc_title: 7
 usc_section: "198b"
 chapter: 9
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 198b"
-generated_at: "2026-11-23T21:14:16.060Z"
+generated_at: "2026-11-23T21:16:46.656Z"
 status: "active"
 ---
 

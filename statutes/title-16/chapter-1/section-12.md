@@ -3,9 +3,9 @@ title: "Section 12 - Purpose and objectives of Cooperative Management and Protec
 usc_title: 16
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-11-23T21:14:55.025Z"
+generated_at: "2026-11-23T21:17:04.147Z"
 status: "active"
 ---
 

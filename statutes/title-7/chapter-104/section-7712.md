@@ -3,9 +3,9 @@ title: "Section 7712 - Regulation of movement of plants, plant products, biologi
 usc_title: 7
 usc_section: "7712"
 chapter: 104
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 7712"
-generated_at: "2026-11-23T21:14:16.880Z"
+generated_at: "2026-11-23T21:16:47.001Z"
 status: "active"
 ---
 

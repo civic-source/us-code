@@ -3,9 +3,9 @@ title: "Section 10709 - Relations between Kosovo and Serbia"
 usc_title: 22
 usc_section: "10709"
 chapter: 114
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 10709"
-generated_at: "2026-11-23T21:15:05.595Z"
+generated_at: "2026-11-23T21:17:10.015Z"
 status: "active"
 ---
 

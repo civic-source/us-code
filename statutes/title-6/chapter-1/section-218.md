@@ -3,9 +3,9 @@ title: "Section 218 - Asia-Pacific Economic Cooperation Business Travel Cards"
 usc_title: 6
 usc_section: "218"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "6 U.S.C. § 218"
-generated_at: "2026-11-23T21:14:10.526Z"
+generated_at: "2026-11-23T21:16:44.517Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17031 - Biodiesel"
 usc_title: 42
 usc_section: "17031"
 chapter: 152
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 17031"
-generated_at: "2026-11-23T21:16:02.870Z"
+generated_at: "2026-11-23T21:17:32.718Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2204j - National agriculture imagery program"
 usc_title: 7
 usc_section: "2204j"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2204j"
-generated_at: "2026-11-23T21:14:16.536Z"
+generated_at: "2026-11-23T21:16:46.865Z"
 status: "active"
 ---
 

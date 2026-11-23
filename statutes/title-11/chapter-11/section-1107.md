@@ -3,9 +3,9 @@ title: "Section 1107 - Rights, powers, and duties of debtor in possession"
 usc_title: 11
 usc_section: "1107"
 chapter: 11
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "11 U.S.C. § 1107"
-generated_at: "2026-11-23T21:14:28.937Z"
+generated_at: "2026-11-23T21:16:53.456Z"
 status: "active"
 ---
 

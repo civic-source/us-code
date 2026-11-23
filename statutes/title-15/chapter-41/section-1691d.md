@@ -3,9 +3,9 @@ title: "Section 1691d - Applicability of other laws"
 usc_title: 15
 usc_section: "1691d"
 chapter: 41
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 1691d"
-generated_at: "2026-11-23T21:14:39.105Z"
+generated_at: "2026-11-23T21:16:57.427Z"
 status: "active"
 ---
 

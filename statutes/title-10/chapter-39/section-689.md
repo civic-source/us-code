@@ -3,9 +3,9 @@ title: "Section 689 - Retired members: grade in which ordered to active duty and
 usc_title: 10
 usc_section: "689"
 chapter: 39
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 689"
-generated_at: "2026-11-23T21:14:24.223Z"
+generated_at: "2026-11-23T21:16:51.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46318 - Interference with cabin or flight crew"
 usc_title: 49
 usc_section: "46318"
 chapter: 463
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 46318"
-generated_at: "2026-11-23T21:16:12.538Z"
+generated_at: "2026-11-23T21:17:39.258Z"
 status: "active"
 ---
 

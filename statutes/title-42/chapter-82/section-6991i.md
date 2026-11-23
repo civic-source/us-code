@@ -3,9 +3,9 @@ title: "Section 6991i - Operator training"
 usc_title: 42
 usc_section: "6991i"
 chapter: 82
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 6991i"
-generated_at: "2026-11-23T21:16:01.926Z"
+generated_at: "2026-11-23T21:17:32.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9492 - Status as volunteer civilian auxiliary of the Air Force"
 usc_title: 10
 usc_section: "9492"
 chapter: 959
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 9492"
-generated_at: "2026-11-23T21:14:25.521Z"
+generated_at: "2026-11-23T21:16:51.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1969 - Deductions; payment; investment; expenses"
 usc_title: 38
 usc_section: "1969"
 chapter: 19
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 1969"
-generated_at: "2026-11-23T21:15:37.782Z"
+generated_at: "2026-11-23T21:17:23.086Z"
 status: "active"
 ---
 

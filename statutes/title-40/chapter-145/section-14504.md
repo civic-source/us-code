@@ -3,9 +3,9 @@ title: "Section 14504 - Telecommunications and technology initiative"
 usc_title: 40
 usc_section: "14504"
 chapter: 145
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "40 U.S.C. § 14504"
-generated_at: "2026-11-23T21:15:34.804Z"
+generated_at: "2026-11-23T21:17:23.717Z"
 status: "active"
 ---
 

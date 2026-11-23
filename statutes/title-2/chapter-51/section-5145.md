@@ -3,9 +3,9 @@ title: "Section 5145 - Lump-sum allowances for House Majority Floor Leader, Mino
 usc_title: 2
 usc_section: "5145"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 5145"
-generated_at: "2026-11-23T21:14:03.185Z"
+generated_at: "2026-11-23T21:16:41.509Z"
 status: "active"
 ---
 

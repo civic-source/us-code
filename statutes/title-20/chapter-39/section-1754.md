@@ -3,9 +3,9 @@ title: "Section 1754 - Provisions respecting transportation of pupils to achieve
 usc_title: 20
 usc_section: "1754"
 chapter: 39
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1754"
-generated_at: "2026-11-23T21:14:50.030Z"
+generated_at: "2026-11-23T21:17:02.249Z"
 status: "active"
 ---
 

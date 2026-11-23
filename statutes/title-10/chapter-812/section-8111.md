@@ -3,9 +3,9 @@ title: "Section 8111 - Navy: grades above chief warrant officer, W–5"
 usc_title: 10
 usc_section: "8111"
 chapter: 812
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8111"
-generated_at: "2026-11-23T21:14:25.301Z"
+generated_at: "2026-11-23T21:16:51.706Z"
 status: "active"
 ---
 

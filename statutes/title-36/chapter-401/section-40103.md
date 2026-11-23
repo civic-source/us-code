@@ -3,9 +3,9 @@ title: "Section 40103 - Purposes"
 usc_title: 36
 usc_section: "40103"
 chapter: 401
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 40103"
-generated_at: "2026-11-23T21:15:33.643Z"
+generated_at: "2026-11-23T21:17:21.954Z"
 status: "active"
 ---
 

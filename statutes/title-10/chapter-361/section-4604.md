@@ -3,9 +3,9 @@ title: "Section 4604 - Changes to certain documents"
 usc_title: 10
 usc_section: "4604"
 chapter: 361
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 4604"
-generated_at: "2026-11-23T21:14:25.085Z"
+generated_at: "2026-11-23T21:16:51.612Z"
 status: "active"
 ---
 

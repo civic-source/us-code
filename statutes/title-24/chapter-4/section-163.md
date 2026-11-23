@@ -3,9 +3,9 @@ title: "Section 163 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 24
 usc_section: "163"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "24 U.S.C. § 163"
-generated_at: "2026-11-23T21:14:57.652Z"
+generated_at: "2026-11-23T21:17:05.799Z"
 status: "repealed"
 ---
 

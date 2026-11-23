@@ -3,9 +3,9 @@ title: "Section 1412 - Licenses for exploration and permits for commercial recov
 usc_title: 30
 usc_section: "1412"
 chapter: 26
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "30 U.S.C. § 1412"
-generated_at: "2026-11-23T21:15:09.384Z"
+generated_at: "2026-11-23T21:17:11.544Z"
 status: "active"
 ---
 

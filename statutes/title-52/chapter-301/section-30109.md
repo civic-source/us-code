@@ -3,9 +3,9 @@ title: "Section 30109 - Enforcement"
 usc_title: 52
 usc_section: "30109"
 chapter: 301
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "52 U.S.C. § 30109"
-generated_at: "2026-11-23T21:16:14.144Z"
+generated_at: "2026-11-23T21:17:40.651Z"
 status: "active"
 ---
 

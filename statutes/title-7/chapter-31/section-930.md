@@ -3,9 +3,9 @@ title: "Section 930 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "930"
 chapter: 31
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 930"
-generated_at: "2026-11-23T21:14:16.144Z"
+generated_at: "2026-11-23T21:16:46.695Z"
 status: "active"
 ---
 

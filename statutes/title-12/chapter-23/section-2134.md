@@ -3,9 +3,9 @@ title: "Section 2134 - Taxation"
 usc_title: 12
 usc_section: "2134"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2134"
-generated_at: "2026-11-23T21:14:33.151Z"
+generated_at: "2026-11-23T21:16:55.485Z"
 status: "active"
 ---
 

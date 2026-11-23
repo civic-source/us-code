@@ -3,9 +3,9 @@ title: "Section 8738 - Rifle, Colorado, plant; possession, use, and transfer of"
 usc_title: 10
 usc_section: "8738"
 chapter: 869
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8738"
-generated_at: "2026-11-23T21:14:25.413Z"
+generated_at: "2026-11-23T21:16:51.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 869 - Art. 69. Review by Judge Advocate General"
 usc_title: 10
 usc_section: "869"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 869"
-generated_at: "2026-11-23T21:14:24.288Z"
+generated_at: "2026-11-23T21:16:51.259Z"
 status: "active"
 ---
 

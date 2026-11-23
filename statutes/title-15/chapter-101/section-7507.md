@@ -3,9 +3,9 @@ title: "Section 7507 - Department of Energy programs"
 usc_title: 15
 usc_section: "7507"
 chapter: 101
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 7507"
-generated_at: "2026-11-23T21:14:39.494Z"
+generated_at: "2026-11-23T21:16:57.642Z"
 status: "active"
 ---
 

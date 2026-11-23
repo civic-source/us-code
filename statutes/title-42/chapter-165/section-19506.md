@@ -3,9 +3,9 @@ title: "Section 19506 - Accelerating Home Building Act"
 usc_title: 42
 usc_section: "19506"
 chapter: 165
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 19506"
-generated_at: "2026-11-23T21:16:03.078Z"
+generated_at: "2026-11-23T21:17:32.803Z"
 status: "active"
 ---
 

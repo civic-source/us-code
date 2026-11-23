@@ -3,9 +3,9 @@ title: "Section 3504b - Agreements and financial assistance"
 usc_title: 33
 usc_section: "3504b"
 chapter: 48
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 3504b"
-generated_at: "2026-11-23T21:15:29.905Z"
+generated_at: "2026-11-23T21:17:19.997Z"
 status: "active"
 ---
 

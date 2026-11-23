@@ -3,9 +3,9 @@ title: "Section 11502 - Withholding State and local income tax by rail carriers"
 usc_title: 49
 usc_section: "11502"
 chapter: 115
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 11502"
-generated_at: "2026-11-23T21:16:12.110Z"
+generated_at: "2026-11-23T21:17:38.950Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6679 - Failure to file returns, etc., with respect to foreign co
 usc_title: 26
 usc_section: "6679"
 chapter: 68
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 6679"
-generated_at: "2026-11-23T21:15:22.468Z"
+generated_at: "2026-11-23T21:17:16.582Z"
 status: "active"
 ---
 

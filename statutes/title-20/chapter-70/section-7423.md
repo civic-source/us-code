@@ -3,9 +3,9 @@ title: "Section 7423 - Amount of grants"
 usc_title: 20
 usc_section: "7423"
 chapter: 70
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 7423"
-generated_at: "2026-11-23T21:14:50.247Z"
+generated_at: "2026-11-23T21:17:02.336Z"
 status: "active"
 ---
 

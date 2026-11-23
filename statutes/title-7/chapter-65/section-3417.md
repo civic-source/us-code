@@ -3,9 +3,9 @@ title: "Section 3417 - Authorization of appropriations"
 usc_title: 7
 usc_section: "3417"
 chapter: 65
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 3417"
-generated_at: "2026-11-23T21:14:16.649Z"
+generated_at: "2026-11-23T21:16:46.911Z"
 status: "active"
 ---
 

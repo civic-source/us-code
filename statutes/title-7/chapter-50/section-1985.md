@@ -3,9 +3,9 @@ title: "Section 1985 - Security servicing"
 usc_title: 7
 usc_section: "1985"
 chapter: 50
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1985"
-generated_at: "2026-11-23T21:14:16.411Z"
+generated_at: "2026-11-23T21:16:46.811Z"
 status: "active"
 ---
 

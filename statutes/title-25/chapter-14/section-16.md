@@ -3,9 +3,9 @@ title: "Section 16 - Omitted"
 usc_title: 25
 usc_section: "16"
 chapter: 14
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 16"
-generated_at: "2026-11-23T21:15:00.560Z"
+generated_at: "2026-11-23T21:17:07.804Z"
 status: "omitted"
 ---
 

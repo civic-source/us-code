@@ -3,9 +3,9 @@ title: "Section 2548 - Renumbered § 3105]"
 usc_title: 10
 usc_section: "2548"
 chapter: 149
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2548"
-generated_at: "2026-11-23T21:14:24.789Z"
+generated_at: "2026-11-23T21:16:51.479Z"
 status: "renumbered"
 ---
 

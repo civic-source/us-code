@@ -3,9 +3,9 @@ title: "Section 15301 - Establishment, membership, and employees"
 usc_title: 40
 usc_section: "15301"
 chapter: 153
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "40 U.S.C. § 15301"
-generated_at: "2026-11-23T21:15:34.813Z"
+generated_at: "2026-11-23T21:17:23.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2152d - Assistance to foreign countries to meet minimum standard
 usc_title: 22
 usc_section: "2152d"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2152d"
-generated_at: "2026-11-23T21:15:04.762Z"
+generated_at: "2026-11-23T21:17:09.663Z"
 status: "active"
 ---
 

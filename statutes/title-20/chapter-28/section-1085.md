@@ -3,9 +3,9 @@ title: "Section 1085 - Definitions for student loan insurance program"
 usc_title: 20
 usc_section: "1085"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1085"
-generated_at: "2026-11-23T21:14:49.781Z"
+generated_at: "2026-11-23T21:17:02.150Z"
 status: "active"
 ---
 

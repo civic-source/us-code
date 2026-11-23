@@ -3,9 +3,9 @@ title: "Section 3502 - Nondeductibility of taxes in computing taxable income"
 usc_title: 26
 usc_section: "3502"
 chapter: 25
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 3502"
-generated_at: "2026-11-23T21:15:22.048Z"
+generated_at: "2026-11-23T21:17:16.407Z"
 status: "active"
 ---
 

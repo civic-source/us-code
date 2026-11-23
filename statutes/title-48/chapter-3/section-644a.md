@@ -3,9 +3,9 @@ title: "Section 644a - Jurisdiction of district court of cases arising on or wit
 usc_title: 48
 usc_section: "644a"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "48 U.S.C. § 644a"
-generated_at: "2026-11-23T21:16:05.172Z"
+generated_at: "2026-11-23T21:17:35.343Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 804 - Life insurance deductions"
 usc_title: 26
 usc_section: "804"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 804"
-generated_at: "2026-11-23T21:15:21.661Z"
+generated_at: "2026-11-23T21:17:16.236Z"
 status: "active"
 ---
 

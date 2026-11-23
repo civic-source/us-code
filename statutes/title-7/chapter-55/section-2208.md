@@ -3,9 +3,9 @@ title: "Section 2208 - Expenditure of appropriations; accounting"
 usc_title: 7
 usc_section: "2208"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2208"
-generated_at: "2026-11-23T21:14:16.538Z"
+generated_at: "2026-11-23T21:16:46.866Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15f - Actions by Attorney General"
 usc_title: 15
 usc_section: "15f"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 15f"
-generated_at: "2026-11-23T21:14:37.928Z"
+generated_at: "2026-11-23T21:16:57.131Z"
 status: "active"
 ---
 

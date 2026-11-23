@@ -3,9 +3,9 @@ title: "Section 7409 - Rifle ranges: availability for use by members and civilia
 usc_title: 10
 usc_section: "7409"
 chapter: 751
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 7409"
-generated_at: "2026-11-23T21:14:25.226Z"
+generated_at: "2026-11-23T21:16:51.675Z"
 status: "active"
 ---
 

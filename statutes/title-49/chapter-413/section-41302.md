@@ -3,9 +3,9 @@ title: "Section 41302 - Permits of foreign air carriers"
 usc_title: 49
 usc_section: "41302"
 chapter: 413
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 41302"
-generated_at: "2026-11-23T21:16:12.386Z"
+generated_at: "2026-11-23T21:17:39.123Z"
 status: "active"
 ---
 

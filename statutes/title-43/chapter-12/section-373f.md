@@ -3,9 +3,9 @@ title: "Section 373f - Partnerships, grants, and cooperative agreements with loc
 usc_title: 43
 usc_section: "373f"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 373f"
-generated_at: "2026-11-23T21:15:42.975Z"
+generated_at: "2026-11-23T21:17:26.370Z"
 status: "active"
 ---
 

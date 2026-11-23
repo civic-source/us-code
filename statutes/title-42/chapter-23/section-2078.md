@@ -3,9 +3,9 @@ title: "Section 2078 - Congressional review of guaranteed purchase price, guaran
 usc_title: 42
 usc_section: "2078"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 2078"
-generated_at: "2026-11-23T21:16:01.212Z"
+generated_at: "2026-11-23T21:17:32.084Z"
 status: "active"
 ---
 

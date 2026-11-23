@@ -3,9 +3,9 @@ title: "Section 20234 - Opportunities for consideration for promotion"
 usc_title: 10
 usc_section: "20234"
 chapter: 2005
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 20234"
-generated_at: "2026-11-23T21:14:25.671Z"
+generated_at: "2026-11-23T21:16:51.876Z"
 status: "active"
 ---
 

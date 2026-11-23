@@ -3,9 +3,9 @@ title: "Section 6222 - Partner’s return must be consistent with partnership re
 usc_title: 26
 usc_section: "6222"
 chapter: 63
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 6222"
-generated_at: "2026-11-23T21:15:22.361Z"
+generated_at: "2026-11-23T21:17:16.536Z"
 status: "active"
 ---
 

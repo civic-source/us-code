@@ -3,9 +3,9 @@ title: "Section 3350a - Promoting efficient declassification review"
 usc_title: 50
 usc_section: "3350a"
 chapter: 45
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 3350a"
-generated_at: "2026-11-23T21:16:09.779Z"
+generated_at: "2026-11-23T21:17:37.241Z"
 status: "active"
 ---
 

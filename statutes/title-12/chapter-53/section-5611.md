@@ -3,9 +3,9 @@ title: "Section 5611 - Liquidity event determination"
 usc_title: 12
 usc_section: "5611"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 5611"
-generated_at: "2026-11-23T21:14:33.560Z"
+generated_at: "2026-11-23T21:16:55.723Z"
 status: "active"
 ---
 

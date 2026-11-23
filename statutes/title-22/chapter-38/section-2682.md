@@ -3,9 +3,9 @@ title: "Section 2682 - Liquidation and disposal of broadcasting facilities"
 usc_title: 22
 usc_section: "2682"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2682"
-generated_at: "2026-11-23T21:15:04.999Z"
+generated_at: "2026-11-23T21:17:09.752Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 410 - Joint boards and commissions"
 usc_title: 47
 usc_section: "410"
 chapter: 5
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "47 U.S.C. § 410"
-generated_at: "2026-11-23T21:16:06.077Z"
+generated_at: "2026-11-23T21:17:35.026Z"
 status: "active"
 ---
 

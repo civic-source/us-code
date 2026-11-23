@@ -3,9 +3,9 @@ title: "Section 18103 - Research and development"
 usc_title: 40
 usc_section: "18103"
 chapter: 181
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "40 U.S.C. § 18103"
-generated_at: "2026-11-23T21:15:34.833Z"
+generated_at: "2026-11-23T21:17:23.735Z"
 status: "active"
 ---
 

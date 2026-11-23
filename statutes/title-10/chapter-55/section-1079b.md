@@ -3,9 +3,9 @@ title: "Section 1079b - Procedures for charging fees for care provided to civili
 usc_title: 10
 usc_section: "1079b"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1079b"
-generated_at: "2026-11-23T21:14:24.412Z"
+generated_at: "2026-11-23T21:16:51.318Z"
 status: "active"
 ---
 

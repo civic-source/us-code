@@ -3,9 +3,9 @@ title: "Section 765 - Transfer of functions"
 usc_title: 15
 usc_section: "765"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 765"
-generated_at: "2026-11-23T21:14:38.844Z"
+generated_at: "2026-11-23T21:16:57.340Z"
 status: "active"
 ---
 

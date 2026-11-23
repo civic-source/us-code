@@ -3,9 +3,9 @@ title: "Section 275 - Hiring critical technical experts"
 usc_title: 15
 usc_section: "275"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 275"
-generated_at: "2026-11-23T21:14:38.551Z"
+generated_at: "2026-11-23T21:16:57.242Z"
 status: "active"
 ---
 

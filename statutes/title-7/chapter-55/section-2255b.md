@@ -3,9 +3,9 @@ title: "Section 2255b - Department of Agriculture conference transparency"
 usc_title: 7
 usc_section: "2255b"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2255b"
-generated_at: "2026-11-23T21:14:16.548Z"
+generated_at: "2026-11-23T21:16:46.870Z"
 status: "active"
 ---
 

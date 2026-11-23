@@ -3,9 +3,9 @@ title: "Section 1692 - Foreign mail as United States mail"
 usc_title: 18
 usc_section: "1692"
 chapter: 83
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 1692"
-generated_at: "2026-11-23T21:14:43.907Z"
+generated_at: "2026-11-23T21:16:59.861Z"
 status: "active"
 ---
 

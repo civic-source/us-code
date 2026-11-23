@@ -3,9 +3,9 @@ title: "Section 2719c - Facilitation and encouragement of training and professio
 usc_title: 22
 usc_section: "2719c"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2719c"
-generated_at: "2026-11-23T21:15:05.019Z"
+generated_at: "2026-11-23T21:17:09.762Z"
 status: "active"
 ---
 

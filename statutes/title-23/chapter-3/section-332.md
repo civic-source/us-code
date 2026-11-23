@@ -3,9 +3,9 @@ title: "Section 332 - Pollinator-friendly practices on roadsides and highway rig
 usc_title: 23
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "23 U.S.C. § 332"
-generated_at: "2026-11-23T21:14:58.867Z"
+generated_at: "2026-11-23T21:17:06.357Z"
 status: "active"
 ---
 

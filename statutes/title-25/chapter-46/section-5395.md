@@ -3,9 +3,9 @@ title: "Section 5395 - Disclaimers"
 usc_title: 25
 usc_section: "5395"
 chapter: 46
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 5395"
-generated_at: "2026-11-23T21:15:00.855Z"
+generated_at: "2026-11-23T21:17:07.952Z"
 status: "active"
 ---
 

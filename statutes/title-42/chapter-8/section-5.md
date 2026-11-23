@@ -3,9 +3,9 @@ title: "Section 5 - Application"
 usc_title: 42
 usc_section: "5"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-11-23T21:16:01.003Z"
+generated_at: "2026-11-23T21:17:31.972Z"
 status: "active"
 ---
 

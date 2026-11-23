@@ -3,9 +3,9 @@ title: "Section 1985 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 22
 usc_section: "1985"
 chapter: 26
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1985"
-generated_at: "2026-11-23T21:15:04.714Z"
+generated_at: "2026-11-23T21:17:09.645Z"
 status: "repealed"
 ---
 

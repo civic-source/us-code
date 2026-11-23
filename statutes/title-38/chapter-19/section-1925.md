@@ -3,9 +3,9 @@ title: "Section 1925 - Limited period for acquiring insurance"
 usc_title: 38
 usc_section: "1925"
 chapter: 19
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 1925"
-generated_at: "2026-11-23T21:15:37.764Z"
+generated_at: "2026-11-23T21:17:23.082Z"
 status: "active"
 ---
 

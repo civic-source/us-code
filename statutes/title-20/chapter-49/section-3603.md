@@ -3,9 +3,9 @@ title: "Section 3603 - State plan"
 usc_title: 20
 usc_section: "3603"
 chapter: 49
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 3603"
-generated_at: "2026-11-23T21:14:50.088Z"
+generated_at: "2026-11-23T21:17:02.271Z"
 status: "active"
 ---
 

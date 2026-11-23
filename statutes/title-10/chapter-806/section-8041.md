@@ -3,9 +3,9 @@ title: "Section 8041 - Headquarters, Marine Corps: function; composition"
 usc_title: 10
 usc_section: "8041"
 chapter: 806
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8041"
-generated_at: "2026-11-23T21:14:25.289Z"
+generated_at: "2026-11-23T21:16:51.700Z"
 status: "active"
 ---
 

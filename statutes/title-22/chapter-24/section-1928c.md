@@ -3,9 +3,9 @@ title: "Section 1928c - Report to the Congress"
 usc_title: 22
 usc_section: "1928c"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1928c"
-generated_at: "2026-11-23T21:15:04.700Z"
+generated_at: "2026-11-23T21:17:09.641Z"
 status: "active"
 ---
 

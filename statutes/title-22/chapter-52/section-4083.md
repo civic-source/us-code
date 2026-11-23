@@ -3,9 +3,9 @@ title: "Section 4083 - Required leave"
 usc_title: 22
 usc_section: "4083"
 chapter: 52
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 4083"
-generated_at: "2026-11-23T21:15:05.198Z"
+generated_at: "2026-11-23T21:17:09.839Z"
 status: "active"
 ---
 

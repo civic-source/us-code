@@ -3,9 +3,9 @@ title: "Section 90 - Deposit of goods in warehouses"
 usc_title: 42
 usc_section: "90"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 90"
-generated_at: "2026-11-23T21:15:59.201Z"
+generated_at: "2026-11-23T21:17:31.228Z"
 status: "active"
 ---
 

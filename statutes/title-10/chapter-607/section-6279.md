@@ -3,9 +3,9 @@ title: "Section 6279 - Scope of authority to carry out plant projects"
 usc_title: 10
 usc_section: "6279"
 chapter: 607
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6279"
-generated_at: "2026-11-23T21:14:25.173Z"
+generated_at: "2026-11-23T21:16:51.653Z"
 status: "active"
 ---
 

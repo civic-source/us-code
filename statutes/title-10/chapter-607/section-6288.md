@@ -3,9 +3,9 @@ title: "Section 6288 - Unfunded priorities of the Administration"
 usc_title: 10
 usc_section: "6288"
 chapter: 607
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6288"
-generated_at: "2026-11-23T21:14:25.175Z"
+generated_at: "2026-11-23T21:16:51.654Z"
 status: "active"
 ---
 

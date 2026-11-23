@@ -3,9 +3,9 @@ title: "Section 6608 - Duty to mitigate"
 usc_title: 15
 usc_section: "6608"
 chapter: 92
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 6608"
-generated_at: "2026-11-23T21:14:39.436Z"
+generated_at: "2026-11-23T21:16:57.618Z"
 status: "active"
 ---
 

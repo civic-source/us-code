@@ -3,9 +3,9 @@ title: "Section 2879 - Renumbered § 2857]"
 usc_title: 10
 usc_section: "2879"
 chapter: 169
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2879"
-generated_at: "2026-11-23T21:14:24.929Z"
+generated_at: "2026-11-23T21:16:51.537Z"
 status: "renumbered"
 ---
 

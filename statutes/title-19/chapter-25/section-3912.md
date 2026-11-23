@@ -3,9 +3,9 @@ title: "Section 3912 - GAO report"
 usc_title: 19
 usc_section: "3912"
 chapter: 25
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "19 U.S.C. § 3912"
-generated_at: "2026-11-23T21:14:46.395Z"
+generated_at: "2026-11-23T21:17:00.892Z"
 status: "active"
 ---
 

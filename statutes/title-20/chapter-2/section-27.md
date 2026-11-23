@@ -3,9 +3,9 @@ title: "Section 27 - Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5, 199
 usc_title: 20
 usc_section: "27"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 27"
-generated_at: "2026-11-23T21:14:49.555Z"
+generated_at: "2026-11-23T21:17:02.052Z"
 status: "repealed"
 ---
 

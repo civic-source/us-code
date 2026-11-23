@@ -3,9 +3,9 @@ title: "Section 10441 - Purpose of program and grants"
 usc_title: 34
 usc_section: "10441"
 chapter: 101
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "34 U.S.C. § 10441"
-generated_at: "2026-11-23T21:15:27.194Z"
+generated_at: "2026-11-23T21:17:18.525Z"
 status: "active"
 ---
 

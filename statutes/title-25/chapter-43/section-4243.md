@@ -3,9 +3,9 @@ title: "Section 4243 - Authorization of appropriations"
 usc_title: 25
 usc_section: "4243"
 chapter: 43
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 4243"
-generated_at: "2026-11-23T21:15:00.809Z"
+generated_at: "2026-11-23T21:17:07.930Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2387 - Detail of personnel to foreign governments"
 usc_title: 22
 usc_section: "2387"
 chapter: 32
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2387"
-generated_at: "2026-11-23T21:15:04.878Z"
+generated_at: "2026-11-23T21:17:09.708Z"
 status: "active"
 ---
 

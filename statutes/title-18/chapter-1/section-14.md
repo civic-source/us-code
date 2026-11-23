@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 107–273, div. B, title IV, § 4004(a) ,
 usc_title: 18
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 14"
-generated_at: "2026-11-23T21:14:43.712Z"
+generated_at: "2026-11-23T21:16:59.772Z"
 status: "repealed"
 ---
 

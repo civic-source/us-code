@@ -3,9 +3,9 @@ title: "Section 7 - Omitted"
 usc_title: 47
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "47 U.S.C. § 7"
-generated_at: "2026-11-23T21:16:05.962Z"
+generated_at: "2026-11-23T21:17:34.958Z"
 status: "omitted"
 ---
 

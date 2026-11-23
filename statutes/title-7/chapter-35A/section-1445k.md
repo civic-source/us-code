@@ -3,9 +3,9 @@ title: "Section 1445k - Payments in commodities"
 usc_title: 7
 usc_section: "1445k"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1445k"
-generated_at: "2026-11-23T21:14:16.235Z"
+generated_at: "2026-11-23T21:16:46.737Z"
 status: "active"
 ---
 

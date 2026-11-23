@@ -3,9 +3,9 @@ title: "Section 3 - Condemnation of land"
 usc_title: 43
 usc_section: "3"
 chapter: 22
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-11-23T21:15:43.096Z"
+generated_at: "2026-11-23T21:17:26.417Z"
 status: "active"
 ---
 

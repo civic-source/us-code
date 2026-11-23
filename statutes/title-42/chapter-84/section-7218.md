@@ -3,9 +3,9 @@ title: "Section 7218 - Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304
 usc_title: 42
 usc_section: "7218"
 chapter: 84
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7218"
-generated_at: "2026-11-23T21:16:01.945Z"
+generated_at: "2026-11-23T21:17:32.360Z"
 status: "repealed"
 ---
 

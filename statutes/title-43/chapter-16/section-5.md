@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 
 usc_title: 43
 usc_section: "5"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-11-23T21:15:43.076Z"
+generated_at: "2026-11-23T21:17:26.409Z"
 status: "repealed"
 ---
 

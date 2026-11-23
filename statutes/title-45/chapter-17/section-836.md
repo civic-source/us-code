@@ -3,9 +3,9 @@ title: "Section 836 - Repealed. Pub. L. 117–58, div. B, title I, § 21301(b)(1
 usc_title: 45
 usc_section: "836"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "45 U.S.C. § 836"
-generated_at: "2026-11-23T21:15:40.921Z"
+generated_at: "2026-11-23T21:17:33.234Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 494a - Study of bridges over navigable waters"
 usc_title: 33
 usc_section: "494a"
 chapter: 11
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 494a"
-generated_at: "2026-11-23T21:15:29.462Z"
+generated_at: "2026-11-23T21:17:19.815Z"
 status: "active"
 ---
 

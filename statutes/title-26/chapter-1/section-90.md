@@ -3,9 +3,9 @@ title: "Section 90 - Illegal Federal irrigation subsidies"
 usc_title: 26
 usc_section: "90"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 90"
-generated_at: "2026-11-23T21:15:21.102Z"
+generated_at: "2026-11-23T21:17:15.991Z"
 status: "active"
 ---
 

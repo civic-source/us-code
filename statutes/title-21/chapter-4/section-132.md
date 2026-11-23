@@ -3,9 +3,9 @@ title: "Section 132 - Transferred"
 usc_title: 21
 usc_section: "132"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "21 U.S.C. § 132"
-generated_at: "2026-11-23T21:15:06.866Z"
+generated_at: "2026-11-23T21:17:07.010Z"
 status: "transferred"
 ---
 

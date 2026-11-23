@@ -3,9 +3,9 @@ title: "Section 322 - Special operations forces: training with friendly foreign 
 usc_title: 10
 usc_section: "322"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 322"
-generated_at: "2026-11-23T21:14:24.088Z"
+generated_at: "2026-11-23T21:16:51.168Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8755 - Omitted"
 usc_title: 42
 usc_section: "8755"
 chapter: 95
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 8755"
-generated_at: "2026-11-23T21:16:02.215Z"
+generated_at: "2026-11-23T21:17:32.469Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1881d - Joint applications and concurrent authorizations"
 usc_title: 50
 usc_section: "1881d"
 chapter: 36
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 1881d"
-generated_at: "2026-11-23T21:16:09.613Z"
+generated_at: "2026-11-23T21:17:37.168Z"
 status: "active"
 ---
 

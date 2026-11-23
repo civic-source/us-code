@@ -3,9 +3,9 @@ title: "Section 197 - Defense Logistics Agency: fees charged for logistics infor
 usc_title: 10
 usc_section: "197"
 chapter: 8
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 197"
-generated_at: "2026-11-23T21:14:24.047Z"
+generated_at: "2026-11-23T21:16:51.151Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 33108 - Monitoring compliance of manufacturers"
 usc_title: 49
 usc_section: "33108"
 chapter: 331
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 33108"
-generated_at: "2026-11-23T21:16:12.338Z"
+generated_at: "2026-11-23T21:17:39.092Z"
 status: "active"
 ---
 

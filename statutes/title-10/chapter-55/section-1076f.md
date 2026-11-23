@@ -3,9 +3,9 @@ title: "Section 1076f - TRICARE program: extension of coverage for certain membe
 usc_title: 10
 usc_section: "1076f"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1076f"
-generated_at: "2026-11-23T21:14:24.403Z"
+generated_at: "2026-11-23T21:16:51.314Z"
 status: "active"
 ---
 

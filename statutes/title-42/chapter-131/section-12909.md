@@ -3,9 +3,9 @@ title: "Section 12909 - Single room occupancy dwellings"
 usc_title: 42
 usc_section: "12909"
 chapter: 131
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 12909"
-generated_at: "2026-11-23T21:16:02.621Z"
+generated_at: "2026-11-23T21:17:32.628Z"
 status: "active"
 ---
 

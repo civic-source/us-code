@@ -3,9 +3,9 @@ title: "Section 7699 - Eligibility; agreement"
 usc_title: 38
 usc_section: "7699"
 chapter: 76
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 7699"
-generated_at: "2026-11-23T21:15:38.127Z"
+generated_at: "2026-11-23T21:17:23.221Z"
 status: "active"
 ---
 

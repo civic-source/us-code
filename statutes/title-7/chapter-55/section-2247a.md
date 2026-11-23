@@ -3,9 +3,9 @@ title: "Section 2247a - Farm or food products; sale of samples, practical forms,
 usc_title: 7
 usc_section: "2247a"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2247a"
-generated_at: "2026-11-23T21:14:16.546Z"
+generated_at: "2026-11-23T21:16:46.869Z"
 status: "active"
 ---
 

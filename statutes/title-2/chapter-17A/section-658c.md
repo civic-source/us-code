@@ -3,9 +3,9 @@ title: "Section 658c - Duties of Director; statements on bills and joint resolut
 usc_title: 2
 usc_section: "658c"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 658c"
-generated_at: "2026-11-23T21:14:02.954Z"
+generated_at: "2026-11-23T21:16:41.429Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1436 - Restriction on disclosure of information"
 usc_title: 22
 usc_section: "1436"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1436"
-generated_at: "2026-11-23T21:15:04.649Z"
+generated_at: "2026-11-23T21:17:09.617Z"
 status: "active"
 ---
 

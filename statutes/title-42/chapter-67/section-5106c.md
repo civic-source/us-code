@@ -3,9 +3,9 @@ title: "Section 5106c - Grants to States for programs relating to investigation 
 usc_title: 42
 usc_section: "5106c"
 chapter: 67
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 5106c"
-generated_at: "2026-11-23T21:16:01.612Z"
+generated_at: "2026-11-23T21:17:32.231Z"
 status: "active"
 ---
 

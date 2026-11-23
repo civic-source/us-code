@@ -3,9 +3,9 @@ title: "Section 2275c - Space Force satellite ground systems"
 usc_title: 10
 usc_section: "2275c"
 chapter: 135
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2275c"
-generated_at: "2026-11-23T21:14:24.735Z"
+generated_at: "2026-11-23T21:16:51.455Z"
 status: "active"
 ---
 

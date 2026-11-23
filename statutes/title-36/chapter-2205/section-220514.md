@@ -3,9 +3,9 @@ title: "Section 220514 - Annual report on equal treatment of athletes"
 usc_title: 36
 usc_section: "220514"
 chapter: 2205
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 220514"
-generated_at: "2026-11-23T21:15:33.882Z"
+generated_at: "2026-11-23T21:17:22.032Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 426a - Qualifications of members of commission"
 usc_title: 16
 usc_section: "426a"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 426a"
-generated_at: "2026-11-23T21:14:54.824Z"
+generated_at: "2026-11-23T21:17:04.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2367 - Renumbered § 4126]"
 usc_title: 10
 usc_section: "2367"
 chapter: 139
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2367"
-generated_at: "2026-11-23T21:14:24.757Z"
+generated_at: "2026-11-23T21:16:51.465Z"
 status: "renumbered"
 ---
 

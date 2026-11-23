@@ -3,9 +3,9 @@ title: "Section 49 - At-risk rules"
 usc_title: 26
 usc_section: "49"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 49"
-generated_at: "2026-11-23T21:15:21.046Z"
+generated_at: "2026-11-23T21:17:15.966Z"
 status: "active"
 ---
 

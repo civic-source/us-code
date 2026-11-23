@@ -3,9 +3,9 @@ title: "Section 1825 - Issuance of notes, debentures, bonds, and other obligatio
 usc_title: 12
 usc_section: "1825"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 1825"
-generated_at: "2026-11-23T21:14:33.054Z"
+generated_at: "2026-11-23T21:16:55.431Z"
 status: "active"
 ---
 

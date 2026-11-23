@@ -3,9 +3,9 @@ title: "Section 460hhh - Definitions"
 usc_title: 16
 usc_section: "460hhh"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 460hhh"
-generated_at: "2026-11-23T21:14:55.002Z"
+generated_at: "2026-11-23T21:17:04.140Z"
 status: "active"
 ---
 

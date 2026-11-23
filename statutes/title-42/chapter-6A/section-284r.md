@@ -3,9 +3,9 @@ title: "Section 284r - Basic research"
 usc_title: 42
 usc_section: "284r"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 284r"
-generated_at: "2026-11-23T21:15:59.511Z"
+generated_at: "2026-11-23T21:17:31.339Z"
 status: "active"
 ---
 

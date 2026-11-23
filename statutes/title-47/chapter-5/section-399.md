@@ -3,9 +3,9 @@ title: "Section 399 - Support of political candidates prohibited"
 usc_title: 47
 usc_section: "399"
 chapter: 5
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "47 U.S.C. § 399"
-generated_at: "2026-11-23T21:16:06.074Z"
+generated_at: "2026-11-23T21:17:35.025Z"
 status: "active"
 ---
 

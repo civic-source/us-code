@@ -3,9 +3,9 @@ title: "Section 7271c - Repealed. Pub. L. 105–85, div. C, title XXXI, § 3152(
 usc_title: 42
 usc_section: "7271c"
 chapter: 84
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7271c"
-generated_at: "2026-11-23T21:16:01.954Z"
+generated_at: "2026-11-23T21:17:32.363Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3604 - Program to accelerate the procurement and fielding of inn
 usc_title: 10
 usc_section: "3604"
 chapter: 253
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 3604"
-generated_at: "2026-11-23T21:14:25.002Z"
+generated_at: "2026-11-23T21:16:51.569Z"
 status: "active"
 ---
 

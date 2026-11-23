@@ -3,9 +3,9 @@ title: "Section 771 - Unauthorized wearing prohibited"
 usc_title: 10
 usc_section: "771"
 chapter: 45
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 771"
-generated_at: "2026-11-23T21:14:24.238Z"
+generated_at: "2026-11-23T21:16:51.236Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3507 - Definitions"
 usc_title: 33
 usc_section: "3507"
 chapter: 48
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 3507"
-generated_at: "2026-11-23T21:15:29.906Z"
+generated_at: "2026-11-23T21:17:19.997Z"
 status: "active"
 ---
 

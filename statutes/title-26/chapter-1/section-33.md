@@ -3,9 +3,9 @@ title: "Section 33 - Tax withheld at source on nonresident aliens and foreign co
 usc_title: 26
 usc_section: "33"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 33"
-generated_at: "2026-11-23T21:15:20.938Z"
+generated_at: "2026-11-23T21:17:15.919Z"
 status: "active"
 ---
 

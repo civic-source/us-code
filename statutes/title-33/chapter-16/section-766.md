@@ -3,9 +3,9 @@ title: "Section 766 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "766"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 766"
-generated_at: "2026-11-23T21:15:29.548Z"
+generated_at: "2026-11-23T21:17:19.844Z"
 status: "repealed"
 ---
 

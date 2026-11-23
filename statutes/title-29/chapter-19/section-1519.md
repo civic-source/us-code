@@ -3,9 +3,9 @@ title: "Section 1519 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1519"
 chapter: 19
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 1519"
-generated_at: "2026-11-23T21:15:12.827Z"
+generated_at: "2026-11-23T21:17:12.854Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7538 - Omitted"
 usc_title: 22
 usc_section: "7538"
 chapter: 82
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 7538"
-generated_at: "2026-11-23T21:15:05.405Z"
+generated_at: "2026-11-23T21:17:09.927Z"
 status: "omitted"
 ---
 

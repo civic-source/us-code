@@ -3,9 +3,9 @@ title: "Section 903 - Social Security Advisory Board"
 usc_title: 42
 usc_section: "903"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 903"
-generated_at: "2026-11-23T21:16:00.260Z"
+generated_at: "2026-11-23T21:17:31.633Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7269b - Transfer of unexpended appropriation balances"
 usc_title: 42
 usc_section: "7269b"
 chapter: 84
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7269b"
-generated_at: "2026-11-23T21:16:01.953Z"
+generated_at: "2026-11-23T21:17:32.363Z"
 status: "active"
 ---
 

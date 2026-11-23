@@ -3,9 +3,9 @@ title: "Section 13401 - Goals"
 usc_title: 42
 usc_section: "13401"
 chapter: 134
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 13401"
-generated_at: "2026-11-23T21:16:02.658Z"
+generated_at: "2026-11-23T21:17:32.639Z"
 status: "active"
 ---
 

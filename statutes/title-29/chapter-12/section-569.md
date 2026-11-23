@@ -3,9 +3,9 @@ title: "Section 569 - Security detail"
 usc_title: 29
 usc_section: "569"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "29 U.S.C. § 569"
-generated_at: "2026-11-23T21:15:12.584Z"
+generated_at: "2026-11-23T21:17:12.741Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
 
 ## Source Credit
 
-*(Mar. 4, 1913, ch. 141, § 12, as added [Pub. L. 119–75, div. B, title I, § 113(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 255](https://www.govinfo.gov/link/statute/140/255).)*
+*(Mar. 4, 1913, ch. 141, [§ 12,] as added [Pub. L. 119–75, div. B, title I, § 113(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 255](https://www.govinfo.gov/link/statute/140/255).)*

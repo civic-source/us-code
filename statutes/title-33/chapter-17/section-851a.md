@@ -3,9 +3,9 @@ title: "Section 851a - Repealed. June 3, 1948, ch. 390, § 22(a) , formerly § 2
 usc_title: 33
 usc_section: "851a"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 851a"
-generated_at: "2026-11-23T21:15:29.552Z"
+generated_at: "2026-11-23T21:17:19.848Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7749 - Property: for United States surveys"
 usc_title: 10
 usc_section: "7749"
 chapter: 777
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 7749"
-generated_at: "2026-11-23T21:14:25.273Z"
+generated_at: "2026-11-23T21:16:51.693Z"
 status: "active"
 ---
 

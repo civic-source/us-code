@@ -3,9 +3,9 @@ title: "Section 665 - Procedures for monitoring careers of joint qualified offic
 usc_title: 10
 usc_section: "665"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 665"
-generated_at: "2026-11-23T21:14:24.219Z"
+generated_at: "2026-11-23T21:16:51.227Z"
 status: "active"
 ---
 

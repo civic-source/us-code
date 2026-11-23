@@ -3,9 +3,9 @@ title: "Section 671 - Repealed and Omitted"
 usc_title: 16
 usc_section: "671"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 671"
-generated_at: "2026-11-23T21:14:55.225Z"
+generated_at: "2026-11-23T21:17:04.229Z"
 status: "repealed"
 ---
 

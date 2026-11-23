@@ -3,9 +3,9 @@ title: "Section 9306 - Rule of construction"
 usc_title: 15
 usc_section: "9306"
 chapter: 118
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 9306"
-generated_at: "2026-11-23T21:14:39.600Z"
+generated_at: "2026-11-23T21:16:57.684Z"
 status: "active"
 ---
 

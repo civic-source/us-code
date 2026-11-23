@@ -3,9 +3,9 @@ title: "Section 4370f - Availability of funds after expiration of period for liq
 usc_title: 42
 usc_section: "4370f"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 4370f"
-generated_at: "2026-11-23T21:16:01.540Z"
+generated_at: "2026-11-23T21:17:32.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 893c - Workforce study"
 usc_title: 33
 usc_section: "893c"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 893c"
-generated_at: "2026-11-23T21:15:29.568Z"
+generated_at: "2026-11-23T21:17:19.854Z"
 status: "active"
 ---
 

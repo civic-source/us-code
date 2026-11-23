@@ -3,9 +3,9 @@ title: "Section 139M - Compensation for losses or damages resulting from certain
 usc_title: 26
 usc_section: "139M"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 139M"
-generated_at: "2026-11-23T21:15:21.144Z"
+generated_at: "2026-11-23T21:17:16.010Z"
 status: "active"
 ---
 

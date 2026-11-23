@@ -3,9 +3,9 @@ title: "Section 3319g - Fees"
 usc_title: 7
 usc_section: "3319g"
 chapter: 64
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 3319g"
-generated_at: "2026-11-23T21:14:16.639Z"
+generated_at: "2026-11-23T21:16:46.907Z"
 status: "active"
 ---
 

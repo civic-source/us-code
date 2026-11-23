@@ -3,9 +3,9 @@ title: "Section 2302d - Repealed. Pub. L. 116–283, div. A, title XVIII, § 188
 usc_title: 10
 usc_section: "2302d"
 chapter: 137
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2302d"
-generated_at: "2026-11-23T21:14:24.741Z"
+generated_at: "2026-11-23T21:16:51.458Z"
 status: "repealed"
 ---
 

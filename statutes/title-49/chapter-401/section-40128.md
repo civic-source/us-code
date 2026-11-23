@@ -3,9 +3,9 @@ title: "Section 40128 - Overflights of national parks"
 usc_title: 49
 usc_section: "40128"
 chapter: 401
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 40128"
-generated_at: "2026-11-23T21:16:12.375Z"
+generated_at: "2026-11-23T21:17:39.116Z"
 status: "active"
 ---
 

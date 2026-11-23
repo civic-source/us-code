@@ -3,9 +3,9 @@ title: "Section 365 - Omitted"
 usc_title: 45
 usc_section: "365"
 chapter: 11
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "45 U.S.C. § 365"
-generated_at: "2026-11-23T21:15:40.877Z"
+generated_at: "2026-11-23T21:17:33.221Z"
 status: "omitted"
 ---
 

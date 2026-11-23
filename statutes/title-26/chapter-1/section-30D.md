@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-11-23T21:15:20.931Z"
+generated_at: "2026-11-23T21:17:15.916Z"
 status: "active"
 ---
 

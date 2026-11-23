@@ -3,9 +3,9 @@ title: "Section 1445i - Multiyear set-aside contracts for 1986 through 1990 crop
 usc_title: 7
 usc_section: "1445i"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1445i"
-generated_at: "2026-11-23T21:14:16.234Z"
+generated_at: "2026-11-23T21:16:46.737Z"
 status: "active"
 ---
 

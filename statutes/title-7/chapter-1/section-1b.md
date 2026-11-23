@@ -3,9 +3,9 @@ title: "Section 1b - Requirements of Secretary of the Treasury regarding exempti
 usc_title: 7
 usc_section: "1b"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1b"
-generated_at: "2026-11-23T21:14:15.851Z"
+generated_at: "2026-11-23T21:16:46.585Z"
 status: "active"
 ---
 

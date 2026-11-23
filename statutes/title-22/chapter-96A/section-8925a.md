@@ -3,9 +3,9 @@ title: "Section 8925a - Ukraine Security Assistance Initiative"
 usc_title: 22
 usc_section: "8925a"
 chapter: 96
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 8925a"
-generated_at: "2026-11-23T21:15:05.498Z"
+generated_at: "2026-11-23T21:17:09.971Z"
 status: "active"
 ---
 

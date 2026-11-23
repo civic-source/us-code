@@ -3,9 +3,9 @@ title: "Section 3758 - Service of notice of foreclosure sale"
 usc_title: 12
 usc_section: "3758"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 3758"
-generated_at: "2026-11-23T21:14:33.277Z"
+generated_at: "2026-11-23T21:16:55.581Z"
 status: "active"
 ---
 

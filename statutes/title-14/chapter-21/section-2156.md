@@ -3,9 +3,9 @@ title: "Section 2156 - Deferment of retirement or separation for medical reasons
 usc_title: 14
 usc_section: "2156"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 2156"
-generated_at: "2026-11-23T21:14:28.237Z"
+generated_at: "2026-11-23T21:16:53.795Z"
 status: "active"
 ---
 

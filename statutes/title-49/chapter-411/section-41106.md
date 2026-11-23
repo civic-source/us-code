@@ -3,9 +3,9 @@ title: "Section 41106 - Airlift service"
 usc_title: 49
 usc_section: "41106"
 chapter: 411
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 41106"
-generated_at: "2026-11-23T21:16:12.381Z"
+generated_at: "2026-11-23T21:17:39.120Z"
 status: "active"
 ---
 

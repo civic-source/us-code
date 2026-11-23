@@ -3,9 +3,9 @@ title: "Section 311 - United States Coast Guard Band; composition; director"
 usc_title: 14
 usc_section: "311"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 311"
-generated_at: "2026-11-23T21:14:28.107Z"
+generated_at: "2026-11-23T21:16:53.746Z"
 status: "active"
 ---
 

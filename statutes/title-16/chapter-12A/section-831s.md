@@ -3,9 +3,9 @@ title: "Section 831s - Possession by Government in time of war; damages to contr
 usc_title: 16
 usc_section: "831s"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 831s"
-generated_at: "2026-11-23T21:14:55.351Z"
+generated_at: "2026-11-23T21:17:04.294Z"
 status: "active"
 ---
 

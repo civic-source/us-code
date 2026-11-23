@@ -3,9 +3,9 @@ title: "Section 5518 - Authority to restrict mandatory pre-dispute arbitration"
 usc_title: 12
 usc_section: "5518"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 5518"
-generated_at: "2026-11-23T21:14:33.540Z"
+generated_at: "2026-11-23T21:16:55.716Z"
 status: "active"
 ---
 

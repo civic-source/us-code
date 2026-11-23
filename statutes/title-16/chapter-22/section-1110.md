@@ -3,9 +3,9 @@ title: "Section 1110 - Liability"
 usc_title: 16
 usc_section: "1110"
 chapter: 22
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 1110"
-generated_at: "2026-11-23T21:14:55.416Z"
+generated_at: "2026-11-23T21:17:04.320Z"
 status: "active"
 ---
 

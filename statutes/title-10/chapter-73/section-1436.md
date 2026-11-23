@@ -3,9 +3,9 @@ title: "Section 1436 - Computation of reduction in retired pay; withdrawal for s
 usc_title: 10
 usc_section: "1436"
 chapter: 73
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1436"
-generated_at: "2026-11-23T21:14:24.526Z"
+generated_at: "2026-11-23T21:16:51.365Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 172 - Explosive safety board"
 usc_title: 10
 usc_section: "172"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 172"
-generated_at: "2026-11-23T21:14:24.032Z"
+generated_at: "2026-11-23T21:16:51.144Z"
 status: "active"
 ---
 

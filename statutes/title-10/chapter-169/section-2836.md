@@ -3,9 +3,9 @@ title: "Section 2836 - Military housing rental guarantee program"
 usc_title: 10
 usc_section: "2836"
 chapter: 169
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2836"
-generated_at: "2026-11-23T21:14:24.914Z"
+generated_at: "2026-11-23T21:16:51.531Z"
 status: "active"
 ---
 

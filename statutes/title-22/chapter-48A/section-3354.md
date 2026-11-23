@@ -3,9 +3,9 @@ title: "Section 3354 - Use of Special Defense Acquisition Fund"
 usc_title: 22
 usc_section: "3354"
 chapter: 48
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3354"
-generated_at: "2026-11-23T21:15:05.101Z"
+generated_at: "2026-11-23T21:17:09.793Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 282e - Payment of subscriptions to Corporation by United States;
 usc_title: 22
 usc_section: "282e"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 282e"
-generated_at: "2026-11-23T21:15:04.548Z"
+generated_at: "2026-11-23T21:17:09.576Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9448 - Cadets: service obligation"
 usc_title: 10
 usc_section: "9448"
 chapter: 953
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 9448"
-generated_at: "2026-11-23T21:14:25.510Z"
+generated_at: "2026-11-23T21:16:51.797Z"
 status: "active"
 ---
 

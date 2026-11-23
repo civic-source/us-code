@@ -3,9 +3,9 @@ title: "Section 3142 - Rate of wages for laborers and mechanics"
 usc_title: 40
 usc_section: "3142"
 chapter: 31
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "40 U.S.C. § 3142"
-generated_at: "2026-11-23T21:15:34.688Z"
+generated_at: "2026-11-23T21:17:23.670Z"
 status: "active"
 ---
 

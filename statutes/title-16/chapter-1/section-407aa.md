@@ -3,9 +3,9 @@ title: "Section 407aa - Findings and purposes"
 usc_title: 16
 usc_section: "407aa"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 407aa"
-generated_at: "2026-11-23T21:14:54.684Z"
+generated_at: "2026-11-23T21:17:04.013Z"
 status: "active"
 ---
 

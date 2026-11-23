@@ -3,9 +3,9 @@ title: "Section 4834 - Overseas foreign critical technology monitoring and asses
 usc_title: 10
 usc_section: "4834"
 chapter: 383
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 4834"
-generated_at: "2026-11-23T21:14:25.108Z"
+generated_at: "2026-11-23T21:16:51.623Z"
 status: "active"
 ---
 

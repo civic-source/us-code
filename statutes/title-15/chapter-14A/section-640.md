@@ -3,9 +3,9 @@ title: "Section 640 - Voluntary agreements among small-business concerns"
 usc_title: 15
 usc_section: "640"
 chapter: 14
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 640"
-generated_at: "2026-11-23T21:14:38.687Z"
+generated_at: "2026-11-23T21:16:57.293Z"
 status: "active"
 ---
 

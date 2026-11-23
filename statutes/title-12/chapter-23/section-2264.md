@@ -3,9 +3,9 @@ title: "Section 2264 - Suspension or removal of director or officer"
 usc_title: 12
 usc_section: "2264"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2264"
-generated_at: "2026-11-23T21:14:33.173Z"
+generated_at: "2026-11-23T21:16:55.501Z"
 status: "active"
 ---
 

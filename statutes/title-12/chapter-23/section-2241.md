@@ -3,9 +3,9 @@ title: "Section 2241 - Farm Credit Administration"
 usc_title: 12
 usc_section: "2241"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2241"
-generated_at: "2026-11-23T21:14:33.166Z"
+generated_at: "2026-11-23T21:16:55.496Z"
 status: "active"
 ---
 

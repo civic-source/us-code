@@ -3,9 +3,9 @@ title: "Section 231a - Additional lands"
 usc_title: 16
 usc_section: "231a"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 231a"
-generated_at: "2026-11-23T21:14:54.633Z"
+generated_at: "2026-11-23T21:17:03.991Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1473 - Use of existing Government property and facilities"
 usc_title: 22
 usc_section: "1473"
 chapter: 18
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1473"
-generated_at: "2026-11-23T21:15:04.659Z"
+generated_at: "2026-11-23T21:17:09.621Z"
 status: "active"
 ---
 

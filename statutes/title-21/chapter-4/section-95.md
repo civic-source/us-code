@@ -3,9 +3,9 @@ title: "Section 95 - Transferred"
 usc_title: 21
 usc_section: "95"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "21 U.S.C. § 95"
-generated_at: "2026-11-23T21:15:06.864Z"
+generated_at: "2026-11-23T21:17:07.009Z"
 status: "transferred"
 ---
 

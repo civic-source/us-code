@@ -3,9 +3,9 @@ title: "Section 4741 - Findings and purposes"
 usc_title: 12
 usc_section: "4741"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 4741"
-generated_at: "2026-11-23T21:14:33.381Z"
+generated_at: "2026-11-23T21:16:55.654Z"
 status: "active"
 ---
 

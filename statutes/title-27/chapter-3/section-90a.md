@@ -3,9 +3,9 @@ title: "Section 90a - Omitted"
 usc_title: 27
 usc_section: "90a"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "27 U.S.C. § 90a"
-generated_at: "2026-11-23T21:15:08.579Z"
+generated_at: "2026-11-23T21:17:11.614Z"
 status: "omitted"
 ---
 

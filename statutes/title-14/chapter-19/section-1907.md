@@ -3,9 +3,9 @@ title: "Section 1907 - Coast Guard Academy Cadet Advisory Board"
 usc_title: 14
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 1907"
-generated_at: "2026-11-23T21:14:28.217Z"
+generated_at: "2026-11-23T21:16:53.782Z"
 status: "active"
 ---
 

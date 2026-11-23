@@ -3,9 +3,9 @@ title: "Section 2703 - Environmental restoration accounts"
 usc_title: 10
 usc_section: "2703"
 chapter: 160
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2703"
-generated_at: "2026-11-23T21:14:24.863Z"
+generated_at: "2026-11-23T21:16:51.510Z"
 status: "active"
 ---
 

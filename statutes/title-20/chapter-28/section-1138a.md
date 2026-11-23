@@ -3,9 +3,9 @@ title: "Section 1138a - National Board of the Fund for the Improvement of Postse
 usc_title: 20
 usc_section: "1138a"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1138a"
-generated_at: "2026-11-23T21:14:49.931Z"
+generated_at: "2026-11-23T21:17:02.205Z"
 status: "active"
 ---
 

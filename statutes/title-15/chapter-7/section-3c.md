@@ -3,9 +3,9 @@ title: "Section 3c - Guidelines on the disclosure process for security vulnerabi
 usc_title: 15
 usc_section: "3c"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 3c"
-generated_at: "2026-11-23T21:14:38.558Z"
+generated_at: "2026-11-23T21:16:57.245Z"
 status: "active"
 ---
 

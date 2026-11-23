@@ -3,9 +3,9 @@ title: "Section 51704 - Training for maritime oil pollution prevention, response
 usc_title: 46
 usc_section: "51704"
 chapter: 517
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 51704"
-generated_at: "2026-11-23T21:16:07.891Z"
+generated_at: "2026-11-23T21:17:36.251Z"
 status: "active"
 ---
 

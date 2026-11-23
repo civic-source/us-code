@@ -3,9 +3,9 @@ title: "Section 494 - Nuclear force reductions"
 usc_title: 10
 usc_section: "494"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 494"
-generated_at: "2026-11-23T21:14:24.134Z"
+generated_at: "2026-11-23T21:16:51.191Z"
 status: "active"
 ---
 

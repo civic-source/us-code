@@ -3,9 +3,9 @@ title: "Section 13124 - Rules and regulations"
 usc_title: 5
 usc_section: "13124"
 chapter: 131
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 13124"
-generated_at: "2026-11-23T21:14:07.751Z"
+generated_at: "2026-11-23T21:16:42.867Z"
 status: "active"
 ---
 

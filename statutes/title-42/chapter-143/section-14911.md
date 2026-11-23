@@ -3,9 +3,9 @@ title: "Section 14911 - Designation of central authority"
 usc_title: 42
 usc_section: "14911"
 chapter: 143
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 14911"
-generated_at: "2026-11-23T21:16:02.700Z"
+generated_at: "2026-11-23T21:17:32.653Z"
 status: "active"
 ---
 

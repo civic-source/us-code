@@ -3,9 +3,9 @@ title: "Section 1835 - Allocation of funds"
 usc_title: 25
 usc_section: "1835"
 chapter: 20
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 1835"
-generated_at: "2026-11-23T21:15:00.660Z"
+generated_at: "2026-11-23T21:17:07.846Z"
 status: "active"
 ---
 

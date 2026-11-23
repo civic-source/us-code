@@ -3,9 +3,9 @@ title: "Section 1 - Policy toward certain agents of foreign governments"
 usc_title: 22
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-11-23T21:15:04.455Z"
+generated_at: "2026-11-23T21:17:09.552Z"
 status: "active"
 ---
 

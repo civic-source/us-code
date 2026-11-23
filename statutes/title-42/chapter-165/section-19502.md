@@ -3,9 +3,9 @@ title: "Section 19502 - Whole-Home Repairs Act"
 usc_title: 42
 usc_section: "19502"
 chapter: 165
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 19502"
-generated_at: "2026-11-23T21:16:03.074Z"
+generated_at: "2026-11-23T21:17:32.802Z"
 status: "active"
 ---
 

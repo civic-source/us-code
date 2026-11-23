@@ -3,9 +3,9 @@ title: "Section 1347 - Partition action where United States is joint tenant"
 usc_title: 28
 usc_section: "1347"
 chapter: 85
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "28 U.S.C. § 1347"
-generated_at: "2026-11-23T21:15:10.909Z"
+generated_at: "2026-11-23T21:17:12.146Z"
 status: "active"
 ---
 

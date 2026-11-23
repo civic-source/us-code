@@ -3,9 +3,9 @@ title: "Section 7501 - Definitions"
 usc_title: 16
 usc_section: "7501"
 chapter: 94
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 7501"
-generated_at: "2026-11-23T21:14:55.991Z"
+generated_at: "2026-11-23T21:17:04.563Z"
 status: "active"
 ---
 

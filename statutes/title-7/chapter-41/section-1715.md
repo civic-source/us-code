@@ -3,9 +3,9 @@ title: "Section 1715 - Omitted"
 usc_title: 7
 usc_section: "1715"
 chapter: 41
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1715"
-generated_at: "2026-11-23T21:14:16.325Z"
+generated_at: "2026-11-23T21:16:46.777Z"
 status: "omitted"
 ---
 

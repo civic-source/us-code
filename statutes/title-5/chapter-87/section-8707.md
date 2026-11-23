@@ -3,9 +3,9 @@ title: "Section 8707 - Employee deductions; withholding"
 usc_title: 5
 usc_section: "8707"
 chapter: 87
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 8707"
-generated_at: "2026-11-23T21:14:07.679Z"
+generated_at: "2026-11-23T21:16:42.829Z"
 status: "active"
 ---
 

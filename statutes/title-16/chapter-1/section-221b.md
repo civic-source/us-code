@@ -3,9 +3,9 @@ title: "Section 221b - Various laws made applicable to added lands"
 usc_title: 16
 usc_section: "221b"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 221b"
-generated_at: "2026-11-23T21:14:54.626Z"
+generated_at: "2026-11-23T21:17:03.988Z"
 status: "active"
 ---
 

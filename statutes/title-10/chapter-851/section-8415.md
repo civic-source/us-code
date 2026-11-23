@@ -3,9 +3,9 @@ title: "Section 8415 - Reserve student aviation pilots; reserve aviation pilots:
 usc_title: 10
 usc_section: "8415"
 chapter: 851
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8415"
-generated_at: "2026-11-23T21:14:25.353Z"
+generated_at: "2026-11-23T21:16:51.729Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7916 - Planting flexibility"
 usc_title: 7
 usc_section: "7916"
 chapter: 106
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 7916"
-generated_at: "2026-11-23T21:14:16.897Z"
+generated_at: "2026-11-23T21:16:47.010Z"
 status: "active"
 ---
 

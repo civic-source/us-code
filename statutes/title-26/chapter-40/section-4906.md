@@ -3,9 +3,9 @@ title: "Section 4906 - Application of State laws"
 usc_title: 26
 usc_section: "4906"
 chapter: 40
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 4906"
-generated_at: "2026-11-23T21:15:22.118Z"
+generated_at: "2026-11-23T21:17:16.435Z"
 status: "active"
 ---
 

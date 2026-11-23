@@ -3,9 +3,9 @@ title: "Section 785 - Foreign ownership; comprehensive review; sources of inform
 usc_title: 15
 usc_section: "785"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 785"
-generated_at: "2026-11-23T21:14:38.852Z"
+generated_at: "2026-11-23T21:16:57.342Z"
 status: "active"
 ---
 

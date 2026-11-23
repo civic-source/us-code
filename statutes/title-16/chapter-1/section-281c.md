@@ -3,9 +3,9 @@ title: "Section 281c - Inclusion of lands"
 usc_title: 16
 usc_section: "281c"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 281c"
-generated_at: "2026-11-23T21:14:54.646Z"
+generated_at: "2026-11-23T21:17:03.996Z"
 status: "active"
 ---
 

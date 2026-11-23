@@ -3,9 +3,9 @@ title: "Section 30709 - Records and inspection"
 usc_title: 36
 usc_section: "30709"
 chapter: 307
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 30709"
-generated_at: "2026-11-23T21:15:33.636Z"
+generated_at: "2026-11-23T21:17:21.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1783 - Appropriations for administrative expense"
 usc_title: 42
 usc_section: "1783"
 chapter: 13
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 1783"
-generated_at: "2026-11-23T21:16:01.096Z"
+generated_at: "2026-11-23T21:17:32.025Z"
 status: "active"
 ---
 

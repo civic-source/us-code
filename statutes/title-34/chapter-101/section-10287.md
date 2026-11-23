@@ -3,9 +3,9 @@ title: "Section 10287 - Funds available for appeals and expenses of representati
 usc_title: 34
 usc_section: "10287"
 chapter: 101
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "34 U.S.C. § 10287"
-generated_at: "2026-11-23T21:15:27.178Z"
+generated_at: "2026-11-23T21:17:18.515Z"
 status: "active"
 ---
 

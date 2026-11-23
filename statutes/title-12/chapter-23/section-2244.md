@@ -3,9 +3,9 @@ title: "Section 2244 - Chairman; responsibilities; governing standards"
 usc_title: 12
 usc_section: "2244"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2244"
-generated_at: "2026-11-23T21:14:33.166Z"
+generated_at: "2026-11-23T21:16:55.497Z"
 status: "active"
 ---
 

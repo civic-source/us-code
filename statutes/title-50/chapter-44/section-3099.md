@@ -3,9 +3,9 @@ title: "Section 3099 - Vulnerability assessments of major systems"
 usc_title: 50
 usc_section: "3099"
 chapter: 44
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "50 U.S.C. § 3099"
-generated_at: "2026-11-23T21:16:09.722Z"
+generated_at: "2026-11-23T21:17:37.216Z"
 status: "active"
 ---
 

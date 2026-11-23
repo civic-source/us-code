@@ -3,9 +3,9 @@ title: "Section 5303 - Tribal and Federal advisory committees"
 usc_title: 25
 usc_section: "5303"
 chapter: 46
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 5303"
-generated_at: "2026-11-23T21:15:00.824Z"
+generated_at: "2026-11-23T21:17:07.939Z"
 status: "active"
 ---
 

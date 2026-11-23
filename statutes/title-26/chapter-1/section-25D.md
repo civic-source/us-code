@@ -3,9 +3,9 @@ title: "Section 25D - Residential clean energy credit"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-11-23T21:15:20.919Z"
+generated_at: "2026-11-23T21:17:15.910Z"
 status: "active"
 ---
 

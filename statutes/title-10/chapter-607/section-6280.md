@@ -3,9 +3,9 @@ title: "Section 6280 - Availability of funds"
 usc_title: 10
 usc_section: "6280"
 chapter: 607
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6280"
-generated_at: "2026-11-23T21:14:25.173Z"
+generated_at: "2026-11-23T21:16:51.653Z"
 status: "active"
 ---
 

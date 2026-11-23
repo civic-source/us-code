@@ -3,9 +3,9 @@ title: "Section 5142 - Additional amounts for personnel and equipment for House 
 usc_title: 2
 usc_section: "5142"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 5142"
-generated_at: "2026-11-23T21:14:03.184Z"
+generated_at: "2026-11-23T21:16:41.509Z"
 status: "active"
 ---
 

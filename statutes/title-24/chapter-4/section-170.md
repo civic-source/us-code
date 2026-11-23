@@ -3,9 +3,9 @@ title: "Section 170 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "170"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "24 U.S.C. § 170"
-generated_at: "2026-11-23T21:14:57.657Z"
+generated_at: "2026-11-23T21:17:05.799Z"
 status: "repealed"
 ---
 

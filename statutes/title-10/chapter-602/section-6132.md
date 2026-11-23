@@ -3,9 +3,9 @@ title: "Section 6132 - Long-term plan for meeting national security requirements
 usc_title: 10
 usc_section: "6132"
 chapter: 602
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6132"
-generated_at: "2026-11-23T21:14:25.148Z"
+generated_at: "2026-11-23T21:16:51.644Z"
 status: "active"
 ---
 

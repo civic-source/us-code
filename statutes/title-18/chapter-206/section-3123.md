@@ -3,9 +3,9 @@ title: "Section 3123 - Issuance of an order for a pen register or a trap and tra
 usc_title: 18
 usc_section: "3123"
 chapter: 206
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 3123"
-generated_at: "2026-11-23T21:14:44.051Z"
+generated_at: "2026-11-23T21:16:59.939Z"
 status: "active"
 ---
 

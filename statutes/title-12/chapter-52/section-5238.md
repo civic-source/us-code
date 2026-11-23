@@ -3,9 +3,9 @@ title: "Section 5238 - Study on mark-to-market accounting"
 usc_title: 12
 usc_section: "5238"
 chapter: 52
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 5238"
-generated_at: "2026-11-23T21:14:33.439Z"
+generated_at: "2026-11-23T21:16:55.678Z"
 status: "active"
 ---
 

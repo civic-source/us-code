@@ -3,9 +3,9 @@ title: "Section 925 - Exceptions: Relief from disabilities"
 usc_title: 18
 usc_section: "925"
 chapter: 44
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "18 U.S.C. § 925"
-generated_at: "2026-11-23T21:14:43.837Z"
+generated_at: "2026-11-23T21:16:59.819Z"
 status: "active"
 ---
 

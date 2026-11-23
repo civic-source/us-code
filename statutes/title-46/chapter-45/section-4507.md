@@ -3,9 +3,9 @@ title: "Section 4507 - Penalties"
 usc_title: 46
 usc_section: "4507"
 chapter: 45
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 4507"
-generated_at: "2026-11-23T21:16:07.690Z"
+generated_at: "2026-11-23T21:17:36.164Z"
 status: "active"
 ---
 

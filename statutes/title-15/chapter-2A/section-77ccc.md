@@ -3,9 +3,9 @@ title: "Section 77ccc - Definitions"
 usc_title: 15
 usc_section: "77ccc"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 77ccc"
-generated_at: "2026-11-23T21:14:38.064Z"
+generated_at: "2026-11-23T21:16:57.161Z"
 status: "active"
 ---
 

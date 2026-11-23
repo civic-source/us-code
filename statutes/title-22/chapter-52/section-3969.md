@@ -3,9 +3,9 @@ title: "Section 3969 - Salaries of consular agents"
 usc_title: 22
 usc_section: "3969"
 chapter: 52
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3969"
-generated_at: "2026-11-23T21:15:05.156Z"
+generated_at: "2026-11-23T21:17:09.822Z"
 status: "active"
 ---
 

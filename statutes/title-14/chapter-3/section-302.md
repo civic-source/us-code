@@ -3,9 +3,9 @@ title: "Section 302 - Commandant; appointment"
 usc_title: 14
 usc_section: "302"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 302"
-generated_at: "2026-11-23T21:14:28.100Z"
+generated_at: "2026-11-23T21:16:53.744Z"
 status: "active"
 ---
 

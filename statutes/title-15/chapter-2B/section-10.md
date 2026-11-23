@@ -3,9 +3,9 @@ title: "Section 10 - Registration and regulation of security-based swap dealers 
 usc_title: 15
 usc_section: "10"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-11-23T21:14:38.406Z"
+generated_at: "2026-11-23T21:16:57.193Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10388 - General regulatory authority"
 usc_title: 34
 usc_section: "10388"
 chapter: 101
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "34 U.S.C. § 10388"
-generated_at: "2026-11-23T21:15:27.189Z"
+generated_at: "2026-11-23T21:17:18.519Z"
 status: "active"
 ---
 

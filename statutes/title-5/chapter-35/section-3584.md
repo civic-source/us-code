@@ -3,9 +3,9 @@ title: "Section 3584 - Regulations"
 usc_title: 5
 usc_section: "3584"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "5 U.S.C. § 3584"
-generated_at: "2026-11-23T21:14:07.042Z"
+generated_at: "2026-11-23T21:16:42.641Z"
 status: "active"
 ---
 

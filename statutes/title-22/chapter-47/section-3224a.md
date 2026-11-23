@@ -3,9 +3,9 @@ title: "Section 3224a - Studies and agreements by Secretary of Energy on multina
 usc_title: 22
 usc_section: "3224a"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 3224a"
-generated_at: "2026-11-23T21:15:05.092Z"
+generated_at: "2026-11-23T21:17:09.789Z"
 status: "active"
 ---
 

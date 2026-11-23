@@ -3,9 +3,9 @@ title: "Section 3503 - Biennial reports"
 usc_title: 33
 usc_section: "3503"
 chapter: 48
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "33 U.S.C. § 3503"
-generated_at: "2026-11-23T21:15:29.905Z"
+generated_at: "2026-11-23T21:17:19.996Z"
 status: "active"
 ---
 

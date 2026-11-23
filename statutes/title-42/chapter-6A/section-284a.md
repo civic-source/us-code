@@ -3,9 +3,9 @@ title: "Section 284a - Advisory councils"
 usc_title: 42
 usc_section: "284a"
 chapter: 6
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 284a"
-generated_at: "2026-11-23T21:15:59.501Z"
+generated_at: "2026-11-23T21:17:31.335Z"
 status: "active"
 ---
 

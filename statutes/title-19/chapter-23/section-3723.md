@@ -3,9 +3,9 @@ title: "Section 3723 - Free trade agreements with sub-Saharan African countries"
 usc_title: 19
 usc_section: "3723"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "19 U.S.C. § 3723"
-generated_at: "2026-11-23T21:14:46.356Z"
+generated_at: "2026-11-23T21:17:00.873Z"
 status: "active"
 ---
 

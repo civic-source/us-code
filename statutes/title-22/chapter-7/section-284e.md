@@ -3,9 +3,9 @@ title: "Section 284e - Payment of subscription to Association by United States"
 usc_title: 22
 usc_section: "284e"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 284e"
-generated_at: "2026-11-23T21:15:04.558Z"
+generated_at: "2026-11-23T21:17:09.580Z"
 status: "active"
 ---
 

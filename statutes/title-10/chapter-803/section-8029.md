@@ -3,9 +3,9 @@ title: "Section 8029 - Naval Air Warfare Rapid Capabilities Office"
 usc_title: 10
 usc_section: "8029"
 chapter: 803
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 8029"
-generated_at: "2026-11-23T21:14:25.286Z"
+generated_at: "2026-11-23T21:16:51.699Z"
 status: "active"
 ---
 

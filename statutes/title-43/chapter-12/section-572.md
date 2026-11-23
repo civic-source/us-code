@@ -3,9 +3,9 @@ title: "Section 572 - Disposition of net proceeds; fixing project construction c
 usc_title: 43
 usc_section: "572"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 572"
-generated_at: "2026-11-23T21:15:43.040Z"
+generated_at: "2026-11-23T21:17:26.399Z"
 status: "active"
 ---
 

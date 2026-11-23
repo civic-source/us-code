@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 113–79, title VII, § 7514 , Feb. 7, 201
 usc_title: 7
 usc_section: "1"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T21:14:16.089Z"
+generated_at: "2026-11-23T21:16:46.669Z"
 status: "repealed"
 ---
 

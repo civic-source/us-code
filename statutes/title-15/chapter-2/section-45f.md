@@ -3,9 +3,9 @@ title: "Section 45f - Collection, verification, and disclosure of information by
 usc_title: 15
 usc_section: "45f"
 chapter: 2
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 45f"
-generated_at: "2026-11-23T21:14:37.944Z"
+generated_at: "2026-11-23T21:16:57.138Z"
 status: "active"
 ---
 

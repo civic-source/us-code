@@ -3,9 +3,9 @@ title: "Section 21007 - Authorization of appropriations"
 usc_title: 52
 usc_section: "21007"
 chapter: 209
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "52 U.S.C. § 21007"
-generated_at: "2026-11-23T21:16:14.131Z"
+generated_at: "2026-11-23T21:17:40.644Z"
 status: "active"
 ---
 

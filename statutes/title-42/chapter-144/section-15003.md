@@ -3,9 +3,9 @@ title: "Section 15003 - Records and audits"
 usc_title: 42
 usc_section: "15003"
 chapter: 144
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 15003"
-generated_at: "2026-11-23T21:16:02.708Z"
+generated_at: "2026-11-23T21:17:32.658Z"
 status: "active"
 ---
 

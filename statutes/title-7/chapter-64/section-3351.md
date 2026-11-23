@@ -3,9 +3,9 @@ title: "Section 3351 - Special authorization for biosecurity planning and respon
 usc_title: 7
 usc_section: "3351"
 chapter: 64
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 3351"
-generated_at: "2026-11-23T21:14:16.644Z"
+generated_at: "2026-11-23T21:16:46.909Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4001 - Trade suspension reserves"
 usc_title: 7
 usc_section: "4001"
 chapter: 71
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 4001"
-generated_at: "2026-11-23T21:14:16.663Z"
+generated_at: "2026-11-23T21:16:46.914Z"
 status: "active"
 ---
 

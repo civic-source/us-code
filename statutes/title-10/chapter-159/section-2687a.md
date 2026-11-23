@@ -3,9 +3,9 @@ title: "Section 2687a - Overseas base closures and realignments and status of Un
 usc_title: 10
 usc_section: "2687a"
 chapter: 159
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-11-23T21:14:24.850Z"
+generated_at: "2026-11-23T21:16:51.505Z"
 status: "active"
 ---
 

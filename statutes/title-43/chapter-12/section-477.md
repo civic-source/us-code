@@ -3,9 +3,9 @@ title: "Section 477 - Association or irrigation district as fiscal agent of Gove
 usc_title: 43
 usc_section: "477"
 chapter: 12
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 477"
-generated_at: "2026-11-23T21:15:43.022Z"
+generated_at: "2026-11-23T21:17:26.390Z"
 status: "active"
 ---
 

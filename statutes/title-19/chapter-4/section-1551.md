@@ -3,9 +3,9 @@ title: "Section 1551 - Bonding of carriers"
 usc_title: 19
 usc_section: "1551"
 chapter: 4
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "19 U.S.C. § 1551"
-generated_at: "2026-11-23T21:14:46.080Z"
+generated_at: "2026-11-23T21:17:00.760Z"
 status: "active"
 ---
 

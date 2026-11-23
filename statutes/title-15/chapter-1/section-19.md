@@ -3,9 +3,9 @@ title: "Section 19 - Interlocking directorates and officers"
 usc_title: 15
 usc_section: "19"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 19"
-generated_at: "2026-11-23T21:14:37.931Z"
+generated_at: "2026-11-23T21:16:57.132Z"
 status: "active"
 ---
 

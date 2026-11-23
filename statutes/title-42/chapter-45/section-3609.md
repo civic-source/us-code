@@ -3,9 +3,9 @@ title: "Section 3609 - Education and conciliation; conferences and consultations
 usc_title: 42
 usc_section: "3609"
 chapter: 45
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 3609"
-generated_at: "2026-11-23T21:16:01.461Z"
+generated_at: "2026-11-23T21:17:32.174Z"
 status: "active"
 ---
 

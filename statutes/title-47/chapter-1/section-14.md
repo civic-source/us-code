@@ -3,9 +3,9 @@ title: "Section 14 - Contracts filed with Federal Communications Commission; rep
 usc_title: 47
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "47 U.S.C. § 14"
-generated_at: "2026-11-23T21:16:05.964Z"
+generated_at: "2026-11-23T21:17:34.959Z"
 status: "active"
 ---
 

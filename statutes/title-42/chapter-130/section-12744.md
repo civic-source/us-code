@@ -3,9 +3,9 @@ title: "Section 12744 - Income targeting"
 usc_title: 42
 usc_section: "12744"
 chapter: 130
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 12744"
-generated_at: "2026-11-23T21:16:02.593Z"
+generated_at: "2026-11-23T21:17:32.616Z"
 status: "active"
 ---
 

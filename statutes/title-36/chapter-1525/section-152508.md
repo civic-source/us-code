@@ -3,9 +3,9 @@ title: "Section 152508 - Principal office"
 usc_title: 36
 usc_section: "152508"
 chapter: 1525
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 152508"
-generated_at: "2026-11-23T21:15:33.787Z"
+generated_at: "2026-11-23T21:17:22.003Z"
 status: "active"
 ---
 

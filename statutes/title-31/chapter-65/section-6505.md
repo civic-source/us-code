@@ -3,9 +3,9 @@ title: "Section 6505 - Authority to provide specialized or technical services"
 usc_title: 31
 usc_section: "6505"
 chapter: 65
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "31 U.S.C. § 6505"
-generated_at: "2026-11-23T21:15:25.871Z"
+generated_at: "2026-11-23T21:17:19.165Z"
 status: "active"
 ---
 

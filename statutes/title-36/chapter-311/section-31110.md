@@ -3,9 +3,9 @@ title: "Section 31110 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "31110"
 chapter: 311
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 31110"
-generated_at: "2026-11-23T21:15:33.642Z"
+generated_at: "2026-11-23T21:17:21.954Z"
 status: "active"
 ---
 

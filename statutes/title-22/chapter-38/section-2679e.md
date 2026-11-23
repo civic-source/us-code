@@ -3,9 +3,9 @@ title: "Section 2679e - List of certain telecommunications providers"
 usc_title: 22
 usc_section: "2679e"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2679e"
-generated_at: "2026-11-23T21:15:04.996Z"
+generated_at: "2026-11-23T21:17:09.751Z"
 status: "active"
 ---
 

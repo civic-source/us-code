@@ -3,9 +3,9 @@ title: "Section 280a - Land in Alaska for schools or missions; general land laws
 usc_title: 25
 usc_section: "280a"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 280a"
-generated_at: "2026-11-23T21:15:00.490Z"
+generated_at: "2026-11-23T21:17:07.761Z"
 status: "active"
 ---
 

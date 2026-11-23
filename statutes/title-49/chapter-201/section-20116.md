@@ -3,9 +3,9 @@ title: "Section 20116 - Rulemaking process"
 usc_title: 49
 usc_section: "20116"
 chapter: 201
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 20116"
-generated_at: "2026-11-23T21:16:12.146Z"
+generated_at: "2026-11-23T21:17:38.978Z"
 status: "active"
 ---
 

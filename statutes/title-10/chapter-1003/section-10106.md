@@ -3,9 +3,9 @@ title: "Section 10106 - Army National Guard: when a component of the Army"
 usc_title: 10
 usc_section: "10106"
 chapter: 1003
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 10106"
-generated_at: "2026-11-23T21:14:25.556Z"
+generated_at: "2026-11-23T21:16:51.820Z"
 status: "active"
 ---
 

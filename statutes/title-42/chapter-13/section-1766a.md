@@ -3,9 +3,9 @@ title: "Section 1766a - Meal supplements for children in afterschool care"
 usc_title: 42
 usc_section: "1766a"
 chapter: 13
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 1766a"
-generated_at: "2026-11-23T21:16:01.084Z"
+generated_at: "2026-11-23T21:17:32.019Z"
 status: "active"
 ---
 

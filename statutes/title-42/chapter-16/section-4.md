@@ -3,9 +3,9 @@ title: "Section 4 - Brain Research through Advancing Innovative Neurotechnologie
 usc_title: 42
 usc_section: "4"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-11-23T21:16:01.135Z"
+generated_at: "2026-11-23T21:17:32.043Z"
 status: "active"
 ---
 

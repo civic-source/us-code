@@ -3,9 +3,9 @@ title: "Section 2104 - Advanced training; eligibility for"
 usc_title: 10
 usc_section: "2104"
 chapter: 103
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2104"
-generated_at: "2026-11-23T21:14:24.654Z"
+generated_at: "2026-11-23T21:16:51.421Z"
 status: "active"
 ---
 

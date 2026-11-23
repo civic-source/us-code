@@ -3,9 +3,9 @@ title: "Section 19057 - Food-energy-water research"
 usc_title: 42
 usc_section: "19057"
 chapter: 163
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 19057"
-generated_at: "2026-11-23T21:16:03.040Z"
+generated_at: "2026-11-23T21:17:32.788Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6362 - University-based defense nuclear policy collaboration pro
 usc_title: 10
 usc_section: "6362"
 chapter: 608
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6362"
-generated_at: "2026-11-23T21:14:25.182Z"
+generated_at: "2026-11-23T21:16:51.657Z"
 status: "active"
 ---
 

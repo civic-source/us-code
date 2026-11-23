@@ -3,9 +3,9 @@ title: "Section 44737 - Helicopter fuel system safety"
 usc_title: 49
 usc_section: "44737"
 chapter: 447
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 44737"
-generated_at: "2026-11-23T21:16:12.478Z"
+generated_at: "2026-11-23T21:17:39.200Z"
 status: "active"
 ---
 

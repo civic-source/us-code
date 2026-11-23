@@ -3,9 +3,9 @@ title: "Section 55603 - Multistate, State, Tribal, and regional transportation p
 usc_title: 46
 usc_section: "55603"
 chapter: 556
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 55603"
-generated_at: "2026-11-23T21:16:07.971Z"
+generated_at: "2026-11-23T21:17:36.296Z"
 status: "active"
 ---
 

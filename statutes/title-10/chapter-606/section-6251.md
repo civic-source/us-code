@@ -3,9 +3,9 @@ title: "Section 6251 - Executive management training in Department of Energy"
 usc_title: 10
 usc_section: "6251"
 chapter: 606
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6251"
-generated_at: "2026-11-23T21:14:25.170Z"
+generated_at: "2026-11-23T21:16:51.651Z"
 status: "active"
 ---
 

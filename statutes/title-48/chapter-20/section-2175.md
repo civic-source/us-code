@@ -3,9 +3,9 @@ title: "Section 2175 - Role and capacity of Oversight Board"
 usc_title: 48
 usc_section: "2175"
 chapter: 20
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "48 U.S.C. § 2175"
-generated_at: "2026-11-23T21:16:05.353Z"
+generated_at: "2026-11-23T21:17:35.473Z"
 status: "active"
 ---
 

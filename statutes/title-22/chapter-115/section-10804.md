@@ -3,9 +3,9 @@ title: "Section 10804 - Imposition of sanctions with respect to other entities o
 usc_title: 22
 usc_section: "10804"
 chapter: 115
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 10804"
-generated_at: "2026-11-23T21:15:05.598Z"
+generated_at: "2026-11-23T21:17:10.016Z"
 status: "active"
 ---
 

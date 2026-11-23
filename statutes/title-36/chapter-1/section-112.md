@@ -3,9 +3,9 @@ title: "Section 112 - Honor America Days"
 usc_title: 36
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 112"
-generated_at: "2026-11-23T21:15:33.503Z"
+generated_at: "2026-11-23T21:17:21.904Z"
 status: "active"
 ---
 

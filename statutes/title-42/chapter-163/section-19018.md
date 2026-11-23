@@ -3,9 +3,9 @@ title: "Section 19018 - Intramural emerging research institutions pilot program"
 usc_title: 42
 usc_section: "19018"
 chapter: 163
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 19018"
-generated_at: "2026-11-23T21:16:03.036Z"
+generated_at: "2026-11-23T21:17:32.787Z"
 status: "active"
 ---
 

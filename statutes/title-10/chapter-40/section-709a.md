@@ -3,9 +3,9 @@ title: "Section 709a - Expenses incurred in connection with leave canceled due t
 usc_title: 10
 usc_section: "709a"
 chapter: 40
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 709a"
-generated_at: "2026-11-23T21:14:24.230Z"
+generated_at: "2026-11-23T21:16:51.232Z"
 status: "active"
 ---
 

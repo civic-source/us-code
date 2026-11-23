@@ -3,9 +3,9 @@ title: "Section 9213 - Reporting requirements"
 usc_title: 22
 usc_section: "9213"
 chapter: 99
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 9213"
-generated_at: "2026-11-23T21:15:05.510Z"
+generated_at: "2026-11-23T21:17:09.976Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1470 - Repealed. Pub. L. 98–213, § 16(v) , Dec. 8, 1983 , 97 
 usc_title: 48
 usc_section: "1470"
 chapter: 10
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "48 U.S.C. § 1470"
-generated_at: "2026-11-23T21:16:05.209Z"
+generated_at: "2026-11-23T21:17:35.358Z"
 status: "repealed"
 ---
 

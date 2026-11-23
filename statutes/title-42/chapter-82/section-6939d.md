@@ -3,9 +3,9 @@ title: "Section 6939d - Public vessels"
 usc_title: 42
 usc_section: "6939d"
 chapter: 82
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 6939d"
-generated_at: "2026-11-23T21:16:01.895Z"
+generated_at: "2026-11-23T21:17:32.340Z"
 status: "active"
 ---
 

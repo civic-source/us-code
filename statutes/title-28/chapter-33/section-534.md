@@ -3,9 +3,9 @@ title: "Section 534 - Acquisition, preservation, and exchange of identification 
 usc_title: 28
 usc_section: "534"
 chapter: 33
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "28 U.S.C. § 534"
-generated_at: "2026-11-23T21:15:10.846Z"
+generated_at: "2026-11-23T21:17:12.116Z"
 status: "active"
 ---
 

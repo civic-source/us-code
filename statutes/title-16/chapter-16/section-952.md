@@ -3,9 +3,9 @@ title: "Section 952 - Commissioners"
 usc_title: 16
 usc_section: "952"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 952"
-generated_at: "2026-11-23T21:14:55.390Z"
+generated_at: "2026-11-23T21:17:04.311Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2656 - Management of foreign affairs"
 usc_title: 22
 usc_section: "2656"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2656"
-generated_at: "2026-11-23T21:15:04.975Z"
+generated_at: "2026-11-23T21:17:09.743Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9412 - Report on Iranian expenditures supporting foreign militar
 usc_title: 22
 usc_section: "9412"
 chapter: 101
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 9412"
-generated_at: "2026-11-23T21:15:05.526Z"
+generated_at: "2026-11-23T21:17:09.986Z"
 status: "active"
 ---
 

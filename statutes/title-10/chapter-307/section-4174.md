@@ -3,9 +3,9 @@ title: "Section 4174 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "4174"
 chapter: 307
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 4174"
-generated_at: "2026-11-23T21:14:25.055Z"
+generated_at: "2026-11-23T21:16:51.597Z"
 status: "active"
 ---
 

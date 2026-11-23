@@ -3,9 +3,9 @@ title: "Section 2034 - Assistance for community food projects"
 usc_title: 7
 usc_section: "2034"
 chapter: 51
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 2034"
-generated_at: "2026-11-23T21:14:16.511Z"
+generated_at: "2026-11-23T21:16:46.854Z"
 status: "active"
 ---
 

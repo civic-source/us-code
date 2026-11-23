@@ -3,9 +3,9 @@ title: "Section 522 - Repealed. Pub. L. 87–834, § 17(b)(2) , Oct. 16, 1962 , 
 usc_title: 26
 usc_section: "522"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 522"
-generated_at: "2026-11-23T21:15:21.588Z"
+generated_at: "2026-11-23T21:17:16.204Z"
 status: "repealed"
 ---
 

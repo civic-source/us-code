@@ -3,9 +3,9 @@ title: "Section 4133 - Program requirements"
 usc_title: 25
 usc_section: "4133"
 chapter: 43
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "25 U.S.C. § 4133"
-generated_at: "2026-11-23T21:15:00.793Z"
+generated_at: "2026-11-23T21:17:07.923Z"
 status: "active"
 ---
 

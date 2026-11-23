@@ -3,9 +3,9 @@ title: "Section 5306 - Allocation and distribution of funds"
 usc_title: 42
 usc_section: "5306"
 chapter: 69
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 5306"
-generated_at: "2026-11-23T21:16:01.679Z"
+generated_at: "2026-11-23T21:17:32.257Z"
 status: "active"
 ---
 

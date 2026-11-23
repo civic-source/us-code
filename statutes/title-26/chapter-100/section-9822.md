@@ -3,9 +3,9 @@ title: "Section 9822 - Other patient protections"
 usc_title: 26
 usc_section: "9822"
 chapter: 100
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "26 U.S.C. § 9822"
-generated_at: "2026-11-23T21:15:22.659Z"
+generated_at: "2026-11-23T21:17:16.665Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1023 - Council of Economic Advisers"
 usc_title: 15
 usc_section: "1023"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "15 U.S.C. § 1023"
-generated_at: "2026-11-23T21:14:38.872Z"
+generated_at: "2026-11-23T21:16:57.348Z"
 status: "active"
 ---
 

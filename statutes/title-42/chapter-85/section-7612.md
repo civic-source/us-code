@@ -3,9 +3,9 @@ title: "Section 7612 - Economic impact analyses"
 usc_title: 42
 usc_section: "7612"
 chapter: 85
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 7612"
-generated_at: "2026-11-23T21:16:02.093Z"
+generated_at: "2026-11-23T21:17:32.419Z"
 status: "active"
 ---
 

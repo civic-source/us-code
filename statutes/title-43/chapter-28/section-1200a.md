@@ -3,9 +3,9 @@ title: "Section 1200a - Omitted"
 usc_title: 43
 usc_section: "1200a"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "43 U.S.C. § 1200a"
-generated_at: "2026-11-23T21:15:43.112Z"
+generated_at: "2026-11-23T21:17:26.422Z"
 status: "omitted"
 ---
 

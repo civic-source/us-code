@@ -3,9 +3,9 @@ title: "Section 6 - Advisory Council"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-11-23T21:14:55.045Z"
+generated_at: "2026-11-23T21:17:04.155Z"
 status: "active"
 ---
 

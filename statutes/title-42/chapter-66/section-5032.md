@@ -3,9 +3,9 @@ title: "Section 5032 - Repealed. Pub. L. 95–510, § 102(a) , Oct. 24, 1978 , 9
 usc_title: 42
 usc_section: "5032"
 chapter: 66
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 5032"
-generated_at: "2026-11-23T21:16:01.594Z"
+generated_at: "2026-11-23T21:17:32.224Z"
 status: "repealed"
 ---
 

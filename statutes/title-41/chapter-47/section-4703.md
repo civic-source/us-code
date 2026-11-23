@@ -3,9 +3,9 @@ title: "Section 4703 - Validation of proprietary data restrictions"
 usc_title: 41
 usc_section: "4703"
 chapter: 47
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "41 U.S.C. § 4703"
-generated_at: "2026-11-23T21:15:41.507Z"
+generated_at: "2026-11-23T21:17:25.047Z"
 status: "active"
 ---
 

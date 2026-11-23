@@ -3,9 +3,9 @@ title: "Section 4104 - Availability of facilities and appropriations"
 usc_title: 14
 usc_section: "4104"
 chapter: 41
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "14 U.S.C. § 4104"
-generated_at: "2026-11-23T21:14:28.296Z"
+generated_at: "2026-11-23T21:16:53.814Z"
 status: "active"
 ---
 

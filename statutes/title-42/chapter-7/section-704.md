@@ -3,9 +3,9 @@ title: "Section 704 - Use of allotment funds"
 usc_title: 42
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 704"
-generated_at: "2026-11-23T21:16:00.239Z"
+generated_at: "2026-11-23T21:17:31.624Z"
 status: "active"
 ---
 

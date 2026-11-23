@@ -3,9 +3,9 @@ title: "Section 1161y - Early Federal Pell Grant Commitment Demonstration Progra
 usc_title: 20
 usc_section: "1161y"
 chapter: 28
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 1161y"
-generated_at: "2026-11-23T21:14:49.959Z"
+generated_at: "2026-11-23T21:17:02.218Z"
 status: "active"
 ---
 

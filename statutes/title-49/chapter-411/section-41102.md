@@ -3,9 +3,9 @@ title: "Section 41102 - General, temporary, and charter air transportation certi
 usc_title: 49
 usc_section: "41102"
 chapter: 411
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 41102"
-generated_at: "2026-11-23T21:16:12.379Z"
+generated_at: "2026-11-23T21:17:39.119Z"
 status: "active"
 ---
 

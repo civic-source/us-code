@@ -3,9 +3,9 @@ title: "Section 10805 - Prohibition on transfers of funds involving the Russian 
 usc_title: 22
 usc_section: "10805"
 chapter: 115
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 10805"
-generated_at: "2026-11-23T21:15:05.598Z"
+generated_at: "2026-11-23T21:17:10.016Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 744 - Investigations; fish propagation; investigations of damage
 usc_title: 16
 usc_section: "744"
 chapter: 9
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 744"
-generated_at: "2026-11-23T21:14:55.273Z"
+generated_at: "2026-11-23T21:17:04.253Z"
 status: "active"
 ---
 

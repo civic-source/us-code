@@ -3,9 +3,9 @@ title: "Section 7458 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "7458"
 chapter: 753
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 7458"
-generated_at: "2026-11-23T21:14:25.242Z"
+generated_at: "2026-11-23T21:16:51.683Z"
 status: "active"
 ---
 

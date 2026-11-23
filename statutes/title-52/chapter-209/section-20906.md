@@ -3,9 +3,9 @@ title: "Section 20906 - Effective date"
 usc_title: 52
 usc_section: "20906"
 chapter: 209
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "52 U.S.C. § 20906"
-generated_at: "2026-11-23T21:16:14.122Z"
+generated_at: "2026-11-23T21:17:40.640Z"
 status: "active"
 ---
 

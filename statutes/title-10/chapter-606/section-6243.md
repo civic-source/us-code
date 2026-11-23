@@ -3,9 +3,9 @@ title: "Section 6243 - Department of Energy defense nuclear facilities workforce
 usc_title: 10
 usc_section: "6243"
 chapter: 606
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6243"
-generated_at: "2026-11-23T21:14:25.169Z"
+generated_at: "2026-11-23T21:16:51.651Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2370 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(j)(
 usc_title: 10
 usc_section: "2370"
 chapter: 139
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 2370"
-generated_at: "2026-11-23T21:14:24.758Z"
+generated_at: "2026-11-23T21:16:51.465Z"
 status: "repealed"
 ---
 

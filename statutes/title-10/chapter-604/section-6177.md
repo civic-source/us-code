@@ -3,9 +3,9 @@ title: "Section 6177 - Other programs relating to technology development"
 usc_title: 10
 usc_section: "6177"
 chapter: 604
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6177"
-generated_at: "2026-11-23T21:14:25.161Z"
+generated_at: "2026-11-23T21:16:51.647Z"
 status: "active"
 ---
 

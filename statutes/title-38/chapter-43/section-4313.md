@@ -3,9 +3,9 @@ title: "Section 4313 - Reemployment positions"
 usc_title: 38
 usc_section: "4313"
 chapter: 43
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "38 U.S.C. § 4313"
-generated_at: "2026-11-23T21:15:37.995Z"
+generated_at: "2026-11-23T21:17:23.172Z"
 status: "active"
 ---
 

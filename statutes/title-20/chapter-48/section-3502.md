@@ -3,9 +3,9 @@ title: "Section 3502 - Effect on personnel"
 usc_title: 20
 usc_section: "3502"
 chapter: 48
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "20 U.S.C. § 3502"
-generated_at: "2026-11-23T21:14:50.086Z"
+generated_at: "2026-11-23T21:17:02.271Z"
 status: "active"
 ---
 

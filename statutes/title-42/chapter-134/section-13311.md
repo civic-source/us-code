@@ -3,9 +3,9 @@ title: "Section 13311 - Purposes"
 usc_title: 42
 usc_section: "13311"
 chapter: 134
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 13311"
-generated_at: "2026-11-23T21:16:02.639Z"
+generated_at: "2026-11-23T21:17:32.634Z"
 status: "active"
 ---
 

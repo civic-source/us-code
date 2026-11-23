@@ -3,9 +3,9 @@ title: "Section 511l - Act of agent as that of principal"
 usc_title: 7
 usc_section: "511l"
 chapter: 21
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 511l"
-generated_at: "2026-11-23T21:14:16.108Z"
+generated_at: "2026-11-23T21:16:46.677Z"
 status: "active"
 ---
 

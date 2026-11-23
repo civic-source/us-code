@@ -3,9 +3,9 @@ title: "Section 5514 - Green and Gold Congressional Aide Program"
 usc_title: 2
 usc_section: "5514"
 chapter: 55
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 5514"
-generated_at: "2026-11-23T21:14:03.193Z"
+generated_at: "2026-11-23T21:16:41.513Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20502 - Retention boards"
 usc_title: 10
 usc_section: "20502"
 chapter: 2011
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 20502"
-generated_at: "2026-11-23T21:14:25.677Z"
+generated_at: "2026-11-23T21:16:51.878Z"
 status: "active"
 ---
 

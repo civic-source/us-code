@@ -3,9 +3,9 @@ title: "Section 2275a - Transition rules relating to amendment of certain FCA ap
 usc_title: 12
 usc_section: "2275a"
 chapter: 23
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "12 U.S.C. § 2275a"
-generated_at: "2026-11-23T21:14:33.177Z"
+generated_at: "2026-11-23T21:16:55.504Z"
 status: "active"
 ---
 

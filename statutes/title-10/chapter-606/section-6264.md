@@ -3,9 +3,9 @@ title: "Section 6264 - Programs for persons who may have been exposed to radiati
 usc_title: 10
 usc_section: "6264"
 chapter: 606
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 6264"
-generated_at: "2026-11-23T21:14:25.171Z"
+generated_at: "2026-11-23T21:16:51.652Z"
 status: "active"
 ---
 

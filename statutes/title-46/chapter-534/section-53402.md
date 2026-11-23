@@ -3,9 +3,9 @@ title: "Section 53402 - Establishment of the Tanker Security Fleet"
 usc_title: 46
 usc_section: "53402"
 chapter: 534
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 53402"
-generated_at: "2026-11-23T21:16:07.907Z"
+generated_at: "2026-11-23T21:17:36.259Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1316a - Legislative branch appointments"
 usc_title: 2
 usc_section: "1316a"
 chapter: 24
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "2 U.S.C. § 1316a"
-generated_at: "2026-11-23T21:14:03.028Z"
+generated_at: "2026-11-23T21:16:41.450Z"
 status: "active"
 ---
 

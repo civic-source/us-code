@@ -3,9 +3,9 @@ title: "Section 311 - Office of Intelligence and Analysis"
 usc_title: 31
 usc_section: "311"
 chapter: 3
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "31 U.S.C. § 311"
-generated_at: "2026-11-23T21:15:25.580Z"
+generated_at: "2026-11-23T21:17:19.047Z"
 status: "active"
 ---
 

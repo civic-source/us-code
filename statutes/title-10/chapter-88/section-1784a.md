@@ -3,9 +3,9 @@ title: "Section 1784a - Education and training opportunities for military spouse
 usc_title: 10
 usc_section: "1784a"
 chapter: 88
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1784a"
-generated_at: "2026-11-23T21:14:24.634Z"
+generated_at: "2026-11-23T21:16:51.412Z"
 status: "active"
 ---
 

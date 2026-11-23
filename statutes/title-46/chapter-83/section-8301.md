@@ -3,9 +3,9 @@ title: "Section 8301 - Minimum number of licensed individuals"
 usc_title: 46
 usc_section: "8301"
 chapter: 83
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "46 U.S.C. § 8301"
-generated_at: "2026-11-23T21:16:07.730Z"
+generated_at: "2026-11-23T21:17:36.181Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1846 - Exemption from assessment and taxation of real property o
 usc_title: 48
 usc_section: "1846"
 chapter: 17
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "48 U.S.C. § 1846"
-generated_at: "2026-11-23T21:16:05.232Z"
+generated_at: "2026-11-23T21:17:35.377Z"
 status: "active"
 ---
 

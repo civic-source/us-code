@@ -3,9 +3,9 @@ title: "Section 973a - Application to other laws"
 usc_title: 16
 usc_section: "973a"
 chapter: 16
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 973a"
-generated_at: "2026-11-23T21:14:55.400Z"
+generated_at: "2026-11-23T21:17:04.314Z"
 status: "active"
 ---
 

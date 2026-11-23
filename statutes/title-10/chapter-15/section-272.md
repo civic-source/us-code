@@ -3,9 +3,9 @@ title: "Section 272 - Use of military equipment and facilities"
 usc_title: 10
 usc_section: "272"
 chapter: 15
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 272"
-generated_at: "2026-11-23T21:14:24.077Z"
+generated_at: "2026-11-23T21:16:51.163Z"
 status: "active"
 ---
 

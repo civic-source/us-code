@@ -3,9 +3,9 @@ title: "Section 1055 - Waiver of security deposits for members renting private h
 usc_title: 10
 usc_section: "1055"
 chapter: 53
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1055"
-generated_at: "2026-11-23T21:14:24.356Z"
+generated_at: "2026-11-23T21:16:51.293Z"
 status: "active"
 ---
 

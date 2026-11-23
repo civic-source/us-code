@@ -3,9 +3,9 @@ title: "Section 44515 - Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16
 usc_title: 49
 usc_section: "44515"
 chapter: 445
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "49 U.S.C. § 44515"
-generated_at: "2026-11-23T21:16:12.450Z"
+generated_at: "2026-11-23T21:17:39.171Z"
 status: "repealed"
 ---
 

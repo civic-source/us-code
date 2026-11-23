@@ -3,9 +3,9 @@ title: "Section 10261 - Definitions"
 usc_title: 42
 usc_section: "10261"
 chapter: 108
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "42 U.S.C. § 10261"
-generated_at: "2026-11-23T21:16:02.390Z"
+generated_at: "2026-11-23T21:17:32.535Z"
 status: "active"
 ---
 

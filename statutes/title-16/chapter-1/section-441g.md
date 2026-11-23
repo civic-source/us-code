@@ -3,9 +3,9 @@ title: "Section 441g - Orders to effectuate revision of boundaries; publication"
 usc_title: 16
 usc_section: "441g"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "16 U.S.C. § 441g"
-generated_at: "2026-11-23T21:14:54.854Z"
+generated_at: "2026-11-23T21:17:04.079Z"
 status: "active"
 ---
 

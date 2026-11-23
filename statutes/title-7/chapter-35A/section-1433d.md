@@ -3,9 +3,9 @@ title: "Section 1433d - Omitted"
 usc_title: 7
 usc_section: "1433d"
 chapter: 35
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "7 U.S.C. § 1433d"
-generated_at: "2026-11-23T21:14:16.222Z"
+generated_at: "2026-11-23T21:16:46.731Z"
 status: "omitted"
 ---
 

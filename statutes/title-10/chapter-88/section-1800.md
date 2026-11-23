@@ -3,9 +3,9 @@ title: "Section 1800 - Definitions"
 usc_title: 10
 usc_section: "1800"
 chapter: 88
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "10 U.S.C. § 1800"
-generated_at: "2026-11-23T21:14:24.640Z"
+generated_at: "2026-11-23T21:16:51.415Z"
 status: "active"
 ---
 

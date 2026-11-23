@@ -3,9 +3,9 @@ title: "Section 104 - Carl Garner Federal Lands Cleanup Day"
 usc_title: 36
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "36 U.S.C. § 104"
-generated_at: "2026-11-23T21:15:33.501Z"
+generated_at: "2026-11-23T21:17:21.902Z"
 status: "active"
 ---
 

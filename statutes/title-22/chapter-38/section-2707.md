@@ -3,9 +3,9 @@ title: "Section 2707 - International communications and information policy; duti
 usc_title: 22
 usc_section: "2707"
 chapter: 38
-current_through: "PL 119-121"
+current_through: "PL 119-124"
 classification: "22 U.S.C. § 2707"
-generated_at: "2026-11-23T21:15:05.007Z"
+generated_at: "2026-11-23T21:17:09.758Z"
 status: "active"
 ---
 
