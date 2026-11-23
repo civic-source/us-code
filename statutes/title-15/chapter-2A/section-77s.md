@@ -3,9 +3,9 @@ title: "Section 77s - Special powers of Commission"
 usc_title: 15
 usc_section: "77s"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 77s"
-generated_at: "2026-11-23T20:56:56.070Z"
+generated_at: "2026-11-23T20:58:45.729Z"
 status: "active"
 ---
 

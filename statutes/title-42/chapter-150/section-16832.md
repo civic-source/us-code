@@ -3,9 +3,9 @@ title: "Section 16832 - Omitted"
 usc_title: 42
 usc_section: "16832"
 chapter: 150
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 16832"
-generated_at: "2026-11-23T20:57:44.277Z"
+generated_at: "2026-11-23T20:59:32.515Z"
 status: "omitted"
 ---
 

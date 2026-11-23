@@ -3,9 +3,9 @@ title: "Section 17154 - Use of funds"
 usc_title: 42
 usc_section: "17154"
 chapter: 152
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 17154"
-generated_at: "2026-11-23T20:57:44.300Z"
+generated_at: "2026-11-23T20:59:32.542Z"
 status: "active"
 ---
 

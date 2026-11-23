@@ -3,9 +3,9 @@ title: "Section 12705d - Repealed. Pub. L. 119–101, title I, § 107(c)(2) , Ju
 usc_title: 42
 usc_section: "12705d"
 chapter: 130
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 12705d"
-generated_at: "2026-11-23T20:57:44.075Z"
+generated_at: "2026-11-23T20:59:32.253Z"
 status: "repealed"
 ---
 

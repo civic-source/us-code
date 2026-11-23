@@ -3,9 +3,9 @@ title: "Section 1087qq - Student aid index for independent students with depende
 usc_title: 20
 usc_section: "1087qq"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 1087qq"
-generated_at: "2026-11-23T20:57:02.150Z"
+generated_at: "2026-11-23T20:58:52.034Z"
 status: "active"
 ---
 

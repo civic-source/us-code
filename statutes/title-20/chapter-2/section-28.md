@@ -3,9 +3,9 @@ title: "Section 28 - Repealed. Pub. L. 104–66, title I, § 1041(e) , Dec. 21, 
 usc_title: 20
 usc_section: "28"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 28"
-generated_at: "2026-11-23T20:57:02.016Z"
+generated_at: "2026-11-23T20:58:51.889Z"
 status: "repealed"
 ---
 

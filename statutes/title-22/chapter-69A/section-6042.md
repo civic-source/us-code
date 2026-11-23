@@ -3,9 +3,9 @@ title: "Section 6042 - Reinstitution of family remittances and travel to Cuba"
 usc_title: 22
 usc_section: "6042"
 chapter: 69
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 6042"
-generated_at: "2026-11-23T20:57:12.082Z"
+generated_at: "2026-11-23T20:59:02.938Z"
 status: "active"
 ---
 

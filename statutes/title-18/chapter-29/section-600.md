@@ -3,9 +3,9 @@ title: "Section 600 - Promise of employment or other benefit for political activ
 usc_title: 18
 usc_section: "600"
 chapter: 29
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 600"
-generated_at: "2026-11-23T20:56:58.812Z"
+generated_at: "2026-11-23T20:58:48.799Z"
 status: "active"
 ---
 

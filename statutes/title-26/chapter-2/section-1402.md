@@ -3,9 +3,9 @@ title: "Section 1402 - Definitions"
 usc_title: 26
 usc_section: "1402"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 1402"
-generated_at: "2026-11-23T20:57:20.210Z"
+generated_at: "2026-11-23T20:59:11.597Z"
 status: "active"
 ---
 

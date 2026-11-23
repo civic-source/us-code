@@ -3,9 +3,9 @@ title: "Section 7103 - Reconsideration; correction of obvious errors"
 usc_title: 38
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 7103"
-generated_at: "2026-11-23T20:57:30.406Z"
+generated_at: "2026-11-23T20:59:19.325Z"
 status: "active"
 ---
 

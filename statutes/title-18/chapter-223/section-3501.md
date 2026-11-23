@@ -3,9 +3,9 @@ title: "Section 3501 - Admissibility of confessions"
 usc_title: 18
 usc_section: "3501"
 chapter: 223
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 3501"
-generated_at: "2026-11-23T20:56:59.050Z"
+generated_at: "2026-11-23T20:58:48.969Z"
 status: "active"
 ---
 

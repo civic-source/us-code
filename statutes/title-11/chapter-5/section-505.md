@@ -3,9 +3,9 @@ title: "Section 505 - Determination of tax liability"
 usc_title: 11
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "11 U.S.C. § 505"
-generated_at: "2026-11-23T20:56:51.162Z"
+generated_at: "2026-11-23T20:58:41.692Z"
 status: "active"
 ---
 

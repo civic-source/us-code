@@ -3,9 +3,9 @@ title: "Section 636h - Disaster planning responsibilities"
 usc_title: 15
 usc_section: "636h"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 636h"
-generated_at: "2026-11-23T20:56:56.253Z"
+generated_at: "2026-11-23T20:58:45.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2778 - Control of arms exports and imports"
 usc_title: 22
 usc_section: "2778"
 chapter: 39
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2778"
-generated_at: "2026-11-23T20:57:11.915Z"
+generated_at: "2026-11-23T20:59:02.756Z"
 status: "active"
 ---
 
@@ -201,7 +201,7 @@ status: "active"
 
 (bb) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
-Requirement to Review Excluded Technology List.—
+Requirement to Review Excluded Technology List
 
 In general
 

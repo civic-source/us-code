@@ -3,9 +3,9 @@ title: "Section 292h - Office for Health Education Assistance Loan Default Reduc
 usc_title: 42
 usc_section: "292h"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 292h"
-generated_at: "2026-11-23T20:57:42.341Z"
+generated_at: "2026-11-23T20:59:30.017Z"
 status: "active"
 ---
 

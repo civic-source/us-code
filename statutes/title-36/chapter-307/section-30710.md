@@ -3,9 +3,9 @@ title: "Section 30710 - Service of process"
 usc_title: 36
 usc_section: "30710"
 chapter: 307
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 30710"
-generated_at: "2026-11-23T20:57:28.663Z"
+generated_at: "2026-11-23T20:59:17.784Z"
 status: "active"
 ---
 

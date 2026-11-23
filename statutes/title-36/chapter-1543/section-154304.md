@@ -3,9 +3,9 @@ title: "Section 154304 - Annual report"
 usc_title: 36
 usc_section: "154304"
 chapter: 1543
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 154304"
-generated_at: "2026-11-23T20:57:28.741Z"
+generated_at: "2026-11-23T20:59:17.858Z"
 status: "active"
 ---
 

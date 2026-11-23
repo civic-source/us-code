@@ -3,9 +3,9 @@ title: "Section 1911 - Supreme Court"
 usc_title: 28
 usc_section: "1911"
 chapter: 123
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "28 U.S.C. § 1911"
-generated_at: "2026-11-23T20:57:14.774Z"
+generated_at: "2026-11-23T20:59:05.772Z"
 status: "active"
 ---
 

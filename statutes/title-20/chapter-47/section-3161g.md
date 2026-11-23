@@ -3,9 +3,9 @@ title: "Section 3161g - Transferred"
 usc_title: 20
 usc_section: "3161g"
 chapter: 47
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 3161g"
-generated_at: "2026-11-23T20:57:02.263Z"
+generated_at: "2026-11-23T20:58:52.177Z"
 status: "transferred"
 ---
 

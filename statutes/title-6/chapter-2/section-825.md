@@ -3,9 +3,9 @@ title: "Section 825 - Rules of construction"
 usc_title: 6
 usc_section: "825"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "6 U.S.C. § 825"
-generated_at: "2026-11-23T20:56:41.770Z"
+generated_at: "2026-11-23T20:58:31.841Z"
 status: "active"
 ---
 

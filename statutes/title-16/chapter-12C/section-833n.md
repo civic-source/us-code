@@ -3,9 +3,9 @@ title: "Section 833n - Use of deposits by allottees; nontaxability of lands"
 usc_title: 16
 usc_section: "833n"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 833n"
-generated_at: "2026-11-23T20:57:05.445Z"
+generated_at: "2026-11-23T20:58:55.069Z"
 status: "active"
 ---
 

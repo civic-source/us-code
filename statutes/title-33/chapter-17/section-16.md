@@ -3,9 +3,9 @@ title: "Section 16 - Compensation and travel expenses"
 usc_title: 33
 usc_section: "16"
 chapter: 17
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 16"
-generated_at: "2026-11-23T20:57:25.564Z"
+generated_at: "2026-11-23T20:59:15.389Z"
 status: "active"
 ---
 

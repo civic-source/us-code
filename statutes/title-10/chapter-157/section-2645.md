@@ -3,9 +3,9 @@ title: "Section 2645 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "2645"
 chapter: 157
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2645"
-generated_at: "2026-11-23T20:56:49.009Z"
+generated_at: "2026-11-23T20:58:39.201Z"
 status: "active"
 ---
 

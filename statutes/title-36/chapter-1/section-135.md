@@ -3,9 +3,9 @@ title: "Section 135 - Parents’ Day"
 usc_title: 36
 usc_section: "135"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 135"
-generated_at: "2026-11-23T20:57:28.613Z"
+generated_at: "2026-11-23T20:59:17.722Z"
 status: "active"
 ---
 

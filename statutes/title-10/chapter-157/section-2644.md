@@ -3,9 +3,9 @@ title: "Section 2644 - Control of transportation systems in time of war"
 usc_title: 10
 usc_section: "2644"
 chapter: 157
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2644"
-generated_at: "2026-11-23T20:56:49.008Z"
+generated_at: "2026-11-23T20:58:39.201Z"
 status: "active"
 ---
 

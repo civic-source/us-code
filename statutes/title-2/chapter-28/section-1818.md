@@ -3,9 +3,9 @@ title: "Section 1818 - Rental or lease of storage space"
 usc_title: 2
 usc_section: "1818"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 1818"
-generated_at: "2026-11-23T20:56:37.064Z"
+generated_at: "2026-11-23T20:58:27.803Z"
 status: "active"
 ---
 

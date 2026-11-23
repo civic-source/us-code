@@ -3,9 +3,9 @@ title: "Section 1485 - Housing and related facilities for elderly persons and fa
 usc_title: 42
 usc_section: "1485"
 chapter: 8
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 1485"
-generated_at: "2026-11-23T20:57:43.107Z"
+generated_at: "2026-11-23T20:59:30.915Z"
 status: "active"
 ---
 
@@ -47,10 +47,10 @@ status: "active"
     - **(B)** The Secretary of Agriculture shall consult with the Commissioner of the Internal Revenue Service and take such actions as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms (including applications forms for project transfers), and approval requirements 2 2 So in original. The word “for” probably should appear. multifamily housing projects for which assistance is provided by the Secretary of Agriculture in conjunction with any low-income housing tax credits under section 42 of title 26 or tax-exempt housing bonds.
     - **(C)** Any actions taken pursuant to this paragraph shall be taken in a manner that provides for full compliance with any existing requirements under law or regulation that are designed to protect families receiving Federal housing assistance, including income targeting, rent, and fair housing provisions, and shall also comply with requirements regarding environmental review and protection and wages paid to laborers.
     - **(D)** In implementing the changes required under this paragraph, the Secretary shall solicit recommendations regarding such changes from project owners and sponsors, investors and stakeholders in housing tax credits, State and local housing finance agencies, tenant advocates, and other stakeholders in such projects.
-- **(i)** After approving a project involving newly constructed or substantially rehabilitated units under this section, the Secretary shall limit cost increases to those approved by the Secretary. The Secretary may approve those increases only for unforeseen factors beyond the owner’s control, design changes required by the Secretary or the local government, or changes in financing approved by the Secretary.
   - **(3)** A nonprofit or public body purchaser, including a limited partnership with a general partner with the principal purpose of providing affordable housing, may purchase a property for which a loan is made or insured under this section that has received a market value appraisal, without addressing rehabilitation needs at the time of purchase, if the purchaser—
     - **(A)** makes a commitment to address rehabilitation needs during ownership and long-term use restrictions on the property; and
     - **(B)** at the time of purchase, accepts long-term use restrictions on the property.
+- **(i)** After approving a project involving newly constructed or substantially rehabilitated units under this section, the Secretary shall limit cost increases to those approved by the Secretary. The Secretary may approve those increases only for unforeseen factors beyond the owner’s control, design changes required by the Secretary or the local government, or changes in financing approved by the Secretary.
 - **(j)** For the purpose of achieving the lowest cost in providing units in newly constructed projects assisted under this section, the Secretary shall give a preference in entering into contracts under this section for projects which are to be located on specific tracts of land provided by States, units of local government, or others if the Secretary determines that the tract of land is suitable for such housing, and that affording such preference will be cost effective.
 - **(k)** The Secretary shall assure that management fees are not excessive when a project developed under this section is managed by the developer or an affiliate of the developer.
 - **(l)** For purposes of determining the market feasibility of any project to be assisted under this section—

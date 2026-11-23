@@ -3,9 +3,9 @@ title: "Section 17196 - Organization and administration of programs"
 usc_title: 42
 usc_section: "17196"
 chapter: 152
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 17196"
-generated_at: "2026-11-23T20:57:44.306Z"
+generated_at: "2026-11-23T20:59:32.548Z"
 status: "active"
 ---
 

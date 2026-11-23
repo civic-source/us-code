@@ -3,9 +3,9 @@ title: "Section 1701 - Definitions"
 usc_title: 8
 usc_section: "1701"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1701"
-generated_at: "2026-11-23T20:56:41.268Z"
+generated_at: "2026-11-23T20:58:31.204Z"
 status: "active"
 ---
 

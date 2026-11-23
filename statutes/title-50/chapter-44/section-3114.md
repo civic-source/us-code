@@ -3,9 +3,9 @@ title: "Section 3114 - Submission of covered documents and classified annexes"
 usc_title: 50
 usc_section: "3114"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3114"
-generated_at: "2026-11-23T20:57:49.606Z"
+generated_at: "2026-11-23T20:59:36.909Z"
 status: "active"
 ---
 

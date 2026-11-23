@@ -3,9 +3,9 @@ title: "Section 8005 - Minimum State law requirements"
 usc_title: 15
 usc_section: "8005"
 chapter: 106
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 8005"
-generated_at: "2026-11-23T20:56:56.665Z"
+generated_at: "2026-11-23T20:58:46.223Z"
 status: "active"
 ---
 

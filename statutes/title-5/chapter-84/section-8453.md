@@ -3,9 +3,9 @@ title: "Section 8453 - Application"
 usc_title: 5
 usc_section: "8453"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 8453"
-generated_at: "2026-11-23T20:56:39.304Z"
+generated_at: "2026-11-23T20:58:29.129Z"
 status: "active"
 ---
 

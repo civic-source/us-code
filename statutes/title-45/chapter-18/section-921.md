@@ -3,9 +3,9 @@ title: "Section 921 - Office of Rail Public Counsel"
 usc_title: 45
 usc_section: "921"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "45 U.S.C. § 921"
-generated_at: "2026-11-23T20:57:32.121Z"
+generated_at: "2026-11-23T20:59:33.058Z"
 status: "active"
 ---
 

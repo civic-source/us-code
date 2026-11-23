@@ -3,9 +3,9 @@ title: "Section 914 - Art. 114. Endangerment offenses"
 usc_title: 10
 usc_section: "914"
 chapter: 47
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 914"
-generated_at: "2026-11-23T20:56:48.765Z"
+generated_at: "2026-11-23T20:58:38.949Z"
 status: "active"
 ---
 

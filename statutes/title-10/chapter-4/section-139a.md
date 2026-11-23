@@ -3,9 +3,9 @@ title: "Section 139a - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "139a"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 139a"
-generated_at: "2026-11-23T20:56:48.633Z"
+generated_at: "2026-11-23T20:58:38.779Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7172 - Allotments to States"
 usc_title: 20
 usc_section: "7172"
 chapter: 70
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 7172"
-generated_at: "2026-11-23T20:57:02.333Z"
+generated_at: "2026-11-23T20:58:52.292Z"
 status: "active"
 ---
 

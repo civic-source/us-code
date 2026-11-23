@@ -3,9 +3,9 @@ title: "Section 434 - Amount of land for which entry may be made; farm unit; sub
 usc_title: 43
 usc_section: "434"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 434"
-generated_at: "2026-11-23T20:57:33.443Z"
+generated_at: "2026-11-23T20:59:21.740Z"
 status: "active"
 ---
 

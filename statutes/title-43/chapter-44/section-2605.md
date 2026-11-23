@@ -3,9 +3,9 @@ title: "Section 2605 - Oregon and California land-grant fund; annual distributio
 usc_title: 43
 usc_section: "2605"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 2605"
-generated_at: "2026-11-23T20:57:33.609Z"
+generated_at: "2026-11-23T20:59:21.842Z"
 status: "active"
 ---
 

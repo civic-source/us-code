@@ -3,9 +3,9 @@ title: "Section 2351 - Definitions"
 usc_title: 19
 usc_section: "2351"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 2351"
-generated_at: "2026-11-23T20:57:00.374Z"
+generated_at: "2026-11-23T20:58:50.042Z"
 status: "active"
 ---
 

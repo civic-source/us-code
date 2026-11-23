@@ -3,9 +3,9 @@ title: "Section 105 - Missouri"
 usc_title: 28
 usc_section: "105"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "28 U.S.C. § 105"
-generated_at: "2026-11-23T20:57:14.652Z"
+generated_at: "2026-11-23T20:59:05.602Z"
 status: "active"
 ---
 

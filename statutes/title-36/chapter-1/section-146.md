@@ -3,9 +3,9 @@ title: "Section 146 - National Atomic Veterans Day"
 usc_title: 36
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 146"
-generated_at: "2026-11-23T20:57:28.614Z"
+generated_at: "2026-11-23T20:59:17.724Z"
 status: "active"
 ---
 

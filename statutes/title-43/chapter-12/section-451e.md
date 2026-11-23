@@ -3,9 +3,9 @@ title: "Section 451e - Amendment of farm unit; application; amount of land; exch
 usc_title: 43
 usc_section: "451e"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 451e"
-generated_at: "2026-11-23T20:57:33.444Z"
+generated_at: "2026-11-23T20:59:21.742Z"
 status: "active"
 ---
 

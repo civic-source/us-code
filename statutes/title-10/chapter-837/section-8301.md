@@ -3,9 +3,9 @@ title: "Section 8301 - Delegation of power to award"
 usc_title: 10
 usc_section: "8301"
 chapter: 837
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 8301"
-generated_at: "2026-11-23T20:56:49.272Z"
+generated_at: "2026-11-23T20:58:39.465Z"
 status: "active"
 ---
 

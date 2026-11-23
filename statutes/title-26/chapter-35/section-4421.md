@@ -3,9 +3,9 @@ title: "Section 4421 - Definitions"
 usc_title: 26
 usc_section: "4421"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 4421"
-generated_at: "2026-11-23T20:57:20.336Z"
+generated_at: "2026-11-23T20:59:11.692Z"
 status: "active"
 ---
 

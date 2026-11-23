@@ -3,9 +3,9 @@ title: "Section 7906 - Services of post-combat case coordinators"
 usc_title: 5
 usc_section: "7906"
 chapter: 79
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 7906"
-generated_at: "2026-11-23T20:56:39.211Z"
+generated_at: "2026-11-23T20:58:29.063Z"
 status: "active"
 ---
 

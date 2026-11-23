@@ -3,9 +3,9 @@ title: "Section 1535 - Appeals"
 usc_title: 8
 usc_section: "1535"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1535"
-generated_at: "2026-11-23T20:56:41.261Z"
+generated_at: "2026-11-23T20:58:31.194Z"
 status: "active"
 ---
 

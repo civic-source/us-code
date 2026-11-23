@@ -3,9 +3,9 @@ title: "Section 6924 - Food Loss and Waste Reduction Liaison"
 usc_title: 7
 usc_section: "6924"
 chapter: 98
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 6924"
-generated_at: "2026-11-23T20:56:44.566Z"
+generated_at: "2026-11-23T20:58:34.861Z"
 status: "active"
 ---
 

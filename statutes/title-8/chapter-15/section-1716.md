@@ -3,9 +3,9 @@ title: "Section 1716 - State Border Security Reinforcement Fund"
 usc_title: 8
 usc_section: "1716"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1716"
-generated_at: "2026-11-23T20:56:41.269Z"
+generated_at: "2026-11-23T20:58:31.208Z"
 status: "active"
 ---
 

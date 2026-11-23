@@ -3,9 +3,9 @@ title: "Section 2288 - Bank obligations"
 usc_title: 12
 usc_section: "2288"
 chapter: 24
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 2288"
-generated_at: "2026-11-23T20:56:54.346Z"
+generated_at: "2026-11-23T20:58:43.739Z"
 status: "active"
 ---
 

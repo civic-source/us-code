@@ -3,9 +3,9 @@ title: "Section 1742 - Staff; experts and consultants"
 usc_title: 2
 usc_section: "1742"
 chapter: 27
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 1742"
-generated_at: "2026-11-23T20:56:37.062Z"
+generated_at: "2026-11-23T20:58:27.799Z"
 status: "active"
 ---
 

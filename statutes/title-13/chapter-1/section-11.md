@@ -3,9 +3,9 @@ title: "Section 11 - Authorization of appropriations"
 usc_title: 13
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "13 U.S.C. § 11"
-generated_at: "2026-11-23T20:56:50.796Z"
+generated_at: "2026-11-23T20:58:40.987Z"
 status: "active"
 ---
 

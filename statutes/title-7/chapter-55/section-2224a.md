@@ -3,9 +3,9 @@ title: "Section 2224a - Utilization of employees of agencies for part-time and i
 usc_title: 7
 usc_section: "2224a"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 2224a"
-generated_at: "2026-11-23T20:56:44.406Z"
+generated_at: "2026-11-23T20:58:34.741Z"
 status: "active"
 ---
 

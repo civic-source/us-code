@@ -3,9 +3,9 @@ title: "Section 1359kk - Administration of tariff rate quotas"
 usc_title: 7
 usc_section: "1359kk"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1359kk"
-generated_at: "2026-11-23T20:56:44.210Z"
+generated_at: "2026-11-23T20:58:34.451Z"
 status: "active"
 ---
 
@@ -57,4 +57,4 @@ status: "active"
 
 ## Source Credit
 
-*(Feb. 16, 1938, ch. 30, title III, § 359k, as added [Pub. L. 110–234, title I, § 1403(j)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 988](https://www.govinfo.gov/link/statute/122/988), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(j), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1717; amended [Pub. L. 119–21, title I, § 10312(d)](https://www.govinfo.gov/link/plaw/119/public/21), (e), July 4, 2025, [139 Stat. 97](https://www.govinfo.gov/link/statute/139/97), 99.)*
+*(Feb. 16, 1938, ch. 30, title III, § 359k, as added [Pub. L. 110–234, title I, § 1403(j)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 988](https://www.govinfo.gov/link/statute/122/988), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(j), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1717; [Pub. L. 119–21, title I, § 10312(d)](https://www.govinfo.gov/link/plaw/119/public/21), (e), July 4, 2025, [139 Stat. 97](https://www.govinfo.gov/link/statute/139/97), 99.)*

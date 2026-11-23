@@ -3,9 +3,9 @@ title: "Section 6005 - Congressional proceedings"
 usc_title: 18
 usc_section: "6005"
 chapter: 601
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 6005"
-generated_at: "2026-11-23T20:56:59.110Z"
+generated_at: "2026-11-23T20:58:49.002Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1608 - Service; time to answer; default"
 usc_title: 28
 usc_section: "1608"
 chapter: 97
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "28 U.S.C. § 1608"
-generated_at: "2026-11-23T20:57:14.766Z"
+generated_at: "2026-11-23T20:59:05.757Z"
 status: "active"
 ---
 

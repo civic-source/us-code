@@ -3,9 +3,9 @@ title: "Section 6404 - Notice and comment"
 usc_title: 7
 usc_section: "6404"
 chapter: 93
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 6404"
-generated_at: "2026-11-23T20:56:44.537Z"
+generated_at: "2026-11-23T20:58:34.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 271 - Employment of instructors for Indians"
 usc_title: 25
 usc_section: "271"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 271"
-generated_at: "2026-11-23T20:57:08.353Z"
+generated_at: "2026-11-23T20:58:58.235Z"
 status: "active"
 ---
 

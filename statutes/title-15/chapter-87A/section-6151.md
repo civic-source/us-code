@@ -3,9 +3,9 @@ title: "Section 6151 - National Do-Not-Call Registry"
 usc_title: 15
 usc_section: "6151"
 chapter: 87
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 6151"
-generated_at: "2026-11-23T20:56:56.599Z"
+generated_at: "2026-11-23T20:58:46.177Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3076 - Presentation of United States flag upon retirement"
 usc_title: 33
 usc_section: "3076"
 chapter: 43
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 3076"
-generated_at: "2026-11-23T20:57:25.736Z"
+generated_at: "2026-11-23T20:59:15.532Z"
 status: "active"
 ---
 

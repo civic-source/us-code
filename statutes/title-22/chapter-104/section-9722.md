@@ -3,9 +3,9 @@ title: "Section 9722 - Waiver for sanctioned officials that recognize the Interi
 usc_title: 22
 usc_section: "9722"
 chapter: 104
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9722"
-generated_at: "2026-11-23T20:57:12.291Z"
+generated_at: "2026-11-23T20:59:03.124Z"
 status: "active"
 ---
 

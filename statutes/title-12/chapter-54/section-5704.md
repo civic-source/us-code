@@ -3,9 +3,9 @@ title: "Section 5704 - Approving State capital access programs"
 usc_title: 12
 usc_section: "5704"
 chapter: 54
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 5704"
-generated_at: "2026-11-23T20:56:54.487Z"
+generated_at: "2026-11-23T20:58:43.902Z"
 status: "active"
 ---
 

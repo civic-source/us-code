@@ -3,9 +3,9 @@ title: "Section 8478 - Bonding"
 usc_title: 5
 usc_section: "8478"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 8478"
-generated_at: "2026-11-23T20:56:39.311Z"
+generated_at: "2026-11-23T20:58:29.133Z"
 status: "active"
 ---
 

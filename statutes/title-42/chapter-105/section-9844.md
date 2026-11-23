@@ -3,9 +3,9 @@ title: "Section 9844 - Research, demonstrations, and evaluation"
 usc_title: 42
 usc_section: "9844"
 chapter: 105
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 9844"
-generated_at: "2026-11-23T20:57:43.889Z"
+generated_at: "2026-11-23T20:59:32.013Z"
 status: "active"
 ---
 

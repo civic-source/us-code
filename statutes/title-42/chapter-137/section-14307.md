@@ -3,9 +3,9 @@ title: "Section 14307 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14307"
 chapter: 137
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 14307"
-generated_at: "2026-11-23T20:57:44.152Z"
+generated_at: "2026-11-23T20:59:32.350Z"
 status: "active"
 ---
 

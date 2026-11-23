@@ -3,9 +3,9 @@ title: "Section 2207 - Full faith and credit to tribal actions under tribal ordi
 usc_title: 25
 usc_section: "2207"
 chapter: 24
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 2207"
-generated_at: "2026-11-23T20:57:08.456Z"
+generated_at: "2026-11-23T20:58:58.327Z"
 status: "active"
 ---
 

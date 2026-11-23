@@ -3,9 +3,9 @@ title: "Section 5323 - Preservation and reinvestment for community enhancement"
 usc_title: 42
 usc_section: "5323"
 chapter: 69
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 5323"
-generated_at: "2026-11-23T20:57:43.496Z"
+generated_at: "2026-11-23T20:59:31.438Z"
 status: "active"
 ---
 

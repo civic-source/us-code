@@ -3,9 +3,9 @@ title: "Section 1506 - Oversight of government activities"
 usc_title: 6
 usc_section: "1506"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "6 U.S.C. § 1506"
-generated_at: "2026-11-23T20:56:41.792Z"
+generated_at: "2026-11-23T20:58:31.878Z"
 status: "active"
 ---
 

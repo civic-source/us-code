@@ -3,9 +3,9 @@ title: "Section 10704 - Sanctions relating to the Western Balkans"
 usc_title: 22
 usc_section: "10704"
 chapter: 114
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 10704"
-generated_at: "2026-11-23T20:57:12.312Z"
+generated_at: "2026-11-23T20:59:03.139Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et 16 1 1 So in original. seq.).
     - **(B)**
       - **(i)** The visa or other entry documentation of any alien described in subsection (a) is subject to revocation regardless of the issue date of the visa or other entry documentation.
-      - **(ii)** A revocation under clause (i) shall, in accordance with section 1201(i) of title 8 —
+      - **(ii)** A revocation under clause (i) shall, in accordance with section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) —
         - **(I)** take effect immediately; and
         - **(II)** cancel any other valid visa or entry documentation that is in the possession of the alien.
 - **(d)**

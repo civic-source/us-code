@@ -3,9 +3,9 @@ title: "Section 60125 - Agency activities"
 usc_title: 51
 usc_section: "60125"
 chapter: 601
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "51 U.S.C. § 60125"
-generated_at: "2026-11-23T20:57:54.603Z"
+generated_at: "2026-11-23T20:59:43.618Z"
 status: "active"
 ---
 

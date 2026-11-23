@@ -3,9 +3,9 @@ title: "Section 316d - Notice of establishment and alteration of grazing distric
 usc_title: 43
 usc_section: "316d"
 chapter: 8
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 316d"
-generated_at: "2026-11-23T20:57:33.419Z"
+generated_at: "2026-11-23T20:59:21.717Z"
 status: "active"
 ---
 

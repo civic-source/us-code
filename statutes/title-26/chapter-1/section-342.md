@@ -3,9 +3,9 @@ title: "Section 342 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(47) , Oc
 usc_title: 26
 usc_section: "342"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 342"
-generated_at: "2026-11-23T20:57:19.838Z"
+generated_at: "2026-11-23T20:59:11.334Z"
 status: "repealed"
 ---
 

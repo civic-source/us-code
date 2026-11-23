@@ -3,9 +3,9 @@ title: "Section 3058 - Establishment"
 usc_title: 42
 usc_section: "3058"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 3058"
-generated_at: "2026-11-23T20:57:43.328Z"
+generated_at: "2026-11-23T20:59:31.230Z"
 status: "active"
 ---
 

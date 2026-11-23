@@ -3,9 +3,9 @@ title: "Section 2632 - Exchange of jurisdiction between Secretaries; conditions;
 usc_title: 43
 usc_section: "2632"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 2632"
-generated_at: "2026-11-23T20:57:33.613Z"
+generated_at: "2026-11-23T20:59:21.843Z"
 status: "active"
 ---
 

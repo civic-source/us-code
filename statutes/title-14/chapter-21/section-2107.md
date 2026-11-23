@@ -3,9 +3,9 @@ title: "Section 2107 - Selection boards; composition of boards"
 usc_title: 14
 usc_section: "2107"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 2107"
-generated_at: "2026-11-23T20:56:51.611Z"
+generated_at: "2026-11-23T20:58:41.309Z"
 status: "active"
 ---
 

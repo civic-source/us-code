@@ -3,9 +3,9 @@ title: "Section 55303 - Motor vehicles owned by United States Government personn
 usc_title: 46
 usc_section: "55303"
 chapter: 553
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 55303"
-generated_at: "2026-11-23T20:57:47.727Z"
+generated_at: "2026-11-23T20:59:38.026Z"
 status: "active"
 ---
 

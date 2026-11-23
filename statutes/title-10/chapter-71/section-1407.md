@@ -3,9 +3,9 @@ title: "Section 1407 - Retired pay base for members who first became members aft
 usc_title: 10
 usc_section: "1407"
 chapter: 71
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1407"
-generated_at: "2026-11-23T20:56:48.855Z"
+generated_at: "2026-11-23T20:58:39.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24904 - Northeast Corridor planning"
 usc_title: 49
 usc_section: "24904"
 chapter: 249
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 24904"
-generated_at: "2026-11-23T20:57:52.108Z"
+generated_at: "2026-11-23T20:59:41.088Z"
 status: "active"
 ---
 

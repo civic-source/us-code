@@ -3,9 +3,9 @@ title: "Section 4807 - Omitted"
 usc_title: 16
 usc_section: "4807"
 chapter: 68
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 4807"
-generated_at: "2026-11-23T20:57:05.702Z"
+generated_at: "2026-11-23T20:58:55.317Z"
 status: "omitted"
 ---
 

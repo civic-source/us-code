@@ -3,9 +3,9 @@ title: "Section 5403 - Sale of fasteners"
 usc_title: 15
 usc_section: "5403"
 chapter: 80
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 5403"
-generated_at: "2026-11-23T20:56:56.588Z"
+generated_at: "2026-11-23T20:58:46.171Z"
 status: "active"
 ---
 

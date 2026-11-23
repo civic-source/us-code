@@ -3,9 +3,9 @@ title: "Section 3931 - Board of Examiners"
 usc_title: 22
 usc_section: "3931"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 3931"
-generated_at: "2026-11-23T20:57:11.969Z"
+generated_at: "2026-11-23T20:59:02.825Z"
 status: "active"
 ---
 

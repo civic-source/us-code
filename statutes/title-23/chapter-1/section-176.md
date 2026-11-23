@@ -3,9 +3,9 @@ title: "Section 176 - Promoting Resilient Operations for Transformative, Efficie
 usc_title: 23
 usc_section: "176"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. § 176"
-generated_at: "2026-11-23T20:57:07.580Z"
+generated_at: "2026-11-23T20:58:57.449Z"
 status: "active"
 ---
 

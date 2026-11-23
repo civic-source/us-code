@@ -3,9 +3,9 @@ title: "Section 3701 - Findings and purpose"
 usc_title: 12
 usc_section: "3701"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 3701"
-generated_at: "2026-11-23T20:56:54.382Z"
+generated_at: "2026-11-23T20:58:43.766Z"
 status: "active"
 ---
 

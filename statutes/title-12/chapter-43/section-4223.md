@@ -3,9 +3,9 @@ title: "Section 4223 - Confidentiality of declarations"
 usc_title: 12
 usc_section: "4223"
 chapter: 43
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 4223"
-generated_at: "2026-11-23T20:56:54.401Z"
+generated_at: "2026-11-23T20:58:43.780Z"
 status: "active"
 ---
 

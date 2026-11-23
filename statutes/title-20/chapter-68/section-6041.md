@@ -3,9 +3,9 @@ title: "Section 6041 - Repealed. Pub. L. 107–279, title IV, § 403(2) , Nov. 5
 usc_title: 20
 usc_section: "6041"
 chapter: 68
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 6041"
-generated_at: "2026-11-23T20:57:02.298Z"
+generated_at: "2026-11-23T20:58:52.235Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4582 - Transferred"
 usc_title: 42
 usc_section: "4582"
 chapter: 60
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 4582"
-generated_at: "2026-11-23T20:57:43.417Z"
+generated_at: "2026-11-23T20:59:31.331Z"
 status: "transferred"
 ---
 

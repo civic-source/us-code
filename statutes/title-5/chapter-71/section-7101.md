@@ -3,9 +3,9 @@ title: "Section 7101 - Findings and purpose"
 usc_title: 5
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 7101"
-generated_at: "2026-11-23T20:56:39.187Z"
+generated_at: "2026-11-23T20:58:29.050Z"
 status: "active"
 ---
 
@@ -85,9 +85,7 @@ Sec.
 
 Sec.
 
-Sec.
-
-Sec.
+Donald J. Trump.
 
 ## Source Credit
 

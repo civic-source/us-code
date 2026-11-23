@@ -3,9 +3,9 @@ title: "Section 480 - Training programs"
 usc_title: 28
 usc_section: "480"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "28 U.S.C. § 480"
-generated_at: "2026-11-23T20:57:14.703Z"
+generated_at: "2026-11-23T20:59:05.662Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2106 - Required terms and conditions in orders"
 usc_title: 7
 usc_section: "2106"
 chapter: 53
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 2106"
-generated_at: "2026-11-23T20:56:44.387Z"
+generated_at: "2026-11-23T20:58:34.726Z"
 status: "active"
 ---
 

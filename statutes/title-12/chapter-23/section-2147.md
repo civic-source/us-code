@@ -3,9 +3,9 @@ title: "Section 2147 - Patronage pools"
 usc_title: 12
 usc_section: "2147"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 2147"
-generated_at: "2026-11-23T20:56:54.317Z"
+generated_at: "2026-11-23T20:58:43.712Z"
 status: "active"
 ---
 

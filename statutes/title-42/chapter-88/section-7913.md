@@ -3,9 +3,9 @@ title: "Section 7913 - State cooperative agreements"
 usc_title: 42
 usc_section: "7913"
 chapter: 88
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 7913"
-generated_at: "2026-11-23T20:57:43.761Z"
+generated_at: "2026-11-23T20:59:31.856Z"
 status: "active"
 ---
 

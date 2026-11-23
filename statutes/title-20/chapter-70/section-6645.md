@@ -3,9 +3,9 @@ title: "Section 6645 - National evaluation and information dissemination"
 usc_title: 20
 usc_section: "6645"
 chapter: 70
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 6645"
-generated_at: "2026-11-23T20:57:02.325Z"
+generated_at: "2026-11-23T20:58:52.277Z"
 status: "active"
 ---
 

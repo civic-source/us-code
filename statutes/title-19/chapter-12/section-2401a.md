@@ -3,9 +3,9 @@ title: "Section 2401a - Petitions; group eligibility"
 usc_title: 19
 usc_section: "2401a"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 2401a"
-generated_at: "2026-11-23T20:57:00.377Z"
+generated_at: "2026-11-23T20:58:50.045Z"
 status: "active"
 ---
 

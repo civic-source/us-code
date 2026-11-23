@@ -3,9 +3,9 @@ title: "Section 2684 - Capital fund for Department of State to centralize reprod
 usc_title: 22
 usc_section: "2684"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2684"
-generated_at: "2026-11-23T20:57:11.891Z"
+generated_at: "2026-11-23T20:59:02.717Z"
 status: "active"
 ---
 

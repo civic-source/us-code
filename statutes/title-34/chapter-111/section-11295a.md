@@ -3,9 +3,9 @@ title: "Section 11295a - Reporting"
 usc_title: 34
 usc_section: "11295a"
 chapter: 111
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "34 U.S.C. § 11295a"
-generated_at: "2026-11-23T20:57:24.495Z"
+generated_at: "2026-11-23T20:59:14.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5594 - Repealed. Pub. L. 90–83, § 1(34)(B) , Sept. 11, 1967 ,
 usc_title: 5
 usc_section: "5594"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 5594"
-generated_at: "2026-11-23T20:56:39.134Z"
+generated_at: "2026-11-23T20:58:29.012Z"
 status: "repealed"
 ---
 

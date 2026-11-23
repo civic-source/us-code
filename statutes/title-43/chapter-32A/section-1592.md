@@ -3,9 +3,9 @@ title: "Section 1592 - Authorization to construct, operate, and maintain salinit
 usc_title: 43
 usc_section: "1592"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 1592"
-generated_at: "2026-11-23T20:57:33.545Z"
+generated_at: "2026-11-23T20:59:21.797Z"
 status: "active"
 ---
 

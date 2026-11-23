@@ -3,9 +3,9 @@ title: "Section 4315 - Regulations"
 usc_title: 5
 usc_section: "4315"
 chapter: 43
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 4315"
-generated_at: "2026-11-23T20:56:39.035Z"
+generated_at: "2026-11-23T20:58:28.954Z"
 status: "active"
 ---
 

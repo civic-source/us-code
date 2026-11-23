@@ -3,9 +3,9 @@ title: "Section 2769 - Remission of indebtedness"
 usc_title: 14
 usc_section: "2769"
 chapter: 27
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 2769"
-generated_at: "2026-11-23T20:56:51.655Z"
+generated_at: "2026-11-23T20:58:41.345Z"
 status: "active"
 ---
 

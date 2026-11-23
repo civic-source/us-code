@@ -3,9 +3,9 @@ title: "Section 577e - Approval by National Forest Reservation Commission for ac
 usc_title: 16
 usc_section: "577e"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 577e"
-generated_at: "2026-11-23T20:57:05.342Z"
+generated_at: "2026-11-23T20:58:54.968Z"
 status: "active"
 ---
 

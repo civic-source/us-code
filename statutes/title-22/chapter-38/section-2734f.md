@@ -3,9 +3,9 @@ title: "Section 2734f - Strategic staffing plan for the Department of State"
 usc_title: 22
 usc_section: "2734f"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2734f"
-generated_at: "2026-11-23T20:57:11.903Z"
+generated_at: "2026-11-23T20:59:02.736Z"
 status: "active"
 ---
 

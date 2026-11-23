@@ -3,9 +3,9 @@ title: "Section 1308 - Payment limitations"
 usc_title: 7
 usc_section: "1308"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1308"
-generated_at: "2026-11-23T20:56:44.192Z"
+generated_at: "2026-11-23T20:58:34.428Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
     - **(B)** produces an agricultural commodity.
   - **(4)** The term “person” means a natural person, and does not include a legal entity.
   - **(5)** The term “qualified pass-through entity” means—
-    - **(A)** a partnership (within the meaning of subchapter K of chapter 1 of the Internal Revenue Code of 1986 [ 26 U.S.C. 701 et seq.]);
-    - **(B)** an S corporation (as defined in section 1361 of that Code);
+    - **(A)** a partnership (within the meaning of subchapter K of chapter 1 of title 26 [ 26 U.S.C. 701 et seq.]);
+    - **(B)** an S corporation (as defined in section 1361 of title 26 );
     - **(C)** a limited liability company that does not affirmatively elect to be treated as a corporation; and
     - **(D)** a joint venture or general partnership.
   - **(6)** The term “Secretary” means the Secretary of Agriculture.

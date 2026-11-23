@@ -3,9 +3,9 @@ title: "Section 25E - Previously-owned clean vehicles"
 usc_title: 26
 usc_section: "25E"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 25E"
-generated_at: "2026-11-23T20:57:19.594Z"
+generated_at: "2026-11-23T20:59:11.115Z"
 status: "active"
 ---
 

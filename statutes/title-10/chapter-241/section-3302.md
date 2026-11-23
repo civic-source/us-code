@@ -3,9 +3,9 @@ title: "Section 3302 - Sealed bids"
 usc_title: 10
 usc_section: "3302"
 chapter: 241
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 3302"
-generated_at: "2026-11-23T20:56:49.089Z"
+generated_at: "2026-11-23T20:58:39.280Z"
 status: "active"
 ---
 

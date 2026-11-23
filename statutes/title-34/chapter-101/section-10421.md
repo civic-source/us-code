@@ -3,9 +3,9 @@ title: "Section 10421 - Grant authorization"
 usc_title: 34
 usc_section: "10421"
 chapter: 101
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "34 U.S.C. § 10421"
-generated_at: "2026-11-23T20:57:24.428Z"
+generated_at: "2026-11-23T20:59:14.546Z"
 status: "active"
 ---
 

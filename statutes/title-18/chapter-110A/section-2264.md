@@ -3,9 +3,9 @@ title: "Section 2264 - Restitution"
 usc_title: 18
 usc_section: "2264"
 chapter: 110
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 2264"
-generated_at: "2026-11-23T20:56:58.957Z"
+generated_at: "2026-11-23T20:58:48.914Z"
 status: "active"
 ---
 

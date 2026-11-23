@@ -3,9 +3,9 @@ title: "Section 496 - Time for commencement and completion of bridge"
 usc_title: 33
 usc_section: "496"
 chapter: 11
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 496"
-generated_at: "2026-11-23T20:57:25.528Z"
+generated_at: "2026-11-23T20:59:15.339Z"
 status: "active"
 ---
 

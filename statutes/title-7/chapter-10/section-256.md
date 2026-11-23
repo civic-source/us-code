@@ -3,9 +3,9 @@ title: "Section 256 - Authorization of appropriations"
 usc_title: 7
 usc_section: "256"
 chapter: 10
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 256"
-generated_at: "2026-11-23T20:56:44.130Z"
+generated_at: "2026-11-23T20:58:34.335Z"
 status: "active"
 ---
 

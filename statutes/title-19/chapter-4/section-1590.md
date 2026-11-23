@@ -3,9 +3,9 @@ title: "Section 1590 - Aviation smuggling"
 usc_title: 19
 usc_section: "1590"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 1590"
-generated_at: "2026-11-23T20:57:00.311Z"
+generated_at: "2026-11-23T20:58:49.983Z"
 status: "active"
 ---
 

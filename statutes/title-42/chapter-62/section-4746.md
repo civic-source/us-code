@@ -3,9 +3,9 @@ title: "Section 4746 - Coordination of Federal programs"
 usc_title: 42
 usc_section: "4746"
 chapter: 62
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 4746"
-generated_at: "2026-11-23T20:57:43.425Z"
+generated_at: "2026-11-23T20:59:31.340Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 81a - Counsel for prosecution of claims against the United State
 usc_title: 25
 usc_section: "81a"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 81a"
-generated_at: "2026-11-23T20:57:08.344Z"
+generated_at: "2026-11-23T20:58:58.228Z"
 status: "active"
 ---
 

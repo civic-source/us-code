@@ -3,9 +3,9 @@ title: "Section 3340 - Time for proposal and adoption of standards"
 usc_title: 12
 usc_section: "3340"
 chapter: 34
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 3340"
-generated_at: "2026-11-23T20:56:54.371Z"
+generated_at: "2026-11-23T20:58:43.757Z"
 status: "active"
 ---
 

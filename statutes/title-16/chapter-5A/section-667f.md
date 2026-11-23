@@ -3,9 +3,9 @@ title: "Section 667f - Availability of grain to prevent waterfowl depredations; 
 usc_title: 16
 usc_section: "667f"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 667f"
-generated_at: "2026-11-23T20:57:05.365Z"
+generated_at: "2026-11-23T20:58:54.986Z"
 status: "active"
 ---
 

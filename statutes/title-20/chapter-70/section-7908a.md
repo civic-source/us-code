@@ -3,9 +3,9 @@ title: "Section 7908a - Military recruiter access to secondary school campuses"
 usc_title: 20
 usc_section: "7908a"
 chapter: 70
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 7908a"
-generated_at: "2026-11-23T20:57:02.367Z"
+generated_at: "2026-11-23T20:58:52.355Z"
 status: "active"
 ---
 

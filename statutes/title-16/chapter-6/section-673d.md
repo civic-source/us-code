@@ -3,9 +3,9 @@ title: "Section 673d - Restoration and conservation of elk in California"
 usc_title: 16
 usc_section: "673d"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 673d"
-generated_at: "2026-11-23T20:57:05.379Z"
+generated_at: "2026-11-23T20:58:55.000Z"
 status: "active"
 ---
 

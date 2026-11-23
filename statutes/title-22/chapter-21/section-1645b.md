@@ -3,9 +3,9 @@ title: "Section 1645b - Receipt and determination of claims; notice by publicati
 usc_title: 22
 usc_section: "1645b"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1645b"
-generated_at: "2026-11-23T20:57:11.681Z"
+generated_at: "2026-11-23T20:59:02.510Z"
 status: "active"
 ---
 

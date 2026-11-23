@@ -3,9 +3,9 @@ title: "Section 2593e - Measures against persons involved in activities that vio
 usc_title: 22
 usc_section: "2593e"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2593e"
-generated_at: "2026-11-23T20:57:11.865Z"
+generated_at: "2026-11-23T20:59:02.689Z"
 status: "active"
 ---
 

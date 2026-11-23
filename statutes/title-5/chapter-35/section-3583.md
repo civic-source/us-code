@@ -3,9 +3,9 @@ title: "Section 3583 - Computations"
 usc_title: 5
 usc_section: "3583"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 3583"
-generated_at: "2026-11-23T20:56:39.028Z"
+generated_at: "2026-11-23T20:58:28.947Z"
 status: "active"
 ---
 

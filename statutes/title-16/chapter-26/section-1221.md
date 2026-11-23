@@ -3,9 +3,9 @@ title: "Section 1221 - Congressional declaration of policy"
 usc_title: 16
 usc_section: "1221"
 chapter: 26
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 1221"
-generated_at: "2026-11-23T20:57:05.511Z"
+generated_at: "2026-11-23T20:58:55.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 69e - Name guide for fur products"
 usc_title: 15
 usc_section: "69e"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 69e"
-generated_at: "2026-11-23T20:56:56.060Z"
+generated_at: "2026-11-23T20:58:45.716Z"
 status: "active"
 ---
 

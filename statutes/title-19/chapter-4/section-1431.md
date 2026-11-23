@@ -3,9 +3,9 @@ title: "Section 1431 - Manifests"
 usc_title: 19
 usc_section: "1431"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 1431"
-generated_at: "2026-11-23T20:57:00.285Z"
+generated_at: "2026-11-23T20:58:49.957Z"
 status: "active"
 ---
 

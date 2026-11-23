@@ -3,9 +3,9 @@ title: "Section 70702 - Establishment of Commission"
 usc_title: 51
 usc_section: "70702"
 chapter: 707
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "51 U.S.C. § 70702"
-generated_at: "2026-11-23T20:57:54.615Z"
+generated_at: "2026-11-23T20:59:43.627Z"
 status: "active"
 ---
 

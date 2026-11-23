@@ -3,9 +3,9 @@ title: "Section 9080 - Direct appropriation"
 usc_title: 15
 usc_section: "9080"
 chapter: 116
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 9080"
-generated_at: "2026-11-23T20:56:56.720Z"
+generated_at: "2026-11-23T20:58:46.269Z"
 status: "active"
 ---
 

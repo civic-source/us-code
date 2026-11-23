@@ -3,9 +3,9 @@ title: "Section 3319 - Competitive service; selection using category rating"
 usc_title: 5
 usc_section: "3319"
 chapter: 33
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 3319"
-generated_at: "2026-11-23T20:56:39.016Z"
+generated_at: "2026-11-23T20:58:28.933Z"
 status: "active"
 ---
 

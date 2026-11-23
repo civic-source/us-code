@@ -3,9 +3,9 @@ title: "Section 1761c - Credit committee"
 usc_title: 12
 usc_section: "1761c"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 1761c"
-generated_at: "2026-11-23T20:56:54.207Z"
+generated_at: "2026-11-23T20:58:43.442Z"
 status: "active"
 ---
 

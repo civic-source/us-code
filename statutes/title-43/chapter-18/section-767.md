@@ -3,9 +3,9 @@ title: "Section 767 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "767"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 767"
-generated_at: "2026-11-23T20:57:33.483Z"
+generated_at: "2026-11-23T20:59:21.763Z"
 status: "repealed"
 ---
 

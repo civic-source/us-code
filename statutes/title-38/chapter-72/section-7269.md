@@ -3,9 +3,9 @@ title: "Section 7269 - Publication of decisions"
 usc_title: 38
 usc_section: "7269"
 chapter: 72
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 7269"
-generated_at: "2026-11-23T20:57:30.412Z"
+generated_at: "2026-11-23T20:59:19.328Z"
 status: "active"
 ---
 

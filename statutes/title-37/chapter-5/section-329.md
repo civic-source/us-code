@@ -3,9 +3,9 @@ title: "Section 329 - Incentive bonus: retired members and reserve component mem
 usc_title: 37
 usc_section: "329"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "37 U.S.C. § 329"
-generated_at: "2026-11-23T20:57:27.330Z"
+generated_at: "2026-11-23T20:59:17.259Z"
 status: "active"
 ---
 

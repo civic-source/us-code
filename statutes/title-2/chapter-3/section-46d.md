@@ -3,9 +3,9 @@ title: "Section 46d - Repealed. Pub. L. 90–57 , July 28, 1967 , 81 Stat. 129"
 usc_title: 2
 usc_section: "46d"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 46d"
-generated_at: "2026-11-23T20:56:36.970Z"
+generated_at: "2026-11-23T20:58:27.721Z"
 status: "repealed"
 ---
 

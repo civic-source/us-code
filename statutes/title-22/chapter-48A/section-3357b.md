@@ -3,9 +3,9 @@ title: "Section 3357b - Establishment of training, advising, and institutional c
 usc_title: 22
 usc_section: "3357b"
 chapter: 48
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 3357b"
-generated_at: "2026-11-23T20:57:11.942Z"
+generated_at: "2026-11-23T20:59:02.792Z"
 status: "active"
 ---
 

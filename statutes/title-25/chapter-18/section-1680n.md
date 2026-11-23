@@ -3,9 +3,9 @@ title: "Section 1680n - Priority for Indian reservations"
 usc_title: 25
 usc_section: "1680n"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 1680n"
-generated_at: "2026-11-23T20:57:08.432Z"
+generated_at: "2026-11-23T20:58:58.306Z"
 status: "active"
 ---
 

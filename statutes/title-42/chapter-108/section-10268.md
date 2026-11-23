@@ -3,9 +3,9 @@ title: "Section 10268 - Report"
 usc_title: 42
 usc_section: "10268"
 chapter: 108
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 10268"
-generated_at: "2026-11-23T20:57:43.919Z"
+generated_at: "2026-11-23T20:59:32.070Z"
 status: "active"
 ---
 

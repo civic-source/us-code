@@ -3,9 +3,9 @@ title: "Section 34 - Hospitalization of persons outside continental limits of Un
 usc_title: 24
 usc_section: "34"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "24 U.S.C. § 34"
-generated_at: "2026-11-23T20:57:07.150Z"
+generated_at: "2026-11-23T20:58:56.696Z"
 status: "active"
 ---
 

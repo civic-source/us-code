@@ -3,9 +3,9 @@ title: "Section 385a - Authorization of appropriations"
 usc_title: 7
 usc_section: "385a"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 385a"
-generated_at: "2026-11-23T20:56:44.141Z"
+generated_at: "2026-11-23T20:58:34.347Z"
 status: "active"
 ---
 

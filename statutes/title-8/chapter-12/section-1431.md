@@ -3,9 +3,9 @@ title: "Section 1431 - Children born outside the United States and lawfully admi
 usc_title: 8
 usc_section: "1431"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1431"
-generated_at: "2026-11-23T20:56:41.247Z"
+generated_at: "2026-11-23T20:58:31.173Z"
 status: "active"
 ---
 

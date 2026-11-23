@@ -3,9 +3,9 @@ title: "Section 79i - Administration"
 usc_title: 16
 usc_section: "79i"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 79i"
-generated_at: "2026-11-23T20:57:04.980Z"
+generated_at: "2026-11-23T20:58:54.679Z"
 status: "active"
 ---
 

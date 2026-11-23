@@ -3,9 +3,9 @@ title: "Section 487 - Making or possessing counterfeit dies for coins"
 usc_title: 18
 usc_section: "487"
 chapter: 25
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 487"
-generated_at: "2026-11-23T20:56:58.801Z"
+generated_at: "2026-11-23T20:58:48.790Z"
 status: "active"
 ---
 

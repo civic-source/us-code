@@ -3,9 +3,9 @@ title: "Section 6935 - Repealed. Pub. L. 115–334, title XII, § 12414(b) , Dec
 usc_title: 7
 usc_section: "6935"
 chapter: 98
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 6935"
-generated_at: "2026-11-23T20:56:44.569Z"
+generated_at: "2026-11-23T20:58:34.863Z"
 status: "repealed"
 ---
 

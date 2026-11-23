@@ -3,9 +3,9 @@ title: "Section 7235 - Armed services personnel"
 usc_title: 42
 usc_section: "7235"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 7235"
-generated_at: "2026-11-23T20:57:43.629Z"
+generated_at: "2026-11-23T20:59:31.671Z"
 status: "active"
 ---
 

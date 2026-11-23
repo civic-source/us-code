@@ -3,9 +3,9 @@ title: "Section 373a - Disposition of trust or restricted estate of intestate wi
 usc_title: 25
 usc_section: "373a"
 chapter: 10
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 373a"
-generated_at: "2026-11-23T20:57:08.364Z"
+generated_at: "2026-11-23T20:58:58.244Z"
 status: "active"
 ---
 

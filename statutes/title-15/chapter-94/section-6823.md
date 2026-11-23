@@ -3,9 +3,9 @@ title: "Section 6823 - Criminal penalty"
 usc_title: 15
 usc_section: "6823"
 chapter: 94
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 6823"
-generated_at: "2026-11-23T20:56:56.626Z"
+generated_at: "2026-11-23T20:58:46.196Z"
 status: "active"
 ---
 

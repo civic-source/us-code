@@ -3,9 +3,9 @@ title: "Section 1720J - Emergent suicide care"
 usc_title: 38
 usc_section: "1720J"
 chapter: 17
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 1720J"
-generated_at: "2026-11-23T20:57:30.198Z"
+generated_at: "2026-11-23T20:59:19.171Z"
 status: "active"
 ---
 

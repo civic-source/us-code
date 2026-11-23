@@ -3,9 +3,9 @@ title: "Section 6981 - Establishment of technical assistance and rule of law pro
 usc_title: 22
 usc_section: "6981"
 chapter: 77
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 6981"
-generated_at: "2026-11-23T20:57:12.129Z"
+generated_at: "2026-11-23T20:59:02.981Z"
 status: "active"
 ---
 

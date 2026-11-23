@@ -3,9 +3,9 @@ title: "Section 6329a - Administrative leave"
 usc_title: 5
 usc_section: "6329a"
 chapter: 63
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 6329a"
-generated_at: "2026-11-23T20:56:39.178Z"
+generated_at: "2026-11-23T20:58:29.045Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ Relation to Other Laws
 
 “It is the sense of Congress that—
 
-“Not later than 5 years after the date of enactment of this Act [ Dec. 23, 2016 ], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
+“Not later than 5 years after the date of enactment of this Act [ Dec. 23, 2016 ], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
 
 ## Source Credit
 

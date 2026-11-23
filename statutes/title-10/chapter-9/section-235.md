@@ -3,9 +3,9 @@ title: "Section 235 - Repealed. Pub. L. 117–81, div. A, title VIII, § 815(b)(
 usc_title: 10
 usc_section: "235"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 235"
-generated_at: "2026-11-23T20:56:48.655Z"
+generated_at: "2026-11-23T20:58:38.804Z"
 status: "repealed"
 ---
 

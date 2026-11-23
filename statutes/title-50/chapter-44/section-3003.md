@@ -3,9 +3,9 @@ title: "Section 3003 - Definitions"
 usc_title: 50
 usc_section: "3003"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3003"
-generated_at: "2026-11-23T20:57:49.582Z"
+generated_at: "2026-11-23T20:59:36.878Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ As used in this chapter:
     - **(A)** the Select Committee on Intelligence of the Senate; and
     - **(B)** the Permanent Select Committee on Intelligence of the House of Representatives.
 
-“In this division [see Tables for classification]:
+“In this division [div. F (§§6001–6806) of Pub. L. 119–60 , see Tables for classification]:
 
 Congressional intelligence committees
 

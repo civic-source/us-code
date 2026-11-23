@@ -3,9 +3,9 @@ title: "Section 1597 - Unlawful conduct with respect to immigration documents"
 usc_title: 18
 usc_section: "1597"
 chapter: 77
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 1597"
-generated_at: "2026-11-23T20:56:58.904Z"
+generated_at: "2026-11-23T20:58:48.887Z"
 status: "active"
 ---
 

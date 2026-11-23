@@ -3,9 +3,9 @@ title: "Section 3117 - Notice of counterintelligence assessments and investigati
 usc_title: 50
 usc_section: "3117"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3117"
-generated_at: "2026-11-23T20:57:49.606Z"
+generated_at: "2026-11-23T20:59:36.910Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** a summary of the relevant facts associated with the counterintelligence assessment or investigation; and
     - **(B)** the identity of such individual.
   - **(3)** The Director may refrain from providing a notice under paragraph (1) to an individual who is otherwise a recipient of notices under such paragraph if that individual is a target of the counterintelligence assessment or investigation covered by the notice.
-- **(b)** The Director shall provide each notice under subsection (a) not later than 15 days after the date of the commencement of the counterintelligence assessment or investigation that is the subject of such notice. With respect to counterintelligence assessments or investigations that commenced before December 18, 2025 and are ongoing as of December 18, 2025 , the Director shall provide each notice under subsection (a) not later than 15 days after December 18, 2025 .
+- **(b)** The Director shall provide each notice under subsection (a) not later than 15 days after the date of the commencement of the counterintelligence assessment or investigation that is the subject of such notice. With respect to counterintelligence assessments or investigations that commenced before December 18, 2025 , and are ongoing as of December 18, 2025 , the Director shall provide each notice under subsection (a) not later than 15 days after December 18, 2025 .
 - **(c)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional intelligence committees; and

@@ -3,9 +3,9 @@ title: "Section 9511 - Congressional review of certain actions relating to sanct
 usc_title: 22
 usc_section: "9511"
 chapter: 102
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9511"
-generated_at: "2026-11-23T20:57:12.268Z"
+generated_at: "2026-11-23T20:59:03.106Z"
 status: "active"
 ---
 

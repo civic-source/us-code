@@ -3,9 +3,9 @@ title: "Section 285q - Subscription to additional shares; authorization of appro
 usc_title: 22
 usc_section: "285q"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 285q"
-generated_at: "2026-11-23T20:57:11.604Z"
+generated_at: "2026-11-23T20:59:02.414Z"
 status: "active"
 ---
 

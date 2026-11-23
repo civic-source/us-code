@@ -3,9 +3,9 @@ title: "Section 6039D - Returns and records with respect to certain fringe benef
 usc_title: 26
 usc_section: "6039D"
 chapter: 61
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 6039D"
-generated_at: "2026-11-23T20:57:20.460Z"
+generated_at: "2026-11-23T20:59:11.787Z"
 status: "active"
 ---
 

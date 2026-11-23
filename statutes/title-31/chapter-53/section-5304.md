@@ -3,9 +3,9 @@ title: "Section 5304 - Regulations"
 usc_title: 31
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "31 U.S.C. § 5304"
-generated_at: "2026-11-23T20:57:23.026Z"
+generated_at: "2026-11-23T20:59:13.865Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119 - Repealed. June 19, 1934, ch. 652, § 602(a) , 48 Stat. 110
 usc_title: 47
 usc_section: "119"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "47 U.S.C. § 119"
-generated_at: "2026-11-23T20:57:48.297Z"
+generated_at: "2026-11-23T20:59:35.635Z"
 status: "repealed"
 ---
 

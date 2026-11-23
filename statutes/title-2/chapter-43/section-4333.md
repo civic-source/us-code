@@ -3,9 +3,9 @@ title: "Section 4333 - Expenses of committees payable from Senate contingent fun
 usc_title: 2
 usc_section: "4333"
 chapter: 43
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 4333"
-generated_at: "2026-11-23T20:56:37.096Z"
+generated_at: "2026-11-23T20:58:27.848Z"
 status: "active"
 ---
 

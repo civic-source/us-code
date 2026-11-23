@@ -3,9 +3,9 @@ title: "Section 1720K - Grants or contracts to provide mental health support to 
 usc_title: 38
 usc_section: "1720K"
 chapter: 17
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 1720K"
-generated_at: "2026-11-23T20:57:30.199Z"
+generated_at: "2026-11-23T20:59:19.172Z"
 status: "active"
 ---
 
@@ -51,7 +51,9 @@ status: "active"
 - **(m)**
   - **(1)** Amounts for the activities of the Department under this section shall be budgeted and appropriated through a separate appropriation account.
   - **(2)** In the budget justification materials submitted to Congress in support of the budget of the Department for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31 ), the Secretary shall include a separate statement of the amount requested to be appropriated for that fiscal year for the account specified in paragraph (1).
-- **(n)** There is authorized to be appropriated to the Secretary, for each of fiscal years 2025 and 2026, $10,000,000 to carry out this section.
+- **(n)** There is authorized to be appropriated to the Secretary to carry out this section, for—
+  - **(1)** each of fiscal years 2025 and 2026, $10,000,000; and
+  - **(2)** the period beginning on October 1, 2026 , and ending on December 11, 2026 , $1,972,603.. 1 1 So in original. The second period probably should not appear.
 - **(o)** In this section:
   - **(1)** The terms “caregiver” and “family caregiver” have the meanings given those terms in section 1720G of this title .
   - **(2)** The term “family caregiver program” means the program of comprehensive assistance for family caregivers under section 1720G of this title .
@@ -89,4 +91,4 @@ Definitions
 
 ## Source Credit
 
-*(Added [Pub. L. 118–210, title I, § 122](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2724](https://www.govinfo.gov/link/statute/138/2724).)*
+*(Added [Pub. L. 118–210, title I, § 122](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2724](https://www.govinfo.gov/link/statute/138/2724); amended [Pub. L. 119–103, div. D, title I, § 4105](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1006](https://www.govinfo.gov/link/statute/140/1006).)*

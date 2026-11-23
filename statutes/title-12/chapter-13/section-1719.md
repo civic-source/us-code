@@ -3,9 +3,9 @@ title: "Section 1719 - Secondary market operations"
 usc_title: 12
 usc_section: "1719"
 chapter: 13
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 1719"
-generated_at: "2026-11-23T20:56:54.168Z"
+generated_at: "2026-11-23T20:58:43.401Z"
 status: "active"
 ---
 

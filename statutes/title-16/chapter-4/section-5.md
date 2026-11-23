@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 95–313, § 16(a)(3) , formerly § 13(a)(
 usc_title: 16
 usc_section: "5"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-11-23T20:57:05.357Z"
+generated_at: "2026-11-23T20:58:54.979Z"
 status: "repealed"
 ---
 

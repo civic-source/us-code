@@ -3,9 +3,9 @@ title: "Section 302 - National motto"
 usc_title: 36
 usc_section: "302"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 302"
-generated_at: "2026-11-23T20:57:28.615Z"
+generated_at: "2026-11-23T20:59:17.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20702 - Theft, destruction, concealment, mutilation, or alterati
 usc_title: 52
 usc_section: "20702"
 chapter: 207
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "52 U.S.C. § 20702"
-generated_at: "2026-11-23T20:57:53.870Z"
+generated_at: "2026-11-23T20:59:42.945Z"
 status: "active"
 ---
 

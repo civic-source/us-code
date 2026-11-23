@@ -3,9 +3,9 @@ title: "Section 6021 - Findings"
 usc_title: 22
 usc_section: "6021"
 chapter: 69
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 6021"
-generated_at: "2026-11-23T20:57:12.078Z"
+generated_at: "2026-11-23T20:59:02.934Z"
 status: "active"
 ---
 

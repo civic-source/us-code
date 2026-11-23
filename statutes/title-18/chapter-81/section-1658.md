@@ -3,9 +3,9 @@ title: "Section 1658 - Plunder of distressed vessel"
 usc_title: 18
 usc_section: "1658"
 chapter: 81
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 1658"
-generated_at: "2026-11-23T20:56:58.906Z"
+generated_at: "2026-11-23T20:58:48.888Z"
 status: "active"
 ---
 

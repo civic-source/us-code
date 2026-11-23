@@ -3,9 +3,9 @@ title: "Section 628a - Transferred"
 usc_title: 42
 usc_section: "628a"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 628a"
-generated_at: "2026-11-23T20:57:42.615Z"
+generated_at: "2026-11-23T20:59:30.322Z"
 status: "transferred"
 ---
 

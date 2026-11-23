@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. Pub. L. 107–171, title X, § 10418(a)(7) , (8)
 usc_title: 21
 usc_section: "113"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 113"
-generated_at: "2026-11-23T20:57:09.422Z"
+generated_at: "2026-11-23T20:58:59.185Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1303 - American Historical Association: report"
 usc_title: 44
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "44 U.S.C. § 1303"
-generated_at: "2026-11-23T20:57:32.516Z"
+generated_at: "2026-11-23T20:59:22.204Z"
 status: "active"
 ---
 

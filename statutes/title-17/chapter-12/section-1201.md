@@ -3,9 +3,9 @@ title: "Section 1201 - Circumvention of copyright protection systems"
 usc_title: 17
 usc_section: "1201"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "17 U.S.C. § 1201"
-generated_at: "2026-11-23T20:56:59.471Z"
+generated_at: "2026-11-23T20:58:49.196Z"
 status: "active"
 ---
 

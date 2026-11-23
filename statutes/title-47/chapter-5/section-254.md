@@ -3,9 +3,9 @@ title: "Section 254 - Universal service"
 usc_title: 47
 usc_section: "254"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "47 U.S.C. § 254"
-generated_at: "2026-11-23T20:57:48.317Z"
+generated_at: "2026-11-23T20:59:35.664Z"
 status: "active"
 ---
 
@@ -260,4 +260,4 @@ Appellate Review
 
 ## Source Credit
 
-*(June 19, 1934, ch. 652, title II, § 254, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 71](https://www.govinfo.gov/link/statute/110/71); amended [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(8)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–313; [Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, §§ 1721(a)–(d), 1732]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–343 to 2763A–350; [Pub. L. 107–110, title X, § 1076(hh)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2094](https://www.govinfo.gov/link/statute/115/2094); [Pub. L. 110–385, title II, § 215](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4104](https://www.govinfo.gov/link/statute/122/4104); [Pub. L. 114–95, title IX, § 9215(s)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171); [Pub. L. 114–182, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 512](https://www.govinfo.gov/link/statute/130/512); [Pub. L. 118–89, § 2](https://www.govinfo.gov/link/plaw/118/public/89), May 11, 2026, [140 Stat. 818](https://www.govinfo.gov/link/statute/140/818).)*
+*(June 19, 1934, ch. 652, title II, § 254, as added [Pub. L. 104–104, title I, § 101(a)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 71](https://www.govinfo.gov/link/statute/110/71); amended [Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(8)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–233](https://www.govinfo.gov/link/statute/110/3009), 3009–313; [Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, §§ 1721(a)–(d), 1732]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–343 to 2763A–350; [Pub. L. 107–110, title X, § 1076(hh)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2094](https://www.govinfo.gov/link/statute/115/2094); [Pub. L. 110–385, title II, § 215](https://www.govinfo.gov/link/plaw/110/public/385), Oct. 10, 2008, [122 Stat. 4104](https://www.govinfo.gov/link/statute/122/4104); [Pub. L. 114–95, title IX, § 9215(s)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171); [Pub. L. 114–182, title II, § 202(a)](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 512](https://www.govinfo.gov/link/statute/130/512); [Pub. L. 119–89, § 2](https://www.govinfo.gov/link/plaw/119/public/89), May 11, 2026, [140 Stat. 818](https://www.govinfo.gov/link/statute/140/818).)*

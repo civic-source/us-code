@@ -3,9 +3,9 @@ title: "Section 21110 - Service of process"
 usc_title: 36
 usc_section: "21110"
 chapter: 211
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 21110"
-generated_at: "2026-11-23T20:57:28.639Z"
+generated_at: "2026-11-23T20:59:17.753Z"
 status: "active"
 ---
 

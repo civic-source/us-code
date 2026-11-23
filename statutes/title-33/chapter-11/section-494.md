@@ -3,9 +3,9 @@ title: "Section 494 - Obstruction of navigation; alterations and removals; light
 usc_title: 33
 usc_section: "494"
 chapter: 11
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 494"
-generated_at: "2026-11-23T20:57:25.527Z"
+generated_at: "2026-11-23T20:59:15.339Z"
 status: "active"
 ---
 

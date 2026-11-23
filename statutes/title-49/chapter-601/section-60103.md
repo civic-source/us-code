@@ -3,9 +3,9 @@ title: "Section 60103 - Standards for liquefied natural gas pipeline facilities"
 usc_title: 49
 usc_section: "60103"
 chapter: 601
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 60103"
-generated_at: "2026-11-23T20:57:52.392Z"
+generated_at: "2026-11-23T20:59:41.506Z"
 status: "active"
 ---
 

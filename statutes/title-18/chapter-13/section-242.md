@@ -3,9 +3,9 @@ title: "Section 242 - Deprivation of rights under color of law"
 usc_title: 18
 usc_section: "242"
 chapter: 13
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 242"
-generated_at: "2026-11-23T20:56:58.789Z"
+generated_at: "2026-11-23T20:58:48.779Z"
 status: "active"
 ---
 

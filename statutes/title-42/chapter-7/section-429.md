@@ -3,9 +3,9 @@ title: "Section 429 - Benefits in case of members of uniformed services"
 usc_title: 42
 usc_section: "429"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 429"
-generated_at: "2026-11-23T20:57:42.580Z"
+generated_at: "2026-11-23T20:59:30.296Z"
 status: "active"
 ---
 

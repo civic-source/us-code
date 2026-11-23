@@ -3,9 +3,9 @@ title: "Section 530A - Trump accounts"
 usc_title: 26
 usc_section: "530A"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 530A"
-generated_at: "2026-11-23T20:57:19.966Z"
+generated_at: "2026-11-23T20:59:11.451Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7 - Implementation and transition provisions for whistleblower p
 usc_title: 15
 usc_section: "7"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-11-23T20:56:56.129Z"
+generated_at: "2026-11-23T20:58:45.799Z"
 status: "active"
 ---
 

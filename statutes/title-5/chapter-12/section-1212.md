@@ -3,9 +3,9 @@ title: "Section 1212 - Powers and functions of the Office of Special Counsel"
 usc_title: 5
 usc_section: "1212"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 1212"
-generated_at: "2026-11-23T20:56:38.988Z"
+generated_at: "2026-11-23T20:58:28.914Z"
 status: "active"
 ---
 

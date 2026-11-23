@@ -3,9 +3,9 @@ title: "Section 1837 - Duration of health care and benefits provided"
 usc_title: 38
 usc_section: "1837"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 1837"
-generated_at: "2026-11-23T20:57:30.213Z"
+generated_at: "2026-11-23T20:59:19.189Z"
 status: "active"
 ---
 

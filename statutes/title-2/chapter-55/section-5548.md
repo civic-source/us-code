@@ -3,9 +3,9 @@ title: "Section 5548 - Payments to ensure continuing availability of goods and s
 usc_title: 2
 usc_section: "5548"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 5548"
-generated_at: "2026-11-23T20:56:37.119Z"
+generated_at: "2026-11-23T20:58:27.870Z"
 status: "active"
 ---
 

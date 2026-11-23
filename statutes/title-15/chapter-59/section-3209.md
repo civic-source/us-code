@@ -3,9 +3,9 @@ title: "Section 3209 - Reports respecting standards"
 usc_title: 15
 usc_section: "3209"
 chapter: 59
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 3209"
-generated_at: "2026-11-23T20:56:56.528Z"
+generated_at: "2026-11-23T20:58:46.128Z"
 status: "active"
 ---
 

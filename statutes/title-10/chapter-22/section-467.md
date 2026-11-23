@@ -3,9 +3,9 @@ title: "Section 467 - Definitions"
 usc_title: 10
 usc_section: "467"
 chapter: 22
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 467"
-generated_at: "2026-11-23T20:56:48.688Z"
+generated_at: "2026-11-23T20:58:38.832Z"
 status: "active"
 ---
 

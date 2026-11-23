@@ -3,9 +3,9 @@ title: "Section 7065 - Assignment and detail: officers assigned or detailed to b
 usc_title: 10
 usc_section: "7065"
 chapter: 707
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 7065"
-generated_at: "2026-11-23T20:56:49.205Z"
+generated_at: "2026-11-23T20:58:39.403Z"
 status: "active"
 ---
 

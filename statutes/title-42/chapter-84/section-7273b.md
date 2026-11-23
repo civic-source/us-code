@@ -3,9 +3,9 @@ title: "Section 7273b - Security investigations"
 usc_title: 42
 usc_section: "7273b"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 7273b"
-generated_at: "2026-11-23T20:57:43.635Z"
+generated_at: "2026-11-23T20:59:31.679Z"
 status: "active"
 ---
 

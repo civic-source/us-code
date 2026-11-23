@@ -3,9 +3,9 @@ title: "Section 9613 - Management of Corporation"
 usc_title: 22
 usc_section: "9613"
 chapter: 103
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9613"
-generated_at: "2026-11-23T20:57:12.279Z"
+generated_at: "2026-11-23T20:59:03.116Z"
 status: "active"
 ---
 
@@ -206,7 +206,7 @@ status: "active"
   - **(2)** An individual is eligible to participate in the Program if the applicant—
     - **(A)** is a United States citizen;
     - **(B)** is enrolled at least half-time at—
-      - **(i)** an institution of higher education (as such term is defined in section 1002(a) of this title ); or
+      - **(i)** an institution of higher education (as such term is defined in section 1002(a) of title 20 ); or
       - **(ii)** an institution of higher education based outside the United States, as determined by the Secretary of State; and
     - **(C)** satisfies such other qualifications as established by the Chief Executive Officer.
   - **(3)** The Chief Executive Officer shall establish selection criteria for individuals to be admitted into the Program that includes a demonstrated interest in a career in international relations and international economic development policy.

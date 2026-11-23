@@ -3,9 +3,9 @@ title: "Section 2260 - Production of sexually explicit depictions of a minor for
 usc_title: 18
 usc_section: "2260"
 chapter: 110
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 2260"
-generated_at: "2026-11-23T20:56:58.956Z"
+generated_at: "2026-11-23T20:58:48.913Z"
 status: "active"
 ---
 

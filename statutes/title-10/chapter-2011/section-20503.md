@@ -3,9 +3,9 @@ title: "Section 20503 - Removal of officer: action by Secretary upon recommendat
 usc_title: 10
 usc_section: "20503"
 chapter: 2011
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 20503"
-generated_at: "2026-11-23T20:56:49.457Z"
+generated_at: "2026-11-23T20:58:39.688Z"
 status: "active"
 ---
 

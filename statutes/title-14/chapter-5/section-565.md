@@ -3,9 +3,9 @@ title: "Section 565 - Use of unmanned aircraft systems"
 usc_title: 14
 usc_section: "565"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 565"
-generated_at: "2026-11-23T20:56:51.579Z"
+generated_at: "2026-11-23T20:58:41.280Z"
 status: "active"
 ---
 

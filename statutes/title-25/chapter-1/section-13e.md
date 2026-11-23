@@ -3,9 +3,9 @@ title: "Section 13e - Expenses of exhibits; advance payments for services; termi
 usc_title: 25
 usc_section: "13e"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 13e"
-generated_at: "2026-11-23T20:57:08.340Z"
+generated_at: "2026-11-23T20:58:58.225Z"
 status: "active"
 ---
 

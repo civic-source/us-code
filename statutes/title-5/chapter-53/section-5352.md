@@ -3,9 +3,9 @@ title: "Section 5352 - Stipends"
 usc_title: 5
 usc_section: "5352"
 chapter: 53
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 5352"
-generated_at: "2026-11-23T20:56:39.089Z"
+generated_at: "2026-11-23T20:58:28.987Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1989 - Additional authorities"
 usc_title: 48
 usc_section: "1989"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "48 U.S.C. § 1989"
-generated_at: "2026-11-23T20:57:46.465Z"
+generated_at: "2026-11-23T20:59:35.178Z"
 status: "active"
 ---
 

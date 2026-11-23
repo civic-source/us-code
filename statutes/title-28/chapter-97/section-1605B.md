@@ -3,9 +3,9 @@ title: "Section 1605B - Responsibility of foreign states for international terro
 usc_title: 28
 usc_section: "1605B"
 chapter: 97
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "28 U.S.C. § 1605B"
-generated_at: "2026-11-23T20:57:14.765Z"
+generated_at: "2026-11-23T20:59:05.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1921 - Corps of Cadets authorized strength"
 usc_title: 14
 usc_section: "1921"
 chapter: 19
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 1921"
-generated_at: "2026-11-23T20:56:51.606Z"
+generated_at: "2026-11-23T20:58:41.305Z"
 status: "active"
 ---
 

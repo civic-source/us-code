@@ -3,9 +3,9 @@ title: "Section 2282A - Devices or dangerous substances in waters of the United 
 usc_title: 18
 usc_section: "2282A"
 chapter: 111
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 2282A"
-generated_at: "2026-11-23T20:56:58.962Z"
+generated_at: "2026-11-23T20:58:48.917Z"
 status: "active"
 ---
 

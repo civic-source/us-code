@@ -3,9 +3,9 @@ title: "Section 2014 - Eligible households"
 usc_title: 7
 usc_section: "2014"
 chapter: 51
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 2014"
-generated_at: "2026-11-23T20:56:44.355Z"
+generated_at: "2026-11-23T20:58:34.675Z"
 status: "active"
 ---
 
@@ -214,7 +214,7 @@ status: "active"
     - **(G)** assistance provided to a third party on behalf of a household under a State or local general assistance program, or another local basic assistance program comparable to general assistance (as determined by the Secretary), if, under State law, no assistance under the program may be provided directly to the household in the form of a cash payment.
   - **(3)** For purposes of subsection (d)(1), educational loans on which payment is deferred, grants, scholarships, fellowships, veterans’ educational benefits, and the like that are provided to a third party on behalf of a household for living expenses shall be treated as money payable directly to the household.
   - **(4)**
-    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
+    - **(A)** For purposes of subsection (d)(1), a payment made under a State law (other than a law referred to in paragraph (2)(G)) to provide energy assistance to a household without an elderly or disabled member shall be considered money payable directly to the household.
     - **(B)** For purposes of subsection (e)(6), an expense paid on behalf of a household with an elderly or disabled member under a State law to provide energy assistance shall be considered an out-of-pocket expense incurred and paid by the household.
 - **(l)** Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3241(a)(2) ], earnings to individuals participating in on-the-job training under title I of such Act [ 29 U.S.C. 3111 et seq.] shall be considered earned income for purposes of the supplemental nutrition assistance program, except for dependents less than 19 years of age.
 - **(m)**

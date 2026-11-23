@@ -3,9 +3,9 @@ title: "Section 2331 - Director of National Intelligence program on use of intel
 usc_title: 21
 usc_section: "2331"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 2331"
-generated_at: "2026-11-23T20:57:09.697Z"
+generated_at: "2026-11-23T20:58:59.473Z"
 status: "active"
 ---
 

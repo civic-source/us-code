@@ -3,9 +3,9 @@ title: "Section 1921 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1921"
 chapter: 24
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1921"
-generated_at: "2026-11-23T20:57:11.690Z"
+generated_at: "2026-11-23T20:59:02.520Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 205 - Consolidation of leases"
 usc_title: 30
 usc_section: "205"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "30 U.S.C. § 205"
-generated_at: "2026-11-23T20:57:13.910Z"
+generated_at: "2026-11-23T20:59:04.744Z"
 status: "active"
 ---
 

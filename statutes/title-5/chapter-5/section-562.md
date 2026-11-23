@@ -3,9 +3,9 @@ title: "Section 562 - Definitions"
 usc_title: 5
 usc_section: "562"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 562"
-generated_at: "2026-11-23T20:56:38.971Z"
+generated_at: "2026-11-23T20:58:28.893Z"
 status: "active"
 ---
 

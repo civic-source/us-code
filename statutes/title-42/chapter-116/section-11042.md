@@ -3,9 +3,9 @@ title: "Section 11042 - Trade secrets"
 usc_title: 42
 usc_section: "11042"
 chapter: 116
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 11042"
-generated_at: "2026-11-23T20:57:43.948Z"
+generated_at: "2026-11-23T20:59:32.108Z"
 status: "active"
 ---
 

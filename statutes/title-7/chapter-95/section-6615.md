@@ -3,9 +3,9 @@ title: "Section 6615 - Training and education"
 usc_title: 7
 usc_section: "6615"
 chapter: 95
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 6615"
-generated_at: "2026-11-23T20:56:44.551Z"
+generated_at: "2026-11-23T20:58:34.853Z"
 status: "active"
 ---
 

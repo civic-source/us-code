@@ -3,9 +3,9 @@ title: "Section 242 - Ineligibility to hold office in member banks; qualificatio
 usc_title: 12
 usc_section: "242"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 242"
-generated_at: "2026-11-23T20:56:54.013Z"
+generated_at: "2026-11-23T20:58:43.248Z"
 status: "active"
 ---
 

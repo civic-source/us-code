@@ -3,9 +3,9 @@ title: "Section 9412 - Report on Iranian expenditures supporting foreign militar
 usc_title: 22
 usc_section: "9412"
 chapter: 101
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9412"
-generated_at: "2026-11-23T20:57:12.266Z"
+generated_at: "2026-11-23T20:59:03.105Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
       - **(iv)** proxy forces in Iraq and Syria; or
       - **(v)** any other entity or country the Director determines to be relevant.
     - **(B)** The amount spent in such calendar year for ballistic missile research and testing or other activities that the Director determines are destabilizing to the Middle East region.
-  - **(2)** The report required under subsection (a) 1 1 So in original. Probably should be “paragraph (1)”. shall be submitted in unclassified form, but may include a classified annex.
+  - **(2)** The report required under subsection (a) 2 2 So in original. Probably should be “paragraph (1)”. shall be submitted in unclassified form, but may include a classified annex.
 
 Definition of Appropriate Committees of Congress
 

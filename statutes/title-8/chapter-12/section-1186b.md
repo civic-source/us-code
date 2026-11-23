@@ -3,9 +3,9 @@ title: "Section 1186b - Conditional permanent resident status for certain alien 
 usc_title: 8
 usc_section: "1186b"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1186b"
-generated_at: "2026-11-23T20:56:41.198Z"
+generated_at: "2026-11-23T20:58:31.110Z"
 status: "active"
 ---
 

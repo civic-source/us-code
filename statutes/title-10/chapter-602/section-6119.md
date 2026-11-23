@@ -3,9 +3,9 @@ title: "Section 6119 - Nuclear test ban readiness program"
 usc_title: 10
 usc_section: "6119"
 chapter: 602
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6119"
-generated_at: "2026-11-23T20:56:49.179Z"
+generated_at: "2026-11-23T20:58:39.379Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 460k - Public recreation use of fish and wildlife conservation a
 usc_title: 16
 usc_section: "460k"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 460k"
-generated_at: "2026-11-23T20:57:05.238Z"
+generated_at: "2026-11-23T20:58:54.846Z"
 status: "active"
 ---
 

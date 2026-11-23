@@ -3,9 +3,9 @@ title: "Section 44812 - Temporary flight restrictions for unmanned aircraft"
 usc_title: 49
 usc_section: "44812"
 chapter: 448
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 44812"
-generated_at: "2026-11-23T20:57:52.294Z"
+generated_at: "2026-11-23T20:59:41.341Z"
 status: "active"
 ---
 

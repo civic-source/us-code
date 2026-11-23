@@ -3,9 +3,9 @@ title: "Section 19193 - Definition"
 usc_title: 42
 usc_section: "19193"
 chapter: 163
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 19193"
-generated_at: "2026-11-23T20:57:44.437Z"
+generated_at: "2026-11-23T20:59:32.703Z"
 status: "active"
 ---
 

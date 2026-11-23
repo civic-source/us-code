@@ -3,9 +3,9 @@ title: "Section 3108 - Secretarial recognition of tribal laws"
 usc_title: 25
 usc_section: "3108"
 chapter: 33
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 3108"
-generated_at: "2026-11-23T20:57:08.480Z"
+generated_at: "2026-11-23T20:58:58.348Z"
 status: "active"
 ---
 

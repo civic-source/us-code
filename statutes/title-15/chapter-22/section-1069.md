@@ -3,9 +3,9 @@ title: "Section 1069 - Application of equitable principles in inter partes proce
 usc_title: 15
 usc_section: "1069"
 chapter: 22
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 1069"
-generated_at: "2026-11-23T20:56:56.348Z"
+generated_at: "2026-11-23T20:58:45.974Z"
 status: "active"
 ---
 

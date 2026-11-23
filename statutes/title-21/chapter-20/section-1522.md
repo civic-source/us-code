@@ -3,9 +3,9 @@ title: "Section 1522 - Purposes"
 usc_title: 21
 usc_section: "1522"
 chapter: 20
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 1522"
-generated_at: "2026-11-23T20:57:09.675Z"
+generated_at: "2026-11-23T20:58:59.440Z"
 status: "active"
 ---
 

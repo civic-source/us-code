@@ -3,9 +3,9 @@ title: "Section 2012 - Support and services for eligible organizations and activ
 usc_title: 10
 usc_section: "2012"
 chapter: 101
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-11-23T20:56:48.915Z"
+generated_at: "2026-11-23T20:58:39.114Z"
 status: "active"
 ---
 

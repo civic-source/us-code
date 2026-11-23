@@ -3,9 +3,9 @@ title: "Section 7381h - Repealed. Pub. L. 111–358, title IX, § 901(a) , Jan. 
 usc_title: 42
 usc_section: "7381h"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 7381h"
-generated_at: "2026-11-23T20:57:43.644Z"
+generated_at: "2026-11-23T20:59:31.691Z"
 status: "repealed"
 ---
 

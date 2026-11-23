@@ -3,9 +3,9 @@ title: "Section 3401 - Task and delivery order contracts: definitions"
 usc_title: 10
 usc_section: "3401"
 chapter: 245
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 3401"
-generated_at: "2026-11-23T20:56:49.092Z"
+generated_at: "2026-11-23T20:58:39.283Z"
 status: "active"
 ---
 

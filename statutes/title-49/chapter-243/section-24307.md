@@ -3,9 +3,9 @@ title: "Section 24307 - Special transportation"
 usc_title: 49
 usc_section: "24307"
 chapter: 243
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 24307"
-generated_at: "2026-11-23T20:57:52.094Z"
+generated_at: "2026-11-23T20:59:41.075Z"
 status: "active"
 ---
 

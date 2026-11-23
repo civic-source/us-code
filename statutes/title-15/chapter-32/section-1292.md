@@ -3,9 +3,9 @@ title: "Section 1292 - Area telecasting restriction limitation"
 usc_title: 15
 usc_section: "1292"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 1292"
-generated_at: "2026-11-23T20:56:56.366Z"
+generated_at: "2026-11-23T20:58:45.994Z"
 status: "active"
 ---
 

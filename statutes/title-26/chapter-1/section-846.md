@@ -3,9 +3,9 @@ title: "Section 846 - Discounted unpaid losses defined"
 usc_title: 26
 usc_section: "846"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 846"
-generated_at: "2026-11-23T20:57:20.033Z"
+generated_at: "2026-11-23T20:59:11.488Z"
 status: "active"
 ---
 

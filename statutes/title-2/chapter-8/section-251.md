@@ -3,9 +3,9 @@ title: "Section 251 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 2
 usc_section: "251"
 chapter: 8
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 251"
-generated_at: "2026-11-23T20:56:36.999Z"
+generated_at: "2026-11-23T20:58:27.743Z"
 status: "repealed"
 ---
 

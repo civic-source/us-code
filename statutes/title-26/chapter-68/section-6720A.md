@@ -3,9 +3,9 @@ title: "Section 6720A - Penalty with respect to certain adulterated fuels"
 usc_title: 26
 usc_section: "6720A"
 chapter: 68
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 6720A"
-generated_at: "2026-11-23T20:57:20.621Z"
+generated_at: "2026-11-23T20:59:11.907Z"
 status: "active"
 ---
 

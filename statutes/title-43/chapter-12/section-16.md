@@ -3,9 +3,9 @@ title: "Section 16 - Willow Lake Natural Treatment System Project"
 usc_title: 43
 usc_section: "16"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 16"
-generated_at: "2026-11-23T20:57:33.432Z"
+generated_at: "2026-11-23T20:59:21.728Z"
 status: "active"
 ---
 

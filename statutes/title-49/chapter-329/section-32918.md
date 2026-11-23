@@ -3,9 +3,9 @@ title: "Section 32918 - Retrofit devices"
 usc_title: 49
 usc_section: "32918"
 chapter: 329
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 32918"
-generated_at: "2026-11-23T20:57:52.181Z"
+generated_at: "2026-11-23T20:59:41.178Z"
 status: "active"
 ---
 

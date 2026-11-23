@@ -3,9 +3,9 @@ title: "Section 290b - Collection, compilation, critical evaluation, publication
 usc_title: 15
 usc_section: "290b"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 290b"
-generated_at: "2026-11-23T20:56:56.202Z"
+generated_at: "2026-11-23T20:58:45.860Z"
 status: "active"
 ---
 

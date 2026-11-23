@@ -3,9 +3,9 @@ title: "Section 3003 - [Reserved]"
 usc_title: 10
 usc_section: "3003"
 chapter: 201
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 3003"
-generated_at: "2026-11-23T20:56:49.077Z"
+generated_at: "2026-11-23T20:58:39.269Z"
 status: "reserved"
 ---
 

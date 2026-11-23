@@ -3,9 +3,9 @@ title: "Section 350 - Inter-European Air Forces Academy"
 usc_title: 10
 usc_section: "350"
 chapter: 16
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 350"
-generated_at: "2026-11-23T20:56:48.671Z"
+generated_at: "2026-11-23T20:58:38.819Z"
 status: "active"
 ---
 

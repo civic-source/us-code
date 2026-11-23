@@ -3,9 +3,9 @@ title: "Section 24316 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "24316"
 chapter: 243
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 24316"
-generated_at: "2026-11-23T20:57:52.098Z"
+generated_at: "2026-11-23T20:59:41.080Z"
 status: "active"
 ---
 

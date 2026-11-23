@@ -3,9 +3,9 @@ title: "Section 21083a - Access for congressional election observers"
 usc_title: 52
 usc_section: "21083a"
 chapter: 209
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "52 U.S.C. § 21083a"
-generated_at: "2026-11-23T20:57:53.880Z"
+generated_at: "2026-11-23T20:59:42.962Z"
 status: "active"
 ---
 

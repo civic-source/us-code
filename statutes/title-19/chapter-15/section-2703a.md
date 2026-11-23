@@ -3,9 +3,9 @@ title: "Section 2703a - Special rules for Haiti"
 usc_title: 19
 usc_section: "2703a"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 2703a"
-generated_at: "2026-11-23T20:57:00.405Z"
+generated_at: "2026-11-23T20:58:50.070Z"
 status: "active"
 ---
 
@@ -261,7 +261,7 @@ status: "active"
     - **(A)** Notwithstanding subsection (a)(5), relating to the definition of “imported directly from Haiti or the Dominican Republic”, articles described in subsection (b) that are shipped from the Dominican Republic, directly or through the territory of an intermediate country, whether or not such articles undergo processing in the Dominican Republic, shall not be considered to be “imported directly from Haiti or the Dominican Republic” until the President certifies to the Congress that Haiti and the Dominican Republic have developed procedures to prevent unlawful transshipment of the articles and the use of counterfeit documents related to the importation of the articles into the United States.
     - **(B)** The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 - **(g)** The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006 . The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
-- **(h)** The duty-free treatment provided under this section shall remain in effect until December 31, 2026 .
+- **(h)** The duty-free treatment provided under this section shall remain in effect until December 31, 2028 .
 
 |  | Col 2 | Col 3 |
 | --- | --- | --- |
@@ -773,4 +773,4 @@ Supplement and not supplant
 
 ## Source Credit
 
-*([Pub. L. 98–67, title II, § 213A](https://www.govinfo.gov/link/plaw/98/public/67), as added [Pub. L. 109–432, div. D, title V, § 5002(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3181](https://www.govinfo.gov/link/statute/120/3181); amended [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545](https://www.govinfo.gov/link/statute/122/1527); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2289–2307; [Pub. L. 110–436, § 7](https://www.govinfo.gov/link/plaw/110/public/436), Oct. 16, 2008, [122 Stat. 4981](https://www.govinfo.gov/link/statute/122/4981); [Pub. L. 111–171](https://www.govinfo.gov/link/plaw/111/public/171), §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205](https://www.govinfo.gov/link/statute/124/1195); [Pub. L. 112–234, § 2(f)](https://www.govinfo.gov/link/plaw/112/public/234), Dec. 28, 2012, [126 Stat. 1625](https://www.govinfo.gov/link/statute/126/1625); [Pub. L. 114–27, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 373](https://www.govinfo.gov/link/statute/129/373); [Pub. L. 116–260, div. O, title VI, § 602(b)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2153](https://www.govinfo.gov/link/statute/134/2153); [Pub. L. 119–75, div. I, § 5020(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 633](https://www.govinfo.gov/link/statute/140/633).)*
+*([Pub. L. 98–67, title II, § 213A](https://www.govinfo.gov/link/plaw/98/public/67), as added [Pub. L. 109–432, div. D, title V, § 5002(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3181](https://www.govinfo.gov/link/statute/120/3181); amended [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15402–15405, May 22, 2008, [122 Stat. 1527–1545](https://www.govinfo.gov/link/statute/122/1527); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15402–15405, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2289–2307; [Pub. L. 110–436, § 7](https://www.govinfo.gov/link/plaw/110/public/436), Oct. 16, 2008, [122 Stat. 4981](https://www.govinfo.gov/link/statute/122/4981); [Pub. L. 111–171](https://www.govinfo.gov/link/plaw/111/public/171), §§ 3(2)–8, May 24, 2010, [124 Stat. 1195–1205](https://www.govinfo.gov/link/statute/124/1195); [Pub. L. 112–234, § 2(f)](https://www.govinfo.gov/link/plaw/112/public/234), Dec. 28, 2012, [126 Stat. 1625](https://www.govinfo.gov/link/statute/126/1625); [Pub. L. 114–27, title III, § 301](https://www.govinfo.gov/link/plaw/114/public/27), June 29, 2015, [129 Stat. 373](https://www.govinfo.gov/link/statute/129/373); [Pub. L. 116–260, div. O, title VI, § 602(b)(3)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2153](https://www.govinfo.gov/link/statute/134/2153); [Pub. L. 119–75, div. I, § 5020(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 633](https://www.govinfo.gov/link/statute/140/633); [Pub. L. 119–103, div. B, § 2009](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1001](https://www.govinfo.gov/link/statute/140/1001).)*

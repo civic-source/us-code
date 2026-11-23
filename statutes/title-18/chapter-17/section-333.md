@@ -3,9 +3,9 @@ title: "Section 333 - Mutilation of national bank obligations"
 usc_title: 18
 usc_section: "333"
 chapter: 17
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 333"
-generated_at: "2026-11-23T20:56:58.794Z"
+generated_at: "2026-11-23T20:58:48.784Z"
 status: "active"
 ---
 

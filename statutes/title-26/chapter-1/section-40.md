@@ -3,9 +3,9 @@ title: "Section 40 - Alcohol, etc., used as fuel"
 usc_title: 26
 usc_section: "40"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 40"
-generated_at: "2026-11-23T20:57:19.617Z"
+generated_at: "2026-11-23T20:59:11.133Z"
 status: "active"
 ---
 

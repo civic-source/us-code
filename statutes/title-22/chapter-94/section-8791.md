@@ -3,9 +3,9 @@ title: "Section 8791 - Imposition of sanctions with respect to certain persons w
 usc_title: 22
 usc_section: "8791"
 chapter: 94
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 8791"
-generated_at: "2026-11-23T20:57:12.228Z"
+generated_at: "2026-11-23T20:59:03.070Z"
 status: "active"
 ---
 
@@ -72,6 +72,32 @@ Hybrid tribunal
 Transitional justice
 
 War crime
+
+14312
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

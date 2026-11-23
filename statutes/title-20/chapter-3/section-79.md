@@ -3,9 +3,9 @@ title: "Section 79 - Barro Colorado Island in Gatun Lake to be set aside"
 usc_title: 20
 usc_section: "79"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 79"
-generated_at: "2026-11-23T20:57:02.025Z"
+generated_at: "2026-11-23T20:58:51.900Z"
 status: "active"
 ---
 

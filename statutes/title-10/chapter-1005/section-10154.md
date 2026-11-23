@@ -3,9 +3,9 @@ title: "Section 10154 - Retired Reserve"
 usc_title: 10
 usc_section: "10154"
 chapter: 1005
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 10154"
-generated_at: "2026-11-23T20:56:49.392Z"
+generated_at: "2026-11-23T20:58:39.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 583 - Foreign standards; certification of compliance"
 usc_title: 7
 usc_section: "583"
 chapter: 25
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 583"
-generated_at: "2026-11-23T20:56:44.156Z"
+generated_at: "2026-11-23T20:58:34.371Z"
 status: "active"
 ---
 

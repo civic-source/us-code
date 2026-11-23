@@ -3,9 +3,9 @@ title: "Section 1451a - Repealed. Aug. 2, 1954, ch. 649 , title III, § 313, 68 
 usc_title: 42
 usc_section: "1451a"
 chapter: 8
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 1451a"
-generated_at: "2026-11-23T20:57:43.101Z"
+generated_at: "2026-11-23T20:59:30.904Z"
 status: "repealed"
 ---
 

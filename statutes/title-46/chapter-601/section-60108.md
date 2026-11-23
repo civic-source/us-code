@@ -3,9 +3,9 @@ title: "Section 60108 - Duty to transport tendered cargo"
 usc_title: 46
 usc_section: "60108"
 chapter: 601
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 60108"
-generated_at: "2026-11-23T20:57:47.760Z"
+generated_at: "2026-11-23T20:59:38.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1475g - Overseas public diplomacy posts and personnel overseas"
 usc_title: 22
 usc_section: "1475g"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1475g"
-generated_at: "2026-11-23T20:57:11.662Z"
+generated_at: "2026-11-23T20:59:02.493Z"
 status: "active"
 ---
 

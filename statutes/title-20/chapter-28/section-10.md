@@ -3,9 +3,9 @@ title: "Section 10 - Loan forgiveness for teachers"
 usc_title: 20
 usc_section: "10"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-11-23T20:57:02.117Z"
+generated_at: "2026-11-23T20:58:52.004Z"
 status: "active"
 ---
 

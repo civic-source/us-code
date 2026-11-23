@@ -3,9 +3,9 @@ title: "Section 3a - Definitions"
 usc_title: 15
 usc_section: "3a"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-11-23T20:56:56.187Z"
+generated_at: "2026-11-23T20:58:45.853Z"
 status: "active"
 ---
 

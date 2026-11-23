@@ -3,9 +3,9 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-11-23T20:56:56.398Z"
+generated_at: "2026-11-23T20:58:46.034Z"
 status: "active"
 ---
 
@@ -92,6 +92,17 @@ status: "active"
     - **(B)** an identifier that is not unique to the consumer and that is used by the person solely for the purpose of verifying the identity of the consumer; and
     - **(C)** other information pertaining to a consumer that does not identify the relationship or experience of the consumer with respect to a particular creditor or other entity.
   - **(3)** Except as provided in section 1681g(a)(5) of this title , a consumer reporting agency shall not furnish to any person a record of inquiries in connection with a credit or insurance transaction that is not initiated by a consumer.
+  - **(4)**
+    - **(A)** In this paragraph:
+      - **(i)** The term “credit union” means a Federal credit union or a State credit union, as those terms are defined, respectively, in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 ).
+      - **(ii)** The term “insured depository institution” has the meaning given the term in section 3 2 2 So in original. Section 1813(c) of title 12 is section 3(c) of the Federal Deposit Insurance Act. of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) 2 ).
+      - **(iii)** The term “residential mortgage loan” has the meaning given the term in section 5102 of title 12 .
+      - **(iv)** The term “servicer” has the meaning given the term in section 2605(i) of title 12 .
+    - **(B)** If a person requests a consumer report from a consumer reporting agency in connection with a credit transaction involving a residential mortgage loan, that agency may not, based in whole or in part on that request, furnish a consumer report to another person under this subsection unless—
+      - **(i)** the transaction consists of a firm offer of credit or insurance; and
+      - **(ii)** that other person—
+        - **(I)** has submitted documentation to that agency certifying that such other person has, pursuant to paragraph (1)(A), the authorization of the consumer to whom the consumer report relates; or
+        - **(II)**
 - **(d)**
 - **(e)**
   - **(1)** A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
@@ -135,6 +146,12 @@ status: "active"
   - **(5)**
     - **(A)** The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
   - **(6)** No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+
+(aa) has originated a current residential mortgage loan of the consumer to whom the consumer report relates;
+
+(bb) is the servicer of a current residential mortgage loan of the consumer to whom the consumer report relates; or
+
+(cc) (AA) is an insured depository institution or credit union; and (BB) holds a current account for the consumer to whom the consumer report relates.
 
 Report to the congress
 

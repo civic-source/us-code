@@ -3,9 +3,9 @@ title: "Section 390uu - Waiver of sovereign immunity"
 usc_title: 43
 usc_section: "390uu"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 390uu"
-generated_at: "2026-11-23T20:57:33.436Z"
+generated_at: "2026-11-23T20:59:21.734Z"
 status: "active"
 ---
 

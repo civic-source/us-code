@@ -3,9 +3,9 @@ title: "Section 1074o - Provision of hyperbaric oxygen therapy for certain membe
 usc_title: 10
 usc_section: "1074o"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1074o"
-generated_at: "2026-11-23T20:56:48.805Z"
+generated_at: "2026-11-23T20:58:38.996Z"
 status: "active"
 ---
 

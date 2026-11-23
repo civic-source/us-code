@@ -3,9 +3,9 @@ title: "Section 4069 - Thrift Savings Fund participation"
 usc_title: 22
 usc_section: "4069"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 4069"
-generated_at: "2026-11-23T20:57:11.991Z"
+generated_at: "2026-11-23T20:59:02.855Z"
 status: "active"
 ---
 

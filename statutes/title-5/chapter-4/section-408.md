@@ -3,9 +3,9 @@ title: "Section 408 - Additional provisions with respect to the Inspector Genera
 usc_title: 5
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 408"
-generated_at: "2026-11-23T20:56:38.947Z"
+generated_at: "2026-11-23T20:58:28.876Z"
 status: "active"
 ---
 

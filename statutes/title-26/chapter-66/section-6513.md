@@ -3,9 +3,9 @@ title: "Section 6513 - Time return deemed filed and tax considered paid"
 usc_title: 26
 usc_section: "6513"
 chapter: 66
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 6513"
-generated_at: "2026-11-23T20:57:20.588Z"
+generated_at: "2026-11-23T20:59:11.881Z"
 status: "active"
 ---
 

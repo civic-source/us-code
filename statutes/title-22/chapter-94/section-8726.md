@@ -3,9 +3,9 @@ title: "Section 8726 - Reports on, and authorization of imposition of sanctions 
 usc_title: 22
 usc_section: "8726"
 chapter: 94
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 8726"
-generated_at: "2026-11-23T20:57:12.222Z"
+generated_at: "2026-11-23T20:59:03.065Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5063 - Reduction of paperwork"
 usc_title: 42
 usc_section: "5063"
 chapter: 66
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 5063"
-generated_at: "2026-11-23T20:57:43.447Z"
+generated_at: "2026-11-23T20:59:31.364Z"
 status: "active"
 ---
 

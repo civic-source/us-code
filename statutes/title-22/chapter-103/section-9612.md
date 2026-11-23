@@ -3,9 +3,9 @@ title: "Section 9612 - United States International Development Finance Corporati
 usc_title: 22
 usc_section: "9612"
 chapter: 103
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9612"
-generated_at: "2026-11-23T20:57:12.278Z"
+generated_at: "2026-11-23T20:59:03.115Z"
 status: "active"
 ---
 
@@ -15,9 +15,9 @@ status: "active"
 - **(b)** The purpose of the Corporation shall be to mobilize and facilitate the participation of private sector capital and skills in the economic development of less developed countries, as described in subsection (c), countries in transition from nonmarket to market economies, and other eligible foreign countries, in order to complement the development assistance objectives, and advance the foreign policy and national security interests, of the United States. In carrying out its purpose, the Corporation, utilizing broad criteria, shall take into account in its financing operations the economic and financial soundness and development objectives of projects for which it provides support under subchapter II of this chapter.
 - **(c)**
   - **(1)** The Corporation shall prioritize the provision of support under subchapter II of this chapter in less developed countries.
-  - **(2)** The Corporation may provide support for a project under title II in an advancing income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees, that such support will be provided in accordance with the policy established pursuant to subsection (d)(2). Such certification may be included as an appendix to the report required by section 1446.
+  - **(2)** The Corporation may provide support for a project under subchapter II of this chapter in an advancing income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees, that such support will be provided in accordance with the policy established pursuant to subsection (d)(2). Such certification may be included as an appendix to the report required by section 9656 of this title .
   - **(3)**
-    - **(A)** The Corporation may provide support for a project under title II in a high-income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees that such support will be provided in accordance with the policy established pursuant to subsection (d)(3). Such certification may be included as an appendix to the report required by section 9656 of this title .
+    - **(A)** The Corporation may provide support for a project under subchapter II of this chapter in a high-income country if, before providing such support, the Chief Executive Officer certifies in writing to the appropriate congressional committees that such support will be provided in accordance with the policy established pursuant to subsection (d)(3). Such certification may be included as an appendix to the report required by section 9656 of this title .
     - **(B)** Not later than 120 days after December 18, 2025 , and annually thereafter, the Corporation shall submit to the appropriate congressional committees a report, which may be submitted in classified or confidential form, that includes—
       - **(i)** a list of all high-income countries in which the Corporation anticipates providing support in the subsequent fiscal year (and, with respect to the first such report, the then-current fiscal year); and
       - **(ii)** to the extent practicable, a description of the type of projects anticipated to receive such support.

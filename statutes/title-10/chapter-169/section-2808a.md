@@ -3,9 +3,9 @@ title: "Section 2808a - Facility construction or repair: transactions other than
 usc_title: 10
 usc_section: "2808a"
 chapter: 169
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2808a"
-generated_at: "2026-11-23T20:56:49.045Z"
+generated_at: "2026-11-23T20:58:39.237Z"
 status: "active"
 ---
 

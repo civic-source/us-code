@@ -3,9 +3,9 @@ title: "Section 938 - Penalties"
 usc_title: 33
 usc_section: "938"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 938"
-generated_at: "2026-11-23T20:57:25.585Z"
+generated_at: "2026-11-23T20:59:15.401Z"
 status: "active"
 ---
 

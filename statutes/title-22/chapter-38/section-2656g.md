@@ -3,9 +3,9 @@ title: "Section 2656g - Report on terrorist assets in United States"
 usc_title: 22
 usc_section: "2656g"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2656g"
-generated_at: "2026-11-23T20:57:11.884Z"
+generated_at: "2026-11-23T20:59:02.704Z"
 status: "active"
 ---
 

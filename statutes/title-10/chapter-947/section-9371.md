@@ -3,9 +3,9 @@ title: "Section 9371 - Air University and Space Delta 13: civilian faculty membe
 usc_title: 10
 usc_section: "9371"
 chapter: 947
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 9371"
-generated_at: "2026-11-23T20:56:49.359Z"
+generated_at: "2026-11-23T20:58:39.555Z"
 status: "active"
 ---
 

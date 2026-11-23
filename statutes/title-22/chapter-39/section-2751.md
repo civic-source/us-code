@@ -3,9 +3,9 @@ title: "Section 2751 - Need for international defense cooperation and military e
 usc_title: 22
 usc_section: "2751"
 chapter: 39
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2751"
-generated_at: "2026-11-23T20:57:11.906Z"
+generated_at: "2026-11-23T20:59:02.741Z"
 status: "active"
 ---
 
@@ -238,6 +238,20 @@ Sec
 Barack Obama.
 
 Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
 
 Sec.
 

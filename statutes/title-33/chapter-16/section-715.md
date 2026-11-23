@@ -3,9 +3,9 @@ title: "Section 715 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "715"
 chapter: 16
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 715"
-generated_at: "2026-11-23T20:57:25.561Z"
+generated_at: "2026-11-23T20:59:15.384Z"
 status: "repealed"
 ---
 

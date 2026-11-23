@@ -3,9 +3,9 @@ title: "Section 285e - Purpose of Institute"
 usc_title: 42
 usc_section: "285e"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 285e"
-generated_at: "2026-11-23T20:57:42.261Z"
+generated_at: "2026-11-23T20:59:29.958Z"
 status: "active"
 ---
 

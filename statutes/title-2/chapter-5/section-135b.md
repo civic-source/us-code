@@ -3,9 +3,9 @@ title: "Section 135b - Local and regional centers; preference to blind and other
 usc_title: 2
 usc_section: "135b"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "2 U.S.C. § 135b"
-generated_at: "2026-11-23T20:56:36.985Z"
+generated_at: "2026-11-23T20:58:27.731Z"
 status: "active"
 ---
 

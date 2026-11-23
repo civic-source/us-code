@@ -3,9 +3,9 @@ title: "Section 1026 - Repealed. Pub. L. 94–136, title VI, § 601 , Nov. 28, 1
 usc_title: 15
 usc_section: "1026"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 1026"
-generated_at: "2026-11-23T20:56:56.343Z"
+generated_at: "2026-11-23T20:58:45.970Z"
 status: "repealed"
 ---
 

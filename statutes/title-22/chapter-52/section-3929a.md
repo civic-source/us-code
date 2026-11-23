@@ -3,9 +3,9 @@ title: "Section 3929a - Abolishment of Inspector General of Department of State 
 usc_title: 22
 usc_section: "3929a"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 3929a"
-generated_at: "2026-11-23T20:57:11.969Z"
+generated_at: "2026-11-23T20:59:02.825Z"
 status: "active"
 ---
 

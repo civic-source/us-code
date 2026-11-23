@@ -3,9 +3,9 @@ title: "Section 1532 - Enhancement of emergency services"
 usc_title: 6
 usc_section: "1532"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "6 U.S.C. § 1532"
-generated_at: "2026-11-23T20:56:41.794Z"
+generated_at: "2026-11-23T20:58:31.882Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19507 - Build Now Act"
 usc_title: 42
 usc_section: "19507"
 chapter: 165
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 19507"
-generated_at: "2026-11-23T20:57:44.453Z"
+generated_at: "2026-11-23T20:59:32.723Z"
 status: "active"
 ---
 

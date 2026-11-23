@@ -3,9 +3,9 @@ title: "Section 3204 - National tsunami hazard mitigation program"
 usc_title: 33
 usc_section: "3204"
 chapter: 45
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 3204"
-generated_at: "2026-11-23T20:57:25.739Z"
+generated_at: "2026-11-23T20:59:15.535Z"
 status: "active"
 ---
 

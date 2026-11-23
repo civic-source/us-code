@@ -3,9 +3,9 @@ title: "Section 6129 - Certification of completion of milestones with respect to
 usc_title: 10
 usc_section: "6129"
 chapter: 602
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6129"
-generated_at: "2026-11-23T20:56:49.180Z"
+generated_at: "2026-11-23T20:58:39.380Z"
 status: "active"
 ---
 

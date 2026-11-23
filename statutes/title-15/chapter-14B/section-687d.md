@@ -3,9 +3,9 @@ title: "Section 687d - Conflicts of interest"
 usc_title: 15
 usc_section: "687d"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 687d"
-generated_at: "2026-11-23T20:56:56.310Z"
+generated_at: "2026-11-23T20:58:45.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5012 - Disposition of property"
 usc_title: 16
 usc_section: "5012"
 chapter: 70
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 5012"
-generated_at: "2026-11-23T20:57:05.705Z"
+generated_at: "2026-11-23T20:58:55.321Z"
 status: "active"
 ---
 

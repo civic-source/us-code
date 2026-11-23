@@ -3,9 +3,9 @@ title: "Section 1822 - Congressional statement of findings"
 usc_title: 15
 usc_section: "1822"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 1822"
-generated_at: "2026-11-23T20:56:56.427Z"
+generated_at: "2026-11-23T20:58:46.061Z"
 status: "active"
 ---
 

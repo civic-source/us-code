@@ -3,9 +3,9 @@ title: "Section 2421c - Coordination"
 usc_title: 22
 usc_section: "2421c"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2421c"
-generated_at: "2026-11-23T20:57:11.833Z"
+generated_at: "2026-11-23T20:59:02.654Z"
 status: "active"
 ---
 

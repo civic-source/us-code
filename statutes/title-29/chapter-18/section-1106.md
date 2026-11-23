@@ -3,9 +3,9 @@ title: "Section 1106 - Prohibited transactions"
 usc_title: 29
 usc_section: "1106"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "29 U.S.C. § 1106"
-generated_at: "2026-11-23T20:57:15.812Z"
+generated_at: "2026-11-23T20:59:06.570Z"
 status: "active"
 ---
 

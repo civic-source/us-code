@@ -3,9 +3,9 @@ title: "Section 4589 - Definitions"
 usc_title: 50
 usc_section: "4589"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 4589"
-generated_at: "2026-11-23T20:57:49.712Z"
+generated_at: "2026-11-23T20:59:37.032Z"
 status: "active"
 ---
 
@@ -94,7 +94,7 @@ In this subchapter:
       - **(v)** Hypersonic systems.
     - **(B)** The Secretary, in consultation with the appropriate congressional committees and subject to notice and comment in accordance with subchapter II of chapter 5 and chapter 7 of title 5, and not subject to the requirements of section 4559 of this title , may prescribe regulations in accordance with this subchapter to—
       - **(i)** define the technical parameters of technologies described in subparagraph (A), as reasonably needed for national security purposes; or
-      - **(ii)** to add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
+      - **(ii)** to 1 1 So in original. The word “to” probably should not appear. add and define categories to the list in subparagraph (A) that enable the military, intelligence, surveillance, or cyber-enabled capabilities of a country of concern.
   - **(11)** Except as otherwise provided, the term “Secretary” means the Secretary of the Treasury.
   - **(12)** The term “United States person” means—
     - **(A)** any United States citizen or an alien lawfully admitted for permanent residence to the United States;

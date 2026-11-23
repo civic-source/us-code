@@ -3,9 +3,9 @@ title: "Section 6355 - Department of Energy energy parks program"
 usc_title: 10
 usc_section: "6355"
 chapter: 608
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6355"
-generated_at: "2026-11-23T20:56:49.196Z"
+generated_at: "2026-11-23T20:58:39.397Z"
 status: "active"
 ---
 

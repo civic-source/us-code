@@ -3,9 +3,9 @@ title: "Section 708 - Bills and resolutions: binding sets for Congress"
 usc_title: 44
 usc_section: "708"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "44 U.S.C. § 708"
-generated_at: "2026-11-23T20:57:32.508Z"
+generated_at: "2026-11-23T20:59:22.194Z"
 status: "active"
 ---
 

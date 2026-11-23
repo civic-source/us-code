@@ -3,9 +3,9 @@ title: "Section 3402 - Definitions"
 usc_title: 7
 usc_section: "3402"
 chapter: 65
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 3402"
-generated_at: "2026-11-23T20:56:44.459Z"
+generated_at: "2026-11-23T20:58:34.795Z"
 status: "active"
 ---
 

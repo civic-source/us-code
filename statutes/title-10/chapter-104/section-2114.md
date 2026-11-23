@@ -3,9 +3,9 @@ title: "Section 2114 - Students: selection; status; obligation"
 usc_title: 10
 usc_section: "2114"
 chapter: 104
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2114"
-generated_at: "2026-11-23T20:56:48.930Z"
+generated_at: "2026-11-23T20:58:39.121Z"
 status: "active"
 ---
 

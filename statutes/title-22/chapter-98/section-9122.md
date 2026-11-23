@@ -3,9 +3,9 @@ title: "Section 9122 - Actions by the Secretary of State in response to patterns
 usc_title: 22
 usc_section: "9122"
 chapter: 98
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9122"
-generated_at: "2026-11-23T20:57:12.249Z"
+generated_at: "2026-11-23T20:59:03.091Z"
 status: "active"
 ---
 

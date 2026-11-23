@@ -3,9 +3,9 @@ title: "Section 1492 - Authority to provide travel and transportation allowances
 usc_title: 10
 usc_section: "1492"
 chapter: 75
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1492"
-generated_at: "2026-11-23T20:56:48.874Z"
+generated_at: "2026-11-23T20:58:39.073Z"
 status: "active"
 ---
 

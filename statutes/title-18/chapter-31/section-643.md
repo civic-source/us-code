@@ -3,9 +3,9 @@ title: "Section 643 - Accounting generally for public money"
 usc_title: 18
 usc_section: "643"
 chapter: 31
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 643"
-generated_at: "2026-11-23T20:56:58.814Z"
+generated_at: "2026-11-23T20:58:48.801Z"
 status: "active"
 ---
 

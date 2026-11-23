@@ -3,9 +3,9 @@ title: "Section 4804 - Notice and hearing"
 usc_title: 7
 usc_section: "4804"
 chapter: 79
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 4804"
-generated_at: "2026-11-23T20:56:44.481Z"
+generated_at: "2026-11-23T20:58:34.810Z"
 status: "active"
 ---
 

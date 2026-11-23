@@ -3,9 +3,9 @@ title: "Section 272 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "272"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 272"
-generated_at: "2026-11-23T20:57:25.502Z"
+generated_at: "2026-11-23T20:59:15.326Z"
 status: "repealed"
 ---
 

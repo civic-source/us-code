@@ -3,9 +3,9 @@ title: "Section 1145 - Delinquent contributions"
 usc_title: 29
 usc_section: "1145"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "29 U.S.C. § 1145"
-generated_at: "2026-11-23T20:57:15.820Z"
+generated_at: "2026-11-23T20:59:06.584Z"
 status: "active"
 ---
 

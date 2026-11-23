@@ -3,9 +3,9 @@ title: "Section 3503 - Repealed. Pub. L. 107–273, div. B, title IV, § 4002(c)
 usc_title: 18
 usc_section: "3503"
 chapter: 223
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 3503"
-generated_at: "2026-11-23T20:56:59.051Z"
+generated_at: "2026-11-23T20:58:48.969Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2259B - Child pornography victims reserve"
 usc_title: 18
 usc_section: "2259B"
 chapter: 110
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 2259B"
-generated_at: "2026-11-23T20:56:58.955Z"
+generated_at: "2026-11-23T20:58:48.913Z"
 status: "active"
 ---
 

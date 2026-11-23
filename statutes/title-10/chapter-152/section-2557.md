@@ -3,9 +3,9 @@ title: "Section 2557 - Excess nonlethal supplies: availability for humanitarian 
 usc_title: 10
 usc_section: "2557"
 chapter: 152
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2557"
-generated_at: "2026-11-23T20:56:48.997Z"
+generated_at: "2026-11-23T20:58:39.187Z"
 status: "active"
 ---
 

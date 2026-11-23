@@ -3,9 +3,9 @@ title: "Section 3005 - Department of Defense"
 usc_title: 50
 usc_section: "3005"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3005"
-generated_at: "2026-11-23T20:57:49.582Z"
+generated_at: "2026-11-23T20:59:36.879Z"
 status: "active"
 ---
 

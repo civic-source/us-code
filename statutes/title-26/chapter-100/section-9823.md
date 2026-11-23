@@ -3,9 +3,9 @@ title: "Section 9823 - Air ambulance report requirements"
 usc_title: 26
 usc_section: "9823"
 chapter: 100
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 9823"
-generated_at: "2026-11-23T20:57:20.760Z"
+generated_at: "2026-11-23T20:59:12.020Z"
 status: "active"
 ---
 

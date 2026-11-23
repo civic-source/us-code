@@ -3,9 +3,9 @@ title: "Section 2656 - Management of foreign affairs"
 usc_title: 22
 usc_section: "2656"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2656"
-generated_at: "2026-11-23T20:57:11.879Z"
+generated_at: "2026-11-23T20:59:02.701Z"
 status: "active"
 ---
 
@@ -313,6 +313,12 @@ Sec
 Sec
 
 Barack Obama.
+
+Section
+
+Sec.
+
+Donald J. Trump.
 
 Section
 

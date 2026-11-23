@@ -3,9 +3,9 @@ title: "Section 3512 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "3512"
 chapter: 50
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 3512"
-generated_at: "2026-11-23T20:57:11.950Z"
+generated_at: "2026-11-23T20:59:02.800Z"
 status: "repealed"
 ---
 

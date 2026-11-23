@@ -3,9 +3,9 @@ title: "Section 60136 - Petroleum product transportation capacity study"
 usc_title: 49
 usc_section: "60136"
 chapter: 601
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 60136"
-generated_at: "2026-11-23T20:57:52.412Z"
+generated_at: "2026-11-23T20:59:41.531Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 988 - Act extended to Minnesota and Oregon"
 usc_title: 43
 usc_section: "988"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 988"
-generated_at: "2026-11-23T20:57:33.504Z"
+generated_at: "2026-11-23T20:59:21.774Z"
 status: "active"
 ---
 

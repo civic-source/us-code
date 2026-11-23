@@ -3,9 +3,9 @@ title: "Section 4081 - Services by insurance industry"
 usc_title: 42
 usc_section: "4081"
 chapter: 50
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 4081"
-generated_at: "2026-11-23T20:57:43.388Z"
+generated_at: "2026-11-23T20:59:31.287Z"
 status: "active"
 ---
 

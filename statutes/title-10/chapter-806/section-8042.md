@@ -3,9 +3,9 @@ title: "Section 8042 - Headquarters, Marine Corps: general duties"
 usc_title: 10
 usc_section: "8042"
 chapter: 806
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 8042"
-generated_at: "2026-11-23T20:56:49.250Z"
+generated_at: "2026-11-23T20:58:39.448Z"
 status: "active"
 ---
 

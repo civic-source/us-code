@@ -3,9 +3,9 @@ title: "Section 3507 - Protection of nature of Agency’s functions"
 usc_title: 50
 usc_section: "3507"
 chapter: 46
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3507"
-generated_at: "2026-11-23T20:57:49.639Z"
+generated_at: "2026-11-23T20:59:36.956Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 641d - Effective date of quitclaim; administration of lands reli
 usc_title: 43
 usc_section: "641d"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 641d"
-generated_at: "2026-11-23T20:57:33.477Z"
+generated_at: "2026-11-23T20:59:21.761Z"
 status: "active"
 ---
 

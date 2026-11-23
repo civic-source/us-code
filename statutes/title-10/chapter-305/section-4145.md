@@ -3,9 +3,9 @@ title: "Section 4145 - Program for the enhancement of the research, development,
 usc_title: 10
 usc_section: "4145"
 chapter: 305
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 4145"
-generated_at: "2026-11-23T20:56:49.128Z"
+generated_at: "2026-11-23T20:58:39.318Z"
 status: "active"
 ---
 

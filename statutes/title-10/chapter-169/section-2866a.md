@@ -3,9 +3,9 @@ title: "Section 2866a - Risk-based approach to water management and water securi
 usc_title: 10
 usc_section: "2866a"
 chapter: 169
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2866a"
-generated_at: "2026-11-23T20:56:49.057Z"
+generated_at: "2026-11-23T20:58:39.252Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9703 - Observations and modeling for total water prediction"
 usc_title: 15
 usc_section: "9703"
 chapter: 121
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 9703"
-generated_at: "2026-11-23T20:56:56.737Z"
+generated_at: "2026-11-23T20:58:46.283Z"
 status: "active"
 ---
 

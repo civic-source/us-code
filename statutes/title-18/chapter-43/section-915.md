@@ -3,9 +3,9 @@ title: "Section 915 - Foreign diplomats, consuls or officers"
 usc_title: 18
 usc_section: "915"
 chapter: 43
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 915"
-generated_at: "2026-11-23T20:56:58.837Z"
+generated_at: "2026-11-23T20:58:48.825Z"
 status: "active"
 ---
 

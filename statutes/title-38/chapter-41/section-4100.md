@@ -3,9 +3,9 @@ title: "Section 4100 - Findings"
 usc_title: 38
 usc_section: "4100"
 chapter: 41
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 4100"
-generated_at: "2026-11-23T20:57:30.348Z"
+generated_at: "2026-11-23T20:59:19.296Z"
 status: "active"
 ---
 

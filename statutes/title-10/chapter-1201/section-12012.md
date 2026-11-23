@@ -3,9 +3,9 @@ title: "Section 12012 - Authorized strengths: senior enlisted members on active 
 usc_title: 10
 usc_section: "12012"
 chapter: 1201
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 12012"
-generated_at: "2026-11-23T20:56:49.404Z"
+generated_at: "2026-11-23T20:58:39.620Z"
 status: "active"
 ---
 

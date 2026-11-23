@@ -3,9 +3,9 @@ title: "Section 532 - Corporations subject to accumulated earnings tax"
 usc_title: 26
 usc_section: "532"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 532"
-generated_at: "2026-11-23T20:57:19.967Z"
+generated_at: "2026-11-23T20:59:11.452Z"
 status: "active"
 ---
 

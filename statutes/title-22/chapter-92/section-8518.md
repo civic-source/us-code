@@ -3,9 +3,9 @@ title: "Section 8518 - Reports on investments in the energy sector of Iran"
 usc_title: 22
 usc_section: "8518"
 chapter: 92
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 8518"
-generated_at: "2026-11-23T20:57:12.210Z"
+generated_at: "2026-11-23T20:59:03.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1430 - Retroactive effect"
 usc_title: 7
 usc_section: "1430"
 chapter: 35
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1430"
-generated_at: "2026-11-23T20:56:44.221Z"
+generated_at: "2026-11-23T20:58:34.466Z"
 status: "active"
 ---
 

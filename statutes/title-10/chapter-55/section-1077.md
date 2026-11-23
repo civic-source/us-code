@@ -3,9 +3,9 @@ title: "Section 1077 - Medical care for dependents: authorized care in facilitie
 usc_title: 10
 usc_section: "1077"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1077"
-generated_at: "2026-11-23T20:56:48.809Z"
+generated_at: "2026-11-23T20:58:39.001Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2132 - Designation of officers with particular expertise in mili
 usc_title: 14
 usc_section: "2132"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 2132"
-generated_at: "2026-11-23T20:56:51.618Z"
+generated_at: "2026-11-23T20:58:41.315Z"
 status: "active"
 ---
 

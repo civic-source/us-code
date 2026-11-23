@@ -3,9 +3,9 @@ title: "Section 507 - Repealed. Pub. L. 112–141, div. E, title II , §§ 52006
 usc_title: 23
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. § 507"
-generated_at: "2026-11-23T20:57:07.611Z"
+generated_at: "2026-11-23T20:58:57.492Z"
 status: "repealed"
 ---
 

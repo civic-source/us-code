@@ -3,9 +3,9 @@ title: "Section 4021 - Research projects: transactions other than contracts and 
 usc_title: 10
 usc_section: "4021"
 chapter: 301
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 4021"
-generated_at: "2026-11-23T20:56:49.119Z"
+generated_at: "2026-11-23T20:58:39.309Z"
 status: "active"
 ---
 

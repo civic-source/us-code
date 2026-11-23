@@ -3,9 +3,9 @@ title: "Section 1632e - Cattle Contracts Library"
 usc_title: 7
 usc_section: "1632e"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1632e"
-generated_at: "2026-11-23T20:56:44.269Z"
+generated_at: "2026-11-23T20:58:34.541Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2062 - Dental care"
 usc_title: 38
 usc_section: "2062"
 chapter: 20
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 2062"
-generated_at: "2026-11-23T20:57:30.238Z"
+generated_at: "2026-11-23T20:59:19.210Z"
 status: "active"
 ---
 

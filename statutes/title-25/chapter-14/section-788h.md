@@ -3,9 +3,9 @@ title: "Section 788h - Omitted"
 usc_title: 25
 usc_section: "788h"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 788h"
-generated_at: "2026-11-23T20:57:08.388Z"
+generated_at: "2026-11-23T20:58:58.267Z"
 status: "omitted"
 ---
 

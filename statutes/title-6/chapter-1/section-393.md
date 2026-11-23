@@ -3,9 +3,9 @@ title: "Section 393 - Special streamlined acquisition authority"
 usc_title: 6
 usc_section: "393"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "6 U.S.C. § 393"
-generated_at: "2026-11-23T20:56:41.719Z"
+generated_at: "2026-11-23T20:58:31.757Z"
 status: "active"
 ---
 

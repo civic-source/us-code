@@ -3,9 +3,9 @@ title: "Section 6225 - Notice to congressional committees of certain security an
 usc_title: 10
 usc_section: "6225"
 chapter: 605
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6225"
-generated_at: "2026-11-23T20:56:49.187Z"
+generated_at: "2026-11-23T20:58:39.389Z"
 status: "active"
 ---
 

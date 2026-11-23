@@ -3,9 +3,9 @@ title: "Section 702 - Mississippi River"
 usc_title: 33
 usc_section: "702"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 702"
-generated_at: "2026-11-23T20:57:25.555Z"
+generated_at: "2026-11-23T20:59:15.380Z"
 status: "active"
 ---
 

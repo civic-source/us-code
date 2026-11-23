@@ -3,9 +3,9 @@ title: "Section 8877 - Accounts of clerks of district courts"
 usc_title: 10
 usc_section: "8877"
 chapter: 883
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 8877"
-generated_at: "2026-11-23T20:56:49.330Z"
+generated_at: "2026-11-23T20:58:39.521Z"
 status: "active"
 ---
 

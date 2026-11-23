@@ -3,9 +3,9 @@ title: "Section 2651a - Organization of Department of State"
 usc_title: 22
 usc_section: "2651a"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2651a"
-generated_at: "2026-11-23T20:57:11.869Z"
+generated_at: "2026-11-23T20:59:02.693Z"
 status: "active"
 ---
 
@@ -124,7 +124,7 @@ status: "active"
       - **(iv)** domestic and overseas assignments policy and administration;
       - **(v)** presidential appointments; and
       - **(vi)** such other related duties as the Under Secretary for Management may from time to time designate.
-    - **(C)** Nothing in this paragraph may be construed to conflict with or otherwise overlap with the authorities and responsibilities of the Director General of the Foreign Service as set forth in section 3928 of title 22 .
+    - **(C)** Nothing in this paragraph may be construed to conflict with or otherwise overlap with the authorities and responsibilities of the Director General of the Foreign Service as set forth in section 3928 of this title .
   - **(8)**
     - **(A)** There shall be in the Department of State an Assistant Secretary for East Asian and Pacific Affairs who shall be responsible to the Secretary of State, acting through the Under Secretary for Political Affairs, for—
       - **(i)** matters relating to East Asia and the Pacific region; and
@@ -174,7 +174,7 @@ status: "active"
         - **(VIII)** coordinating all nominations by the relevant agencies of the Federal Government for election in the United Nations system; and
         - **(IX)** working to increase the number of Junior Professional Officer positions sponsored by the United States in the United Nations system over the number of such positions so sponsored as of December 18, 2025 .
   - **(15)**
-    - **(A)** There shall be in the Department of State an Assistant Secretary for Educational and Cultural Affairs who shall be responsible to the Secretary of State, acting through the Under Secretary for Public Diplomacy, for matters described in section 2460 of this title , and other relevant matters pertaining to the development, implementation, and oversight of all educational, cultural, and professional exchange programs, as well as related initiatives and activities, and such other related duties as the Secretary may from time to time designate.
+    - **(A)** There shall be in the Department of State an Assistant Secretary for Educational and Cultural Affairs who shall be responsible to the Secretary of State, acting through the Under Secretary for Public Diplomacy, for matters described in section 112 of the Mutual Educational and Cultural Exchange Act of 1961 ( 22 U.S.C. 2460 ), and other relevant matters pertaining to the development, implementation, and oversight of all educational, cultural, and professional exchange programs, as well as related initiatives and activities, and such other related duties as the Secretary may from time to time designate.
     - **(B)** In addition to the responsibilities described under subparagraph (A), the Assistant Secretary for Educational and Cultural Affairs shall be responsible for—
       - **(i)** aligning exchange programming with broader global public diplomacy planning when consistent with the purposes of such exchange programing; and
       - **(ii)** ensuring clear foreign policy outcomes in accordance with the objectives and requirements described in the Mutual Educational and Cultural Exchange Act of 1961.

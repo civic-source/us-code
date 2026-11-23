@@ -3,9 +3,9 @@ title: "Section 274f - Reimbursement of travel and subsistence expenses incurred
 usc_title: 42
 usc_section: "274f"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 274f"
-generated_at: "2026-11-23T20:57:42.188Z"
+generated_at: "2026-11-23T20:59:29.903Z"
 status: "active"
 ---
 

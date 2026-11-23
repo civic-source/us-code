@@ -3,9 +3,9 @@ title: "Section 6304 - Subpoena authority"
 usc_title: 46
 usc_section: "6304"
 chapter: 63
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 6304"
-generated_at: "2026-11-23T20:57:47.522Z"
+generated_at: "2026-11-23T20:59:37.857Z"
 status: "active"
 ---
 

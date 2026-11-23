@@ -3,9 +3,9 @@ title: "Section 1081 - Definitions"
 usc_title: 18
 usc_section: "1081"
 chapter: 50
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 1081"
-generated_at: "2026-11-23T20:56:58.873Z"
+generated_at: "2026-11-23T20:58:48.857Z"
 status: "active"
 ---
 

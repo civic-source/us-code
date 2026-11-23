@@ -3,9 +3,9 @@ title: "Section 14a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "14a"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 14a"
-generated_at: "2026-11-23T20:57:04.962Z"
+generated_at: "2026-11-23T20:58:54.671Z"
 status: "repealed"
 ---
 

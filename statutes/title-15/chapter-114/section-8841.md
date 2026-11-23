@@ -3,9 +3,9 @@ title: "Section 8841 - Quantum information science research and education progra
 usc_title: 15
 usc_section: "8841"
 chapter: 114
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 8841"
-generated_at: "2026-11-23T20:56:56.691Z"
+generated_at: "2026-11-23T20:58:46.237Z"
 status: "active"
 ---
 

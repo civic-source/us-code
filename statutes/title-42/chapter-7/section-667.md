@@ -3,9 +3,9 @@ title: "Section 667 - State guidelines for child support awards"
 usc_title: 42
 usc_section: "667"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 667"
-generated_at: "2026-11-23T20:57:42.646Z"
+generated_at: "2026-11-23T20:59:30.349Z"
 status: "active"
 ---
 

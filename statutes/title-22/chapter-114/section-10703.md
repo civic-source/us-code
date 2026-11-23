@@ -3,15 +3,15 @@ title: "Section 10703 - Definitions"
 usc_title: 22
 usc_section: "10703"
 chapter: 114
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 10703"
-generated_at: "2026-11-23T20:57:12.312Z"
+generated_at: "2026-11-23T20:59:03.139Z"
 status: "active"
 ---
 
 # § 10703. Definitions
 
-In this subtitle:
+In this chapter:
 
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Foreign Relations of the Senate;

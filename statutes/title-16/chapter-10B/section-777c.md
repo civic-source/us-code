@@ -3,9 +3,9 @@ title: "Section 777c - Division of annual appropriations"
 usc_title: 16
 usc_section: "777c"
 chapter: 10
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 777c"
-generated_at: "2026-11-23T20:57:05.413Z"
+generated_at: "2026-11-23T20:58:55.032Z"
 status: "active"
 ---
 

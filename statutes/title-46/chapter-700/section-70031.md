@@ -3,9 +3,9 @@ title: "Section 70031 - Definitions"
 usc_title: 46
 usc_section: "70031"
 chapter: 700
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 70031"
-generated_at: "2026-11-23T20:57:47.772Z"
+generated_at: "2026-11-23T20:59:38.062Z"
 status: "active"
 ---
 

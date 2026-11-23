@@ -3,9 +3,9 @@ title: "Section 9601 - Definitions"
 usc_title: 22
 usc_section: "9601"
 chapter: 103
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 9601"
-generated_at: "2026-11-23T20:57:12.277Z"
+generated_at: "2026-11-23T20:59:03.115Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ In this chapter:
     - **(B)** any international financial institution (as defined in section 262r(c) of this title ).
   - **(8)** The term “wealthy country”, with respect to a fiscal year for the Corporation—
     - **(A)** means a country that is among the top 20 countries with the highest gross domestic product per capita at purchasing power parity, as calculated by the World Bank; and
-    - **(B)** does not include members of the ‘Five Eyes’ alliance or the overseas territories of the 20 countries referred to in subparagraph (A).
+    - **(B)** does not include members of the “Five Eyes” alliance or the overseas territories of the 20 countries referred to in subparagraph (A).
 
 ## Source Credit
 

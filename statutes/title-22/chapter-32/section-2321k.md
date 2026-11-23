@@ -3,9 +3,9 @@ title: "Section 2321k - Designation of major non-NATO allies"
 usc_title: 22
 usc_section: "2321k"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2321k"
-generated_at: "2026-11-23T20:57:11.783Z"
+generated_at: "2026-11-23T20:59:02.608Z"
 status: "active"
 ---
 
@@ -36,9 +36,13 @@ Morocco
 
 Pakistan
 
+Peru
+
 Philippines
 
 Qatar
+
+Saudi Arabia
 
 Thailand
 

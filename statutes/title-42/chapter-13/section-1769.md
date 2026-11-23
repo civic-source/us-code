@@ -3,9 +3,9 @@ title: "Section 1769 - Pilot projects"
 usc_title: 42
 usc_section: "1769"
 chapter: 13
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 1769"
-generated_at: "2026-11-23T20:57:43.157Z"
+generated_at: "2026-11-23T20:59:30.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1033 - Crimes by or affecting persons engaged in the business of
 usc_title: 18
 usc_section: "1033"
 chapter: 47
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 1033"
-generated_at: "2026-11-23T20:56:58.871Z"
+generated_at: "2026-11-23T20:58:48.855Z"
 status: "active"
 ---
 

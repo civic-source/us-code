@@ -3,9 +3,9 @@ title: "Section 6281 - Transfer of defense environmental cleanup funds"
 usc_title: 10
 usc_section: "6281"
 chapter: 607
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6281"
-generated_at: "2026-11-23T20:56:49.191Z"
+generated_at: "2026-11-23T20:58:39.392Z"
 status: "active"
 ---
 

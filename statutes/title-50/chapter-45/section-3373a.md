@@ -3,9 +3,9 @@ title: "Section 3373a - Repealed. Pub. L. 119–60, div. A, title XVI, § 1672(a
 usc_title: 50
 usc_section: "3373a"
 chapter: 45
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3373a"
-generated_at: "2026-11-23T20:57:49.634Z"
+generated_at: "2026-11-23T20:59:36.951Z"
 status: "repealed"
 ---
 

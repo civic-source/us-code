@@ -3,9 +3,9 @@ title: "Section 798 - Repealed. Pub. L. 95–281, § 1(b)(1) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "798"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "25 U.S.C. § 798"
-generated_at: "2026-11-23T20:57:08.388Z"
+generated_at: "2026-11-23T20:58:58.267Z"
 status: "repealed"
 ---
 

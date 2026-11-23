@@ -3,9 +3,9 @@ title: "Section 145 - Principal Advisor on Countering Weapons of Mass Destructio
 usc_title: 10
 usc_section: "145"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 145"
-generated_at: "2026-11-23T20:56:48.635Z"
+generated_at: "2026-11-23T20:58:38.780Z"
 status: "active"
 ---
 

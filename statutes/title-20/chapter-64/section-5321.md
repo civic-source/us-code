@@ -3,9 +3,9 @@ title: "Section 5321 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5321"
 chapter: 64
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 5321"
-generated_at: "2026-11-23T20:57:02.290Z"
+generated_at: "2026-11-23T20:58:52.222Z"
 status: "repealed"
 ---
 

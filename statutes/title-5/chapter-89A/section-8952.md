@@ -3,9 +3,9 @@ title: "Section 8952 - Availability of dental benefits"
 usc_title: 5
 usc_section: "8952"
 chapter: 89
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 8952"
-generated_at: "2026-11-23T20:56:39.343Z"
+generated_at: "2026-11-23T20:58:29.151Z"
 status: "active"
 ---
 

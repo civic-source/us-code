@@ -3,9 +3,9 @@ title: "Section 19222 - National research and development strategy for distribut
 usc_title: 42
 usc_section: "19222"
 chapter: 163
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 19222"
-generated_at: "2026-11-23T20:57:44.439Z"
+generated_at: "2026-11-23T20:59:32.705Z"
 status: "active"
 ---
 

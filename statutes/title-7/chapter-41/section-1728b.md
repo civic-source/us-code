@@ -3,9 +3,9 @@ title: "Section 1728b - Omitted"
 usc_title: 7
 usc_section: "1728b"
 chapter: 41
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1728b"
-generated_at: "2026-11-23T20:56:44.287Z"
+generated_at: "2026-11-23T20:58:34.570Z"
 status: "omitted"
 ---
 

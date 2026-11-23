@@ -3,9 +3,9 @@ title: "Section 843 - Application of Internal Security Act of 1950 to members of
 usc_title: 50
 usc_section: "843"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 843"
-generated_at: "2026-11-23T20:57:49.520Z"
+generated_at: "2026-11-23T20:59:36.797Z"
 status: "active"
 ---
 

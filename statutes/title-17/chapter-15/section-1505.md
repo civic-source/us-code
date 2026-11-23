@@ -3,9 +3,9 @@ title: "Section 1505 - Registration requirement"
 usc_title: 17
 usc_section: "1505"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "17 U.S.C. § 1505"
-generated_at: "2026-11-23T20:56:59.477Z"
+generated_at: "2026-11-23T20:58:49.201Z"
 status: "active"
 ---
 

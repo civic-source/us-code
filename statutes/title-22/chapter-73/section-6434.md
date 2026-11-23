@@ -3,9 +3,9 @@ title: "Section 6434 - Applicability of other laws"
 usc_title: 22
 usc_section: "6434"
 chapter: 73
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 6434"
-generated_at: "2026-11-23T20:57:12.104Z"
+generated_at: "2026-11-23T20:59:02.957Z"
 status: "active"
 ---
 

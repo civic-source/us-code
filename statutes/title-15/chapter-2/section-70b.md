@@ -3,9 +3,9 @@ title: "Section 70b - Misbranded and falsely advertised textile fiber products"
 usc_title: 15
 usc_section: "70b"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 70b"
-generated_at: "2026-11-23T20:56:56.061Z"
+generated_at: "2026-11-23T20:58:45.718Z"
 status: "active"
 ---
 

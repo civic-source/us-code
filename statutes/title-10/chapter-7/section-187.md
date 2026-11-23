@@ -3,9 +3,9 @@ title: "Section 187 - Repealed. Pub. L. 117–263, div. A, title XIV, § 1411(a)
 usc_title: 10
 usc_section: "187"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 187"
-generated_at: "2026-11-23T20:56:48.648Z"
+generated_at: "2026-11-23T20:58:38.793Z"
 status: "repealed"
 ---
 

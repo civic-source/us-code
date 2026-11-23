@@ -3,9 +3,9 @@ title: "Section 3736 - Reporting requirements"
 usc_title: 38
 usc_section: "3736"
 chapter: 37
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 3736"
-generated_at: "2026-11-23T20:57:30.342Z"
+generated_at: "2026-11-23T20:59:19.292Z"
 status: "active"
 ---
 

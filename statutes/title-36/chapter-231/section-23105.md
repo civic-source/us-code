@@ -3,9 +3,9 @@ title: "Section 23105 - Powers"
 usc_title: 36
 usc_section: "23105"
 chapter: 231
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 23105"
-generated_at: "2026-11-23T20:57:28.656Z"
+generated_at: "2026-11-23T20:59:17.775Z"
 status: "active"
 ---
 

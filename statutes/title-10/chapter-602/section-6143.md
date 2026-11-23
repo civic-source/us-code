@@ -3,9 +3,9 @@ title: "Section 6143 - Modernization and consolidation of tritium recycling faci
 usc_title: 10
 usc_section: "6143"
 chapter: 602
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6143"
-generated_at: "2026-11-23T20:56:49.181Z"
+generated_at: "2026-11-23T20:58:39.381Z"
 status: "active"
 ---
 

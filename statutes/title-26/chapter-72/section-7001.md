@@ -3,9 +3,9 @@ title: "Section 7001 - Collection of foreign items"
 usc_title: 26
 usc_section: "7001"
 chapter: 72
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 7001"
-generated_at: "2026-11-23T20:57:20.632Z"
+generated_at: "2026-11-23T20:59:11.915Z"
 status: "active"
 ---
 

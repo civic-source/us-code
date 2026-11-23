@@ -3,9 +3,9 @@ title: "Section 458 - Prohibited acts"
 usc_title: 21
 usc_section: "458"
 chapter: 10
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 458"
-generated_at: "2026-11-23T20:57:09.619Z"
+generated_at: "2026-11-23T20:58:59.366Z"
 status: "active"
 ---
 

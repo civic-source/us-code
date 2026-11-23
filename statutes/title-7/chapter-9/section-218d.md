@@ -3,9 +3,9 @@ title: "Section 218d - Repealed. Pub. L. 100–173, § 10 , Nov. 23, 1987 , 101 
 usc_title: 7
 usc_section: "218d"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 218d"
-generated_at: "2026-11-23T20:56:44.126Z"
+generated_at: "2026-11-23T20:58:34.328Z"
 status: "repealed"
 ---
 

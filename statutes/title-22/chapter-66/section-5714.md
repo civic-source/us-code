@@ -3,9 +3,9 @@ title: "Section 5714 - Transportation"
 usc_title: 22
 usc_section: "5714"
 chapter: 66
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 5714"
-generated_at: "2026-11-23T20:57:12.059Z"
+generated_at: "2026-11-23T20:59:02.918Z"
 status: "active"
 ---
 

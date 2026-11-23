@@ -3,9 +3,9 @@ title: "Section 16536 - Protecting America’s Competitive Edge (PACE) graduate 
 usc_title: 42
 usc_section: "16536"
 chapter: 149
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 16536"
-generated_at: "2026-11-23T20:57:44.272Z"
+generated_at: "2026-11-23T20:59:32.509Z"
 status: "active"
 ---
 

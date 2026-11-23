@@ -3,9 +3,9 @@ title: "Section 466g - Transferred"
 usc_title: 33
 usc_section: "466g"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 466g"
-generated_at: "2026-11-23T20:57:25.523Z"
+generated_at: "2026-11-23T20:59:15.335Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 921b - Repealed. Pub. L. 115–334, title VI, § 6602(b)(13) , (
 usc_title: 7
 usc_section: "921b"
 chapter: 31
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 921b"
-generated_at: "2026-11-23T20:56:44.174Z"
+generated_at: "2026-11-23T20:58:34.401Z"
 status: "repealed"
 ---
 

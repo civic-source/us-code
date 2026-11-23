@@ -3,9 +3,9 @@ title: "Section 3711b - Conference on advanced automotive technologies"
 usc_title: 15
 usc_section: "3711b"
 chapter: 63
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 3711b"
-generated_at: "2026-11-23T20:56:56.546Z"
+generated_at: "2026-11-23T20:58:46.139Z"
 status: "active"
 ---
 

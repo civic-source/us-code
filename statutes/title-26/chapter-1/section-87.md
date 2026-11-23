@@ -3,9 +3,9 @@ title: "Section 87 - Alcohol and biodiesel fuels credits"
 usc_title: 26
 usc_section: "87"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 87"
-generated_at: "2026-11-23T20:57:19.700Z"
+generated_at: "2026-11-23T20:59:11.213Z"
 status: "active"
 ---
 

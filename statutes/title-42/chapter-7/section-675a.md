@@ -3,9 +3,9 @@ title: "Section 675a - Additional case plan and case review system requirements"
 usc_title: 42
 usc_section: "675a"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 675a"
-generated_at: "2026-11-23T20:57:42.657Z"
+generated_at: "2026-11-23T20:59:30.360Z"
 status: "active"
 ---
 

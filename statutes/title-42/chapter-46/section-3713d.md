@@ -3,9 +3,9 @@ title: "Section 3713d - Transferred"
 usc_title: 42
 usc_section: "3713d"
 chapter: 46
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 3713d"
-generated_at: "2026-11-23T20:57:43.370Z"
+generated_at: "2026-11-23T20:59:31.261Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 240g - Defense Business Audit Remediation Plan"
 usc_title: 10
 usc_section: "240g"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 240g"
-generated_at: "2026-11-23T20:56:48.658Z"
+generated_at: "2026-11-23T20:58:38.807Z"
 status: "active"
 ---
 

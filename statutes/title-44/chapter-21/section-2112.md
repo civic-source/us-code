@@ -3,9 +3,9 @@ title: "Section 2112 - Presidential archival depository"
 usc_title: 44
 usc_section: "2112"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "44 U.S.C. § 2112"
-generated_at: "2026-11-23T20:57:32.529Z"
+generated_at: "2026-11-23T20:59:22.227Z"
 status: "active"
 ---
 

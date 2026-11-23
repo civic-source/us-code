@@ -3,9 +3,9 @@ title: "Section 3952 - Diplomatic and consular missions"
 usc_title: 22
 usc_section: "3952"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 3952"
-generated_at: "2026-11-23T20:57:11.971Z"
+generated_at: "2026-11-23T20:59:02.828Z"
 status: "active"
 ---
 

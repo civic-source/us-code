@@ -3,9 +3,9 @@ title: "Section 1401 - Miscellaneous"
 usc_title: 19
 usc_section: "1401"
 chapter: 4
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 1401"
-generated_at: "2026-11-23T20:57:00.282Z"
+generated_at: "2026-11-23T20:58:49.954Z"
 status: "active"
 ---
 

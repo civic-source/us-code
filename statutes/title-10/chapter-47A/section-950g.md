@@ -3,9 +3,9 @@ title: "Section 950g - Review by United States Court of Appeals for the District
 usc_title: 10
 usc_section: "950g"
 chapter: 47
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 950g"
-generated_at: "2026-11-23T20:56:48.776Z"
+generated_at: "2026-11-23T20:58:38.963Z"
 status: "active"
 ---
 

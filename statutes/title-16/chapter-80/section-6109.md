@@ -3,9 +3,9 @@ title: "Section 6109 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6109"
 chapter: 80
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 6109"
-generated_at: "2026-11-23T20:57:05.716Z"
+generated_at: "2026-11-23T20:58:55.333Z"
 status: "active"
 ---
 

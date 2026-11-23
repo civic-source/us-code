@@ -3,9 +3,9 @@ title: "Section 3372 - Undefinitized contractual actions: requirements and limit
 usc_title: 10
 usc_section: "3372"
 chapter: 244
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 3372"
-generated_at: "2026-11-23T20:56:49.091Z"
+generated_at: "2026-11-23T20:58:39.282Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1433 - Definitions"
 usc_title: 22
 usc_section: "1433"
 chapter: 18
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1433"
-generated_at: "2026-11-23T20:57:11.652Z"
+generated_at: "2026-11-23T20:59:02.479Z"
 status: "active"
 ---
 

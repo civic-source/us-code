@@ -3,9 +3,9 @@ title: "Section 3307 - Assessment of Corps of Engineers levees"
 usc_title: 33
 usc_section: "3307"
 chapter: 46
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 3307"
-generated_at: "2026-11-23T20:57:25.743Z"
+generated_at: "2026-11-23T20:59:15.538Z"
 status: "active"
 ---
 

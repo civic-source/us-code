@@ -3,9 +3,9 @@ title: "Section 9012 - Base acres"
 usc_title: 7
 usc_section: "9012"
 chapter: 115
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 9012"
-generated_at: "2026-11-23T20:56:44.706Z"
+generated_at: "2026-11-23T20:58:34.943Z"
 status: "active"
 ---
 
@@ -104,7 +104,7 @@ status: "active"
     - **(B)** if no such payment yield for the applicable covered commodity exists, a payment yield—
       - **(i)** equal to the average payment yield for the covered commodity for the county in which the farm is situated; or
       - **(ii)** determined pursuant to section 9013(c) of this title .
-  - **(8)** In the case of a farm for which the owner on July 4, 2025 was not the owner for the 2019 through 2023 crop years, the Secretary shall use the planting history of the prior owner or owners of that farm for purposes of determining—
+  - **(8)** In the case of a farm for which the owner on July 4, 2025 , was not the owner for the 2019 through 2023 crop years, the Secretary shall use the planting history of the prior owner or owners of that farm for purposes of determining—
     - **(A)** eligibility under paragraph (3);
     - **(B)** eligible acres under paragraph (4); and
     - **(C)** the allocation of acres under paragraph (5).

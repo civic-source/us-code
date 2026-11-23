@@ -3,9 +3,9 @@ title: "Section 8718 - Special rule for long grain and medium grain rice"
 usc_title: 7
 usc_section: "8718"
 chapter: 113
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 8718"
-generated_at: "2026-11-23T20:56:44.694Z"
+generated_at: "2026-11-23T20:58:34.935Z"
 status: "active"
 ---
 

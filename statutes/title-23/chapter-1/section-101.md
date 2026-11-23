@@ -3,9 +3,9 @@ title: "Section 101 - Definitions and declaration of policy"
 usc_title: 23
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. § 101"
-generated_at: "2026-11-23T20:57:07.524Z"
+generated_at: "2026-11-23T20:58:57.362Z"
 status: "active"
 ---
 
@@ -289,6 +289,38 @@ Requirements
 In General
 
 Covered Lapse
+
+Covered law
+
+Extension end date
+
+Extension fraction
+
+Extension period
+
+Highway account
+
+Mass transit account
+
+In General
+
+Authorization of Appropriations.—
+
+Highway trust fund.—
+
+Highway account
+
+Mass transit account
+
+General fund
+
+Use of Funds.—
+
+In general
+
+Apportionment notice to states
+
+Obligation Limitation
 
 Covered law
 

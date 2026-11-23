@@ -3,9 +3,9 @@ title: "Section 24907 - Note and mortgage"
 usc_title: 49
 usc_section: "24907"
 chapter: 249
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 24907"
-generated_at: "2026-11-23T20:57:52.109Z"
+generated_at: "2026-11-23T20:59:41.090Z"
 status: "active"
 ---
 

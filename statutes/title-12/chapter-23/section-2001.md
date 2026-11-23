@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional declaration of policy and objectives"
 usc_title: 12
 usc_section: "2001"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 2001"
-generated_at: "2026-11-23T20:56:54.310Z"
+generated_at: "2026-11-23T20:58:43.706Z"
 status: "active"
 ---
 

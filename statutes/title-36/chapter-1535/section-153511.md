@@ -3,9 +3,9 @@ title: "Section 153511 - Service of process"
 usc_title: 36
 usc_section: "153511"
 chapter: 1535
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 153511"
-generated_at: "2026-11-23T20:57:28.735Z"
+generated_at: "2026-11-23T20:59:17.855Z"
 status: "active"
 ---
 

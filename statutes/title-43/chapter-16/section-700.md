@@ -3,9 +3,9 @@ title: "Section 700 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21
 usc_title: 43
 usc_section: "700"
 chapter: 16
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 700"
-generated_at: "2026-11-23T20:57:33.480Z"
+generated_at: "2026-11-23T20:59:21.762Z"
 status: "repealed"
 ---
 

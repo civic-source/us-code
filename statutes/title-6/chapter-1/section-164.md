@@ -3,9 +3,9 @@ title: "Section 164 - Abolishment of Office of Science and Technology of Nationa
 usc_title: 6
 usc_section: "164"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "6 U.S.C. § 164"
-generated_at: "2026-11-23T20:56:41.686Z"
+generated_at: "2026-11-23T20:58:31.699Z"
 status: "active"
 ---
 

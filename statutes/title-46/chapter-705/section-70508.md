@@ -3,9 +3,9 @@ title: "Section 70508 - Operation of submersible vessel or semi-submersible vess
 usc_title: 46
 usc_section: "70508"
 chapter: 705
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 70508"
-generated_at: "2026-11-23T20:57:47.791Z"
+generated_at: "2026-11-23T20:59:38.084Z"
 status: "active"
 ---
 

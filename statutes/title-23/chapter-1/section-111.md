@@ -3,9 +3,9 @@ title: "Section 111 - Agreements relating to use of and access to rights-of-wayâ
 usc_title: 23
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. Â§ 111"
-generated_at: "2026-11-23T20:57:07.535Z"
+generated_at: "2026-11-23T20:58:57.379Z"
 status: "active"
 ---
 

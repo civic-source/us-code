@@ -3,9 +3,9 @@ title: "Section 2501 - Congressional findings and policy"
 usc_title: 15
 usc_section: "2501"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 2501"
-generated_at: "2026-11-23T20:56:56.474Z"
+generated_at: "2026-11-23T20:58:46.094Z"
 status: "active"
 ---
 

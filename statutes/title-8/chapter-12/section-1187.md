@@ -3,9 +3,9 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-11-23T20:56:41.199Z"
+generated_at: "2026-11-23T20:58:31.112Z"
 status: "active"
 ---
 

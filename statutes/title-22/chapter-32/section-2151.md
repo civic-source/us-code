@@ -3,9 +3,9 @@ title: "Section 2151 - Congressional findings and declaration of policy"
 usc_title: 22
 usc_section: "2151"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2151"
-generated_at: "2026-11-23T20:57:11.707Z"
+generated_at: "2026-11-23T20:59:02.538Z"
 status: "active"
 ---
 
@@ -69,16 +69,6 @@ Submission
 Appropriate Congressional Committees
 
 “It is the policy of the United States to—
-
-Prioritization by Secretary of State
-
-Briefing.—
-
-In general
-
-Elements
-
-Consultation
 
 Appropriate Congressional Committees Defined
 

@@ -3,9 +3,9 @@ title: "Section 45Y - Clean electricity production credit"
 usc_title: 26
 usc_section: "45Y"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 45Y"
-generated_at: "2026-11-23T20:57:19.648Z"
+generated_at: "2026-11-23T20:59:11.169Z"
 status: "active"
 ---
 
@@ -154,6 +154,20 @@ status: "active"
       - **(ii)** a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
     - **(B)** In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(1).
 - **(h)** No credit shall be determined under this section with respect to any production of electricity during the taxable year with respect to property described in paragraph (1) or (4) of section 25D(d) (as applied by substituting “lessee” for “taxpayer”) if the taxpayer rents or leases such property to a third party during such taxable year.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

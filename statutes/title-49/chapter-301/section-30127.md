@@ -3,9 +3,9 @@ title: "Section 30127 - Automatic occupant crash protection and seat belt use"
 usc_title: 49
 usc_section: "30127"
 chapter: 301
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 30127"
-generated_at: "2026-11-23T20:57:52.122Z"
+generated_at: "2026-11-23T20:59:41.109Z"
 status: "active"
 ---
 

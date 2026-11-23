@@ -3,9 +3,9 @@ title: "Section 5237 - Authority to suspend mark-to-market accounting"
 usc_title: 12
 usc_section: "5237"
 chapter: 52
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 5237"
-generated_at: "2026-11-23T20:56:54.449Z"
+generated_at: "2026-11-23T20:58:43.837Z"
 status: "active"
 ---
 

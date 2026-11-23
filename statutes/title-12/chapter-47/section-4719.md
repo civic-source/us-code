@@ -3,9 +3,9 @@ title: "Section 4719 - Grants to establish loan-loss reserve funds"
 usc_title: 12
 usc_section: "4719"
 chapter: 47
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 4719"
-generated_at: "2026-11-23T20:56:54.430Z"
+generated_at: "2026-11-23T20:58:43.807Z"
 status: "active"
 ---
 

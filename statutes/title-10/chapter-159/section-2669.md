@@ -3,9 +3,9 @@ title: "Section 2669 - Transfer of land and facilities to support contracts with
 usc_title: 10
 usc_section: "2669"
 chapter: 159
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-11-23T20:56:49.015Z"
+generated_at: "2026-11-23T20:58:39.208Z"
 status: "active"
 ---
 

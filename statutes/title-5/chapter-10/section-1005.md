@@ -3,9 +3,9 @@ title: "Section 1005 - Responsibilities of the President"
 usc_title: 5
 usc_section: "1005"
 chapter: 10
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 1005"
-generated_at: "2026-11-23T20:56:38.983Z"
+generated_at: "2026-11-23T20:58:28.909Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1090 - Identifying and treating drug and alcohol dependence"
 usc_title: 10
 usc_section: "1090"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1090"
-generated_at: "2026-11-23T20:56:48.815Z"
+generated_at: "2026-11-23T20:58:39.008Z"
 status: "active"
 ---
 

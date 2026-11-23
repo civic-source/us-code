@@ -3,9 +3,9 @@ title: "Section 805 - General deductions"
 usc_title: 26
 usc_section: "805"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 805"
-generated_at: "2026-11-23T20:57:20.020Z"
+generated_at: "2026-11-23T20:59:11.479Z"
 status: "active"
 ---
 

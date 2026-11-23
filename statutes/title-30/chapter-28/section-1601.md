@@ -3,9 +3,9 @@ title: "Section 1601 - Congressional statement of findings; “materials” defi
 usc_title: 30
 usc_section: "1601"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "30 U.S.C. § 1601"
-generated_at: "2026-11-23T20:57:13.978Z"
+generated_at: "2026-11-23T20:59:04.811Z"
 status: "active"
 ---
 

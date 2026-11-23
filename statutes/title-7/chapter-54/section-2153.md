@@ -3,9 +3,9 @@ title: "Section 2153 - Fees and authorization of appropriations"
 usc_title: 7
 usc_section: "2153"
 chapter: 54
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 2153"
-generated_at: "2026-11-23T20:56:44.393Z"
+generated_at: "2026-11-23T20:58:34.733Z"
 status: "active"
 ---
 

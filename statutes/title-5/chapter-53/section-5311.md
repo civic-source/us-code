@@ -3,9 +3,9 @@ title: "Section 5311 - The Executive Schedule"
 usc_title: 5
 usc_section: "5311"
 chapter: 53
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 5311"
-generated_at: "2026-11-23T20:56:39.053Z"
+generated_at: "2026-11-23T20:58:28.966Z"
 status: "active"
 ---
 

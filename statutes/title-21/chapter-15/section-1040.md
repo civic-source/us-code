@@ -3,9 +3,9 @@ title: "Section 1040 - Recordkeeping requirements; persons required to maintain 
 usc_title: 21
 usc_section: "1040"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 1040"
-generated_at: "2026-11-23T20:57:09.668Z"
+generated_at: "2026-11-23T20:58:59.431Z"
 status: "active"
 ---
 

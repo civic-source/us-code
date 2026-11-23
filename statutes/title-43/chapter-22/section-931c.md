@@ -3,9 +3,9 @@ title: "Section 931c - Permits, leases, or easements; authorization to grant; pa
 usc_title: 43
 usc_section: "931c"
 chapter: 22
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 931c"
-generated_at: "2026-11-23T20:57:33.496Z"
+generated_at: "2026-11-23T20:59:21.769Z"
 status: "active"
 ---
 

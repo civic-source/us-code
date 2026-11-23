@@ -3,9 +3,9 @@ title: "Section 6309 - Biennial report to Congress"
 usc_title: 38
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "38 U.S.C. § 6309"
-generated_at: "2026-11-23T20:57:30.404Z"
+generated_at: "2026-11-23T20:59:19.324Z"
 status: "active"
 ---
 

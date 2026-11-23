@@ -3,9 +3,9 @@ title: "Section 911 - Acceptance of services of Federal or State officers; appli
 usc_title: 7
 usc_section: "911"
 chapter: 31
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 911"
-generated_at: "2026-11-23T20:56:44.172Z"
+generated_at: "2026-11-23T20:58:34.394Z"
 status: "active"
 ---
 

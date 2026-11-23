@@ -3,9 +3,9 @@ title: "Section 2439 - Freedom to emigrate to join a very close relative in Unit
 usc_title: 19
 usc_section: "2439"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "19 U.S.C. § 2439"
-generated_at: "2026-11-23T20:57:00.384Z"
+generated_at: "2026-11-23T20:58:50.054Z"
 status: "active"
 ---
 

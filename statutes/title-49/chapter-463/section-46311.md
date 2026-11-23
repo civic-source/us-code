@@ -3,9 +3,9 @@ title: "Section 46311 - Unlawful disclosure of information"
 usc_title: 49
 usc_section: "46311"
 chapter: 463
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 46311"
-generated_at: "2026-11-23T20:57:52.330Z"
+generated_at: "2026-11-23T20:59:41.402Z"
 status: "active"
 ---
 

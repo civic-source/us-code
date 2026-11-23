@@ -3,9 +3,9 @@ title: "Section 1373 - Suspension of Philippine Trade Act of 1946"
 usc_title: 22
 usc_section: "1373"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1373"
-generated_at: "2026-11-23T20:57:11.646Z"
+generated_at: "2026-11-23T20:59:02.477Z"
 status: "active"
 ---
 

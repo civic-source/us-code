@@ -3,9 +3,9 @@ title: "Section 3106a - Compliance with State and Federal laws"
 usc_title: 12
 usc_section: "3106a"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 3106a"
-generated_at: "2026-11-23T20:56:54.364Z"
+generated_at: "2026-11-23T20:58:43.753Z"
 status: "active"
 ---
 

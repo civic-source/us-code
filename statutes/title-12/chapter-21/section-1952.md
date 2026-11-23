@@ -3,9 +3,9 @@ title: "Section 1952 - Reports on ownership and control"
 usc_title: 12
 usc_section: "1952"
 chapter: 21
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 1952"
-generated_at: "2026-11-23T20:56:54.307Z"
+generated_at: "2026-11-23T20:58:43.704Z"
 status: "active"
 ---
 

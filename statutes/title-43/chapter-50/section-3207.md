@@ -3,9 +3,9 @@ title: "Section 3207 - Multi-benefit projects to improve watershed health"
 usc_title: 43
 usc_section: "3207"
 chapter: 50
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 3207"
-generated_at: "2026-11-23T20:57:33.620Z"
+generated_at: "2026-11-23T20:59:21.849Z"
 status: "active"
 ---
 

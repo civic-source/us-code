@@ -3,9 +3,9 @@ title: "Section 635 - Deposit of moneys; depositaries, custodians, and fiscal ag
 usc_title: 15
 usc_section: "635"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 635"
-generated_at: "2026-11-23T20:56:56.232Z"
+generated_at: "2026-11-23T20:58:45.876Z"
 status: "active"
 ---
 

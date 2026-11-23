@@ -3,9 +3,9 @@ title: "Section 5111 - Revocation and restoration of authority to classify posit
 usc_title: 5
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 5111"
-generated_at: "2026-11-23T20:56:39.043Z"
+generated_at: "2026-11-23T20:58:28.962Z"
 status: "active"
 ---
 

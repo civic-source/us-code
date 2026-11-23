@@ -3,9 +3,9 @@ title: "Section 1252 - Age 64: permanent professors at academies"
 usc_title: 10
 usc_section: "1252"
 chapter: 63
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 1252"
-generated_at: "2026-11-23T20:56:48.848Z"
+generated_at: "2026-11-23T20:58:39.042Z"
 status: "active"
 ---
 

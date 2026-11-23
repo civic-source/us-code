@@ -3,9 +3,9 @@ title: "Section 286ll - Fund policy changes"
 usc_title: 22
 usc_section: "286ll"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 286ll"
-generated_at: "2026-11-23T20:57:11.611Z"
+generated_at: "2026-11-23T20:59:02.427Z"
 status: "active"
 ---
 

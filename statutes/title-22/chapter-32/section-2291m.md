@@ -3,9 +3,9 @@ title: "Section 2291m - Program to provide assistance to build the capacity of f
 usc_title: 22
 usc_section: "2291m"
 chapter: 32
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 2291m"
-generated_at: "2026-11-23T20:57:11.766Z"
+generated_at: "2026-11-23T20:59:02.593Z"
 status: "active"
 ---
 

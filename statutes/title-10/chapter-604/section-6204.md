@@ -3,9 +3,9 @@ title: "Section 6204 - Notification regarding air release of radioactive or haza
 usc_title: 10
 usc_section: "6204"
 chapter: 604
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 6204"
-generated_at: "2026-11-23T20:56:49.186Z"
+generated_at: "2026-11-23T20:58:39.388Z"
 status: "active"
 ---
 

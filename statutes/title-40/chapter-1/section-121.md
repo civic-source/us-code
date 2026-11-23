@@ -3,9 +3,9 @@ title: "Section 121 - Administrative"
 usc_title: 40
 usc_section: "121"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "40 U.S.C. § 121"
-generated_at: "2026-11-23T20:57:28.003Z"
+generated_at: "2026-11-23T20:59:19.688Z"
 status: "active"
 ---
 
@@ -158,12 +158,6 @@ June 30, 1949, ch. 288
 121(g)
 
 121(h)
-
-Space Acquisition
-
-Administrator of General Services
-
-General Provisions
 
 Section
 

@@ -3,9 +3,9 @@ title: "Section 2401 - Establishment of Commission"
 usc_title: 12
 usc_section: "2401"
 chapter: 25
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 2401"
-generated_at: "2026-11-23T20:56:54.346Z"
+generated_at: "2026-11-23T20:58:43.739Z"
 status: "active"
 ---
 

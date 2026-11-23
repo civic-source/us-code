@@ -3,9 +3,9 @@ title: "Section 7531 - Definitions"
 usc_title: 5
 usc_section: "7531"
 chapter: 75
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 7531"
-generated_at: "2026-11-23T20:56:39.206Z"
+generated_at: "2026-11-23T20:58:29.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1018 - Data from Federal agencies"
 usc_title: 30
 usc_section: "1018"
 chapter: 23
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "30 U.S.C. § 1018"
-generated_at: "2026-11-23T20:57:13.948Z"
+generated_at: "2026-11-23T20:59:04.781Z"
 status: "active"
 ---
 

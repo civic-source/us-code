@@ -3,9 +3,9 @@ title: "Section 185 - Joint Safety Council"
 usc_title: 10
 usc_section: "185"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 185"
-generated_at: "2026-11-23T20:56:48.648Z"
+generated_at: "2026-11-23T20:58:38.792Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 645a - Annual report on suspensions and debarments proposed by S
 usc_title: 15
 usc_section: "645a"
 chapter: 14
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 645a"
-generated_at: "2026-11-23T20:56:56.288Z"
+generated_at: "2026-11-23T20:58:45.914Z"
 status: "active"
 ---
 

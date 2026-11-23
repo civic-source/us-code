@@ -3,9 +3,9 @@ title: "Section 1748g - Cost certification"
 usc_title: 12
 usc_section: "1748g"
 chapter: 13
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 1748g"
-generated_at: "2026-11-23T20:56:54.192Z"
+generated_at: "2026-11-23T20:58:43.428Z"
 status: "active"
 ---
 

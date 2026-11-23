@@ -3,9 +3,9 @@ title: "Section 2202 - Declaration of purpose"
 usc_title: 15
 usc_section: "2202"
 chapter: 49
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 2202"
-generated_at: "2026-11-23T20:56:56.454Z"
+generated_at: "2026-11-23T20:58:46.083Z"
 status: "active"
 ---
 

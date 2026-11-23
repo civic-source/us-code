@@ -3,9 +3,9 @@ title: "Section 4712 - National ballast water management information"
 usc_title: 16
 usc_section: "4712"
 chapter: 67
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 4712"
-generated_at: "2026-11-23T20:57:05.699Z"
+generated_at: "2026-11-23T20:58:55.313Z"
 status: "active"
 ---
 

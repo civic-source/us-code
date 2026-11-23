@@ -3,9 +3,9 @@ title: "Section 1051 - Other Federal laws applicable for administration and enfo
 usc_title: 21
 usc_section: "1051"
 chapter: 15
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "21 U.S.C. § 1051"
-generated_at: "2026-11-23T20:57:09.670Z"
+generated_at: "2026-11-23T20:58:59.433Z"
 status: "active"
 ---
 

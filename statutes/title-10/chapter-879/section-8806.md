@@ -3,9 +3,9 @@ title: "Section 8806 - Subsistence and other supplies: members of armed forces; 
 usc_title: 10
 usc_section: "8806"
 chapter: 879
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 8806"
-generated_at: "2026-11-23T20:56:49.324Z"
+generated_at: "2026-11-23T20:58:39.513Z"
 status: "active"
 ---
 

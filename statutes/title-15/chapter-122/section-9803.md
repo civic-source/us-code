@@ -3,9 +3,9 @@ title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce f
 usc_title: 15
 usc_section: "9803"
 chapter: 122
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 9803"
-generated_at: "2026-11-23T20:56:56.739Z"
+generated_at: "2026-11-23T20:58:46.286Z"
 status: "active"
 ---
 

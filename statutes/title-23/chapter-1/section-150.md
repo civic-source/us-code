@@ -3,9 +3,9 @@ title: "Section 150 - National goals and performance management measures"
 usc_title: 23
 usc_section: "150"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. § 150"
-generated_at: "2026-11-23T20:57:07.570Z"
+generated_at: "2026-11-23T20:58:57.432Z"
 status: "active"
 ---
 

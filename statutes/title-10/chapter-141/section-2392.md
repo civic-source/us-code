@@ -3,9 +3,9 @@ title: "Section 2392 - Process for strategic basing actions for the Department o
 usc_title: 10
 usc_section: "2392"
 chapter: 141
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2392"
-generated_at: "2026-11-23T20:56:48.982Z"
+generated_at: "2026-11-23T20:58:39.171Z"
 status: "active"
 ---
 

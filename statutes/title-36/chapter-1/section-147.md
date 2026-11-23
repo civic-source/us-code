@@ -3,9 +3,9 @@ title: "Section 147 - Choose Respect Day"
 usc_title: 36
 usc_section: "147"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 147"
-generated_at: "2026-11-23T20:57:28.614Z"
+generated_at: "2026-11-23T20:59:17.725Z"
 status: "active"
 ---
 

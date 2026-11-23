@@ -3,9 +3,9 @@ title: "Section 328 - Transportation Systems Center working capital fund"
 usc_title: 49
 usc_section: "328"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 328"
-generated_at: "2026-11-23T20:57:51.893Z"
+generated_at: "2026-11-23T20:59:40.875Z"
 status: "active"
 ---
 

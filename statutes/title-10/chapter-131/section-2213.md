@@ -3,9 +3,9 @@ title: "Section 2213 - Renumbered § 3070]"
 usc_title: 10
 usc_section: "2213"
 chapter: 131
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "10 U.S.C. § 2213"
-generated_at: "2026-11-23T20:56:48.952Z"
+generated_at: "2026-11-23T20:58:39.138Z"
 status: "renumbered"
 ---
 

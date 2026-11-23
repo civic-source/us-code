@@ -3,9 +3,9 @@ title: "Section 64 - Appropriation for expenses; appointment by Secretary of off
 usc_title: 7
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 64"
-generated_at: "2026-11-23T20:56:44.074Z"
+generated_at: "2026-11-23T20:58:34.244Z"
 status: "active"
 ---
 

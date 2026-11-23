@@ -3,9 +3,9 @@ title: "Section 147 - Construction of ferry boats and ferry terminal facilities"
 usc_title: 23
 usc_section: "147"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "23 U.S.C. § 147"
-generated_at: "2026-11-23T20:57:07.567Z"
+generated_at: "2026-11-23T20:58:57.427Z"
 status: "active"
 ---
 

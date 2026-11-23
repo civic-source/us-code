@@ -3,9 +3,9 @@ title: "Section 9202 - NSF support of research on manipulated or synthesized con
 usc_title: 15
 usc_section: "9202"
 chapter: 117
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 9202"
-generated_at: "2026-11-23T20:56:56.725Z"
+generated_at: "2026-11-23T20:58:46.272Z"
 status: "active"
 ---
 

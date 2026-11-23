@@ -3,9 +3,9 @@ title: "Section 60 - Repealed. Pub. L. 101–189, div. A, title III, § 347(2) ,
 usc_title: 24
 usc_section: "60"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "24 U.S.C. § 60"
-generated_at: "2026-11-23T20:57:07.152Z"
+generated_at: "2026-11-23T20:58:56.697Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7283 - Commodity Credit Corporation interest rate"
 usc_title: 7
 usc_section: "7283"
 chapter: 100
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 7283"
-generated_at: "2026-11-23T20:56:44.594Z"
+generated_at: "2026-11-23T20:58:34.879Z"
 status: "active"
 ---
 

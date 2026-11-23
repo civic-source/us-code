@@ -3,9 +3,9 @@ title: "Section 5511 - Networking and Information Technology Research and Develo
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-11-23T20:56:56.591Z"
+generated_at: "2026-11-23T20:58:46.172Z"
 status: "active"
 ---
 

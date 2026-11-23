@@ -3,9 +3,9 @@ title: "Section 22503 - Membership"
 usc_title: 36
 usc_section: "22503"
 chapter: 225
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "36 U.S.C. § 22503"
-generated_at: "2026-11-23T20:57:28.647Z"
+generated_at: "2026-11-23T20:59:17.763Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3191 - Scholarships and work-study for pursuit of graduate degre
 usc_title: 50
 usc_section: "3191"
 chapter: 44
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 3191"
-generated_at: "2026-11-23T20:57:49.611Z"
+generated_at: "2026-11-23T20:59:36.916Z"
 status: "active"
 ---
 

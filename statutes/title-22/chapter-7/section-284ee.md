@@ -3,9 +3,9 @@ title: "Section 284ee - Twenty-first replenishment"
 usc_title: 22
 usc_section: "284ee"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 284ee"
-generated_at: "2026-11-23T20:57:11.602Z"
+generated_at: "2026-11-23T20:59:02.412Z"
 status: "active"
 ---
 

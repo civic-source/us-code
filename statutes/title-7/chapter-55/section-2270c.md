@@ -3,9 +3,9 @@ title: "Section 2270c - Submission of results"
 usc_title: 7
 usc_section: "2270c"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 2270c"
-generated_at: "2026-11-23T20:56:44.410Z"
+generated_at: "2026-11-23T20:58:34.747Z"
 status: "active"
 ---
 

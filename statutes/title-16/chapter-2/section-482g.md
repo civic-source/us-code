@@ -3,9 +3,9 @@ title: "Section 482g - Perfection of claims within forest"
 usc_title: 16
 usc_section: "482g"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 482g"
-generated_at: "2026-11-23T20:57:05.308Z"
+generated_at: "2026-11-23T20:58:54.933Z"
 status: "active"
 ---
 

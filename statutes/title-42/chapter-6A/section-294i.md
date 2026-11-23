@@ -3,9 +3,9 @@ title: "Section 294i - Program for education and training in pain care"
 usc_title: 42
 usc_section: "294i"
 chapter: 6
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 294i"
-generated_at: "2026-11-23T20:57:42.351Z"
+generated_at: "2026-11-23T20:59:30.024Z"
 status: "active"
 ---
 

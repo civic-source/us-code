@@ -3,9 +3,9 @@ title: "Section 1517a - Omitted"
 usc_title: 33
 usc_section: "1517a"
 chapter: 29
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 1517a"
-generated_at: "2026-11-23T20:57:25.666Z"
+generated_at: "2026-11-23T20:59:15.465Z"
 status: "omitted"
 ---
 

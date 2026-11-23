@@ -3,9 +3,9 @@ title: "Section 325 - Resident citizenship of State as qualification for entry"
 usc_title: 43
 usc_section: "325"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 325"
-generated_at: "2026-11-23T20:57:33.421Z"
+generated_at: "2026-11-23T20:59:21.718Z"
 status: "active"
 ---
 

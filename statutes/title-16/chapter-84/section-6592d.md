@@ -3,9 +3,9 @@ title: "Section 6592d - Joint Chiefs Landscape Restoration Partnership program"
 usc_title: 16
 usc_section: "6592d"
 chapter: 84
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 6592d"
-generated_at: "2026-11-23T20:57:05.732Z"
+generated_at: "2026-11-23T20:58:55.356Z"
 status: "active"
 ---
 

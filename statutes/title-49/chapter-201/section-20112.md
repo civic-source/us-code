@@ -3,9 +3,9 @@ title: "Section 20112 - Enforcement by the Attorney General"
 usc_title: 49
 usc_section: "20112"
 chapter: 201
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 20112"
-generated_at: "2026-11-23T20:57:52.058Z"
+generated_at: "2026-11-23T20:59:41.028Z"
 status: "active"
 ---
 

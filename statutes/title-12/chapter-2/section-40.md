@@ -3,9 +3,9 @@ title: "Section 40 - Virgin Islands; extension of National Bank Act"
 usc_title: 12
 usc_section: "40"
 chapter: 2
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "12 U.S.C. § 40"
-generated_at: "2026-11-23T20:56:53.996Z"
+generated_at: "2026-11-23T20:58:43.236Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4583 - Report"
 usc_title: 50
 usc_section: "4583"
 chapter: 55
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "50 U.S.C. § 4583"
-generated_at: "2026-11-23T20:57:49.711Z"
+generated_at: "2026-11-23T20:59:37.031Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
 - **(c)** Each report required by this section shall be submitted in unclassified form, but may include a classified annex.
 - **(d)** Not later than one year after December 18, 2025 , and annually thereafter for five years, the Secretary and the Secretary of Commerce, or their designee, shall each provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committees on Foreign Affairs and Financial Services of the House of Representatives testimony with respect to the national security threats relating to investments by United States persons in countries of concern and broader international capital flows.
 - **(e)**
-  - **(1)** After receiving a request that meets the requirements of paragraph (2) with respect to whether a technology should be included in the amendments as described in subsection (a)(2), the Secretary shall, in preparing the report pursuant to subsection (a)—
+  - **(1)** After receiving a request that meets the requirements of paragraph (2) with respect to whether a technology should be included in the amendments 4 4 So in original. Probably should be “assessments”. as described in subsection (a)(2), the Secretary shall, in preparing the report pursuant to subsection (a)—
     - **(A)** determine if that technology may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and
     - **(B)** include in the report pursuant to subsection (a) an explanation with respect to that determination that includes—
       - **(i)** a statement of whether or not the technology, as determined by the Secretary, may pose an acute threat to the national security of the United States if developed or acquired by a country of concern; and

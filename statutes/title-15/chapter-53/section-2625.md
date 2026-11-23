@@ -3,9 +3,9 @@ title: "Section 2625 - Administration"
 usc_title: 15
 usc_section: "2625"
 chapter: 53
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 2625"
-generated_at: "2026-11-23T20:56:56.493Z"
+generated_at: "2026-11-23T20:58:46.105Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
       - **(ii)** the costs of risk evaluations specified in subparagraph (D); and
     - **(G)** if a notice submitted under section 2604 of this title is not reviewed or such a notice is withdrawn, refund the fee or a portion of the fee if no substantial work was performed on the notice.
   - **(5)** Fees may not be assessed for a fiscal year under this section unless the amount of appropriations for the Chemical Risk Review and Reduction program project of the Environmental Protection Agency for the fiscal year (excluding the amount of any fees appropriated for the fiscal year) are equal to or greater than the amount of appropriations for that program project for fiscal year 2014.
-  - **(6)** The authority provided by this subsection shall terminate at the conclusion of the fiscal year that is 10 years after June 22, 2016 , unless otherwise reauthorized or modified by Congress.
+  - **(6)** The authority provided by this subsection shall terminate on December 11, 2026 , unless otherwise reauthorized or modified by Congress.
 - **(c)**
   - **(1)** Any action authorized or required to be taken by the Administrator under any provision of this chapter with respect to a chemical substance or mixture may be taken by the Administrator in accordance with that provision with respect to a category of chemical substances or mixtures. Whenever the Administrator takes action under a provision of this chapter with respect to a category of chemical substances or mixtures, any reference in this chapter to a chemical substance or mixture (insofar as it relates to such action) shall be deemed to be a reference to each chemical substance or mixture in such category.
   - **(2)** For purposes of paragraph (1):
@@ -149,4 +149,4 @@ Termination
 
 ## Source Credit
 
-*([Pub. L. 94–469, title I, § 26](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2046](https://www.govinfo.gov/link/statute/90/2046); [Pub. L. 98–80, § 2(c)(2)(A)](https://www.govinfo.gov/link/plaw/98/public/80), Aug. 23, 1983, [97 Stat. 485](https://www.govinfo.gov/link/statute/97/485); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 17, 19(q), June 22, 2016, [130 Stat. 499](https://www.govinfo.gov/link/statute/130/499), 510; [Pub. L. 117–286, § 4(a)(69)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313).)*
+*([Pub. L. 94–469, title I, § 26](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2046](https://www.govinfo.gov/link/statute/90/2046); [Pub. L. 98–80, § 2(c)(2)(A)](https://www.govinfo.gov/link/plaw/98/public/80), Aug. 23, 1983, [97 Stat. 485](https://www.govinfo.gov/link/statute/97/485); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 114–182, title I](https://www.govinfo.gov/link/plaw/114/public/182), §§ 17, 19(q), June 22, 2016, [130 Stat. 499](https://www.govinfo.gov/link/statute/130/499), 510; [Pub. L. 117–286, § 4(a)(69)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4313](https://www.govinfo.gov/link/statute/136/4313); [Pub. L. 119–103, div. B, § 2005](https://www.govinfo.gov/link/plaw/119/public/103), Sept. 2, 2026, [140 Stat. 1000](https://www.govinfo.gov/link/statute/140/1000).)*

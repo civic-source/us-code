@@ -3,9 +3,9 @@ title: "Section 1928e - North Atlantic Assembly; appropriations for expenses of 
 usc_title: 22
 usc_section: "1928e"
 chapter: 24
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 1928e"
-generated_at: "2026-11-23T20:57:11.693Z"
+generated_at: "2026-11-23T20:59:02.523Z"
 status: "active"
 ---
 

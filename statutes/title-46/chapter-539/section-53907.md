@@ -3,9 +3,9 @@ title: "Section 53907 - Reinsurance"
 usc_title: 46
 usc_section: "53907"
 chapter: 539
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "46 U.S.C. § 53907"
-generated_at: "2026-11-23T20:57:47.716Z"
+generated_at: "2026-11-23T20:59:38.014Z"
 status: "active"
 ---
 

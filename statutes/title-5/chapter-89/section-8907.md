@@ -3,9 +3,9 @@ title: "Section 8907 - Information to individuals eligible to enroll"
 usc_title: 5
 usc_section: "8907"
 chapter: 89
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 8907"
-generated_at: "2026-11-23T20:56:39.340Z"
+generated_at: "2026-11-23T20:58:29.149Z"
 status: "active"
 ---
 

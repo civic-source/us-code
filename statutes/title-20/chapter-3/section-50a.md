@@ -3,9 +3,9 @@ title: "Section 50a - Gellatly art collection; estimates of sums needed for pres
 usc_title: 20
 usc_section: "50a"
 chapter: 3
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "20 U.S.C. § 50a"
-generated_at: "2026-11-23T20:57:02.017Z"
+generated_at: "2026-11-23T20:58:51.890Z"
 status: "active"
 ---
 

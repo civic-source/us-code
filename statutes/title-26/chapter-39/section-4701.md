@@ -3,9 +3,9 @@ title: "Section 4701 - Tax on issuer of registration-required obligation not in 
 usc_title: 26
 usc_section: "4701"
 chapter: 39
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 4701"
-generated_at: "2026-11-23T20:57:20.349Z"
+generated_at: "2026-11-23T20:59:11.700Z"
 status: "active"
 ---
 

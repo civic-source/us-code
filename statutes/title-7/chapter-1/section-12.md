@@ -3,9 +3,9 @@ title: "Section 12 - Public disclosure"
 usc_title: 7
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 12"
-generated_at: "2026-11-23T20:56:44.062Z"
+generated_at: "2026-11-23T20:58:34.222Z"
 status: "active"
 ---
 

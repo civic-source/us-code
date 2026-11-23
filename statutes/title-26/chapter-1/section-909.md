@@ -3,9 +3,9 @@ title: "Section 909 - Suspension of taxes and credits until related income taken
 usc_title: 26
 usc_section: "909"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "26 U.S.C. § 909"
-generated_at: "2026-11-23T20:57:20.095Z"
+generated_at: "2026-11-23T20:59:11.525Z"
 status: "active"
 ---
 

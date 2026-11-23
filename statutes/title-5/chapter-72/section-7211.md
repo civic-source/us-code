@@ -3,9 +3,9 @@ title: "Section 7211 - Employees’ right to petition Congress"
 usc_title: 5
 usc_section: "7211"
 chapter: 72
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 7211"
-generated_at: "2026-11-23T20:56:39.198Z"
+generated_at: "2026-11-23T20:58:29.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1472 - Grave and imminent danger from oil pollution casualties t
 usc_title: 33
 usc_section: "1472"
 chapter: 28
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 1472"
-generated_at: "2026-11-23T20:57:25.662Z"
+generated_at: "2026-11-23T20:59:15.461Z"
 status: "active"
 ---
 

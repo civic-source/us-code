@@ -3,9 +3,9 @@ title: "Section 41901 - General authority"
 usc_title: 49
 usc_section: "41901"
 chapter: 419
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 41901"
-generated_at: "2026-11-23T20:57:52.236Z"
+generated_at: "2026-11-23T20:59:41.255Z"
 status: "active"
 ---
 

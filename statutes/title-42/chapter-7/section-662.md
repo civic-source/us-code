@@ -3,9 +3,9 @@ title: "Section 662 - Repealed. Pub. L. 104–193, title III, § 362(b)(1) , Aug
 usc_title: 42
 usc_section: "662"
 chapter: 7
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 662"
-generated_at: "2026-11-23T20:57:42.642Z"
+generated_at: "2026-11-23T20:59:30.346Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 33110 - Verifications involving junk and salvage motor vehicles"
 usc_title: 49
 usc_section: "33110"
 chapter: 331
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "49 U.S.C. § 33110"
-generated_at: "2026-11-23T20:57:52.185Z"
+generated_at: "2026-11-23T20:59:41.183Z"
 status: "active"
 ---
 

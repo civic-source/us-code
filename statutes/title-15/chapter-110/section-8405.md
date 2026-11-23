@@ -3,9 +3,9 @@ title: "Section 8405 - Enforcement by State attorneys general"
 usc_title: 15
 usc_section: "8405"
 chapter: 110
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 8405"
-generated_at: "2026-11-23T20:56:56.675Z"
+generated_at: "2026-11-23T20:58:46.229Z"
 status: "active"
 ---
 

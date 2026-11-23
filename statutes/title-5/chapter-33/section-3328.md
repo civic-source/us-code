@@ -3,9 +3,9 @@ title: "Section 3328 - Selective Service registration"
 usc_title: 5
 usc_section: "3328"
 chapter: 33
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "5 U.S.C. § 3328"
-generated_at: "2026-11-23T20:56:39.017Z"
+generated_at: "2026-11-23T20:58:28.935Z"
 status: "active"
 ---
 

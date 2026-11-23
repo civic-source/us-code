@@ -3,9 +3,9 @@ title: "Section 2315b - Transparency and accountability in cost sharing for wate
 usc_title: 33
 usc_section: "2315b"
 chapter: 36
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "33 U.S.C. § 2315b"
-generated_at: "2026-11-23T20:57:25.702Z"
+generated_at: "2026-11-23T20:59:15.503Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 444 - American Red Cross vessels"
 usc_title: 22
 usc_section: "444"
 chapter: 9
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "22 U.S.C. § 444"
-generated_at: "2026-11-23T20:57:11.631Z"
+generated_at: "2026-11-23T20:59:02.461Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Transferred"
 usc_title: 42
 usc_section: "41"
 chapter: 72
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-11-23T20:57:43.509Z"
+generated_at: "2026-11-23T20:59:31.461Z"
 status: "transferred"
 ---
 

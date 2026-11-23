@@ -3,9 +3,9 @@ title: "Section 11 - Los Angeles area water reclamation and reuse project"
 usc_title: 43
 usc_section: "11"
 chapter: 12
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "43 U.S.C. § 11"
-generated_at: "2026-11-23T20:57:33.430Z"
+generated_at: "2026-11-23T20:59:21.726Z"
 status: "active"
 ---
 

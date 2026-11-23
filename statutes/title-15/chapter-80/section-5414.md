@@ -3,9 +3,9 @@ title: "Section 5414 - Repealed. Pub. L. 106–34, § 10 , June 8, 1999 , 113 St
 usc_title: 15
 usc_section: "5414"
 chapter: 80
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "15 U.S.C. § 5414"
-generated_at: "2026-11-23T20:56:56.590Z"
+generated_at: "2026-11-23T20:58:46.172Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2991g - Records and audits"
 usc_title: 42
 usc_section: "2991g"
 chapter: 34
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "42 U.S.C. § 2991g"
-generated_at: "2026-11-23T20:57:43.300Z"
+generated_at: "2026-11-23T20:59:31.193Z"
 status: "active"
 ---
 

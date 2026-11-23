@@ -3,9 +3,9 @@ title: "Section 410zz - Findings and purpose"
 usc_title: 16
 usc_section: "410zz"
 chapter: 1
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "16 U.S.C. § 410zz"
-generated_at: "2026-11-23T20:57:05.108Z"
+generated_at: "2026-11-23T20:58:54.767Z"
 status: "active"
 ---
 

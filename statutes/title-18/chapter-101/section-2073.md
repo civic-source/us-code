@@ -3,9 +3,9 @@ title: "Section 2073 - False entries and reports of moneys or securities"
 usc_title: 18
 usc_section: "2073"
 chapter: 101
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "18 U.S.C. § 2073"
-generated_at: "2026-11-23T20:56:58.937Z"
+generated_at: "2026-11-23T20:58:48.904Z"
 status: "active"
 ---
 

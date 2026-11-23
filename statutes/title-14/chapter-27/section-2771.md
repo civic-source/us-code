@@ -3,9 +3,9 @@ title: "Section 2771 - Attendance at professional meetings"
 usc_title: 14
 usc_section: "2771"
 chapter: 27
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "14 U.S.C. § 2771"
-generated_at: "2026-11-23T20:56:51.656Z"
+generated_at: "2026-11-23T20:58:41.345Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1637 - Purpose"
 usc_title: 7
 usc_section: "1637"
 chapter: 38
-current_through: "PL 119-102"
+current_through: "PL 119-103"
 classification: "7 U.S.C. § 1637"
-generated_at: "2026-11-23T20:56:44.273Z"
+generated_at: "2026-11-23T20:58:34.549Z"
 status: "active"
 ---
 
