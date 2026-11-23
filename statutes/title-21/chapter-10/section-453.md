@@ -3,9 +3,9 @@ title: "Section 453 - Definitions"
 usc_title: 21
 usc_section: "453"
 chapter: 10
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "21 U.S.C. § 453"
-generated_at: "2026-11-23T21:10:55.935Z"
+generated_at: "2026-11-23T21:15:07.161Z"
 status: "active"
 ---
 

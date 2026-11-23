@@ -3,9 +3,9 @@ title: "Section 1616l - Community health aide program"
 usc_title: 25
 usc_section: "1616l"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 1616l"
-generated_at: "2026-11-23T21:10:53.880Z"
+generated_at: "2026-11-23T21:15:00.597Z"
 status: "active"
 ---
 

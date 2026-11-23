@@ -3,9 +3,9 @@ title: "Section 303 - Vice Commandant; appointment"
 usc_title: 14
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "14 U.S.C. § 303"
-generated_at: "2026-11-23T21:10:36.374Z"
+generated_at: "2026-11-23T21:14:28.101Z"
 status: "active"
 ---
 

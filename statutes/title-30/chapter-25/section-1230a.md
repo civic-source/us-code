@@ -3,9 +3,9 @@ title: "Section 1230a - Strategic Resources Generic Mineral Technology Center"
 usc_title: 30
 usc_section: "1230a"
 chapter: 25
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "30 U.S.C. § 1230a"
-generated_at: "2026-11-23T21:11:04.326Z"
+generated_at: "2026-11-23T21:15:09.340Z"
 status: "active"
 ---
 

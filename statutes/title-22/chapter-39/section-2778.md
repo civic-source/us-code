@@ -3,9 +3,9 @@ title: "Section 2778 - Control of arms exports and imports"
 usc_title: 22
 usc_section: "2778"
 chapter: 39
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2778"
-generated_at: "2026-11-23T21:11:01.218Z"
+generated_at: "2026-11-23T21:15:05.059Z"
 status: "active"
 ---
 

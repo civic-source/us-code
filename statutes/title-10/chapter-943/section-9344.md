@@ -3,9 +3,9 @@ title: "Section 9344 - Higher grade after 30 years of service: warrant officers 
 usc_title: 10
 usc_section: "9344"
 chapter: 943
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9344"
-generated_at: "2026-11-23T21:10:34.147Z"
+generated_at: "2026-11-23T21:14:25.492Z"
 status: "active"
 ---
 

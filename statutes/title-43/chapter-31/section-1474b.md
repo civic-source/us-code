@@ -3,9 +3,9 @@ title: "Section 1474b - Natural Resource Damage Assessment and Restoration Fund;
 usc_title: 43
 usc_section: "1474b"
 chapter: 31
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 1474b"
-generated_at: "2026-11-23T21:11:41.323Z"
+generated_at: "2026-11-23T21:15:43.144Z"
 status: "active"
 ---
 

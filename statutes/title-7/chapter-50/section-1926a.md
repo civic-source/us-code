@@ -3,9 +3,9 @@ title: "Section 1926a - Emergency and imminent community water assistance grant 
 usc_title: 7
 usc_section: "1926a"
 chapter: 50
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1926a"
-generated_at: "2026-11-23T21:10:29.050Z"
+generated_at: "2026-11-23T21:14:16.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2916 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2916"
 chapter: 30
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "29 U.S.C. § 2916"
-generated_at: "2026-11-23T21:11:08.122Z"
+generated_at: "2026-11-23T21:15:12.860Z"
 status: "repealed"
 ---
 

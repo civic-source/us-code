@@ -3,9 +3,9 @@ title: "Section 5605 - Independence of authorities"
 usc_title: 7
 usc_section: "5605"
 chapter: 87
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 5605"
-generated_at: "2026-11-23T21:10:29.243Z"
+generated_at: "2026-11-23T21:14:16.704Z"
 status: "active"
 ---
 

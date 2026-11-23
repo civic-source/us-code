@@ -3,9 +3,9 @@ title: "Section 31302 - Astronaut healthcare survey"
 usc_title: 51
 usc_section: "31302"
 chapter: 313
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "51 U.S.C. § 31302"
-generated_at: "2026-11-23T21:12:16.605Z"
+generated_at: "2026-11-23T21:16:14.420Z"
 status: "active"
 ---
 

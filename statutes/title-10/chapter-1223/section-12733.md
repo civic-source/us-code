@@ -3,9 +3,9 @@ title: "Section 12733 - Computation of retired pay: computation of years of serv
 usc_title: 10
 usc_section: "12733"
 chapter: 1223
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 12733"
-generated_at: "2026-11-23T21:10:34.211Z"
+generated_at: "2026-11-23T21:14:25.616Z"
 status: "active"
 ---
 

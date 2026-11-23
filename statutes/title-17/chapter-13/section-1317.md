@@ -3,9 +3,9 @@ title: "Section 1317 - Regulations"
 usc_title: 17
 usc_section: "1317"
 chapter: 13
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "17 U.S.C. § 1317"
-generated_at: "2026-11-23T21:10:42.089Z"
+generated_at: "2026-11-23T21:14:41.790Z"
 status: "active"
 ---
 

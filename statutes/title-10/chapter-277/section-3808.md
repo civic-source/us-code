@@ -3,9 +3,9 @@ title: "Section 3808 - Certain Navy contracts"
 usc_title: 10
 usc_section: "3808"
 chapter: 277
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 3808"
-generated_at: "2026-11-23T21:10:33.921Z"
+generated_at: "2026-11-23T21:14:25.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3642 - Appointment and compensation; duties"
 usc_title: 22
 usc_section: "3642"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 3642"
-generated_at: "2026-11-23T21:11:01.277Z"
+generated_at: "2026-11-23T21:15:05.116Z"
 status: "active"
 ---
 

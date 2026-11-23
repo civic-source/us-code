@@ -3,9 +3,9 @@ title: "Section 8001 - Definitions"
 usc_title: 16
 usc_section: "8001"
 chapter: 99
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 8001"
-generated_at: "2026-11-23T21:10:49.271Z"
+generated_at: "2026-11-23T21:14:56.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1063c - Reporting and audit requirements"
 usc_title: 20
 usc_section: "1063c"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 1063c"
-generated_at: "2026-11-23T21:10:44.453Z"
+generated_at: "2026-11-23T21:14:49.687Z"
 status: "active"
 ---
 

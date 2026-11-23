@@ -3,9 +3,9 @@ title: "Section 4312 - Refund of assessments"
 usc_title: 7
 usc_section: "4312"
 chapter: 74
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 4312"
-generated_at: "2026-11-23T21:10:29.225Z"
+generated_at: "2026-11-23T21:14:16.669Z"
 status: "active"
 ---
 

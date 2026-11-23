@@ -3,9 +3,9 @@ title: "Section 7419 - Primary nonferrous smelter orders"
 usc_title: 42
 usc_section: "7419"
 chapter: 85
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 7419"
-generated_at: "2026-11-23T21:12:01.199Z"
+generated_at: "2026-11-23T21:16:02.020Z"
 status: "active"
 ---
 

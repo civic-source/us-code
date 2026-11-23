@@ -3,9 +3,9 @@ title: "Section 26a - Repealed. Pub. L. 116–94, div. N, title I, § 604(c) , D
 usc_title: 42
 usc_section: "26a"
 chapter: 6
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 26a"
-generated_at: "2026-11-23T21:11:58.625Z"
+generated_at: "2026-11-23T21:15:59.895Z"
 status: "repealed"
 ---
 

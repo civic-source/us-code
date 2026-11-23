@@ -3,9 +3,9 @@ title: "Section 3145 - Supplementary grants"
 usc_title: 42
 usc_section: "3145"
 chapter: 38
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3145"
-generated_at: "2026-11-23T21:12:00.594Z"
+generated_at: "2026-11-23T21:16:01.413Z"
 status: "active"
 ---
 

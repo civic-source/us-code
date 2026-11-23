@@ -3,9 +3,9 @@ title: "Section 1835 - Advisory council"
 usc_title: 38
 usc_section: "1835"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 1835"
-generated_at: "2026-11-23T21:11:36.137Z"
+generated_at: "2026-11-23T21:15:37.755Z"
 status: "active"
 ---
 

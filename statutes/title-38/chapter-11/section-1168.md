@@ -3,9 +3,9 @@ title: "Section 1168 - Medical nexus examinations for toxic exposure risk activi
 usc_title: 38
 usc_section: "1168"
 chapter: 11
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 1168"
-generated_at: "2026-11-23T21:11:36.030Z"
+generated_at: "2026-11-23T21:15:37.646Z"
 status: "active"
 ---
 

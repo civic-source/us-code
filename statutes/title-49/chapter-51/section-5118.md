@@ -3,9 +3,9 @@ title: "Section 5118 - Hazardous material technical assessment, research and dev
 usc_title: 49
 usc_section: "5118"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 5118"
-generated_at: "2026-11-23T21:12:13.096Z"
+generated_at: "2026-11-23T21:16:12.025Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 417 - Prohibition of intimidation or reprisal"
 usc_title: 3
 usc_section: "417"
 chapter: 5
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "3 U.S.C. § 417"
-generated_at: "2026-11-23T21:10:21.600Z"
+generated_at: "2026-11-23T21:14:00.360Z"
 status: "active"
 ---
 

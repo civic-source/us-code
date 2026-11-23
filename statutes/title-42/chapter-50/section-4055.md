@@ -3,9 +3,9 @@ title: "Section 4055 - Reinsurance coverage"
 usc_title: 42
 usc_section: "4055"
 chapter: 50
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 4055"
-generated_at: "2026-11-23T21:12:00.683Z"
+generated_at: "2026-11-23T21:16:01.503Z"
 status: "active"
 ---
 

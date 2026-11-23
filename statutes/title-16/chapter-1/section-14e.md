@@ -3,9 +3,9 @@ title: "Section 14e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "14e"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 14e"
-generated_at: "2026-11-23T21:10:47.970Z"
+generated_at: "2026-11-23T21:14:54.555Z"
 status: "repealed"
 ---
 

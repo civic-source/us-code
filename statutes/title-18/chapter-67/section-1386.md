@@ -3,9 +3,9 @@ title: "Section 1386 - Keys and keyways used in security applications by the Dep
 usc_title: 18
 usc_section: "1386"
 chapter: 67
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 1386"
-generated_at: "2026-11-23T21:10:45.511Z"
+generated_at: "2026-11-23T21:14:43.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11121 - Criteria"
 usc_title: 49
 usc_section: "11121"
 chapter: 111
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 11121"
-generated_at: "2026-11-23T21:12:13.219Z"
+generated_at: "2026-11-23T21:16:12.108Z"
 status: "active"
 ---
 

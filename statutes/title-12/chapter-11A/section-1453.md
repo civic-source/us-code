@@ -3,9 +3,9 @@ title: "Section 1453 - Capitalization of Federal Home Loan Mortgage Corporation"
 usc_title: 12
 usc_section: "1453"
 chapter: 11
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "12 U.S.C. § 1453"
-generated_at: "2026-11-23T21:10:37.922Z"
+generated_at: "2026-11-23T21:14:32.684Z"
 status: "active"
 ---
 

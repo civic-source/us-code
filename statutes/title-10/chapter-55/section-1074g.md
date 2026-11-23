@@ -3,9 +3,9 @@ title: "Section 1074g - Pharmacy benefits program"
 usc_title: 10
 usc_section: "1074g"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1074g"
-generated_at: "2026-11-23T21:10:33.597Z"
+generated_at: "2026-11-23T21:14:24.388Z"
 status: "active"
 ---
 

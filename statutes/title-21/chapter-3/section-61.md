@@ -3,9 +3,9 @@ title: "Section 61 - Definitions"
 usc_title: 21
 usc_section: "61"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "21 U.S.C. § 61"
-generated_at: "2026-11-23T21:10:55.640Z"
+generated_at: "2026-11-23T21:15:06.863Z"
 status: "active"
 ---
 

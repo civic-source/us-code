@@ -3,9 +3,9 @@ title: "Section 463 - Expenses of litigation"
 usc_title: 28
 usc_section: "463"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 463"
-generated_at: "2026-11-23T21:11:05.720Z"
+generated_at: "2026-11-23T21:15:10.823Z"
 status: "active"
 ---
 

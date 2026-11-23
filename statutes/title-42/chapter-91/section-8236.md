@@ -3,9 +3,9 @@ title: "Section 8236 - Voluntary rating guidelines"
 usc_title: 42
 usc_section: "8236"
 chapter: 91
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 8236"
-generated_at: "2026-11-23T21:12:01.353Z"
+generated_at: "2026-11-23T21:16:02.169Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1436a - Restriction on use of assisted housing by non-resident a
 usc_title: 42
 usc_section: "1436a"
 chapter: 8
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1436a"
-generated_at: "2026-11-23T21:11:59.899Z"
+generated_at: "2026-11-23T21:16:00.959Z"
 status: "active"
 ---
 

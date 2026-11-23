@@ -3,9 +3,9 @@ title: "Section 2025 - Effect of employment on retirement, insurance, and other 
 usc_title: 22
 usc_section: "2025"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2025"
-generated_at: "2026-11-23T21:11:00.904Z"
+generated_at: "2026-11-23T21:15:04.716Z"
 status: "active"
 ---
 

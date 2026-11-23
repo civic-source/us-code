@@ -3,9 +3,9 @@ title: "Section 2001 - Accreditation for the basic education of Indian children 
 usc_title: 25
 usc_section: "2001"
 chapter: 22
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 2001"
-generated_at: "2026-11-23T21:10:53.954Z"
+generated_at: "2026-11-23T21:15:00.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5940 - Repealed. Pub. L. 115–334, title VII, § 7605(b) , Dec.
 usc_title: 7
 usc_section: "5940"
 chapter: 88
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 5940"
-generated_at: "2026-11-23T21:10:29.267Z"
+generated_at: "2026-11-23T21:14:16.736Z"
 status: "repealed"
 ---
 

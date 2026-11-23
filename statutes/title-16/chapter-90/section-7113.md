@@ -3,9 +3,9 @@ title: "Section 7113 - Transition payments to States"
 usc_title: 16
 usc_section: "7113"
 chapter: 90
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 7113"
-generated_at: "2026-11-23T21:10:49.253Z"
+generated_at: "2026-11-23T21:14:55.980Z"
 status: "active"
 ---
 

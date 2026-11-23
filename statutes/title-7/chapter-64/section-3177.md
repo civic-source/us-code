@@ -3,9 +3,9 @@ title: "Section 3177 - Repealed. Pub. L. 99–198, title XIV, § 1413 , Dec. 23,
 usc_title: 7
 usc_section: "3177"
 chapter: 64
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 3177"
-generated_at: "2026-11-23T21:10:29.199Z"
+generated_at: "2026-11-23T21:14:16.619Z"
 status: "repealed"
 ---
 

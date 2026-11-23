@@ -3,9 +3,9 @@ title: "Section 6824 - Within-State allocations"
 usc_title: 20
 usc_section: "6824"
 chapter: 70
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 6824"
-generated_at: "2026-11-23T21:10:44.760Z"
+generated_at: "2026-11-23T21:14:50.207Z"
 status: "active"
 ---
 

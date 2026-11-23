@@ -3,9 +3,9 @@ title: "Section 2355 - Retention and use of certain items and funds"
 usc_title: 22
 usc_section: "2355"
 chapter: 32
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2355"
-generated_at: "2026-11-23T21:11:01.030Z"
+generated_at: "2026-11-23T21:15:04.853Z"
 status: "active"
 ---
 

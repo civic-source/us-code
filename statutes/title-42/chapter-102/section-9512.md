@@ -3,9 +3,9 @@ title: "Section 9512 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9512"
 chapter: 102
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 9512"
-generated_at: "2026-11-23T21:12:01.425Z"
+generated_at: "2026-11-23T21:16:02.243Z"
 status: "repealed"
 ---
 

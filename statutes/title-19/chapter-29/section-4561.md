@@ -3,9 +3,9 @@ title: "Section 4561 - Temporary entry"
 usc_title: 19
 usc_section: "4561"
 chapter: 29
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 4561"
-generated_at: "2026-11-23T21:10:43.142Z"
+generated_at: "2026-11-23T21:14:46.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 687h - Jurisdiction and service of process"
 usc_title: 15
 usc_section: "687h"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 687h"
-generated_at: "2026-11-23T21:10:40.169Z"
+generated_at: "2026-11-23T21:14:38.771Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60306 - Education"
 usc_title: 51
 usc_section: "60306"
 chapter: 603
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "51 U.S.C. § 60306"
-generated_at: "2026-11-23T21:12:16.679Z"
+generated_at: "2026-11-23T21:16:14.468Z"
 status: "active"
 ---
 

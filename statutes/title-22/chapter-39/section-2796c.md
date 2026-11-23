@@ -3,9 +3,9 @@ title: "Section 2796c - Applicability of other statutory provisions"
 usc_title: 22
 usc_section: "2796c"
 chapter: 39
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2796c"
-generated_at: "2026-11-23T21:11:01.232Z"
+generated_at: "2026-11-23T21:15:05.073Z"
 status: "active"
 ---
 

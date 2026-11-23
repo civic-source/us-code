@@ -3,9 +3,9 @@ title: "Section 696a - Acquisition of title to properties for National Key Deer 
 usc_title: 16
 usc_section: "696a"
 chapter: 6
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 696a"
-generated_at: "2026-11-23T21:10:48.586Z"
+generated_at: "2026-11-23T21:14:55.237Z"
 status: "active"
 ---
 

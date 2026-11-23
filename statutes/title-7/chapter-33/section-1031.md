@@ -3,9 +3,9 @@ title: "Section 1031 - Conveyance of mineral rights with land"
 usc_title: 7
 usc_section: "1031"
 chapter: 33
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1031"
-generated_at: "2026-11-23T21:10:28.946Z"
+generated_at: "2026-11-23T21:14:16.165Z"
 status: "active"
 ---
 

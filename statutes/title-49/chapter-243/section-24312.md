@@ -3,9 +3,9 @@ title: "Section 24312 - Labor standards"
 usc_title: 49
 usc_section: "24312"
 chapter: 243
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 24312"
-generated_at: "2026-11-23T21:12:13.351Z"
+generated_at: "2026-11-23T21:16:12.205Z"
 status: "active"
 ---
 

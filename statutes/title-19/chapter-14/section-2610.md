@@ -3,9 +3,9 @@ title: "Section 2610 - Evidentiary requirements"
 usc_title: 19
 usc_section: "2610"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 2610"
-generated_at: "2026-11-23T21:10:43.068Z"
+generated_at: "2026-11-23T21:14:46.286Z"
 status: "active"
 ---
 

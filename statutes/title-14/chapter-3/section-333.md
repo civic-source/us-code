@@ -3,9 +3,9 @@ title: "Section 333 - Training courses on workings of Congress"
 usc_title: 14
 usc_section: "333"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "14 U.S.C. § 333"
-generated_at: "2026-11-23T21:10:36.379Z"
+generated_at: "2026-11-23T21:14:28.126Z"
 status: "active"
 ---
 

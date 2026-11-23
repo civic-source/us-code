@@ -3,9 +3,9 @@ title: "Section 10707 - Young Balkan Leaders Initiative"
 usc_title: 22
 usc_section: "10707"
 chapter: 114
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 10707"
-generated_at: "2026-11-23T21:11:01.777Z"
+generated_at: "2026-11-23T21:15:05.594Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 101 - Omitted"
 usc_title: 30
 usc_section: "101"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "30 U.S.C. § 101"
-generated_at: "2026-11-23T21:11:04.170Z"
+generated_at: "2026-11-23T21:15:09.238Z"
 status: "omitted"
 ---
 

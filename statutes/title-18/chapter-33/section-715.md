@@ -3,9 +3,9 @@ title: "Section 715 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(7) ,
 usc_title: 18
 usc_section: "715"
 chapter: 33
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 715"
-generated_at: "2026-11-23T21:10:45.465Z"
+generated_at: "2026-11-23T21:14:43.798Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3307 - Defenses, liability, and protection of trans­feree"
 usc_title: 28
 usc_section: "3307"
 chapter: 176
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 3307"
-generated_at: "2026-11-23T21:11:05.943Z"
+generated_at: "2026-11-23T21:15:11.025Z"
 status: "active"
 ---
 

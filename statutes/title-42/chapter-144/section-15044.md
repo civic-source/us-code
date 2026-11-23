@@ -3,9 +3,9 @@ title: "Section 15044 - Administration"
 usc_title: 42
 usc_section: "15044"
 chapter: 144
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 15044"
-generated_at: "2026-11-23T21:12:01.871Z"
+generated_at: "2026-11-23T21:16:02.720Z"
 status: "active"
 ---
 

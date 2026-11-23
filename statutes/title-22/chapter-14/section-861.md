@@ -3,9 +3,9 @@ title: "Section 861 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "861"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 861"
-generated_at: "2026-11-23T21:11:00.819Z"
+generated_at: "2026-11-23T21:15:04.637Z"
 status: "repealed"
 ---
 

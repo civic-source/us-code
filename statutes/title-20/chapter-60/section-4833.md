@@ -3,9 +3,9 @@ title: "Section 4833 - Repealed. Pub. L. 103–382, title III, § 365 , Oct. 20,
 usc_title: 20
 usc_section: "4833"
 chapter: 60
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 4833"
-generated_at: "2026-11-23T21:10:44.716Z"
+generated_at: "2026-11-23T21:14:50.123Z"
 status: "repealed"
 ---
 

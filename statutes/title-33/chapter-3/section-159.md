@@ -3,9 +3,9 @@ title: "Section 159 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "159"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 159"
-generated_at: "2026-11-23T21:11:28.531Z"
+generated_at: "2026-11-23T21:15:29.419Z"
 status: "repealed"
 ---
 

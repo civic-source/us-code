@@ -3,9 +3,9 @@ title: "Section 1432 - Special financial assistance by the corporation"
 usc_title: 29
 usc_section: "1432"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "29 U.S.C. § 1432"
-generated_at: "2026-11-23T21:11:08.086Z"
+generated_at: "2026-11-23T21:15:12.823Z"
 status: "active"
 ---
 

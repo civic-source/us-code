@@ -3,9 +3,9 @@ title: "Section 231 - Omitted"
 usc_title: 7
 usc_section: "231"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 231"
-generated_at: "2026-11-23T21:10:28.895Z"
+generated_at: "2026-11-23T21:14:16.069Z"
 status: "omitted"
 ---
 

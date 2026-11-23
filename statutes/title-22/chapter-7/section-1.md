@@ -3,9 +3,9 @@ title: "Section 1 - Governor and alternate Governor"
 usc_title: 22
 usc_section: "1"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-11-23T21:11:00.798Z"
+generated_at: "2026-11-23T21:15:04.619Z"
 status: "active"
 ---
 

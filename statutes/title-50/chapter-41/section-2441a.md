@@ -3,9 +3,9 @@ title: "Section 2441a - Authorized personnel levels of the Office of the Adminis
 usc_title: 50
 usc_section: "2441a"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 2441a"
-generated_at: "2026-11-23T21:12:07.756Z"
+generated_at: "2026-11-23T21:16:09.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46503 - Interference with security screening personnel"
 usc_title: 49
 usc_section: "46503"
 chapter: 465
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 46503"
-generated_at: "2026-11-23T21:12:13.840Z"
+generated_at: "2026-11-23T21:16:12.540Z"
 status: "active"
 ---
 

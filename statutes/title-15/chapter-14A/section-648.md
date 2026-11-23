@@ -3,9 +3,9 @@ title: "Section 648 - Small business development center program authorization"
 usc_title: 15
 usc_section: "648"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 648"
-generated_at: "2026-11-23T21:10:40.145Z"
+generated_at: "2026-11-23T21:14:38.707Z"
 status: "active"
 ---
 

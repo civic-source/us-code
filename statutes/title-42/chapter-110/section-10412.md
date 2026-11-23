@@ -3,9 +3,9 @@ title: "Section 10412 - Specialized services for abused parents and their childr
 usc_title: 42
 usc_section: "10412"
 chapter: 110
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 10412"
-generated_at: "2026-11-23T21:12:01.574Z"
+generated_at: "2026-11-23T21:16:02.410Z"
 status: "active"
 ---
 

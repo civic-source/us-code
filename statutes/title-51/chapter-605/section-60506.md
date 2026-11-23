@@ -3,9 +3,9 @@ title: "Section 60506 - Sharing of climate related data"
 usc_title: 51
 usc_section: "60506"
 chapter: 605
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "51 U.S.C. § 60506"
-generated_at: "2026-11-23T21:12:16.681Z"
+generated_at: "2026-11-23T21:16:14.470Z"
 status: "active"
 ---
 

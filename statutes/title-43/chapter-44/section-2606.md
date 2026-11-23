@@ -3,9 +3,9 @@ title: "Section 2606 - Oregon and California Railroad revested lands and Coos Ba
 usc_title: 43
 usc_section: "2606"
 chapter: 44
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 2606"
-generated_at: "2026-11-23T21:11:41.464Z"
+generated_at: "2026-11-23T21:15:43.274Z"
 status: "active"
 ---
 

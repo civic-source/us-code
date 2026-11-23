@@ -3,9 +3,9 @@ title: "Section 390vv - Excess crop restrictions"
 usc_title: 43
 usc_section: "390vv"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 390vv"
-generated_at: "2026-11-23T21:11:41.184Z"
+generated_at: "2026-11-23T21:15:43.001Z"
 status: "active"
 ---
 

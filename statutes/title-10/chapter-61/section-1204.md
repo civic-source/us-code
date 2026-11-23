@@ -3,9 +3,9 @@ title: "Section 1204 - Members on active duty for 30 days or less or on inactive
 usc_title: 10
 usc_section: "1204"
 chapter: 61
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1204"
-generated_at: "2026-11-23T21:10:33.636Z"
+generated_at: "2026-11-23T21:14:24.480Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9b - Adult health quality measures"
 usc_title: 42
 usc_section: "9b"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 9b"
-generated_at: "2026-11-23T21:11:59.160Z"
+generated_at: "2026-11-23T21:16:00.325Z"
 status: "active"
 ---
 

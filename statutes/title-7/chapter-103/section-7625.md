@@ -3,9 +3,9 @@ title: "Section 7625 - National Food Safety Training, Education, Extension, Outr
 usc_title: 7
 usc_section: "7625"
 chapter: 103
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7625"
-generated_at: "2026-11-23T21:10:29.335Z"
+generated_at: "2026-11-23T21:14:16.868Z"
 status: "active"
 ---
 

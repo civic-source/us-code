@@ -3,9 +3,9 @@ title: "Section 142 - Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407"
 usc_title: 33
 usc_section: "142"
 chapter: 2
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 142"
-generated_at: "2026-11-23T21:11:28.523Z"
+generated_at: "2026-11-23T21:15:29.418Z"
 status: "repealed"
 ---
 

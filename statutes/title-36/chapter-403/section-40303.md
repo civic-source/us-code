@@ -3,9 +3,9 @@ title: "Section 40303 - Membership and governing body"
 usc_title: 36
 usc_section: "40303"
 chapter: 403
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 40303"
-generated_at: "2026-11-23T21:11:33.460Z"
+generated_at: "2026-11-23T21:15:33.646Z"
 status: "active"
 ---
 

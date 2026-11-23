@@ -3,9 +3,9 @@ title: "Section 9803 - Responsibilities of the Assistant Secretary of Commerce f
 usc_title: 15
 usc_section: "9803"
 chapter: 122
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 9803"
-generated_at: "2026-11-23T21:10:40.530Z"
+generated_at: "2026-11-23T21:14:39.623Z"
 status: "active"
 ---
 
@@ -31,17 +31,19 @@ status: "active"
     - **(C)** the public through a publicly accessible website.
 - **(b)** The Assistant Secretary, to the extent feasible, shall—
   - **(1)** evaluate, on an ongoing basis, domestic policy options for supporting competitiveness with respect to the strengths, weaknesses, and growth of the domestic travel industry;
-  - **(2)** develop recommendations and goals to support and enhance domestic tourism, separated by business and leisure; and
-  - **(3)** engage public and private stakeholders to support domestic tourism.
+  - **(2)** develop recommendations and goals to support and enhance domestic tourism, separated by business and leisure;
+  - **(3)** engage public and private stakeholders to support domestic tourism; and
+  - **(4)** identify locations and events in the United States that are important to music tourism and facilitate and promote domestic travel and tourism to those locations and events.
 - **(c)** The Assistant Secretary shall—
   - **(1)** consult with the Secretary of Labor to develop strategies and best practices for improving the timeliness and reliability of travel and tourism workforce data;
   - **(2)** work with the Secretary of Labor and the Bureau of Economic Analysis to improve travel and tourism industry data;
   - **(3)** provide recommendations for policy enhancements and efficiencies; and
   - **(4)** provide policy recommendations regarding the gig economy as it relates to travel and tourism.
-- **(d)** The Assistant Secretary, in coordination with relevant Federal agencies, shall strive to increase and facilitate international business travel to the United States and ensure competitiveness by—
+- **(d)** The Assistant Secretary, in coordination with relevant Federal agencies, shall strive to increase and facilitate international business and leisure travel to the United States and ensure competitiveness by—
   - **(1)** facilitating large meetings, incentives, conferences, and exhibitions in the United States;
-  - **(2)** emphasizing rural and other destinations in the United States that are rich in cultural heritage or ecological tourism, among other uniquely American destinations, as locations for hosting international meetings, incentives, conferences, and exhibitions; and
-  - **(3)** facilitating sports and recreation events and activities in the United States.
+  - **(2)** emphasizing rural and other destinations in the United States that are rich in cultural heritage or ecological tourism, among other uniquely American destinations, as locations for hosting international meetings, incentives, conferences, and exhibitions;
+  - **(3)** facilitating and promoting international travel and tourism to sports and recreation events and activities in the United States; and
+  - **(4)** identifying locations and events in the United States that are important to music tourism and facilitating and promoting international travel and tourism to those locations and events.
 - **(e)**
   - **(1)** Not later than 1 year after amounts are appropriated to the Department of Commerce to accomplish the purposes of this section, the Assistant Secretary, in consultation with the entities referred to in subsection (a)(3), shall develop recovery strategies for the travel and tourism industry in response to the economic impacts of the COVID–19 pandemic and in anticipation of other unpredictable catastrophic events that would significantly affect the travel and tourism industry, such as hurricanes, floods, tsunamis, tornadoes, wildfires, terrorist attacks, and pandemics.
   - **(2)** In developing the recovery strategies under paragraph (1), the Assistant Secretary shall conduct cost-benefit analyses that take into account the health and economic effects of public health mitigation measures on the travel and tourism industry.
@@ -59,7 +61,8 @@ status: "active"
       - **(i)** the Travel and Tourism Advisory Board; and
       - **(ii)** the public through a publicly accessible website; and
     - **(B)** shall include questions in the Survey of International Air Travelers regarding wait-times, visits to public lands, and State data, to the extent applicable.
+  - **(4)** Not later than 1 year after October 9, 2026 , and every 2 years thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report of activities, findings, achievements, and vulnerabilities relating to the goals described in subsections (a) through (d).
 
 ## Source Credit
 
-*([Pub. L. 117–328, div. BB, title VI, § 605](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5567](https://www.govinfo.gov/link/statute/136/5567).)*
+*([Pub. L. 117–328, div. BB, title VI, § 605](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5567](https://www.govinfo.gov/link/statute/136/5567); [Pub. L. 119–121, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/121) –(c), Oct. 9, 2026, [140 Stat. 1067](https://www.govinfo.gov/link/statute/140/1067), 1068.)*

@@ -3,9 +3,9 @@ title: "Section 5906 - Perishable agricultural commodities"
 usc_title: 49
 usc_section: "5906"
 chapter: 59
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 5906"
-generated_at: "2026-11-23T21:12:13.196Z"
+generated_at: "2026-11-23T21:16:12.088Z"
 status: "active"
 ---
 

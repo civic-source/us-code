@@ -3,9 +3,9 @@ title: "Section 1438 - Repealed. Pub. L. 105–276, title V, § 582(a)(15) , Oct
 usc_title: 42
 usc_section: "1438"
 chapter: 8
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1438"
-generated_at: "2026-11-23T21:11:59.981Z"
+generated_at: "2026-11-23T21:16:01.004Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40502 - Purposes"
 usc_title: 36
 usc_section: "40502"
 chapter: 405
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 40502"
-generated_at: "2026-11-23T21:11:33.462Z"
+generated_at: "2026-11-23T21:15:33.647Z"
 status: "active"
 ---
 

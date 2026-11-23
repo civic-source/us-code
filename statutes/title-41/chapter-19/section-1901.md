@@ -3,9 +3,9 @@ title: "Section 1901 - Simplified acquisition procedures"
 usc_title: 41
 usc_section: "1901"
 chapter: 19
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "41 U.S.C. § 1901"
-generated_at: "2026-11-23T21:11:38.876Z"
+generated_at: "2026-11-23T21:15:41.452Z"
 status: "active"
 ---
 

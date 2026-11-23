@@ -3,9 +3,9 @@ title: "Section 7846 - Other general assurances"
 usc_title: 20
 usc_section: "7846"
 chapter: 70
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 7846"
-generated_at: "2026-11-23T21:10:44.800Z"
+generated_at: "2026-11-23T21:14:50.290Z"
 status: "active"
 ---
 

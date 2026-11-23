@@ -3,9 +3,9 @@ title: "Section 8171 - Report on initial United States declaration"
 usc_title: 22
 usc_section: "8171"
 chapter: 88
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 8171"
-generated_at: "2026-11-23T21:11:01.619Z"
+generated_at: "2026-11-23T21:15:05.444Z"
 status: "active"
 ---
 

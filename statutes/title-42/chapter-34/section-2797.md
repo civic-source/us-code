@@ -3,9 +3,9 @@ title: "Section 2797 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2797"
 chapter: 34
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 2797"
-generated_at: "2026-11-23T21:12:00.436Z"
+generated_at: "2026-11-23T21:16:01.312Z"
 status: "repealed"
 ---
 

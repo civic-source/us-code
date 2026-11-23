@@ -3,9 +3,9 @@ title: "Section 9324 - Forty years or more: Air Force officers and Space Force o
 usc_title: 10
 usc_section: "9324"
 chapter: 941
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9324"
-generated_at: "2026-11-23T21:10:34.145Z"
+generated_at: "2026-11-23T21:14:25.489Z"
 status: "active"
 ---
 

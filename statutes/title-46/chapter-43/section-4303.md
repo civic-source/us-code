@@ -3,9 +3,9 @@ title: "Section 4303 - Inspection and testing"
 usc_title: 46
 usc_section: "4303"
 chapter: 43
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 4303"
-generated_at: "2026-11-23T21:12:09.237Z"
+generated_at: "2026-11-23T21:16:07.683Z"
 status: "active"
 ---
 

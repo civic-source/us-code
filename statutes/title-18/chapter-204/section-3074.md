@@ -3,9 +3,9 @@ title: "Section 3074 - Exception of governmental officials"
 usc_title: 18
 usc_section: "3074"
 chapter: 204
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 3074"
-generated_at: "2026-11-23T21:10:45.590Z"
+generated_at: "2026-11-23T21:14:44.047Z"
 status: "active"
 ---
 

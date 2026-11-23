@@ -3,9 +3,9 @@ title: "Section 1603 - Omitted"
 usc_title: 42
 usc_section: "1603"
 chapter: 10
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1603"
-generated_at: "2026-11-23T21:12:00.057Z"
+generated_at: "2026-11-23T21:16:01.049Z"
 status: "omitted"
 ---
 

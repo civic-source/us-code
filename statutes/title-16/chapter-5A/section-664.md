@@ -3,9 +3,9 @@ title: "Section 664 - Administration; rules and regulations; availability of lan
 usc_title: 16
 usc_section: "664"
 chapter: 5
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 664"
-generated_at: "2026-11-23T21:10:48.545Z"
+generated_at: "2026-11-23T21:14:55.190Z"
 status: "active"
 ---
 

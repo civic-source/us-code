@@ -3,9 +3,9 @@ title: "Section 6126 - Flexible schedules; credit hours; accumulation and compen
 usc_title: 5
 usc_section: "6126"
 chapter: 61
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 6126"
-generated_at: "2026-11-23T21:10:24.136Z"
+generated_at: "2026-11-23T21:14:07.435Z"
 status: "active"
 ---
 

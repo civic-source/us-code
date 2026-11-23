@@ -3,9 +3,9 @@ title: "Section 1227 - Effect of confirmation"
 usc_title: 11
 usc_section: "1227"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "11 U.S.C. § 1227"
-generated_at: "2026-11-23T21:10:35.961Z"
+generated_at: "2026-11-23T21:14:28.961Z"
 status: "active"
 ---
 

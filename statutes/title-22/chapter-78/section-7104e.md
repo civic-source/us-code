@@ -3,9 +3,9 @@ title: "Section 7104e - Preventing future trafficking in the United States throu
 usc_title: 22
 usc_section: "7104e"
 chapter: 78
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 7104e"
-generated_at: "2026-11-23T21:11:01.546Z"
+generated_at: "2026-11-23T21:15:05.382Z"
 status: "active"
 ---
 

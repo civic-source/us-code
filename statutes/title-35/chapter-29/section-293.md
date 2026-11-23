@@ -3,9 +3,9 @@ title: "Section 293 - Nonresident patentee; service and notice"
 usc_title: 35
 usc_section: "293"
 chapter: 29
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "35 U.S.C. § 293"
-generated_at: "2026-11-23T21:11:23.069Z"
+generated_at: "2026-11-23T21:15:24.537Z"
 status: "active"
 ---
 

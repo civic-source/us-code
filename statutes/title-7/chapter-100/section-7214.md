@@ -3,9 +3,9 @@ title: "Section 7214 - Determination of contract payments under contracts"
 usc_title: 7
 usc_section: "7214"
 chapter: 100
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7214"
-generated_at: "2026-11-23T21:10:29.314Z"
+generated_at: "2026-11-23T21:14:16.817Z"
 status: "active"
 ---
 

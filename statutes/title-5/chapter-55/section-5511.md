@@ -3,9 +3,9 @@ title: "Section 5511 - Withholding pay; employees removed for cause"
 usc_title: 5
 usc_section: "5511"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 5511"
-generated_at: "2026-11-23T21:10:24.097Z"
+generated_at: "2026-11-23T21:14:07.286Z"
 status: "active"
 ---
 

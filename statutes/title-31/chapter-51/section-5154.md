@@ -3,9 +3,9 @@ title: "Section 5154 - State taxation"
 usc_title: 31
 usc_section: "5154"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "31 U.S.C. § 5154"
-generated_at: "2026-11-23T21:11:26.154Z"
+generated_at: "2026-11-23T21:15:25.821Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4804 - Membership"
 usc_title: 15
 usc_section: "4804"
 chapter: 74
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 4804"
-generated_at: "2026-11-23T21:10:40.395Z"
+generated_at: "2026-11-23T21:14:39.392Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9022 - Financial management"
 usc_title: 10
 usc_section: "9022"
 chapter: 903
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9022"
-generated_at: "2026-11-23T21:10:34.131Z"
+generated_at: "2026-11-23T21:14:25.459Z"
 status: "active"
 ---
 

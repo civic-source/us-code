@@ -3,9 +3,9 @@ title: "Section 1413a - Combat-related special compensation"
 usc_title: 10
 usc_section: "1413a"
 chapter: 71
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1413a"
-generated_at: "2026-11-23T21:10:33.653Z"
+generated_at: "2026-11-23T21:14:24.514Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12 - Seventh capital increase"
 usc_title: 22
 usc_section: "12"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 12"
-generated_at: "2026-11-23T21:11:00.785Z"
+generated_at: "2026-11-23T21:15:04.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6242 - Whistleblower protection program"
 usc_title: 10
 usc_section: "6242"
 chapter: 606
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 6242"
-generated_at: "2026-11-23T21:10:33.993Z"
+generated_at: "2026-11-23T21:14:25.168Z"
 status: "active"
 ---
 

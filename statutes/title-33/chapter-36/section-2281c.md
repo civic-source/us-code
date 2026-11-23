@@ -3,9 +3,9 @@ title: "Section 2281c - Continuing authority programs"
 usc_title: 33
 usc_section: "2281c"
 chapter: 36
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 2281c"
-generated_at: "2026-11-23T21:11:28.889Z"
+generated_at: "2026-11-23T21:15:29.795Z"
 status: "active"
 ---
 

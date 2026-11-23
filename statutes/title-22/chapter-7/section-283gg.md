@@ -3,9 +3,9 @@ title: "Section 283gg - Jurisdiction of United States courts"
 usc_title: 22
 usc_section: "283gg"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 283gg"
-generated_at: "2026-11-23T21:11:00.720Z"
+generated_at: "2026-11-23T21:15:04.557Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3231 - District courts"
 usc_title: 18
 usc_section: "3231"
 chapter: 211
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 3231"
-generated_at: "2026-11-23T21:10:45.605Z"
+generated_at: "2026-11-23T21:14:44.075Z"
 status: "active"
 ---
 

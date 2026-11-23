@@ -3,9 +3,9 @@ title: "Section 608b - Marketing agreements; exemption from anti-trust laws; ins
 usc_title: 7
 usc_section: "608b"
 chapter: 26
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 608b"
-generated_at: "2026-11-23T21:10:28.919Z"
+generated_at: "2026-11-23T21:14:16.118Z"
 status: "active"
 ---
 

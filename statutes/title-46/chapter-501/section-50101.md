@@ -3,9 +3,9 @@ title: "Section 50101 - Objectives and policy"
 usc_title: 46
 usc_section: "50101"
 chapter: 501
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 50101"
-generated_at: "2026-11-23T21:12:09.540Z"
+generated_at: "2026-11-23T21:16:07.856Z"
 status: "active"
 ---
 

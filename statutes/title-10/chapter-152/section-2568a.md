@@ -3,9 +3,9 @@ title: "Section 2568a - Damaged personal protective equipment: award to members 
 usc_title: 10
 usc_section: "2568a"
 chapter: 152
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2568a"
-generated_at: "2026-11-23T21:10:33.800Z"
+generated_at: "2026-11-23T21:14:24.795Z"
 status: "active"
 ---
 

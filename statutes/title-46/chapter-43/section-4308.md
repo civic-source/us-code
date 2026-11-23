@@ -3,9 +3,9 @@ title: "Section 4308 - Termination of unsafe operation"
 usc_title: 46
 usc_section: "4308"
 chapter: 43
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 4308"
-generated_at: "2026-11-23T21:12:09.238Z"
+generated_at: "2026-11-23T21:16:07.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3738 - Assistance from United States private sector to prevent a
 usc_title: 19
 usc_section: "3738"
 chapter: 23
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 3738"
-generated_at: "2026-11-23T21:10:43.098Z"
+generated_at: "2026-11-23T21:14:46.358Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9655 - Legislative veto of rule or regulation"
 usc_title: 42
 usc_section: "9655"
 chapter: 103
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 9655"
-generated_at: "2026-11-23T21:12:01.460Z"
+generated_at: "2026-11-23T21:16:02.283Z"
 status: "active"
 ---
 

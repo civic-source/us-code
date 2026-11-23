@@ -3,9 +3,9 @@ title: "Section 409a - Sale of restricted lands; reinvestment in other restricte
 usc_title: 25
 usc_section: "409a"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 409a"
-generated_at: "2026-11-23T21:10:53.796Z"
+generated_at: "2026-11-23T21:15:00.520Z"
 status: "active"
 ---
 

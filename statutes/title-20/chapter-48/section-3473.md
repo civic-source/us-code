@@ -3,9 +3,9 @@ title: "Section 3473 - Reorganization of Department"
 usc_title: 20
 usc_section: "3473"
 chapter: 48
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 3473"
-generated_at: "2026-11-23T21:10:44.694Z"
+generated_at: "2026-11-23T21:14:50.083Z"
 status: "active"
 ---
 

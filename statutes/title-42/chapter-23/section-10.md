@@ -3,9 +3,9 @@ title: "Section 10 - Uranium transfers and sales"
 usc_title: 42
 usc_section: "10"
 chapter: 23
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-11-23T21:12:00.394Z"
+generated_at: "2026-11-23T21:16:01.285Z"
 status: "active"
 ---
 

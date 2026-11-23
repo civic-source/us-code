@@ -3,9 +3,9 @@ title: "Section 208 - Regulations governing Federal licensing"
 usc_title: 35
 usc_section: "208"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "35 U.S.C. § 208"
-generated_at: "2026-11-23T21:11:23.060Z"
+generated_at: "2026-11-23T21:15:24.528Z"
 status: "active"
 ---
 

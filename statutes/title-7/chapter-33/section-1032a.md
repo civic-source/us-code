@@ -3,9 +3,9 @@ title: "Section 1032a - Disbursing and certifying officers; exemption from liabi
 usc_title: 7
 usc_section: "1032a"
 chapter: 33
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1032a"
-generated_at: "2026-11-23T21:10:28.946Z"
+generated_at: "2026-11-23T21:14:16.165Z"
 status: "active"
 ---
 

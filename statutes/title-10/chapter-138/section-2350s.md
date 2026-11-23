@@ -3,9 +3,9 @@ title: "Section 2350s - Authority to contribute to innovation fund"
 usc_title: 10
 usc_section: "2350s"
 chapter: 138
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2350s"
-generated_at: "2026-11-23T21:10:33.782Z"
+generated_at: "2026-11-23T21:14:24.756Z"
 status: "active"
 ---
 

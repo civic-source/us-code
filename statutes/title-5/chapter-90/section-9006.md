@@ -3,9 +3,9 @@ title: "Section 9006 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "9006"
 chapter: 90
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 9006"
-generated_at: "2026-11-23T21:10:24.247Z"
+generated_at: "2026-11-23T21:14:07.713Z"
 status: "active"
 ---
 

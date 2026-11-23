@@ -3,9 +3,9 @@ title: "Section 1680c - Health services for ineligible persons"
 usc_title: 25
 usc_section: "1680c"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 1680c"
-generated_at: "2026-11-23T21:10:53.922Z"
+generated_at: "2026-11-23T21:15:00.640Z"
 status: "active"
 ---
 

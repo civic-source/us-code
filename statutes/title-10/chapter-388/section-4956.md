@@ -3,9 +3,9 @@ title: "Section 4956 - Distribution"
 usc_title: 10
 usc_section: "4956"
 chapter: 388
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 4956"
-generated_at: "2026-11-23T21:10:33.973Z"
+generated_at: "2026-11-23T21:14:25.129Z"
 status: "active"
 ---
 

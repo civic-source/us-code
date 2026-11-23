@@ -3,9 +3,9 @@ title: "Section 6811 - Short title"
 usc_title: 20
 usc_section: "6811"
 chapter: 70
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 6811"
-generated_at: "2026-11-23T21:10:44.760Z"
+generated_at: "2026-11-23T21:14:50.205Z"
 status: "active"
 ---
 

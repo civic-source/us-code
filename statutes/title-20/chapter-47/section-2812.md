@@ -3,9 +3,9 @@ title: "Section 2812 - Omitted"
 usc_title: 20
 usc_section: "2812"
 chapter: 47
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 2812"
-generated_at: "2026-11-23T21:10:44.687Z"
+generated_at: "2026-11-23T21:14:50.063Z"
 status: "omitted"
 ---
 

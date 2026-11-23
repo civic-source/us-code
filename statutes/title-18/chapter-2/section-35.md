@@ -3,9 +3,9 @@ title: "Section 35 - Imparting or conveying false information"
 usc_title: 18
 usc_section: "35"
 chapter: 2
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 35"
-generated_at: "2026-11-23T21:10:45.427Z"
+generated_at: "2026-11-23T21:14:43.731Z"
 status: "active"
 ---
 

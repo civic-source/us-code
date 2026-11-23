@@ -3,9 +3,9 @@ title: "Section 14515 - Discharge or retirement for age"
 usc_title: 10
 usc_section: "14515"
 chapter: 1407
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 14515"
-generated_at: "2026-11-23T21:10:34.224Z"
+generated_at: "2026-11-23T21:14:25.641Z"
 status: "active"
 ---
 

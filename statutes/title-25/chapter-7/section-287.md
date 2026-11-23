@@ -3,9 +3,9 @@ title: "Section 287 - Taking child to school in another State without written co
 usc_title: 25
 usc_section: "287"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 287"
-generated_at: "2026-11-23T21:10:53.765Z"
+generated_at: "2026-11-23T21:15:00.491Z"
 status: "active"
 ---
 

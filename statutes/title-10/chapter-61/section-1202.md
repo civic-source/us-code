@@ -3,9 +3,9 @@ title: "Section 1202 - Regulars and members on active duty for more than 30 days
 usc_title: 10
 usc_section: "1202"
 chapter: 61
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1202"
-generated_at: "2026-11-23T21:10:33.636Z"
+generated_at: "2026-11-23T21:14:24.478Z"
 status: "active"
 ---
 

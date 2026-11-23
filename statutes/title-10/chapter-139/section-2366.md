@@ -3,9 +3,9 @@ title: "Section 2366 - Renumbered § 4172]"
 usc_title: 10
 usc_section: "2366"
 chapter: 139
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2366"
-generated_at: "2026-11-23T21:10:33.783Z"
+generated_at: "2026-11-23T21:14:24.757Z"
 status: "renumbered"
 ---
 

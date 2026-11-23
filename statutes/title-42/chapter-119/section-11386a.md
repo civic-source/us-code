@@ -3,9 +3,9 @@ title: "Section 11386a - Selection criteria"
 usc_title: 42
 usc_section: "11386a"
 chapter: 119
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 11386a"
-generated_at: "2026-11-23T21:12:01.626Z"
+generated_at: "2026-11-23T21:16:02.461Z"
 status: "active"
 ---
 

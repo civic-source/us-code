@@ -3,9 +3,9 @@ title: "Section 1344b - Sale, lease, or transfer of cotton acreage allotments"
 usc_title: 7
 usc_section: "1344b"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1344b"
-generated_at: "2026-11-23T21:10:28.958Z"
+generated_at: "2026-11-23T21:14:16.192Z"
 status: "active"
 ---
 

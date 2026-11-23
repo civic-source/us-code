@@ -3,9 +3,9 @@ title: "Section 1067d - Repealed. Pub. L. 111–39, title III, § 302 , July 1, 
 usc_title: 20
 usc_section: "1067d"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 1067d"
-generated_at: "2026-11-23T21:10:44.457Z"
+generated_at: "2026-11-23T21:14:49.703Z"
 status: "repealed"
 ---
 

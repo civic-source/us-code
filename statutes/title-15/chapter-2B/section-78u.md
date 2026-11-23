@@ -3,9 +3,9 @@ title: "Section 78u - Investigations and actions"
 usc_title: 15
 usc_section: "78u"
 chapter: 2
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 78u"
-generated_at: "2026-11-23T21:10:40.028Z"
+generated_at: "2026-11-23T21:14:38.427Z"
 status: "active"
 ---
 

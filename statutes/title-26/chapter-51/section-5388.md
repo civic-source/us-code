@@ -3,9 +3,9 @@ title: "Section 5388 - Designation of wines"
 usc_title: 26
 usc_section: "5388"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 5388"
-generated_at: "2026-11-23T21:11:20.476Z"
+generated_at: "2026-11-23T21:15:22.218Z"
 status: "active"
 ---
 

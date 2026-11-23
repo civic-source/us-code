@@ -3,9 +3,9 @@ title: "Section 1722 - Sense of Congress"
 usc_title: 47
 usc_section: "1722"
 chapter: 16
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "47 U.S.C. § 1722"
-generated_at: "2026-11-23T21:12:05.866Z"
+generated_at: "2026-11-23T21:16:06.182Z"
 status: "active"
 ---
 

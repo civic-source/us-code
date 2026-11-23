@@ -3,9 +3,9 @@ title: "Section 5537 - Limitation on Missile Defense Agency production of satell
 usc_title: 10
 usc_section: "5537"
 chapter: 551
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 5537"
-generated_at: "2026-11-23T21:10:33.977Z"
+generated_at: "2026-11-23T21:14:25.137Z"
 status: "active"
 ---
 

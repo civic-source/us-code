@@ -3,9 +3,9 @@ title: "Section 2928g - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13
 usc_title: 42
 usc_section: "2928g"
 chapter: 34
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 2928g"
-generated_at: "2026-11-23T21:12:00.449Z"
+generated_at: "2026-11-23T21:16:01.314Z"
 status: "repealed"
 ---
 

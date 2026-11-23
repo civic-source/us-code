@@ -3,9 +3,9 @@ title: "Section 871 - Clerk, chief deputy clerk, assistant clerk, deputies, assi
 usc_title: 28
 usc_section: "871"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 871"
-generated_at: "2026-11-23T21:11:05.798Z"
+generated_at: "2026-11-23T21:15:10.889Z"
 status: "active"
 ---
 

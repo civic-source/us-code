@@ -3,9 +3,9 @@ title: "Section 7655 - Safe food handling education"
 usc_title: 7
 usc_section: "7655"
 chapter: 103
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7655"
-generated_at: "2026-11-23T21:10:29.340Z"
+generated_at: "2026-11-23T21:14:16.877Z"
 status: "active"
 ---
 

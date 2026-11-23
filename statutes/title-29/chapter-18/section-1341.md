@@ -3,9 +3,9 @@ title: "Section 1341 - Termination of single-employer plans"
 usc_title: 29
 usc_section: "1341"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "29 U.S.C. § 1341"
-generated_at: "2026-11-23T21:11:08.056Z"
+generated_at: "2026-11-23T21:15:12.793Z"
 status: "active"
 ---
 

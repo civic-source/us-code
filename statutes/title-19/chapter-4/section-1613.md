@@ -3,9 +3,9 @@ title: "Section 1613 - Disposition of proceeds of forfeited property"
 usc_title: 19
 usc_section: "1613"
 chapter: 4
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 1613"
-generated_at: "2026-11-23T21:10:42.980Z"
+generated_at: "2026-11-23T21:14:46.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2803a - Ocean and coastal resiliency"
 usc_title: 33
 usc_section: "2803a"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 2803a"
-generated_at: "2026-11-23T21:11:28.967Z"
+generated_at: "2026-11-23T21:15:29.870Z"
 status: "active"
 ---
 

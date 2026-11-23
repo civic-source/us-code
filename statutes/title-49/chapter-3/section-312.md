@@ -3,9 +3,9 @@ title: "Section 312 - Alternative timing system"
 usc_title: 49
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 312"
-generated_at: "2026-11-23T21:12:13.027Z"
+generated_at: "2026-11-23T21:16:11.983Z"
 status: "active"
 ---
 

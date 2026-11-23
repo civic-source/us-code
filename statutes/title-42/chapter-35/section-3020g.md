@@ -3,9 +3,9 @@ title: "Section 3020g - National Technical Assistance Center on Grandfamilies an
 usc_title: 42
 usc_section: "3020g"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3020g"
-generated_at: "2026-11-23T21:12:00.521Z"
+generated_at: "2026-11-23T21:16:01.356Z"
 status: "active"
 ---
 

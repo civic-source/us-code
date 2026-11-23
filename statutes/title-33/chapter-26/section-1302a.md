@@ -3,9 +3,9 @@ title: "Section 1302a - Clean water infrastructure resiliency and sustainability
 usc_title: 33
 usc_section: "1302a"
 chapter: 26
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 1302a"
-generated_at: "2026-11-23T21:11:28.742Z"
+generated_at: "2026-11-23T21:15:29.648Z"
 status: "active"
 ---
 

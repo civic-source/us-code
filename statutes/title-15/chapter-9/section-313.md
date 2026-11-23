@@ -3,9 +3,9 @@ title: "Section 313 - Duties of Secretary of Commerce"
 usc_title: 15
 usc_section: "313"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 313"
-generated_at: "2026-11-23T21:10:40.092Z"
+generated_at: "2026-11-23T21:14:38.576Z"
 status: "active"
 ---
 

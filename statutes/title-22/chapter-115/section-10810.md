@@ -3,9 +3,9 @@ title: "Section 10810 - Prohibition on provision of services to sanctioned finan
 usc_title: 22
 usc_section: "10810"
 chapter: 115
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 10810"
-generated_at: "2026-11-23T21:11:01.782Z"
+generated_at: "2026-11-23T21:15:05.599Z"
 status: "active"
 ---
 

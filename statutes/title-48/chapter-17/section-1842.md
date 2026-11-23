@@ -3,9 +3,9 @@ title: "Section 1842 - Covering into Commonwealth treasury of tax proceeds colle
 usc_title: 48
 usc_section: "1842"
 chapter: 17
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "48 U.S.C. § 1842"
-generated_at: "2026-11-23T21:12:04.595Z"
+generated_at: "2026-11-23T21:16:05.232Z"
 status: "active"
 ---
 

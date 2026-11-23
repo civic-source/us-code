@@ -3,9 +3,9 @@ title: "Section 17153 - Allocation of funds"
 usc_title: 42
 usc_section: "17153"
 chapter: 152
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 17153"
-generated_at: "2026-11-23T21:12:02.064Z"
+generated_at: "2026-11-23T21:16:02.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7106 - Agency board procedures for accelerated and small claims"
 usc_title: 41
 usc_section: "7106"
 chapter: 71
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "41 U.S.C. § 7106"
-generated_at: "2026-11-23T21:11:38.958Z"
+generated_at: "2026-11-23T21:15:41.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 797d - Third party contracting by FERC"
 usc_title: 16
 usc_section: "797d"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 797d"
-generated_at: "2026-11-23T21:10:48.643Z"
+generated_at: "2026-11-23T21:14:55.300Z"
 status: "active"
 ---
 

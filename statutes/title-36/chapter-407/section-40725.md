@@ -3,9 +3,9 @@ title: "Section 40725 - National Matches and small-arms firing school"
 usc_title: 36
 usc_section: "40725"
 chapter: 407
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 40725"
-generated_at: "2026-11-23T21:11:33.481Z"
+generated_at: "2026-11-23T21:15:33.654Z"
 status: "active"
 ---
 

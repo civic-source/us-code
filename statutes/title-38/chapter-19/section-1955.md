@@ -3,9 +3,9 @@ title: "Section 1955 - United States Government Life Insurance Fund"
 usc_title: 38
 usc_section: "1955"
 chapter: 19
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 1955"
-generated_at: "2026-11-23T21:11:36.150Z"
+generated_at: "2026-11-23T21:15:37.776Z"
 status: "active"
 ---
 

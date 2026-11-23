@@ -3,9 +3,9 @@ title: "Section 29 - Repealed. Pub. L. 111–152, title I, § 1102(f) , Mar. 30,
 usc_title: 42
 usc_section: "29"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 29"
-generated_at: "2026-11-23T21:11:59.448Z"
+generated_at: "2026-11-23T21:16:00.541Z"
 status: "repealed"
 ---
 

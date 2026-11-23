@@ -3,9 +3,9 @@ title: "Section 8518 - Computing resource efficiency improvement and annual repo
 usc_title: 15
 usc_section: "8518"
 chapter: 111
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 8518"
-generated_at: "2026-11-23T21:10:40.486Z"
+generated_at: "2026-11-23T21:14:39.522Z"
 status: "active"
 ---
 

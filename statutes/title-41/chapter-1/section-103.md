@@ -3,9 +3,9 @@ title: "Section 103 - Commercial product"
 usc_title: 41
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "41 U.S.C. § 103"
-generated_at: "2026-11-23T21:11:38.820Z"
+generated_at: "2026-11-23T21:15:41.389Z"
 status: "active"
 ---
 

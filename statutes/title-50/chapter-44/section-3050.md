@@ -3,9 +3,9 @@ title: "Section 3050 - Annual report on hiring and retention of minority employe
 usc_title: 50
 usc_section: "3050"
 chapter: 44
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 3050"
-generated_at: "2026-11-23T21:12:07.803Z"
+generated_at: "2026-11-23T21:16:09.708Z"
 status: "active"
 ---
 

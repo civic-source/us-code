@@ -3,9 +3,9 @@ title: "Section 20107 - Principal office"
 usc_title: 36
 usc_section: "20107"
 chapter: 201
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 20107"
-generated_at: "2026-11-23T21:11:33.395Z"
+generated_at: "2026-11-23T21:15:33.570Z"
 status: "active"
 ---
 

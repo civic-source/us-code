@@ -3,9 +3,9 @@ title: "Section 41 - Authorization of appropriations"
 usc_title: 20
 usc_section: "41"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 41"
-generated_at: "2026-11-23T21:10:44.479Z"
+generated_at: "2026-11-23T21:14:49.735Z"
 status: "active"
 ---
 

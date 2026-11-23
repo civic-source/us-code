@@ -3,9 +3,9 @@ title: "Section 4556 - Jurisdiction of courts; injunctions; venue; process; effe
 usc_title: 50
 usc_section: "4556"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 4556"
-generated_at: "2026-11-23T21:12:07.996Z"
+generated_at: "2026-11-23T21:16:09.897Z"
 status: "active"
 ---
 

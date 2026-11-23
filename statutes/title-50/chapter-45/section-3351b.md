@@ -3,9 +3,9 @@ title: "Section 3351b - Limitations on determinations regarding certain security
 usc_title: 50
 usc_section: "3351b"
 chapter: 45
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 3351b"
-generated_at: "2026-11-23T21:12:07.871Z"
+generated_at: "2026-11-23T21:16:09.779Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 833d - Rate schedules; preparation, approval, and uniformity"
 usc_title: 16
 usc_section: "833d"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 833d"
-generated_at: "2026-11-23T21:10:48.697Z"
+generated_at: "2026-11-23T21:14:55.357Z"
 status: "active"
 ---
 

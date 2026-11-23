@@ -3,9 +3,9 @@ title: "Section 391 - Reporting on cyber incidents with respect to networks and 
 usc_title: 10
 usc_section: "391"
 chapter: 19
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 391"
-generated_at: "2026-11-23T21:10:33.470Z"
+generated_at: "2026-11-23T21:14:24.103Z"
 status: "active"
 ---
 

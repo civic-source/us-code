@@ -3,9 +3,9 @@ title: "Section 177 - Patents for lands in New Mexico held under color of title"
 usc_title: 43
 usc_section: "177"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 177"
-generated_at: "2026-11-23T21:11:41.134Z"
+generated_at: "2026-11-23T21:15:42.954Z"
 status: "active"
 ---
 

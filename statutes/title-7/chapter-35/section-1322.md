@@ -3,9 +3,9 @@ title: "Section 1322 - Repealed. Aug. 28, 1954, ch. 1041 , title III, § 304, 68
 usc_title: 7
 usc_section: "1322"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1322"
-generated_at: "2026-11-23T21:10:28.952Z"
+generated_at: "2026-11-23T21:14:16.178Z"
 status: "repealed"
 ---
 

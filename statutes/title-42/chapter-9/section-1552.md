@@ -3,9 +3,9 @@ title: "Section 1552 - Powers of certain agencies designated to provide temporar
 usc_title: 42
 usc_section: "1552"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1552"
-generated_at: "2026-11-23T21:12:00.039Z"
+generated_at: "2026-11-23T21:16:01.035Z"
 status: "active"
 ---
 

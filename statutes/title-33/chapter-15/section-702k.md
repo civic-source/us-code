@@ -3,9 +3,9 @@ title: "Section 702k - Surveys below Cape Girardeau, Missouri; resurvey of levee
 usc_title: 33
 usc_section: "702k"
 chapter: 15
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 702k"
-generated_at: "2026-11-23T21:11:28.652Z"
+generated_at: "2026-11-23T21:15:29.540Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7423 - Prohibition on cooperation with the International Crimina
 usc_title: 22
 usc_section: "7423"
 chapter: 81
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 7423"
-generated_at: "2026-11-23T21:11:01.563Z"
+generated_at: "2026-11-23T21:15:05.398Z"
 status: "active"
 ---
 

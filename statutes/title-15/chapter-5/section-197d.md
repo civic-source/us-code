@@ -3,9 +3,9 @@ title: "Section 197d - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(54),
 usc_title: 15
 usc_section: "197d"
 chapter: 5
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 197d"
-generated_at: "2026-11-23T21:10:40.071Z"
+generated_at: "2026-11-23T21:14:38.535Z"
 status: "repealed"
 ---
 

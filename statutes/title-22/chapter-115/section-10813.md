@@ -3,9 +3,9 @@ title: "Section 10813 - Duties on countries that purchase Russian-origin crude o
 usc_title: 22
 usc_section: "10813"
 chapter: 115
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 10813"
-generated_at: "2026-11-23T21:11:01.783Z"
+generated_at: "2026-11-23T21:15:05.599Z"
 status: "active"
 ---
 

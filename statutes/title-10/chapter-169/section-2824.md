@@ -3,9 +3,9 @@ title: "Section 2824 - Authorization for acquisition of existing family housing 
 usc_title: 10
 usc_section: "2824"
 chapter: 169
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2824"
-generated_at: "2026-11-23T21:10:33.869Z"
+generated_at: "2026-11-23T21:14:24.909Z"
 status: "active"
 ---
 

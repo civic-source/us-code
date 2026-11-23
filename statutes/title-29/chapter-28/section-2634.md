@@ -3,9 +3,9 @@ title: "Section 2634 - Compensation"
 usc_title: 29
 usc_section: "2634"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "29 U.S.C. § 2634"
-generated_at: "2026-11-23T21:11:08.118Z"
+generated_at: "2026-11-23T21:15:12.856Z"
 status: "active"
 ---
 

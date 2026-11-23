@@ -3,9 +3,9 @@ title: "Section 2104 - Preparation of guidelines"
 usc_title: 43
 usc_section: "2104"
 chapter: 39
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 2104"
-generated_at: "2026-11-23T21:11:41.440Z"
+generated_at: "2026-11-23T21:15:43.252Z"
 status: "active"
 ---
 

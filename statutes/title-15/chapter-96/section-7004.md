@@ -3,9 +3,9 @@ title: "Section 7004 - Applicability to Federal and State governments"
 usc_title: 15
 usc_section: "7004"
 chapter: 96
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 7004"
-generated_at: "2026-11-23T21:10:40.444Z"
+generated_at: "2026-11-23T21:14:39.464Z"
 status: "active"
 ---
 

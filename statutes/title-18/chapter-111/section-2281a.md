@@ -3,9 +3,9 @@ title: "Section 2281a - Additional offenses against maritime fixed platforms"
 usc_title: 18
 usc_section: "2281a"
 chapter: 111
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 2281a"
-generated_at: "2026-11-23T21:10:45.555Z"
+generated_at: "2026-11-23T21:14:43.973Z"
 status: "active"
 ---
 

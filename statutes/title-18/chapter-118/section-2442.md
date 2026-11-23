@@ -3,9 +3,9 @@ title: "Section 2442 - Recruitment or use of child soldiers"
 usc_title: 18
 usc_section: "2442"
 chapter: 118
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 2442"
-generated_at: "2026-11-23T21:10:45.572Z"
+generated_at: "2026-11-23T21:14:44.002Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1783 - Family members serving on advisory committees"
 usc_title: 10
 usc_section: "1783"
 chapter: 88
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1783"
-generated_at: "2026-11-23T21:10:33.706Z"
+generated_at: "2026-11-23T21:14:24.633Z"
 status: "active"
 ---
 

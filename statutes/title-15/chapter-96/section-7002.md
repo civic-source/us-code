@@ -3,9 +3,9 @@ title: "Section 7002 - Exemption to preemption"
 usc_title: 15
 usc_section: "7002"
 chapter: 96
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 7002"
-generated_at: "2026-11-23T21:10:40.443Z"
+generated_at: "2026-11-23T21:14:39.463Z"
 status: "active"
 ---
 

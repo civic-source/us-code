@@ -3,9 +3,9 @@ title: "Section 2704 - Discontinued Job Corps centers; utilization for special y
 usc_title: 42
 usc_section: "2704"
 chapter: 34
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 2704"
-generated_at: "2026-11-23T21:12:00.432Z"
+generated_at: "2026-11-23T21:16:01.310Z"
 status: "active"
 ---
 

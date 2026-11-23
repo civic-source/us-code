@@ -3,9 +3,9 @@ title: "Section 274 - Disallowance of certain entertainment, etc., expenses"
 usc_title: 26
 usc_section: "274"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 274"
-generated_at: "2026-11-23T21:11:18.980Z"
+generated_at: "2026-11-23T21:15:21.310Z"
 status: "active"
 ---
 

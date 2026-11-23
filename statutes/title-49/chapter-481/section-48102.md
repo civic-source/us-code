@@ -3,9 +3,9 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-11-23T21:12:13.928Z"
+generated_at: "2026-11-23T21:16:12.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 201 - Sets of standard weights and measures for agricultural col
 usc_title: 15
 usc_section: "201"
 chapter: 6
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 201"
-generated_at: "2026-11-23T21:10:40.071Z"
+generated_at: "2026-11-23T21:14:38.536Z"
 status: "active"
 ---
 

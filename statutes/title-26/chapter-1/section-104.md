@@ -3,9 +3,9 @@ title: "Section 104 - Compensation for injuries or sickness"
 usc_title: 26
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 104"
-generated_at: "2026-11-23T21:11:18.769Z"
+generated_at: "2026-11-23T21:15:21.109Z"
 status: "active"
 ---
 

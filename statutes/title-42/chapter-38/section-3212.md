@@ -3,9 +3,9 @@ title: "Section 3212 - Maintenance of standards"
 usc_title: 42
 usc_section: "3212"
 chapter: 38
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3212"
-generated_at: "2026-11-23T21:12:00.606Z"
+generated_at: "2026-11-23T21:16:01.425Z"
 status: "active"
 ---
 

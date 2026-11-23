@@ -3,9 +3,9 @@ title: "Section 1139 - Assistance to passengers involved in rail passenger accid
 usc_title: 49
 usc_section: "1139"
 chapter: 11
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-11-23T21:12:13.063Z"
+generated_at: "2026-11-23T21:16:12.004Z"
 status: "active"
 ---
 

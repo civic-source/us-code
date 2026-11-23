@@ -3,9 +3,9 @@ title: "Section 1921 - Higher State or Federal standard applicable to protect ri
 usc_title: 25
 usc_section: "1921"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 1921"
-generated_at: "2026-11-23T21:10:53.952Z"
+generated_at: "2026-11-23T21:15:00.664Z"
 status: "active"
 ---
 

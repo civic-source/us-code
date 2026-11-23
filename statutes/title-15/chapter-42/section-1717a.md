@@ -3,9 +3,9 @@ title: "Section 1717a - Civil money penalties"
 usc_title: 15
 usc_section: "1717a"
 chapter: 42
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 1717a"
-generated_at: "2026-11-23T21:10:40.294Z"
+generated_at: "2026-11-23T21:14:39.140Z"
 status: "active"
 ---
 

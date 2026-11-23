@@ -3,9 +3,9 @@ title: "Section 5118 - Application generally"
 usc_title: 25
 usc_section: "5118"
 chapter: 45
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 5118"
-generated_at: "2026-11-23T21:10:54.108Z"
+generated_at: "2026-11-23T21:15:00.817Z"
 status: "active"
 ---
 

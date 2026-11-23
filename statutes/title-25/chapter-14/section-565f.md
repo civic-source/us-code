@@ -3,9 +3,9 @@ title: "Section 565f - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 S
 usc_title: 25
 usc_section: "565f"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 565f"
-generated_at: "2026-11-23T21:10:53.814Z"
+generated_at: "2026-11-23T21:15:00.534Z"
 status: "repealed"
 ---
 

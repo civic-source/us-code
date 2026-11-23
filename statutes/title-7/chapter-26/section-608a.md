@@ -3,9 +3,9 @@ title: "Section 608a - Enforcement of chapter"
 usc_title: 7
 usc_section: "608a"
 chapter: 26
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 608a"
-generated_at: "2026-11-23T21:10:28.919Z"
+generated_at: "2026-11-23T21:14:16.118Z"
 status: "active"
 ---
 

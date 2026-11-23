@@ -3,9 +3,9 @@ title: "Section 7918 - Consultation with Indian tribes and tribal organizations"
 usc_title: 20
 usc_section: "7918"
 chapter: 70
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 7918"
-generated_at: "2026-11-23T21:10:44.803Z"
+generated_at: "2026-11-23T21:14:50.300Z"
 status: "active"
 ---
 

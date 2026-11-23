@@ -3,9 +3,9 @@ title: "Section 4011 - Approval and entry into force of the Agreement"
 usc_title: 19
 usc_section: "4011"
 chapter: 26
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 4011"
-generated_at: "2026-11-23T21:10:43.118Z"
+generated_at: "2026-11-23T21:14:46.396Z"
 status: "active"
 ---
 

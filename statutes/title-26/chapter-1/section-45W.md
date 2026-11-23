@@ -3,9 +3,9 @@ title: "Section 45W - Credit for qualified commercial clean vehicles"
 usc_title: 26
 usc_section: "45W"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 45W"
-generated_at: "2026-11-23T21:11:18.672Z"
+generated_at: "2026-11-23T21:15:21.016Z"
 status: "active"
 ---
 

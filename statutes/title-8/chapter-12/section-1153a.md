@@ -3,9 +3,9 @@ title: "Section 1153a - Transparency"
 usc_title: 8
 usc_section: "1153a"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "8 U.S.C. § 1153a"
-generated_at: "2026-11-23T21:10:26.659Z"
+generated_at: "2026-11-23T21:14:11.836Z"
 status: "active"
 ---
 

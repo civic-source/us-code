@@ -3,9 +3,9 @@ title: "Section 776 - Repealed. Pub. L. 105–28, § 2(b)(2) , July 18, 1997 , 1
 usc_title: 15
 usc_section: "776"
 chapter: 16
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 776"
-generated_at: "2026-11-23T21:10:40.202Z"
+generated_at: "2026-11-23T21:14:38.849Z"
 status: "repealed"
 ---
 

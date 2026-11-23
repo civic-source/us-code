@@ -3,9 +3,9 @@ title: "Section 190109 - Records and inspection"
 usc_title: 36
 usc_section: "190109"
 chapter: 1901
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 190109"
-generated_at: "2026-11-23T21:11:33.643Z"
+generated_at: "2026-11-23T21:15:33.849Z"
 status: "active"
 ---
 

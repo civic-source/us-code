@@ -3,9 +3,9 @@ title: "Section 2576 - Surplus military equipment: sale to State and local law e
 usc_title: 10
 usc_section: "2576"
 chapter: 153
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2576"
-generated_at: "2026-11-23T21:10:33.804Z"
+generated_at: "2026-11-23T21:14:24.806Z"
 status: "active"
 ---
 

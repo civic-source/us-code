@@ -3,9 +3,9 @@ title: "Section 4312 - Senior Executive Service performance appraisal systems"
 usc_title: 5
 usc_section: "4312"
 chapter: 43
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 4312"
-generated_at: "2026-11-23T21:10:24.050Z"
+generated_at: "2026-11-23T21:14:07.069Z"
 status: "active"
 ---
 

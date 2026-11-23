@@ -3,9 +3,9 @@ title: "Section 1806 - Visa integrity fee"
 usc_title: 8
 usc_section: "1806"
 chapter: 16
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "8 U.S.C. § 1806"
-generated_at: "2026-11-23T21:10:26.790Z"
+generated_at: "2026-11-23T21:14:12.078Z"
 status: "active"
 ---
 

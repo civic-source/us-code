@@ -3,9 +3,9 @@ title: "Section 1752 - Election of Delegate"
 usc_title: 48
 usc_section: "1752"
 chapter: 16
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "48 U.S.C. § 1752"
-generated_at: "2026-11-23T21:12:04.586Z"
+generated_at: "2026-11-23T21:16:05.225Z"
 status: "active"
 ---
 

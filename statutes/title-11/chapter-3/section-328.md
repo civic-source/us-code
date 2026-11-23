@@ -3,9 +3,9 @@ title: "Section 328 - Limitation on compensation of professional persons"
 usc_title: 11
 usc_section: "328"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "11 U.S.C. § 328"
-generated_at: "2026-11-23T21:10:35.909Z"
+generated_at: "2026-11-23T21:14:28.832Z"
 status: "active"
 ---
 

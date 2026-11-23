@@ -3,9 +3,9 @@ title: "Section 1928a - North Atlantic Treaty Parliamentary Conference; particip
 usc_title: 22
 usc_section: "1928a"
 chapter: 24
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 1928a"
-generated_at: "2026-11-23T21:11:00.893Z"
+generated_at: "2026-11-23T21:15:04.700Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 62 - Repealed. Aug. 2, 1956, ch. 887, § 4(a)(22) , (23), 70 Sta
 usc_title: 19
 usc_section: "62"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 62"
-generated_at: "2026-11-23T21:10:42.931Z"
+generated_at: "2026-11-23T21:14:45.990Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2146 - Right of member upon subsequent reenlistment to lump-sum 
 usc_title: 10
 usc_section: "2146"
 chapter: 106
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2146"
-generated_at: "2026-11-23T21:10:33.723Z"
+generated_at: "2026-11-23T21:14:24.672Z"
 status: "active"
 ---
 

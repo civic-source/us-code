@@ -3,9 +3,9 @@ title: "Section 603 - Homeland security grant programs"
 usc_title: 6
 usc_section: "603"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "6 U.S.C. § 603"
-generated_at: "2026-11-23T21:10:25.907Z"
+generated_at: "2026-11-23T21:14:10.621Z"
 status: "active"
 ---
 

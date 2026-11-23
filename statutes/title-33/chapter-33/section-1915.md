@@ -3,9 +3,9 @@ title: "Section 1915 - Repealed. Pub. L. 112–213, title VI, § 604(d) , Dec. 2
 usc_title: 33
 usc_section: "1915"
 chapter: 33
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 1915"
-generated_at: "2026-11-23T21:11:28.842Z"
+generated_at: "2026-11-23T21:15:29.751Z"
 status: "repealed"
 ---
 

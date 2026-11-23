@@ -3,9 +3,9 @@ title: "Section 275a - Permanent International Commission of the Congresses of N
 usc_title: 22
 usc_section: "275a"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 275a"
-generated_at: "2026-11-23T21:11:00.686Z"
+generated_at: "2026-11-23T21:15:04.530Z"
 status: "active"
 ---
 

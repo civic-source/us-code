@@ -3,9 +3,9 @@ title: "Section 5197d - Applicability of subchapter"
 usc_title: 42
 usc_section: "5197d"
 chapter: 68
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 5197d"
-generated_at: "2026-11-23T21:12:00.843Z"
+generated_at: "2026-11-23T21:16:01.666Z"
 status: "active"
 ---
 

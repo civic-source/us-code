@@ -3,9 +3,9 @@ title: "Section 449 - Disposition of dredged matter; persons liable; penalty"
 usc_title: 33
 usc_section: "449"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 449"
-generated_at: "2026-11-23T21:11:28.576Z"
+generated_at: "2026-11-23T21:15:29.451Z"
 status: "active"
 ---
 

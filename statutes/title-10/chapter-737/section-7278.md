@@ -3,9 +3,9 @@ title: "Section 7278 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7278"
 chapter: 737
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 7278"
-generated_at: "2026-11-23T21:10:34.016Z"
+generated_at: "2026-11-23T21:14:25.211Z"
 status: "active"
 ---
 

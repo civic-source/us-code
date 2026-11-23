@@ -3,9 +3,9 @@ title: "Section 220306 - Exclusive right to name, seals, emblems, insignia, mark
 usc_title: 36
 usc_section: "220306"
 chapter: 2203
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 220306"
-generated_at: "2026-11-23T21:11:33.664Z"
+generated_at: "2026-11-23T21:15:33.871Z"
 status: "active"
 ---
 

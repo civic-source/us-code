@@ -3,9 +3,9 @@ title: "Section 6244 - Authority to provide certificate of commendation to Depar
 usc_title: 10
 usc_section: "6244"
 chapter: 606
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 6244"
-generated_at: "2026-11-23T21:10:33.993Z"
+generated_at: "2026-11-23T21:14:25.170Z"
 status: "active"
 ---
 

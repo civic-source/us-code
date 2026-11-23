@@ -3,9 +3,9 @@ title: "Section 1708 - Discrimination prohibited in rights of access to, and ben
 usc_title: 48
 usc_section: "1708"
 chapter: 15
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "48 U.S.C. § 1708"
-generated_at: "2026-11-23T21:12:04.584Z"
+generated_at: "2026-11-23T21:16:05.224Z"
 status: "active"
 ---
 

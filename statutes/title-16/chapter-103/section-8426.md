@@ -3,9 +3,9 @@ title: "Section 8426 - Aquatic resource activities assistance"
 usc_title: 16
 usc_section: "8426"
 chapter: 103
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 8426"
-generated_at: "2026-11-23T21:10:49.286Z"
+generated_at: "2026-11-23T21:14:56.018Z"
 status: "active"
 ---
 

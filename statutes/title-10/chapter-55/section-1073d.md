@@ -3,9 +3,9 @@ title: "Section 1073d - Military medical treatment facilities"
 usc_title: 10
 usc_section: "1073d"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1073d"
-generated_at: "2026-11-23T21:10:33.593Z"
+generated_at: "2026-11-23T21:14:24.379Z"
 status: "active"
 ---
 

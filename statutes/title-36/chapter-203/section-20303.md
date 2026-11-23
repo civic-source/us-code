@@ -3,9 +3,9 @@ title: "Section 20303 - Membership"
 usc_title: 36
 usc_section: "20303"
 chapter: 203
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 20303"
-generated_at: "2026-11-23T21:11:33.400Z"
+generated_at: "2026-11-23T21:15:33.576Z"
 status: "active"
 ---
 

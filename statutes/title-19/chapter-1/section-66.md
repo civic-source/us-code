@@ -3,9 +3,9 @@ title: "Section 66 - Rules and forms prescribed by Secretary"
 usc_title: 19
 usc_section: "66"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 66"
-generated_at: "2026-11-23T21:10:42.931Z"
+generated_at: "2026-11-23T21:14:45.990Z"
 status: "active"
 ---
 

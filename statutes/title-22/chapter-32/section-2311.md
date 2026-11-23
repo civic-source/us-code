@@ -3,9 +3,9 @@ title: "Section 2311 - General authority"
 usc_title: 22
 usc_section: "2311"
 chapter: 32
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2311"
-generated_at: "2026-11-23T21:11:01.005Z"
+generated_at: "2026-11-23T21:15:04.824Z"
 status: "active"
 ---
 

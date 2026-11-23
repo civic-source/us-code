@@ -3,9 +3,9 @@ title: "Section 1636 - Repealed. Pub. L. 96–221, title VI, § 614(e)(1) , Mar.
 usc_title: 15
 usc_section: "1636"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 1636"
-generated_at: "2026-11-23T21:10:40.249Z"
+generated_at: "2026-11-23T21:14:39.007Z"
 status: "repealed"
 ---
 

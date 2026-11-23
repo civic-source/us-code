@@ -3,9 +3,9 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-11-23T21:11:28.914Z"
+generated_at: "2026-11-23T21:15:29.821Z"
 status: "active"
 ---
 

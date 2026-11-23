@@ -3,9 +3,9 @@ title: "Section 2164d - Limitation on school closures and certain other actions 
 usc_title: 10
 usc_section: "2164d"
 chapter: 108
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2164d"
-generated_at: "2026-11-23T21:10:33.727Z"
+generated_at: "2026-11-23T21:14:24.679Z"
 status: "active"
 ---
 

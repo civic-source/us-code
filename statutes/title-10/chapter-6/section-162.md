@@ -3,9 +3,9 @@ title: "Section 162 - Combatant commands: assigned forces; chain of command"
 usc_title: 10
 usc_section: "162"
 chapter: 6
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 162"
-generated_at: "2026-11-23T21:10:33.426Z"
+generated_at: "2026-11-23T21:14:24.024Z"
 status: "active"
 ---
 

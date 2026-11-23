@@ -3,9 +3,9 @@ title: "Section 283z - Proposal of light-capital or intermediate technologies as
 usc_title: 22
 usc_section: "283z"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 283z"
-generated_at: "2026-11-23T21:11:00.716Z"
+generated_at: "2026-11-23T21:15:04.553Z"
 status: "active"
 ---
 

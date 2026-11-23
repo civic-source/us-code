@@ -3,9 +3,9 @@ title: "Section 1383 - Procedural rules"
 usc_title: 2
 usc_section: "1383"
 chapter: 24
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "2 U.S.C. § 1383"
-generated_at: "2026-11-23T21:10:22.503Z"
+generated_at: "2026-11-23T21:14:03.037Z"
 status: "active"
 ---
 

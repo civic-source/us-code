@@ -3,9 +3,9 @@ title: "Section 5661 - Program controls for export programs"
 usc_title: 7
 usc_section: "5661"
 chapter: 87
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 5661"
-generated_at: "2026-11-23T21:10:29.245Z"
+generated_at: "2026-11-23T21:14:16.709Z"
 status: "active"
 ---
 

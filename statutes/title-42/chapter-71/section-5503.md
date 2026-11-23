@@ -3,9 +3,9 @@ title: "Section 5503 - Development and demonstration of solar heating systems fo
 usc_title: 42
 usc_section: "5503"
 chapter: 71
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 5503"
-generated_at: "2026-11-23T21:12:00.883Z"
+generated_at: "2026-11-23T21:16:01.707Z"
 status: "active"
 ---
 

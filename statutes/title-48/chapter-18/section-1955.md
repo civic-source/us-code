@@ -3,9 +3,9 @@ title: "Section 1955 - Audit certification"
 usc_title: 48
 usc_section: "1955"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "48 U.S.C. § 1955"
-generated_at: "2026-11-23T21:12:04.743Z"
+generated_at: "2026-11-23T21:16:05.338Z"
 status: "active"
 ---
 

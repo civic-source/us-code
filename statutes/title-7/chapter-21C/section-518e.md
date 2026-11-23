@@ -3,9 +3,9 @@ title: "Section 518e - Tobacco Trust Fund"
 usc_title: 7
 usc_section: "518e"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 518e"
-generated_at: "2026-11-23T21:10:28.916Z"
+generated_at: "2026-11-23T21:14:16.112Z"
 status: "active"
 ---
 

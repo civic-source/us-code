@@ -3,9 +3,9 @@ title: "Section 441c - Administration, protection, and promotion; franchises for
 usc_title: 16
 usc_section: "441c"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 441c"
-generated_at: "2026-11-23T21:10:48.235Z"
+generated_at: "2026-11-23T21:14:54.853Z"
 status: "active"
 ---
 

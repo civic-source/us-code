@@ -3,9 +3,9 @@ title: "Section 6104 - Monitoring of industrial base for nuclear weapons compone
 usc_title: 10
 usc_section: "6104"
 chapter: 601
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 6104"
-generated_at: "2026-11-23T21:10:33.979Z"
+generated_at: "2026-11-23T21:14:25.140Z"
 status: "active"
 ---
 

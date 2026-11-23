@@ -3,9 +3,9 @@ title: "Section 18831 - Grants for energy efficiency improvements and renewable 
 usc_title: 42
 usc_section: "18831"
 chapter: 162
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 18831"
-generated_at: "2026-11-23T21:12:02.219Z"
+generated_at: "2026-11-23T21:16:03.018Z"
 status: "active"
 ---
 

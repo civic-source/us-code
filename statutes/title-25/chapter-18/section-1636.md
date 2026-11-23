@@ -3,9 +3,9 @@ title: "Section 1636 - Grant program for construction, expansion, and modernizat
 usc_title: 25
 usc_section: "1636"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 1636"
-generated_at: "2026-11-23T21:10:53.895Z"
+generated_at: "2026-11-23T21:15:00.612Z"
 status: "active"
 ---
 

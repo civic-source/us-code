@@ -3,9 +3,9 @@ title: "Section 665f - Cybersecurity education and training programs"
 usc_title: 6
 usc_section: "665f"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "6 U.S.C. § 665f"
-generated_at: "2026-11-23T21:10:25.925Z"
+generated_at: "2026-11-23T21:14:10.649Z"
 status: "active"
 ---
 

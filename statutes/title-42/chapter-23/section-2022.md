@@ -3,9 +3,9 @@ title: "Section 2022 - Health and environmental standards for uranium mill taili
 usc_title: 42
 usc_section: "2022"
 chapter: 23
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 2022"
-generated_at: "2026-11-23T21:12:00.271Z"
+generated_at: "2026-11-23T21:16:01.205Z"
 status: "active"
 ---
 

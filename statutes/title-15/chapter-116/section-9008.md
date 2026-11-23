@@ -3,9 +3,9 @@ title: "Section 9008 - United States Treasury program management authority"
 usc_title: 15
 usc_section: "9008"
 chapter: 116
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 9008"
-generated_at: "2026-11-23T21:10:40.504Z"
+generated_at: "2026-11-23T21:14:39.554Z"
 status: "active"
 ---
 

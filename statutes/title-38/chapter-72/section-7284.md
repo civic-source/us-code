@@ -3,9 +3,9 @@ title: "Section 7284 - Fee for transcript of record"
 usc_title: 38
 usc_section: "7284"
 chapter: 72
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 7284"
-generated_at: "2026-11-23T21:11:36.432Z"
+generated_at: "2026-11-23T21:15:38.062Z"
 status: "active"
 ---
 

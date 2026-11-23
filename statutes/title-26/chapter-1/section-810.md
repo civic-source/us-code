@@ -3,9 +3,9 @@ title: "Section 810 - Repealed. Pub. L. 115–97, title I, § 13511(b)(1) , Dec.
 usc_title: 26
 usc_section: "810"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 810"
-generated_at: "2026-11-23T21:11:19.402Z"
+generated_at: "2026-11-23T21:15:21.672Z"
 status: "repealed"
 ---
 

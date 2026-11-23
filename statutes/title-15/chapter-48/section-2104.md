@@ -3,9 +3,9 @@ title: "Section 2104 - Imports"
 usc_title: 15
 usc_section: "2104"
 chapter: 48
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 2104"
-generated_at: "2026-11-23T21:10:40.312Z"
+generated_at: "2026-11-23T21:14:39.188Z"
 status: "active"
 ---
 

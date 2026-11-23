@@ -3,9 +3,9 @@ title: "Section 6356 - Authority to use passenger carriers for contractor commut
 usc_title: 10
 usc_section: "6356"
 chapter: 608
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 6356"
-generated_at: "2026-11-23T21:10:34.001Z"
+generated_at: "2026-11-23T21:14:25.181Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12i - Reclaimed water in Pasadena"
 usc_title: 43
 usc_section: "12i"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 12i"
-generated_at: "2026-11-23T21:11:41.175Z"
+generated_at: "2026-11-23T21:15:42.990Z"
 status: "active"
 ---
 

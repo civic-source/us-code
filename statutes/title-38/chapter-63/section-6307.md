@@ -3,9 +3,9 @@ title: "Section 6307 - Grants to States and Indian Tribes to improve outreach to
 usc_title: 38
 usc_section: "6307"
 chapter: 63
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 6307"
-generated_at: "2026-11-23T21:11:36.420Z"
+generated_at: "2026-11-23T21:15:38.043Z"
 status: "active"
 ---
 

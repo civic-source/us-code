@@ -3,9 +3,9 @@ title: "Section 1032c - Evaluation"
 usc_title: 20
 usc_section: "1032c"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 1032c"
-generated_at: "2026-11-23T21:10:44.447Z"
+generated_at: "2026-11-23T21:14:49.675Z"
 status: "active"
 ---
 

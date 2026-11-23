@@ -3,9 +3,9 @@ title: "Section 4001 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "4001"
 chapter: 66
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 4001"
-generated_at: "2026-11-23T21:10:40.381Z"
+generated_at: "2026-11-23T21:14:39.351Z"
 status: "active"
 ---
 

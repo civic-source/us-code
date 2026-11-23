@@ -3,9 +3,9 @@ title: "Section 3355b - Identification, collection, and review for declassificat
 usc_title: 50
 usc_section: "3355b"
 chapter: 45
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 3355b"
-generated_at: "2026-11-23T21:12:07.876Z"
+generated_at: "2026-11-23T21:16:09.784Z"
 status: "active"
 ---
 

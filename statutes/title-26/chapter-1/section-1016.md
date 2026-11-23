@@ -3,9 +3,9 @@ title: "Section 1016 - Adjustments to basis"
 usc_title: 26
 usc_section: "1016"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 1016"
-generated_at: "2026-11-23T21:11:20.016Z"
+generated_at: "2026-11-23T21:15:21.799Z"
 status: "active"
 ---
 

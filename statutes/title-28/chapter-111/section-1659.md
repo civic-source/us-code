@@ -3,9 +3,9 @@ title: "Section 1659 - Stay of certain actions pending disposition of related pr
 usc_title: 28
 usc_section: "1659"
 chapter: 111
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 1659"
-generated_at: "2026-11-23T21:11:05.851Z"
+generated_at: "2026-11-23T21:15:10.945Z"
 status: "active"
 ---
 

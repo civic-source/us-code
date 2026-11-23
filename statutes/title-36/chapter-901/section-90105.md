@@ -3,9 +3,9 @@ title: "Section 90105 - Powers"
 usc_title: 36
 usc_section: "90105"
 chapter: 901
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 90105"
-generated_at: "2026-11-23T21:11:33.518Z"
+generated_at: "2026-11-23T21:15:33.713Z"
 status: "active"
 ---
 

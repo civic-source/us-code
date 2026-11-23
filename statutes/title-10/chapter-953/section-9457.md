@@ -3,9 +3,9 @@ title: "Section 9457 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "9457"
 chapter: 953
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9457"
-generated_at: "2026-11-23T21:10:34.157Z"
+generated_at: "2026-11-23T21:14:25.515Z"
 status: "active"
 ---
 

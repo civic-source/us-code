@@ -3,9 +3,9 @@ title: "Section 1421 - Establishment of Program"
 usc_title: 16
 usc_section: "1421"
 chapter: 31
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 1421"
-generated_at: "2026-11-23T21:10:48.882Z"
+generated_at: "2026-11-23T21:14:55.554Z"
 status: "active"
 ---
 

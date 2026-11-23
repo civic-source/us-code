@@ -3,9 +3,9 @@ title: "Section 7213 - Corps of Engineers: assignment or transfer of officers to
 usc_title: 10
 usc_section: "7213"
 chapter: 723
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 7213"
-generated_at: "2026-11-23T21:10:34.012Z"
+generated_at: "2026-11-23T21:14:25.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2310 - Remedies in consumer disputes"
 usc_title: 15
 usc_section: "2310"
 chapter: 50
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 2310"
-generated_at: "2026-11-23T21:10:40.320Z"
+generated_at: "2026-11-23T21:14:39.210Z"
 status: "active"
 ---
 

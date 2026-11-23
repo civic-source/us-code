@@ -3,9 +3,9 @@ title: "Section 2084 - Cooperation of other Federal departments, agencies, and i
 usc_title: 22
 usc_section: "2084"
 chapter: 29
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2084"
-generated_at: "2026-11-23T21:11:00.907Z"
+generated_at: "2026-11-23T21:15:04.719Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3200 - Technical Assistance Liaisons"
 usc_title: 42
 usc_section: "3200"
 chapter: 38
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3200"
-generated_at: "2026-11-23T21:12:00.605Z"
+generated_at: "2026-11-23T21:16:01.424Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60124 - Biennial reports"
 usc_title: 49
 usc_section: "60124"
 chapter: 601
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 60124"
-generated_at: "2026-11-23T21:12:13.993Z"
+generated_at: "2026-11-23T21:16:12.637Z"
 status: "active"
 ---
 

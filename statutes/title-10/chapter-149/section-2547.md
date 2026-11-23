@@ -3,9 +3,9 @@ title: "Section 2547 - Renumbered § 3104]"
 usc_title: 10
 usc_section: "2547"
 chapter: 149
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2547"
-generated_at: "2026-11-23T21:10:33.798Z"
+generated_at: "2026-11-23T21:14:24.789Z"
 status: "renumbered"
 ---
 

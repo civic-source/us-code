@@ -3,9 +3,9 @@ title: "Section 4029 - Regulations"
 usc_title: 25
 usc_section: "4029"
 chapter: 42
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 4029"
-generated_at: "2026-11-23T21:10:54.072Z"
+generated_at: "2026-11-23T21:15:00.784Z"
 status: "active"
 ---
 

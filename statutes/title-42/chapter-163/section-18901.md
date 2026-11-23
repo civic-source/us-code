@@ -3,9 +3,9 @@ title: "Section 18901 - Definitions"
 usc_title: 42
 usc_section: "18901"
 chapter: 163
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 18901"
-generated_at: "2026-11-23T21:12:02.222Z"
+generated_at: "2026-11-23T21:16:03.021Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21311 - Records and reports"
 usc_title: 49
 usc_section: "21311"
 chapter: 213
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 21311"
-generated_at: "2026-11-23T21:12:13.317Z"
+generated_at: "2026-11-23T21:16:12.175Z"
 status: "active"
 ---
 

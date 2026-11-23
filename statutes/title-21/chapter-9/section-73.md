@@ -3,9 +3,9 @@ title: "Section 73 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "73"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "21 U.S.C. § 73"
-generated_at: "2026-11-23T21:10:55.892Z"
+generated_at: "2026-11-23T21:15:07.121Z"
 status: "active"
 ---
 

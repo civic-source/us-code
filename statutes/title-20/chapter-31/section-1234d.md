@@ -3,9 +3,9 @@ title: "Section 1234d - Withholding"
 usc_title: 20
 usc_section: "1234d"
 chapter: 31
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 1234d"
-generated_at: "2026-11-23T21:10:44.637Z"
+generated_at: "2026-11-23T21:14:49.978Z"
 status: "active"
 ---
 

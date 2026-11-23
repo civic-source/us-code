@@ -3,9 +3,9 @@ title: "Section 3056b - Participants not Federal employees"
 usc_title: 42
 usc_section: "3056b"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3056b"
-generated_at: "2026-11-23T21:12:00.565Z"
+generated_at: "2026-11-23T21:16:01.387Z"
 status: "active"
 ---
 

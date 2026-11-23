@@ -3,9 +3,9 @@ title: "Section 296 - Powers upon designation and assignment"
 usc_title: 28
 usc_section: "296"
 chapter: 13
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 296"
-generated_at: "2026-11-23T21:11:05.701Z"
+generated_at: "2026-11-23T21:15:10.796Z"
 status: "active"
 ---
 

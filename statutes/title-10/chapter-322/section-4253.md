@@ -3,9 +3,9 @@ title: "Section 4253 - Major defense acquisition programs: submissions to Congre
 usc_title: 10
 usc_section: "4253"
 chapter: 322
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 4253"
-generated_at: "2026-11-23T21:10:33.943Z"
+generated_at: "2026-11-23T21:14:25.061Z"
 status: "active"
 ---
 

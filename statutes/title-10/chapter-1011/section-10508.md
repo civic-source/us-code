@@ -3,9 +3,9 @@ title: "Section 10508 - National Guard Bureau: general provisions"
 usc_title: 10
 usc_section: "10508"
 chapter: 1011
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 10508"
-generated_at: "2026-11-23T21:10:34.189Z"
+generated_at: "2026-11-23T21:14:25.569Z"
 status: "active"
 ---
 

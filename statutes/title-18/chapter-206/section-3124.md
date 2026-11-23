@@ -3,9 +3,9 @@ title: "Section 3124 - Assistance in installation and use of a pen register or a
 usc_title: 18
 usc_section: "3124"
 chapter: 206
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 3124"
-generated_at: "2026-11-23T21:10:45.592Z"
+generated_at: "2026-11-23T21:14:44.051Z"
 status: "active"
 ---
 

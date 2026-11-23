@@ -3,9 +3,9 @@ title: "Section 5550b - Compensatory time off for travel"
 usc_title: 5
 usc_section: "5550b"
 chapter: 55
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 5550b"
-generated_at: "2026-11-23T21:10:24.108Z"
+generated_at: "2026-11-23T21:14:07.327Z"
 status: "active"
 ---
 

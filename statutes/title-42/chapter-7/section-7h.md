@@ -3,9 +3,9 @@ title: "Section 7h - Transparency reports and reporting of physician ownership o
 usc_title: 42
 usc_section: "7h"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 7h"
-generated_at: "2026-11-23T21:11:59.138Z"
+generated_at: "2026-11-23T21:16:00.314Z"
 status: "active"
 ---
 

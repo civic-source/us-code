@@ -3,9 +3,9 @@ title: "Section 7261 - Disclosures in periodic reports"
 usc_title: 15
 usc_section: "7261"
 chapter: 98
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 7261"
-generated_at: "2026-11-23T21:10:40.455Z"
+generated_at: "2026-11-23T21:14:39.479Z"
 status: "active"
 ---
 

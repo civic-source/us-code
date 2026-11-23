@@ -3,9 +3,9 @@ title: "Section 98 - Vessels for quarantine officers"
 usc_title: 42
 usc_section: "98"
 chapter: 2
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 98"
-generated_at: "2026-11-23T21:11:57.883Z"
+generated_at: "2026-11-23T21:15:59.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 682 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21
 usc_title: 43
 usc_section: "682"
 chapter: 16
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 682"
-generated_at: "2026-11-23T21:11:41.257Z"
+generated_at: "2026-11-23T21:15:43.076Z"
 status: "repealed"
 ---
 

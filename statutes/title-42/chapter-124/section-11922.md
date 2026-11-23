@@ -3,9 +3,9 @@ title: "Section 11922 - Clearinghouse on drug abuse in public housing"
 usc_title: 42
 usc_section: "11922"
 chapter: 124
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 11922"
-generated_at: "2026-11-23T21:12:01.653Z"
+generated_at: "2026-11-23T21:16:02.490Z"
 status: "active"
 ---
 

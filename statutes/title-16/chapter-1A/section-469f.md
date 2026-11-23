@@ -3,9 +3,9 @@ title: "Section 469f - Repealed. Pub. L. 91–483, § 1(1) , Oct. 21, 1970 , 84 
 usc_title: 16
 usc_section: "469f"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 469f"
-generated_at: "2026-11-23T21:10:48.424Z"
+generated_at: "2026-11-23T21:14:55.056Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1594j - Repealed. Pub. L. 92–545, title V, § 508(c) , Oct. 25
 usc_title: 42
 usc_section: "1594j"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1594j"
-generated_at: "2026-11-23T21:12:00.057Z"
+generated_at: "2026-11-23T21:16:01.049Z"
 status: "repealed"
 ---
 

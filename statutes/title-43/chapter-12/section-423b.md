@@ -3,9 +3,9 @@ title: "Section 423b - Suspension of payment of construction charges against are
 usc_title: 43
 usc_section: "423b"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 423b"
-generated_at: "2026-11-23T21:11:41.195Z"
+generated_at: "2026-11-23T21:15:43.013Z"
 status: "active"
 ---
 

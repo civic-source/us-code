@@ -3,9 +3,9 @@ title: "Section 3914 - Requirements"
 usc_title: 33
 usc_section: "3914"
 chapter: 52
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 3914"
-generated_at: "2026-11-23T21:11:29.015Z"
+generated_at: "2026-11-23T21:15:29.926Z"
 status: "active"
 ---
 

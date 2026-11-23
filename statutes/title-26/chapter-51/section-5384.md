@@ -3,9 +3,9 @@ title: "Section 5384 - Amelioration and sweetening limitations for natural fruit
 usc_title: 26
 usc_section: "5384"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 5384"
-generated_at: "2026-11-23T21:11:20.475Z"
+generated_at: "2026-11-23T21:15:22.217Z"
 status: "active"
 ---
 

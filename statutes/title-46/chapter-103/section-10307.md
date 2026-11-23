@@ -3,9 +3,9 @@ title: "Section 10307 - Posting agreements"
 usc_title: 46
 usc_section: "10307"
 chapter: 103
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 10307"
-generated_at: "2026-11-23T21:12:09.317Z"
+generated_at: "2026-11-23T21:16:07.743Z"
 status: "active"
 ---
 

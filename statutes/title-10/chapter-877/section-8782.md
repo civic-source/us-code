@@ -3,9 +3,9 @@ title: "Section 8782 - Naval and Marine Corps Historical Centers: fee for provid
 usc_title: 10
 usc_section: "8782"
 chapter: 877
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 8782"
-generated_at: "2026-11-23T21:10:34.116Z"
+generated_at: "2026-11-23T21:14:25.424Z"
 status: "active"
 ---
 

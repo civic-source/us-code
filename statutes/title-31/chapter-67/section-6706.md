@@ -3,9 +3,9 @@ title: "Section 6706 - Income gap multiplier"
 usc_title: 31
 usc_section: "6706"
 chapter: 67
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "31 U.S.C. § 6706"
-generated_at: "2026-11-23T21:11:26.233Z"
+generated_at: "2026-11-23T21:15:25.877Z"
 status: "active"
 ---
 

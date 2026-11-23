@@ -3,9 +3,9 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-11-23T21:11:28.608Z"
+generated_at: "2026-11-23T21:15:29.493Z"
 status: "active"
 ---
 

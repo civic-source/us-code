@@ -3,9 +3,9 @@ title: "Section 20930 - Authorization of appropriations"
 usc_title: 52
 usc_section: "20930"
 chapter: 209
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "52 U.S.C. § 20930"
-generated_at: "2026-11-23T21:12:16.208Z"
+generated_at: "2026-11-23T21:16:14.125Z"
 status: "active"
 ---
 

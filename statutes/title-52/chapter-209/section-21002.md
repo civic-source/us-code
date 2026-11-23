@@ -3,9 +3,9 @@ title: "Section 21002 - Allocation of funds"
 usc_title: 52
 usc_section: "21002"
 chapter: 209
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "52 U.S.C. § 21002"
-generated_at: "2026-11-23T21:12:16.213Z"
+generated_at: "2026-11-23T21:16:14.130Z"
 status: "active"
 ---
 

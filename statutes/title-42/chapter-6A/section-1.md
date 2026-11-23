@@ -3,9 +3,9 @@ title: "Section 1 - WTC Health Program Scientific/Technical Advisory Committee; 
 usc_title: 42
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:11:58.788Z"
+generated_at: "2026-11-23T21:16:00.039Z"
 status: "active"
 ---
 

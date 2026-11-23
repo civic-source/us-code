@@ -3,9 +3,9 @@ title: "Section 1596b - Foreign language proficiency: National Foreign Language 
 usc_title: 10
 usc_section: "1596b"
 chapter: 81
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 1596b"
-generated_at: "2026-11-23T21:10:33.690Z"
+generated_at: "2026-11-23T21:14:24.593Z"
 status: "active"
 ---
 

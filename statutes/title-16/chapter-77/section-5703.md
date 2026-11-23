@@ -3,9 +3,9 @@ title: "Section 5703 - Panel"
 usc_title: 16
 usc_section: "5703"
 chapter: 77
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 5703"
-generated_at: "2026-11-23T21:10:49.186Z"
+generated_at: "2026-11-23T21:14:55.899Z"
 status: "active"
 ---
 

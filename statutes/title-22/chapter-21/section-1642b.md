@@ -3,9 +3,9 @@ title: "Section 1642b - Claims against United States; jurisdiction; limitation; 
 usc_title: 22
 usc_section: "1642b"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 1642b"
-generated_at: "2026-11-23T21:11:00.865Z"
+generated_at: "2026-11-23T21:15:04.676Z"
 status: "active"
 ---
 

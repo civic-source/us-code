@@ -3,9 +3,9 @@ title: "Section 6044 - News bureaus in Cuba"
 usc_title: 22
 usc_section: "6044"
 chapter: 69
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 6044"
-generated_at: "2026-11-23T21:11:01.465Z"
+generated_at: "2026-11-23T21:15:05.303Z"
 status: "active"
 ---
 

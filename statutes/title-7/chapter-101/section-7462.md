@@ -3,9 +3,9 @@ title: "Section 7462 - Definitions"
 usc_title: 7
 usc_section: "7462"
 chapter: 101
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7462"
-generated_at: "2026-11-23T21:10:29.326Z"
+generated_at: "2026-11-23T21:14:16.842Z"
 status: "active"
 ---
 

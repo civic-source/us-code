@@ -3,9 +3,9 @@ title: "Section 11107 - Unlawful engagements void"
 usc_title: 46
 usc_section: "11107"
 chapter: 111
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 11107"
-generated_at: "2026-11-23T21:12:09.340Z"
+generated_at: "2026-11-23T21:16:07.756Z"
 status: "active"
 ---
 

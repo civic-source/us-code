@@ -3,9 +3,9 @@ title: "Section 9303 - Use of eligible obligations instead of surety bonds"
 usc_title: 31
 usc_section: "9303"
 chapter: 93
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "31 U.S.C. § 9303"
-generated_at: "2026-11-23T21:11:26.260Z"
+generated_at: "2026-11-23T21:15:25.910Z"
 status: "active"
 ---
 

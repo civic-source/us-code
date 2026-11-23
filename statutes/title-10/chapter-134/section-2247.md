@@ -3,9 +3,9 @@ title: "Section 2247 - Renumbered § 2491b]"
 usc_title: 10
 usc_section: "2247"
 chapter: 134
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2247"
-generated_at: "2026-11-23T21:10:33.761Z"
+generated_at: "2026-11-23T21:14:24.727Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2437 - Procedure for Congressional approval or disapproval of ex
 usc_title: 19
 usc_section: "2437"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 2437"
-generated_at: "2026-11-23T21:10:43.051Z"
+generated_at: "2026-11-23T21:14:46.254Z"
 status: "active"
 ---
 

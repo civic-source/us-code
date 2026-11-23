@@ -3,9 +3,9 @@ title: "Section 2402 - Persons eligible for interment in national cemeteries"
 usc_title: 38
 usc_section: "2402"
 chapter: 24
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "38 U.S.C. § 2402"
-generated_at: "2026-11-23T21:11:36.200Z"
+generated_at: "2026-11-23T21:15:37.821Z"
 status: "active"
 ---
 

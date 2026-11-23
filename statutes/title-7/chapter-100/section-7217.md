@@ -3,9 +3,9 @@ title: "Section 7217 - Transfer or change of interest in lands subject to contra
 usc_title: 7
 usc_section: "7217"
 chapter: 100
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7217"
-generated_at: "2026-11-23T21:10:29.314Z"
+generated_at: "2026-11-23T21:14:16.818Z"
 status: "active"
 ---
 

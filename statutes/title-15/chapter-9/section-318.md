@@ -3,9 +3,9 @@ title: "Section 318 - Weather signals on mail cars"
 usc_title: 15
 usc_section: "318"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 318"
-generated_at: "2026-11-23T21:10:40.093Z"
+generated_at: "2026-11-23T21:14:38.581Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6909 - Authorization"
 usc_title: 15
 usc_section: "6909"
 chapter: 95
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 6909"
-generated_at: "2026-11-23T21:10:40.443Z"
+generated_at: "2026-11-23T21:14:39.462Z"
 status: "active"
 ---
 

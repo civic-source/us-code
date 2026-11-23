@@ -3,9 +3,9 @@ title: "Section 7839 - Settlement of accounts: oaths"
 usc_title: 10
 usc_section: "7839"
 chapter: 783
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 7839"
-generated_at: "2026-11-23T21:10:34.049Z"
+generated_at: "2026-11-23T21:14:25.278Z"
 status: "active"
 ---
 

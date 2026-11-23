@@ -3,9 +3,9 @@ title: "Section 287k - Congressional expression of satisfaction that expenditure
 usc_title: 22
 usc_section: "287k"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 287k"
-generated_at: "2026-11-23T21:11:00.758Z"
+generated_at: "2026-11-23T21:15:04.589Z"
 status: "active"
 ---
 

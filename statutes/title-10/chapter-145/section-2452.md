@@ -3,9 +3,9 @@ title: "Section 2452 - Duties of Secretary of Defense"
 usc_title: 10
 usc_section: "2452"
 chapter: 145
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2452"
-generated_at: "2026-11-23T21:10:33.787Z"
+generated_at: "2026-11-23T21:14:24.768Z"
 status: "active"
 ---
 

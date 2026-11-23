@@ -3,9 +3,9 @@ title: "Section 7208 - Prohibition on additional imports from Cuba"
 usc_title: 22
 usc_section: "7208"
 chapter: 79
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 7208"
-generated_at: "2026-11-23T21:11:01.560Z"
+generated_at: "2026-11-23T21:15:05.395Z"
 status: "active"
 ---
 

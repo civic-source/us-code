@@ -3,9 +3,9 @@ title: "Section 668 - Bald and golden eagles"
 usc_title: 16
 usc_section: "668"
 chapter: 5
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 668"
-generated_at: "2026-11-23T21:10:48.551Z"
+generated_at: "2026-11-23T21:14:55.197Z"
 status: "active"
 ---
 

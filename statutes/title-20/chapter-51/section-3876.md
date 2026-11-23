@@ -3,9 +3,9 @@ title: "Section 3876 - Repealed. Pub. L. 100–297, title I, § 1003(a) , Apr. 2
 usc_title: 20
 usc_section: "3876"
 chapter: 51
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 3876"
-generated_at: "2026-11-23T21:10:44.699Z"
+generated_at: "2026-11-23T21:14:50.092Z"
 status: "repealed"
 ---
 

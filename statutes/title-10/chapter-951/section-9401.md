@@ -3,9 +3,9 @@ title: "Section 9401 - Members of Air Force and Space Force: detail as students,
 usc_title: 10
 usc_section: "9401"
 chapter: 951
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9401"
-generated_at: "2026-11-23T21:10:34.149Z"
+generated_at: "2026-11-23T21:14:25.498Z"
 status: "active"
 ---
 

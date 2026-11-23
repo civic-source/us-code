@@ -3,9 +3,9 @@ title: "Section 1303 - Separability"
 usc_title: 42
 usc_section: "1303"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1303"
-generated_at: "2026-11-23T21:11:59.097Z"
+generated_at: "2026-11-23T21:16:00.286Z"
 status: "active"
 ---
 

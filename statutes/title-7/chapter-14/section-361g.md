@@ -3,9 +3,9 @@ title: "Section 361g - Duties of Secretary; ascertainment of entitlement of Stat
 usc_title: 7
 usc_section: "361g"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 361g"
-generated_at: "2026-11-23T21:10:28.903Z"
+generated_at: "2026-11-23T21:14:16.084Z"
 status: "active"
 ---
 

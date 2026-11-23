@@ -3,9 +3,9 @@ title: "Section 2101 - Definitions"
 usc_title: 41
 usc_section: "2101"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "41 U.S.C. § 2101"
-generated_at: "2026-11-23T21:11:38.882Z"
+generated_at: "2026-11-23T21:15:41.458Z"
 status: "active"
 ---
 

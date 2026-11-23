@@ -3,9 +3,9 @@ title: "Section 6701 - Transfer of rights and authorities of Pennsylvania Avenue
 usc_title: 40
 usc_section: "6701"
 chapter: 67
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "40 U.S.C. § 6701"
-generated_at: "2026-11-23T21:11:31.637Z"
+generated_at: "2026-11-23T21:15:34.727Z"
 status: "active"
 ---
 

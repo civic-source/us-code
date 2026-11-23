@@ -3,9 +3,9 @@ title: "Section 3010 - Exceptions unnecessary—(Rule)"
 usc_title: 18
 usc_section: "3010"
 chapter: 201
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "18 U.S.C. § 3010"
-generated_at: "2026-11-23T21:10:45.585Z"
+generated_at: "2026-11-23T21:14:44.038Z"
 status: "active"
 ---
 

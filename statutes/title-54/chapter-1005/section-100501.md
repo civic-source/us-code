@@ -3,9 +3,9 @@ title: "Section 100501 - Areas included in System"
 usc_title: 54
 usc_section: "100501"
 chapter: 1005
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "54 U.S.C. § 100501"
-generated_at: "2026-11-23T21:12:15.800Z"
+generated_at: "2026-11-23T21:16:14.746Z"
 status: "active"
 ---
 

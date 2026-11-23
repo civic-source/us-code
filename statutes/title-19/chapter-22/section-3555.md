@@ -3,9 +3,9 @@ title: "Section 3555 - Objectives for extended negotiations"
 usc_title: 19
 usc_section: "3555"
 chapter: 22
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 3555"
-generated_at: "2026-11-23T21:10:43.092Z"
+generated_at: "2026-11-23T21:14:46.345Z"
 status: "active"
 ---
 

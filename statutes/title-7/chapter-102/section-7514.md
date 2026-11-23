@@ -3,9 +3,9 @@ title: "Section 7514 - Incorporation of additional commodities"
 usc_title: 7
 usc_section: "7514"
 chapter: 102
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 7514"
-generated_at: "2026-11-23T21:10:29.331Z"
+generated_at: "2026-11-23T21:14:16.860Z"
 status: "active"
 ---
 

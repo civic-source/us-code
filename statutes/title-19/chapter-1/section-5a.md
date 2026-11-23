@@ -3,9 +3,9 @@ title: "Section 5a - Repealed. Pub. L. 91–271, title III, § 321(a) , (b), Jun
 usc_title: 19
 usc_section: "5a"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 5a"
-generated_at: "2026-11-23T21:10:42.921Z"
+generated_at: "2026-11-23T21:14:45.979Z"
 status: "repealed"
 ---
 

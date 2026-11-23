@@ -3,9 +3,9 @@ title: "Section 7215 - Investigations and disciplinary proceedings"
 usc_title: 15
 usc_section: "7215"
 chapter: 98
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 7215"
-generated_at: "2026-11-23T21:10:40.451Z"
+generated_at: "2026-11-23T21:14:39.473Z"
 status: "active"
 ---
 

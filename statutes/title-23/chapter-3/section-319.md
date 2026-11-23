@@ -3,9 +3,9 @@ title: "Section 319 - Landscaping and scenic enhancement"
 usc_title: 23
 usc_section: "319"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "23 U.S.C. § 319"
-generated_at: "2026-11-23T21:10:51.983Z"
+generated_at: "2026-11-23T21:14:58.859Z"
 status: "active"
 ---
 

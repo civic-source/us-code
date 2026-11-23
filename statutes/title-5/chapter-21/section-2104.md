@@ -3,9 +3,9 @@ title: "Section 2104 - Officer"
 usc_title: 5
 usc_section: "2104"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "5 U.S.C. § 2104"
-generated_at: "2026-11-23T21:10:24.005Z"
+generated_at: "2026-11-23T21:14:06.974Z"
 status: "active"
 ---
 

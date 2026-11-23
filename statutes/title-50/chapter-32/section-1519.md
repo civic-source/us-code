@@ -3,9 +3,9 @@ title: "Section 1519 - Lethal binary chemical munitions"
 usc_title: 50
 usc_section: "1519"
 chapter: 32
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "50 U.S.C. § 1519"
-generated_at: "2026-11-23T21:12:07.642Z"
+generated_at: "2026-11-23T21:16:09.563Z"
 status: "active"
 ---
 

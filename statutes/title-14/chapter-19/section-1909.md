@@ -3,9 +3,9 @@ title: "Section 1909 - Policy on hazing"
 usc_title: 14
 usc_section: "1909"
 chapter: 19
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "14 U.S.C. § 1909"
-generated_at: "2026-11-23T21:10:36.422Z"
+generated_at: "2026-11-23T21:14:28.218Z"
 status: "active"
 ---
 

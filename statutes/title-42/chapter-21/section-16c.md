@@ -3,9 +3,9 @@ title: "Section 16c - Coverage of previously exempt State employees"
 usc_title: 42
 usc_section: "16c"
 chapter: 21
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 16c"
-generated_at: "2026-11-23T21:12:00.241Z"
+generated_at: "2026-11-23T21:16:01.181Z"
 status: "active"
 ---
 

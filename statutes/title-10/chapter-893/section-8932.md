@@ -3,9 +3,9 @@ title: "Section 8932 - Ocean Policy Committee"
 usc_title: 10
 usc_section: "8932"
 chapter: 893
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 8932"
-generated_at: "2026-11-23T21:10:34.127Z"
+generated_at: "2026-11-23T21:14:25.452Z"
 status: "active"
 ---
 

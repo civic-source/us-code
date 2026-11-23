@@ -3,9 +3,9 @@ title: "Section 230309 - Records and inspection"
 usc_title: 36
 usc_section: "230309"
 chapter: 2303
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "36 U.S.C. § 230309"
-generated_at: "2026-11-23T21:11:33.690Z"
+generated_at: "2026-11-23T21:15:33.903Z"
 status: "active"
 ---
 

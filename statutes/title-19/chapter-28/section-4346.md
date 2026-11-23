@@ -3,9 +3,9 @@ title: "Section 4346 - Personnel dedicated to the enforcement of intellectual pr
 usc_title: 19
 usc_section: "4346"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 4346"
-generated_at: "2026-11-23T21:10:43.131Z"
+generated_at: "2026-11-23T21:14:46.433Z"
 status: "active"
 ---
 

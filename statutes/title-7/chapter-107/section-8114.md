@@ -3,9 +3,9 @@ title: "Section 8114 - Sun grant program"
 usc_title: 7
 usc_section: "8114"
 chapter: 107
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 8114"
-generated_at: "2026-11-23T21:10:29.376Z"
+generated_at: "2026-11-23T21:14:16.927Z"
 status: "active"
 ---
 

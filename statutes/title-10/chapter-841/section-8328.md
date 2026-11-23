@@ -3,9 +3,9 @@ title: "Section 8328 - Computation of years of service: voluntary retirement"
 usc_title: 10
 usc_section: "8328"
 chapter: 841
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 8328"
-generated_at: "2026-11-23T21:10:34.073Z"
+generated_at: "2026-11-23T21:14:25.333Z"
 status: "active"
 ---
 

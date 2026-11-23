@@ -3,9 +3,9 @@ title: "Section 1738m - Annual report to Congress"
 usc_title: 7
 usc_section: "1738m"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1738m"
-generated_at: "2026-11-23T21:10:29.041Z"
+generated_at: "2026-11-23T21:14:16.357Z"
 status: "active"
 ---
 

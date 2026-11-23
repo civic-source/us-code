@@ -3,9 +3,9 @@ title: "Section 13 - Admission of cases for study"
 usc_title: 24
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "24 U.S.C. § 13"
-generated_at: "2026-11-23T21:10:50.778Z"
+generated_at: "2026-11-23T21:14:57.644Z"
 status: "active"
 ---
 

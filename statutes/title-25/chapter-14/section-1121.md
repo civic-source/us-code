@@ -3,9 +3,9 @@ title: "Section 1121 - Omitted"
 usc_title: 25
 usc_section: "1121"
 chapter: 14
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 1121"
-generated_at: "2026-11-23T21:10:53.846Z"
+generated_at: "2026-11-23T21:15:00.556Z"
 status: "omitted"
 ---
 

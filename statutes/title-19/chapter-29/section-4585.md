@@ -3,9 +3,9 @@ title: "Section 4585 - Rules of procedure for panels and committees"
 usc_title: 19
 usc_section: "4585"
 chapter: 29
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 4585"
-generated_at: "2026-11-23T21:10:43.144Z"
+generated_at: "2026-11-23T21:14:46.459Z"
 status: "active"
 ---
 

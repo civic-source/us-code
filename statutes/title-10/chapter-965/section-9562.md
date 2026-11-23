@@ -3,9 +3,9 @@ title: "Section 9562 - Clothing"
 usc_title: 10
 usc_section: "9562"
 chapter: 965
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 9562"
-generated_at: "2026-11-23T21:10:34.162Z"
+generated_at: "2026-11-23T21:14:25.528Z"
 status: "active"
 ---
 

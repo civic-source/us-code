@@ -3,9 +3,9 @@ title: "Section 6428A - Additional 2020 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428A"
 chapter: 65
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "26 U.S.C. § 6428A"
-generated_at: "2026-11-23T21:11:20.683Z"
+generated_at: "2026-11-23T21:15:22.422Z"
 status: "active"
 ---
 

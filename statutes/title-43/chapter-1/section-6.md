@@ -3,9 +3,9 @@ title: "Section 6 - Duties of employees to certify, record, etc., patents"
 usc_title: 43
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "43 U.S.C. § 6"
-generated_at: "2026-11-23T21:11:41.024Z"
+generated_at: "2026-11-23T21:15:42.906Z"
 status: "active"
 ---
 

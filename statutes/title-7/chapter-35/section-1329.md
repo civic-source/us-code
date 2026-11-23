@@ -3,9 +3,9 @@ title: "Section 1329 - Omitted"
 usc_title: 7
 usc_section: "1329"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 1329"
-generated_at: "2026-11-23T21:10:28.953Z"
+generated_at: "2026-11-23T21:14:16.179Z"
 status: "omitted"
 ---
 

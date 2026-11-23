@@ -3,9 +3,9 @@ title: "Section 931a - Level of loan programs under Rural Electrification and Te
 usc_title: 7
 usc_section: "931a"
 chapter: 31
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "7 U.S.C. § 931a"
-generated_at: "2026-11-23T21:10:28.933Z"
+generated_at: "2026-11-23T21:14:16.144Z"
 status: "active"
 ---
 

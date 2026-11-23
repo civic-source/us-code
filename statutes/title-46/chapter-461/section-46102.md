@@ -3,9 +3,9 @@ title: "Section 46102 - Quorum"
 usc_title: 46
 usc_section: "46102"
 chapter: 461
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 46102"
-generated_at: "2026-11-23T21:12:09.537Z"
+generated_at: "2026-11-23T21:16:07.853Z"
 status: "active"
 ---
 

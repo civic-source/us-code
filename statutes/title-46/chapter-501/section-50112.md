@@ -3,9 +3,9 @@ title: "Section 50112 - National Maritime Enhancement Institutes"
 usc_title: 46
 usc_section: "50112"
 chapter: 501
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "46 U.S.C. § 50112"
-generated_at: "2026-11-23T21:12:09.545Z"
+generated_at: "2026-11-23T21:16:07.861Z"
 status: "active"
 ---
 

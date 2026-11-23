@@ -3,9 +3,9 @@ title: "Section 1426 - Insolvent plans"
 usc_title: 29
 usc_section: "1426"
 chapter: 18
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "29 U.S.C. § 1426"
-generated_at: "2026-11-23T21:11:08.085Z"
+generated_at: "2026-11-23T21:15:12.822Z"
 status: "active"
 ---
 

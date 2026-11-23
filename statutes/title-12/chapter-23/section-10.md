@@ -3,9 +3,9 @@ title: "Section 10 - Funding for guarantee; reserves of Corporation"
 usc_title: 12
 usc_section: "10"
 chapter: 23
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "12 U.S.C. § 10"
-generated_at: "2026-11-23T21:10:38.110Z"
+generated_at: "2026-11-23T21:14:33.203Z"
 status: "active"
 ---
 

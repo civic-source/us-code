@@ -3,9 +3,9 @@ title: "Section 282 - Regulations by Secretary of the Interior to secure attenda
 usc_title: 25
 usc_section: "282"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "25 U.S.C. § 282"
-generated_at: "2026-11-23T21:10:53.765Z"
+generated_at: "2026-11-23T21:15:00.490Z"
 status: "active"
 ---
 

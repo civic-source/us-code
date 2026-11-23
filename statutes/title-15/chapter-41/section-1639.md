@@ -3,9 +3,9 @@ title: "Section 1639 - Requirements for certain mortgages"
 usc_title: 15
 usc_section: "1639"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 1639"
-generated_at: "2026-11-23T21:10:40.253Z"
+generated_at: "2026-11-23T21:14:39.021Z"
 status: "active"
 ---
 

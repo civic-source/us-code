@@ -3,9 +3,9 @@ title: "Section 41735 - Repealed. Pub. L. 118–63, title V, § 561(g) , May 16,
 usc_title: 49
 usc_section: "41735"
 chapter: 417
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 41735"
-generated_at: "2026-11-23T21:12:13.639Z"
+generated_at: "2026-11-23T21:16:12.412Z"
 status: "repealed"
 ---
 

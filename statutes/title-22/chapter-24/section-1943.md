@@ -3,9 +3,9 @@ title: "Section 1943 - Authorization of appropriations; restrictions; reports to
 usc_title: 22
 usc_section: "1943"
 chapter: 24
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 1943"
-generated_at: "2026-11-23T21:11:00.896Z"
+generated_at: "2026-11-23T21:15:04.708Z"
 status: "active"
 ---
 

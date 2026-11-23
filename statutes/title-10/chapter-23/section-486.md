@@ -3,9 +3,9 @@ title: "Section 486 - Repealed. Pub. L. 118–159, div. A, title V, § 566(b)(1)
 usc_title: 10
 usc_section: "486"
 chapter: 23
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 486"
-generated_at: "2026-11-23T21:10:33.485Z"
+generated_at: "2026-11-23T21:14:24.131Z"
 status: "repealed"
 ---
 

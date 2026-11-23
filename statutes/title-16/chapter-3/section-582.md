@@ -3,9 +3,9 @@ title: "Section 582 - Puerto Rico; application of forest protection laws"
 usc_title: 16
 usc_section: "582"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "16 U.S.C. § 582"
-generated_at: "2026-11-23T21:10:48.517Z"
+generated_at: "2026-11-23T21:14:55.159Z"
 status: "active"
 ---
 

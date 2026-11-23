@@ -3,9 +3,9 @@ title: "Section 2024 - Authorization of appropriations for payment of expenses"
 usc_title: 22
 usc_section: "2024"
 chapter: 28
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 2024"
-generated_at: "2026-11-23T21:11:00.904Z"
+generated_at: "2026-11-23T21:15:04.715Z"
 status: "active"
 ---
 

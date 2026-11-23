@@ -3,9 +3,9 @@ title: "Section 75a - Definitions"
 usc_title: 20
 usc_section: "75a"
 chapter: 3
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 75a"
-generated_at: "2026-11-23T21:10:44.395Z"
+generated_at: "2026-11-23T21:14:49.562Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2773a - Departmental accountable officials"
 usc_title: 10
 usc_section: "2773a"
 chapter: 165
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2773a"
-generated_at: "2026-11-23T21:10:33.857Z"
+generated_at: "2026-11-23T21:14:24.878Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2244a - Equipment scheduled for retirement or disposal: limitati
 usc_title: 10
 usc_section: "2244a"
 chapter: 134
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 2244a"
-generated_at: "2026-11-23T21:10:33.760Z"
+generated_at: "2026-11-23T21:14:24.727Z"
 status: "active"
 ---
 

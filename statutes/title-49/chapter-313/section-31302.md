@@ -3,9 +3,9 @@ title: "Section 31302 - Commercial driver’s license requirement"
 usc_title: 49
 usc_section: "31302"
 chapter: 313
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "49 U.S.C. § 31302"
-generated_at: "2026-11-23T21:12:13.472Z"
+generated_at: "2026-11-23T21:16:12.292Z"
 status: "active"
 ---
 

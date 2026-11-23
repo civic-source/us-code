@@ -3,9 +3,9 @@ title: "Section 10812 - Increase in duties on goods imported from the Russian Fe
 usc_title: 22
 usc_section: "10812"
 chapter: 115
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "22 U.S.C. § 10812"
-generated_at: "2026-11-23T21:11:01.783Z"
+generated_at: "2026-11-23T21:15:05.599Z"
 status: "active"
 ---
 

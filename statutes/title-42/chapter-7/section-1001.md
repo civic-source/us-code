@@ -3,9 +3,9 @@ title: "Section 1001 - Basic entitlement to benefits"
 usc_title: 42
 usc_section: "1001"
 chapter: 7
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1001"
-generated_at: "2026-11-23T21:11:59.074Z"
+generated_at: "2026-11-23T21:16:00.265Z"
 status: "active"
 ---
 

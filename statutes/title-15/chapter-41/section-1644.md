@@ -3,9 +3,9 @@ title: "Section 1644 - Fraudulent use of credit cards; penalties"
 usc_title: 15
 usc_section: "1644"
 chapter: 41
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 1644"
-generated_at: "2026-11-23T21:10:40.258Z"
+generated_at: "2026-11-23T21:14:39.036Z"
 status: "active"
 ---
 

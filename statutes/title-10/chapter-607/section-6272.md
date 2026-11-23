@@ -3,9 +3,9 @@ title: "Section 6272 - Reprogramming"
 usc_title: 10
 usc_section: "6272"
 chapter: 607
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 6272"
-generated_at: "2026-11-23T21:10:33.995Z"
+generated_at: "2026-11-23T21:14:25.172Z"
 status: "active"
 ---
 

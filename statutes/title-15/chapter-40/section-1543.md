@@ -3,9 +3,9 @@ title: "Section 1543 - Task force on job repatriation and manufacturing growth"
 usc_title: 15
 usc_section: "1543"
 chapter: 40
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "15 U.S.C. § 1543"
-generated_at: "2026-11-23T21:10:40.244Z"
+generated_at: "2026-11-23T21:14:38.984Z"
 status: "active"
 ---
 

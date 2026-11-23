@@ -3,9 +3,9 @@ title: "Section 3505b - Functions and duties of Deputy Assistant Secretary for P
 usc_title: 42
 usc_section: "3505b"
 chapter: 43
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 3505b"
-generated_at: "2026-11-23T21:12:00.622Z"
+generated_at: "2026-11-23T21:16:01.441Z"
 status: "active"
 ---
 

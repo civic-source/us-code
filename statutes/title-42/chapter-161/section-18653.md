@@ -3,9 +3,9 @@ title: "Section 18653 - Office of Science Biological Threat Preparedness Researc
 usc_title: 42
 usc_section: "18653"
 chapter: 161
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 18653"
-generated_at: "2026-11-23T21:12:02.191Z"
+generated_at: "2026-11-23T21:16:02.990Z"
 status: "active"
 ---
 

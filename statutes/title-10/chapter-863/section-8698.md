@@ -3,9 +3,9 @@ title: "Section 8698 - Roles and responsibilities relating to sustainment and re
 usc_title: 10
 usc_section: "8698"
 chapter: 863
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 8698"
-generated_at: "2026-11-23T21:10:34.105Z"
+generated_at: "2026-11-23T21:14:25.402Z"
 status: "active"
 ---
 

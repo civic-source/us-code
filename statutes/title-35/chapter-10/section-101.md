@@ -3,9 +3,9 @@ title: "Section 101 - Inventions patentable"
 usc_title: 35
 usc_section: "101"
 chapter: 10
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "35 U.S.C. § 101"
-generated_at: "2026-11-23T21:11:23.040Z"
+generated_at: "2026-11-23T21:15:24.509Z"
 status: "active"
 ---
 

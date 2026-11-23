@@ -3,9 +3,9 @@ title: "Section 1591c - Expiration date; exception"
 usc_title: 42
 usc_section: "1591c"
 chapter: 9
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "42 U.S.C. § 1591c"
-generated_at: "2026-11-23T21:12:00.050Z"
+generated_at: "2026-11-23T21:16:01.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1455 - Fiscal provisions"
 usc_title: 8
 usc_section: "1455"
 chapter: 12
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "8 U.S.C. § 1455"
-generated_at: "2026-11-23T21:10:26.769Z"
+generated_at: "2026-11-23T21:14:12.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18506 - Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(
 usc_title: 10
 usc_section: "18506"
 chapter: 1805
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "10 U.S.C. § 18506"
-generated_at: "2026-11-23T21:10:34.236Z"
+generated_at: "2026-11-23T21:14:25.665Z"
 status: "repealed"
 ---
 

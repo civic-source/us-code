@@ -3,9 +3,9 @@ title: "Section 8067 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8067"
 chapter: 70
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "20 U.S.C. § 8067"
-generated_at: "2026-11-23T21:10:44.806Z"
+generated_at: "2026-11-23T21:14:50.308Z"
 status: "repealed"
 ---
 

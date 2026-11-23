@@ -3,9 +3,9 @@ title: "Section 1589a - Enforcement authority of customs officers"
 usc_title: 19
 usc_section: "1589a"
 chapter: 4
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "19 U.S.C. § 1589a"
-generated_at: "2026-11-23T21:10:42.975Z"
+generated_at: "2026-11-23T21:14:46.088Z"
 status: "active"
 ---
 

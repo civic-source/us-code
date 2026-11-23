@@ -3,9 +3,9 @@ title: "Section 542 - Assistant United States attorneys"
 usc_title: 28
 usc_section: "542"
 chapter: 35
-current_through: "PL 119-120"
+current_through: "PL 119-121"
 classification: "28 U.S.C. § 542"
-generated_at: "2026-11-23T21:11:05.748Z"
+generated_at: "2026-11-23T21:15:10.851Z"
 status: "active"
 ---
 
