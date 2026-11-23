@@ -3,9 +3,9 @@ title: "Section 13 - Transferred"
 usc_title: 2
 usc_section: "13"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 13"
-generated_at: "2026-11-23T21:20:17.836Z"
+generated_at: "2026-11-23T21:22:37.923Z"
 status: "transferred"
 ---
 

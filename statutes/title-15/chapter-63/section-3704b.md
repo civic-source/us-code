@@ -3,9 +3,9 @@ title: "Section 3704b - National Technical Information Service"
 usc_title: 15
 usc_section: "3704b"
 chapter: 63
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 3704b"
-generated_at: "2026-11-23T21:20:45.271Z"
+generated_at: "2026-11-23T21:22:58.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 328 - Payment for care and treatment"
 usc_title: 24
 usc_section: "328"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "24 U.S.C. § 328"
-generated_at: "2026-11-23T21:21:00.643Z"
+generated_at: "2026-11-23T21:23:13.415Z"
 status: "active"
 ---
 

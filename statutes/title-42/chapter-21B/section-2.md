@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-11-23T21:21:45.653Z"
+generated_at: "2026-11-23T21:23:55.258Z"
 status: "active"
 ---
 

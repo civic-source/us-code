@@ -3,9 +3,9 @@ title: "Section 44739 - Pets on airplanes"
 usc_title: 49
 usc_section: "44739"
 chapter: 447
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 44739"
-generated_at: "2026-11-23T21:21:54.684Z"
+generated_at: "2026-11-23T21:24:11.374Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3293 - Agricultural fellowship program for middle income countri
 usc_title: 7
 usc_section: "3293"
 chapter: 64
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 3293"
-generated_at: "2026-11-23T21:20:28.084Z"
+generated_at: "2026-11-23T21:22:46.245Z"
 status: "active"
 ---
 

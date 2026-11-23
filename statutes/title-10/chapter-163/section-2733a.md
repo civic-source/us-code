@@ -3,9 +3,9 @@ title: "Section 2733a - Medical malpractice claims by members of the uniformed s
 usc_title: 10
 usc_section: "2733a"
 chapter: 163
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2733a"
-generated_at: "2026-11-23T21:20:35.003Z"
+generated_at: "2026-11-23T21:22:51.720Z"
 status: "active"
 ---
 

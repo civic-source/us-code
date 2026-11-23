@@ -3,9 +3,9 @@ title: "Section 5006 - Repealed. Pub. L. 98–473, title II, § 218(a)(8) , Oct.
 usc_title: 18
 usc_section: "5006"
 chapter: 402
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 5006"
-generated_at: "2026-11-23T21:20:48.560Z"
+generated_at: "2026-11-23T21:23:04.260Z"
 status: "repealed"
 ---
 

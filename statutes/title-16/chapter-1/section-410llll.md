@@ -3,9 +3,9 @@ title: "Section 410llll - Designation of Chiricahua National Park, Arizona"
 usc_title: 16
 usc_section: "410llll"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 410llll"
-generated_at: "2026-11-23T21:20:54.298Z"
+generated_at: "2026-11-23T21:23:11.061Z"
 status: "active"
 ---
 

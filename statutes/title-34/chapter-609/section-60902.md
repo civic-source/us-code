@@ -3,9 +3,9 @@ title: "Section 60902 - Application"
 usc_title: 34
 usc_section: "60902"
 chapter: 609
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 60902"
-generated_at: "2026-11-23T21:21:25.019Z"
+generated_at: "2026-11-23T21:23:33.682Z"
 status: "active"
 ---
 

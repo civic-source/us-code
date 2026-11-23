@@ -3,9 +3,9 @@ title: "Section 4281 - Small aircraft on nonestablished lines"
 usc_title: 26
 usc_section: "4281"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 4281"
-generated_at: "2026-11-23T21:21:20.127Z"
+generated_at: "2026-11-23T21:23:29.422Z"
 status: "active"
 ---
 

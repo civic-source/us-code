@@ -3,9 +3,9 @@ title: "Section 7623 - Combating HIV/AIDS, tuberculosis, and malaria by strength
 usc_title: 22
 usc_section: "7623"
 chapter: 83
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 7623"
-generated_at: "2026-11-23T21:21:08.479Z"
+generated_at: "2026-11-23T21:23:19.526Z"
 status: "active"
 ---
 

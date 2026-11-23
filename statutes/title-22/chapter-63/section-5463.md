@@ -3,9 +3,9 @@ title: "Section 5463 - Encouraging voluntary assistance for Poland and Hungary"
 usc_title: 22
 usc_section: "5463"
 chapter: 63
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 5463"
-generated_at: "2026-11-23T21:21:08.380Z"
+generated_at: "2026-11-23T21:23:19.440Z"
 status: "active"
 ---
 

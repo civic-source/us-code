@@ -3,9 +3,9 @@ title: "Section 278 - Repealed. Pub. L. 90–280, § 1 , Mar. 30, 1968 , 82 Stat
 usc_title: 25
 usc_section: "278"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "25 U.S.C. § 278"
-generated_at: "2026-11-23T21:21:02.127Z"
+generated_at: "2026-11-23T21:23:14.525Z"
 status: "repealed"
 ---
 

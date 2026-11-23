@@ -3,9 +3,9 @@ title: "Section 4613 - Critical capital levels"
 usc_title: 12
 usc_section: "4613"
 chapter: 46
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 4613"
-generated_at: "2026-11-23T21:20:41.609Z"
+generated_at: "2026-11-23T21:23:01.173Z"
 status: "active"
 ---
 

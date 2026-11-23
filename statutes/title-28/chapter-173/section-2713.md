@@ -3,9 +3,9 @@ title: "Section 2713 - Trial of ownership of property"
 usc_title: 28
 usc_section: "2713"
 chapter: 173
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "28 U.S.C. § 2713"
-generated_at: "2026-11-23T21:21:11.409Z"
+generated_at: "2026-11-23T21:23:22.499Z"
 status: "active"
 ---
 

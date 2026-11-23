@@ -3,9 +3,9 @@ title: "Section 1249 - Gain from certain sales or exchanges of patents, etc., to
 usc_title: 26
 usc_section: "1249"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 1249"
-generated_at: "2026-11-23T21:21:19.928Z"
+generated_at: "2026-11-23T21:23:29.243Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6371c - State plans"
 usc_title: 42
 usc_section: "6371c"
 chapter: 77
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 6371c"
-generated_at: "2026-11-23T21:21:46.136Z"
+generated_at: "2026-11-23T21:23:55.567Z"
 status: "active"
 ---
 

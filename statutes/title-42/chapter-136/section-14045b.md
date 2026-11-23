@@ -3,9 +3,9 @@ title: "Section 14045b - Transferred"
 usc_title: 42
 usc_section: "14045b"
 chapter: 136
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 14045b"
-generated_at: "2026-11-23T21:21:46.812Z"
+generated_at: "2026-11-23T21:23:56.250Z"
 status: "transferred"
 ---
 

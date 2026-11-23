@@ -3,9 +3,9 @@ title: "Section 19313 - National Laboratory non-Federal employee outside employm
 usc_title: 42
 usc_section: "19313"
 chapter: 163
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 19313"
-generated_at: "2026-11-23T21:21:47.073Z"
+generated_at: "2026-11-23T21:23:56.577Z"
 status: "active"
 ---
 

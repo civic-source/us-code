@@ -3,9 +3,9 @@ title: "Section 5116 - Status of overdue reports"
 usc_title: 14
 usc_section: "5116"
 chapter: 51
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 5116"
-generated_at: "2026-11-23T21:20:38.331Z"
+generated_at: "2026-11-23T21:22:54.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 374 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(19) , N
 usc_title: 26
 usc_section: "374"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 374"
-generated_at: "2026-11-23T21:21:19.503Z"
+generated_at: "2026-11-23T21:23:28.881Z"
 status: "repealed"
 ---
 

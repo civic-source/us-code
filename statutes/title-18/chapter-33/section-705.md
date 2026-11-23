@@ -3,9 +3,9 @@ title: "Section 705 - Badge or medal of veterans’ organizations"
 usc_title: 18
 usc_section: "705"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 705"
-generated_at: "2026-11-23T21:20:48.301Z"
+generated_at: "2026-11-23T21:23:04.030Z"
 status: "active"
 ---
 

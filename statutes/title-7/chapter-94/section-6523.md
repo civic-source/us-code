@@ -3,9 +3,9 @@ title: "Section 6523 - National organic certification cost-share program"
 usc_title: 7
 usc_section: "6523"
 chapter: 94
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 6523"
-generated_at: "2026-11-23T21:20:28.185Z"
+generated_at: "2026-11-23T21:22:46.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 625 - Prohibition of unspecified use"
 usc_title: 30
 usc_section: "625"
 chapter: 16
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 625"
-generated_at: "2026-11-23T21:21:11.941Z"
+generated_at: "2026-11-23T21:23:21.560Z"
 status: "active"
 ---
 

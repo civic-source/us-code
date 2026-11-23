@@ -3,9 +3,9 @@ title: "Section 5320 - Repealed. Pub. L. 112–141, div. B, § 20002(a) , July 6
 usc_title: 49
 usc_section: "5320"
 chapter: 53
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 5320"
-generated_at: "2026-11-23T21:21:54.293Z"
+generated_at: "2026-11-23T21:24:10.790Z"
 status: "repealed"
 ---
 

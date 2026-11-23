@@ -3,9 +3,9 @@ title: "Section 1732 - Portfolio acquisition executive"
 usc_title: 10
 usc_section: "1732"
 chapter: 87
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1732"
-generated_at: "2026-11-23T21:20:34.748Z"
+generated_at: "2026-11-23T21:22:51.501Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 231j - Waiver of annuities"
 usc_title: 45
 usc_section: "231j"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "45 U.S.C. § 231j"
-generated_at: "2026-11-23T21:21:32.343Z"
+generated_at: "2026-11-23T21:23:43.923Z"
 status: "active"
 ---
 

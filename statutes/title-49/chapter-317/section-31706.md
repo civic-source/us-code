@@ -3,9 +3,9 @@ title: "Section 31706 - Enforcement"
 usc_title: 49
 usc_section: "31706"
 chapter: 317
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 31706"
-generated_at: "2026-11-23T21:21:54.548Z"
+generated_at: "2026-11-23T21:24:11.157Z"
 status: "active"
 ---
 

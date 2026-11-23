@@ -3,9 +3,9 @@ title: "Section 1490j - Conditions on rent increases in projects receiving assis
 usc_title: 42
 usc_section: "1490j"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1490j"
-generated_at: "2026-11-23T21:21:45.525Z"
+generated_at: "2026-11-23T21:23:55.165Z"
 status: "active"
 ---
 

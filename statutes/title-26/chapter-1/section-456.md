@@ -3,9 +3,9 @@ title: "Section 456 - Prepaid dues income of certain membership organizations"
 usc_title: 26
 usc_section: "456"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 456"
-generated_at: "2026-11-23T21:21:19.634Z"
+generated_at: "2026-11-23T21:23:29.032Z"
 status: "active"
 ---
 

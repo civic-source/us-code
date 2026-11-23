@@ -3,9 +3,9 @@ title: "Section 8111A - Furnishing of health-care services to members of the Arm
 usc_title: 38
 usc_section: "8111A"
 chapter: 81
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 8111A"
-generated_at: "2026-11-23T21:21:30.307Z"
+generated_at: "2026-11-23T21:23:40.646Z"
 status: "active"
 ---
 

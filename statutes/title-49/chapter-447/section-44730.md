@@ -3,9 +3,9 @@ title: "Section 44730 - Helicopter air ambulance operations"
 usc_title: 49
 usc_section: "44730"
 chapter: 447
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 44730"
-generated_at: "2026-11-23T21:21:54.682Z"
+generated_at: "2026-11-23T21:24:11.370Z"
 status: "active"
 ---
 

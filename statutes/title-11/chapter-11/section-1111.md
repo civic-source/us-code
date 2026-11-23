@@ -3,9 +3,9 @@ title: "Section 1111 - Claims and interests"
 usc_title: 11
 usc_section: "1111"
 chapter: 11
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "11 U.S.C. § 1111"
-generated_at: "2026-11-23T21:20:37.661Z"
+generated_at: "2026-11-23T21:22:54.026Z"
 status: "active"
 ---
 

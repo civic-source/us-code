@@ -3,9 +3,9 @@ title: "Section 21d - Existing claims, locations, and entries as affected by rev
 usc_title: 16
 usc_section: "21d"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 21d"
-generated_at: "2026-11-23T21:20:54.083Z"
+generated_at: "2026-11-23T21:23:10.920Z"
 status: "active"
 ---
 

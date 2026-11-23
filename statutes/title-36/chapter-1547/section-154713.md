@@ -3,9 +3,9 @@ title: "Section 154713 - Annual report"
 usc_title: 36
 usc_section: "154713"
 chapter: 1547
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 154713"
-generated_at: "2026-11-23T21:21:27.502Z"
+generated_at: "2026-11-23T21:23:38.436Z"
 status: "active"
 ---
 

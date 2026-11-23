@@ -3,9 +3,9 @@ title: "Section 132 - Balance billing in cases of non-emergency services perform
 usc_title: 42
 usc_section: "132"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-11-23T21:21:44.688Z"
+generated_at: "2026-11-23T21:23:54.609Z"
 status: "active"
 ---
 

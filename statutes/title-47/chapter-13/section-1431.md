@@ -3,9 +3,9 @@ title: "Section 1431 - Public safety roaming and priority access"
 usc_title: 47
 usc_section: "1431"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "47 U.S.C. § 1431"
-generated_at: "2026-11-23T21:21:49.683Z"
+generated_at: "2026-11-23T21:24:00.090Z"
 status: "active"
 ---
 

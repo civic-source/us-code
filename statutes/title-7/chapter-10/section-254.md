@@ -3,9 +3,9 @@ title: "Section 254 - Penalties for noncompliance"
 usc_title: 7
 usc_section: "254"
 chapter: 10
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 254"
-generated_at: "2026-11-23T21:20:27.503Z"
+generated_at: "2026-11-23T21:22:45.847Z"
 status: "active"
 ---
 

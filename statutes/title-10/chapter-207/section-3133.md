@@ -3,9 +3,9 @@ title: "Section 3133 - Contracts for periods crossing fiscal years: severable se
 usc_title: 10
 usc_section: "3133"
 chapter: 207
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 3133"
-generated_at: "2026-11-23T21:20:35.094Z"
+generated_at: "2026-11-23T21:22:51.793Z"
 status: "active"
 ---
 

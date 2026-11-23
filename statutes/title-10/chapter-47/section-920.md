@@ -3,9 +3,9 @@ title: "Section 920 - Art. 120. Rape and sexual assault generally"
 usc_title: 10
 usc_section: "920"
 chapter: 47
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 920"
-generated_at: "2026-11-23T21:20:34.448Z"
+generated_at: "2026-11-23T21:22:51.244Z"
 status: "active"
 ---
 

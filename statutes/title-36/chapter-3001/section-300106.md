@@ -3,9 +3,9 @@ title: "Section 300106 - Emblem, badge, and brassard"
 usc_title: 36
 usc_section: "300106"
 chapter: 3001
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 300106"
-generated_at: "2026-11-23T21:21:27.541Z"
+generated_at: "2026-11-23T21:23:38.472Z"
 status: "active"
 ---
 

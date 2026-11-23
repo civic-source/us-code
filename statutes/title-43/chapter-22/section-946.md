@@ -3,9 +3,9 @@ title: "Section 946 - Right of way to canal ditch companies and irrigation or dr
 usc_title: 43
 usc_section: "946"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 946"
-generated_at: "2026-11-23T21:21:34.053Z"
+generated_at: "2026-11-23T21:23:42.689Z"
 status: "active"
 ---
 

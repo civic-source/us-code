@@ -3,9 +3,9 @@ title: "Section 2220e - Presidential report to Congress"
 usc_title: 22
 usc_section: "2220e"
 chapter: 32
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2220e"
-generated_at: "2026-11-23T21:21:08.113Z"
+generated_at: "2026-11-23T21:23:19.174Z"
 status: "active"
 ---
 

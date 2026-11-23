@@ -3,9 +3,9 @@ title: "Section 70701 - Organization"
 usc_title: 36
 usc_section: "70701"
 chapter: 707
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 70701"
-generated_at: "2026-11-23T21:21:27.385Z"
+generated_at: "2026-11-23T21:23:38.331Z"
 status: "active"
 ---
 

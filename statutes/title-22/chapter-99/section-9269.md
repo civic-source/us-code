@@ -3,9 +3,9 @@ title: "Section 9269 - Rulemaking"
 usc_title: 22
 usc_section: "9269"
 chapter: 99
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 9269"
-generated_at: "2026-11-23T21:21:08.572Z"
+generated_at: "2026-11-23T21:23:19.605Z"
 status: "active"
 ---
 

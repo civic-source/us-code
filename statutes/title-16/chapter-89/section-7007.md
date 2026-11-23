@@ -3,9 +3,9 @@ title: "Section 7007 - Rulemaking"
 usc_title: 16
 usc_section: "7007"
 chapter: 89
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 7007"
-generated_at: "2026-11-23T21:20:55.154Z"
+generated_at: "2026-11-23T21:23:11.868Z"
 status: "active"
 ---
 

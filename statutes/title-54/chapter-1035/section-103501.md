@@ -3,9 +3,9 @@ title: "Section 103501 - Establishment"
 usc_title: 54
 usc_section: "103501"
 chapter: 1035
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "54 U.S.C. § 103501"
-generated_at: "2026-11-23T21:21:56.805Z"
+generated_at: "2026-11-23T21:24:15.358Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 184 - System, group, or regional boards of adjustment"
 usc_title: 45
 usc_section: "184"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "45 U.S.C. § 184"
-generated_at: "2026-11-23T21:21:32.333Z"
+generated_at: "2026-11-23T21:23:43.914Z"
 status: "active"
 ---
 

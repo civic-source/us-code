@@ -3,9 +3,9 @@ title: "Section 1232j - Prohibition on federally sponsored testing"
 usc_title: 20
 usc_section: "1232j"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 1232j"
-generated_at: "2026-11-23T21:20:58.598Z"
+generated_at: "2026-11-23T21:23:07.880Z"
 status: "active"
 ---
 

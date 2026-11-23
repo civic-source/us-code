@@ -3,9 +3,9 @@ title: "Section 7923 - Limitations on school-based health centers"
 usc_title: 20
 usc_section: "7923"
 chapter: 70
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 7923"
-generated_at: "2026-11-23T21:20:58.953Z"
+generated_at: "2026-11-23T21:23:08.116Z"
 status: "active"
 ---
 

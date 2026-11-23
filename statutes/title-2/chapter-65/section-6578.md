@@ -3,9 +3,9 @@ title: "Section 6578 - Senate Leader’s Lecture Series"
 usc_title: 2
 usc_section: "6578"
 chapter: 65
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 6578"
-generated_at: "2026-11-23T21:20:18.169Z"
+generated_at: "2026-11-23T21:22:38.139Z"
 status: "active"
 ---
 

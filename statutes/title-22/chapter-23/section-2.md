@@ -3,9 +3,9 @@ title: "Section 2 - Coordination with transportation authorities and industry on
 usc_title: 22
 usc_section: "2"
 chapter: 23
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-11-23T21:21:08.056Z"
+generated_at: "2026-11-23T21:23:19.101Z"
 status: "active"
 ---
 

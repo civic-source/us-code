@@ -3,9 +3,9 @@ title: "Section 60 - Stationery for mineral surveys"
 usc_title: 43
 usc_section: "60"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 60"
-generated_at: "2026-11-23T21:21:33.917Z"
+generated_at: "2026-11-23T21:23:42.598Z"
 status: "active"
 ---
 

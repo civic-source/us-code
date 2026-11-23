@@ -3,9 +3,9 @@ title: "Section 4982 - Fees charged and collected"
 usc_title: 10
 usc_section: "4982"
 chapter: 389
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 4982"
-generated_at: "2026-11-23T21:20:35.283Z"
+generated_at: "2026-11-23T21:22:51.945Z"
 status: "active"
 ---
 

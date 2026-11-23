@@ -3,9 +3,9 @@ title: "Section 392a - Provisions of section 392 extended to additional lands"
 usc_title: 16
 usc_section: "392a"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 392a"
-generated_at: "2026-11-23T21:20:54.153Z"
+generated_at: "2026-11-23T21:23:10.974Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4471 - Imposition of tax"
 usc_title: 26
 usc_section: "4471"
 chapter: 36
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 4471"
-generated_at: "2026-11-23T21:21:20.131Z"
+generated_at: "2026-11-23T21:23:29.428Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5558 - Authority of enforcement officers"
 usc_title: 26
 usc_section: "5558"
 chapter: 51
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 5558"
-generated_at: "2026-11-23T21:21:20.193Z"
+generated_at: "2026-11-23T21:23:29.498Z"
 status: "active"
 ---
 

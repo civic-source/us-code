@@ -3,9 +3,9 @@ title: "Section 53507 - Nontaxation of deposits"
 usc_title: 46
 usc_section: "53507"
 chapter: 535
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 53507"
-generated_at: "2026-11-23T21:21:50.737Z"
+generated_at: "2026-11-23T21:24:03.304Z"
 status: "active"
 ---
 

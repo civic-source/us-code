@@ -3,9 +3,9 @@ title: "Section 459j - Canaveral National Seashore; establishment; boundary; bou
 usc_title: 16
 usc_section: "459j"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 459j"
-generated_at: "2026-11-23T21:20:54.382Z"
+generated_at: "2026-11-23T21:23:11.103Z"
 status: "active"
 ---
 

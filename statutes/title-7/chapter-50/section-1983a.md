@@ -3,9 +3,9 @@ title: "Section 1983a - Prompt approval of loans and loan guarantees"
 usc_title: 7
 usc_section: "1983a"
 chapter: 50
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 1983a"
-generated_at: "2026-11-23T21:20:27.826Z"
+generated_at: "2026-11-23T21:22:46.110Z"
 status: "active"
 ---
 

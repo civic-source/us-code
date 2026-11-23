@@ -3,9 +3,9 @@ title: "Section 1440 - Annuities not subject to legal process"
 usc_title: 10
 usc_section: "1440"
 chapter: 73
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1440"
-generated_at: "2026-11-23T21:20:34.653Z"
+generated_at: "2026-11-23T21:22:51.426Z"
 status: "active"
 ---
 

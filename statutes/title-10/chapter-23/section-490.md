@@ -3,9 +3,9 @@ title: "Section 490 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(10)(A
 usc_title: 10
 usc_section: "490"
 chapter: 23
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 490"
-generated_at: "2026-11-23T21:20:34.339Z"
+generated_at: "2026-11-23T21:22:51.102Z"
 status: "repealed"
 ---
 

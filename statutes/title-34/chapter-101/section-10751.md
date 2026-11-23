@@ -3,9 +3,9 @@ title: "Section 10751 - Grant authorization"
 usc_title: 34
 usc_section: "10751"
 chapter: 101
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 10751"
-generated_at: "2026-11-23T21:21:24.870Z"
+generated_at: "2026-11-23T21:23:33.538Z"
 status: "active"
 ---
 

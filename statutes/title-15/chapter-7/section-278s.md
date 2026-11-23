@@ -3,9 +3,9 @@ title: "Section 278s - Manufacturing USA"
 usc_title: 15
 usc_section: "278s"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 278s"
-generated_at: "2026-11-23T21:20:44.840Z"
+generated_at: "2026-11-23T21:22:57.811Z"
 status: "active"
 ---
 

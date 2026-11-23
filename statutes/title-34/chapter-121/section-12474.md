@@ -3,9 +3,9 @@ title: "Section 12474 - Collaborative grants to increase the long-term stability
 usc_title: 34
 usc_section: "12474"
 chapter: 121
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 12474"
-generated_at: "2026-11-23T21:21:24.935Z"
+generated_at: "2026-11-23T21:23:33.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 331 - Centers of expertise for Coast Guard prevention and respon
 usc_title: 14
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 331"
-generated_at: "2026-11-23T21:20:38.202Z"
+generated_at: "2026-11-23T21:22:54.469Z"
 status: "active"
 ---
 

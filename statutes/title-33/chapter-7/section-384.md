@@ -3,9 +3,9 @@ title: "Section 384 - Condemnation of piratical vessels"
 usc_title: 33
 usc_section: "384"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 384"
-generated_at: "2026-11-23T21:21:22.997Z"
+generated_at: "2026-11-23T21:23:34.702Z"
 status: "active"
 ---
 

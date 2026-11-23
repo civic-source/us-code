@@ -3,9 +3,9 @@ title: "Section 133 - Repealed. July 13, 1949, ch. 307 , 63 Stat. 410"
 usc_title: 21
 usc_section: "133"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 133"
-generated_at: "2026-11-23T21:21:05.012Z"
+generated_at: "2026-11-23T21:23:16.425Z"
 status: "repealed"
 ---
 

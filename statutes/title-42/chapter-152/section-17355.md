@@ -3,9 +3,9 @@ title: "Section 17355 - Powers of the Foundation; related provisions"
 usc_title: 42
 usc_section: "17355"
 chapter: 152
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 17355"
-generated_at: "2026-11-23T21:21:46.994Z"
+generated_at: "2026-11-23T21:23:56.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-11-23T21:21:05.277Z"
+generated_at: "2026-11-23T21:23:16.614Z"
 status: "active"
 ---
 

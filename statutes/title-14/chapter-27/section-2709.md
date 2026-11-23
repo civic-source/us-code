@@ -3,9 +3,9 @@ title: "Section 2709 - Procurement and sale of stores to members and civilian em
 usc_title: 14
 usc_section: "2709"
 chapter: 27
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 2709"
-generated_at: "2026-11-23T21:20:38.296Z"
+generated_at: "2026-11-23T21:22:54.529Z"
 status: "active"
 ---
 

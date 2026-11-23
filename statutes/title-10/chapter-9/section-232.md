@@ -3,9 +3,9 @@ title: "Section 232 - Repealed. Pub. L. 112–239, div. A, title X, § 1081(1)(A
 usc_title: 10
 usc_section: "232"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 232"
-generated_at: "2026-11-23T21:20:34.293Z"
+generated_at: "2026-11-23T21:22:51.043Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1087nn - Determination of student aid index"
 usc_title: 20
 usc_section: "1087nn"
 chapter: 28
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 1087nn"
-generated_at: "2026-11-23T21:20:58.456Z"
+generated_at: "2026-11-23T21:23:07.780Z"
 status: "active"
 ---
 

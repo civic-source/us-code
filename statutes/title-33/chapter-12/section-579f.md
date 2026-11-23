@@ -3,9 +3,9 @@ title: "Section 579f - Budgetary evaluation metrics and transparency; public par
 usc_title: 33
 usc_section: "579f"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 579f"
-generated_at: "2026-11-23T21:21:23.035Z"
+generated_at: "2026-11-23T21:23:34.753Z"
 status: "active"
 ---
 

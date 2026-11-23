@@ -3,9 +3,9 @@ title: "Section 4304 - Licenses to enemy or ally of enemy insurance or reinsuran
 usc_title: 50
 usc_section: "4304"
 chapter: 53
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 4304"
-generated_at: "2026-11-23T21:21:52.090Z"
+generated_at: "2026-11-23T21:24:06.416Z"
 status: "active"
 ---
 

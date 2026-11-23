@@ -3,9 +3,9 @@ title: "Section 11364a - Availability of amounts recaptured from appropriated fu
 usc_title: 42
 usc_section: "11364a"
 chapter: 119
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 11364a"
-generated_at: "2026-11-23T21:21:46.615Z"
+generated_at: "2026-11-23T21:23:56.065Z"
 status: "active"
 ---
 

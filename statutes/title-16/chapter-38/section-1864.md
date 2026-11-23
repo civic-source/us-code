@@ -3,9 +3,9 @@ title: "Section 1864 - Repealed. Pub. L. 117–328, div. S, title II, § 203(a) 
 usc_title: 16
 usc_section: "1864"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 1864"
-generated_at: "2026-11-23T21:20:54.962Z"
+generated_at: "2026-11-23T21:23:11.675Z"
 status: "repealed"
 ---
 

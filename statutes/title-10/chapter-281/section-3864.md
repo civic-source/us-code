@@ -3,9 +3,9 @@ title: "Section 3864 - Assumption of uninsurable risk on certain contracts"
 usc_title: 10
 usc_section: "3864"
 chapter: 281
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 3864"
-generated_at: "2026-11-23T21:20:35.163Z"
+generated_at: "2026-11-23T21:22:51.846Z"
 status: "active"
 ---
 

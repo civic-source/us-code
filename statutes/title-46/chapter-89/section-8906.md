@@ -3,9 +3,9 @@ title: "Section 8906 - Penalty"
 usc_title: 46
 usc_section: "8906"
 chapter: 89
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 8906"
-generated_at: "2026-11-23T21:21:50.575Z"
+generated_at: "2026-11-23T21:24:03.148Z"
 status: "active"
 ---
 

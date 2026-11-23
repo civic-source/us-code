@@ -3,9 +3,9 @@ title: "Section 57106 - Maintenance, improvement, and operation of vessels"
 usc_title: 46
 usc_section: "57106"
 chapter: 571
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 57106"
-generated_at: "2026-11-23T21:21:50.780Z"
+generated_at: "2026-11-23T21:24:03.368Z"
 status: "active"
 ---
 

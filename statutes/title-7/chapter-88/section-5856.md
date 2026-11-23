@@ -3,9 +3,9 @@ title: "Section 5856 - Improvements to United States Drought Monitor"
 usc_title: 7
 usc_section: "5856"
 chapter: 88
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 5856"
-generated_at: "2026-11-23T21:20:28.155Z"
+generated_at: "2026-11-23T21:22:46.296Z"
 status: "active"
 ---
 

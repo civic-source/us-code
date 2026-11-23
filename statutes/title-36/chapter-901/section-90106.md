@@ -3,9 +3,9 @@ title: "Section 90106 - Principal office"
 usc_title: 36
 usc_section: "90106"
 chapter: 901
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 90106"
-generated_at: "2026-11-23T21:21:27.400Z"
+generated_at: "2026-11-23T21:23:38.345Z"
 status: "active"
 ---
 

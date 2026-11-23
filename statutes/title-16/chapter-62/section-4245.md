@@ -3,9 +3,9 @@ title: "Section 4245 - Authorization of appropriations"
 usc_title: 16
 usc_section: "4245"
 chapter: 62
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 4245"
-generated_at: "2026-11-23T21:20:55.085Z"
+generated_at: "2026-11-23T21:23:11.797Z"
 status: "active"
 ---
 

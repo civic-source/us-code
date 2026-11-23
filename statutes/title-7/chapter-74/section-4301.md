@@ -3,9 +3,9 @@ title: "Section 4301 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "4301"
 chapter: 74
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 4301"
-generated_at: "2026-11-23T21:20:28.111Z"
+generated_at: "2026-11-23T21:22:46.261Z"
 status: "active"
 ---
 

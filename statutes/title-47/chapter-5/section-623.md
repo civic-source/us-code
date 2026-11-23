@@ -3,9 +3,9 @@ title: "Section 623 - Configuration of multi-line telephone systems for direct d
 usc_title: 47
 usc_section: "623"
 chapter: 5
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "47 U.S.C. § 623"
-generated_at: "2026-11-23T21:21:49.661Z"
+generated_at: "2026-11-23T21:24:00.056Z"
 status: "active"
 ---
 

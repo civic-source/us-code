@@ -3,9 +3,9 @@ title: "Section 4910 - Nonduplication"
 usc_title: 15
 usc_section: "4910"
 chapter: 75
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 4910"
-generated_at: "2026-11-23T21:20:45.311Z"
+generated_at: "2026-11-23T21:22:58.397Z"
 status: "active"
 ---
 

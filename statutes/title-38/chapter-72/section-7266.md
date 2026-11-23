@@ -3,9 +3,9 @@ title: "Section 7266 - Notice of appeal"
 usc_title: 38
 usc_section: "7266"
 chapter: 72
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 7266"
-generated_at: "2026-11-23T21:21:30.251Z"
+generated_at: "2026-11-23T21:23:40.599Z"
 status: "active"
 ---
 

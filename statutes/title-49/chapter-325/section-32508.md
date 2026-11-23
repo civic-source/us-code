@@ -3,9 +3,9 @@ title: "Section 32508 - Civil actions by owners of passenger motor vehicles"
 usc_title: 49
 usc_section: "32508"
 chapter: 325
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 32508"
-generated_at: "2026-11-23T21:21:54.554Z"
+generated_at: "2026-11-23T21:24:11.167Z"
 status: "active"
 ---
 

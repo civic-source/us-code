@@ -3,9 +3,9 @@ title: "Section 6802 - Obligations with respect to disclosures of personal infor
 usc_title: 15
 usc_section: "6802"
 chapter: 94
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 6802"
-generated_at: "2026-11-23T21:20:45.354Z"
+generated_at: "2026-11-23T21:22:58.448Z"
 status: "active"
 ---
 

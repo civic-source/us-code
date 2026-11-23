@@ -3,9 +3,9 @@ title: "Section 1265 - In-place toxic pollutants"
 usc_title: 33
 usc_section: "1265"
 chapter: 26
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 1265"
-generated_at: "2026-11-23T21:21:23.101Z"
+generated_at: "2026-11-23T21:23:34.854Z"
 status: "active"
 ---
 

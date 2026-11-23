@@ -3,9 +3,9 @@ title: "Section 1 - Alaska Native Vietnam era veterans land allotment"
 usc_title: 43
 usc_section: "1"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-11-23T21:21:34.144Z"
+generated_at: "2026-11-23T21:23:42.736Z"
 status: "active"
 ---
 

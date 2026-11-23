@@ -3,9 +3,9 @@ title: "Section 152103 - Purposes"
 usc_title: 36
 usc_section: "152103"
 chapter: 1521
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 152103"
-generated_at: "2026-11-23T21:21:27.462Z"
+generated_at: "2026-11-23T21:23:38.403Z"
 status: "active"
 ---
 

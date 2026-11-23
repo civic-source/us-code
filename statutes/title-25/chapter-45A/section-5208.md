@@ -3,9 +3,9 @@ title: "Section 5208 - Application of provisions to Osage County"
 usc_title: 25
 usc_section: "5208"
 chapter: 45
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "25 U.S.C. § 5208"
-generated_at: "2026-11-23T21:21:02.469Z"
+generated_at: "2026-11-23T21:23:14.803Z"
 status: "active"
 ---
 

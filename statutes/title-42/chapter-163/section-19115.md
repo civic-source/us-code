@@ -3,9 +3,9 @@ title: "Section 19115 - Scaling innovations in PreK–12 STEM education"
 usc_title: 42
 usc_section: "19115"
 chapter: 163
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 19115"
-generated_at: "2026-11-23T21:21:47.062Z"
+generated_at: "2026-11-23T21:23:56.558Z"
 status: "active"
 ---
 

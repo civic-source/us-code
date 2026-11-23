@@ -3,9 +3,9 @@ title: "Section 12106 - Formula for grants"
 usc_title: 34
 usc_section: "12106"
 chapter: 121
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 12106"
-generated_at: "2026-11-23T21:21:24.908Z"
+generated_at: "2026-11-23T21:23:33.559Z"
 status: "active"
 ---
 

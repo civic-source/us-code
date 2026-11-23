@@ -3,9 +3,9 @@ title: "Section 1397aa - Purpose; State child health plans"
 usc_title: 42
 usc_section: "1397aa"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1397aa"
-generated_at: "2026-11-23T21:21:45.452Z"
+generated_at: "2026-11-23T21:23:55.101Z"
 status: "active"
 ---
 

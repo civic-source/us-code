@@ -3,9 +3,9 @@ title: "Section 3508 - Custody and return of foreign witnesses"
 usc_title: 18
 usc_section: "3508"
 chapter: 223
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 3508"
-generated_at: "2026-11-23T21:20:48.488Z"
+generated_at: "2026-11-23T21:23:04.209Z"
 status: "active"
 ---
 

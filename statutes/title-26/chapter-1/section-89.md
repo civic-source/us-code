@@ -3,9 +3,9 @@ title: "Section 89 - Repealed. Pub. L. 101–140, title II, § 202(a) , Nov. 8, 
 usc_title: 26
 usc_section: "89"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 89"
-generated_at: "2026-11-23T21:21:19.273Z"
+generated_at: "2026-11-23T21:23:28.692Z"
 status: "repealed"
 ---
 

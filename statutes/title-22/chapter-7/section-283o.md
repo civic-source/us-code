@@ -3,9 +3,9 @@ title: "Section 283o - Increase in authorized capital stock and additional subsc
 usc_title: 22
 usc_section: "283o"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 283o"
-generated_at: "2026-11-23T21:21:07.954Z"
+generated_at: "2026-11-23T21:23:18.964Z"
 status: "active"
 ---
 

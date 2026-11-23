@@ -3,9 +3,9 @@ title: "Section 2504 - Relationship of trade agreements to United States law"
 usc_title: 19
 usc_section: "2504"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 2504"
-generated_at: "2026-11-23T21:20:50.323Z"
+generated_at: "2026-11-23T21:23:05.650Z"
 status: "active"
 ---
 

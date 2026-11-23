@@ -3,9 +3,9 @@ title: "Section 1983 - Special conditions and limitations on loans"
 usc_title: 7
 usc_section: "1983"
 chapter: 50
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 1983"
-generated_at: "2026-11-23T21:20:27.825Z"
+generated_at: "2026-11-23T21:22:46.110Z"
 status: "active"
 ---
 

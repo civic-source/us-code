@@ -3,9 +3,9 @@ title: "Section 2684a - Capital Investment Fund"
 usc_title: 22
 usc_section: "2684a"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2684a"
-generated_at: "2026-11-23T21:21:08.235Z"
+generated_at: "2026-11-23T21:23:19.293Z"
 status: "active"
 ---
 

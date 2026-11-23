@@ -3,9 +3,9 @@ title: "Section 30 - Adverse claims; oath of claimants; requisites; waiver; stay
 usc_title: 30
 usc_section: "30"
 chapter: 2
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 30"
-generated_at: "2026-11-23T21:21:11.910Z"
+generated_at: "2026-11-23T21:23:21.525Z"
 status: "active"
 ---
 

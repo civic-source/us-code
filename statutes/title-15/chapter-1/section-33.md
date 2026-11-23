@@ -3,9 +3,9 @@ title: "Section 33 - Repealed. Pub. L. 91–452, title II , §§ 209, 210, Oct. 
 usc_title: 15
 usc_section: "33"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 33"
-generated_at: "2026-11-23T21:20:44.592Z"
+generated_at: "2026-11-23T21:22:57.567Z"
 status: "repealed"
 ---
 

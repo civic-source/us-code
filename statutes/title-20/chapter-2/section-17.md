@@ -3,9 +3,9 @@ title: "Section 17 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 20
 usc_section: "17"
 chapter: 2
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 17"
-generated_at: "2026-11-23T21:20:58.116Z"
+generated_at: "2026-11-23T21:23:07.549Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8804 - Ships’ stores: sale of goods and services"
 usc_title: 10
 usc_section: "8804"
 chapter: 879
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8804"
-generated_at: "2026-11-23T21:20:35.523Z"
+generated_at: "2026-11-23T21:22:52.171Z"
 status: "active"
 ---
 

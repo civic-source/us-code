@@ -3,9 +3,9 @@ title: "Section 150412 - Service of process"
 usc_title: 36
 usc_section: "150412"
 chapter: 1504
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 150412"
-generated_at: "2026-11-23T21:21:27.436Z"
+generated_at: "2026-11-23T21:23:38.379Z"
 status: "active"
 ---
 

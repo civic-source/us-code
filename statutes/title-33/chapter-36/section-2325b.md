@@ -3,9 +3,9 @@ title: "Section 2325b - Materials, services, and funds for repair, restoration, 
 usc_title: 33
 usc_section: "2325b"
 chapter: 36
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 2325b"
-generated_at: "2026-11-23T21:21:23.221Z"
+generated_at: "2026-11-23T21:23:35.041Z"
 status: "active"
 ---
 

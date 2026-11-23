@@ -3,9 +3,9 @@ title: "Section 16282 - U.S. nuclear fuel security initiative"
 usc_title: 42
 usc_section: "16282"
 chapter: 149
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 16282"
-generated_at: "2026-11-23T21:21:46.913Z"
+generated_at: "2026-11-23T21:23:56.341Z"
 status: "active"
 ---
 

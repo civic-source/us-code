@@ -3,9 +3,9 @@ title: "Section 7n - Disclosure of predictive modeling and other analytics techn
 usc_title: 42
 usc_section: "7n"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 7n"
-generated_at: "2026-11-23T21:21:44.950Z"
+generated_at: "2026-11-23T21:23:54.784Z"
 status: "active"
 ---
 

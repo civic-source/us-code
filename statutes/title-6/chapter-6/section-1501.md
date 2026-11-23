@@ -3,9 +3,9 @@ title: "Section 1501 - Definitions"
 usc_title: 6
 usc_section: "1501"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "6 U.S.C. § 1501"
-generated_at: "2026-11-23T21:20:23.082Z"
+generated_at: "2026-11-23T21:22:43.599Z"
 status: "active"
 ---
 

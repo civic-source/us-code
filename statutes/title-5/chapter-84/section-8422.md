@@ -3,9 +3,9 @@ title: "Section 8422 - Deductions from pay; contributions for other service; dep
 usc_title: 5
 usc_section: "8422"
 chapter: 84
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 8422"
-generated_at: "2026-11-23T21:20:20.593Z"
+generated_at: "2026-11-23T21:22:40.501Z"
 status: "active"
 ---
 

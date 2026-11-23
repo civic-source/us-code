@@ -3,9 +3,9 @@ title: "Section 4653 - Prohibition on use of funds to relieve economic dislocati
 usc_title: 10
 usc_section: "4653"
 chapter: 363
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 4653"
-generated_at: "2026-11-23T21:20:35.238Z"
+generated_at: "2026-11-23T21:22:51.904Z"
 status: "active"
 ---
 

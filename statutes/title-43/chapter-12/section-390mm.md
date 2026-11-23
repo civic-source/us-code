@@ -3,9 +3,9 @@ title: "Section 390mm - Repayment of construction charges"
 usc_title: 43
 usc_section: "390mm"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 390mm"
-generated_at: "2026-11-23T21:21:33.964Z"
+generated_at: "2026-11-23T21:23:42.634Z"
 status: "active"
 ---
 

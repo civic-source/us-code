@@ -3,9 +3,9 @@ title: "Section 6050J - Returns relating to foreclosures and abandonments of sec
 usc_title: 26
 usc_section: "6050J"
 chapter: 61
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 6050J"
-generated_at: "2026-11-23T21:21:20.230Z"
+generated_at: "2026-11-23T21:23:29.531Z"
 status: "active"
 ---
 

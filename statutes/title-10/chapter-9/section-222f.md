@@ -3,9 +3,9 @@ title: "Section 222f - Unfunded priorities of the Under Secretary of Defense for
 usc_title: 10
 usc_section: "222f"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 222f"
-generated_at: "2026-11-23T21:20:34.290Z"
+generated_at: "2026-11-23T21:22:51.040Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 59s - Green River, Washington"
 usc_title: 33
 usc_section: "59s"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 59s"
-generated_at: "2026-11-23T21:21:22.992Z"
+generated_at: "2026-11-23T21:23:34.697Z"
 status: "active"
 ---
 

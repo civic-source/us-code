@@ -3,9 +3,9 @@ title: "Section 12895 - Other program requirements"
 usc_title: 42
 usc_section: "12895"
 chapter: 130
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 12895"
-generated_at: "2026-11-23T21:21:46.756Z"
+generated_at: "2026-11-23T21:23:56.198Z"
 status: "active"
 ---
 

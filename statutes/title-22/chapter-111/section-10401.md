@@ -3,9 +3,9 @@ title: "Section 10401 - Definitions"
 usc_title: 22
 usc_section: "10401"
 chapter: 111
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 10401"
-generated_at: "2026-11-23T21:21:08.627Z"
+generated_at: "2026-11-23T21:23:19.658Z"
 status: "active"
 ---
 

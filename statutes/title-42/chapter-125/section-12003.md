@@ -3,9 +3,9 @@ title: "Section 12003 - National goals and multi-year funding for Federal alcoho
 usc_title: 42
 usc_section: "12003"
 chapter: 125
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-11-23T21:21:46.647Z"
+generated_at: "2026-11-23T21:23:56.093Z"
 status: "active"
 ---
 

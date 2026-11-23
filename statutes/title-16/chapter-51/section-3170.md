@@ -3,9 +3,9 @@ title: "Section 3170 - Special access and access to inholdings"
 usc_title: 16
 usc_section: "3170"
 chapter: 51
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 3170"
-generated_at: "2026-11-23T21:20:55.017Z"
+generated_at: "2026-11-23T21:23:11.731Z"
 status: "active"
 ---
 

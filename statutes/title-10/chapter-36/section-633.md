@@ -3,9 +3,9 @@ title: "Section 633 - Retirement for years of service: regular and Space Force l
 usc_title: 10
 usc_section: "633"
 chapter: 36
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 633"
-generated_at: "2026-11-23T21:20:34.386Z"
+generated_at: "2026-11-23T21:22:51.160Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1990a - Refinancing of certain rural hospital debt"
 usc_title: 7
 usc_section: "1990a"
 chapter: 50
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 1990a"
-generated_at: "2026-11-23T21:20:27.833Z"
+generated_at: "2026-11-23T21:22:46.114Z"
 status: "active"
 ---
 

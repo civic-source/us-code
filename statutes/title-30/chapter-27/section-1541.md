@@ -3,9 +3,9 @@ title: "Section 1541 - Use of geothermal energy in Federal facilities"
 usc_title: 30
 usc_section: "1541"
 chapter: 27
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 1541"
-generated_at: "2026-11-23T21:21:12.018Z"
+generated_at: "2026-11-23T21:23:21.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2509 - Prohibition of certain involuntary administrative separat
 usc_title: 14
 usc_section: "2509"
 chapter: 25
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 2509"
-generated_at: "2026-11-23T21:20:38.286Z"
+generated_at: "2026-11-23T21:22:54.522Z"
 status: "active"
 ---
 

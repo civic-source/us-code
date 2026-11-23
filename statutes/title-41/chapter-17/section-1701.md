@@ -3,9 +3,9 @@ title: "Section 1701 - Cooperation with the Administrator"
 usc_title: 41
 usc_section: "1701"
 chapter: 17
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "41 U.S.C. § 1701"
-generated_at: "2026-11-23T21:21:32.867Z"
+generated_at: "2026-11-23T21:23:43.356Z"
 status: "active"
 ---
 

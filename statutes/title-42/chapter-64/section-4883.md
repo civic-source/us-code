@@ -3,9 +3,9 @@ title: "Section 4883 - Omitted"
 usc_title: 42
 usc_section: "4883"
 chapter: 64
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 4883"
-generated_at: "2026-11-23T21:21:45.939Z"
+generated_at: "2026-11-23T21:23:55.433Z"
 status: "omitted"
 ---
 

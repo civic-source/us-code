@@ -3,9 +3,9 @@ title: "Section 3515 - Performance of one-year contracts during two fiscal years
 usc_title: 42
 usc_section: "3515"
 chapter: 43
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 3515"
-generated_at: "2026-11-23T21:21:45.831Z"
+generated_at: "2026-11-23T21:23:55.373Z"
 status: "active"
 ---
 

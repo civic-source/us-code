@@ -3,9 +3,9 @@ title: "Section 1766 - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "1766"
 chapter: 87
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1766"
-generated_at: "2026-11-23T21:20:34.757Z"
+generated_at: "2026-11-23T21:22:51.508Z"
 status: "active"
 ---
 

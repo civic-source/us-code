@@ -3,9 +3,9 @@ title: "Section 3614 - Roles and responsibilities of the Office of Management an
 usc_title: 44
 usc_section: "3614"
 chapter: 36
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "44 U.S.C. § 3614"
-generated_at: "2026-11-23T21:21:33.250Z"
+generated_at: "2026-11-23T21:23:43.714Z"
 status: "active"
 ---
 

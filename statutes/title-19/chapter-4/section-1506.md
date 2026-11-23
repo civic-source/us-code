@@ -3,9 +3,9 @@ title: "Section 1506 - Allowance for abandonment and damage"
 usc_title: 19
 usc_section: "1506"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 1506"
-generated_at: "2026-11-23T21:20:50.127Z"
+generated_at: "2026-11-23T21:23:05.526Z"
 status: "active"
 ---
 

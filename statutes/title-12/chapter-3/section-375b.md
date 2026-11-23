@@ -3,9 +3,9 @@ title: "Section 375b - Extensions of credit to executive officers, directors, an
 usc_title: 12
 usc_section: "375b"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 375b"
-generated_at: "2026-11-23T21:20:40.956Z"
+generated_at: "2026-11-23T21:23:00.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 732 - Repealed. Pub. L. 92–318, title I, § 161(b)(2) , June 2
 usc_title: 20
 usc_section: "732"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 732"
-generated_at: "2026-11-23T21:20:58.225Z"
+generated_at: "2026-11-23T21:23:07.600Z"
 status: "repealed"
 ---
 

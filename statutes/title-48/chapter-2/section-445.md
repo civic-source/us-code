@@ -3,9 +3,9 @@ title: "Section 445 - Repealed. Pub. L. 86–252, § 1 , Sept. 9, 1959 , 73 Stat
 usc_title: 48
 usc_section: "445"
 chapter: 2
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 445"
-generated_at: "2026-11-23T21:21:49.001Z"
+generated_at: "2026-11-23T21:24:00.782Z"
 status: "repealed"
 ---
 

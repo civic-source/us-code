@@ -3,9 +3,9 @@ title: "Section 1092f - Early awareness and outreach of financial aid eligibilit
 usc_title: 20
 usc_section: "1092f"
 chapter: 28
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 1092f"
-generated_at: "2026-11-23T21:20:58.496Z"
+generated_at: "2026-11-23T21:23:07.819Z"
 status: "active"
 ---
 

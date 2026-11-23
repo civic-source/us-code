@@ -3,9 +3,9 @@ title: "Section 4050 - Secure firearms storage"
 usc_title: 18
 usc_section: "4050"
 chapter: 303
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 4050"
-generated_at: "2026-11-23T21:20:48.549Z"
+generated_at: "2026-11-23T21:23:04.243Z"
 status: "active"
 ---
 

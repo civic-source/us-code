@@ -3,9 +3,9 @@ title: "Section 2803 - National Geospatial Advisory Committee"
 usc_title: 43
 usc_section: "2803"
 chapter: 46
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 2803"
-generated_at: "2026-11-23T21:21:34.212Z"
+generated_at: "2026-11-23T21:23:42.785Z"
 status: "active"
 ---
 

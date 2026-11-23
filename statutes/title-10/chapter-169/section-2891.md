@@ -3,9 +3,9 @@ title: "Section 2891 - Requirements relating to contracts for provision of housi
 usc_title: 10
 usc_section: "2891"
 chapter: 169
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2891"
-generated_at: "2026-11-23T21:20:35.064Z"
+generated_at: "2026-11-23T21:22:51.768Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4312 - Presidential guidelines"
 usc_title: 22
 usc_section: "4312"
 chapter: 53
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 4312"
-generated_at: "2026-11-23T21:21:08.356Z"
+generated_at: "2026-11-23T21:23:19.419Z"
 status: "active"
 ---
 

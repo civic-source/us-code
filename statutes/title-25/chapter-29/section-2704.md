@@ -3,9 +3,9 @@ title: "Section 2704 - National Indian Gaming Commission"
 usc_title: 25
 usc_section: "2704"
 chapter: 29
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "25 U.S.C. § 2704"
-generated_at: "2026-11-23T21:21:02.359Z"
+generated_at: "2026-11-23T21:23:14.731Z"
 status: "active"
 ---
 

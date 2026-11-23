@@ -3,9 +3,9 @@ title: "Section 5326 - “Member of the House” defined"
 usc_title: 2
 usc_section: "5326"
 chapter: 53
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 5326"
-generated_at: "2026-11-23T21:20:18.134Z"
+generated_at: "2026-11-23T21:22:38.115Z"
 status: "active"
 ---
 

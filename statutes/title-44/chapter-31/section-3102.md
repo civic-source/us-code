@@ -3,9 +3,9 @@ title: "Section 3102 - Establishment of program of management"
 usc_title: 44
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "44 U.S.C. § 3102"
-generated_at: "2026-11-23T21:21:33.225Z"
+generated_at: "2026-11-23T21:23:43.698Z"
 status: "active"
 ---
 

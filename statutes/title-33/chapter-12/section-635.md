@@ -3,9 +3,9 @@ title: "Section 635 - Coast Guard anchorages"
 usc_title: 33
 usc_section: "635"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 635"
-generated_at: "2026-11-23T21:21:23.043Z"
+generated_at: "2026-11-23T21:23:34.763Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7421 - Prohibition of suits to restrain assessment or collection
 usc_title: 26
 usc_section: "7421"
 chapter: 76
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 7421"
-generated_at: "2026-11-23T21:21:20.380Z"
+generated_at: "2026-11-23T21:23:29.683Z"
 status: "active"
 ---
 

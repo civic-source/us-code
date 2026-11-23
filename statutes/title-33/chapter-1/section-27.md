@@ -3,9 +3,9 @@ title: "Section 27 - Chicago River at Chicago, Illinois"
 usc_title: 33
 usc_section: "27"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 27"
-generated_at: "2026-11-23T21:21:22.988Z"
+generated_at: "2026-11-23T21:23:34.693Z"
 status: "active"
 ---
 

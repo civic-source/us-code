@@ -3,9 +3,9 @@ title: "Section 3554 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3554"
 chapter: 35
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "44 U.S.C. § 3554"
-generated_at: "2026-11-23T21:21:33.245Z"
+generated_at: "2026-11-23T21:23:43.708Z"
 status: "active"
 ---
 

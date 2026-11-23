@@ -3,9 +3,9 @@ title: "Section 227a - Consumer education materials on how to avoid scams that r
 usc_title: 47
 usc_section: "227a"
 chapter: 5
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "47 U.S.C. § 227a"
-generated_at: "2026-11-23T21:21:49.602Z"
+generated_at: "2026-11-23T21:23:59.944Z"
 status: "active"
 ---
 

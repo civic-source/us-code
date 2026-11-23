@@ -3,9 +3,9 @@ title: "Section 5109B - Expedited treatment of returned and remanded claims"
 usc_title: 38
 usc_section: "5109B"
 chapter: 51
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 5109B"
-generated_at: "2026-11-23T21:21:30.208Z"
+generated_at: "2026-11-23T21:23:40.572Z"
 status: "active"
 ---
 

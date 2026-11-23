@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-11-23T21:21:05.020Z"
+generated_at: "2026-11-23T21:23:16.434Z"
 status: "active"
 ---
 

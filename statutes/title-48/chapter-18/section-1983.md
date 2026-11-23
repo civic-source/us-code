@@ -3,9 +3,9 @@ title: "Section 1983 - Approval of 2023 Agreement to Amend the U.S.-FSM Compact,
 usc_title: 48
 usc_section: "1983"
 chapter: 18
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 1983"
-generated_at: "2026-11-23T21:21:49.174Z"
+generated_at: "2026-11-23T21:24:01.092Z"
 status: "active"
 ---
 

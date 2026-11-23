@@ -3,9 +3,9 @@ title: "Section 1038 - Cooperation with appropriate State and other governmental
 usc_title: 21
 usc_section: "1038"
 chapter: 15
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 1038"
-generated_at: "2026-11-23T21:21:05.314Z"
+generated_at: "2026-11-23T21:23:16.644Z"
 status: "active"
 ---
 

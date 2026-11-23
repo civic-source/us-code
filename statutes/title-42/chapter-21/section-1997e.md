@@ -3,9 +3,9 @@ title: "Section 1997e - Suits by prisoners"
 usc_title: 42
 usc_section: "1997e"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1997e"
-generated_at: "2026-11-23T21:21:45.637Z"
+generated_at: "2026-11-23T21:23:55.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3551 - Definitions"
 usc_title: 31
 usc_section: "3551"
 chapter: 35
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "31 U.S.C. § 3551"
-generated_at: "2026-11-23T21:21:24.140Z"
+generated_at: "2026-11-23T21:23:32.512Z"
 status: "active"
 ---
 

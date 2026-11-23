@@ -3,9 +3,9 @@ title: "Section 60121 - General licensing authority"
 usc_title: 51
 usc_section: "60121"
 chapter: 601
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "51 U.S.C. § 60121"
-generated_at: "2026-11-23T21:21:56.355Z"
+generated_at: "2026-11-23T21:24:14.431Z"
 status: "active"
 ---
 

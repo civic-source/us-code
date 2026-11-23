@@ -3,9 +3,9 @@ title: "Section 4565a - Enhanced intelligence community support to secure United
 usc_title: 50
 usc_section: "4565a"
 chapter: 55
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 4565a"
-generated_at: "2026-11-23T21:21:52.113Z"
+generated_at: "2026-11-23T21:24:06.453Z"
 status: "active"
 ---
 

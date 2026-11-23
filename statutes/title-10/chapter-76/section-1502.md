@@ -3,9 +3,9 @@ title: "Section 1502 - Missing persons: initial report"
 usc_title: 10
 usc_section: "1502"
 chapter: 76
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1502"
-generated_at: "2026-11-23T21:20:34.682Z"
+generated_at: "2026-11-23T21:22:51.454Z"
 status: "active"
 ---
 

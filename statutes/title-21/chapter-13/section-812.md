@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-11-23T21:21:05.272Z"
+generated_at: "2026-11-23T21:23:16.611Z"
 status: "active"
 ---
 
@@ -284,6 +284,14 @@ Emergency Scheduling of GHB.—
 In general
 
 Failure to issue order
+
+Section
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

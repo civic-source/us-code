@@ -3,9 +3,9 @@ title: "Section 953 - General Advisory Committee and Scientific Advisory Subcomm
 usc_title: 16
 usc_section: "953"
 chapter: 16
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 953"
-generated_at: "2026-11-23T21:20:54.738Z"
+generated_at: "2026-11-23T21:23:11.477Z"
 status: "active"
 ---
 

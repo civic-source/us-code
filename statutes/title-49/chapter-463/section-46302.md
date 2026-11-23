@@ -3,9 +3,9 @@ title: "Section 46302 - False information"
 usc_title: 49
 usc_section: "46302"
 chapter: 463
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 46302"
-generated_at: "2026-11-23T21:21:54.725Z"
+generated_at: "2026-11-23T21:24:11.447Z"
 status: "active"
 ---
 

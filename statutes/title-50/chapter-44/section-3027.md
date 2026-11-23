@@ -3,9 +3,9 @@ title: "Section 3027 - National Intelligence Council"
 usc_title: 50
 usc_section: "3027"
 chapter: 44
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3027"
-generated_at: "2026-11-23T21:21:51.931Z"
+generated_at: "2026-11-23T21:24:06.101Z"
 status: "active"
 ---
 

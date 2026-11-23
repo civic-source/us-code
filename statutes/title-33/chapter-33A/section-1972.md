@@ -3,9 +3,9 @@ title: "Section 1972 - Genius Prize for Save Our Seas Innovations"
 usc_title: 33
 usc_section: "1972"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 1972"
-generated_at: "2026-11-23T21:21:23.186Z"
+generated_at: "2026-11-23T21:23:34.978Z"
 status: "active"
 ---
 

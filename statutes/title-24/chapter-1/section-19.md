@@ -3,9 +3,9 @@ title: "Section 19 - Tubercular hospital at Fort Bayard"
 usc_title: 24
 usc_section: "19"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "24 U.S.C. § 19"
-generated_at: "2026-11-23T21:21:00.631Z"
+generated_at: "2026-11-23T21:23:13.400Z"
 status: "active"
 ---
 

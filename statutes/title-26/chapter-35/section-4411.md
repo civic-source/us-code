@@ -3,9 +3,9 @@ title: "Section 4411 - Imposition of tax"
 usc_title: 26
 usc_section: "4411"
 chapter: 35
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 4411"
-generated_at: "2026-11-23T21:21:20.130Z"
+generated_at: "2026-11-23T21:23:29.426Z"
 status: "active"
 ---
 

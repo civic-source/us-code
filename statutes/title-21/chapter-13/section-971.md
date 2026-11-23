@@ -3,9 +3,9 @@ title: "Section 971 - Notification, suspension of shipment, and penalties with r
 usc_title: 21
 usc_section: "971"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 971"
-generated_at: "2026-11-23T21:21:05.311Z"
+generated_at: "2026-11-23T21:23:16.642Z"
 status: "active"
 ---
 

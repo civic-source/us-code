@@ -3,9 +3,9 @@ title: "Section 1022d - President’s Budget"
 usc_title: 15
 usc_section: "1022d"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 1022d"
-generated_at: "2026-11-23T21:20:45.029Z"
+generated_at: "2026-11-23T21:22:58.026Z"
 status: "active"
 ---
 

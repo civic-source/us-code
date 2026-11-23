@@ -3,9 +3,9 @@ title: "Section 8754 - Marine mammals: use for national defense purposes"
 usc_title: 10
 usc_section: "8754"
 chapter: 873
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8754"
-generated_at: "2026-11-23T21:20:35.515Z"
+generated_at: "2026-11-23T21:22:52.163Z"
 status: "active"
 ---
 

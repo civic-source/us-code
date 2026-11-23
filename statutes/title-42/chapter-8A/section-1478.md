@@ -3,9 +3,9 @@ title: "Section 1478 - Local committees to assist Secretary"
 usc_title: 42
 usc_section: "1478"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1478"
-generated_at: "2026-11-23T21:21:45.515Z"
+generated_at: "2026-11-23T21:23:55.153Z"
 status: "active"
 ---
 

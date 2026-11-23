@@ -3,9 +3,9 @@ title: "Section 6208 - Radio Free Asia"
 usc_title: 22
 usc_section: "6208"
 chapter: 71
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 6208"
-generated_at: "2026-11-23T21:21:08.412Z"
+generated_at: "2026-11-23T21:23:19.463Z"
 status: "active"
 ---
 

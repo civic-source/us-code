@@ -3,9 +3,9 @@ title: "Section 141 - Thomas Jefferson’s birthday"
 usc_title: 36
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 141"
-generated_at: "2026-11-23T21:21:27.298Z"
+generated_at: "2026-11-23T21:23:38.211Z"
 status: "active"
 ---
 

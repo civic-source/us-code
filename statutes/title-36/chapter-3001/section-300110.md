@@ -3,9 +3,9 @@ title: "Section 300110 - Annual report and audit"
 usc_title: 36
 usc_section: "300110"
 chapter: 3001
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 300110"
-generated_at: "2026-11-23T21:21:27.542Z"
+generated_at: "2026-11-23T21:23:38.472Z"
 status: "active"
 ---
 

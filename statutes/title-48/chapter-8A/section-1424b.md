@@ -3,9 +3,9 @@ title: "Section 1424b - Judge of District Court; appointment, tenure, removal, a
 usc_title: 48
 usc_section: "1424b"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 1424b"
-generated_at: "2026-11-23T21:21:49.024Z"
+generated_at: "2026-11-23T21:24:00.832Z"
 status: "active"
 ---
 

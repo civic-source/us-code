@@ -3,9 +3,9 @@ title: "Section 5424 - Rules and regulations"
 usc_title: 42
 usc_section: "5424"
 chapter: 70
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 5424"
-generated_at: "2026-11-23T21:21:46.047Z"
+generated_at: "2026-11-23T21:23:55.490Z"
 status: "active"
 ---
 

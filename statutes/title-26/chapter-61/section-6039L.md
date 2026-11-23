@@ -3,9 +3,9 @@ title: "Section 6039L - Information required from qualified opportunity zone bus
 usc_title: 26
 usc_section: "6039L"
 chapter: 61
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 6039L"
-generated_at: "2026-11-23T21:21:20.220Z"
+generated_at: "2026-11-23T21:23:29.524Z"
 status: "active"
 ---
 

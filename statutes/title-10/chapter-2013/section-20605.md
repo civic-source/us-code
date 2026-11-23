@@ -3,9 +3,9 @@ title: "Section 20605 - Applicability of other provisions of law relating to ret
 usc_title: 10
 usc_section: "20605"
 chapter: 2013
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 20605"
-generated_at: "2026-11-23T21:20:35.743Z"
+generated_at: "2026-11-23T21:22:52.336Z"
 status: "active"
 ---
 

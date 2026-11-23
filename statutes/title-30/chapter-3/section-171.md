@@ -3,9 +3,9 @@ title: "Section 171 - Disposal as agricultural lands"
 usc_title: 30
 usc_section: "171"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 171"
-generated_at: "2026-11-23T21:21:11.914Z"
+generated_at: "2026-11-23T21:23:21.532Z"
 status: "active"
 ---
 

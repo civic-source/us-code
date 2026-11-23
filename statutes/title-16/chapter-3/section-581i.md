@@ -3,9 +3,9 @@ title: "Section 581i - Repealed. Pub. L. 95–307, § 8(a) , June 30, 1978 , 92 
 usc_title: 16
 usc_section: "581i"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 581i"
-generated_at: "2026-11-23T21:20:54.570Z"
+generated_at: "2026-11-23T21:23:11.277Z"
 status: "repealed"
 ---
 

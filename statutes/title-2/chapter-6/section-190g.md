@@ -3,9 +3,9 @@ title: "Section 190g - Nonconsideration of certain private bills and resolutions
 usc_title: 2
 usc_section: "190g"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 190g"
-generated_at: "2026-11-23T21:20:17.871Z"
+generated_at: "2026-11-23T21:22:37.940Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 667 - Theft of livestock"
 usc_title: 18
 usc_section: "667"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 667"
-generated_at: "2026-11-23T21:20:48.300Z"
+generated_at: "2026-11-23T21:23:04.029Z"
 status: "active"
 ---
 

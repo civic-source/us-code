@@ -3,9 +3,9 @@ title: "Section 923 - Space-available enrollment of students; tuition"
 usc_title: 20
 usc_section: "923"
 chapter: 25
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 923"
-generated_at: "2026-11-23T21:20:58.236Z"
+generated_at: "2026-11-23T21:23:07.609Z"
 status: "active"
 ---
 

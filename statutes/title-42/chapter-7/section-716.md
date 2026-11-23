@@ -3,9 +3,9 @@ title: "Section 716 - Omitted"
 usc_title: 42
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 716"
-generated_at: "2026-11-23T21:21:44.891Z"
+generated_at: "2026-11-23T21:23:54.746Z"
 status: "omitted"
 ---
 

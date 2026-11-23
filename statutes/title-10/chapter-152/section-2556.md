@@ -3,9 +3,9 @@ title: "Section 2556 - Shelter for homeless; incidental services"
 usc_title: 10
 usc_section: "2556"
 chapter: 152
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2556"
-generated_at: "2026-11-23T21:20:34.923Z"
+generated_at: "2026-11-23T21:22:51.652Z"
 status: "active"
 ---
 

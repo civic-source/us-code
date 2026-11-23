@@ -3,9 +3,9 @@ title: "Section 469o - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "469o"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 469o"
-generated_at: "2026-11-23T21:20:54.495Z"
+generated_at: "2026-11-23T21:23:11.190Z"
 status: "repealed"
 ---
 

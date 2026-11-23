@@ -3,9 +3,9 @@ title: "Section 2006 - Reports to Congress"
 usc_title: 16
 usc_section: "2006"
 chapter: 40
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 2006"
-generated_at: "2026-11-23T21:20:54.972Z"
+generated_at: "2026-11-23T21:23:11.684Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31161 - International cooperation"
 usc_title: 49
 usc_section: "31161"
 chapter: 311
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 31161"
-generated_at: "2026-11-23T21:21:54.535Z"
+generated_at: "2026-11-23T21:24:11.140Z"
 status: "active"
 ---
 

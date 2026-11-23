@@ -3,9 +3,9 @@ title: "Section 408 - Assistance in support of Department of Defense accounting 
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-11-23T21:20:34.328Z"
+generated_at: "2026-11-23T21:22:51.087Z"
 status: "active"
 ---
 

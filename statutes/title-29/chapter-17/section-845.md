@@ -3,9 +3,9 @@ title: "Section 845 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "845"
 chapter: 17
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 845"
-generated_at: "2026-11-23T21:21:13.123Z"
+generated_at: "2026-11-23T21:23:23.503Z"
 status: "repealed"
 ---
 

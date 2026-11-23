@@ -3,9 +3,9 @@ title: "Section 12731 - Age and service requirements"
 usc_title: 10
 usc_section: "12731"
 chapter: 1223
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 12731"
-generated_at: "2026-11-23T21:20:35.695Z"
+generated_at: "2026-11-23T21:22:52.279Z"
 status: "active"
 ---
 

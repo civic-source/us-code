@@ -3,9 +3,9 @@ title: "Section 5535 - Development of requirements to support integrated air and
 usc_title: 10
 usc_section: "5535"
 chapter: 551
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 5535"
-generated_at: "2026-11-23T21:20:35.288Z"
+generated_at: "2026-11-23T21:22:51.950Z"
 status: "active"
 ---
 

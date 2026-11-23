@@ -3,9 +3,9 @@ title: "Section 3070 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "3070"
 chapter: 203
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 3070"
-generated_at: "2026-11-23T21:20:35.090Z"
+generated_at: "2026-11-23T21:22:51.790Z"
 status: "repealed"
 ---
 

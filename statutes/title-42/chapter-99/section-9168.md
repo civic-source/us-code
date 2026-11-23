@@ -3,9 +3,9 @@ title: "Section 9168 - Report to Congress on promotion and enhancement of export
 usc_title: 42
 usc_section: "9168"
 chapter: 99
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 9168"
-generated_at: "2026-11-23T21:21:46.458Z"
+generated_at: "2026-11-23T21:23:55.900Z"
 status: "active"
 ---
 

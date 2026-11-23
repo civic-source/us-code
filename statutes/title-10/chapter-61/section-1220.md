@@ -3,9 +3,9 @@ title: "Section 1220 - Repealed. Pub. L. 87–651, title I, § 107(d) , Sept. 7,
 usc_title: 10
 usc_section: "1220"
 chapter: 61
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1220"
-generated_at: "2026-11-23T21:20:34.614Z"
+generated_at: "2026-11-23T21:22:51.397Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4003 - Recommendations and rankings"
 usc_title: 22
 usc_section: "4003"
 chapter: 52
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 4003"
-generated_at: "2026-11-23T21:21:08.316Z"
+generated_at: "2026-11-23T21:23:19.378Z"
 status: "active"
 ---
 

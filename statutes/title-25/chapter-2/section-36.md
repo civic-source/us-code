@@ -3,9 +3,9 @@ title: "Section 36 - Special agents and other officers to administer oaths"
 usc_title: 25
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "25 U.S.C. § 36"
-generated_at: "2026-11-23T21:21:02.111Z"
+generated_at: "2026-11-23T21:23:14.498Z"
 status: "active"
 ---
 

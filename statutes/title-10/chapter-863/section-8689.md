@@ -3,9 +3,9 @@ title: "Section 8689 - Requirements for availability of funds relating to advanc
 usc_title: 10
 usc_section: "8689"
 chapter: 863
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8689"
-generated_at: "2026-11-23T21:20:35.499Z"
+generated_at: "2026-11-23T21:22:52.146Z"
 status: "active"
 ---
 

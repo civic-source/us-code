@@ -3,9 +3,9 @@ title: "Section 103 - Subject matter of copyright: Compilations and derivative w
 usc_title: 17
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "17 U.S.C. § 103"
-generated_at: "2026-11-23T21:20:47.108Z"
+generated_at: "2026-11-23T21:23:02.875Z"
 status: "active"
 ---
 

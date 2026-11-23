@@ -3,9 +3,9 @@ title: "Section 2653 - Evacuation of family pets and contract working dogs durin
 usc_title: 10
 usc_section: "2653"
 chapter: 157
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2653"
-generated_at: "2026-11-23T21:20:34.955Z"
+generated_at: "2026-11-23T21:22:51.677Z"
 status: "active"
 ---
 

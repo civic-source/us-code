@@ -3,9 +3,9 @@ title: "Section 3331 - Administrative provisions"
 usc_title: 29
 usc_section: "3331"
 chapter: 32
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 3331"
-generated_at: "2026-11-23T21:21:13.343Z"
+generated_at: "2026-11-23T21:23:23.664Z"
 status: "active"
 ---
 

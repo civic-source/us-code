@@ -3,9 +3,9 @@ title: "Section 512 - Limitations on liability relating to material online"
 usc_title: 17
 usc_section: "512"
 chapter: 5
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "17 U.S.C. § 512"
-generated_at: "2026-11-23T21:20:47.150Z"
+generated_at: "2026-11-23T21:23:02.914Z"
 status: "active"
 ---
 

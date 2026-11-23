@@ -3,9 +3,9 @@ title: "Section 8412 - Identifying opportunities for recreation"
 usc_title: 16
 usc_section: "8412"
 chapter: 103
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 8412"
-generated_at: "2026-11-23T21:20:55.186Z"
+generated_at: "2026-11-23T21:23:11.894Z"
 status: "active"
 ---
 

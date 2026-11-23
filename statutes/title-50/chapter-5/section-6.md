@@ -3,9 +3,9 @@ title: "Section 6 - Development and conservation of reliable sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-11-23T21:21:51.825Z"
+generated_at: "2026-11-23T21:24:05.715Z"
 status: "active"
 ---
 

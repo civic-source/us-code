@@ -3,9 +3,9 @@ title: "Section 33114 - Prohibited acts"
 usc_title: 49
 usc_section: "33114"
 chapter: 331
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 33114"
-generated_at: "2026-11-23T21:21:54.570Z"
+generated_at: "2026-11-23T21:24:11.194Z"
 status: "active"
 ---
 

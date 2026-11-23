@@ -3,9 +3,9 @@ title: "Section 605 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "605"
 chapter: 11
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "8 U.S.C. § 605"
-generated_at: "2026-11-23T21:20:23.898Z"
+generated_at: "2026-11-23T21:22:42.541Z"
 status: "repealed"
 ---
 

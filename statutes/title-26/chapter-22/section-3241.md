@@ -3,9 +3,9 @@ title: "Section 3241 - Determination of tier 2 tax rate based on average account
 usc_title: 26
 usc_section: "3241"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 3241"
-generated_at: "2026-11-23T21:21:20.070Z"
+generated_at: "2026-11-23T21:23:29.361Z"
 status: "active"
 ---
 

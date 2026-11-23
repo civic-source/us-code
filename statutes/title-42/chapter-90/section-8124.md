@@ -3,9 +3,9 @@ title: "Section 8124 - Repealed. Pub. L. 97–35, title III, § 313(a) , Aug. 13
 usc_title: 42
 usc_section: "8124"
 chapter: 90
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 8124"
-generated_at: "2026-11-23T21:21:46.398Z"
+generated_at: "2026-11-23T21:23:55.843Z"
 status: "repealed"
 ---
 

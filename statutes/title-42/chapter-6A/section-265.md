@@ -3,9 +3,9 @@ title: "Section 265 - Suspension of entries and imports from designated places t
 usc_title: 42
 usc_section: "265"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 265"
-generated_at: "2026-11-23T21:21:44.318Z"
+generated_at: "2026-11-23T21:23:54.337Z"
 status: "active"
 ---
 

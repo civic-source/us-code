@@ -3,9 +3,9 @@ title: "Section 6934 - Office of Partnerships and Public Engagement"
 usc_title: 7
 usc_section: "6934"
 chapter: 98
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 6934"
-generated_at: "2026-11-23T21:20:28.202Z"
+generated_at: "2026-11-23T21:22:46.337Z"
 status: "active"
 ---
 

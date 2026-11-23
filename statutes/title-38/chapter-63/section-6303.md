@@ -3,9 +3,9 @@ title: "Section 6303 - Outreach services"
 usc_title: 38
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 6303"
-generated_at: "2026-11-23T21:21:30.241Z"
+generated_at: "2026-11-23T21:23:40.589Z"
 status: "active"
 ---
 

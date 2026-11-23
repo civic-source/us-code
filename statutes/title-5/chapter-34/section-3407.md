@@ -3,9 +3,9 @@ title: "Section 3407 - Repealed. Pub. L. 104–66, title III, § 3001(a)(1) , De
 usc_title: 5
 usc_section: "3407"
 chapter: 34
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 3407"
-generated_at: "2026-11-23T21:20:20.240Z"
+generated_at: "2026-11-23T21:22:40.261Z"
 status: "repealed"
 ---
 

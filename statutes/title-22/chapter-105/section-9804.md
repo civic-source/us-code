@@ -3,9 +3,9 @@ title: "Section 9804 - Selection of priority countries and regions"
 usc_title: 22
 usc_section: "9804"
 chapter: 105
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 9804"
-generated_at: "2026-11-23T21:21:08.612Z"
+generated_at: "2026-11-23T21:23:19.643Z"
 status: "active"
 ---
 

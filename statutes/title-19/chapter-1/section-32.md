@@ -3,9 +3,9 @@ title: "Section 32 - Repealed. Pub. L. 92–310, title II, § 226 , June 6, 1972
 usc_title: 19
 usc_section: "32"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 32"
-generated_at: "2026-11-23T21:20:50.052Z"
+generated_at: "2026-11-23T21:23:05.489Z"
 status: "repealed"
 ---
 

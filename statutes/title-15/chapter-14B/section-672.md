@@ -3,9 +3,9 @@ title: "Section 672 - Repealed. Pub. L. 87–341, § 11(h)(1) , Oct. 3, 1961 , 7
 usc_title: 15
 usc_section: "672"
 chapter: 14
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 672"
-generated_at: "2026-11-23T21:20:44.954Z"
+generated_at: "2026-11-23T21:22:57.954Z"
 status: "repealed"
 ---
 

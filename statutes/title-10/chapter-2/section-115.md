@@ -3,9 +3,9 @@ title: "Section 115 - Personnel strengths: requirement for annual authorization"
 usc_title: 10
 usc_section: "115"
 chapter: 2
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 115"
-generated_at: "2026-11-23T21:20:34.226Z"
+generated_at: "2026-11-23T21:22:50.977Z"
 status: "active"
 ---
 

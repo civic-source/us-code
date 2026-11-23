@@ -3,9 +3,9 @@ title: "Section 1108 - Insurance"
 usc_title: 16
 usc_section: "1108"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 1108"
-generated_at: "2026-11-23T21:20:54.755Z"
+generated_at: "2026-11-23T21:23:11.495Z"
 status: "active"
 ---
 

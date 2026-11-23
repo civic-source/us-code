@@ -3,9 +3,9 @@ title: "Section 11223 - Omitted"
 usc_title: 42
 usc_section: "11223"
 chapter: 118
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 11223"
-generated_at: "2026-11-23T21:21:46.603Z"
+generated_at: "2026-11-23T21:23:56.054Z"
 status: "omitted"
 ---
 

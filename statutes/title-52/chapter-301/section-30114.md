@@ -3,9 +3,9 @@ title: "Section 30114 - Use of contributed amounts for certain purposes"
 usc_title: 52
 usc_section: "30114"
 chapter: 301
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "52 U.S.C. § 30114"
-generated_at: "2026-11-23T21:21:57.053Z"
+generated_at: "2026-11-23T21:24:13.862Z"
 status: "active"
 ---
 

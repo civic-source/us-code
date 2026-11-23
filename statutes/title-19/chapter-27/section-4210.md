@@ -3,9 +3,9 @@ title: "Section 4210 - Definitions"
 usc_title: 19
 usc_section: "4210"
 chapter: 27
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 4210"
-generated_at: "2026-11-23T21:20:50.462Z"
+generated_at: "2026-11-23T21:23:05.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13457 - Energy efficient environmental program"
 usc_title: 42
 usc_section: "13457"
 chapter: 134
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 13457"
-generated_at: "2026-11-23T21:21:46.792Z"
+generated_at: "2026-11-23T21:23:56.232Z"
 status: "active"
 ---
 

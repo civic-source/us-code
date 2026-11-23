@@ -3,9 +3,9 @@ title: "Section 1527 - Improved biosafety for handling of select agents and toxi
 usc_title: 50
 usc_section: "1527"
 chapter: 32
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 1527"
-generated_at: "2026-11-23T21:21:51.846Z"
+generated_at: "2026-11-23T21:24:05.782Z"
 status: "active"
 ---
 

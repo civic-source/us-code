@@ -3,9 +3,9 @@ title: "Section 6407 - Required terms in orders"
 usc_title: 7
 usc_section: "6407"
 chapter: 93
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 6407"
-generated_at: "2026-11-23T21:20:28.178Z"
+generated_at: "2026-11-23T21:22:46.319Z"
 status: "active"
 ---
 

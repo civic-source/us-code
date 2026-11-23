@@ -3,9 +3,9 @@ title: "Section 314 - Captains of the port"
 usc_title: 14
 usc_section: "314"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 314"
-generated_at: "2026-11-23T21:20:38.201Z"
+generated_at: "2026-11-23T21:22:54.469Z"
 status: "active"
 ---
 

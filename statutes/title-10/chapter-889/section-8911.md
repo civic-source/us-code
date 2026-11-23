@@ -3,9 +3,9 @@ title: "Section 8911 - Custody of departmental records and property"
 usc_title: 10
 usc_section: "8911"
 chapter: 889
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8911"
-generated_at: "2026-11-23T21:20:35.546Z"
+generated_at: "2026-11-23T21:22:52.190Z"
 status: "active"
 ---
 

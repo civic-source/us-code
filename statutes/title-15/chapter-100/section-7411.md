@@ -3,9 +3,9 @@ title: "Section 7411 - Report on grant and fellowship programs"
 usc_title: 15
 usc_section: "7411"
 chapter: 100
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 7411"
-generated_at: "2026-11-23T21:20:45.375Z"
+generated_at: "2026-11-23T21:22:58.481Z"
 status: "active"
 ---
 

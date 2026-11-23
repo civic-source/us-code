@@ -3,9 +3,9 @@ title: "Section 284j - Expropriation of United States property; loan restriction
 usc_title: 22
 usc_section: "284j"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 284j"
-generated_at: "2026-11-23T21:21:07.965Z"
+generated_at: "2026-11-23T21:23:18.971Z"
 status: "active"
 ---
 

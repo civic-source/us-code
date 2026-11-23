@@ -3,9 +3,9 @@ title: "Section 16214 - Distributed energy technology demonstration programs"
 usc_title: 42
 usc_section: "16214"
 chapter: 149
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 16214"
-generated_at: "2026-11-23T21:21:46.897Z"
+generated_at: "2026-11-23T21:23:56.327Z"
 status: "active"
 ---
 

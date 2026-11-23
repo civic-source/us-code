@@ -3,9 +3,9 @@ title: "Section 7544 - Army industrial facilities: cooperative activities with n
 usc_title: 10
 usc_section: "7544"
 chapter: 763
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 7544"
-generated_at: "2026-11-23T21:20:35.368Z"
+generated_at: "2026-11-23T21:22:52.028Z"
 status: "active"
 ---
 

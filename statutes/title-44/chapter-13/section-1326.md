@@ -3,9 +3,9 @@ title: "Section 1326 - Librarian of Congress: reports"
 usc_title: 44
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "44 U.S.C. § 1326"
-generated_at: "2026-11-23T21:21:33.207Z"
+generated_at: "2026-11-23T21:23:43.675Z"
 status: "active"
 ---
 

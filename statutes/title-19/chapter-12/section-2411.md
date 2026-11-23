@@ -3,9 +3,9 @@ title: "Section 2411 - Actions by United States Trade Representative"
 usc_title: 19
 usc_section: "2411"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 2411"
-generated_at: "2026-11-23T21:20:50.298Z"
+generated_at: "2026-11-23T21:23:05.632Z"
 status: "active"
 ---
 

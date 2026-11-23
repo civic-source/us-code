@@ -3,9 +3,9 @@ title: "Section 5958 - Authorization for additional fiscal year 1993 assistance 
 usc_title: 22
 usc_section: "5958"
 chapter: 68
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 5958"
-generated_at: "2026-11-23T21:21:08.396Z"
+generated_at: "2026-11-23T21:23:19.453Z"
 status: "active"
 ---
 

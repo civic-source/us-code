@@ -3,9 +3,9 @@ title: "Section 3040a - Prohibition on collection and maintenance of information
 usc_title: 50
 usc_section: "3040a"
 chapter: 44
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3040a"
-generated_at: "2026-11-23T21:21:51.938Z"
+generated_at: "2026-11-23T21:24:06.119Z"
 status: "active"
 ---
 

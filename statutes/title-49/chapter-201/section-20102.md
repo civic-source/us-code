@@ -3,9 +3,9 @@ title: "Section 20102 - Definitions"
 usc_title: 49
 usc_section: "20102"
 chapter: 201
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 20102"
-generated_at: "2026-11-23T21:21:54.377Z"
+generated_at: "2026-11-23T21:24:10.929Z"
 status: "active"
 ---
 

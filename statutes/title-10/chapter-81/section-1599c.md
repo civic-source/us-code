@@ -3,9 +3,9 @@ title: "Section 1599c - Health care professionals: enhanced appointment and comp
 usc_title: 10
 usc_section: "1599c"
 chapter: 81
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1599c"
-generated_at: "2026-11-23T21:20:34.725Z"
+generated_at: "2026-11-23T21:22:51.483Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6885 - Rule of construction"
 usc_title: 16
 usc_section: "6885"
 chapter: 87
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 6885"
-generated_at: "2026-11-23T21:20:55.148Z"
+generated_at: "2026-11-23T21:23:11.863Z"
 status: "active"
 ---
 

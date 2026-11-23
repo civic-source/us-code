@@ -3,9 +3,9 @@ title: "Section 1466 - Payments into the Fund"
 usc_title: 10
 usc_section: "1466"
 chapter: 74
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1466"
-generated_at: "2026-11-23T21:20:34.669Z"
+generated_at: "2026-11-23T21:22:51.443Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3510 - Coordination of collection of domestic service employment
 usc_title: 26
 usc_section: "3510"
 chapter: 25
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 3510"
-generated_at: "2026-11-23T21:21:20.103Z"
+generated_at: "2026-11-23T21:23:29.392Z"
 status: "active"
 ---
 

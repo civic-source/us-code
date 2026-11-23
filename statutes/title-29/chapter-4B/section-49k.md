@@ -3,9 +3,9 @@ title: "Section 49k - Rules and regulations"
 usc_title: 29
 usc_section: "49k"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 49k"
-generated_at: "2026-11-23T21:21:13.047Z"
+generated_at: "2026-11-23T21:23:23.412Z"
 status: "active"
 ---
 

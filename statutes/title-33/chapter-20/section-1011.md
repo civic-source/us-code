@@ -3,9 +3,9 @@ title: "Section 1011 - Repealed. Pub. L. 96–478, § 12 , Oct. 21, 1980 , 94 St
 usc_title: 33
 usc_section: "1011"
 chapter: 20
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 1011"
-generated_at: "2026-11-23T21:21:23.091Z"
+generated_at: "2026-11-23T21:23:34.835Z"
 status: "repealed"
 ---
 

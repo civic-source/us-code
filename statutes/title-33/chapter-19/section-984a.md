@@ -3,9 +3,9 @@ title: "Section 984a - Repealed. June 28, 1955, ch. 189, § 12(c)(11) , 69 Stat.
 usc_title: 33
 usc_section: "984a"
 chapter: 19
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 984a"
-generated_at: "2026-11-23T21:21:23.090Z"
+generated_at: "2026-11-23T21:23:34.834Z"
 status: "repealed"
 ---
 

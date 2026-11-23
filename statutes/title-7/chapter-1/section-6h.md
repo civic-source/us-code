@@ -3,9 +3,9 @@ title: "Section 6h - False self-representation as registered entity member prohi
 usc_title: 7
 usc_section: "6h"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 6h"
-generated_at: "2026-11-23T21:20:27.356Z"
+generated_at: "2026-11-23T21:22:45.743Z"
 status: "active"
 ---
 

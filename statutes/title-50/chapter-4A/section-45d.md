@@ -3,9 +3,9 @@ title: "Section 45d - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 50
 usc_section: "45d"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 45d"
-generated_at: "2026-11-23T21:21:51.819Z"
+generated_at: "2026-11-23T21:24:05.704Z"
 status: "repealed"
 ---
 

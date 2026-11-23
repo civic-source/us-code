@@ -3,9 +3,9 @@ title: "Section 2546 - Technical assistance"
 usc_title: 19
 usc_section: "2546"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 2546"
-generated_at: "2026-11-23T21:20:50.330Z"
+generated_at: "2026-11-23T21:23:05.654Z"
 status: "active"
 ---
 

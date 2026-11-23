@@ -3,9 +3,9 @@ title: "Section 22406 - Authorization of appropriations. 1 1 So in original. The
 usc_title: 49
 usc_section: "22406"
 chapter: 224
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 22406"
-generated_at: "2026-11-23T21:21:54.433Z"
+generated_at: "2026-11-23T21:24:11.007Z"
 status: "active"
 ---
 

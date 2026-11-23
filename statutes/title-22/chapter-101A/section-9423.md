@@ -3,9 +3,9 @@ title: "Section 9423 - Sanctions to combat the proliferation of Iranian missiles
 usc_title: 22
 usc_section: "9423"
 chapter: 101
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 9423"
-generated_at: "2026-11-23T21:21:08.580Z"
+generated_at: "2026-11-23T21:23:19.613Z"
 status: "active"
 ---
 

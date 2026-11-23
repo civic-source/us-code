@@ -3,9 +3,9 @@ title: "Section 3334f - Congressional notification of designation of covered int
 usc_title: 50
 usc_section: "3334f"
 chapter: 45
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3334f"
-generated_at: "2026-11-23T21:21:52.001Z"
+generated_at: "2026-11-23T21:24:06.243Z"
 status: "active"
 ---
 

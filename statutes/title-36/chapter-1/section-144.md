@@ -3,9 +3,9 @@ title: "Section 144 - Patriot Day"
 usc_title: 36
 usc_section: "144"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 144"
-generated_at: "2026-11-23T21:21:27.299Z"
+generated_at: "2026-11-23T21:23:38.212Z"
 status: "active"
 ---
 

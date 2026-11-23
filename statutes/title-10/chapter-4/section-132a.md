@@ -3,9 +3,9 @@ title: "Section 132a - Performance Improvement Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-11-23T21:20:34.248Z"
+generated_at: "2026-11-23T21:22:50.991Z"
 status: "active"
 ---
 

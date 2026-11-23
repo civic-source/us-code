@@ -3,9 +3,9 @@ title: "Section 955 - Amendment, alteration, or repeal"
 usc_title: 43
 usc_section: "955"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 955"
-generated_at: "2026-11-23T21:21:34.055Z"
+generated_at: "2026-11-23T21:23:42.690Z"
 status: "active"
 ---
 

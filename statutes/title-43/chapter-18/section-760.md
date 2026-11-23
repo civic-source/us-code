@@ -3,9 +3,9 @@ title: "Section 760 - Deposit for expenses deemed an appropriation"
 usc_title: 43
 usc_section: "760"
 chapter: 18
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 760"
-generated_at: "2026-11-23T21:21:34.035Z"
+generated_at: "2026-11-23T21:23:42.679Z"
 status: "active"
 ---
 

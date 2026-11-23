@@ -3,9 +3,9 @@ title: "Section 1504 - Limitation on liquidation"
 usc_title: 19
 usc_section: "1504"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 1504"
-generated_at: "2026-11-23T21:20:50.126Z"
+generated_at: "2026-11-23T21:23:05.525Z"
 status: "active"
 ---
 

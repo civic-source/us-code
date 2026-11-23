@@ -3,9 +3,9 @@ title: "Section 4728 - Transfer of functions"
 usc_title: 42
 usc_section: "4728"
 chapter: 62
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 4728"
-generated_at: "2026-11-23T21:21:45.929Z"
+generated_at: "2026-11-23T21:23:55.428Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1681d - Disclosure of investigative consumer reports"
 usc_title: 15
 usc_section: "1681d"
 chapter: 41
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 1681d"
-generated_at: "2026-11-23T21:20:45.146Z"
+generated_at: "2026-11-23T21:22:58.151Z"
 status: "active"
 ---
 

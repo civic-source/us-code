@@ -3,9 +3,9 @@ title: "Section 10502 - Publication and provision of lists regarding progress on
 usc_title: 22
 usc_section: "10502"
 chapter: 112
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 10502"
-generated_at: "2026-11-23T21:21:08.631Z"
+generated_at: "2026-11-23T21:23:19.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2199 - Disclosure"
 usc_title: 12
 usc_section: "2199"
 chapter: 23
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 2199"
-generated_at: "2026-11-23T21:20:41.428Z"
+generated_at: "2026-11-23T21:23:01.056Z"
 status: "active"
 ---
 

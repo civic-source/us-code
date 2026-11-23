@@ -3,9 +3,9 @@ title: "Section 410nnn - Findings"
 usc_title: 16
 usc_section: "410nnn"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 410nnn"
-generated_at: "2026-11-23T21:20:54.268Z"
+generated_at: "2026-11-23T21:23:11.048Z"
 status: "active"
 ---
 

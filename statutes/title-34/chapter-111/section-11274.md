@@ -3,9 +3,9 @@ title: "Section 11274 - Federal and non-Federal share; methods of payment"
 usc_title: 34
 usc_section: "11274"
 chapter: 111
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 11274"
-generated_at: "2026-11-23T21:21:24.896Z"
+generated_at: "2026-11-23T21:23:33.552Z"
 status: "active"
 ---
 

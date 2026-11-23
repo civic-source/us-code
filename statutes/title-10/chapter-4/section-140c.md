@@ -3,9 +3,9 @@ title: "Section 140c - Renumbered § 130]"
 usc_title: 10
 usc_section: "140c"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 140c"
-generated_at: "2026-11-23T21:20:34.255Z"
+generated_at: "2026-11-23T21:22:50.999Z"
 status: "renumbered"
 ---
 

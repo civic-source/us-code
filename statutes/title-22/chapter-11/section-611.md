@@ -3,9 +3,9 @@ title: "Section 611 - Definitions"
 usc_title: 22
 usc_section: "611"
 chapter: 11
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 611"
-generated_at: "2026-11-23T21:21:08.013Z"
+generated_at: "2026-11-23T21:23:19.037Z"
 status: "active"
 ---
 

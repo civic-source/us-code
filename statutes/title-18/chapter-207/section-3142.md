@@ -3,9 +3,9 @@ title: "Section 3142 - Release or detention of a defendant pending trial"
 usc_title: 18
 usc_section: "3142"
 chapter: 207
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 3142"
-generated_at: "2026-11-23T21:20:48.453Z"
+generated_at: "2026-11-23T21:23:04.177Z"
 status: "active"
 ---
 

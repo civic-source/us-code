@@ -3,9 +3,9 @@ title: "Section 1463a - Omitted"
 usc_title: 16
 usc_section: "1463a"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 1463a"
-generated_at: "2026-11-23T21:20:54.893Z"
+generated_at: "2026-11-23T21:23:11.601Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14701 - Selection of officers for continuation on the reserve ac
 usc_title: 10
 usc_section: "14701"
 chapter: 1409
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 14701"
-generated_at: "2026-11-23T21:20:35.716Z"
+generated_at: "2026-11-23T21:22:52.303Z"
 status: "active"
 ---
 

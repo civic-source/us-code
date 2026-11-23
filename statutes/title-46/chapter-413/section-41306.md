@@ -3,9 +3,9 @@ title: "Section 41306 - Injunctive relief sought by complainants"
 usc_title: 46
 usc_section: "41306"
 chapter: 413
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 41306"
-generated_at: "2026-11-23T21:21:50.669Z"
+generated_at: "2026-11-23T21:24:03.240Z"
 status: "active"
 ---
 

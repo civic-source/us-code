@@ -3,9 +3,9 @@ title: "Section 8246 - Subsistence in hospital messes: hospital ration"
 usc_title: 10
 usc_section: "8246"
 chapter: 827
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8246"
-generated_at: "2026-11-23T21:20:35.425Z"
+generated_at: "2026-11-23T21:22:52.085Z"
 status: "active"
 ---
 

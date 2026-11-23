@@ -3,9 +3,9 @@ title: "Section 6 - Annual and special reports to President and Congress"
 usc_title: 29
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 6"
-generated_at: "2026-11-23T21:21:13.041Z"
+generated_at: "2026-11-23T21:23:23.407Z"
 status: "active"
 ---
 

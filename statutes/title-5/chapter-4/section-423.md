@@ -3,9 +3,9 @@ title: "Section 423 - Pay of Inspectors General"
 usc_title: 5
 usc_section: "423"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 423"
-generated_at: "2026-11-23T21:20:20.134Z"
+generated_at: "2026-11-23T21:22:40.147Z"
 status: "active"
 ---
 

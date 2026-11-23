@@ -3,9 +3,9 @@ title: "Section 76l - Official seal, Board vacancies and quorum, trustee powers 
 usc_title: 20
 usc_section: "76l"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 76l"
-generated_at: "2026-11-23T21:20:58.145Z"
+generated_at: "2026-11-23T21:23:07.559Z"
 status: "active"
 ---
 

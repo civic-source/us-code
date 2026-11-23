@@ -3,9 +3,9 @@ title: "Section 1157 - Transferred"
 usc_title: 48
 usc_section: "1157"
 chapter: 5
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 1157"
-generated_at: "2026-11-23T21:21:49.008Z"
+generated_at: "2026-11-23T21:24:00.797Z"
 status: "transferred"
 ---
 

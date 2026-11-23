@@ -3,9 +3,9 @@ title: "Section 3906 - Cost-reimbursement contracts"
 usc_title: 41
 usc_section: "3906"
 chapter: 39
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "41 U.S.C. § 3906"
-generated_at: "2026-11-23T21:21:32.898Z"
+generated_at: "2026-11-23T21:23:43.393Z"
 status: "active"
 ---
 

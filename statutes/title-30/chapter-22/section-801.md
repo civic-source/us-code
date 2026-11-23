@@ -3,9 +3,9 @@ title: "Section 801 - Congressional findings and declaration of purpose"
 usc_title: 30
 usc_section: "801"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 801"
-generated_at: "2026-11-23T21:21:11.943Z"
+generated_at: "2026-11-23T21:23:21.562Z"
 status: "active"
 ---
 

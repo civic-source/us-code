@@ -3,9 +3,9 @@ title: "Section 8750 - Special agents of the Naval Criminal Investigative Servic
 usc_title: 10
 usc_section: "8750"
 chapter: 871
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8750"
-generated_at: "2026-11-23T21:20:35.514Z"
+generated_at: "2026-11-23T21:22:52.162Z"
 status: "active"
 ---
 

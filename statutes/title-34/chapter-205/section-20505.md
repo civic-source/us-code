@@ -3,9 +3,9 @@ title: "Section 20505 - Limitation on liability"
 usc_title: 34
 usc_section: "20505"
 chapter: 205
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 20505"
-generated_at: "2026-11-23T21:21:24.970Z"
+generated_at: "2026-11-23T21:23:33.611Z"
 status: "active"
 ---
 

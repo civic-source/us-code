@@ -3,9 +3,9 @@ title: "Section 6342 - Survey and Registry"
 usc_title: 42
 usc_section: "6342"
 chapter: 77
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 6342"
-generated_at: "2026-11-23T21:21:46.126Z"
+generated_at: "2026-11-23T21:23:55.561Z"
 status: "active"
 ---
 

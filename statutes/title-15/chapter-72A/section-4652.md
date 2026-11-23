@@ -3,9 +3,9 @@ title: "Section 4652 - Semiconductor incentives"
 usc_title: 15
 usc_section: "4652"
 chapter: 72
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 4652"
-generated_at: "2026-11-23T21:20:45.299Z"
+generated_at: "2026-11-23T21:22:58.377Z"
 status: "active"
 ---
 

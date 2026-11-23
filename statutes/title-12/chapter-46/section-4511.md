@@ -3,9 +3,9 @@ title: "Section 4511 - Establishment of the Federal Housing Finance Agency"
 usc_title: 12
 usc_section: "4511"
 chapter: 46
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 4511"
-generated_at: "2026-11-23T21:20:41.582Z"
+generated_at: "2026-11-23T21:23:01.140Z"
 status: "active"
 ---
 

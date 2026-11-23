@@ -3,9 +3,9 @@ title: "Section 19056 - Measuring impacts of Federally funded research and devel
 usc_title: 42
 usc_section: "19056"
 chapter: 163
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 19056"
-generated_at: "2026-11-23T21:21:47.056Z"
+generated_at: "2026-11-23T21:23:56.550Z"
 status: "active"
 ---
 

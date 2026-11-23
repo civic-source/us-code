@@ -3,9 +3,9 @@ title: "Section 229a - Water struck while drilling for oil and gas"
 usc_title: 30
 usc_section: "229a"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "30 U.S.C. § 229a"
-generated_at: "2026-11-23T21:21:11.930Z"
+generated_at: "2026-11-23T21:23:21.544Z"
 status: "active"
 ---
 

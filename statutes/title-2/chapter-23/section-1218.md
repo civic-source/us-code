@@ -3,9 +3,9 @@ title: "Section 1218 - Repealed. Pub. L. 104–1, title V, § 504(a)(2) , (5), J
 usc_title: 2
 usc_section: "1218"
 chapter: 23
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 1218"
-generated_at: "2026-11-23T21:20:17.972Z"
+generated_at: "2026-11-23T21:22:38.000Z"
 status: "repealed"
 ---
 

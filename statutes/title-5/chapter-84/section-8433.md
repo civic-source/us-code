@@ -3,9 +3,9 @@ title: "Section 8433 - Benefits and election of benefits"
 usc_title: 5
 usc_section: "8433"
 chapter: 84
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 8433"
-generated_at: "2026-11-23T21:20:20.598Z"
+generated_at: "2026-11-23T21:22:40.510Z"
 status: "active"
 ---
 

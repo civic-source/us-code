@@ -3,9 +3,9 @@ title: "Section 4662 - Duties"
 usc_title: 19
 usc_section: "4662"
 chapter: 29
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 4662"
-generated_at: "2026-11-23T21:20:50.498Z"
+generated_at: "2026-11-23T21:23:05.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1594 - Seizure of conveyances"
 usc_title: 19
 usc_section: "1594"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 1594"
-generated_at: "2026-11-23T21:20:50.157Z"
+generated_at: "2026-11-23T21:23:05.547Z"
 status: "active"
 ---
 

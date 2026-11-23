@@ -3,9 +3,9 @@ title: "Section 1414 - Members eligible for retired pay who are also eligible fo
 usc_title: 10
 usc_section: "1414"
 chapter: 71
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 1414"
-generated_at: "2026-11-23T21:20:34.643Z"
+generated_at: "2026-11-23T21:22:51.418Z"
 status: "active"
 ---
 

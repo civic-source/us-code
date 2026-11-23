@@ -3,9 +3,9 @@ title: "Section 1423 - Public safety Interoperability Board"
 usc_title: 47
 usc_section: "1423"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "47 U.S.C. § 1423"
-generated_at: "2026-11-23T21:21:49.681Z"
+generated_at: "2026-11-23T21:24:00.087Z"
 status: "active"
 ---
 

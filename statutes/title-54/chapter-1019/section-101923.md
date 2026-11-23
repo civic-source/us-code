@@ -3,9 +3,9 @@ title: "Section 101923 - Recordkeeping requirements"
 usc_title: 54
 usc_section: "101923"
 chapter: 1019
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "54 U.S.C. § 101923"
-generated_at: "2026-11-23T21:21:56.793Z"
+generated_at: "2026-11-23T21:24:15.347Z"
 status: "active"
 ---
 

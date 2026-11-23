@@ -3,9 +3,9 @@ title: "Section 5403 - Construction and safety standards"
 usc_title: 42
 usc_section: "5403"
 chapter: 70
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 5403"
-generated_at: "2026-11-23T21:21:46.040Z"
+generated_at: "2026-11-23T21:23:55.486Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9449 - Cadets: organization; service; instruction"
 usc_title: 10
 usc_section: "9449"
 chapter: 953
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 9449"
-generated_at: "2026-11-23T21:20:35.602Z"
+generated_at: "2026-11-23T21:22:52.222Z"
 status: "active"
 ---
 

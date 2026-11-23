@@ -3,9 +3,9 @@ title: "Section 3501 - Exclusive territorial licenses to manufacture, distribute
 usc_title: 15
 usc_section: "3501"
 chapter: 61
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 3501"
-generated_at: "2026-11-23T21:20:45.267Z"
+generated_at: "2026-11-23T21:22:58.329Z"
 status: "active"
 ---
 

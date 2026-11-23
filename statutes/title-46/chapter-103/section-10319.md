@@ -3,9 +3,9 @@ title: "Section 10319 - Costs of a criminal conviction"
 usc_title: 46
 usc_section: "10319"
 chapter: 103
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 10319"
-generated_at: "2026-11-23T21:21:50.584Z"
+generated_at: "2026-11-23T21:24:03.157Z"
 status: "active"
 ---
 

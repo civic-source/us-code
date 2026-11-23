@@ -3,9 +3,9 @@ title: "Section 1491 - License, permit, etc., for transportation for storage or 
 usc_title: 48
 usc_section: "1491"
 chapter: 10
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 1491"
-generated_at: "2026-11-23T21:21:49.029Z"
+generated_at: "2026-11-23T21:24:00.838Z"
 status: "active"
 ---
 

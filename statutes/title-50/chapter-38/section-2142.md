@@ -3,9 +3,9 @@ title: "Section 2142 - Thrift Savings Plan participation"
 usc_title: 50
 usc_section: "2142"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 2142"
-generated_at: "2026-11-23T21:21:51.899Z"
+generated_at: "2026-11-23T21:24:05.980Z"
 status: "active"
 ---
 

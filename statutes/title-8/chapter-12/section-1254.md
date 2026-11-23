@@ -3,9 +3,9 @@ title: "Section 1254 - Repealed. Pub. L. 104–208, div. C, title III, § 308(b)
 usc_title: 8
 usc_section: "1254"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "8 U.S.C. § 1254"
-generated_at: "2026-11-23T21:20:24.021Z"
+generated_at: "2026-11-23T21:22:42.640Z"
 status: "repealed"
 ---
 

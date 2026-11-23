@@ -3,9 +3,9 @@ title: "Section 1874 - Security provisions"
 usc_title: 42
 usc_section: "1874"
 chapter: 16
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1874"
-generated_at: "2026-11-23T21:21:45.608Z"
+generated_at: "2026-11-23T21:23:55.234Z"
 status: "active"
 ---
 

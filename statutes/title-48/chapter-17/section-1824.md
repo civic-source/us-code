@@ -3,9 +3,9 @@ title: "Section 1824 - Relations between courts of United States and courts of N
 usc_title: 48
 usc_section: "1824"
 chapter: 17
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "48 U.S.C. § 1824"
-generated_at: "2026-11-23T21:21:49.055Z"
+generated_at: "2026-11-23T21:24:00.940Z"
 status: "active"
 ---
 

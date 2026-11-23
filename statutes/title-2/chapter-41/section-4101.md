@@ -3,9 +3,9 @@ title: "Section 4101 - Authority of officers of Congress over Congressional empl
 usc_title: 2
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 4101"
-generated_at: "2026-11-23T21:20:18.077Z"
+generated_at: "2026-11-23T21:22:38.076Z"
 status: "active"
 ---
 

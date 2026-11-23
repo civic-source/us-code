@@ -3,9 +3,9 @@ title: "Section 5107 - Reports"
 usc_title: 15
 usc_section: "5107"
 chapter: 77
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 5107"
-generated_at: "2026-11-23T21:20:45.313Z"
+generated_at: "2026-11-23T21:22:58.399Z"
 status: "active"
 ---
 

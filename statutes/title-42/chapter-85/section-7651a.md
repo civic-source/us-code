@@ -3,9 +3,9 @@ title: "Section 7651a - Definitions"
 usc_title: 42
 usc_section: "7651a"
 chapter: 85
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 7651a"
-generated_at: "2026-11-23T21:21:46.340Z"
+generated_at: "2026-11-23T21:23:55.790Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9124 - Waiver by the Secretary of State"
 usc_title: 22
 usc_section: "9124"
 chapter: 98
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 9124"
-generated_at: "2026-11-23T21:21:08.561Z"
+generated_at: "2026-11-23T21:23:19.590Z"
 status: "active"
 ---
 

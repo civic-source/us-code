@@ -3,9 +3,9 @@ title: "Section 3509 - Notification of violations of Federal criminal law or ove
 usc_title: 41
 usc_section: "3509"
 chapter: 35
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "41 U.S.C. § 3509"
-generated_at: "2026-11-23T21:21:32.894Z"
+generated_at: "2026-11-23T21:23:43.388Z"
 status: "active"
 ---
 

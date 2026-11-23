@@ -3,9 +3,9 @@ title: "Section 4236 - Negotiation of price for technical data before developmen
 usc_title: 10
 usc_section: "4236"
 chapter: 322
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 4236"
-generated_at: "2026-11-23T21:20:35.207Z"
+generated_at: "2026-11-23T21:22:51.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31102 - Motor carrier safety assistance program"
 usc_title: 49
 usc_section: "31102"
 chapter: 311
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 31102"
-generated_at: "2026-11-23T21:21:54.509Z"
+generated_at: "2026-11-23T21:24:11.106Z"
 status: "active"
 ---
 

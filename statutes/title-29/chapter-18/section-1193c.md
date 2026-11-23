@@ -3,9 +3,9 @@ title: "Section 1193c - Report to Congress on emergency savings accounts"
 usc_title: 29
 usc_section: "1193c"
 chapter: 18
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 1193c"
-generated_at: "2026-11-23T21:21:13.194Z"
+generated_at: "2026-11-23T21:23:23.573Z"
 status: "active"
 ---
 

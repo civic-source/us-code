@@ -3,9 +3,9 @@ title: "Section 3374 - Requirements with respect to duty to warn former senior o
 usc_title: 50
 usc_section: "3374"
 chapter: 45
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3374"
-generated_at: "2026-11-23T21:21:52.029Z"
+generated_at: "2026-11-23T21:24:06.302Z"
 status: "active"
 ---
 

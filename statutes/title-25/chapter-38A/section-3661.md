@@ -3,9 +3,9 @@ title: "Section 3661 - Tribal justice training and technical assistance grants"
 usc_title: 25
 usc_section: "3661"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "25 U.S.C. § 3661"
-generated_at: "2026-11-23T21:21:02.410Z"
+generated_at: "2026-11-23T21:23:14.764Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12g - Albuquerque Metropolitan Area Water Reclamation and Reuse 
 usc_title: 43
 usc_section: "12g"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 12g"
-generated_at: "2026-11-23T21:21:33.956Z"
+generated_at: "2026-11-23T21:23:42.629Z"
 status: "active"
 ---
 

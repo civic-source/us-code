@@ -3,9 +3,9 @@ title: "Section 1257 - Mine water pollution control demonstrations"
 usc_title: 33
 usc_section: "1257"
 chapter: 26
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 1257"
-generated_at: "2026-11-23T21:21:23.099Z"
+generated_at: "2026-11-23T21:23:34.851Z"
 status: "active"
 ---
 

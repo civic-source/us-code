@@ -3,9 +3,9 @@ title: "Section 1 - Office of the Comptroller of the Currency"
 usc_title: 12
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-11-23T21:20:40.859Z"
+generated_at: "2026-11-23T21:23:00.657Z"
 status: "active"
 ---
 

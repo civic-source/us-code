@@ -3,9 +3,9 @@ title: "Section 55109 - Dredging"
 usc_title: 46
 usc_section: "55109"
 chapter: 551
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 55109"
-generated_at: "2026-11-23T21:21:50.762Z"
+generated_at: "2026-11-23T21:24:03.347Z"
 status: "active"
 ---
 

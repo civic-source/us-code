@@ -3,9 +3,9 @@ title: "Section 17501 - Definitions"
 usc_title: 40
 usc_section: "17501"
 chapter: 175
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "40 U.S.C. § 17501"
-generated_at: "2026-11-23T21:21:30.747Z"
+generated_at: "2026-11-23T21:23:37.353Z"
 status: "active"
 ---
 

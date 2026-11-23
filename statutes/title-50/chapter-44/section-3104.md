@@ -3,9 +3,9 @@ title: "Section 3104 - Reports on security clearances"
 usc_title: 50
 usc_section: "3104"
 chapter: 44
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3104"
-generated_at: "2026-11-23T21:21:51.959Z"
+generated_at: "2026-11-23T21:24:06.161Z"
 status: "active"
 ---
 

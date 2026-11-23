@@ -3,9 +3,9 @@ title: "Section 284g - Expansion, intensification, and coordination of activitie
 usc_title: 42
 usc_section: "284g"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 284g"
-generated_at: "2026-11-23T21:21:44.370Z"
+generated_at: "2026-11-23T21:23:54.377Z"
 status: "active"
 ---
 

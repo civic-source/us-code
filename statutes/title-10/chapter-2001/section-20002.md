@@ -3,9 +3,9 @@ title: "Section 20002 - Members: duty status"
 usc_title: 10
 usc_section: "20002"
 chapter: 2001
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 20002"
-generated_at: "2026-11-23T21:20:35.735Z"
+generated_at: "2026-11-23T21:22:52.324Z"
 status: "active"
 ---
 

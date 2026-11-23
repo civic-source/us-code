@@ -3,9 +3,9 @@ title: "Section 10404 - Allocation and distribution of funds"
 usc_title: 34
 usc_section: "10404"
 chapter: 101
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 10404"
-generated_at: "2026-11-23T21:21:24.833Z"
+generated_at: "2026-11-23T21:23:33.503Z"
 status: "active"
 ---
 

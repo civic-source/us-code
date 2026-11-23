@@ -3,9 +3,9 @@ title: "Section 2003 - Staffing requirements"
 usc_title: 38
 usc_section: "2003"
 chapter: 20
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 2003"
-generated_at: "2026-11-23T21:21:30.009Z"
+generated_at: "2026-11-23T21:23:40.430Z"
 status: "active"
 ---
 

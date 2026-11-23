@@ -3,9 +3,9 @@ title: "Section 3610 - FedRAMP Board"
 usc_title: 44
 usc_section: "3610"
 chapter: 36
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "44 U.S.C. § 3610"
-generated_at: "2026-11-23T21:21:33.250Z"
+generated_at: "2026-11-23T21:23:43.714Z"
 status: "active"
 ---
 

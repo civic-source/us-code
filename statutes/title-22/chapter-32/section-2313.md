@@ -3,9 +3,9 @@ title: "Section 2313 - Transferred"
 usc_title: 22
 usc_section: "2313"
 chapter: 32
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2313"
-generated_at: "2026-11-23T21:21:08.137Z"
+generated_at: "2026-11-23T21:23:19.191Z"
 status: "transferred"
 ---
 

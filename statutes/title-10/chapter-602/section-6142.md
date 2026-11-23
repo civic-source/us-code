@@ -3,9 +3,9 @@ title: "Section 6142 - Tritium recycling"
 usc_title: 10
 usc_section: "6142"
 chapter: 602
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 6142"
-generated_at: "2026-11-23T21:20:35.306Z"
+generated_at: "2026-11-23T21:22:51.968Z"
 status: "active"
 ---
 

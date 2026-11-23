@@ -3,9 +3,9 @@ title: "Section 2704 - Treatment of certain lapsing rights and restrictions"
 usc_title: 26
 usc_section: "2704"
 chapter: 14
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 2704"
-generated_at: "2026-11-23T21:21:20.053Z"
+generated_at: "2026-11-23T21:23:29.340Z"
 status: "active"
 ---
 

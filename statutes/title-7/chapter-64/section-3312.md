@@ -3,9 +3,9 @@ title: "Section 3312 - Authorization of appropriations for extension education"
 usc_title: 7
 usc_section: "3312"
 chapter: 64
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 3312"
-generated_at: "2026-11-23T21:20:28.087Z"
+generated_at: "2026-11-23T21:22:46.247Z"
 status: "active"
 ---
 

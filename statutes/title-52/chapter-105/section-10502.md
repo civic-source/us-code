@@ -3,9 +3,9 @@ title: "Section 10502 - Residence requirements for voting"
 usc_title: 52
 usc_section: "10502"
 chapter: 105
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "52 U.S.C. § 10502"
-generated_at: "2026-11-23T21:21:56.998Z"
+generated_at: "2026-11-23T21:24:13.772Z"
 status: "active"
 ---
 

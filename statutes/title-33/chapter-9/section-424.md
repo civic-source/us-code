@@ -3,9 +3,9 @@ title: "Section 424 - Establishment of pierhead or bulkhead lines in Newport Har
 usc_title: 33
 usc_section: "424"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 424"
-generated_at: "2026-11-23T21:21:23.002Z"
+generated_at: "2026-11-23T21:23:34.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2578a - Equivalence determinations"
 usc_title: 19
 usc_section: "2578a"
 chapter: 13
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 2578a"
-generated_at: "2026-11-23T21:20:50.334Z"
+generated_at: "2026-11-23T21:23:05.656Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2341 - Definitions"
 usc_title: 21
 usc_section: "2341"
 chapter: 28
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 2341"
-generated_at: "2026-11-23T21:21:05.356Z"
+generated_at: "2026-11-23T21:23:16.687Z"
 status: "active"
 ---
 
@@ -41,6 +41,16 @@ In this chapter:
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

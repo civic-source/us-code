@@ -3,9 +3,9 @@ title: "Section 224 - Repealed. Pub. L. 110–69, title III, § 3013(c)(2) , Aug
 usc_title: 15
 usc_section: "224"
 chapter: 6
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 224"
-generated_at: "2026-11-23T21:20:44.816Z"
+generated_at: "2026-11-23T21:22:57.786Z"
 status: "repealed"
 ---
 

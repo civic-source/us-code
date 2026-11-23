@@ -3,9 +3,9 @@ title: "Section 14104 - Nondisclosure of board proceedings"
 usc_title: 10
 usc_section: "14104"
 chapter: 1403
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 14104"
-generated_at: "2026-11-23T21:20:35.701Z"
+generated_at: "2026-11-23T21:22:52.287Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 441f - Adjustment and redefinition of boundaries"
 usc_title: 16
 usc_section: "441f"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 441f"
-generated_at: "2026-11-23T21:20:54.340Z"
+generated_at: "2026-11-23T21:23:11.080Z"
 status: "active"
 ---
 

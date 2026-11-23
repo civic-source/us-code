@@ -3,9 +3,9 @@ title: "Section 3011 - Basic educational assistance entitlement for service on a
 usc_title: 38
 usc_section: "3011"
 chapter: 30
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 3011"
-generated_at: "2026-11-23T21:21:30.044Z"
+generated_at: "2026-11-23T21:23:40.469Z"
 status: "active"
 ---
 

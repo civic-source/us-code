@@ -3,9 +3,9 @@ title: "Section 6508 - Transfers from appropriations account for expenses of Off
 usc_title: 2
 usc_section: "6508"
 chapter: 65
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 6508"
-generated_at: "2026-11-23T21:20:18.161Z"
+generated_at: "2026-11-23T21:22:38.135Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1226c - Biennial evaluation report"
 usc_title: 20
 usc_section: "1226c"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 1226c"
-generated_at: "2026-11-23T21:20:58.587Z"
+generated_at: "2026-11-23T21:23:07.870Z"
 status: "active"
 ---
 

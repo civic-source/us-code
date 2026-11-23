@@ -3,9 +3,9 @@ title: "Section 1114 - Surface transportation security technology information sh
 usc_title: 6
 usc_section: "1114"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "6 U.S.C. § 1114"
-generated_at: "2026-11-23T21:20:23.058Z"
+generated_at: "2026-11-23T21:22:43.569Z"
 status: "active"
 ---
 

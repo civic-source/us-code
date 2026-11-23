@@ -3,9 +3,9 @@ title: "Section 6313 - Standards"
 usc_title: 42
 usc_section: "6313"
 chapter: 77
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 6313"
-generated_at: "2026-11-23T21:21:46.119Z"
+generated_at: "2026-11-23T21:23:55.549Z"
 status: "active"
 ---
 

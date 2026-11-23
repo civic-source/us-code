@@ -3,9 +3,9 @@ title: "Section 949 - Use for canal or ditch only"
 usc_title: 43
 usc_section: "949"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 949"
-generated_at: "2026-11-23T21:21:34.054Z"
+generated_at: "2026-11-23T21:23:42.689Z"
 status: "active"
 ---
 

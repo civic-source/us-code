@@ -3,9 +3,9 @@ title: "Section 1927 - Repayment requirements"
 usc_title: 7
 usc_section: "1927"
 chapter: 50
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 1927"
-generated_at: "2026-11-23T21:20:27.806Z"
+generated_at: "2026-11-23T21:22:46.098Z"
 status: "active"
 ---
 

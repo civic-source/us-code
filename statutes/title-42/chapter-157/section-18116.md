@@ -3,9 +3,9 @@ title: "Section 18116 - Nondiscrimination"
 usc_title: 42
 usc_section: "18116"
 chapter: 157
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 18116"
-generated_at: "2026-11-23T21:21:47.016Z"
+generated_at: "2026-11-23T21:23:56.472Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7171 - Purpose; definitions"
 usc_title: 20
 usc_section: "7171"
 chapter: 70
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 7171"
-generated_at: "2026-11-23T21:20:58.876Z"
+generated_at: "2026-11-23T21:23:08.076Z"
 status: "active"
 ---
 

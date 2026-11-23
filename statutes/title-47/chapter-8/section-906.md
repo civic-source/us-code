@@ -3,9 +3,9 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-11-23T21:21:49.669Z"
+generated_at: "2026-11-23T21:24:00.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 240b - Financial Improvement and Audit Remediation Plan"
 usc_title: 10
 usc_section: "240b"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 240b"
-generated_at: "2026-11-23T21:20:34.295Z"
+generated_at: "2026-11-23T21:22:51.047Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 120102 - Establishment of National Heritage Area System"
 usc_title: 54
 usc_section: "120102"
 chapter: 1201
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "54 U.S.C. § 120102"
-generated_at: "2026-11-23T21:21:56.807Z"
+generated_at: "2026-11-23T21:24:15.360Z"
 status: "active"
 ---
 

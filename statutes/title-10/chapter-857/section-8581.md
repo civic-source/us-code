@@ -3,9 +3,9 @@ title: "Section 8581 - Civilian member: definition; exceptions"
 usc_title: 10
 usc_section: "8581"
 chapter: 857
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8581"
-generated_at: "2026-11-23T21:20:35.475Z"
+generated_at: "2026-11-23T21:22:52.128Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2405 - Repealed. Pub. L. 105–332, § 6(b)(3) , Oct. 31, 1998 ,
 usc_title: 29
 usc_section: "2405"
 chapter: 26
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 2405"
-generated_at: "2026-11-23T21:21:13.237Z"
+generated_at: "2026-11-23T21:23:23.617Z"
 status: "repealed"
 ---
 

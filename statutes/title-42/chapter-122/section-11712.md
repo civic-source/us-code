@@ -3,9 +3,9 @@ title: "Section 11712 - Rule of construction"
 usc_title: 42
 usc_section: "11712"
 chapter: 122
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 11712"
-generated_at: "2026-11-23T21:21:46.640Z"
+generated_at: "2026-11-23T21:23:56.087Z"
 status: "active"
 ---
 

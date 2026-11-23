@@ -3,9 +3,9 @@ title: "Section 3113 - Vocational rehabilitation for hospitalized members of the
 usc_title: 38
 usc_section: "3113"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 3113"
-generated_at: "2026-11-23T21:21:30.069Z"
+generated_at: "2026-11-23T21:23:40.484Z"
 status: "active"
 ---
 

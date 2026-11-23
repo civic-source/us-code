@@ -3,9 +3,9 @@ title: "Section 2818 - Contracts for design and construction of facilities of De
 usc_title: 10
 usc_section: "2818"
 chapter: 169
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2818"
-generated_at: "2026-11-23T21:20:35.036Z"
+generated_at: "2026-11-23T21:22:51.745Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1924 - In-service waiver of premiums"
 usc_title: 38
 usc_section: "1924"
 chapter: 19
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 1924"
-generated_at: "2026-11-23T21:21:29.992Z"
+generated_at: "2026-11-23T21:23:40.412Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70906 - International Space Station National Laboratory Advisory
 usc_title: 51
 usc_section: "70906"
 chapter: 709
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "51 U.S.C. § 70906"
-generated_at: "2026-11-23T21:21:56.368Z"
+generated_at: "2026-11-23T21:24:14.453Z"
 status: "active"
 ---
 

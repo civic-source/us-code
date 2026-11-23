@@ -3,9 +3,9 @@ title: "Section 801 - Transfer of license; obligations of transferee"
 usc_title: 16
 usc_section: "801"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 801"
-generated_at: "2026-11-23T21:20:54.682Z"
+generated_at: "2026-11-23T21:23:11.404Z"
 status: "active"
 ---
 

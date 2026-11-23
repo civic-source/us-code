@@ -3,9 +3,9 @@ title: "Section 2228 - CPR training"
 usc_title: 15
 usc_section: "2228"
 chapter: 49
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 2228"
-generated_at: "2026-11-23T21:20:45.208Z"
+generated_at: "2026-11-23T21:22:58.240Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7511 - Definitions; application"
 usc_title: 5
 usc_section: "7511"
 chapter: 75
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 7511"
-generated_at: "2026-11-23T21:20:20.491Z"
+generated_at: "2026-11-23T21:22:40.405Z"
 status: "active"
 ---
 

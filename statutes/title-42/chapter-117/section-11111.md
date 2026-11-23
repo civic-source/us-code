@@ -3,9 +3,9 @@ title: "Section 11111 - Professional review"
 usc_title: 42
 usc_section: "11111"
 chapter: 117
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 11111"
-generated_at: "2026-11-23T21:21:46.599Z"
+generated_at: "2026-11-23T21:23:56.050Z"
 status: "active"
 ---
 

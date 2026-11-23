@@ -3,9 +3,9 @@ title: "Section 2487 - Transferred"
 usc_title: 42
 usc_section: "2487"
 chapter: 26
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 2487"
-generated_at: "2026-11-23T21:21:45.741Z"
+generated_at: "2026-11-23T21:23:55.314Z"
 status: "transferred"
 ---
 

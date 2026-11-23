@@ -3,9 +3,9 @@ title: "Section 2799b - Authorities"
 usc_title: 22
 usc_section: "2799b"
 chapter: 39
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2799b"
-generated_at: "2026-11-23T21:21:08.273Z"
+generated_at: "2026-11-23T21:23:19.330Z"
 status: "active"
 ---
 

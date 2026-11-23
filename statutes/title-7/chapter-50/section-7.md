@@ -3,9 +3,9 @@ title: "Section 7 - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(H) , De
 usc_title: 7
 usc_section: "7"
 chapter: 50
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-11-23T21:20:27.878Z"
+generated_at: "2026-11-23T21:22:46.143Z"
 status: "repealed"
 ---
 

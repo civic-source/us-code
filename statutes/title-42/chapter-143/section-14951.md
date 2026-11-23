@@ -3,9 +3,9 @@ title: "Section 14951 - Recognition of Convention adoptions"
 usc_title: 42
 usc_section: "14951"
 chapter: 143
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 14951"
-generated_at: "2026-11-23T21:21:46.827Z"
+generated_at: "2026-11-23T21:23:56.263Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41717 - Interim application of slot rules at Chicago O’Hare In
 usc_title: 49
 usc_section: "41717"
 chapter: 417
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 41717"
-generated_at: "2026-11-23T21:21:54.627Z"
+generated_at: "2026-11-23T21:24:11.275Z"
 status: "active"
 ---
 

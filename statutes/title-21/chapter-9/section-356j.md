@@ -3,9 +3,9 @@ title: "Section 356j - Discontinuance or interruption in the production of medic
 usc_title: 21
 usc_section: "356j"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 356j"
-generated_at: "2026-11-23T21:21:05.101Z"
+generated_at: "2026-11-23T21:23:16.497Z"
 status: "active"
 ---
 

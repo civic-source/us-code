@@ -3,9 +3,9 @@ title: "Section 1968 - Duration and termination of coverage; conversion"
 usc_title: 38
 usc_section: "1968"
 chapter: 19
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 1968"
-generated_at: "2026-11-23T21:21:30.001Z"
+generated_at: "2026-11-23T21:23:40.421Z"
 status: "active"
 ---
 

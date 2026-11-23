@@ -3,9 +3,9 @@ title: "Section 568g - Omitted"
 usc_title: 16
 usc_section: "568g"
 chapter: 3
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 568g"
-generated_at: "2026-11-23T21:20:54.563Z"
+generated_at: "2026-11-23T21:23:11.268Z"
 status: "omitted"
 ---
 

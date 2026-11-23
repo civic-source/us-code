@@ -3,9 +3,9 @@ title: "Section 30501 - Lessons learned and best practices"
 usc_title: 51
 usc_section: "30501"
 chapter: 305
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "51 U.S.C. § 30501"
-generated_at: "2026-11-23T21:21:56.306Z"
+generated_at: "2026-11-23T21:24:14.355Z"
 status: "active"
 ---
 

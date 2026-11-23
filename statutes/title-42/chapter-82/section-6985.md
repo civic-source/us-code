@@ -3,9 +3,9 @@ title: "Section 6985 - Special study and demonstration projects on recovery of u
 usc_title: 42
 usc_section: "6985"
 chapter: 82
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 6985"
-generated_at: "2026-11-23T21:21:46.206Z"
+generated_at: "2026-11-23T21:23:55.642Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 950cc - Public notice, assessments, and reporting requirements"
 usc_title: 7
 usc_section: "950cc"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 950cc"
-generated_at: "2026-11-23T21:20:27.591Z"
+generated_at: "2026-11-23T21:22:45.918Z"
 status: "active"
 ---
 

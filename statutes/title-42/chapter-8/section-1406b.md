@@ -3,9 +3,9 @@ title: "Section 1406b - Expenses of uncompensated advisers serving United States
 usc_title: 42
 usc_section: "1406b"
 chapter: 8
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1406b"
-generated_at: "2026-11-23T21:21:45.467Z"
+generated_at: "2026-11-23T21:23:55.114Z"
 status: "active"
 ---
 

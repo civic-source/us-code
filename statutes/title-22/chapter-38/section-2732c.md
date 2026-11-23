@@ -3,9 +3,9 @@ title: "Section 2732c - Submission of federally funded research and development 
 usc_title: 22
 usc_section: "2732c"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 2732c"
-generated_at: "2026-11-23T21:21:08.249Z"
+generated_at: "2026-11-23T21:23:19.307Z"
 status: "active"
 ---
 

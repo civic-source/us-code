@@ -3,9 +3,9 @@ title: "Section 6284 - Notification of cost overruns for certain Department of E
 usc_title: 10
 usc_section: "6284"
 chapter: 607
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 6284"
-generated_at: "2026-11-23T21:20:35.318Z"
+generated_at: "2026-11-23T21:22:51.983Z"
 status: "active"
 ---
 

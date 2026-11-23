@@ -3,9 +3,9 @@ title: "Section 5872 - Forfeitures"
 usc_title: 26
 usc_section: "5872"
 chapter: 53
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 5872"
-generated_at: "2026-11-23T21:21:20.206Z"
+generated_at: "2026-11-23T21:23:29.510Z"
 status: "active"
 ---
 

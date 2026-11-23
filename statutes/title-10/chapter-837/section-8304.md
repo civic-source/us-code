@@ -3,9 +3,9 @@ title: "Section 8304 - Availability of appropriations"
 usc_title: 10
 usc_section: "8304"
 chapter: 837
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 8304"
-generated_at: "2026-11-23T21:20:35.435Z"
+generated_at: "2026-11-23T21:22:52.095Z"
 status: "active"
 ---
 

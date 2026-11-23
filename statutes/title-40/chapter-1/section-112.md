@@ -3,9 +3,9 @@ title: "Section 112 - Applicability of certain policies, procedures, and directi
 usc_title: 40
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "40 U.S.C. § 112"
-generated_at: "2026-11-23T21:21:30.636Z"
+generated_at: "2026-11-23T21:23:37.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Privacy and civil liberties officers"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:21:45.657Z"
+generated_at: "2026-11-23T21:23:55.261Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9781 - Disposition of real property at missile sites"
 usc_title: 10
 usc_section: "9781"
 chapter: 979
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 9781"
-generated_at: "2026-11-23T21:20:35.635Z"
+generated_at: "2026-11-23T21:22:52.237Z"
 status: "active"
 ---
 

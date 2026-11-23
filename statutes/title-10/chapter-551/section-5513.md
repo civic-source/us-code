@@ -3,9 +3,9 @@ title: "Section 5513 - Unfunded priorities of the Missile Defense Agency: annual
 usc_title: 10
 usc_section: "5513"
 chapter: 551
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 5513"
-generated_at: "2026-11-23T21:20:35.286Z"
+generated_at: "2026-11-23T21:22:51.947Z"
 status: "active"
 ---
 

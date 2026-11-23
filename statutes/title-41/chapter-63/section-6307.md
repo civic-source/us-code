@@ -3,9 +3,9 @@ title: "Section 6307 - Contracts with Federal Government-owned establishments an
 usc_title: 41
 usc_section: "6307"
 chapter: 63
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "41 U.S.C. § 6307"
-generated_at: "2026-11-23T21:21:32.910Z"
+generated_at: "2026-11-23T21:23:43.416Z"
 status: "active"
 ---
 

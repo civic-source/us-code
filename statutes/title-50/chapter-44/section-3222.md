@@ -3,9 +3,9 @@ title: "Section 3222 - Program on recruitment and training"
 usc_title: 50
 usc_section: "3222"
 chapter: 44
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3222"
-generated_at: "2026-11-23T21:21:51.976Z"
+generated_at: "2026-11-23T21:24:06.197Z"
 status: "active"
 ---
 

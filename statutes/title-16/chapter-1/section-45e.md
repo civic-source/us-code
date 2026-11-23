@@ -3,9 +3,9 @@ title: "Section 45e - Violations of park regulations; penalty"
 usc_title: 16
 usc_section: "45e"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 45e"
-generated_at: "2026-11-23T21:20:54.087Z"
+generated_at: "2026-11-23T21:23:10.923Z"
 status: "active"
 ---
 

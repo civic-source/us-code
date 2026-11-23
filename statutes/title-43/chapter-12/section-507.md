@@ -3,9 +3,9 @@ title: "Section 507 - Construction for dam safety"
 usc_title: 43
 usc_section: "507"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 507"
-generated_at: "2026-11-23T21:21:33.999Z"
+generated_at: "2026-11-23T21:23:42.656Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8128 - Review of award"
 usc_title: 5
 usc_section: "8128"
 chapter: 81
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 8128"
-generated_at: "2026-11-23T21:20:20.515Z"
+generated_at: "2026-11-23T21:22:40.430Z"
 status: "active"
 ---
 

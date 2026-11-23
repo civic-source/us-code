@@ -3,9 +3,9 @@ title: "Section 1012a - Townsites"
 usc_title: 7
 usc_section: "1012a"
 chapter: 33
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 1012a"
-generated_at: "2026-11-23T21:20:27.597Z"
+generated_at: "2026-11-23T21:22:45.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 411b - Renumbered § 481b]"
 usc_title: 37
 usc_section: "411b"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "37 U.S.C. § 411b"
-generated_at: "2026-11-23T21:21:28.174Z"
+generated_at: "2026-11-23T21:23:38.796Z"
 status: "renumbered"
 ---
 

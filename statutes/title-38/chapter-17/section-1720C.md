@@ -3,9 +3,9 @@ title: "Section 1720C - Noninstitutional alternatives to nursing home care"
 usc_title: 38
 usc_section: "1720C"
 chapter: 17
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 1720C"
-generated_at: "2026-11-23T21:21:29.950Z"
+generated_at: "2026-11-23T21:23:40.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 174 - Amortization of research and experimental expenditures"
 usc_title: 26
 usc_section: "174"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 174"
-generated_at: "2026-11-23T21:21:19.416Z"
+generated_at: "2026-11-23T21:23:28.787Z"
 status: "active"
 ---
 

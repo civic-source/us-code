@@ -3,9 +3,9 @@ title: "Section 360ee - Grants and contracts for development of drugs for rare d
 usc_title: 21
 usc_section: "360ee"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 360ee"
-generated_at: "2026-11-23T21:21:05.142Z"
+generated_at: "2026-11-23T21:23:16.517Z"
 status: "active"
 ---
 
@@ -34,6 +34,8 @@ In general
 Use of data
 
 Noninterference with clinical trials
+
+Renewal of grants for research on therapies for als review
 
 Selection
 

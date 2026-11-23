@@ -3,9 +3,9 @@ title: "Section 18117 - Oversight"
 usc_title: 42
 usc_section: "18117"
 chapter: 157
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 18117"
-generated_at: "2026-11-23T21:21:47.016Z"
+generated_at: "2026-11-23T21:23:56.472Z"
 status: "active"
 ---
 

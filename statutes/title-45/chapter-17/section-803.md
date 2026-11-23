@@ -3,9 +3,9 @@ title: "Section 803 - Repealed. Pub. L. 97–449, § 7(b) , Jan. 12, 1983 , 96 S
 usc_title: 45
 usc_section: "803"
 chapter: 17
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "45 U.S.C. § 803"
-generated_at: "2026-11-23T21:21:32.385Z"
+generated_at: "2026-11-23T21:23:43.957Z"
 status: "repealed"
 ---
 

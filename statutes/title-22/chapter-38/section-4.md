@@ -3,9 +3,9 @@ title: "Section 4 - Periodic briefings from Bureau of Intelligence and Research"
 usc_title: 22
 usc_section: "4"
 chapter: 38
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-11-23T21:21:08.233Z"
+generated_at: "2026-11-23T21:23:19.292Z"
 status: "active"
 ---
 

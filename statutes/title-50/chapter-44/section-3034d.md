@@ -3,9 +3,9 @@ title: "Section 3034d - National Intelligence Management Council"
 usc_title: 50
 usc_section: "3034d"
 chapter: 44
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "50 U.S.C. § 3034d"
-generated_at: "2026-11-23T21:21:51.936Z"
+generated_at: "2026-11-23T21:24:06.113Z"
 status: "active"
 ---
 

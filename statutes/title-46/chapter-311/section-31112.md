@@ -3,9 +3,9 @@ title: "Section 31112 - Lien not recognized or created"
 usc_title: 46
 usc_section: "31112"
 chapter: 311
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "46 U.S.C. § 31112"
-generated_at: "2026-11-23T21:21:50.640Z"
+generated_at: "2026-11-23T21:24:03.208Z"
 status: "active"
 ---
 

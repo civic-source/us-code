@@ -3,9 +3,9 @@ title: "Section 2014 - Training and technical assistance for recipients of certa
 usc_title: 38
 usc_section: "2014"
 chapter: 20
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 2014"
-generated_at: "2026-11-23T21:21:30.012Z"
+generated_at: "2026-11-23T21:23:40.433Z"
 status: "active"
 ---
 

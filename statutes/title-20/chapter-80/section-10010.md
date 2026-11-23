@@ -3,9 +3,9 @@ title: "Section 10010 - Secretary’s report to Congress"
 usc_title: 20
 usc_section: "10010"
 chapter: 80
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "20 U.S.C. § 10010"
-generated_at: "2026-11-23T21:20:59.004Z"
+generated_at: "2026-11-23T21:23:08.146Z"
 status: "active"
 ---
 

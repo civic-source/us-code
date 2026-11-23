@@ -3,9 +3,9 @@ title: "Section 895 - Repealed. Pub. L. 91–452, title II, § 223(a) , Oct. 15,
 usc_title: 18
 usc_section: "895"
 chapter: 42
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "18 U.S.C. § 895"
-generated_at: "2026-11-23T21:20:48.319Z"
+generated_at: "2026-11-23T21:23:04.040Z"
 status: "repealed"
 ---
 

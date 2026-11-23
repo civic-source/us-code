@@ -3,9 +3,9 @@ title: "Section 17i - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17i"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 17i"
-generated_at: "2026-11-23T21:20:54.074Z"
+generated_at: "2026-11-23T21:23:10.919Z"
 status: "repealed"
 ---
 

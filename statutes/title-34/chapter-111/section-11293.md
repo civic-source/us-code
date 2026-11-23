@@ -3,9 +3,9 @@ title: "Section 11293 - Duties and functions of the Administrator"
 usc_title: 34
 usc_section: "11293"
 chapter: 111
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "34 U.S.C. § 11293"
-generated_at: "2026-11-23T21:21:24.899Z"
+generated_at: "2026-11-23T21:23:33.554Z"
 status: "active"
 ---
 

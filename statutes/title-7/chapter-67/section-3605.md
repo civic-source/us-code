@@ -3,9 +3,9 @@ title: "Section 3605 - Repealed. Pub. L. 105–277, div. G , subdiv. B, title XX
 usc_title: 7
 usc_section: "3605"
 chapter: 67
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 3605"
-generated_at: "2026-11-23T21:20:28.103Z"
+generated_at: "2026-11-23T21:22:46.257Z"
 status: "repealed"
 ---
 

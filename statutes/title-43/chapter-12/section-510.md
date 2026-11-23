@@ -3,9 +3,9 @@ title: "Section 510 - Definitions"
 usc_title: 43
 usc_section: "510"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 510"
-generated_at: "2026-11-23T21:21:34.000Z"
+generated_at: "2026-11-23T21:23:42.657Z"
 status: "active"
 ---
 

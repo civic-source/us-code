@@ -3,9 +3,9 @@ title: "Section 95b - Transferred"
 usc_title: 2
 usc_section: "95b"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "2 U.S.C. § 95b"
-generated_at: "2026-11-23T21:20:17.839Z"
+generated_at: "2026-11-23T21:22:37.924Z"
 status: "transferred"
 ---
 

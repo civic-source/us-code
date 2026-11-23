@@ -3,9 +3,9 @@ title: "Section 11 - Definitions"
 usc_title: 21
 usc_section: "11"
 chapter: 9
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-11-23T21:21:05.199Z"
+generated_at: "2026-11-23T21:23:16.553Z"
 status: "active"
 ---
 

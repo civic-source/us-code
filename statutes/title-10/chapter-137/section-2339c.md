@@ -3,9 +3,9 @@ title: "Section 2339c - Renumbered § 8755]"
 usc_title: 10
 usc_section: "2339c"
 chapter: 137
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 2339c"
-generated_at: "2026-11-23T21:20:34.872Z"
+generated_at: "2026-11-23T21:22:51.608Z"
 status: "renumbered"
 ---
 

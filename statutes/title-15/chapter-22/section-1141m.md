@@ -3,9 +3,9 @@ title: "Section 1141m - Incontestability"
 usc_title: 15
 usc_section: "1141m"
 chapter: 22
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "15 U.S.C. § 1141m"
-generated_at: "2026-11-23T21:20:45.055Z"
+generated_at: "2026-11-23T21:22:58.053Z"
 status: "active"
 ---
 

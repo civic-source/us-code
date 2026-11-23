@@ -3,9 +3,9 @@ title: "Section 21102 - Nonapplication, exemption, and alternate hours of servic
 usc_title: 49
 usc_section: "21102"
 chapter: 211
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 21102"
-generated_at: "2026-11-23T21:21:54.414Z"
+generated_at: "2026-11-23T21:24:10.990Z"
 status: "active"
 ---
 

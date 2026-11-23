@@ -3,9 +3,9 @@ title: "Section 1119 - Repealed. Pub. L. 118–190, § 6(a) , Dec. 23, 2024 , 13
 usc_title: 31
 usc_section: "1119"
 chapter: 11
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "31 U.S.C. § 1119"
-generated_at: "2026-11-23T21:21:24.092Z"
+generated_at: "2026-11-23T21:23:32.469Z"
 status: "repealed"
 ---
 

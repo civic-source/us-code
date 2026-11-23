@@ -3,9 +3,9 @@ title: "Section 933 - Moneys in the Rural Electrification and Telephone Revolvin
 usc_title: 7
 usc_section: "933"
 chapter: 31
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 933"
-generated_at: "2026-11-23T21:20:27.578Z"
+generated_at: "2026-11-23T21:22:45.905Z"
 status: "active"
 ---
 

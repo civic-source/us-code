@@ -3,9 +3,9 @@ title: "Section 2506 - Limitations of suits to annul patents"
 usc_title: 43
 usc_section: "2506"
 chapter: 43
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "43 U.S.C. § 2506"
-generated_at: "2026-11-23T21:21:34.207Z"
+generated_at: "2026-11-23T21:23:42.783Z"
 status: "active"
 ---
 

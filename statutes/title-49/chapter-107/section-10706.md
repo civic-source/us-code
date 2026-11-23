@@ -3,9 +3,9 @@ title: "Section 10706 - Rate agreements: exemption from antitrust laws"
 usc_title: 49
 usc_section: "10706"
 chapter: 107
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 10706"
-generated_at: "2026-11-23T21:21:54.335Z"
+generated_at: "2026-11-23T21:24:10.850Z"
 status: "active"
 ---
 

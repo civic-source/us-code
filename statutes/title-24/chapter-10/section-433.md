@@ -3,9 +3,9 @@ title: "Section 433 - Repealed. Pub. L. 112–81, div. A, title V, § 567(a) , D
 usc_title: 24
 usc_section: "433"
 chapter: 10
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "24 U.S.C. § 433"
-generated_at: "2026-11-23T21:21:00.650Z"
+generated_at: "2026-11-23T21:23:13.423Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 949a - Rules"
 usc_title: 10
 usc_section: "949a"
 chapter: 47
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 949a"
-generated_at: "2026-11-23T21:20:34.458Z"
+generated_at: "2026-11-23T21:22:51.260Z"
 status: "active"
 ---
 

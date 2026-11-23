@@ -3,9 +3,9 @@ title: "Section 1012 - Repealed. Pub. L. 89–551, § 1(9) , Sept. 1, 1966 , 80 
 usc_title: 33
 usc_section: "1012"
 chapter: 20
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "33 U.S.C. § 1012"
-generated_at: "2026-11-23T21:21:23.091Z"
+generated_at: "2026-11-23T21:23:34.836Z"
 status: "repealed"
 ---
 

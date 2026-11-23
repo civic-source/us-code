@@ -3,9 +3,9 @@ title: "Section 3222 - Independent cost estimate required before approval"
 usc_title: 10
 usc_section: "3222"
 chapter: 222
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 3222"
-generated_at: "2026-11-23T21:20:35.104Z"
+generated_at: "2026-11-23T21:22:51.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3932 - Creation of corporations"
 usc_title: 42
 usc_section: "3932"
 chapter: 49
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 3932"
-generated_at: "2026-11-23T21:21:45.859Z"
+generated_at: "2026-11-23T21:23:55.389Z"
 status: "active"
 ---
 

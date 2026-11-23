@@ -3,9 +3,9 @@ title: "Section 459f - Assateague Island National Seashore; purposes; descriptio
 usc_title: 16
 usc_section: "459f"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 459f"
-generated_at: "2026-11-23T21:20:54.378Z"
+generated_at: "2026-11-23T21:23:11.099Z"
 status: "active"
 ---
 

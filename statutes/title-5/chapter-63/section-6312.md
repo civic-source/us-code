@@ -3,9 +3,9 @@ title: "Section 6312 - Accrual and accumulation for former ASCS county office an
 usc_title: 5
 usc_section: "6312"
 chapter: 63
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "5 U.S.C. § 6312"
-generated_at: "2026-11-23T21:20:20.462Z"
+generated_at: "2026-11-23T21:22:40.376Z"
 status: "active"
 ---
 

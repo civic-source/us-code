@@ -3,9 +3,9 @@ title: "Section 200307 - Restrictions"
 usc_title: 36
 usc_section: "200307"
 chapter: 2003
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 200307"
-generated_at: "2026-11-23T21:21:27.514Z"
+generated_at: "2026-11-23T21:23:38.445Z"
 status: "active"
 ---
 

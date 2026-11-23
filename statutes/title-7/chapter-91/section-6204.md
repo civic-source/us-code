@@ -3,9 +3,9 @@ title: "Section 6204 - Required terms in orders"
 usc_title: 7
 usc_section: "6204"
 chapter: 91
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "7 U.S.C. § 6204"
-generated_at: "2026-11-23T21:20:28.172Z"
+generated_at: "2026-11-23T21:22:46.311Z"
 status: "active"
 ---
 

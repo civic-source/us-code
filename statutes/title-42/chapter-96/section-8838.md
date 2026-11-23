@@ -3,9 +3,9 @@ title: "Section 8838 - Jurisdiction of Department of Energy and Environmental Pr
 usc_title: 42
 usc_section: "8838"
 chapter: 96
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "42 U.S.C. § 8838"
-generated_at: "2026-11-23T21:21:46.452Z"
+generated_at: "2026-11-23T21:23:55.890Z"
 status: "active"
 ---
 

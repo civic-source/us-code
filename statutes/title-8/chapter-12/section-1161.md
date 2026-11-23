@@ -3,9 +3,9 @@ title: "Section 1161 - Repealed. Pub. L. 103–416, title II, § 219(ee)(1) , Oc
 usc_title: 8
 usc_section: "1161"
 chapter: 12
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "8 U.S.C. § 1161"
-generated_at: "2026-11-23T21:20:23.953Z"
+generated_at: "2026-11-23T21:22:42.580Z"
 status: "repealed"
 ---
 

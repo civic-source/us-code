@@ -3,9 +3,9 @@ title: "Section 1922 - Legacy service disabled veterans’ insurance"
 usc_title: 38
 usc_section: "1922"
 chapter: 19
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "38 U.S.C. § 1922"
-generated_at: "2026-11-23T21:21:29.990Z"
+generated_at: "2026-11-23T21:23:40.410Z"
 status: "active"
 ---
 

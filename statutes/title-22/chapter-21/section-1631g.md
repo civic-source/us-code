@@ -3,9 +3,9 @@ title: "Section 1631g - Payment of debts"
 usc_title: 22
 usc_section: "1631g"
 chapter: 21
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "22 U.S.C. § 1631g"
-generated_at: "2026-11-23T21:21:08.044Z"
+generated_at: "2026-11-23T21:23:19.076Z"
 status: "active"
 ---
 

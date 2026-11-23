@@ -3,9 +3,9 @@ title: "Section 8443 - Monitoring for improved recreation decision making"
 usc_title: 16
 usc_section: "8443"
 chapter: 103
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 8443"
-generated_at: "2026-11-23T21:20:55.190Z"
+generated_at: "2026-11-23T21:23:11.896Z"
 status: "active"
 ---
 

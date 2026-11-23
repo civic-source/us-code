@@ -3,9 +3,9 @@ title: "Section 5701 - Rate of tax"
 usc_title: 26
 usc_section: "5701"
 chapter: 52
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "26 U.S.C. § 5701"
-generated_at: "2026-11-23T21:21:20.197Z"
+generated_at: "2026-11-23T21:23:29.502Z"
 status: "active"
 ---
 

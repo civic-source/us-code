@@ -3,9 +3,9 @@ title: "Section 26 - Transportation by contract"
 usc_title: 13
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "13 U.S.C. § 26"
-generated_at: "2026-11-23T21:20:37.186Z"
+generated_at: "2026-11-23T21:22:53.645Z"
 status: "active"
 ---
 

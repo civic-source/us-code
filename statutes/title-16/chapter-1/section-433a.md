@@ -3,9 +3,9 @@ title: "Section 433a - Perry’s Victory and International Peace Memorial; estab
 usc_title: 16
 usc_section: "433a"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "16 U.S.C. § 433a"
-generated_at: "2026-11-23T21:20:54.334Z"
+generated_at: "2026-11-23T21:23:11.078Z"
 status: "active"
 ---
 

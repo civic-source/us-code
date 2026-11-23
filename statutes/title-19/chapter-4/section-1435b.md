@@ -3,9 +3,9 @@ title: "Section 1435b - Repealed. Pub. L. 103–182, title VI, § 690(c)(6) , De
 usc_title: 19
 usc_section: "1435b"
 chapter: 4
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "19 U.S.C. § 1435b"
-generated_at: "2026-11-23T21:20:50.108Z"
+generated_at: "2026-11-23T21:23:05.515Z"
 status: "repealed"
 ---
 

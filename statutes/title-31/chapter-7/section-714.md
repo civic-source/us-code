@@ -3,9 +3,9 @@ title: "Section 714 - Audit of Financial Institutions Examination Council, Feder
 usc_title: 31
 usc_section: "714"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "31 U.S.C. § 714"
-generated_at: "2026-11-23T21:21:24.072Z"
+generated_at: "2026-11-23T21:23:32.428Z"
 status: "active"
 ---
 

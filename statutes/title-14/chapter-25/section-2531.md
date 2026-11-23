@@ -3,9 +3,9 @@ title: "Section 2531 - Comprehensive policy and procedures on retention and acce
 usc_title: 14
 usc_section: "2531"
 chapter: 25
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "14 U.S.C. § 2531"
-generated_at: "2026-11-23T21:20:38.290Z"
+generated_at: "2026-11-23T21:22:54.525Z"
 status: "active"
 ---
 

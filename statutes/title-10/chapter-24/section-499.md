@@ -3,9 +3,9 @@ title: "Section 499 - Annual assessment of cyber resiliency of nuclear command a
 usc_title: 10
 usc_section: "499"
 chapter: 24
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "10 U.S.C. § 499"
-generated_at: "2026-11-23T21:20:34.343Z"
+generated_at: "2026-11-23T21:22:51.108Z"
 status: "active"
 ---
 

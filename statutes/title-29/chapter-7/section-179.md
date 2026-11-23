@@ -3,9 +3,9 @@ title: "Section 179 - Injunctions during national emergency; adjustment efforts 
 usc_title: 29
 usc_section: "179"
 chapter: 7
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "29 U.S.C. § 179"
-generated_at: "2026-11-23T21:21:13.056Z"
+generated_at: "2026-11-23T21:23:23.425Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 32911 - Compliance"
 usc_title: 49
 usc_section: "32911"
 chapter: 329
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "49 U.S.C. § 32911"
-generated_at: "2026-11-23T21:21:54.564Z"
+generated_at: "2026-11-23T21:24:11.183Z"
 status: "active"
 ---
 

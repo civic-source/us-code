@@ -3,9 +3,9 @@ title: "Section 152309 - Records and inspection"
 usc_title: 36
 usc_section: "152309"
 chapter: 1523
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "36 U.S.C. § 152309"
-generated_at: "2026-11-23T21:21:27.467Z"
+generated_at: "2026-11-23T21:23:38.407Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14 - Report of Comptroller"
 usc_title: 12
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-11-23T21:20:40.865Z"
+generated_at: "2026-11-23T21:23:00.659Z"
 status: "active"
 ---
 

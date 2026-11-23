@@ -3,9 +3,9 @@ title: "Section 6713 - Suspension and termination of payments in discrimination 
 usc_title: 31
 usc_section: "6713"
 chapter: 67
-current_through: "PL 119-136"
+current_through: "PL 119-138"
 classification: "31 U.S.C. § 6713"
-generated_at: "2026-11-23T21:21:24.225Z"
+generated_at: "2026-11-23T21:23:32.615Z"
 status: "active"
 ---
 
