@@ -3,9 +3,9 @@ title: "Section 6160 - Information relating to certain defense nuclear nonprolif
 usc_title: 10
 usc_section: "6160"
 chapter: 603
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 6160"
-generated_at: "2026-11-23T21:18:20.693Z"
+generated_at: "2026-11-23T21:20:35.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1001 - Definitions"
 usc_title: 5
 usc_section: "1001"
 chapter: 10
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "5 U.S.C. § 1001"
-generated_at: "2026-11-23T21:18:11.622Z"
+generated_at: "2026-11-23T21:20:20.178Z"
 status: "active"
 ---
 

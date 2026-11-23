@@ -3,9 +3,9 @@ title: "Section 506 - Office of Federal Procurement Policy"
 usc_title: 31
 usc_section: "506"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "31 U.S.C. § 506"
-generated_at: "2026-11-23T21:18:52.899Z"
+generated_at: "2026-11-23T21:21:24.068Z"
 status: "active"
 ---
 

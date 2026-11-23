@@ -3,9 +3,9 @@ title: "Section 918 - General prohibitions"
 usc_title: 7
 usc_section: "918"
 chapter: 31
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 918"
-generated_at: "2026-11-23T21:18:16.273Z"
+generated_at: "2026-11-23T21:20:27.574Z"
 status: "active"
 ---
 

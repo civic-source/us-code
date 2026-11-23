@@ -3,9 +3,9 @@ title: "Section 140406 - Restrictions"
 usc_title: 36
 usc_section: "140406"
 chapter: 1404
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 140406"
-generated_at: "2026-11-23T21:18:58.221Z"
+generated_at: "2026-11-23T21:21:27.423Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 125 - Transferred"
 usc_title: 2
 usc_section: "125"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 125"
-generated_at: "2026-11-23T21:18:09.877Z"
+generated_at: "2026-11-23T21:20:17.843Z"
 status: "transferred"
 ---
 

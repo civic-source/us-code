@@ -3,9 +3,9 @@ title: "Section 1513 - Access of foreign creditors to a case under this title"
 usc_title: 11
 usc_section: "1513"
 chapter: 15
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "11 U.S.C. § 1513"
-generated_at: "2026-11-23T21:18:22.539Z"
+generated_at: "2026-11-23T21:20:37.684Z"
 status: "active"
 ---
 

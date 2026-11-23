@@ -3,9 +3,9 @@ title: "Section 7 - Marriage"
 usc_title: 1
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "1 U.S.C. § 7"
-generated_at: "2026-11-23T21:18:08.718Z"
+generated_at: "2026-11-23T21:20:16.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "7712"
 chapter: 775
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 7712"
-generated_at: "2026-11-23T21:18:20.748Z"
+generated_at: "2026-11-23T21:20:35.382Z"
 status: "active"
 ---
 

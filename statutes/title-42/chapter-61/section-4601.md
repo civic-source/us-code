@@ -3,9 +3,9 @@ title: "Section 4601 - Definitions"
 usc_title: 42
 usc_section: "4601"
 chapter: 61
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 4601"
-generated_at: "2026-11-23T21:19:18.407Z"
+generated_at: "2026-11-23T21:21:45.921Z"
 status: "active"
 ---
 

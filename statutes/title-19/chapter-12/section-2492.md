@@ -3,9 +3,9 @@ title: "Section 2492 - Tariff treatment of products of uncooperative major drug 
 usc_title: 19
 usc_section: "2492"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "19 U.S.C. § 2492"
-generated_at: "2026-11-23T21:18:31.783Z"
+generated_at: "2026-11-23T21:20:50.316Z"
 status: "active"
 ---
 

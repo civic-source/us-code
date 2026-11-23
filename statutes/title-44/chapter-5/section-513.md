@@ -3,9 +3,9 @@ title: "Section 513 - Comparison of paper and envelopes with standard quality"
 usc_title: 44
 usc_section: "513"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 513"
-generated_at: "2026-11-23T21:19:01.881Z"
+generated_at: "2026-11-23T21:21:33.199Z"
 status: "active"
 ---
 

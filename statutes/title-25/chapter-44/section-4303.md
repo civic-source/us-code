@@ -3,9 +3,9 @@ title: "Section 4303 - Office of Native American Business Development"
 usc_title: 25
 usc_section: "4303"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 4303"
-generated_at: "2026-11-23T21:18:39.498Z"
+generated_at: "2026-11-23T21:21:02.456Z"
 status: "active"
 ---
 

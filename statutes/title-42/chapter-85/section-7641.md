@@ -3,9 +3,9 @@ title: "Section 7641 - Noise abatement"
 usc_title: 42
 usc_section: "7641"
 chapter: 85
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 7641"
-generated_at: "2026-11-23T21:19:18.838Z"
+generated_at: "2026-11-23T21:21:46.339Z"
 status: "active"
 ---
 

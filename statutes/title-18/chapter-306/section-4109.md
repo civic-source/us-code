@@ -3,9 +3,9 @@ title: "Section 4109 - Right to counsel, appointment of counsel"
 usc_title: 18
 usc_section: "4109"
 chapter: 306
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "18 U.S.C. § 4109"
-generated_at: "2026-11-23T21:18:30.786Z"
+generated_at: "2026-11-23T21:20:48.552Z"
 status: "active"
 ---
 

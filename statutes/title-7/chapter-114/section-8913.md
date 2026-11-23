@@ -3,9 +3,9 @@ title: "Section 8913 - Assistance to build local capacity in agricultural biosec
 usc_title: 7
 usc_section: "8913"
 chapter: 114
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 8913"
-generated_at: "2026-11-23T21:18:16.637Z"
+generated_at: "2026-11-23T21:20:28.368Z"
 status: "active"
 ---
 

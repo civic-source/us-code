@@ -3,9 +3,9 @@ title: "Section 3204 - Critical maintenance and repair"
 usc_title: 43
 usc_section: "3204"
 chapter: 50
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 3204"
-generated_at: "2026-11-23T21:19:03.718Z"
+generated_at: "2026-11-23T21:21:34.224Z"
 status: "active"
 ---
 

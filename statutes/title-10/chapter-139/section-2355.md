@@ -3,9 +3,9 @@ title: "Section 2355 - Repealed. Pub. L. 103–355, title II, § 2002(a) , Oct. 
 usc_title: 10
 usc_section: "2355"
 chapter: 139
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2355"
-generated_at: "2026-11-23T21:18:20.412Z"
+generated_at: "2026-11-23T21:20:34.885Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3913 - Protection of persons secondarily liable"
 usc_title: 50
 usc_section: "3913"
 chapter: 50
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3913"
-generated_at: "2026-11-23T21:19:24.467Z"
+generated_at: "2026-11-23T21:21:52.071Z"
 status: "active"
 ---
 

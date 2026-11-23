@@ -3,9 +3,9 @@ title: "Section 624 - Storage and handling regulations; violations; exemption of
 usc_title: 21
 usc_section: "624"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 624"
-generated_at: "2026-11-23T21:18:40.699Z"
+generated_at: "2026-11-23T21:21:05.262Z"
 status: "active"
 ---
 

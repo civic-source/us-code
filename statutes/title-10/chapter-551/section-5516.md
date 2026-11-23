@@ -3,9 +3,9 @@ title: "Section 5516 - Prohibition on privatized or subscription-based missile d
 usc_title: 10
 usc_section: "5516"
 chapter: 551
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 5516"
-generated_at: "2026-11-23T21:18:20.683Z"
+generated_at: "2026-11-23T21:20:35.287Z"
 status: "active"
 ---
 

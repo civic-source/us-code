@@ -3,9 +3,9 @@ title: "Section 115 - Limitation on State authority to tax compensation paid to 
 usc_title: 4
 usc_section: "115"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "4 U.S.C. § 115"
-generated_at: "2026-11-23T21:18:08.770Z"
+generated_at: "2026-11-23T21:20:16.288Z"
 status: "active"
 ---
 

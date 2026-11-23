@@ -3,9 +3,9 @@ title: "Section 70f - Injunction proceedings"
 usc_title: 15
 usc_section: "70f"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 70f"
-generated_at: "2026-11-23T21:18:27.613Z"
+generated_at: "2026-11-23T21:20:44.621Z"
 status: "active"
 ---
 

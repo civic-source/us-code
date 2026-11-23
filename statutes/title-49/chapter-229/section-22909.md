@@ -3,9 +3,9 @@ title: "Section 22909 - Railroad Crossing Elimination Program"
 usc_title: 49
 usc_section: "22909"
 chapter: 229
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 22909"
-generated_at: "2026-11-23T21:19:29.226Z"
+generated_at: "2026-11-23T21:21:54.440Z"
 status: "active"
 ---
 

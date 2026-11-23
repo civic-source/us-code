@@ -3,9 +3,9 @@ title: "Section 398a - Pilot program for sharing cyber capabilities and related 
 usc_title: 10
 usc_section: "398a"
 chapter: 19
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 398a"
-generated_at: "2026-11-23T21:18:20.011Z"
+generated_at: "2026-11-23T21:20:34.326Z"
 status: "active"
 ---
 

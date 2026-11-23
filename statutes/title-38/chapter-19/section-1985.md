@@ -3,9 +3,9 @@ title: "Section 1985 - Decisions by the Secretary"
 usc_title: 38
 usc_section: "1985"
 chapter: 19
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 1985"
-generated_at: "2026-11-23T21:19:00.034Z"
+generated_at: "2026-11-23T21:21:30.008Z"
 status: "active"
 ---
 

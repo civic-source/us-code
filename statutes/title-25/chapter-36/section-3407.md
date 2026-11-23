@@ -3,9 +3,9 @@ title: "Section 3407 - Plan approval; Secretarial authority; review of decision"
 usc_title: 25
 usc_section: "3407"
 chapter: 36
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 3407"
-generated_at: "2026-11-23T21:18:39.467Z"
+generated_at: "2026-11-23T21:21:02.398Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2101a - The Senior Executive Service"
 usc_title: 5
 usc_section: "2101a"
 chapter: 21
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "5 U.S.C. § 2101a"
-generated_at: "2026-11-23T21:18:11.640Z"
+generated_at: "2026-11-23T21:20:20.194Z"
 status: "active"
 ---
 

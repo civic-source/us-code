@@ -3,9 +3,9 @@ title: "Section 5904 - Approval of subsidiaries of insured depository institutio
 usc_title: 12
 usc_section: "5904"
 chapter: 56
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 5904"
-generated_at: "2026-11-23T21:18:25.988Z"
+generated_at: "2026-11-23T21:20:41.776Z"
 status: "active"
 ---
 

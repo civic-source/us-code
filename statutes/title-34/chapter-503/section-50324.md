@@ -3,9 +3,9 @@ title: "Section 50324 - Presentation of State and Local Law Enforcement Badges"
 usc_title: 34
 usc_section: "50324"
 chapter: 503
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 50324"
-generated_at: "2026-11-23T21:18:55.299Z"
+generated_at: "2026-11-23T21:21:25.012Z"
 status: "active"
 ---
 

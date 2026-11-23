@@ -3,9 +3,9 @@ title: "Section 7221d - National activities"
 usc_title: 20
 usc_section: "7221d"
 chapter: 70
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 7221d"
-generated_at: "2026-11-23T21:18:33.576Z"
+generated_at: "2026-11-23T21:20:58.884Z"
 status: "active"
 ---
 

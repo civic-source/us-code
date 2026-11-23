@@ -3,9 +3,9 @@ title: "Section 11705 - Native Hawaiian health care systems"
 usc_title: 42
 usc_section: "11705"
 chapter: 122
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 11705"
-generated_at: "2026-11-23T21:19:19.107Z"
+generated_at: "2026-11-23T21:21:46.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3603 - Software acquisition pathways"
 usc_title: 10
 usc_section: "3603"
 chapter: 253
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 3603"
-generated_at: "2026-11-23T21:18:20.558Z"
+generated_at: "2026-11-23T21:20:35.137Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2023 - Actions and votes of representatives"
 usc_title: 22
 usc_section: "2023"
 chapter: 28
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2023"
-generated_at: "2026-11-23T21:18:42.466Z"
+generated_at: "2026-11-23T21:21:08.068Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1490u - Housing preservation and revitalization program"
 usc_title: 42
 usc_section: "1490u"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1490u"
-generated_at: "2026-11-23T21:19:17.896Z"
+generated_at: "2026-11-23T21:21:45.528Z"
 status: "active"
 ---
 

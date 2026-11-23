@@ -3,9 +3,9 @@ title: "Section 38 - Oklawaha River, Florida; Kyle and Young Canal and “Morris
 usc_title: 33
 usc_section: "38"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 38"
-generated_at: "2026-11-23T21:18:54.164Z"
+generated_at: "2026-11-23T21:21:22.989Z"
 status: "active"
 ---
 

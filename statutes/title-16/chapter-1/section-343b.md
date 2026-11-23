@@ -3,9 +3,9 @@ title: "Section 343b - Addition of lands"
 usc_title: 16
 usc_section: "343b"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 343b"
-generated_at: "2026-11-23T21:18:35.796Z"
+generated_at: "2026-11-23T21:20:54.142Z"
 status: "active"
 ---
 

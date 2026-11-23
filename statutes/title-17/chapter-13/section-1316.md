@@ -3,9 +3,9 @@ title: "Section 1316 - Fees"
 usc_title: 17
 usc_section: "1316"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "17 U.S.C. § 1316"
-generated_at: "2026-11-23T21:18:29.761Z"
+generated_at: "2026-11-23T21:20:47.172Z"
 status: "active"
 ---
 

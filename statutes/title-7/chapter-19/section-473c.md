@@ -3,9 +3,9 @@ title: "Section 473c - Rules and regulations"
 usc_title: 7
 usc_section: "473c"
 chapter: 19
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 473c"
-generated_at: "2026-11-23T21:18:16.251Z"
+generated_at: "2026-11-23T21:20:27.527Z"
 status: "active"
 ---
 

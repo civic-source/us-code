@@ -3,9 +3,9 @@ title: "Section 8682 - Service craft stricken from Naval Vessel Register; obsole
 usc_title: 10
 usc_section: "8682"
 chapter: 863
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8682"
-generated_at: "2026-11-23T21:18:20.815Z"
+generated_at: "2026-11-23T21:20:35.497Z"
 status: "active"
 ---
 

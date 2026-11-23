@@ -3,9 +3,9 @@ title: "Section 3324 - Authorization of appropriations"
 usc_title: 7
 usc_section: "3324"
 chapter: 64
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 3324"
-generated_at: "2026-11-23T21:18:16.498Z"
+generated_at: "2026-11-23T21:20:28.094Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 32902 - Average fuel economy standards"
 usc_title: 49
 usc_section: "32902"
 chapter: 329
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 32902"
-generated_at: "2026-11-23T21:19:29.352Z"
+generated_at: "2026-11-23T21:21:54.559Z"
 status: "active"
 ---
 

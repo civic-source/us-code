@@ -3,9 +3,9 @@ title: "Section 3901 - Contracts: prohibition on competition between Department 
 usc_title: 10
 usc_section: "3901"
 chapter: 287
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 3901"
-generated_at: "2026-11-23T21:18:20.581Z"
+generated_at: "2026-11-23T21:20:35.164Z"
 status: "active"
 ---
 

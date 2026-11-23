@@ -3,9 +3,9 @@ title: "Section 1122 - Classification of claims or interests"
 usc_title: 11
 usc_section: "1122"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "11 U.S.C. § 1122"
-generated_at: "2026-11-23T21:18:22.524Z"
+generated_at: "2026-11-23T21:20:37.663Z"
 status: "active"
 ---
 

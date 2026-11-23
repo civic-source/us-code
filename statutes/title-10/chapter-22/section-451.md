@@ -3,9 +3,9 @@ title: "Section 451 - Maps, charts, books, and datasets"
 usc_title: 10
 usc_section: "451"
 chapter: 22
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 451"
-generated_at: "2026-11-23T21:18:20.017Z"
+generated_at: "2026-11-23T21:20:34.335Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3334c - Assessment of homeland security vulnerabilities associat
 usc_title: 50
 usc_section: "3334c"
 chapter: 45
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3334c"
-generated_at: "2026-11-23T21:19:24.385Z"
+generated_at: "2026-11-23T21:21:52.000Z"
 status: "active"
 ---
 

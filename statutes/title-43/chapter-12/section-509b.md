@@ -3,9 +3,9 @@ title: "Section 509b - Additional project benefits through the construction of n
 usc_title: 43
 usc_section: "509b"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 509b"
-generated_at: "2026-11-23T21:19:03.523Z"
+generated_at: "2026-11-23T21:21:34.000Z"
 status: "active"
 ---
 

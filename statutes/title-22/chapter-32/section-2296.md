@@ -3,9 +3,9 @@ title: "Section 2296 - United States assistance to promote reconciliation and re
 usc_title: 22
 usc_section: "2296"
 chapter: 32
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2296"
-generated_at: "2026-11-23T21:18:42.509Z"
+generated_at: "2026-11-23T21:21:08.132Z"
 status: "active"
 ---
 

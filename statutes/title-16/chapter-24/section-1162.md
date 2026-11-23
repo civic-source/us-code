@@ -3,9 +3,9 @@ title: "Section 1162 - Authority of Secretary to operate, maintain, and repair G
 usc_title: 16
 usc_section: "1162"
 chapter: 24
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 1162"
-generated_at: "2026-11-23T21:18:36.189Z"
+generated_at: "2026-11-23T21:20:54.803Z"
 status: "active"
 ---
 

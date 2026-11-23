@@ -3,9 +3,9 @@ title: "Section 78lll - Definitions"
 usc_title: 15
 usc_section: "78lll"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 78lll"
-generated_at: "2026-11-23T21:18:27.692Z"
+generated_at: "2026-11-23T21:20:44.757Z"
 status: "active"
 ---
 

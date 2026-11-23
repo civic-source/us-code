@@ -3,9 +3,9 @@ title: "Section 843 - Medical examinations"
 usc_title: 30
 usc_section: "843"
 chapter: 22
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "30 U.S.C. § 843"
-generated_at: "2026-11-23T21:18:44.458Z"
+generated_at: "2026-11-23T21:21:11.950Z"
 status: "active"
 ---
 

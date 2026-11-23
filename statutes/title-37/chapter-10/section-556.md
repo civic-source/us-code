@@ -3,9 +3,9 @@ title: "Section 556 - Secretarial determinations"
 usc_title: 37
 usc_section: "556"
 chapter: 10
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "37 U.S.C. § 556"
-generated_at: "2026-11-23T21:18:57.117Z"
+generated_at: "2026-11-23T21:21:28.194Z"
 status: "active"
 ---
 

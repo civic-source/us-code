@@ -3,9 +3,9 @@ title: "Section 2064 - Substantial product hazards"
 usc_title: 15
 usc_section: "2064"
 chapter: 47
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 2064"
-generated_at: "2026-11-23T21:18:28.005Z"
+generated_at: "2026-11-23T21:20:45.188Z"
 status: "active"
 ---
 

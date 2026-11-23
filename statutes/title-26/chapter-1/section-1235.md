@@ -3,9 +3,9 @@ title: "Section 1235 - Sale or exchange of patents"
 usc_title: 26
 usc_section: "1235"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 1235"
-generated_at: "2026-11-23T21:18:50.245Z"
+generated_at: "2026-11-23T21:21:19.921Z"
 status: "active"
 ---
 

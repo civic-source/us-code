@@ -3,9 +3,9 @@ title: "Section 246 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 22
 usc_section: "246"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 246"
-generated_at: "2026-11-23T21:18:42.356Z"
+generated_at: "2026-11-23T21:21:07.896Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1119 - Presumptions of toxic exposure"
 usc_title: 38
 usc_section: "1119"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 1119"
-generated_at: "2026-11-23T21:18:59.917Z"
+generated_at: "2026-11-23T21:21:29.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1165 - Election"
 usc_title: 29
 usc_section: "1165"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "29 U.S.C. § 1165"
-generated_at: "2026-11-23T21:18:45.999Z"
+generated_at: "2026-11-23T21:21:13.179Z"
 status: "active"
 ---
 

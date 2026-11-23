@@ -3,9 +3,9 @@ title: "Section 1471c - Availability of appropriations for operation of warehous
 usc_title: 43
 usc_section: "1471c"
 chapter: 31
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 1471c"
-generated_at: "2026-11-23T21:19:03.604Z"
+generated_at: "2026-11-23T21:21:34.092Z"
 status: "active"
 ---
 

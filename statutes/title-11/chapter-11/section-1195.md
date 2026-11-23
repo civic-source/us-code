@@ -3,9 +3,9 @@ title: "Section 1195 - Transactions with professionals"
 usc_title: 11
 usc_section: "1195"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "11 U.S.C. § 1195"
-generated_at: "2026-11-23T21:18:22.531Z"
+generated_at: "2026-11-23T21:20:37.672Z"
 status: "active"
 ---
 

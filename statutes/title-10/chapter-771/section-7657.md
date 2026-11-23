@@ -3,9 +3,9 @@ title: "Section 7657 - Sale of ammunition for avalanche-control purposes"
 usc_title: 10
 usc_section: "7657"
 chapter: 771
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 7657"
-generated_at: "2026-11-23T21:18:20.746Z"
+generated_at: "2026-11-23T21:20:35.379Z"
 status: "active"
 ---
 

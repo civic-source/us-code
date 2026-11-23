@@ -3,9 +3,9 @@ title: "Section 6157 - International agreements on nuclear weapons data"
 usc_title: 10
 usc_section: "6157"
 chapter: 603
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 6157"
-generated_at: "2026-11-23T21:18:20.693Z"
+generated_at: "2026-11-23T21:20:35.308Z"
 status: "active"
 ---
 

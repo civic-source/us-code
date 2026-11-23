@@ -3,9 +3,9 @@ title: "Section 422j - Appropriations; notice to Congress of receipt of proposal
 usc_title: 43
 usc_section: "422j"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 422j"
-generated_at: "2026-11-23T21:19:03.509Z"
+generated_at: "2026-11-23T21:21:33.980Z"
 status: "active"
 ---
 

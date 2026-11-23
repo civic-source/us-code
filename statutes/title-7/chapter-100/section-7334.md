@@ -3,9 +3,9 @@ title: "Section 7334 - Repealed. Pub. L. 115–334, title II, § 2814 , Dec. 20,
 usc_title: 7
 usc_section: "7334"
 chapter: 100
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 7334"
-generated_at: "2026-11-23T21:18:16.579Z"
+generated_at: "2026-11-23T21:20:28.242Z"
 status: "repealed"
 ---
 

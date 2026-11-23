@@ -3,9 +3,9 @@ title: "Section 708 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(4) ,
 usc_title: 18
 usc_section: "708"
 chapter: 33
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "18 U.S.C. § 708"
-generated_at: "2026-11-23T21:18:30.621Z"
+generated_at: "2026-11-23T21:20:48.302Z"
 status: "repealed"
 ---
 

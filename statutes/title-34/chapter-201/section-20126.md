@@ -3,9 +3,9 @@ title: "Section 20126 - Consultation"
 usc_title: 34
 usc_section: "20126"
 chapter: 201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 20126"
-generated_at: "2026-11-23T21:18:55.217Z"
+generated_at: "2026-11-23T21:21:24.961Z"
 status: "active"
 ---
 

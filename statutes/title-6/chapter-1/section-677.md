@@ -3,9 +3,9 @@ title: "Section 677 - Sense of Congress"
 usc_title: 6
 usc_section: "677"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "6 U.S.C. § 677"
-generated_at: "2026-11-23T21:18:14.609Z"
+generated_at: "2026-11-23T21:20:23.018Z"
 status: "active"
 ---
 

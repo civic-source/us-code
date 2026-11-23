@@ -3,9 +3,9 @@ title: "Section 3693 - Compliance surveys"
 usc_title: 38
 usc_section: "3693"
 chapter: 36
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 3693"
-generated_at: "2026-11-23T21:19:00.156Z"
+generated_at: "2026-11-23T21:21:30.134Z"
 status: "active"
 ---
 

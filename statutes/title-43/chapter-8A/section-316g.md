@@ -3,9 +3,9 @@ title: "Section 316g - Grazing fees"
 usc_title: 43
 usc_section: "316g"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 316g"
-generated_at: "2026-11-23T21:19:03.468Z"
+generated_at: "2026-11-23T21:21:33.935Z"
 status: "active"
 ---
 

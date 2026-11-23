@@ -3,9 +3,9 @@ title: "Section 933 - Advisory Committee"
 usc_title: 16
 usc_section: "933"
 chapter: 15
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 933"
-generated_at: "2026-11-23T21:18:36.150Z"
+generated_at: "2026-11-23T21:20:54.734Z"
 status: "active"
 ---
 

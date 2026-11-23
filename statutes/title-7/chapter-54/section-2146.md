@@ -3,9 +3,9 @@ title: "Section 2146 - Administration and enforcement by Secretary"
 usc_title: 7
 usc_section: "2146"
 chapter: 54
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2146"
-generated_at: "2026-11-23T21:18:16.451Z"
+generated_at: "2026-11-23T21:20:27.967Z"
 status: "active"
 ---
 

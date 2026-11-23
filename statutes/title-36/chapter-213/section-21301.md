@@ -3,9 +3,9 @@ title: "Section 21301 - Organization"
 usc_title: 36
 usc_section: "21301"
 chapter: 213
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 21301"
-generated_at: "2026-11-23T21:18:58.118Z"
+generated_at: "2026-11-23T21:21:27.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 203 - March-in rights"
 usc_title: 35
 usc_section: "203"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "35 U.S.C. § 203"
-generated_at: "2026-11-23T21:18:52.326Z"
+generated_at: "2026-11-23T21:21:22.144Z"
 status: "active"
 ---
 

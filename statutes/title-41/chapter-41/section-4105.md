@@ -3,9 +3,9 @@ title: "Section 4105 - Advisory and assistance services"
 usc_title: 41
 usc_section: "4105"
 chapter: 41
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "41 U.S.C. § 4105"
-generated_at: "2026-11-23T21:19:02.528Z"
+generated_at: "2026-11-23T21:21:32.899Z"
 status: "active"
 ---
 

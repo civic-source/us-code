@@ -3,9 +3,9 @@ title: "Section 281b - Omitted"
 usc_title: 22
 usc_section: "281b"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 281b"
-generated_at: "2026-11-23T21:18:42.387Z"
+generated_at: "2026-11-23T21:21:07.949Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5732 - General average contribution; payment or reimbursement"
 usc_title: 5
 usc_section: "5732"
 chapter: 57
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "5 U.S.C. § 5732"
-generated_at: "2026-11-23T21:18:11.773Z"
+generated_at: "2026-11-23T21:20:20.433Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Withdrawals and expenditures"
 usc_title: 20
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-11-23T21:18:33.260Z"
+generated_at: "2026-11-23T21:20:58.214Z"
 status: "active"
 ---
 

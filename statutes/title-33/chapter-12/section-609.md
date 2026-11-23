@@ -3,9 +3,9 @@ title: "Section 609 - Sluices and other work in dams for development of water po
 usc_title: 33
 usc_section: "609"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 609"
-generated_at: "2026-11-23T21:18:54.227Z"
+generated_at: "2026-11-23T21:21:23.040Z"
 status: "active"
 ---
 

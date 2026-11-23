@@ -3,9 +3,9 @@ title: "Section 1712 - Documents for use of the Director of the Government Publi
 usc_title: 44
 usc_section: "1712"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 1712"
-generated_at: "2026-11-23T21:19:01.901Z"
+generated_at: "2026-11-23T21:21:33.210Z"
 status: "active"
 ---
 

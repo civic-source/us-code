@@ -3,9 +3,9 @@ title: "Section 1447 - Books and materials"
 usc_title: 22
 usc_section: "1447"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 1447"
-generated_at: "2026-11-23T21:18:42.437Z"
+generated_at: "2026-11-23T21:21:08.025Z"
 status: "active"
 ---
 

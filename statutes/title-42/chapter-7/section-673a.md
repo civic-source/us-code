@@ -3,9 +3,9 @@ title: "Section 673a - Interstate compacts"
 usc_title: 42
 usc_section: "673a"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 673a"
-generated_at: "2026-11-23T21:19:17.138Z"
+generated_at: "2026-11-23T21:21:44.864Z"
 status: "active"
 ---
 

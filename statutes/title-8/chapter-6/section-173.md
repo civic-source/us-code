@@ -3,9 +3,9 @@ title: "Section 173 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(2),
 usc_title: 8
 usc_section: "173"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "8 U.S.C. § 173"
-generated_at: "2026-11-23T21:18:13.842Z"
+generated_at: "2026-11-23T21:20:23.896Z"
 status: "repealed"
 ---
 

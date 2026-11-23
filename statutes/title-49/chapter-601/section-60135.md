@@ -3,9 +3,9 @@ title: "Section 60135 - Enforcement transparency"
 usc_title: 49
 usc_section: "60135"
 chapter: 601
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 60135"
-generated_at: "2026-11-23T21:19:29.778Z"
+generated_at: "2026-11-23T21:21:54.825Z"
 status: "active"
 ---
 

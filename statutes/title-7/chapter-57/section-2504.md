@@ -3,9 +3,9 @@ title: "Section 2504 - Interfering plant variety protection"
 usc_title: 7
 usc_section: "2504"
 chapter: 57
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2504"
-generated_at: "2026-11-23T21:18:16.470Z"
+generated_at: "2026-11-23T21:20:28.021Z"
 status: "active"
 ---
 

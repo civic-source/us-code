@@ -3,9 +3,9 @@ title: "Section 7330A - Epilepsy centers of excellence"
 usc_title: 38
 usc_section: "7330A"
 chapter: 73
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 7330A"
-generated_at: "2026-11-23T21:19:00.274Z"
+generated_at: "2026-11-23T21:21:30.269Z"
 status: "active"
 ---
 

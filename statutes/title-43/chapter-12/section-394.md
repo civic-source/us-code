@@ -3,9 +3,9 @@ title: "Section 394 - Proceeds from sale of products of or leases of withdrawn o
 usc_title: 43
 usc_section: "394"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 394"
-generated_at: "2026-11-23T21:19:03.504Z"
+generated_at: "2026-11-23T21:21:33.972Z"
 status: "active"
 ---
 

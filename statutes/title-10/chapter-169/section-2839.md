@@ -3,9 +3,9 @@ title: "Section 2839 - Repealed. Pub. L. 119–60, div. B, title XXVIII, § 2826
 usc_title: 10
 usc_section: "2839"
 chapter: 169
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2839"
-generated_at: "2026-11-23T21:18:20.505Z"
+generated_at: "2026-11-23T21:20:35.045Z"
 status: "repealed"
 ---
 

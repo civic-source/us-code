@@ -3,9 +3,9 @@ title: "Section 2706 - Permissive terms and conditions in orders"
 usc_title: 7
 usc_section: "2706"
 chapter: 60
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2706"
-generated_at: "2026-11-23T21:18:16.476Z"
+generated_at: "2026-11-23T21:20:28.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 120108 - Records and inspection"
 usc_title: 36
 usc_section: "120108"
 chapter: 1201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 120108"
-generated_at: "2026-11-23T21:18:58.208Z"
+generated_at: "2026-11-23T21:21:27.410Z"
 status: "active"
 ---
 

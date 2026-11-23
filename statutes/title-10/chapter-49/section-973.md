@@ -3,9 +3,9 @@ title: "Section 973 - Duties: officers on active duty; performance of civil func
 usc_title: 10
 usc_section: "973"
 chapter: 49
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 973"
-generated_at: "2026-11-23T21:18:20.139Z"
+generated_at: "2026-11-23T21:20:34.468Z"
 status: "active"
 ---
 

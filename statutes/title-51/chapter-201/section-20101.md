@@ -3,9 +3,9 @@ title: "Section 20101 - Short title"
 usc_title: 51
 usc_section: "20101"
 chapter: 201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "51 U.S.C. § 20101"
-generated_at: "2026-11-23T21:19:31.682Z"
+generated_at: "2026-11-23T21:21:56.280Z"
 status: "active"
 ---
 

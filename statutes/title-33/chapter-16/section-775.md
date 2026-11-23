@@ -3,9 +3,9 @@ title: "Section 775 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "775"
 chapter: 16
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 775"
-generated_at: "2026-11-23T21:18:54.257Z"
+generated_at: "2026-11-23T21:21:23.068Z"
 status: "repealed"
 ---
 

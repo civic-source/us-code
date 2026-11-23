@@ -3,9 +3,9 @@ title: "Section 153903 - Powers"
 usc_title: 36
 usc_section: "153903"
 chapter: 1539
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 153903"
-generated_at: "2026-11-23T21:18:58.253Z"
+generated_at: "2026-11-23T21:21:27.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2132 - Earnings and reserves; application of savings"
 usc_title: 12
 usc_section: "2132"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 2132"
-generated_at: "2026-11-23T21:18:25.754Z"
+generated_at: "2026-11-23T21:20:41.421Z"
 status: "active"
 ---
 

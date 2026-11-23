@@ -3,9 +3,9 @@ title: "Section 711 - Disposition of obsolete or condemned property"
 usc_title: 32
 usc_section: "711"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "32 U.S.C. § 711"
-generated_at: "2026-11-23T21:18:52.055Z"
+generated_at: "2026-11-23T21:21:21.892Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2008n - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(C) 
 usc_title: 7
 usc_section: "2008n"
 chapter: 50
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2008n"
-generated_at: "2026-11-23T21:18:16.402Z"
+generated_at: "2026-11-23T21:20:27.853Z"
 status: "repealed"
 ---
 

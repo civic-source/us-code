@@ -3,9 +3,9 @@ title: "Section 10806 - Prohibition on listing or trading of Russian entities on
 usc_title: 22
 usc_section: "10806"
 chapter: 115
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 10806"
-generated_at: "2026-11-23T21:18:42.846Z"
+generated_at: "2026-11-23T21:21:08.643Z"
 status: "active"
 ---
 

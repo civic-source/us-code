@@ -3,9 +3,9 @@ title: "Section 196 - Repealed. Pub. L. 98–621, § 10(m) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "196"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "24 U.S.C. § 196"
-generated_at: "2026-11-23T21:18:38.124Z"
+generated_at: "2026-11-23T21:21:00.636Z"
 status: "repealed"
 ---
 

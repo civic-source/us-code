@@ -3,9 +3,9 @@ title: "Section 101338 - General leasing provisions"
 usc_title: 54
 usc_section: "101338"
 chapter: 1013
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "54 U.S.C. § 101338"
-generated_at: "2026-11-23T21:19:32.142Z"
+generated_at: "2026-11-23T21:21:56.781Z"
 status: "active"
 ---
 

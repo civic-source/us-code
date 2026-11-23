@@ -3,9 +3,9 @@ title: "Section 9204 - Availability of data and congressional briefings"
 usc_title: 7
 usc_section: "9204"
 chapter: 116
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 9204"
-generated_at: "2026-11-23T21:18:16.652Z"
+generated_at: "2026-11-23T21:20:28.399Z"
 status: "active"
 ---
 

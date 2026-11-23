@@ -3,9 +3,9 @@ title: "Section 1016 - Repealed and Omitted"
 usc_title: 12
 usc_section: "1016"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1016"
-generated_at: "2026-11-23T21:18:25.455Z"
+generated_at: "2026-11-23T21:20:40.984Z"
 status: "repealed"
 ---
 

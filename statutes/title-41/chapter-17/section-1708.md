@@ -3,9 +3,9 @@ title: "Section 1708 - Procurement notice"
 usc_title: 41
 usc_section: "1708"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "41 U.S.C. § 1708"
-generated_at: "2026-11-23T21:19:02.485Z"
+generated_at: "2026-11-23T21:21:32.872Z"
 status: "active"
 ---
 

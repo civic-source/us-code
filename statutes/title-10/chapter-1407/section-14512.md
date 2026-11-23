@@ -3,9 +3,9 @@ title: "Section 14512 - Separation at age 66: officers holding certain offices"
 usc_title: 10
 usc_section: "14512"
 chapter: 1407
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 14512"
-generated_at: "2026-11-23T21:18:21.005Z"
+generated_at: "2026-11-23T21:20:35.715Z"
 status: "active"
 ---
 

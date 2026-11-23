@@ -3,9 +3,9 @@ title: "Section 1159 - Protection of service connection"
 usc_title: 38
 usc_section: "1159"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 1159"
-generated_at: "2026-11-23T21:18:59.927Z"
+generated_at: "2026-11-23T21:21:29.899Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 212 - Advancement of basic pay: members deployed in combat zone 
 usc_title: 37
 usc_section: "212"
 chapter: 3
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "37 U.S.C. § 212"
-generated_at: "2026-11-23T21:18:57.045Z"
+generated_at: "2026-11-23T21:21:28.092Z"
 status: "active"
 ---
 

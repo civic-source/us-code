@@ -3,9 +3,9 @@ title: "Section 3020f - Authorization of appropriations"
 usc_title: 42
 usc_section: "3020f"
 chapter: 35
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 3020f"
-generated_at: "2026-11-23T21:19:18.223Z"
+generated_at: "2026-11-23T21:21:45.766Z"
 status: "active"
 ---
 

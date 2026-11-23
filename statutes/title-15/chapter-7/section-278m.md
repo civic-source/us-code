@@ -3,9 +3,9 @@ title: "Section 278m - Repealed. Pub. L. 110–69, title III, § 3013(d) , Aug. 
 usc_title: 15
 usc_section: "278m"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 278m"
-generated_at: "2026-11-23T21:18:27.733Z"
+generated_at: "2026-11-23T21:20:44.838Z"
 status: "repealed"
 ---
 

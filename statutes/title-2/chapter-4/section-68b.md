@@ -3,9 +3,9 @@ title: "Section 68b - Transferred"
 usc_title: 2
 usc_section: "68b"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 68b"
-generated_at: "2026-11-23T21:18:09.873Z"
+generated_at: "2026-11-23T21:20:17.833Z"
 status: "transferred"
 ---
 

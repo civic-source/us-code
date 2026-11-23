@@ -3,9 +3,9 @@ title: "Section 1171 - Procedures to determine presumptions of service connectio
 usc_title: 38
 usc_section: "1171"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 1171"
-generated_at: "2026-11-23T21:18:59.931Z"
+generated_at: "2026-11-23T21:21:29.902Z"
 status: "active"
 ---
 

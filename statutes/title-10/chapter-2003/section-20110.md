@@ -3,9 +3,9 @@ title: "Section 20110 - Strength in grade: Space Force general officers in a Spa
 usc_title: 10
 usc_section: "20110"
 chapter: 2003
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 20110"
-generated_at: "2026-11-23T21:18:21.022Z"
+generated_at: "2026-11-23T21:20:35.736Z"
 status: "active"
 ---
 

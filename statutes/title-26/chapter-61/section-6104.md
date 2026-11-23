@@ -3,9 +3,9 @@ title: "Section 6104 - Publicity of information required from certain exempt org
 usc_title: 26
 usc_section: "6104"
 chapter: 61
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 6104"
-generated_at: "2026-11-23T21:18:50.534Z"
+generated_at: "2026-11-23T21:21:20.263Z"
 status: "active"
 ---
 

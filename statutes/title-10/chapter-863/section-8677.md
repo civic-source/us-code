@@ -3,9 +3,9 @@ title: "Section 8677 - Disposals to foreign nations"
 usc_title: 10
 usc_section: "8677"
 chapter: 863
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8677"
-generated_at: "2026-11-23T21:18:20.813Z"
+generated_at: "2026-11-23T21:20:35.494Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70312 - Annual report"
 usc_title: 36
 usc_section: "70312"
 chapter: 703
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 70312"
-generated_at: "2026-11-23T21:18:58.181Z"
+generated_at: "2026-11-23T21:21:27.382Z"
 status: "active"
 ---
 

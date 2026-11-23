@@ -3,9 +3,9 @@ title: "Section 18643 - High-energy physics"
 usc_title: 42
 usc_section: "18643"
 chapter: 161
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 18643"
-generated_at: "2026-11-23T21:19:19.484Z"
+generated_at: "2026-11-23T21:21:47.025Z"
 status: "active"
 ---
 

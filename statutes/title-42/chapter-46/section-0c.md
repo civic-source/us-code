@@ -3,9 +3,9 @@ title: "Section 0c - Transferred"
 usc_title: 42
 usc_section: "0c"
 chapter: 46
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 0c"
-generated_at: "2026-11-23T21:19:18.325Z"
+generated_at: "2026-11-23T21:21:45.855Z"
 status: "transferred"
 ---
 

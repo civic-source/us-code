@@ -3,9 +3,9 @@ title: "Section 15081 - Purpose"
 usc_title: 42
 usc_section: "15081"
 chapter: 144
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 15081"
-generated_at: "2026-11-23T21:19:19.245Z"
+generated_at: "2026-11-23T21:21:46.842Z"
 status: "active"
 ---
 

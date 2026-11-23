@@ -3,9 +3,9 @@ title: "Section 1523 - Definitions"
 usc_title: 21
 usc_section: "1523"
 chapter: 20
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 1523"
-generated_at: "2026-11-23T21:18:40.740Z"
+generated_at: "2026-11-23T21:21:05.322Z"
 status: "active"
 ---
 

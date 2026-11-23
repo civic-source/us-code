@@ -3,9 +3,9 @@ title: "Section 6325 - Notice-and-wait requirement applicable to certain third-p
 usc_title: 10
 usc_section: "6325"
 chapter: 608
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 6325"
-generated_at: "2026-11-23T21:18:20.703Z"
+generated_at: "2026-11-23T21:20:35.320Z"
 status: "active"
 ---
 

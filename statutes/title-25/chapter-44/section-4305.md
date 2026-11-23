@@ -3,9 +3,9 @@ title: "Section 4305 - Intertribal tourism demonstration projects"
 usc_title: 25
 usc_section: "4305"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 4305"
-generated_at: "2026-11-23T21:18:39.498Z"
+generated_at: "2026-11-23T21:21:02.457Z"
 status: "active"
 ---
 

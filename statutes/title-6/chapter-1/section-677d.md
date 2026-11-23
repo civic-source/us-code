@@ -3,9 +3,9 @@ title: "Section 677d - Notification and reporting"
 usc_title: 6
 usc_section: "677d"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "6 U.S.C. § 677d"
-generated_at: "2026-11-23T21:18:14.610Z"
+generated_at: "2026-11-23T21:20:23.021Z"
 status: "active"
 ---
 

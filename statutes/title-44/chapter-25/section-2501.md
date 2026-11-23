@@ -3,9 +3,9 @@ title: "Section 2501 - Creation; composition; appointment and tenure; meetings"
 usc_title: 44
 usc_section: "2501"
 chapter: 25
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 2501"
-generated_at: "2026-11-23T21:19:01.923Z"
+generated_at: "2026-11-23T21:21:33.221Z"
 status: "active"
 ---
 

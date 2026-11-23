@@ -3,9 +3,9 @@ title: "Section 440 - Regulations as to use of water and requirements as to cult
 usc_title: 43
 usc_section: "440"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 440"
-generated_at: "2026-11-23T21:19:03.512Z"
+generated_at: "2026-11-23T21:21:33.985Z"
 status: "active"
 ---
 

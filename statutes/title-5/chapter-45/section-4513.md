@@ -3,9 +3,9 @@ title: "Section 4513 - Presidential awards for cost savings disclosures"
 usc_title: 5
 usc_section: "4513"
 chapter: 45
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "5 U.S.C. § 4513"
-generated_at: "2026-11-23T21:18:11.695Z"
+generated_at: "2026-11-23T21:20:20.265Z"
 status: "active"
 ---
 

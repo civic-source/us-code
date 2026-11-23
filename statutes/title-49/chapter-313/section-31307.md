@@ -3,9 +3,9 @@ title: "Section 31307 - Minimum training requirements for operators of longer co
 usc_title: 49
 usc_section: "31307"
 chapter: 313
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 31307"
-generated_at: "2026-11-23T21:19:29.326Z"
+generated_at: "2026-11-23T21:21:54.539Z"
 status: "active"
 ---
 

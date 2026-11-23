@@ -3,9 +3,9 @@ title: "Section 151 - Acquisition; payment"
 usc_title: 16
 usc_section: "151"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 151"
-generated_at: "2026-11-23T21:18:35.773Z"
+generated_at: "2026-11-23T21:20:54.107Z"
 status: "active"
 ---
 

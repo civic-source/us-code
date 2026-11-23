@@ -3,9 +3,9 @@ title: "Section 150303 - Services to United States Government"
 usc_title: 36
 usc_section: "150303"
 chapter: 1503
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 150303"
-generated_at: "2026-11-23T21:18:58.231Z"
+generated_at: "2026-11-23T21:21:27.434Z"
 status: "active"
 ---
 

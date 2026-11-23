@@ -3,9 +3,9 @@ title: "Section 2222 - Details of law clerks"
 usc_title: 7
 usc_section: "2222"
 chapter: 55
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2222"
-generated_at: "2026-11-23T21:18:16.458Z"
+generated_at: "2026-11-23T21:20:27.990Z"
 status: "active"
 ---
 

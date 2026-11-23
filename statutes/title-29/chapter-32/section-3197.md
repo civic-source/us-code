@@ -3,9 +3,9 @@ title: "Section 3197 - Job Corps centers"
 usc_title: 29
 usc_section: "3197"
 chapter: 32
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "29 U.S.C. § 3197"
-generated_at: "2026-11-23T21:18:46.079Z"
+generated_at: "2026-11-23T21:21:13.310Z"
 status: "active"
 ---
 

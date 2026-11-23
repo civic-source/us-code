@@ -3,9 +3,9 @@ title: "Section 8023 - Office of Naval Research: appropriations; time limit"
 usc_title: 10
 usc_section: "8023"
 chapter: 803
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8023"
-generated_at: "2026-11-23T21:18:20.759Z"
+generated_at: "2026-11-23T21:20:35.396Z"
 status: "active"
 ---
 

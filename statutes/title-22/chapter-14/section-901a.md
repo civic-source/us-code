@@ -3,9 +3,9 @@ title: "Section 901a - Repealed. Pub. L. 96–465, title II, § 2205(5) , Oct. 1
 usc_title: 22
 usc_section: "901a"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 901a"
-generated_at: "2026-11-23T21:18:42.431Z"
+generated_at: "2026-11-23T21:21:08.018Z"
 status: "repealed"
 ---
 

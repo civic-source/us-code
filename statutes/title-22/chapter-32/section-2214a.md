@@ -3,9 +3,9 @@ title: "Section 2214a - Definitions"
 usc_title: 22
 usc_section: "2214a"
 chapter: 32
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2214a"
-generated_at: "2026-11-23T21:18:42.493Z"
+generated_at: "2026-11-23T21:21:08.112Z"
 status: "active"
 ---
 

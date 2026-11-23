@@ -3,9 +3,9 @@ title: "Section 952 - Reservoir sites for water for livestock"
 usc_title: 43
 usc_section: "952"
 chapter: 22
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 952"
-generated_at: "2026-11-23T21:19:03.571Z"
+generated_at: "2026-11-23T21:21:34.054Z"
 status: "active"
 ---
 

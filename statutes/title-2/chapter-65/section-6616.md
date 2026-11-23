@@ -3,9 +3,9 @@ title: "Section 6616 - Support services for Senate during emergency; memorandum 
 usc_title: 2
 usc_section: "6616"
 chapter: 65
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 6616"
-generated_at: "2026-11-23T21:18:10.028Z"
+generated_at: "2026-11-23T21:20:18.171Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2393 - Construction"
 usc_title: 20
 usc_section: "2393"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 2393"
-generated_at: "2026-11-23T21:18:33.478Z"
+generated_at: "2026-11-23T21:20:58.695Z"
 status: "active"
 ---
 

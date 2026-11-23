@@ -3,9 +3,9 @@ title: "Section 1193 - Flammability standards or regulations"
 usc_title: 15
 usc_section: "1193"
 chapter: 25
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 1193"
-generated_at: "2026-11-23T21:18:27.898Z"
+generated_at: "2026-11-23T21:20:45.059Z"
 status: "active"
 ---
 

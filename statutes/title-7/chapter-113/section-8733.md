@@ -3,9 +3,9 @@ title: "Section 8733 - Term of loans"
 usc_title: 7
 usc_section: "8733"
 chapter: 113
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 8733"
-generated_at: "2026-11-23T21:18:16.632Z"
+generated_at: "2026-11-23T21:20:28.356Z"
 status: "active"
 ---
 

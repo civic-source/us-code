@@ -3,9 +3,9 @@ title: "Section 3127 - Definitions for chapter"
 usc_title: 18
 usc_section: "3127"
 chapter: 206
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "18 U.S.C. § 3127"
-generated_at: "2026-11-23T21:18:30.737Z"
+generated_at: "2026-11-23T21:20:48.452Z"
 status: "active"
 ---
 

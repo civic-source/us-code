@@ -3,9 +3,9 @@ title: "Section 140701 - Definition"
 usc_title: 36
 usc_section: "140701"
 chapter: 1407
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 140701"
-generated_at: "2026-11-23T21:18:58.228Z"
+generated_at: "2026-11-23T21:21:27.427Z"
 status: "active"
 ---
 

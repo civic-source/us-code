@@ -3,9 +3,9 @@ title: "Section 1554 - Review of retirement or separation without pay for physic
 usc_title: 10
 usc_section: "1554"
 chapter: 79
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 1554"
-generated_at: "2026-11-23T21:18:20.306Z"
+generated_at: "2026-11-23T21:20:34.691Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 120 - Federal share payable"
 usc_title: 23
 usc_section: "120"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "23 U.S.C. § 120"
-generated_at: "2026-11-23T21:18:38.582Z"
+generated_at: "2026-11-23T21:21:03.404Z"
 status: "active"
 ---
 

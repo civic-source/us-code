@@ -3,9 +3,9 @@ title: "Section 1021 - Federal exemption from State water laws"
 usc_title: 30
 usc_section: "1021"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "30 U.S.C. § 1021"
-generated_at: "2026-11-23T21:18:44.473Z"
+generated_at: "2026-11-23T21:21:11.980Z"
 status: "active"
 ---
 

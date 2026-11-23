@@ -3,9 +3,9 @@ title: "Section 7101 - Definitions"
 usc_title: 41
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "41 U.S.C. § 7101"
-generated_at: "2026-11-23T21:19:02.567Z"
+generated_at: "2026-11-23T21:21:32.914Z"
 status: "active"
 ---
 

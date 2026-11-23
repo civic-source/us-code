@@ -3,9 +3,9 @@ title: "Section 1294 - Penalty"
 usc_title: 30
 usc_section: "1294"
 chapter: 25
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "30 U.S.C. § 1294"
-generated_at: "2026-11-23T21:18:44.489Z"
+generated_at: "2026-11-23T21:21:12.007Z"
 status: "active"
 ---
 

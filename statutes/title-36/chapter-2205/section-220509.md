@@ -3,9 +3,9 @@ title: "Section 220509 - Resolution of disputes"
 usc_title: 36
 usc_section: "220509"
 chapter: 2205
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 220509"
-generated_at: "2026-11-23T21:18:58.279Z"
+generated_at: "2026-11-23T21:21:27.525Z"
 status: "active"
 ---
 

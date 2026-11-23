@@ -3,9 +3,9 @@ title: "Section 6226 - Alternative to payment of imputed underpayment by partner
 usc_title: 26
 usc_section: "6226"
 chapter: 63
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 6226"
-generated_at: "2026-11-23T21:18:50.555Z"
+generated_at: "2026-11-23T21:21:20.282Z"
 status: "active"
 ---
 

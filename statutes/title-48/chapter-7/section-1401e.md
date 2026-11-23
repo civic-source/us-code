@@ -3,9 +3,9 @@ title: "Section 1401e - Repealed. Pub. L. 110–40, § 1(a) , June 29, 2007 , 12
 usc_title: 48
 usc_section: "1401e"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1401e"
-generated_at: "2026-11-23T21:19:21.546Z"
+generated_at: "2026-11-23T21:21:49.011Z"
 status: "repealed"
 ---
 

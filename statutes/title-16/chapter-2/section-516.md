@@ -3,9 +3,9 @@ title: "Section 516 - Exchange of lands in the public interest; equal value; cut
 usc_title: 16
 usc_section: "516"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 516"
-generated_at: "2026-11-23T21:18:36.010Z"
+generated_at: "2026-11-23T21:20:54.527Z"
 status: "active"
 ---
 

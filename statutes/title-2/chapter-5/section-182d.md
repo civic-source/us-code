@@ -3,9 +3,9 @@ title: "Section 182d - Audits by Comptroller General"
 usc_title: 2
 usc_section: "182d"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 182d"
-generated_at: "2026-11-23T21:18:09.890Z"
+generated_at: "2026-11-23T21:20:17.868Z"
 status: "active"
 ---
 

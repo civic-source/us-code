@@ -3,9 +3,9 @@ title: "Section 1969 - Regulation of traffic by Capitol Police Board"
 usc_title: 2
 usc_section: "1969"
 chapter: 29
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 1969"
-generated_at: "2026-11-23T21:18:09.972Z"
+generated_at: "2026-11-23T21:20:18.047Z"
 status: "active"
 ---
 

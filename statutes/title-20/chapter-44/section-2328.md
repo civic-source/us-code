@@ -3,9 +3,9 @@ title: "Section 2328 - Repealed. Pub. L. 115–224, title I, § 117 , July 31, 2
 usc_title: 20
 usc_section: "2328"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 2328"
-generated_at: "2026-11-23T21:18:33.474Z"
+generated_at: "2026-11-23T21:20:58.686Z"
 status: "repealed"
 ---
 

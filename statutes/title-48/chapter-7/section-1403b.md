@@ -3,9 +3,9 @@ title: "Section 1403b - Bond liability of United States"
 usc_title: 48
 usc_section: "1403b"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1403b"
-generated_at: "2026-11-23T21:19:21.546Z"
+generated_at: "2026-11-23T21:21:49.011Z"
 status: "active"
 ---
 

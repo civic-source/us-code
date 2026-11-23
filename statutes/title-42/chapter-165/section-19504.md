@@ -3,9 +3,9 @@ title: "Section 19504 - Grants for planning and implementation associated with a
 usc_title: 42
 usc_section: "19504"
 chapter: 165
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 19504"
-generated_at: "2026-11-23T21:19:19.578Z"
+generated_at: "2026-11-23T21:21:47.078Z"
 status: "active"
 ---
 

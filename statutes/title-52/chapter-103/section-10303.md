@@ -3,9 +3,9 @@ title: "Section 10303 - Suspension of the use of tests or devices in determining
 usc_title: 52
 usc_section: "10303"
 chapter: 103
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "52 U.S.C. § 10303"
-generated_at: "2026-11-23T21:19:31.253Z"
+generated_at: "2026-11-23T21:21:56.995Z"
 status: "active"
 ---
 

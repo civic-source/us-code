@@ -3,9 +3,9 @@ title: "Section 9088 - Duty assignments after officer training course"
 usc_title: 10
 usc_section: "9088"
 chapter: 908
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 9088"
-generated_at: "2026-11-23T21:18:20.876Z"
+generated_at: "2026-11-23T21:20:35.567Z"
 status: "active"
 ---
 

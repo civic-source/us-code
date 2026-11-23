@@ -3,9 +3,9 @@ title: "Section 915 - Single point of contact for identity theft victims"
 usc_title: 42
 usc_section: "915"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 915"
-generated_at: "2026-11-23T21:19:17.180Z"
+generated_at: "2026-11-23T21:21:44.902Z"
 status: "active"
 ---
 

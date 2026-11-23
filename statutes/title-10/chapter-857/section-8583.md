@@ -3,9 +3,9 @@ title: "Section 8583 - Annuity premium to be paid by monthly installments; gover
 usc_title: 10
 usc_section: "8583"
 chapter: 857
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8583"
-generated_at: "2026-11-23T21:18:20.803Z"
+generated_at: "2026-11-23T21:20:35.476Z"
 status: "active"
 ---
 

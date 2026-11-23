@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 117–328, div. P, title I, § 102(a) , De
 usc_title: 3
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "3 U.S.C. § 2"
-generated_at: "2026-11-23T21:18:08.861Z"
+generated_at: "2026-11-23T21:20:16.506Z"
 status: "repealed"
 ---
 

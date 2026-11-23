@@ -3,9 +3,9 @@ title: "Section 1862w - NSF support of research on impacts of social media on hu
 usc_title: 42
 usc_section: "1862w"
 chapter: 16
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1862w"
-generated_at: "2026-11-23T21:19:18.009Z"
+generated_at: "2026-11-23T21:21:45.605Z"
 status: "active"
 ---
 

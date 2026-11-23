@@ -3,9 +3,9 @@ title: "Section 2225 - Insider threat detection"
 usc_title: 10
 usc_section: "2225"
 chapter: 131
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2225"
-generated_at: "2026-11-23T21:18:20.390Z"
+generated_at: "2026-11-23T21:20:34.847Z"
 status: "active"
 ---
 

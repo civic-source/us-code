@@ -3,9 +3,9 @@ title: "Section 9054 - Participation of dairy operations in dairy margin coverag
 usc_title: 7
 usc_section: "9054"
 chapter: 115
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 9054"
-generated_at: "2026-11-23T21:18:16.647Z"
+generated_at: "2026-11-23T21:20:28.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1031 - Exchange of real property held for productive use or inve
 usc_title: 26
 usc_section: "1031"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 1031"
-generated_at: "2026-11-23T21:18:50.231Z"
+generated_at: "2026-11-23T21:21:19.895Z"
 status: "active"
 ---
 

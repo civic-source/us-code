@@ -3,9 +3,9 @@ title: "Section 46106 - Annual report and public disclosure"
 usc_title: 46
 usc_section: "46106"
 chapter: 461
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "46 U.S.C. § 46106"
-generated_at: "2026-11-23T21:19:25.872Z"
+generated_at: "2026-11-23T21:21:50.681Z"
 status: "active"
 ---
 

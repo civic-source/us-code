@@ -3,9 +3,9 @@ title: "Section 4012 - Authority for payment of claims for interest owed"
 usc_title: 25
 usc_section: "4012"
 chapter: 42
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 4012"
-generated_at: "2026-11-23T21:18:39.483Z"
+generated_at: "2026-11-23T21:21:02.423Z"
 status: "active"
 ---
 

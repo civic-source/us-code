@@ -3,9 +3,9 @@ title: "Section 1471a - Exemption on construction or modification of residential
 usc_title: 42
 usc_section: "1471a"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1471a"
-generated_at: "2026-11-23T21:19:17.873Z"
+generated_at: "2026-11-23T21:21:45.509Z"
 status: "active"
 ---
 

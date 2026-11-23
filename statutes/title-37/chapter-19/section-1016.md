@@ -3,9 +3,9 @@ title: "Section 1016 - Pay statements: descriptions of types of pay"
 usc_title: 37
 usc_section: "1016"
 chapter: 19
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "37 U.S.C. § 1016"
-generated_at: "2026-11-23T21:18:57.125Z"
+generated_at: "2026-11-23T21:21:28.210Z"
 status: "active"
 ---
 

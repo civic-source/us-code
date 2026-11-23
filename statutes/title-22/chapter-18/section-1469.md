@@ -3,9 +3,9 @@ title: "Section 1469 - United States Advisory Commission on Public Diplomacy"
 usc_title: 22
 usc_section: "1469"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 1469"
-generated_at: "2026-11-23T21:18:42.441Z"
+generated_at: "2026-11-23T21:21:08.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7326 - Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(
 usc_title: 26
 usc_section: "7326"
 chapter: 75
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 7326"
-generated_at: "2026-11-23T21:18:50.654Z"
+generated_at: "2026-11-23T21:21:20.376Z"
 status: "repealed"
 ---
 

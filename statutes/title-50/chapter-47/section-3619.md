@@ -3,9 +3,9 @@ title: "Section 3619 - Senior Chief Petty Officer Shannon Kent Award for Disting
 usc_title: 50
 usc_section: "3619"
 chapter: 47
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3619"
-generated_at: "2026-11-23T21:19:24.450Z"
+generated_at: "2026-11-23T21:21:52.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2009 - Definitions"
 usc_title: 7
 usc_section: "2009"
 chapter: 50
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 2009"
-generated_at: "2026-11-23T21:18:16.405Z"
+generated_at: "2026-11-23T21:20:27.857Z"
 status: "active"
 ---
 

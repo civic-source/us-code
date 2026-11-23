@@ -3,9 +3,9 @@ title: "Section 67a - Transferred"
 usc_title: 2
 usc_section: "67a"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 67a"
-generated_at: "2026-11-23T21:18:09.873Z"
+generated_at: "2026-11-23T21:20:17.833Z"
 status: "transferred"
 ---
 

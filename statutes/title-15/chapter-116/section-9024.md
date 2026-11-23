@@ -3,9 +3,9 @@ title: "Section 9024 - Temporary full Federal funding of the first week of compe
 usc_title: 15
 usc_section: "9024"
 chapter: 116
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 9024"
-generated_at: "2026-11-23T21:18:28.198Z"
+generated_at: "2026-11-23T21:20:45.433Z"
 status: "active"
 ---
 

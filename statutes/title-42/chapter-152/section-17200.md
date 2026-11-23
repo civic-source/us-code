@@ -3,9 +3,9 @@ title: "Section 17200 - Repealed. Pub. L. 116–260, div. Z, title III, § 3002(
 usc_title: 42
 usc_section: "17200"
 chapter: 152
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 17200"
-generated_at: "2026-11-23T21:19:19.403Z"
+generated_at: "2026-11-23T21:21:46.976Z"
 status: "repealed"
 ---
 

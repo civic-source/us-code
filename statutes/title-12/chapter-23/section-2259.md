@@ -3,9 +3,9 @@ title: "Section 2259 - State legislation"
 usc_title: 12
 usc_section: "2259"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 2259"
-generated_at: "2026-11-23T21:18:25.770Z"
+generated_at: "2026-11-23T21:20:41.442Z"
 status: "active"
 ---
 

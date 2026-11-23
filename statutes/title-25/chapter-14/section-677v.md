@@ -3,9 +3,9 @@ title: "Section 677v - Omitted"
 usc_title: 25
 usc_section: "677v"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 677v"
-generated_at: "2026-11-23T21:18:39.341Z"
+generated_at: "2026-11-23T21:21:02.176Z"
 status: "omitted"
 ---
 

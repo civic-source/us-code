@@ -3,9 +3,9 @@ title: "Section 2634 - Appropriations to carry out sections 2632 and 2633"
 usc_title: 43
 usc_section: "2634"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 2634"
-generated_at: "2026-11-23T21:19:03.705Z"
+generated_at: "2026-11-23T21:21:34.210Z"
 status: "active"
 ---
 

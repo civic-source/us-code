@@ -3,9 +3,9 @@ title: "Section 262b - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262b"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 262b"
-generated_at: "2026-11-23T21:18:42.358Z"
+generated_at: "2026-11-23T21:21:07.899Z"
 status: "active"
 ---
 

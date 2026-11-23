@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Pub. L. 93–282, title III, § 302 , May 14, 1974
 usc_title: 42
 usc_section: "2"
 chapter: 33
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-11-23T21:19:18.185Z"
+generated_at: "2026-11-23T21:21:45.744Z"
 status: "repealed"
 ---
 

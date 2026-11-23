@@ -3,9 +3,9 @@ title: "Section 30907 - Annual and special meetings"
 usc_title: 36
 usc_section: "30907"
 chapter: 309
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 30907"
-generated_at: "2026-11-23T21:18:58.152Z"
+generated_at: "2026-11-23T21:21:27.357Z"
 status: "active"
 ---
 

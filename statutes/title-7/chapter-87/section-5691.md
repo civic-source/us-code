@@ -3,9 +3,9 @@ title: "Section 5691 - Repealed. Pub. L. 103–354, title II, § 225(e)(1) , Oct
 usc_title: 7
 usc_section: "5691"
 chapter: 87
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 5691"
-generated_at: "2026-11-23T21:18:16.529Z"
+generated_at: "2026-11-23T21:20:28.150Z"
 status: "repealed"
 ---
 

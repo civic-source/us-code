@@ -3,9 +3,9 @@ title: "Section 9411 - Presidential waiver authority"
 usc_title: 22
 usc_section: "9411"
 chapter: 101
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 9411"
-generated_at: "2026-11-23T21:18:42.814Z"
+generated_at: "2026-11-23T21:21:08.579Z"
 status: "active"
 ---
 

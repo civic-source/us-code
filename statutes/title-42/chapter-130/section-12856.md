@@ -3,9 +3,9 @@ title: "Section 12856 - Report"
 usc_title: 42
 usc_section: "12856"
 chapter: 130
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 12856"
-generated_at: "2026-11-23T21:19:19.183Z"
+generated_at: "2026-11-23T21:21:46.751Z"
 status: "active"
 ---
 

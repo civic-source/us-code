@@ -3,9 +3,9 @@ title: "Section 1906 - Annual report"
 usc_title: 50
 usc_section: "1906"
 chapter: 37
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 1906"
-generated_at: "2026-11-23T21:19:24.240Z"
+generated_at: "2026-11-23T21:21:51.890Z"
 status: "active"
 ---
 

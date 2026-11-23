@@ -3,9 +3,9 @@ title: "Section 443 - Imagery intelligence and geospatial information: support f
 usc_title: 10
 usc_section: "443"
 chapter: 22
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 443"
-generated_at: "2026-11-23T21:18:20.017Z"
+generated_at: "2026-11-23T21:20:34.334Z"
 status: "active"
 ---
 

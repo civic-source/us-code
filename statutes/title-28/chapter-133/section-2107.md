@@ -3,9 +3,9 @@ title: "Section 2107 - Time for appeal to court of appeals"
 usc_title: 28
 usc_section: "2107"
 chapter: 133
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "28 U.S.C. § 2107"
-generated_at: "2026-11-23T21:18:45.068Z"
+generated_at: "2026-11-23T21:21:11.373Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2784 - Renumbered § 4754]"
 usc_title: 10
 usc_section: "2784"
 chapter: 165
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2784"
-generated_at: "2026-11-23T21:18:20.488Z"
+generated_at: "2026-11-23T21:20:35.012Z"
 status: "renumbered"
 ---
 

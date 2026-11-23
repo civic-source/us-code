@@ -3,9 +3,9 @@ title: "Section 11292 - Definitions"
 usc_title: 34
 usc_section: "11292"
 chapter: 111
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 11292"
-generated_at: "2026-11-23T21:18:55.167Z"
+generated_at: "2026-11-23T21:21:24.899Z"
 status: "active"
 ---
 

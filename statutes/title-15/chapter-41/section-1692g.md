@@ -3,9 +3,9 @@ title: "Section 1692g - Validation of debts"
 usc_title: 15
 usc_section: "1692g"
 chapter: 41
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 1692g"
-generated_at: "2026-11-23T21:18:27.980Z"
+generated_at: "2026-11-23T21:20:45.162Z"
 status: "active"
 ---
 

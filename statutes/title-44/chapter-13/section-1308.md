@@ -3,9 +3,9 @@ title: "Section 1308 - Coast Guard: annual report of the Commandant"
 usc_title: 44
 usc_section: "1308"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 1308"
-generated_at: "2026-11-23T21:19:01.893Z"
+generated_at: "2026-11-23T21:21:33.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6566 - Authority to procure technical support and other services
 usc_title: 2
 usc_section: "6566"
 chapter: 65
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 6566"
-generated_at: "2026-11-23T21:18:10.026Z"
+generated_at: "2026-11-23T21:20:18.166Z"
 status: "active"
 ---
 

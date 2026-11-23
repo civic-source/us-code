@@ -3,9 +3,9 @@ title: "Section 2282f - Review of resiliency assessments"
 usc_title: 33
 usc_section: "2282f"
 chapter: 36
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 2282f"
-generated_at: "2026-11-23T21:18:54.438Z"
+generated_at: "2026-11-23T21:21:23.211Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Number and composition of circuits"
 usc_title: 28
 usc_section: "41"
 chapter: 3
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "28 U.S.C. § 41"
-generated_at: "2026-11-23T21:18:44.951Z"
+generated_at: "2026-11-23T21:21:11.210Z"
 status: "active"
 ---
 

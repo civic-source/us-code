@@ -3,9 +3,9 @@ title: "Section 3309 - Preservation of claims of Government until settled in Gov
 usc_title: 44
 usc_section: "3309"
 chapter: 33
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 3309"
-generated_at: "2026-11-23T21:19:01.929Z"
+generated_at: "2026-11-23T21:21:33.228Z"
 status: "active"
 ---
 

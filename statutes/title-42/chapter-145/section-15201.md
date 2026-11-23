@@ -3,9 +3,9 @@ title: "Section 15201 - Authorization of Medal"
 usc_title: 42
 usc_section: "15201"
 chapter: 145
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 15201"
-generated_at: "2026-11-23T21:19:19.249Z"
+generated_at: "2026-11-23T21:21:46.846Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2157 - Additional export criterion and procedures"
 usc_title: 42
 usc_section: "2157"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 2157"
-generated_at: "2026-11-23T21:19:18.111Z"
+generated_at: "2026-11-23T21:21:45.689Z"
 status: "active"
 ---
 

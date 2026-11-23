@@ -3,9 +3,9 @@ title: "Section 19110 - Test beds"
 usc_title: 42
 usc_section: "19110"
 chapter: 163
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 19110"
-generated_at: "2026-11-23T21:19:19.550Z"
+generated_at: "2026-11-23T21:21:47.061Z"
 status: "active"
 ---
 

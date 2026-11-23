@@ -3,9 +3,9 @@ title: "Section 1701k - Right to redeem property on which United States has lien
 usc_title: 12
 usc_section: "1701k"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1701k"
-generated_at: "2026-11-23T21:18:25.499Z"
+generated_at: "2026-11-23T21:20:41.071Z"
 status: "active"
 ---
 

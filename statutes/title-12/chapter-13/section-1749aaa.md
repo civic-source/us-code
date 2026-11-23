@@ -3,9 +3,9 @@ title: "Section 1749aaa - Insurance of mortgages"
 usc_title: 12
 usc_section: "1749aaa"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1749aaa"
-generated_at: "2026-11-23T21:18:25.619Z"
+generated_at: "2026-11-23T21:20:41.217Z"
 status: "active"
 ---
 

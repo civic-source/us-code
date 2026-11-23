@@ -3,9 +3,9 @@ title: "Section 246 - Maintenance of records"
 usc_title: 7
 usc_section: "246"
 chapter: 10
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 246"
-generated_at: "2026-11-23T21:18:16.239Z"
+generated_at: "2026-11-23T21:20:27.501Z"
 status: "active"
 ---
 

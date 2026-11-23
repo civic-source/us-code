@@ -3,9 +3,9 @@ title: "Section 5261 - Gain or loss from sale or exchange of certain preferred s
 usc_title: 12
 usc_section: "5261"
 chapter: 52
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 5261"
-generated_at: "2026-11-23T21:18:25.931Z"
+generated_at: "2026-11-23T21:20:41.675Z"
 status: "active"
 ---
 

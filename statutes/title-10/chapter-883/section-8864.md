@@ -3,9 +3,9 @@ title: "Section 8864 - Delivery of property on stipulation"
 usc_title: 10
 usc_section: "8864"
 chapter: 883
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8864"
-generated_at: "2026-11-23T21:18:20.847Z"
+generated_at: "2026-11-23T21:20:35.530Z"
 status: "active"
 ---
 

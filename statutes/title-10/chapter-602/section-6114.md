@@ -3,9 +3,9 @@ title: "Section 6114 - Nuclear weapons stockpile stewardship, management, and re
 usc_title: 10
 usc_section: "6114"
 chapter: 602
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 6114"
-generated_at: "2026-11-23T21:18:20.687Z"
+generated_at: "2026-11-23T21:20:35.293Z"
 status: "active"
 ---
 

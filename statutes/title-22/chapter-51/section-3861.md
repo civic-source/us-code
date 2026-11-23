@@ -3,9 +3,9 @@ title: "Section 3861 - Procurement system"
 usc_title: 22
 usc_section: "3861"
 chapter: 51
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 3861"
-generated_at: "2026-11-23T21:18:42.641Z"
+generated_at: "2026-11-23T21:21:08.306Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8562 - Improving probable maximum precipitation estimates"
 usc_title: 15
 usc_section: "8562"
 chapter: 111
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 8562"
-generated_at: "2026-11-23T21:18:28.175Z"
+generated_at: "2026-11-23T21:20:45.408Z"
 status: "active"
 ---
 

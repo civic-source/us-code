@@ -3,9 +3,9 @@ title: "Section 3102 - Critical cost growth in major systems"
 usc_title: 50
 usc_section: "3102"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3102"
-generated_at: "2026-11-23T21:19:24.346Z"
+generated_at: "2026-11-23T21:21:51.958Z"
 status: "active"
 ---
 

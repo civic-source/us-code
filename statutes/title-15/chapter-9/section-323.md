@@ -3,9 +3,9 @@ title: "Section 323 - Repealed. July 25, 1947, ch. 327, § 1 , 61 Stat. 449"
 usc_title: 15
 usc_section: "323"
 chapter: 9
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 323"
-generated_at: "2026-11-23T21:18:27.744Z"
+generated_at: "2026-11-23T21:20:44.848Z"
 status: "repealed"
 ---
 

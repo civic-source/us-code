@@ -3,9 +3,9 @@ title: "Section 286 - Conspiracy to defraud the Government with respect to claim
 usc_title: 18
 usc_section: "286"
 chapter: 15
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "18 U.S.C. § 286"
-generated_at: "2026-11-23T21:18:30.605Z"
+generated_at: "2026-11-23T21:20:48.280Z"
 status: "active"
 ---
 

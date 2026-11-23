@@ -3,9 +3,9 @@ title: "Section 1497 - Indian Loan Guaranty and Insurance Fund"
 usc_title: 25
 usc_section: "1497"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 1497"
-generated_at: "2026-11-23T21:18:39.356Z"
+generated_at: "2026-11-23T21:21:02.221Z"
 status: "active"
 ---
 

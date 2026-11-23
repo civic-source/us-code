@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-11-23T21:18:40.643Z"
+generated_at: "2026-11-23T21:21:05.173Z"
 status: "active"
 ---
 

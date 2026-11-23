@@ -3,9 +3,9 @@ title: "Section 1713 - Authorization of use of environmentally-approved herbicid
 usc_title: 21
 usc_section: "1713"
 chapter: 22
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 1713"
-generated_at: "2026-11-23T21:18:40.750Z"
+generated_at: "2026-11-23T21:21:05.343Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9138 - Regular Air Force and Space Force: reenlistment after ser
 usc_title: 10
 usc_section: "9138"
 chapter: 913
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 9138"
-generated_at: "2026-11-23T21:18:20.878Z"
+generated_at: "2026-11-23T21:20:35.569Z"
 status: "active"
 ---
 

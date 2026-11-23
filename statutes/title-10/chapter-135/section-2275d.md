@@ -3,9 +3,9 @@ title: "Section 2275d - Acquisition and operation of space systems for space war
 usc_title: 10
 usc_section: "2275d"
 chapter: 135
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2275d"
-generated_at: "2026-11-23T21:18:20.399Z"
+generated_at: "2026-11-23T21:20:34.862Z"
 status: "active"
 ---
 

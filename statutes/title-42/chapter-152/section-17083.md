@@ -3,9 +3,9 @@ title: "Section 17083 - Public outreach"
 usc_title: 42
 usc_section: "17083"
 chapter: 152
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 17083"
-generated_at: "2026-11-23T21:19:19.384Z"
+generated_at: "2026-11-23T21:21:46.965Z"
 status: "active"
 ---
 

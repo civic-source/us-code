@@ -3,9 +3,9 @@ title: "Section 12321 - Confidentiality of abused person’s address"
 usc_title: 34
 usc_section: "12321"
 chapter: 121
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 12321"
-generated_at: "2026-11-23T21:18:55.183Z"
+generated_at: "2026-11-23T21:21:24.925Z"
 status: "active"
 ---
 

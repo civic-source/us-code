@@ -3,9 +3,9 @@ title: "Section 649 - Vicksburg Harbor and Ohio River below Cache River"
 usc_title: 33
 usc_section: "649"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 649"
-generated_at: "2026-11-23T21:18:54.232Z"
+generated_at: "2026-11-23T21:21:23.044Z"
 status: "active"
 ---
 

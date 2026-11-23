@@ -3,9 +3,9 @@ title: "Section 2203 - Review of contracting policies"
 usc_title: 33
 usc_section: "2203"
 chapter: 36
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 2203"
-generated_at: "2026-11-23T21:18:54.409Z"
+generated_at: "2026-11-23T21:21:23.191Z"
 status: "active"
 ---
 

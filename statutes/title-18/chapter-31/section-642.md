@@ -3,9 +3,9 @@ title: "Section 642 - Tools and materials for counterfeiting purposes"
 usc_title: 18
 usc_section: "642"
 chapter: 31
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "18 U.S.C. § 642"
-generated_at: "2026-11-23T21:18:30.616Z"
+generated_at: "2026-11-23T21:20:48.296Z"
 status: "active"
 ---
 

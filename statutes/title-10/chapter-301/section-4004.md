@@ -3,9 +3,9 @@ title: "Section 4004 - Contract authority for development and demonstration of i
 usc_title: 10
 usc_section: "4004"
 chapter: 301
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 4004"
-generated_at: "2026-11-23T21:18:20.588Z"
+generated_at: "2026-11-23T21:20:35.174Z"
 status: "active"
 ---
 

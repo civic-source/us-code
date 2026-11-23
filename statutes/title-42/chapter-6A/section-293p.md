@@ -3,9 +3,9 @@ title: "Section 293p - Repealed. Pub. L. 105–392, title I, § 102(4) , Nov. 13
 usc_title: 42
 usc_section: "293p"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 293p"
-generated_at: "2026-11-23T21:19:16.629Z"
+generated_at: "2026-11-23T21:21:44.498Z"
 status: "repealed"
 ---
 

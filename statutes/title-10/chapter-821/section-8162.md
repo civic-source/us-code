@@ -3,9 +3,9 @@ title: "Section 8162 - Aviation commands: eligibility"
 usc_title: 10
 usc_section: "8162"
 chapter: 821
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8162"
-generated_at: "2026-11-23T21:18:20.771Z"
+generated_at: "2026-11-23T21:20:35.416Z"
 status: "active"
 ---
 

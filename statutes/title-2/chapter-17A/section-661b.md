@@ -3,9 +3,9 @@ title: "Section 661b - OMB and CBO analysis, coordination, and review"
 usc_title: 2
 usc_section: "661b"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 661b"
-generated_at: "2026-11-23T21:18:09.920Z"
+generated_at: "2026-11-23T21:20:17.936Z"
 status: "active"
 ---
 

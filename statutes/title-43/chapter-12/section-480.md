@@ -3,9 +3,9 @@ title: "Section 480 - Cancellation of water right or entry for nonpayment of con
 usc_title: 43
 usc_section: "480"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 480"
-generated_at: "2026-11-23T21:19:03.515Z"
+generated_at: "2026-11-23T21:21:33.990Z"
 status: "active"
 ---
 

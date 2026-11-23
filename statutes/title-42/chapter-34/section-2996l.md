@@ -3,9 +3,9 @@ title: "Section 2996l - Reservation of right to repeal, alter, or amend"
 usc_title: 42
 usc_section: "2996l"
 chapter: 34
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 2996l"
-generated_at: "2026-11-23T21:19:18.208Z"
+generated_at: "2026-11-23T21:21:45.756Z"
 status: "active"
 ---
 

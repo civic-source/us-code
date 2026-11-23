@@ -3,9 +3,9 @@ title: "Section 2519 - Prevention of and response to hazing and bullying"
 usc_title: 14
 usc_section: "2519"
 chapter: 25
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "14 U.S.C. § 2519"
-generated_at: "2026-11-23T21:18:22.823Z"
+generated_at: "2026-11-23T21:20:38.289Z"
 status: "active"
 ---
 

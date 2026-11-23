@@ -3,9 +3,9 @@ title: "Section 893 - Ocean and atmospheric research and development program"
 usc_title: 33
 usc_section: "893"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 893"
-generated_at: "2026-11-23T21:18:54.268Z"
+generated_at: "2026-11-23T21:21:23.075Z"
 status: "active"
 ---
 

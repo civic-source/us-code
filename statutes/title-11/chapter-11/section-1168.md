@@ -3,9 +3,9 @@ title: "Section 1168 - Rolling stock equipment"
 usc_title: 11
 usc_section: "1168"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "11 U.S.C. § 1168"
-generated_at: "2026-11-23T21:18:22.529Z"
+generated_at: "2026-11-23T21:20:37.668Z"
 status: "active"
 ---
 

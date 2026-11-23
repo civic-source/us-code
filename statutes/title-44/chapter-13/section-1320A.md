@@ -3,9 +3,9 @@ title: "Section 1320A - Historical societies’ publications"
 usc_title: 44
 usc_section: "1320A"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "44 U.S.C. § 1320A"
-generated_at: "2026-11-23T21:19:01.895Z"
+generated_at: "2026-11-23T21:21:33.207Z"
 status: "active"
 ---
 

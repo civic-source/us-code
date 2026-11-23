@@ -3,9 +3,9 @@ title: "Section 4652 - Prohibition on use of funds for documenting economic or e
 usc_title: 10
 usc_section: "4652"
 chapter: 363
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 4652"
-generated_at: "2026-11-23T21:18:20.636Z"
+generated_at: "2026-11-23T21:20:35.238Z"
 status: "active"
 ---
 

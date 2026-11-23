@@ -3,9 +3,9 @@ title: "Section 153501 - Organization"
 usc_title: 36
 usc_section: "153501"
 chapter: 1535
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 153501"
-generated_at: "2026-11-23T21:18:58.249Z"
+generated_at: "2026-11-23T21:21:27.482Z"
 status: "active"
 ---
 

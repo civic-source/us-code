@@ -3,9 +3,9 @@ title: "Section 6510 - Manufacturers and regular dealers"
 usc_title: 41
 usc_section: "6510"
 chapter: 65
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "41 U.S.C. § 6510"
-generated_at: "2026-11-23T21:19:02.564Z"
+generated_at: "2026-11-23T21:21:32.913Z"
 status: "active"
 ---
 

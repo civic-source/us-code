@@ -3,9 +3,9 @@ title: "Section 2122 - Corporate existence; general corporate powers"
 usc_title: 12
 usc_section: "2122"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 2122"
-generated_at: "2026-11-23T21:18:25.751Z"
+generated_at: "2026-11-23T21:20:41.417Z"
 status: "active"
 ---
 

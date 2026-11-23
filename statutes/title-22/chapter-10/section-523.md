@@ -3,9 +3,9 @@ title: "Section 523 - Restriction in contracts against disposal of implements of
 usc_title: 22
 usc_section: "523"
 chapter: 10
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 523"
-generated_at: "2026-11-23T21:18:42.427Z"
+generated_at: "2026-11-23T21:21:08.013Z"
 status: "active"
 ---
 

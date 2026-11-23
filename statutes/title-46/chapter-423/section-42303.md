@@ -3,9 +3,9 @@ title: "Section 42303 - Information requests"
 usc_title: 46
 usc_section: "42303"
 chapter: 423
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "46 U.S.C. § 42303"
-generated_at: "2026-11-23T21:19:25.865Z"
+generated_at: "2026-11-23T21:21:50.675Z"
 status: "active"
 ---
 

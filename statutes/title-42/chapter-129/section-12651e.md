@@ -3,9 +3,9 @@ title: "Section 12651e - Officers"
 usc_title: 42
 usc_section: "12651e"
 chapter: 129
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 12651e"
-generated_at: "2026-11-23T21:19:19.158Z"
+generated_at: "2026-11-23T21:21:46.714Z"
 status: "active"
 ---
 

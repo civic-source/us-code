@@ -3,9 +3,9 @@ title: "Section 11321 - Authorization of appropriations"
 usc_title: 34
 usc_section: "11321"
 chapter: 111
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 11321"
-generated_at: "2026-11-23T21:18:55.172Z"
+generated_at: "2026-11-23T21:21:24.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2032 - Annual report to Congress"
 usc_title: 19
 usc_section: "2032"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "19 U.S.C. § 2032"
-generated_at: "2026-11-23T21:18:31.718Z"
+generated_at: "2026-11-23T21:20:50.231Z"
 status: "active"
 ---
 

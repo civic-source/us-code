@@ -3,9 +3,9 @@ title: "Section 2718 - Interest on balances due department"
 usc_title: 28
 usc_section: "2718"
 chapter: 173
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "28 U.S.C. § 2718"
-generated_at: "2026-11-23T21:18:45.085Z"
+generated_at: "2026-11-23T21:21:11.409Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 802 - Definitions"
 usc_title: 21
 usc_section: "802"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 802"
-generated_at: "2026-11-23T21:18:40.703Z"
+generated_at: "2026-11-23T21:21:05.267Z"
 status: "active"
 ---
 

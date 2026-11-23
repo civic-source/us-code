@@ -3,9 +3,9 @@ title: "Section 7461 - Adverse actions: section 7401(1) employees"
 usc_title: 38
 usc_section: "7461"
 chapter: 74
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "38 U.S.C. § 7461"
-generated_at: "2026-11-23T21:19:00.294Z"
+generated_at: "2026-11-23T21:21:30.288Z"
 status: "active"
 ---
 

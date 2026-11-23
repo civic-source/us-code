@@ -3,9 +3,9 @@ title: "Section 11244 - Demonstration projects to provide services to youth in r
 usc_title: 34
 usc_section: "11244"
 chapter: 111
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 11244"
-generated_at: "2026-11-23T21:18:55.163Z"
+generated_at: "2026-11-23T21:21:24.895Z"
 status: "active"
 ---
 

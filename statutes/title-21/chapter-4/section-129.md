@@ -3,9 +3,9 @@ title: "Section 129 - Omitted"
 usc_title: 21
 usc_section: "129"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 129"
-generated_at: "2026-11-23T21:18:40.498Z"
+generated_at: "2026-11-23T21:21:05.012Z"
 status: "omitted"
 ---
 

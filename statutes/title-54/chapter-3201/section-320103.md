@@ -3,9 +3,9 @@ title: "Section 320103 - Cooperation with governmental and private agencies and 
 usc_title: 54
 usc_section: "320103"
 chapter: 3201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "54 U.S.C. § 320103"
-generated_at: "2026-11-23T21:19:32.212Z"
+generated_at: "2026-11-23T21:21:56.830Z"
 status: "active"
 ---
 

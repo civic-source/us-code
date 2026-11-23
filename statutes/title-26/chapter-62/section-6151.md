@@ -3,9 +3,9 @@ title: "Section 6151 - Time and place for paying tax shown on returns"
 usc_title: 26
 usc_section: "6151"
 chapter: 62
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 6151"
-generated_at: "2026-11-23T21:18:50.541Z"
+generated_at: "2026-11-23T21:21:20.271Z"
 status: "active"
 ---
 

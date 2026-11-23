@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-11-23T21:18:19.997Z"
+generated_at: "2026-11-23T21:20:34.311Z"
 status: "active"
 ---
 

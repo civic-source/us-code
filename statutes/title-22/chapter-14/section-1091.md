@@ -3,9 +3,9 @@ title: "Section 1091 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1091"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 1091"
-generated_at: "2026-11-23T21:18:42.433Z"
+generated_at: "2026-11-23T21:21:08.019Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5303 - Metropolitan transportation planning"
 usc_title: 49
 usc_section: "5303"
 chapter: 53
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 5303"
-generated_at: "2026-11-23T21:19:29.044Z"
+generated_at: "2026-11-23T21:21:54.264Z"
 status: "active"
 ---
 

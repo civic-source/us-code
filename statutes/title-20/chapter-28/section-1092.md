@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-11-23T21:18:33.382Z"
+generated_at: "2026-11-23T21:20:58.485Z"
 status: "active"
 ---
 

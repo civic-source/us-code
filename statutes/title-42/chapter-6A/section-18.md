@@ -3,9 +3,9 @@ title: "Section 18 - Transitions"
 usc_title: 42
 usc_section: "18"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 18"
-generated_at: "2026-11-23T21:19:16.926Z"
+generated_at: "2026-11-23T21:21:44.706Z"
 status: "active"
 ---
 

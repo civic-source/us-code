@@ -3,9 +3,9 @@ title: "Section 7105 - Prescribing uniform technical and administrative provisio
 usc_title: 31
 usc_section: "7105"
 chapter: 71
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "31 U.S.C. § 7105"
-generated_at: "2026-11-23T21:18:53.041Z"
+generated_at: "2026-11-23T21:21:24.230Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 878 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "878"
 chapter: 17
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "29 U.S.C. § 878"
-generated_at: "2026-11-23T21:18:45.953Z"
+generated_at: "2026-11-23T21:21:13.123Z"
 status: "repealed"
 ---
 

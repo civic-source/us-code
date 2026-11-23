@@ -3,9 +3,9 @@ title: "Section 390e - Rights, acquisition and availability of; obligation for o
 usc_title: 43
 usc_section: "390e"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 390e"
-generated_at: "2026-11-23T21:19:03.482Z"
+generated_at: "2026-11-23T21:21:33.950Z"
 status: "active"
 ---
 

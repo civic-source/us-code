@@ -3,9 +3,9 @@ title: "Section 3227 - Transfer date"
 usc_title: 50
 usc_section: "3227"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3227"
-generated_at: "2026-11-23T21:19:24.367Z"
+generated_at: "2026-11-23T21:21:51.977Z"
 status: "active"
 ---
 

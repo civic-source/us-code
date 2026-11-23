@@ -3,9 +3,9 @@ title: "Section 2601 - Conservation management by Department of the Interior; pe
 usc_title: 43
 usc_section: "2601"
 chapter: 44
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 2601"
-generated_at: "2026-11-23T21:19:03.703Z"
+generated_at: "2026-11-23T21:21:34.207Z"
 status: "active"
 ---
 

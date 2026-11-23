@@ -3,9 +3,9 @@ title: "Section 5561 - Exemptions to meet the requirements of the national defen
 usc_title: 26
 usc_section: "5561"
 chapter: 51
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 5561"
-generated_at: "2026-11-23T21:18:50.464Z"
+generated_at: "2026-11-23T21:21:20.193Z"
 status: "active"
 ---
 

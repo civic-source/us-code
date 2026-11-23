@@ -3,9 +3,9 @@ title: "Section 15103 - Remedies as cumulative"
 usc_title: 49
 usc_section: "15103"
 chapter: 151
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 15103"
-generated_at: "2026-11-23T21:19:29.176Z"
+generated_at: "2026-11-23T21:21:54.366Z"
 status: "active"
 ---
 

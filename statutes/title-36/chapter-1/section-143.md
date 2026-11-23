@@ -3,9 +3,9 @@ title: "Section 143 - Wright Brothers Day"
 usc_title: 36
 usc_section: "143"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 143"
-generated_at: "2026-11-23T21:18:58.097Z"
+generated_at: "2026-11-23T21:21:27.299Z"
 status: "active"
 ---
 

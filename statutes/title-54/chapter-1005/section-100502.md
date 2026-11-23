@@ -3,9 +3,9 @@ title: "Section 100502 - General management plans"
 usc_title: 54
 usc_section: "100502"
 chapter: 1005
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "54 U.S.C. § 100502"
-generated_at: "2026-11-23T21:19:32.118Z"
+generated_at: "2026-11-23T21:21:56.758Z"
 status: "active"
 ---
 

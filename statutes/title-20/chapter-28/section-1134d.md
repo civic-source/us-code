@@ -3,9 +3,9 @@ title: "Section 1134d - Authorization of appropriations"
 usc_title: 20
 usc_section: "1134d"
 chapter: 28
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 1134d"
-generated_at: "2026-11-23T21:18:33.409Z"
+generated_at: "2026-11-23T21:20:58.537Z"
 status: "active"
 ---
 

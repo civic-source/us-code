@@ -3,9 +3,9 @@ title: "Section 112h - Transferred"
 usc_title: 2
 usc_section: "112h"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "2 U.S.C. § 112h"
-generated_at: "2026-11-23T21:18:09.876Z"
+generated_at: "2026-11-23T21:20:17.840Z"
 status: "transferred"
 ---
 

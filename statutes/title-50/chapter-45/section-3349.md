@@ -3,9 +3,9 @@ title: "Section 3349 - Notification regarding the authorized public disclosure o
 usc_title: 50
 usc_section: "3349"
 chapter: 45
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 3349"
-generated_at: "2026-11-23T21:19:24.396Z"
+generated_at: "2026-11-23T21:21:52.012Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2017b - Omitted"
 usc_title: 42
 usc_section: "2017b"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 2017b"
-generated_at: "2026-11-23T21:19:18.085Z"
+generated_at: "2026-11-23T21:21:45.664Z"
 status: "omitted"
 ---
 

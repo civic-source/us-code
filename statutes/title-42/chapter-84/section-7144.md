@@ -3,9 +3,9 @@ title: "Section 7144 - Establishment of policy for National Nuclear Security Adm
 usc_title: 42
 usc_section: "7144"
 chapter: 84
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 7144"
-generated_at: "2026-11-23T21:19:18.739Z"
+generated_at: "2026-11-23T21:21:46.217Z"
 status: "active"
 ---
 

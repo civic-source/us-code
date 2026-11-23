@@ -3,9 +3,9 @@ title: "Section 8478 - Mixed-funded athletic and recreational extracurricular pr
 usc_title: 10
 usc_section: "8478"
 chapter: 853
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8478"
-generated_at: "2026-11-23T21:18:20.797Z"
+generated_at: "2026-11-23T21:20:35.469Z"
 status: "active"
 ---
 

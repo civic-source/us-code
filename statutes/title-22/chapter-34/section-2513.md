@@ -3,9 +3,9 @@ title: "Section 2513 - Assignment of personnel to foreign governments or interna
 usc_title: 22
 usc_section: "2513"
 chapter: 34
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2513"
-generated_at: "2026-11-23T21:18:42.559Z"
+generated_at: "2026-11-23T21:21:08.203Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2350r - North Atlantic Treaty Organization Allied Special Operat
 usc_title: 10
 usc_section: "2350r"
 chapter: 138
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2350r"
-generated_at: "2026-11-23T21:18:20.412Z"
+generated_at: "2026-11-23T21:20:34.884Z"
 status: "active"
 ---
 

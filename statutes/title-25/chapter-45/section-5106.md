@@ -3,9 +3,9 @@ title: "Section 5106 - Use of funds appropriated under section 5108"
 usc_title: 25
 usc_section: "5106"
 chapter: 45
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 5106"
-generated_at: "2026-11-23T21:18:39.499Z"
+generated_at: "2026-11-23T21:21:02.460Z"
 status: "active"
 ---
 

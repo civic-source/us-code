@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 42
 usc_section: "3002"
 chapter: 35
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-11-23T21:19:18.210Z"
+generated_at: "2026-11-23T21:21:45.757Z"
 status: "active"
 ---
 

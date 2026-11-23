@@ -3,9 +3,9 @@ title: "Section 26 - Sixteenth replenishment"
 usc_title: 22
 usc_section: "26"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 26"
-generated_at: "2026-11-23T21:18:42.416Z"
+generated_at: "2026-11-23T21:21:07.997Z"
 status: "active"
 ---
 

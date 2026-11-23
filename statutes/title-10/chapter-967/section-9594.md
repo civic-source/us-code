@@ -3,9 +3,9 @@ title: "Section 9594 - Department of the Air Force Military History Institute: f
 usc_title: 10
 usc_section: "9594"
 chapter: 967
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 9594"
-generated_at: "2026-11-23T21:18:20.920Z"
+generated_at: "2026-11-23T21:20:35.617Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19531 - Severability"
 usc_title: 42
 usc_section: "19531"
 chapter: 165
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 19531"
-generated_at: "2026-11-23T21:19:19.581Z"
+generated_at: "2026-11-23T21:21:47.081Z"
 status: "active"
 ---
 

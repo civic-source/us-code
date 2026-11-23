@@ -3,9 +3,9 @@ title: "Section 1041 - Enforcement provisions"
 usc_title: 21
 usc_section: "1041"
 chapter: 15
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 1041"
-generated_at: "2026-11-23T21:18:40.736Z"
+generated_at: "2026-11-23T21:21:05.314Z"
 status: "active"
 ---
 

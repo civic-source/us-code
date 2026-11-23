@@ -3,9 +3,9 @@ title: "Section 20131 - Media campaign"
 usc_title: 34
 usc_section: "20131"
 chapter: 201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 20131"
-generated_at: "2026-11-23T21:18:55.219Z"
+generated_at: "2026-11-23T21:21:24.962Z"
 status: "active"
 ---
 

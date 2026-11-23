@@ -3,9 +3,9 @@ title: "Section 20134 - Grade crossings and railroad rights of way"
 usc_title: 49
 usc_section: "20134"
 chapter: 201
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 20134"
-generated_at: "2026-11-23T21:19:29.190Z"
+generated_at: "2026-11-23T21:21:54.391Z"
 status: "active"
 ---
 

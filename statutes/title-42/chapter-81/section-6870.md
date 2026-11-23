@@ -3,9 +3,9 @@ title: "Section 6870 - Prohibition against discrimination; notification to funde
 usc_title: 42
 usc_section: "6870"
 chapter: 81
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 6870"
-generated_at: "2026-11-23T21:19:18.678Z"
+generated_at: "2026-11-23T21:21:46.171Z"
 status: "active"
 ---
 

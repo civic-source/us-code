@@ -3,9 +3,9 @@ title: "Section 9225 - Enhanced inspection authorities"
 usc_title: 22
 usc_section: "9225"
 chapter: 99
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 9225"
-generated_at: "2026-11-23T21:18:42.808Z"
+generated_at: "2026-11-23T21:21:08.568Z"
 status: "active"
 ---
 

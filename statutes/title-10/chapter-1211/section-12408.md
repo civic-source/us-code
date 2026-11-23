@@ -3,9 +3,9 @@ title: "Section 12408 - National Guard in Federal service: physical examination"
 usc_title: 10
 usc_section: "12408"
 chapter: 1211
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 12408"
-generated_at: "2026-11-23T21:18:20.980Z"
+generated_at: "2026-11-23T21:20:35.689Z"
 status: "active"
 ---
 

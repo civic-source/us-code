@@ -3,9 +3,9 @@ title: "Section 1997b - Certification requirements; Attorney General to personal
 usc_title: 42
 usc_section: "1997b"
 chapter: 21
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1997b"
-generated_at: "2026-11-23T21:19:18.047Z"
+generated_at: "2026-11-23T21:21:45.636Z"
 status: "active"
 ---
 

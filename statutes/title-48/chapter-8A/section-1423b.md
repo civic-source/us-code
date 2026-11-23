@@ -3,9 +3,9 @@ title: "Section 1423b - Selection and qualification of members; officers; rules 
 usc_title: 48
 usc_section: "1423b"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1423b"
-generated_at: "2026-11-23T21:19:21.557Z"
+generated_at: "2026-11-23T21:21:49.017Z"
 status: "active"
 ---
 

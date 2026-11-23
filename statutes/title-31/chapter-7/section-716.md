@@ -3,9 +3,9 @@ title: "Section 716 - Availability of information and inspection of records"
 usc_title: 31
 usc_section: "716"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "31 U.S.C. § 716"
-generated_at: "2026-11-23T21:18:52.909Z"
+generated_at: "2026-11-23T21:21:24.073Z"
 status: "active"
 ---
 

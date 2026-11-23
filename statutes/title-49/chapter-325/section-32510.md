@@ -3,9 +3,9 @@ title: "Section 32510 - Repealed. Pub. L. 105–362, title XV, § 1501(e)(1) , N
 usc_title: 49
 usc_section: "32510"
 chapter: 325
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 32510"
-generated_at: "2026-11-23T21:19:29.345Z"
+generated_at: "2026-11-23T21:21:54.554Z"
 status: "repealed"
 ---
 

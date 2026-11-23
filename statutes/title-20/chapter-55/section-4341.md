@@ -3,9 +3,9 @@ title: "Section 4341 - Cultural experiences grants"
 usc_title: 20
 usc_section: "4341"
 chapter: 55
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 4341"
-generated_at: "2026-11-23T21:18:33.516Z"
+generated_at: "2026-11-23T21:20:58.744Z"
 status: "active"
 ---
 

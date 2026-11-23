@@ -3,9 +3,9 @@ title: "Section 2473a - Repealed. Pub. L. 96–470, title I, § 118(b) , Oct. 19
 usc_title: 42
 usc_section: "2473a"
 chapter: 26
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 2473a"
-generated_at: "2026-11-23T21:19:18.180Z"
+generated_at: "2026-11-23T21:21:45.740Z"
 status: "repealed"
 ---
 

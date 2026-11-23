@@ -3,9 +3,9 @@ title: "Section 41107 - Transportation of mail"
 usc_title: 49
 usc_section: "41107"
 chapter: 411
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 41107"
-generated_at: "2026-11-23T21:19:29.427Z"
+generated_at: "2026-11-23T21:21:54.611Z"
 status: "active"
 ---
 

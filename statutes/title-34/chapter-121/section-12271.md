@@ -3,9 +3,9 @@ title: "Section 12271 - Prevention, diagnosis, and treatment of tuberculosis in 
 usc_title: 34
 usc_section: "12271"
 chapter: 121
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 12271"
-generated_at: "2026-11-23T21:18:55.181Z"
+generated_at: "2026-11-23T21:21:24.920Z"
 status: "active"
 ---
 

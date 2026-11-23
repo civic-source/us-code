@@ -3,9 +3,9 @@ title: "Section 4712 - Inventory of abandoned vessels"
 usc_title: 46
 usc_section: "4712"
 chapter: 47
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "46 U.S.C. § 4712"
-generated_at: "2026-11-23T21:19:25.729Z"
+generated_at: "2026-11-23T21:21:50.544Z"
 status: "active"
 ---
 

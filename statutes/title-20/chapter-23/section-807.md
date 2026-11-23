@@ -3,9 +3,9 @@ title: "Section 807 - Definitions; authorization of appropriations for administr
 usc_title: 20
 usc_section: "807"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 807"
-generated_at: "2026-11-23T21:18:33.266Z"
+generated_at: "2026-11-23T21:20:58.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2658a - Foreign Affairs Manual and Foreign Affairs Handbook chan
 usc_title: 22
 usc_section: "2658a"
 chapter: 38
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2658a"
-generated_at: "2026-11-23T21:18:42.575Z"
+generated_at: "2026-11-23T21:21:08.227Z"
 status: "active"
 ---
 

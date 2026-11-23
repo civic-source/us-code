@@ -3,9 +3,9 @@ title: "Section 60137 - Pipeline control room management"
 usc_title: 49
 usc_section: "60137"
 chapter: 601
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "49 U.S.C. § 60137"
-generated_at: "2026-11-23T21:19:29.778Z"
+generated_at: "2026-11-23T21:21:54.825Z"
 status: "active"
 ---
 

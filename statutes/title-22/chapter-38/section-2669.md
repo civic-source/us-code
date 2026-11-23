@@ -3,9 +3,9 @@ title: "Section 2669 - Printing and binding outside continental United States; s
 usc_title: 22
 usc_section: "2669"
 chapter: 38
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 2669"
-generated_at: "2026-11-23T21:18:42.576Z"
+generated_at: "2026-11-23T21:21:08.229Z"
 status: "active"
 ---
 

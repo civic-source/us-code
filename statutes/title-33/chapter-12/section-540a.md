@@ -3,9 +3,9 @@ title: "Section 540a - Availability of appropriations for attendance by military
 usc_title: 33
 usc_section: "540a"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 540a"
-generated_at: "2026-11-23T21:18:54.212Z"
+generated_at: "2026-11-23T21:21:23.025Z"
 status: "active"
 ---
 

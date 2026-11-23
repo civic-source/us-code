@@ -3,9 +3,9 @@ title: "Section 1826f - Certification"
 usc_title: 16
 usc_section: "1826f"
 chapter: 38
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 1826f"
-generated_at: "2026-11-23T21:18:36.270Z"
+generated_at: "2026-11-23T21:20:54.933Z"
 status: "active"
 ---
 

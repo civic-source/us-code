@@ -3,9 +3,9 @@ title: "Section 60 - Compensation prescribed to be in full"
 usc_title: 25
 usc_section: "60"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 60"
-generated_at: "2026-11-23T21:18:39.308Z"
+generated_at: "2026-11-23T21:21:02.114Z"
 status: "active"
 ---
 

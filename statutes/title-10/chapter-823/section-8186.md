@@ -3,9 +3,9 @@ title: "Section 8186 - Technical institutions: detail of naval officers to promo
 usc_title: 10
 usc_section: "8186"
 chapter: 823
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 8186"
-generated_at: "2026-11-23T21:18:20.773Z"
+generated_at: "2026-11-23T21:20:35.419Z"
 status: "active"
 ---
 

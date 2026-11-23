@@ -3,9 +3,9 @@ title: "Section 564 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "564"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "45 U.S.C. § 564"
-generated_at: "2026-11-23T21:19:04.226Z"
+generated_at: "2026-11-23T21:21:32.369Z"
 status: "repealed"
 ---
 

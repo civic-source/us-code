@@ -3,9 +3,9 @@ title: "Section 77t - Injunctions and prosecution of offenses"
 usc_title: 15
 usc_section: "77t"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 77t"
-generated_at: "2026-11-23T21:18:27.626Z"
+generated_at: "2026-11-23T21:20:44.639Z"
 status: "active"
 ---
 

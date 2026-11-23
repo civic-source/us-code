@@ -3,9 +3,9 @@ title: "Section 1625 - Omitted"
 usc_title: 22
 usc_section: "1625"
 chapter: 21
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 1625"
-generated_at: "2026-11-23T21:18:42.446Z"
+generated_at: "2026-11-23T21:21:08.042Z"
 status: "omitted"
 ---
 

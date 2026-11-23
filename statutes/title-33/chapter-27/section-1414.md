@@ -3,9 +3,9 @@ title: "Section 1414 - Permit conditions"
 usc_title: 33
 usc_section: "1414"
 chapter: 27
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 1414"
-generated_at: "2026-11-23T21:18:54.379Z"
+generated_at: "2026-11-23T21:21:23.162Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 57 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "57"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 57"
-generated_at: "2026-11-23T21:19:24.122Z"
+generated_at: "2026-11-23T21:21:51.819Z"
 status: "repealed"
 ---
 

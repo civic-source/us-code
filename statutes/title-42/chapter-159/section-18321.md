@@ -3,9 +3,9 @@ title: "Section 18321 - Human space flight beyond low-Earth orbit"
 usc_title: 42
 usc_section: "18321"
 chapter: 159
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 18321"
-generated_at: "2026-11-23T21:19:19.470Z"
+generated_at: "2026-11-23T21:21:47.018Z"
 status: "active"
 ---
 

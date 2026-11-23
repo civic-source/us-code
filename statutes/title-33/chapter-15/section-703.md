@@ -3,9 +3,9 @@ title: "Section 703 - Sacramento River, California"
 usc_title: 33
 usc_section: "703"
 chapter: 15
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 703"
-generated_at: "2026-11-23T21:18:54.252Z"
+generated_at: "2026-11-23T21:21:23.063Z"
 status: "active"
 ---
 

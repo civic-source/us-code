@@ -3,9 +3,9 @@ title: "Section 1759a - Special assistance funds"
 usc_title: 42
 usc_section: "1759a"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1759a"
-generated_at: "2026-11-23T21:19:17.923Z"
+generated_at: "2026-11-23T21:21:45.551Z"
 status: "active"
 ---
 

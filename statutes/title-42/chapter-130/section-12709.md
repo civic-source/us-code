@@ -3,9 +3,9 @@ title: "Section 12709 - Energy efficiency standards"
 usc_title: 42
 usc_section: "12709"
 chapter: 130
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 12709"
-generated_at: "2026-11-23T21:19:19.171Z"
+generated_at: "2026-11-23T21:21:46.732Z"
 status: "active"
 ---
 

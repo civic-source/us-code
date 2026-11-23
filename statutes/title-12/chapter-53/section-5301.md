@@ -3,9 +3,9 @@ title: "Section 5301 - Definitions"
 usc_title: 12
 usc_section: "5301"
 chapter: 53
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 5301"
-generated_at: "2026-11-23T21:18:25.932Z"
+generated_at: "2026-11-23T21:20:41.676Z"
 status: "active"
 ---
 

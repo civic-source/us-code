@@ -3,9 +3,9 @@ title: "Section 1863 - Unlawful employment practices; regulations"
 usc_title: 43
 usc_section: "1863"
 chapter: 36
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "43 U.S.C. § 1863"
-generated_at: "2026-11-23T21:19:03.686Z"
+generated_at: "2026-11-23T21:21:34.188Z"
 status: "active"
 ---
 

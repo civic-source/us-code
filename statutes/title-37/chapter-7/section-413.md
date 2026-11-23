@@ -3,9 +3,9 @@ title: "Section 413 - Chairman and Vice Chairman of the Joint Chiefs of Staff"
 usc_title: 37
 usc_section: "413"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "37 U.S.C. § 413"
-generated_at: "2026-11-23T21:18:57.104Z"
+generated_at: "2026-11-23T21:21:28.174Z"
 status: "active"
 ---
 

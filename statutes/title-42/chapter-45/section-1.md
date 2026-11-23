@@ -3,9 +3,9 @@ title: "Section 1 - Incentives for self-testing and self-correction"
 usc_title: 42
 usc_section: "1"
 chapter: 45
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:19:18.316Z"
+generated_at: "2026-11-23T21:21:45.846Z"
 status: "active"
 ---
 

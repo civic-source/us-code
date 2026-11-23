@@ -3,9 +3,9 @@ title: "Section 6992j - Effective date"
 usc_title: 42
 usc_section: "6992j"
 chapter: 82
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 6992j"
-generated_at: "2026-11-23T21:19:18.733Z"
+generated_at: "2026-11-23T21:21:46.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2517 - Authority for certain personnel"
 usc_title: 14
 usc_section: "2517"
 chapter: 25
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "14 U.S.C. § 2517"
-generated_at: "2026-11-23T21:18:22.823Z"
+generated_at: "2026-11-23T21:20:38.289Z"
 status: "active"
 ---
 

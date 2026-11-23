@@ -3,9 +3,9 @@ title: "Section 1921c - Interpretation of and United States policy regarding U.S
 usc_title: 48
 usc_section: "1921c"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1921c"
-generated_at: "2026-11-23T21:19:21.679Z"
+generated_at: "2026-11-23T21:21:49.147Z"
 status: "active"
 ---
 

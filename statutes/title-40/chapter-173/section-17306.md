@@ -3,9 +3,9 @@ title: "Section 17306 - Agreements of indemnity"
 usc_title: 40
 usc_section: "17306"
 chapter: 173
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "40 U.S.C. § 17306"
-generated_at: "2026-11-23T21:18:57.649Z"
+generated_at: "2026-11-23T21:21:30.745Z"
 status: "active"
 ---
 

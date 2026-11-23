@@ -3,9 +3,9 @@ title: "Section 4318 - Claims of naturalized citizens as affected by expatriatio
 usc_title: 50
 usc_section: "4318"
 chapter: 53
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 4318"
-generated_at: "2026-11-23T21:19:24.510Z"
+generated_at: "2026-11-23T21:21:52.094Z"
 status: "active"
 ---
 

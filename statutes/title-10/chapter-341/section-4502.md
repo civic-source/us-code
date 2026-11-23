@@ -3,9 +3,9 @@ title: "Section 4502 - Procurement of contract services: senior officials respon
 usc_title: 10
 usc_section: "4502"
 chapter: 341
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 4502"
-generated_at: "2026-11-23T21:18:20.631Z"
+generated_at: "2026-11-23T21:20:35.233Z"
 status: "active"
 ---
 

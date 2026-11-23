@@ -3,9 +3,9 @@ title: "Section 278u - Xylazine detection and analysis"
 usc_title: 15
 usc_section: "278u"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 278u"
-generated_at: "2026-11-23T21:18:27.738Z"
+generated_at: "2026-11-23T21:20:44.843Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 66 - Treatment of community income"
 usc_title: 26
 usc_section: "66"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "26 U.S.C. § 66"
-generated_at: "2026-11-23T21:18:49.879Z"
+generated_at: "2026-11-23T21:21:19.249Z"
 status: "active"
 ---
 

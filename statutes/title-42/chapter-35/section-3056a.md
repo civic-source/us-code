@@ -3,9 +3,9 @@ title: "Section 3056a - Administration"
 usc_title: 42
 usc_section: "3056a"
 chapter: 35
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 3056a"
-generated_at: "2026-11-23T21:19:18.248Z"
+generated_at: "2026-11-23T21:21:45.785Z"
 status: "active"
 ---
 

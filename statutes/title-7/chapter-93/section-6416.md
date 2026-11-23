@@ -3,9 +3,9 @@ title: "Section 6416 - Independent evaluation of programs"
 usc_title: 7
 usc_section: "6416"
 chapter: 93
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 6416"
-generated_at: "2026-11-23T21:18:16.548Z"
+generated_at: "2026-11-23T21:20:28.180Z"
 status: "active"
 ---
 

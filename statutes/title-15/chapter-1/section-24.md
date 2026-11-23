@@ -3,9 +3,9 @@ title: "Section 24 - Liability of directors and agents of corporation"
 usc_title: 15
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 24"
-generated_at: "2026-11-23T21:18:27.595Z"
+generated_at: "2026-11-23T21:20:44.590Z"
 status: "active"
 ---
 

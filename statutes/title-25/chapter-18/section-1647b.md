@@ -3,9 +3,9 @@ title: "Section 1647b - Access to Federal insurance"
 usc_title: 25
 usc_section: "1647b"
 chapter: 18
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 1647b"
-generated_at: "2026-11-23T21:18:39.370Z"
+generated_at: "2026-11-23T21:21:02.262Z"
 status: "active"
 ---
 

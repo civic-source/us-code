@@ -3,9 +3,9 @@ title: "Section 1681c - Repealed. Pub. L. 97–357, title II, § 203(d) , Oct. 1
 usc_title: 48
 usc_section: "1681c"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1681c"
-generated_at: "2026-11-23T21:19:21.590Z"
+generated_at: "2026-11-23T21:21:49.044Z"
 status: "repealed"
 ---
 

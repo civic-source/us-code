@@ -3,9 +3,9 @@ title: "Section 255 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 22
 usc_section: "255"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 255"
-generated_at: "2026-11-23T21:18:42.357Z"
+generated_at: "2026-11-23T21:21:07.897Z"
 status: "repealed"
 ---
 

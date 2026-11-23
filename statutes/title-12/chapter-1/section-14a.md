@@ -3,9 +3,9 @@ title: "Section 14a - Data standards; open data publication"
 usc_title: 12
 usc_section: "14a"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 14a"
-generated_at: "2026-11-23T21:18:25.369Z"
+generated_at: "2026-11-23T21:20:40.865Z"
 status: "active"
 ---
 

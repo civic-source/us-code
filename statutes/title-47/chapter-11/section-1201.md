@@ -3,9 +3,9 @@ title: "Section 1201 - Federal Communications Commission duties"
 usc_title: 47
 usc_section: "1201"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "47 U.S.C. § 1201"
-generated_at: "2026-11-23T21:19:22.503Z"
+generated_at: "2026-11-23T21:21:49.676Z"
 status: "active"
 ---
 
@@ -38,6 +38,40 @@ status: "active"
     - **(B)** the release to a government agency or entity, public safety, fire service, law enforcement official, emergency medical service, or emergency facility of subscriber information used in connection with delivering such an alert.
   - **(2)** The election by a commercial mobile service provider under subsection (b)(2)(A) not to transmit emergency alerts, or to withdraw its election to transmit such alerts under subsection (b)(2)(D) shall not, by itself, provide a basis for liability against the provider (including its officers, directors, employees, vendors, and agents).
 - **(f)** The Commission shall require by regulation technical testing for commercial mobile service providers that elect to transmit emergency alerts and for the devices and equipment used by such providers for transmitting such alerts.
+
+Service Provider Election.—
+
+Required filing
+
+Notification; agreement
+
+Election not to transmit
+
+Consumer choice to opt out
+
+No fee for service
+
+Satellite Alert Regulations.—
+
+Notice of proposed rulemaking
+
+Requirements
+
+Final rule
+
+Effective date of rule.—
+
+Date
+
+Notification
+
+Limitation of Liability.—
+
+In general
+
+Election not to transmit alerts by satellite
+
+Covered Service Provider
 
 Definition
 

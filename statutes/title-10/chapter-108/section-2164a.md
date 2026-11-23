@@ -3,9 +3,9 @@ title: "Section 2164a - Rights of parents of children attending schools operated
 usc_title: 10
 usc_section: "2164a"
 chapter: 108
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2164a"
-generated_at: "2026-11-23T21:18:20.372Z"
+generated_at: "2026-11-23T21:20:34.805Z"
 status: "active"
 ---
 

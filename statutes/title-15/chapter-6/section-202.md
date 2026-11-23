@@ -3,9 +3,9 @@ title: "Section 202 - Repairs to standards"
 usc_title: 15
 usc_section: "202"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 202"
-generated_at: "2026-11-23T21:18:27.721Z"
+generated_at: "2026-11-23T21:20:44.808Z"
 status: "active"
 ---
 

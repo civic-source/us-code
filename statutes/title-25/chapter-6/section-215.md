@@ -3,9 +3,9 @@ title: "Section 215 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 25
 usc_section: "215"
 chapter: 6
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 215"
-generated_at: "2026-11-23T21:18:39.315Z"
+generated_at: "2026-11-23T21:21:02.125Z"
 status: "repealed"
 ---
 

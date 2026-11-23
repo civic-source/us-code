@@ -3,9 +3,9 @@ title: "Section 31 - Authorization of appropriations"
 usc_title: 22
 usc_section: "31"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 31"
-generated_at: "2026-11-23T21:18:42.383Z"
+generated_at: "2026-11-23T21:21:07.941Z"
 status: "active"
 ---
 

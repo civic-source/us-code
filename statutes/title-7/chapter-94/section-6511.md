@@ -3,9 +3,9 @@ title: "Section 6511 - Additional guidelines"
 usc_title: 7
 usc_section: "6511"
 chapter: 94
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 6511"
-generated_at: "2026-11-23T21:18:16.550Z"
+generated_at: "2026-11-23T21:20:28.182Z"
 status: "active"
 ---
 

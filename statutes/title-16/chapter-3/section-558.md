@@ -3,9 +3,9 @@ title: "Section 558 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 16
 usc_section: "558"
 chapter: 3
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 558"
-generated_at: "2026-11-23T21:18:36.036Z"
+generated_at: "2026-11-23T21:20:54.560Z"
 status: "repealed"
 ---
 

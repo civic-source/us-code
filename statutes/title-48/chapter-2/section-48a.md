@@ -3,9 +3,9 @@ title: "Section 48a - Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(1)
 usc_title: 48
 usc_section: "48a"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 48a"
-generated_at: "2026-11-23T21:19:21.532Z"
+generated_at: "2026-11-23T21:21:48.998Z"
 status: "repealed"
 ---
 

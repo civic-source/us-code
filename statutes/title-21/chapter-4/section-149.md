@@ -3,9 +3,9 @@ title: "Section 149 - Definitions"
 usc_title: 21
 usc_section: "149"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 149"
-generated_at: "2026-11-23T21:18:40.501Z"
+generated_at: "2026-11-23T21:21:05.014Z"
 status: "active"
 ---
 

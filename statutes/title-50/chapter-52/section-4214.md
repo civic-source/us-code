@@ -3,9 +3,9 @@ title: "Section 4214 - Trust Fund"
 usc_title: 50
 usc_section: "4214"
 chapter: 52
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 4214"
-generated_at: "2026-11-23T21:19:24.493Z"
+generated_at: "2026-11-23T21:21:52.087Z"
 status: "active"
 ---
 

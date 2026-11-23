@@ -3,9 +3,9 @@ title: "Section 1463 - Supervision of savings associations"
 usc_title: 12
 usc_section: "1463"
 chapter: 12
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1463"
-generated_at: "2026-11-23T21:18:25.478Z"
+generated_at: "2026-11-23T21:20:41.017Z"
 status: "active"
 ---
 

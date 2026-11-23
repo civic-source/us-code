@@ -3,9 +3,9 @@ title: "Section 265 - Insured banks as depositaries of public money; duties; sec
 usc_title: 12
 usc_section: "265"
 chapter: 3
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 265"
-generated_at: "2026-11-23T21:18:25.407Z"
+generated_at: "2026-11-23T21:20:40.922Z"
 status: "active"
 ---
 

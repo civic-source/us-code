@@ -3,9 +3,9 @@ title: "Section 473 - Grants for improvements to meat and poultry facilities to 
 usc_title: 21
 usc_section: "473"
 chapter: 10
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 473"
-generated_at: "2026-11-23T21:18:40.695Z"
+generated_at: "2026-11-23T21:21:05.254Z"
 status: "active"
 ---
 

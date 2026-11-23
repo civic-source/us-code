@@ -3,9 +3,9 @@ title: "Section 20306 - Special appropriations for Mars missions, Artemis missio
 usc_title: 51
 usc_section: "20306"
 chapter: 203
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "51 U.S.C. § 20306"
-generated_at: "2026-11-23T21:19:31.698Z"
+generated_at: "2026-11-23T21:21:56.294Z"
 status: "active"
 ---
 

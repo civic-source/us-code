@@ -3,9 +3,9 @@ title: "Section 667 - Game management supply depots; appropriations"
 usc_title: 16
 usc_section: "667"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 667"
-generated_at: "2026-11-23T21:18:36.061Z"
+generated_at: "2026-11-23T21:20:54.606Z"
 status: "active"
 ---
 

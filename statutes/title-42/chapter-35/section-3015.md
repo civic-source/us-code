@@ -3,9 +3,9 @@ title: "Section 3015 - Gifts and donations"
 usc_title: 42
 usc_section: "3015"
 chapter: 35
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 3015"
-generated_at: "2026-11-23T21:19:18.218Z"
+generated_at: "2026-11-23T21:21:45.763Z"
 status: "active"
 ---
 

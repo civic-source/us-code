@@ -3,9 +3,9 @@ title: "Section 721 - Short title; “person” defined"
 usc_title: 16
 usc_section: "721"
 chapter: 8
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 721"
-generated_at: "2026-11-23T21:18:36.092Z"
+generated_at: "2026-11-23T21:20:54.658Z"
 status: "active"
 ---
 

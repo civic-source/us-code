@@ -3,9 +3,9 @@ title: "Section 7211 - Authorization for use of production flexibility contracts
 usc_title: 7
 usc_section: "7211"
 chapter: 100
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 7211"
-generated_at: "2026-11-23T21:18:16.572Z"
+generated_at: "2026-11-23T21:20:28.226Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10345 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10345"
 chapter: 109
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 10345"
-generated_at: "2026-11-23T21:19:19.051Z"
+generated_at: "2026-11-23T21:21:46.565Z"
 status: "active"
 ---
 

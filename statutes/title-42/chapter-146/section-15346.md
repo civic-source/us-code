@@ -3,9 +3,9 @@ title: "Section 15346 - Transferred"
 usc_title: 42
 usc_section: "15346"
 chapter: 146
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 15346"
-generated_at: "2026-11-23T21:19:19.252Z"
+generated_at: "2026-11-23T21:21:46.848Z"
 status: "transferred"
 ---
 

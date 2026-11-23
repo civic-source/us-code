@@ -3,9 +3,9 @@ title: "Section 4541 - Prior approval authority for products"
 usc_title: 12
 usc_section: "4541"
 chapter: 46
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 4541"
-generated_at: "2026-11-23T21:18:25.872Z"
+generated_at: "2026-11-23T21:20:41.591Z"
 status: "active"
 ---
 

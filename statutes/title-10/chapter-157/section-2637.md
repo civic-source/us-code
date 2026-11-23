@@ -3,9 +3,9 @@ title: "Section 2637 - Transportation in certain areas outside the United States
 usc_title: 10
 usc_section: "2637"
 chapter: 157
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2637"
-generated_at: "2026-11-23T21:18:20.444Z"
+generated_at: "2026-11-23T21:20:34.948Z"
 status: "active"
 ---
 

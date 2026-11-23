@@ -3,9 +3,9 @@ title: "Section 21 - Branding grades on barrels of apples"
 usc_title: 21
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "21 U.S.C. § 21"
-generated_at: "2026-11-23T21:18:40.496Z"
+generated_at: "2026-11-23T21:21:05.010Z"
 status: "active"
 ---
 

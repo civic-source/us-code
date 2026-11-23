@@ -3,9 +3,9 @@ title: "Section 5673 - Contracting authority to expand agricultural export marke
 usc_title: 7
 usc_section: "5673"
 chapter: 87
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 5673"
-generated_at: "2026-11-23T21:18:16.528Z"
+generated_at: "2026-11-23T21:20:28.149Z"
 status: "active"
 ---
 

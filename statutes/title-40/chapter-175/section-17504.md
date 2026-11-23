@@ -3,9 +3,9 @@ title: "Section 17504 - Agency statements with respect to motor vehicle use"
 usc_title: 40
 usc_section: "17504"
 chapter: 175
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "40 U.S.C. § 17504"
-generated_at: "2026-11-23T21:18:57.650Z"
+generated_at: "2026-11-23T21:21:30.747Z"
 status: "active"
 ---
 

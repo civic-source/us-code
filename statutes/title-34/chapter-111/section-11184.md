@@ -3,9 +3,9 @@ title: "Section 11184 - Use of funds"
 usc_title: 34
 usc_section: "11184"
 chapter: 111
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "34 U.S.C. § 11184"
-generated_at: "2026-11-23T21:18:55.158Z"
+generated_at: "2026-11-23T21:21:24.889Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12212 - Alternative means of dispute resolution"
 usc_title: 42
 usc_section: "12212"
 chapter: 126
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 12212"
-generated_at: "2026-11-23T21:19:19.129Z"
+generated_at: "2026-11-23T21:21:46.665Z"
 status: "active"
 ---
 

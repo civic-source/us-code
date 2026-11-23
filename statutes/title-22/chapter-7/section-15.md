@@ -3,9 +3,9 @@ title: "Section 15 - Sixth replenishment"
 usc_title: 22
 usc_section: "15"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 15"
-generated_at: "2026-11-23T21:18:42.415Z"
+generated_at: "2026-11-23T21:21:07.996Z"
 status: "active"
 ---
 

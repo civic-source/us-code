@@ -3,9 +3,9 @@ title: "Section 131 - Control of outdoor advertising"
 usc_title: 23
 usc_section: "131"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "23 U.S.C. § 131"
-generated_at: "2026-11-23T21:18:38.589Z"
+generated_at: "2026-11-23T21:21:03.434Z"
 status: "active"
 ---
 

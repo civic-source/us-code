@@ -3,9 +3,9 @@ title: "Section 504 - Training and education"
 usc_title: 23
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "23 U.S.C. § 504"
-generated_at: "2026-11-23T21:18:38.648Z"
+generated_at: "2026-11-23T21:21:03.561Z"
 status: "active"
 ---
 

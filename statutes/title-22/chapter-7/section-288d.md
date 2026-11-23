@@ -3,9 +3,9 @@ title: "Section 288d - Privileges, exemptions, and immunities of officers, emplo
 usc_title: 22
 usc_section: "288d"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 288d"
-generated_at: "2026-11-23T21:18:42.411Z"
+generated_at: "2026-11-23T21:21:07.991Z"
 status: "active"
 ---
 

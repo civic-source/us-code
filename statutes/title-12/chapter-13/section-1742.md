@@ -3,9 +3,9 @@ title: "Section 1742 - Rules and regulations"
 usc_title: 12
 usc_section: "1742"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1742"
-generated_at: "2026-11-23T21:18:25.610Z"
+generated_at: "2026-11-23T21:20:41.202Z"
 status: "active"
 ---
 

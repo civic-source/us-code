@@ -3,9 +3,9 @@ title: "Section 5393 - Budget request"
 usc_title: 25
 usc_section: "5393"
 chapter: 46
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "25 U.S.C. § 5393"
-generated_at: "2026-11-23T21:18:39.517Z"
+generated_at: "2026-11-23T21:21:02.500Z"
 status: "active"
 ---
 

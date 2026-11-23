@@ -3,9 +3,9 @@ title: "Section 1662a - Repealed. Pub. L. 118–232, § 1 , Jan. 4, 2025 , 138 S
 usc_title: 48
 usc_section: "1662a"
 chapter: 13
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "48 U.S.C. § 1662a"
-generated_at: "2026-11-23T21:19:21.589Z"
+generated_at: "2026-11-23T21:21:49.043Z"
 status: "repealed"
 ---
 

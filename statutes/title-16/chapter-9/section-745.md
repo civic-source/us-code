@@ -3,9 +3,9 @@ title: "Section 745 - Powers of Secretary"
 usc_title: 16
 usc_section: "745"
 chapter: 9
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "16 U.S.C. § 745"
-generated_at: "2026-11-23T21:18:36.098Z"
+generated_at: "2026-11-23T21:20:54.665Z"
 status: "active"
 ---
 

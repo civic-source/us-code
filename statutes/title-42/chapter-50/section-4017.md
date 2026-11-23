@@ -3,9 +3,9 @@ title: "Section 4017 - National Flood Insurance Fund"
 usc_title: 42
 usc_section: "4017"
 chapter: 50
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 4017"
-generated_at: "2026-11-23T21:19:18.344Z"
+generated_at: "2026-11-23T21:21:45.870Z"
 status: "active"
 ---
 

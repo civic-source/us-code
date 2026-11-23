@@ -3,9 +3,9 @@ title: "Section 3207 - Limit of weight of penalty mail; postage on overweight ma
 usc_title: 39
 usc_section: "3207"
 chapter: 32
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "39 U.S.C. § 3207"
-generated_at: "2026-11-23T21:18:56.739Z"
+generated_at: "2026-11-23T21:21:26.490Z"
 status: "active"
 ---
 

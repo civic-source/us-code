@@ -3,9 +3,9 @@ title: "Section 20302 - Enlisted members: term of enlistment"
 usc_title: 10
 usc_section: "20302"
 chapter: 2007
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 20302"
-generated_at: "2026-11-23T21:18:21.026Z"
+generated_at: "2026-11-23T21:20:35.741Z"
 status: "active"
 ---
 

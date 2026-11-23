@@ -3,9 +3,9 @@ title: "Section 723 - Support of civil authorities: requirement for use of membe
 usc_title: 10
 usc_section: "723"
 chapter: 41
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 723"
-generated_at: "2026-11-23T21:18:20.074Z"
+generated_at: "2026-11-23T21:20:34.405Z"
 status: "active"
 ---
 

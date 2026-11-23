@@ -3,9 +3,9 @@ title: "Section 1714 - Transportation of students"
 usc_title: 20
 usc_section: "1714"
 chapter: 39
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 1714"
-generated_at: "2026-11-23T21:18:33.464Z"
+generated_at: "2026-11-23T21:20:58.664Z"
 status: "active"
 ---
 

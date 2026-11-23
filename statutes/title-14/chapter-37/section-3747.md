@@ -3,9 +3,9 @@ title: "Section 3747 - Date of rank upon promotion; entitlement to pay"
 usc_title: 14
 usc_section: "3747"
 chapter: 37
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "14 U.S.C. § 3747"
-generated_at: "2026-11-23T21:18:22.836Z"
+generated_at: "2026-11-23T21:20:38.318Z"
 status: "active"
 ---
 

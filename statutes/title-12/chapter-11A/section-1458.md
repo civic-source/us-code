@@ -3,9 +3,9 @@ title: "Section 1458 - Territorial applicability"
 usc_title: 12
 usc_section: "1458"
 chapter: 11
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "12 U.S.C. § 1458"
-generated_at: "2026-11-23T21:18:25.477Z"
+generated_at: "2026-11-23T21:20:41.016Z"
 status: "active"
 ---
 

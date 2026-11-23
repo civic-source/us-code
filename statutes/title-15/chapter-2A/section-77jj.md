@@ -3,9 +3,9 @@ title: "Section 77jj - Loans to Corporation from Reconstruction Finance Corporat
 usc_title: 15
 usc_section: "77jj"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 77jj"
-generated_at: "2026-11-23T21:18:27.632Z"
+generated_at: "2026-11-23T21:20:44.646Z"
 status: "active"
 ---
 

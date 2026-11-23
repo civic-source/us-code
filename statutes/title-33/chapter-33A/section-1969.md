@@ -3,9 +3,9 @@ title: "Section 1969 - Termination of authority"
 usc_title: 33
 usc_section: "1969"
 chapter: 33
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "33 U.S.C. § 1969"
-generated_at: "2026-11-23T21:18:54.403Z"
+generated_at: "2026-11-23T21:21:23.186Z"
 status: "active"
 ---
 

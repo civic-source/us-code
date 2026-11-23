@@ -3,9 +3,9 @@ title: "Section 6353 - Activities at covered nuclear weapons facilities"
 usc_title: 10
 usc_section: "6353"
 chapter: 608
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 6353"
-generated_at: "2026-11-23T21:18:20.706Z"
+generated_at: "2026-11-23T21:20:35.322Z"
 status: "active"
 ---
 

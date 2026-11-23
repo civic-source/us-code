@@ -3,9 +3,9 @@ title: "Section 13294 - Compliance with existing law"
 usc_title: 42
 usc_section: "13294"
 chapter: 134
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "42 U.S.C. § 13294"
-generated_at: "2026-11-23T21:19:19.199Z"
+generated_at: "2026-11-23T21:21:46.776Z"
 status: "active"
 ---
 

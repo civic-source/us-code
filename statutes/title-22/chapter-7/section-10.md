@@ -3,9 +3,9 @@ title: "Section 10 - Capital increase"
 usc_title: 22
 usc_section: "10"
 chapter: 7
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "22 U.S.C. § 10"
-generated_at: "2026-11-23T21:18:42.420Z"
+generated_at: "2026-11-23T21:21:08.001Z"
 status: "active"
 ---
 

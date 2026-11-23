@@ -3,9 +3,9 @@ title: "Section 2306 - Voluntary retirement after twenty years’ service"
 usc_title: 14
 usc_section: "2306"
 chapter: 23
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "14 U.S.C. § 2306"
-generated_at: "2026-11-23T21:18:22.819Z"
+generated_at: "2026-11-23T21:20:38.281Z"
 status: "active"
 ---
 

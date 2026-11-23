@@ -3,9 +3,9 @@ title: "Section 130a - Department of Defense support for funerals and memorial e
 usc_title: 10
 usc_section: "130a"
 chapter: 3
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 130a"
-generated_at: "2026-11-23T21:18:19.950Z"
+generated_at: "2026-11-23T21:20:34.243Z"
 status: "active"
 ---
 

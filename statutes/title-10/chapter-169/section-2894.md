@@ -3,9 +3,9 @@ title: "Section 2894 - Landlord-tenant dispute resolution process and treatment 
 usc_title: 10
 usc_section: "2894"
 chapter: 169
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 2894"
-generated_at: "2026-11-23T21:18:20.519Z"
+generated_at: "2026-11-23T21:20:35.067Z"
 status: "active"
 ---
 

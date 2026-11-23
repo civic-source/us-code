@@ -3,9 +3,9 @@ title: "Section 50105 - Governing body"
 usc_title: 36
 usc_section: "50105"
 chapter: 501
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "36 U.S.C. § 50105"
-generated_at: "2026-11-23T21:18:58.168Z"
+generated_at: "2026-11-23T21:21:27.367Z"
 status: "active"
 ---
 

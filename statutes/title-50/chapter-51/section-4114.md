@@ -3,9 +3,9 @@ title: "Section 4114 - Philippines"
 usc_title: 50
 usc_section: "4114"
 chapter: 51
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "50 U.S.C. § 4114"
-generated_at: "2026-11-23T21:19:24.489Z"
+generated_at: "2026-11-23T21:21:52.084Z"
 status: "active"
 ---
 

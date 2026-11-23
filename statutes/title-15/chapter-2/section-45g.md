@@ -3,9 +3,9 @@ title: "Section 45g - Romance scam prevention"
 usc_title: 15
 usc_section: "45g"
 chapter: 2
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 45g"
-generated_at: "2026-11-23T21:18:27.600Z"
+generated_at: "2026-11-23T21:20:44.601Z"
 status: "active"
 ---
 

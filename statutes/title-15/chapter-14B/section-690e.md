@@ -3,9 +3,9 @@ title: "Section 690e - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "690e"
 chapter: 14
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "15 U.S.C. § 690e"
-generated_at: "2026-11-23T21:18:27.847Z"
+generated_at: "2026-11-23T21:20:44.965Z"
 status: "active"
 ---
 

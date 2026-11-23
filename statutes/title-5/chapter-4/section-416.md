@@ -3,9 +3,9 @@ title: "Section 416 - Additional provisions with respect to Inspectors General o
 usc_title: 5
 usc_section: "416"
 chapter: 4
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "5 U.S.C. § 416"
-generated_at: "2026-11-23T21:18:11.585Z"
+generated_at: "2026-11-23T21:20:20.116Z"
 status: "active"
 ---
 

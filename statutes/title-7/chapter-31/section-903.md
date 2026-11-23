@@ -3,9 +3,9 @@ title: "Section 903 - Authorization of appropriations"
 usc_title: 7
 usc_section: "903"
 chapter: 31
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "7 U.S.C. § 903"
-generated_at: "2026-11-23T21:18:16.271Z"
+generated_at: "2026-11-23T21:20:27.570Z"
 status: "active"
 ---
 

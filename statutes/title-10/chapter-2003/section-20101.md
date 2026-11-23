@@ -3,9 +3,9 @@ title: "Section 20101 - Members in Space Force active status: amount of annual t
 usc_title: 10
 usc_section: "20101"
 chapter: 2003
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "10 U.S.C. § 20101"
-generated_at: "2026-11-23T21:18:21.021Z"
+generated_at: "2026-11-23T21:20:35.736Z"
 status: "active"
 ---
 

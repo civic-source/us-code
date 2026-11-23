@@ -3,9 +3,9 @@ title: "Section 202 - Border, maritime, and transportation responsibilities"
 usc_title: 6
 usc_section: "202"
 chapter: 1
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "6 U.S.C. § 202"
-generated_at: "2026-11-23T21:18:14.537Z"
+generated_at: "2026-11-23T21:20:22.885Z"
 status: "active"
 ---
 

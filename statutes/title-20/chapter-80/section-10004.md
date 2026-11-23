@@ -3,9 +3,9 @@ title: "Section 10004 - Uses of funds by institutions of higher education"
 usc_title: 20
 usc_section: "10004"
 chapter: 80
-current_through: "PL 119-134"
+current_through: "PL 119-136"
 classification: "20 U.S.C. § 10004"
-generated_at: "2026-11-23T21:18:33.636Z"
+generated_at: "2026-11-23T21:20:59.002Z"
 status: "active"
 ---
 
