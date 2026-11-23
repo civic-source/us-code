@@ -3,9 +3,9 @@ title: "Section 645 - Victim protection training for the Department of Homeland 
 usc_title: 6
 usc_section: "645"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "6 U.S.C. § 645"
-generated_at: "2026-11-23T21:02:51.472Z"
+generated_at: "2026-11-23T21:04:53.528Z"
 status: "active"
 ---
 

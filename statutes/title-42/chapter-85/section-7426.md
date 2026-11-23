@@ -3,9 +3,9 @@ title: "Section 7426 - Interstate pollution abatement"
 usc_title: 42
 usc_section: "7426"
 chapter: 85
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 7426"
-generated_at: "2026-11-23T21:04:03.995Z"
+generated_at: "2026-11-23T21:06:03.496Z"
 status: "active"
 ---
 

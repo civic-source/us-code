@@ -3,9 +3,9 @@ title: "Section 701r - Protection of highways, bridge approaches, lighthouses, p
 usc_title: 33
 usc_section: "701r"
 chapter: 15
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 701r"
-generated_at: "2026-11-23T21:03:42.374Z"
+generated_at: "2026-11-23T21:05:39.281Z"
 status: "active"
 ---
 

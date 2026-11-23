@@ -3,9 +3,9 @@ title: "Section 4717 - Regulations"
 usc_title: 19
 usc_section: "4717"
 chapter: 29
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 4717"
-generated_at: "2026-11-23T21:03:14.650Z"
+generated_at: "2026-11-23T21:05:13.206Z"
 status: "active"
 ---
 

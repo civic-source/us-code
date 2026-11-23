@@ -3,9 +3,9 @@ title: "Section 2283c - Technical assistance"
 usc_title: 33
 usc_section: "2283c"
 chapter: 36
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 2283c"
-generated_at: "2026-11-23T21:03:42.577Z"
+generated_at: "2026-11-23T21:05:39.508Z"
 status: "active"
 ---
 

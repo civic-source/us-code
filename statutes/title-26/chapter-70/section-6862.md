@@ -3,9 +3,9 @@ title: "Section 6862 - Jeopardy assessment of taxes other than income, estate, g
 usc_title: 26
 usc_section: "6862"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 6862"
-generated_at: "2026-11-23T21:03:37.973Z"
+generated_at: "2026-11-23T21:05:35.006Z"
 status: "active"
 ---
 

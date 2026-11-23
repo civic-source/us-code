@@ -3,9 +3,9 @@ title: "Section 7620 - Standardized air quality modeling"
 usc_title: 42
 usc_section: "7620"
 chapter: 85
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 7620"
-generated_at: "2026-11-23T21:04:04.041Z"
+generated_at: "2026-11-23T21:06:03.558Z"
 status: "active"
 ---
 

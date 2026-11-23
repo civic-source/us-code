@@ -3,9 +3,9 @@ title: "Section 9038 - Office of Air Force Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "9038"
 chapter: 905
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 9038"
-generated_at: "2026-11-23T21:03:01.496Z"
+generated_at: "2026-11-23T21:05:02.485Z"
 status: "active"
 ---
 

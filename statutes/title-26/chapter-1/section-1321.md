@@ -3,9 +3,9 @@ title: "Section 1321 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(144) , 
 usc_title: 26
 usc_section: "1321"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1321"
-generated_at: "2026-11-23T21:03:37.669Z"
+generated_at: "2026-11-23T21:05:34.693Z"
 status: "repealed"
 ---
 

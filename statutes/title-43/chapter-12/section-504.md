@@ -3,9 +3,9 @@ title: "Section 504 - Rehabilitation and betterment of Federal reclamation proje
 usc_title: 43
 usc_section: "504"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 504"
-generated_at: "2026-11-23T21:03:51.782Z"
+generated_at: "2026-11-23T21:05:49.479Z"
 status: "active"
 ---
 

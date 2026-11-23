@@ -3,9 +3,9 @@ title: "Section 130311 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "130311"
 chapter: 1303
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 130311"
-generated_at: "2026-11-23T21:03:45.728Z"
+generated_at: "2026-11-23T21:05:43.171Z"
 status: "active"
 ---
 

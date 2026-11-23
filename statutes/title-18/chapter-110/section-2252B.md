@@ -3,9 +3,9 @@ title: "Section 2252B - Misleading domain names on the Internet"
 usc_title: 18
 usc_section: "2252B"
 chapter: 110
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 2252B"
-generated_at: "2026-11-23T21:03:12.577Z"
+generated_at: "2026-11-23T21:05:14.160Z"
 status: "active"
 ---
 

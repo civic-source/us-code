@@ -3,9 +3,9 @@ title: "Section 2178 - Disclosure by professional persons seeking approval of co
 usc_title: 48
 usc_section: "2178"
 chapter: 20
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "48 U.S.C. § 2178"
-generated_at: "2026-11-23T21:04:06.881Z"
+generated_at: "2026-11-23T21:06:06.687Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3511 - Approval and entry into force of Uruguay Round Agreements
 usc_title: 19
 usc_section: "3511"
 chapter: 22
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 3511"
-generated_at: "2026-11-23T21:03:14.530Z"
+generated_at: "2026-11-23T21:05:13.132Z"
 status: "active"
 ---
 

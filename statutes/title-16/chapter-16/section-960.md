@@ -3,9 +3,9 @@ title: "Section 960 - Commissions’ functions not restrained by this chapter or
 usc_title: 16
 usc_section: "960"
 chapter: 16
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 960"
-generated_at: "2026-11-23T21:03:19.848Z"
+generated_at: "2026-11-23T21:05:19.225Z"
 status: "active"
 ---
 

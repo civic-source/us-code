@@ -3,9 +3,9 @@ title: "Section 30106 - Time limit on bringing maritime action for personal inju
 usc_title: 46
 usc_section: "30106"
 chapter: 301
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 30106"
-generated_at: "2026-11-23T21:04:07.634Z"
+generated_at: "2026-11-23T21:06:07.756Z"
 status: "active"
 ---
 

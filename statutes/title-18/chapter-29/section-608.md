@@ -3,9 +3,9 @@ title: "Section 608 - Absent uniformed services voters and overseas voters"
 usc_title: 18
 usc_section: "608"
 chapter: 29
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 608"
-generated_at: "2026-11-23T21:03:12.456Z"
+generated_at: "2026-11-23T21:05:14.039Z"
 status: "active"
 ---
 

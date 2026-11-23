@@ -3,9 +3,9 @@ title: "Section 3703 - Interagency working group"
 usc_title: 33
 usc_section: "3703"
 chapter: 50
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 3703"
-generated_at: "2026-11-23T21:03:42.656Z"
+generated_at: "2026-11-23T21:05:39.600Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2304 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881
 usc_title: 10
 usc_section: "2304"
 chapter: 137
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2304"
-generated_at: "2026-11-23T21:03:00.818Z"
+generated_at: "2026-11-23T21:05:02.132Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-11-23T21:03:37.524Z"
+generated_at: "2026-11-23T21:05:34.541Z"
 status: "active"
 ---
 

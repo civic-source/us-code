@@ -3,9 +3,9 @@ title: "Section 17212 - Water power technology research, development, and demons
 usc_title: 42
 usc_section: "17212"
 chapter: 152
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 17212"
-generated_at: "2026-11-23T21:04:04.584Z"
+generated_at: "2026-11-23T21:06:04.118Z"
 status: "active"
 ---
 

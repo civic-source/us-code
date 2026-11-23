@@ -3,9 +3,9 @@ title: "Section 436 - Time when entry may be made generally"
 usc_title: 43
 usc_section: "436"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 436"
-generated_at: "2026-11-23T21:03:51.769Z"
+generated_at: "2026-11-23T21:05:49.469Z"
 status: "active"
 ---
 

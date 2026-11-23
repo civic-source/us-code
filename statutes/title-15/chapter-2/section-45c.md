@@ -3,9 +3,9 @@ title: "Section 45c - Unfair and deceptive acts and practices relating to circum
 usc_title: 15
 usc_section: "45c"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 45c"
-generated_at: "2026-11-23T21:03:06.339Z"
+generated_at: "2026-11-23T21:05:09.560Z"
 status: "active"
 ---
 

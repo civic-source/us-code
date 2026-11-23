@@ -1,0 +1,67 @@
+---
+title: "Section 10817 - Termination"
+usc_title: 22
+usc_section: "10817"
+chapter: 115
+current_through: "PL 119-111"
+classification: "22 U.S.C. § 10817"
+generated_at: "2026-11-23T21:05:26.751Z"
+status: "active"
+---
+
+# § 10817. Termination
+
+- **(a)** Subject to subsection (b), the President may terminate the application of any sanction with respect to a foreign person, any restriction with respect to a person, or any duty under this chapter, if the President submits to Congress a report—
+  - **(1)** certifying in writing that—
+    - **(A)** in the case of the termination of the application of a sanction, restriction, or duty with respect to a Russian person or the Russian Federation, the Russian Federation has—
+      - **(i)** signed a peace agreement that is accepted by the free and independent Government of Ukraine; and
+      - **(ii)** ceased all military hostilities against and any activities to overthrow, dismantle, and subvert the Government of Ukraine; or
+    - **(B)** in the case of the termination of the application of a sanction, restriction, or duty with respect to any foreign person or foreign country (other than a Russian person or the Russian Federation)—
+      - **(i)** the foreign person or the government of the foreign country, as the case may be, is not engaging in the activity that was the basis for the sanctions or other measures being terminated; and
+      - **(ii)** the President has received reliable assurances that the foreign person or the government of the foreign country, as the case may be, will not knowingly engage in activity subject to sanctions or other measures under this chapter in the future; and
+  - **(2)** that includes, in the case of a report not relating to the termination of a duty under section 10812 or 10813 of this title, a determination of whether the termination is intended to significantly alter United States foreign policy with regard to the Russian Federation.
+- **(b)**
+  - **(1)** During the period of 30 calendar days beginning on the date on which the President submits a report under subsection (a) with respect to the termination of the application of a sanction, restriction, or duty under this chapter, the termination shall not take effect. If, after the end of that period, a joint resolution of disapproval with respect to the termination has not been enacted into law under subsection (c), the termination may take effect.
+  - **(2)** During the period described in paragraph (1), the appropriate committee of the Senate and the appropriate committee of the House of Representatives should, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the report.
+  - **(3)** The period for congressional review under paragraph (1) of a report required to be submitted under subsection (a) shall be 60 calendar days if the report is submitted on or after July 10 and on or before September 7 in any calendar year.
+- **(c)**
+  - **(1)** In this subsection, the term “joint resolution of disapproval” means only a joint resolution of either House of Congress the sole matter after the resolving clause of which is as follows: “That Congress disapproves of the termination of the application of section __ of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, with respect to which the President submitted a report on ___.”, with the first blank space being filled with the appropriate section number and the second blank space being filled with the appropriate date.
+  - **(2)** During the period of 30 calendar days provided for under subsection (b)(1), including any additional period as applicable under the exception provided in subsection (b)(3), a joint resolution of disapproval may be introduced—
+    - **(A)** in the House of Representatives, by the majority leader or the minority leader; and
+    - **(B)** in the Senate, by the majority leader (or a designee of the majority leader) or the minority leader (or a designee of the minority leader).
+  - **(3)**
+    - **(A)** Any committee of the House of Representatives to which a joint resolution of disapproval is referred shall report it to the House of Representatives without amendment not later than 10 calendar days after the date of referral. If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+    - **(B)** After each committee authorized to consider a joint resolution of disapproval reports it to the House of Representatives or has been discharged from its consideration, it shall be in order to move to proceed to consider the joint resolution of disapproval in the House of Representatives. All points of order against the motion are waived. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+    - **(C)** The joint resolution of disapproval shall be considered as read. All points of order against the joint resolution of disapproval and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution of disapproval to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution of disapproval shall not be in order.
+  - **(4)**
+    - **(A)** A joint resolution of disapproval introduced in the Senate shall be referred to the appropriate committee of the Senate.
+    - **(B)** If the appropriate committee of the Senate has not reported the joint resolution within 10 calendar days after the date of referral of the joint resolution, that committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the appropriate calendar.
+    - **(C)** Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the appropriate committee of the Senate reports a joint resolution of disapproval to the Senate or has been discharged from consideration of such a joint resolution to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. Approval by the Senate of a motion to proceed to a joint resolution of disapproval shall require the affirmative vote of three-fifths of Members of the Senate, duly chosen and sworn.
+    - **(D)** Consideration in the Senate of a joint resolution of disapproval and of all debatable motions and appeals in connection therewith shall not exceed a total of 10 hours, which shall be divided equally between the majority and minority leaders or their designees. Any debatable motion or appeal is debatable for not to exceed 1 hour, to be divided equally between those favoring and those opposing the motion or appeal.
+    - **(E)** An amendment to a joint resolution of disapproval, a motion to postpone, a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+    - **(F)** If the Senate has voted to proceed to a joint resolution of disapproval, the vote on approval of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call if requested. Approval by the Senate of a joint resolution of disapproval shall require the affirmative vote of three-fifths of Members of the Senate, duly chosen and sworn.
+    - **(G)** Consideration in the Senate of any veto message with respect to a joint resolution of disapproval, including all debatable motions and appeals in connection with the joint resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+  - **(5)**
+    - **(A)** If, before the passage by the Senate of a joint resolution of disapproval, the Senate receives an identical joint resolution from the House of Representatives, the following procedures shall apply:
+      - **(i)** That joint resolution shall not be referred to a committee.
+      - **(ii)** With respect to that joint resolution—
+        - **(I)** the procedure in the Senate shall be the same as if no joint resolution had been received from the House of Representatives; but
+        - **(II)** the vote on passage shall be on the joint resolution from the House of Representatives.
+    - **(B)** If the Senate passes a joint resolution of disapproval before receiving a joint resolution of disapproval from the House of Representatives, the joint resolution passed by the Senate shall be held at the desk pending receipt of the joint resolution from the House of Representatives. Upon receipt of a joint resolution from the House of Representatives that is identical to the joint resolution passed by the Senate, the Senate shall proceed to its immediate consideration and the joint resolution shall be considered read a third time and passed and the motion to reconsider be considered made and laid upon the table with no intervening action or debate.
+    - **(C)** If a joint resolution of disapproval is received from the House, and no companion joint resolution has been introduced in the Senate, the Senate procedures under this subsection shall apply to the House joint resolution.
+  - **(6)** This subsection is enacted by Congress—
+    - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, and supersedes other rules only to the extent that it is inconsistent with such rules; and
+    - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+  - **(7)** In this subsection:
+    - **(A)** The term “appropriate committee of the House of Representatives” means—
+      - **(i)** with respect to the termination of a duty under section 10812 or 10813 of this title, the Committee on Ways and Means of the House of Representatives;
+      - **(ii)** with respect to the termination of any sanction or restriction under any of sections 10802 through 10811 of this title that is intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Foreign Affairs of the House of Representatives; or
+      - **(iii)** with respect to the termination of any sanction or restriction under any of sections 10802 through 10811 of this title that is not intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Financial Services of the House of Representatives.
+    - **(B)** The term “appropriate committee of the Senate” means—
+      - **(i)** with respect to the termination of a duty under section 10812 or 10813 of this title, the Committee on Finance of the Senate;
+      - **(ii)** with respect to the termination of any sanction or restriction under any of sections 10802 through 10811 of this title that is intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Foreign Relations of the Senate; or
+      - **(iii)** with respect to the termination of any sanction or restriction under any of sections 10802 through 10811 of this title that is not intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## Source Credit
+
+*([Pub. L. 119–111, div. A, title I, § 117](https://www.govinfo.gov/link/plaw/119/public/111), Sept. 18, 2026, [140 Stat. 1044](https://www.govinfo.gov/link/statute/140/1044).)*

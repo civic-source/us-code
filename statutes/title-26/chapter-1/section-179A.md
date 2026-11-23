@@ -3,9 +3,9 @@ title: "Section 179A - Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(
 usc_title: 26
 usc_section: "179A"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 179A"
-generated_at: "2026-11-23T21:03:37.324Z"
+generated_at: "2026-11-23T21:05:34.380Z"
 status: "repealed"
 ---
 

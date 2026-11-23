@@ -3,9 +3,9 @@ title: "Section 2 - Food and conservation program; appropriations; administrativ
 usc_title: 15
 usc_section: "2"
 chapter: 15
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-11-23T21:03:06.690Z"
+generated_at: "2026-11-23T21:05:09.811Z"
 status: "active"
 ---
 

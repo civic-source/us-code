@@ -3,9 +3,9 @@ title: "Section 286aaa - Congressional notification with respect to exceptional 
 usc_title: 22
 usc_section: "286aaa"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 286aaa"
-generated_at: "2026-11-23T21:03:27.350Z"
+generated_at: "2026-11-23T21:05:26.233Z"
 status: "active"
 ---
 

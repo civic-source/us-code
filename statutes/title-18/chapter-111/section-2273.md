@@ -3,9 +3,9 @@ title: "Section 2273 - Destruction of vessel by nonowner"
 usc_title: 18
 usc_section: "2273"
 chapter: 111
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 2273"
-generated_at: "2026-11-23T21:03:12.585Z"
+generated_at: "2026-11-23T21:05:14.167Z"
 status: "active"
 ---
 

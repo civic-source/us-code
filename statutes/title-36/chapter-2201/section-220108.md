@@ -3,9 +3,9 @@ title: "Section 220108 - Restrictions"
 usc_title: 36
 usc_section: "220108"
 chapter: 2201
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 220108"
-generated_at: "2026-11-23T21:03:45.803Z"
+generated_at: "2026-11-23T21:05:43.279Z"
 status: "active"
 ---
 

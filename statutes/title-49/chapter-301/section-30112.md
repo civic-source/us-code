@@ -3,9 +3,9 @@ title: "Section 30112 - Prohibitions on manufacturing, selling, and importing no
 usc_title: 49
 usc_section: "30112"
 chapter: 301
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 30112"
-generated_at: "2026-11-23T21:04:11.936Z"
+generated_at: "2026-11-23T21:06:11.338Z"
 status: "active"
 ---
 

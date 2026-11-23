@@ -3,9 +3,9 @@ title: "Section 2700 - Definitions"
 usc_title: 10
 usc_section: "2700"
 chapter: 160
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2700"
-generated_at: "2026-11-23T21:03:00.923Z"
+generated_at: "2026-11-23T21:05:02.189Z"
 status: "active"
 ---
 

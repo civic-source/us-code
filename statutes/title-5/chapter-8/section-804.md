@@ -3,9 +3,9 @@ title: "Section 804 - Definitions"
 usc_title: 5
 usc_section: "804"
 chapter: 8
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 804"
-generated_at: "2026-11-23T21:02:48.505Z"
+generated_at: "2026-11-23T21:04:50.988Z"
 status: "active"
 ---
 

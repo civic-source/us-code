@@ -3,9 +3,9 @@ title: "Section 16 - Commission operations"
 usc_title: 7
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 16"
-generated_at: "2026-11-23T21:02:54.303Z"
+generated_at: "2026-11-23T21:04:57.031Z"
 status: "active"
 ---
 

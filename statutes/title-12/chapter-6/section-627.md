@@ -3,9 +3,9 @@ title: "Section 627 - State taxation"
 usc_title: 12
 usc_section: "627"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 627"
-generated_at: "2026-11-23T21:03:09.284Z"
+generated_at: "2026-11-23T21:05:06.848Z"
 status: "active"
 ---
 

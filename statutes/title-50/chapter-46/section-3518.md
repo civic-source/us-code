@@ -3,9 +3,9 @@ title: "Section 3518 - Special annuity computation rules for certain employeesâ€
 usc_title: 50
 usc_section: "3518"
 chapter: 46
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. Â§ 3518"
-generated_at: "2026-11-23T21:04:09.585Z"
+generated_at: "2026-11-23T21:06:09.056Z"
 status: "active"
 ---
 

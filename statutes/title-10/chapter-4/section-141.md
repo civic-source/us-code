@@ -3,9 +3,9 @@ title: "Section 141 - Inspector General"
 usc_title: 10
 usc_section: "141"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 141"
-generated_at: "2026-11-23T21:03:00.364Z"
+generated_at: "2026-11-23T21:05:01.767Z"
 status: "active"
 ---
 

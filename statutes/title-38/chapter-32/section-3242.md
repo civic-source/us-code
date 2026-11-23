@@ -3,9 +3,9 @@ title: "Section 3242 - Vacant]"
 usc_title: 38
 usc_section: "3242"
 chapter: 32
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 3242"
-generated_at: "2026-11-23T21:03:47.833Z"
+generated_at: "2026-11-23T21:05:45.713Z"
 status: "active"
 ---
 

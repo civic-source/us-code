@@ -3,9 +3,9 @@ title: "Section 7622 - Repealed. Pub. L. 110–234, title VII, § 7302 , May 22,
 usc_title: 7
 usc_section: "7622"
 chapter: 103
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 7622"
-generated_at: "2026-11-23T21:02:55.048Z"
+generated_at: "2026-11-23T21:04:57.540Z"
 status: "repealed"
 ---
 

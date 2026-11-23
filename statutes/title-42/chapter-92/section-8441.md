@@ -3,9 +3,9 @@ title: "Section 8441 - Preservation of contractual interest"
 usc_title: 42
 usc_section: "8441"
 chapter: 92
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 8441"
-generated_at: "2026-11-23T21:04:04.106Z"
+generated_at: "2026-11-23T21:06:03.645Z"
 status: "active"
 ---
 

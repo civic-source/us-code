@@ -3,9 +3,9 @@ title: "Section 1211b - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1211b"
 chapter: 30
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 1211b"
-generated_at: "2026-11-23T21:03:16.964Z"
+generated_at: "2026-11-23T21:05:16.284Z"
 status: "repealed"
 ---
 

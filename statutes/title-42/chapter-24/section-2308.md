@@ -3,9 +3,9 @@ title: "Section 2308 - Conclusive evidence of compliance with chapter"
 usc_title: 42
 usc_section: "2308"
 chapter: 24
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 2308"
-generated_at: "2026-11-23T21:04:03.531Z"
+generated_at: "2026-11-23T21:06:03.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6310 - Requirement for agencies to buy domestically made United 
 usc_title: 41
 usc_section: "6310"
 chapter: 63
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "41 U.S.C. § 6310"
-generated_at: "2026-11-23T21:03:50.997Z"
+generated_at: "2026-11-23T21:05:48.257Z"
 status: "active"
 ---
 

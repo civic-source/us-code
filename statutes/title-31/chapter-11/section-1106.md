@@ -3,9 +3,9 @@ title: "Section 1106 - Supplemental budget estimates and changes"
 usc_title: 31
 usc_section: "1106"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "31 U.S.C. § 1106"
-generated_at: "2026-11-23T21:03:40.275Z"
+generated_at: "2026-11-23T21:05:37.293Z"
 status: "active"
 ---
 

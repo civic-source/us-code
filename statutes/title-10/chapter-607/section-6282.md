@@ -3,9 +3,9 @@ title: "Section 6282 - Transfer of weapons activities funds"
 usc_title: 10
 usc_section: "6282"
 chapter: 607
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 6282"
-generated_at: "2026-11-23T21:03:01.230Z"
+generated_at: "2026-11-23T21:05:02.341Z"
 status: "active"
 ---
 

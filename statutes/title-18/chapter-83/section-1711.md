@@ -3,9 +3,9 @@ title: "Section 1711 - Misappropriation of postal funds"
 usc_title: 18
 usc_section: "1711"
 chapter: 83
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 1711"
-generated_at: "2026-11-23T21:03:12.538Z"
+generated_at: "2026-11-23T21:05:14.124Z"
 status: "active"
 ---
 

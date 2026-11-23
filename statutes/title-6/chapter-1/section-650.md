@@ -3,9 +3,9 @@ title: "Section 650 - Definitions"
 usc_title: 6
 usc_section: "650"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "6 U.S.C. § 650"
-generated_at: "2026-11-23T21:02:51.472Z"
+generated_at: "2026-11-23T21:04:53.528Z"
 status: "active"
 ---
 

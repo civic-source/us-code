@@ -3,9 +3,9 @@ title: "Section 4202 - Authority to increase definitional threshold amounts: maj
 usc_title: 10
 usc_section: "4202"
 chapter: 321
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 4202"
-generated_at: "2026-11-23T21:03:01.114Z"
+generated_at: "2026-11-23T21:05:02.284Z"
 status: "active"
 ---
 

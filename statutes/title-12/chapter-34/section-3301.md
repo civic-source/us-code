@@ -3,9 +3,9 @@ title: "Section 3301 - Declaration of purpose"
 usc_title: 12
 usc_section: "3301"
 chapter: 34
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 3301"
-generated_at: "2026-11-23T21:03:09.571Z"
+generated_at: "2026-11-23T21:05:07.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4501 - Purpose"
 usc_title: 19
 usc_section: "4501"
 chapter: 29
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 4501"
-generated_at: "2026-11-23T21:03:14.627Z"
+generated_at: "2026-11-23T21:05:13.190Z"
 status: "active"
 ---
 

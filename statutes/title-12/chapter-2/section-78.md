@@ -3,9 +3,9 @@ title: "Section 78 - Repealed. Pub. L. 106–102, title I, § 101(b) , Nov. 12, 
 usc_title: 12
 usc_section: "78"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 78"
-generated_at: "2026-11-23T21:03:09.239Z"
+generated_at: "2026-11-23T21:05:06.808Z"
 status: "repealed"
 ---
 

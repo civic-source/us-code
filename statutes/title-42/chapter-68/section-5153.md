@@ -3,9 +3,9 @@ title: "Section 5153 - Priority to certain applications for public facility and 
 usc_title: 42
 usc_section: "5153"
 chapter: 68
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 5153"
-generated_at: "2026-11-23T21:04:03.742Z"
+generated_at: "2026-11-23T21:06:03.244Z"
 status: "active"
 ---
 

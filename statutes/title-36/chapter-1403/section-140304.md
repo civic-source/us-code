@@ -3,9 +3,9 @@ title: "Section 140304 - Exclusive right to name"
 usc_title: 36
 usc_section: "140304"
 chapter: 1403
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 140304"
-generated_at: "2026-11-23T21:03:45.730Z"
+generated_at: "2026-11-23T21:05:43.173Z"
 status: "active"
 ---
 

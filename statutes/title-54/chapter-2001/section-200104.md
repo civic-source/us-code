@@ -3,9 +3,9 @@ title: "Section 200104 - Federal interagency council on outdoor recreation 1 1 S
 usc_title: 54
 usc_section: "200104"
 chapter: 2001
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "54 U.S.C. § 200104"
-generated_at: "2026-11-23T21:04:14.333Z"
+generated_at: "2026-11-23T21:06:13.390Z"
 status: "active"
 ---
 

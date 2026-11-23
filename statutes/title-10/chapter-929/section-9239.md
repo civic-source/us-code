@@ -3,9 +3,9 @@ title: "Section 9239 - Enlisted members: officers not to use as servants"
 usc_title: 10
 usc_section: "9239"
 chapter: 929
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 9239"
-generated_at: "2026-11-23T21:03:01.510Z"
+generated_at: "2026-11-23T21:05:02.493Z"
 status: "active"
 ---
 

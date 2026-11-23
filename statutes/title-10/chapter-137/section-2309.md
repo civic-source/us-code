@@ -3,9 +3,9 @@ title: "Section 2309 - Renumbered § 3134]"
 usc_title: 10
 usc_section: "2309"
 chapter: 137
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2309"
-generated_at: "2026-11-23T21:03:00.819Z"
+generated_at: "2026-11-23T21:05:02.133Z"
 status: "renumbered"
 ---
 

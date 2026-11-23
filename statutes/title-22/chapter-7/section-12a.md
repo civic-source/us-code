@@ -3,9 +3,9 @@ title: "Section 12a - Ukraine debt payment relief"
 usc_title: 22
 usc_section: "12a"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 12a"
-generated_at: "2026-11-23T21:03:27.291Z"
+generated_at: "2026-11-23T21:05:26.175Z"
 status: "active"
 ---
 

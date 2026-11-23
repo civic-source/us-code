@@ -3,9 +3,9 @@ title: "Section 31j - Biological research activity of Survey; review and report 
 usc_title: 43
 usc_section: "31j"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 31j"
-generated_at: "2026-11-23T21:03:51.708Z"
+generated_at: "2026-11-23T21:05:49.422Z"
 status: "active"
 ---
 

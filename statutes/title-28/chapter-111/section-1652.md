@@ -3,9 +3,9 @@ title: "Section 1652 - State laws as rules of decision"
 usc_title: 28
 usc_section: "1652"
 chapter: 111
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "28 U.S.C. § 1652"
-generated_at: "2026-11-23T21:03:30.449Z"
+generated_at: "2026-11-23T21:05:30.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12739 - Computation of retired pay"
 usc_title: 10
 usc_section: "12739"
 chapter: 1223
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 12739"
-generated_at: "2026-11-23T21:03:01.629Z"
+generated_at: "2026-11-23T21:05:02.556Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2151g - Transfer of funds"
 usc_title: 22
 usc_section: "2151g"
 chapter: 32
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2151g"
-generated_at: "2026-11-23T21:03:27.454Z"
+generated_at: "2026-11-23T21:05:26.322Z"
 status: "active"
 ---
 

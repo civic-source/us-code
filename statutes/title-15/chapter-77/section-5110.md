@@ -3,9 +3,9 @@ title: "Section 5110 - Drug-free workplace"
 usc_title: 15
 usc_section: "5110"
 chapter: 77
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 5110"
-generated_at: "2026-11-23T21:03:07.066Z"
+generated_at: "2026-11-23T21:05:10.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2057e - Banning of crib bumpers"
 usc_title: 15
 usc_section: "2057e"
 chapter: 47
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 2057e"
-generated_at: "2026-11-23T21:03:06.929Z"
+generated_at: "2026-11-23T21:05:09.939Z"
 status: "active"
 ---
 

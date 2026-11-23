@@ -3,9 +3,9 @@ title: "Section 118 - Materiel readiness metrics and materiel readiness objectiv
 usc_title: 10
 usc_section: "118"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 118"
-generated_at: "2026-11-23T21:03:00.338Z"
+generated_at: "2026-11-23T21:05:01.751Z"
 status: "active"
 ---
 

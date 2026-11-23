@@ -3,9 +3,9 @@ title: "Section 6215 - Establishment of Radio Free Afghanistan"
 usc_title: 22
 usc_section: "6215"
 chapter: 71
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 6215"
-generated_at: "2026-11-23T21:03:27.885Z"
+generated_at: "2026-11-23T21:05:26.606Z"
 status: "active"
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Section 10812 - Increase in duties on goods imported from the Russian Federation"
+usc_title: 22
+usc_section: "10812"
+chapter: 115
+current_through: "PL 119-111"
+classification: "22 U.S.C. § 10812"
+generated_at: "2026-11-23T21:05:26.750Z"
+status: "active"
+---
+
+# § 10812. Increase in duties on goods imported from the Russian Federation
+
+- **(a)** Not later than 30 days after September 18, 2026 , the President shall, notwithstanding any other provision of law, increase the rate of duty for all goods, including oil, natural gas, liquefied natural gas, petroleum, petroleum products, petrochemical products, coal, and coal products, imported into the United States from the Russian Federation to a rate of up to 500 percent ad valorem.
+- **(b)** The rate of duty required under subsection (a) with respect to a good described in that subsection shall be in addition to any other duty, fee, tax, exaction, or charge applicable with respect to the good, including any duty imposed under title VII of the Tariff Act of 1930 ( 19 U.S.C. 1671 et seq.), section 2132, 2251, or 2411 of title 19, or section 1862 of title 19 .
+
+## Source Credit
+
+*([Pub. L. 119–111, div. A, title I, § 112](https://www.govinfo.gov/link/plaw/119/public/111), Sept. 18, 2026, [140 Stat. 1039](https://www.govinfo.gov/link/statute/140/1039).)*

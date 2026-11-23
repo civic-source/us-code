@@ -3,9 +3,9 @@ title: "Section 2502 - Aliens’ privilege to sue"
 usc_title: 28
 usc_section: "2502"
 chapter: 165
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "28 U.S.C. § 2502"
-generated_at: "2026-11-23T21:03:30.495Z"
+generated_at: "2026-11-23T21:05:30.196Z"
 status: "active"
 ---
 

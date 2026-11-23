@@ -3,9 +3,9 @@ title: "Section 39a - Best practices for behavioral and mental health interventi
 usc_title: 42
 usc_section: "39a"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 39a"
-generated_at: "2026-11-23T21:04:02.154Z"
+generated_at: "2026-11-23T21:06:01.909Z"
 status: "active"
 ---
 

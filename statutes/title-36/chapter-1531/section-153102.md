@@ -3,9 +3,9 @@ title: "Section 153102 - Purposes"
 usc_title: 36
 usc_section: "153102"
 chapter: 1531
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 153102"
-generated_at: "2026-11-23T21:03:45.757Z"
+generated_at: "2026-11-23T21:05:43.228Z"
 status: "active"
 ---
 

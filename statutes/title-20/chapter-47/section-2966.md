@@ -3,9 +3,9 @@ title: "Section 2966 - Omitted"
 usc_title: 20
 usc_section: "2966"
 chapter: 47
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 2966"
-generated_at: "2026-11-23T21:03:17.025Z"
+generated_at: "2026-11-23T21:05:16.383Z"
 status: "omitted"
 ---
 

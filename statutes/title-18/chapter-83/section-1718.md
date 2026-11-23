@@ -3,9 +3,9 @@ title: "Section 1718 - Repealed. Pub. L. 101–647, title XII, § 1210(c) , Nov.
 usc_title: 18
 usc_section: "1718"
 chapter: 83
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 1718"
-generated_at: "2026-11-23T21:03:12.545Z"
+generated_at: "2026-11-23T21:05:14.127Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20209 - Records and inspection"
 usc_title: 36
 usc_section: "20209"
 chapter: 202
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 20209"
-generated_at: "2026-11-23T21:03:45.654Z"
+generated_at: "2026-11-23T21:05:43.089Z"
 status: "active"
 ---
 

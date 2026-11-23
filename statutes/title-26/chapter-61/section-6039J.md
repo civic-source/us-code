@@ -3,9 +3,9 @@ title: "Section 6039J - Information reporting with respect to Commodity Credit C
 usc_title: 26
 usc_section: "6039J"
 chapter: 61
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 6039J"
-generated_at: "2026-11-23T21:03:37.870Z"
+generated_at: "2026-11-23T21:05:34.908Z"
 status: "active"
 ---
 

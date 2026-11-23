@@ -3,9 +3,9 @@ title: "Section 8192 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8192"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 8192"
-generated_at: "2026-11-23T21:03:17.143Z"
+generated_at: "2026-11-23T21:05:16.535Z"
 status: "repealed"
 ---
 

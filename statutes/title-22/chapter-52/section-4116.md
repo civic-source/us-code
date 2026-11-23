@@ -3,9 +3,9 @@ title: "Section 4116 - Prevention of unfair labor practices"
 usc_title: 22
 usc_section: "4116"
 chapter: 52
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 4116"
-generated_at: "2026-11-23T21:03:27.783Z"
+generated_at: "2026-11-23T21:05:26.541Z"
 status: "active"
 ---
 

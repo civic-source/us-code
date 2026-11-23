@@ -3,9 +3,9 @@ title: "Section 3235a - Notice and damage assessment with respect to significant
 usc_title: 50
 usc_section: "3235a"
 chapter: 44
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 3235a"
-generated_at: "2026-11-23T21:04:09.522Z"
+generated_at: "2026-11-23T21:06:09.024Z"
 status: "active"
 ---
 

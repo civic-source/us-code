@@ -3,9 +3,9 @@ title: "Section 60302 - General responsibilities"
 usc_title: 51
 usc_section: "60302"
 chapter: 603
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "51 U.S.C. § 60302"
-generated_at: "2026-11-23T21:04:13.977Z"
+generated_at: "2026-11-23T21:06:13.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2781 - Transactions with countries not fully cooperating with Un
 usc_title: 22
 usc_section: "2781"
 chapter: 39
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2781"
-generated_at: "2026-11-23T21:03:27.656Z"
+generated_at: "2026-11-23T21:05:26.479Z"
 status: "active"
 ---
 

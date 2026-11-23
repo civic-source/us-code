@@ -3,9 +3,9 @@ title: "Section 1167 - Collective bargaining agreements"
 usc_title: 11
 usc_section: "1167"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "11 U.S.C. § 1167"
-generated_at: "2026-11-23T21:03:03.925Z"
+generated_at: "2026-11-23T21:05:04.734Z"
 status: "active"
 ---
 

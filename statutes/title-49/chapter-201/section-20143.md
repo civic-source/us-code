@@ -3,9 +3,9 @@ title: "Section 20143 - Locomotive visibility"
 usc_title: 49
 usc_section: "20143"
 chapter: 201
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 20143"
-generated_at: "2026-11-23T21:04:11.854Z"
+generated_at: "2026-11-23T21:06:11.253Z"
 status: "active"
 ---
 

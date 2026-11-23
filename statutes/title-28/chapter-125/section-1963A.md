@@ -3,9 +3,9 @@ title: "Section 1963A - Repealed. Pub. L. 100–702, title X, § 1002(b)(2) , No
 usc_title: 28
 usc_section: "1963A"
 chapter: 125
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "28 U.S.C. § 1963A"
-generated_at: "2026-11-23T21:03:30.469Z"
+generated_at: "2026-11-23T21:05:30.180Z"
 status: "repealed"
 ---
 

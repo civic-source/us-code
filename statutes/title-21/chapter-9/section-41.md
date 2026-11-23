@@ -3,9 +3,9 @@ title: "Section 41 - Definitions"
 usc_title: 21
 usc_section: "41"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "21 U.S.C. § 41"
-generated_at: "2026-11-23T21:03:24.419Z"
+generated_at: "2026-11-23T21:05:22.700Z"
 status: "active"
 ---
 

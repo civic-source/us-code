@@ -3,9 +3,9 @@ title: "Section 3908 - Foreign loan evaluations"
 usc_title: 12
 usc_section: "3908"
 chapter: 40
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 3908"
-generated_at: "2026-11-23T21:03:09.586Z"
+generated_at: "2026-11-23T21:05:07.117Z"
 status: "active"
 ---
 

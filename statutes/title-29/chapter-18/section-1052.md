@@ -3,9 +3,9 @@ title: "Section 1052 - Minimum participation standards"
 usc_title: 29
 usc_section: "1052"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "29 U.S.C. § 1052"
-generated_at: "2026-11-23T21:03:32.186Z"
+generated_at: "2026-11-23T21:05:28.875Z"
 status: "active"
 ---
 

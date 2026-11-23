@@ -3,9 +3,9 @@ title: "Section 122a - Injunctive relief in Federal district court"
 usc_title: 27
 usc_section: "122a"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "27 U.S.C. § 122a"
-generated_at: "2026-11-23T21:03:29.391Z"
+generated_at: "2026-11-23T21:05:28.015Z"
 status: "active"
 ---
 

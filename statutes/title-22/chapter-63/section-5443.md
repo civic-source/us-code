@@ -3,9 +3,9 @@ title: "Section 5443 - Science and technology exchange with Poland and Hungary"
 usc_title: 22
 usc_section: "5443"
 chapter: 63
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 5443"
-generated_at: "2026-11-23T21:03:27.837Z"
+generated_at: "2026-11-23T21:05:26.575Z"
 status: "active"
 ---
 

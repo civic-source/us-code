@@ -3,9 +3,9 @@ title: "Section 1341 - Computation of tax where taxpayer restores substantial am
 usc_title: 26
 usc_section: "1341"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1341"
-generated_at: "2026-11-23T21:03:37.669Z"
+generated_at: "2026-11-23T21:05:34.693Z"
 status: "active"
 ---
 

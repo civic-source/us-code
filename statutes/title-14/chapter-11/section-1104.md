@@ -3,9 +3,9 @@ title: "Section 1104 - Recognition of Coast Guard personnel for excellence in ac
 usc_title: 14
 usc_section: "1104"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "14 U.S.C. § 1104"
-generated_at: "2026-11-23T21:03:03.455Z"
+generated_at: "2026-11-23T21:05:04.239Z"
 status: "active"
 ---
 

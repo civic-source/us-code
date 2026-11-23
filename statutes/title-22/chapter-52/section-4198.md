@@ -3,9 +3,9 @@ title: "Section 4198 - Bond as administrator or guardian; action on bond"
 usc_title: 22
 usc_section: "4198"
 chapter: 52
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 4198"
-generated_at: "2026-11-23T21:03:27.792Z"
+generated_at: "2026-11-23T21:05:26.545Z"
 status: "active"
 ---
 

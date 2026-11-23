@@ -3,9 +3,9 @@ title: "Section 70503 - Prohibited acts"
 usc_title: 46
 usc_section: "70503"
 chapter: 705
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 70503"
-generated_at: "2026-11-23T21:04:07.795Z"
+generated_at: "2026-11-23T21:06:07.948Z"
 status: "active"
 ---
 

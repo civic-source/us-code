@@ -3,9 +3,9 @@ title: "Section 1044a - Authority to act as notary"
 usc_title: 10
 usc_section: "1044a"
 chapter: 53
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 1044a"
-generated_at: "2026-11-23T21:03:00.560Z"
+generated_at: "2026-11-23T21:05:01.939Z"
 status: "active"
 ---
 

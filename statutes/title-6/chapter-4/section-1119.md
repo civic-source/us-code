@@ -3,9 +3,9 @@ title: "Section 1119 - Voluntary use of credentialing"
 usc_title: 6
 usc_section: "1119"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "6 U.S.C. § 1119"
-generated_at: "2026-11-23T21:02:51.511Z"
+generated_at: "2026-11-23T21:04:53.579Z"
 status: "active"
 ---
 

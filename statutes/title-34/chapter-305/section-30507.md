@@ -3,9 +3,9 @@ title: "Section 30507 - Jabara-Heyer NO HATE Act"
 usc_title: 34
 usc_section: "30507"
 chapter: 305
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 30507"
-generated_at: "2026-11-23T21:03:41.395Z"
+generated_at: "2026-11-23T21:05:38.262Z"
 status: "active"
 ---
 

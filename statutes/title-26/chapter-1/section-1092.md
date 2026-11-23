@@ -3,9 +3,9 @@ title: "Section 1092 - Straddles"
 usc_title: 26
 usc_section: "1092"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1092"
-generated_at: "2026-11-23T21:03:37.642Z"
+generated_at: "2026-11-23T21:05:34.666Z"
 status: "active"
 ---
 

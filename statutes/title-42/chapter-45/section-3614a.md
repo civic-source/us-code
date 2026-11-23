@@ -3,9 +3,9 @@ title: "Section 3614a - Rules to implement subchapter"
 usc_title: 42
 usc_section: "3614a"
 chapter: 45
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 3614a"
-generated_at: "2026-11-23T21:04:03.628Z"
+generated_at: "2026-11-23T21:06:03.147Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3721 - Accounting policies"
 usc_title: 22
 usc_section: "3721"
 chapter: 51
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 3721"
-generated_at: "2026-11-23T21:03:27.716Z"
+generated_at: "2026-11-23T21:05:26.509Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 79c - Resident manager; powers and duties; compensation"
 usc_title: 20
 usc_section: "79c"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 79c"
-generated_at: "2026-11-23T21:03:16.718Z"
+generated_at: "2026-11-23T21:05:16.068Z"
 status: "active"
 ---
 

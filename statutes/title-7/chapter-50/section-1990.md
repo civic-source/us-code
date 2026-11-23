@@ -3,9 +3,9 @@ title: "Section 1990 - Transfer of lands to Secretary"
 usc_title: 7
 usc_section: "1990"
 chapter: 50
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 1990"
-generated_at: "2026-11-23T21:02:54.674Z"
+generated_at: "2026-11-23T21:04:57.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 649h - Continuation on active duty"
 usc_title: 10
 usc_section: "649h"
 chapter: 36
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 649h"
-generated_at: "2026-11-23T21:03:00.479Z"
+generated_at: "2026-11-23T21:05:01.859Z"
 status: "active"
 ---
 

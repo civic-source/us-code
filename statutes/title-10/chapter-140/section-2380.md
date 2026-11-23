@@ -3,9 +3,9 @@ title: "Section 2380 - Renumbered § 3456]"
 usc_title: 10
 usc_section: "2380"
 chapter: 140
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2380"
-generated_at: "2026-11-23T21:03:00.835Z"
+generated_at: "2026-11-23T21:05:02.141Z"
 status: "renumbered"
 ---
 

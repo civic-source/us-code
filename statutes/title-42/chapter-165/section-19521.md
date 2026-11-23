@@ -3,9 +3,9 @@ title: "Section 19521 - Homes are for people, not corporations"
 usc_title: 42
 usc_section: "19521"
 chapter: 165
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 19521"
-generated_at: "2026-11-23T21:04:04.726Z"
+generated_at: "2026-11-23T21:06:04.212Z"
 status: "active"
 ---
 

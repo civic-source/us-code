@@ -3,9 +3,9 @@ title: "Section 2162 - Preparation of budget requests for operation of professio
 usc_title: 10
 usc_section: "2162"
 chapter: 108
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2162"
-generated_at: "2026-11-23T21:03:00.772Z"
+generated_at: "2026-11-23T21:05:02.098Z"
 status: "active"
 ---
 

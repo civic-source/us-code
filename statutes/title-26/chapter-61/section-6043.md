@@ -3,9 +3,9 @@ title: "Section 6043 - Liquidating, etc., transactions"
 usc_title: 26
 usc_section: "6043"
 chapter: 61
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 6043"
-generated_at: "2026-11-23T21:03:37.872Z"
+generated_at: "2026-11-23T21:05:34.910Z"
 status: "active"
 ---
 

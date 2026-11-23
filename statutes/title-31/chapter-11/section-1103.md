@@ -3,9 +3,9 @@ title: "Section 1103 - Budget ceiling"
 usc_title: 31
 usc_section: "1103"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "31 U.S.C. § 1103"
-generated_at: "2026-11-23T21:03:40.273Z"
+generated_at: "2026-11-23T21:05:37.286Z"
 status: "active"
 ---
 

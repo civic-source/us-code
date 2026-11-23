@@ -3,9 +3,9 @@ title: "Section 2735b - National Museum of American Diplomacy"
 usc_title: 22
 usc_section: "2735b"
 chapter: 38
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2735b"
-generated_at: "2026-11-23T21:03:27.620Z"
+generated_at: "2026-11-23T21:05:26.462Z"
 status: "active"
 ---
 

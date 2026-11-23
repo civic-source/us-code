@@ -3,9 +3,9 @@ title: "Section 47a - Information concerning illegal introduction, manufacture, 
 usc_title: 50
 usc_section: "47a"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 47a"
-generated_at: "2026-11-23T21:04:09.299Z"
+generated_at: "2026-11-23T21:06:08.894Z"
 status: "active"
 ---
 

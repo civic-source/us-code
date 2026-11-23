@@ -3,9 +3,9 @@ title: "Section 448 - Solicitation and collection of funds and contributions"
 usc_title: 22
 usc_section: "448"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 448"
-generated_at: "2026-11-23T21:03:27.382Z"
+generated_at: "2026-11-23T21:05:26.260Z"
 status: "active"
 ---
 

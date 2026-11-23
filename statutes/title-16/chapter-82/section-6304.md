@@ -3,9 +3,9 @@ title: "Section 6304 - Great Ape Conservation Fund"
 usc_title: 16
 usc_section: "6304"
 chapter: 82
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 6304"
-generated_at: "2026-11-23T21:03:20.135Z"
+generated_at: "2026-11-23T21:05:19.504Z"
 status: "active"
 ---
 

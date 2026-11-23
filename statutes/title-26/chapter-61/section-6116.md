@@ -3,9 +3,9 @@ title: "Section 6116 - Requirement for prisons located in United States to provi
 usc_title: 26
 usc_section: "6116"
 chapter: 61
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 6116"
-generated_at: "2026-11-23T21:03:37.901Z"
+generated_at: "2026-11-23T21:05:34.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 42501 - Definitions"
 usc_title: 46
 usc_section: "42501"
 chapter: 425
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 42501"
-generated_at: "2026-11-23T21:04:07.668Z"
+generated_at: "2026-11-23T21:06:07.789Z"
 status: "active"
 ---
 

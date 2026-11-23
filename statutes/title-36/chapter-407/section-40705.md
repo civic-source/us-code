@@ -3,9 +3,9 @@ title: "Section 40705 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "40705"
 chapter: 407
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 40705"
-generated_at: "2026-11-23T21:03:45.693Z"
+generated_at: "2026-11-23T21:05:43.137Z"
 status: "active"
 ---
 

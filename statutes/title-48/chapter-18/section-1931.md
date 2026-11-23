@@ -3,9 +3,9 @@ title: "Section 1931 - Approval of Compact of Free Association"
 usc_title: 48
 usc_section: "1931"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "48 U.S.C. § 1931"
-generated_at: "2026-11-23T21:04:06.848Z"
+generated_at: "2026-11-23T21:06:06.657Z"
 status: "active"
 ---
 

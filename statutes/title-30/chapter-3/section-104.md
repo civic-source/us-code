@@ -3,9 +3,9 @@ title: "Section 104 - Agreements with applicants for patents as to disposition o
 usc_title: 30
 usc_section: "104"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "30 U.S.C. § 104"
-generated_at: "2026-11-23T21:03:30.900Z"
+generated_at: "2026-11-23T21:05:29.332Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 715d - Purchase or rental of approved areas or interests therein
 usc_title: 16
 usc_section: "715d"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 715d"
-generated_at: "2026-11-23T21:03:19.776Z"
+generated_at: "2026-11-23T21:05:19.144Z"
 status: "active"
 ---
 

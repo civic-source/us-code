@@ -3,9 +3,9 @@ title: "Section 7355c - Authorization of appropriations"
 usc_title: 20
 usc_section: "7355c"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 7355c"
-generated_at: "2026-11-23T21:03:17.115Z"
+generated_at: "2026-11-23T21:05:16.507Z"
 status: "active"
 ---
 

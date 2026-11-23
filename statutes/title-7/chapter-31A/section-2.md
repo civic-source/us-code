@@ -3,9 +3,9 @@ title: "Section 2 - Telemedicine and distance learning services in rural areas"
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T21:02:54.505Z"
+generated_at: "2026-11-23T21:04:57.151Z"
 status: "active"
 ---
 

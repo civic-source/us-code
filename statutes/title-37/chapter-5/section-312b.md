@@ -3,9 +3,9 @@ title: "Section 312b - Special pay: nuclear career accession bonus"
 usc_title: 37
 usc_section: "312b"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "37 U.S.C. § 312b"
-generated_at: "2026-11-23T21:03:46.342Z"
+generated_at: "2026-11-23T21:05:41.384Z"
 status: "active"
 ---
 

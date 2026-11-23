@@ -3,9 +3,9 @@ title: "Section 70502 - Definitions"
 usc_title: 46
 usc_section: "70502"
 chapter: 705
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 70502"
-generated_at: "2026-11-23T21:04:07.794Z"
+generated_at: "2026-11-23T21:06:07.947Z"
 status: "active"
 ---
 

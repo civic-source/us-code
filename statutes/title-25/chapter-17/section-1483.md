@@ -3,9 +3,9 @@ title: "Section 1483 - Interest rate"
 usc_title: 25
 usc_section: "1483"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 1483"
-generated_at: "2026-11-23T21:03:23.313Z"
+generated_at: "2026-11-23T21:05:23.907Z"
 status: "active"
 ---
 

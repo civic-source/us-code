@@ -3,9 +3,9 @@ title: "Section 2613 - Repealed. Pub. L. 104–208, div. A, title II, § 2103(h)
 usc_title: 12
 usc_section: "2613"
 chapter: 27
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 2613"
-generated_at: "2026-11-23T21:03:09.555Z"
+generated_at: "2026-11-23T21:05:07.087Z"
 status: "repealed"
 ---
 

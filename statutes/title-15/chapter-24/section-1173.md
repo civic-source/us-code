@@ -3,9 +3,9 @@ title: "Section 1173 - Registration of manufacturers and dealers"
 usc_title: 15
 usc_section: "1173"
 chapter: 24
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 1173"
-generated_at: "2026-11-23T21:03:06.763Z"
+generated_at: "2026-11-23T21:05:09.848Z"
 status: "active"
 ---
 

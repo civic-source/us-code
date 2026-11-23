@@ -3,9 +3,9 @@ title: "Section 41709 - Records of air carriers"
 usc_title: 49
 usc_section: "41709"
 chapter: 417
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 41709"
-generated_at: "2026-11-23T21:04:12.123Z"
+generated_at: "2026-11-23T21:06:11.514Z"
 status: "active"
 ---
 

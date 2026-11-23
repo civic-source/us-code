@@ -3,9 +3,9 @@ title: "Section 6101 - Marine casualties and reporting"
 usc_title: 46
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 6101"
-generated_at: "2026-11-23T21:04:07.562Z"
+generated_at: "2026-11-23T21:06:07.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12757 - Revitalizing empty structures into desirable environment
 usc_title: 42
 usc_section: "12757"
 chapter: 130
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 12757"
-generated_at: "2026-11-23T21:04:04.358Z"
+generated_at: "2026-11-23T21:06:03.947Z"
 status: "active"
 ---
 

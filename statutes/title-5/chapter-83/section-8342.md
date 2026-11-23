@@ -3,9 +3,9 @@ title: "Section 8342 - Lump-sum benefits; designation of beneficiary; order of p
 usc_title: 5
 usc_section: "8342"
 chapter: 83
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 8342"
-generated_at: "2026-11-23T21:02:48.739Z"
+generated_at: "2026-11-23T21:04:51.378Z"
 status: "active"
 ---
 

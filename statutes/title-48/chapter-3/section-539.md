@@ -3,9 +3,9 @@ title: "Section 539 - Repealed. Pub. L. 86–3, § 14(e) , Mar. 18, 1959 , 73 St
 usc_title: 48
 usc_section: "539"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "48 U.S.C. § 539"
-generated_at: "2026-11-23T21:04:06.682Z"
+generated_at: "2026-11-23T21:06:06.541Z"
 status: "repealed"
 ---
 

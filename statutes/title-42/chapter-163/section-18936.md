@@ -3,9 +3,9 @@ title: "Section 18936 - Neutron scattering"
 usc_title: 42
 usc_section: "18936"
 chapter: 163
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 18936"
-generated_at: "2026-11-23T21:04:04.699Z"
+generated_at: "2026-11-23T21:06:04.188Z"
 status: "active"
 ---
 

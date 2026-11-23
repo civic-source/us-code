@@ -3,9 +3,9 @@ title: "Section 594 - Powers and duties of the Conference"
 usc_title: 5
 usc_section: "594"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 594"
-generated_at: "2026-11-23T21:02:48.499Z"
+generated_at: "2026-11-23T21:04:50.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 100732 - Preservation and management of System units by Secretar
 usc_title: 54
 usc_section: "100732"
 chapter: 1007
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "54 U.S.C. § 100732"
-generated_at: "2026-11-23T21:04:14.288Z"
+generated_at: "2026-11-23T21:06:13.354Z"
 status: "active"
 ---
 

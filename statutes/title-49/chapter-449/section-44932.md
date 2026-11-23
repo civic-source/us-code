@@ -3,9 +3,9 @@ title: "Section 44932 - Administrative"
 usc_title: 49
 usc_section: "44932"
 chapter: 449
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 44932"
-generated_at: "2026-11-23T21:04:12.273Z"
+generated_at: "2026-11-23T21:06:11.649Z"
 status: "active"
 ---
 

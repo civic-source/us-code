@@ -3,9 +3,9 @@ title: "Section 285o - Purpose of Institute"
 usc_title: 42
 usc_section: "285o"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 285o"
-generated_at: "2026-11-23T21:04:02.093Z"
+generated_at: "2026-11-23T21:06:01.853Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1373 - Communication between government agencies and the Immigra
 usc_title: 8
 usc_section: "1373"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "8 U.S.C. § 1373"
-generated_at: "2026-11-23T21:02:50.761Z"
+generated_at: "2026-11-23T21:04:54.430Z"
 status: "active"
 ---
 

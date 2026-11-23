@@ -3,9 +3,9 @@ title: "Section 859 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "859"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "29 U.S.C. § 859"
-generated_at: "2026-11-23T21:03:32.174Z"
+generated_at: "2026-11-23T21:05:28.865Z"
 status: "repealed"
 ---
 

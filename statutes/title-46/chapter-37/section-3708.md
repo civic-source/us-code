@@ -3,9 +3,9 @@ title: "Section 3708 - Self-propelled tank vessel minimum standards"
 usc_title: 46
 usc_section: "3708"
 chapter: 37
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 3708"
-generated_at: "2026-11-23T21:04:07.545Z"
+generated_at: "2026-11-23T21:06:07.679Z"
 status: "active"
 ---
 

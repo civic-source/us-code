@@ -3,9 +3,9 @@ title: "Section 8473 - Gifts, bequests, and loans of property: acceptance for be
 usc_title: 10
 usc_section: "8473"
 chapter: 853
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 8473"
-generated_at: "2026-11-23T21:03:01.403Z"
+generated_at: "2026-11-23T21:05:02.438Z"
 status: "active"
 ---
 

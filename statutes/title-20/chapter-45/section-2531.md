@@ -3,9 +3,9 @@ title: "Section 2531 - Congressional findings"
 usc_title: 20
 usc_section: "2531"
 chapter: 45
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 2531"
-generated_at: "2026-11-23T21:03:17.023Z"
+generated_at: "2026-11-23T21:05:16.378Z"
 status: "active"
 ---
 

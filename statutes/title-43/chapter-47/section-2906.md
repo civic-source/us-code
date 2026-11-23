@@ -3,9 +3,9 @@ title: "Section 2906 - Benefits"
 usc_title: 43
 usc_section: "2906"
 chapter: 47
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 2906"
-generated_at: "2026-11-23T21:03:51.962Z"
+generated_at: "2026-11-23T21:05:49.686Z"
 status: "active"
 ---
 

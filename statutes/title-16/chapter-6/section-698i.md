@@ -3,9 +3,9 @@ title: "Section 698i - Administration of Big Cypress Preserve; applicability of 
 usc_title: 16
 usc_section: "698i"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 698i"
-generated_at: "2026-11-23T21:03:19.768Z"
+generated_at: "2026-11-23T21:05:19.138Z"
 status: "active"
 ---
 

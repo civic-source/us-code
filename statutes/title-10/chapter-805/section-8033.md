@@ -3,9 +3,9 @@ title: "Section 8033 - Chief of Naval Operations"
 usc_title: 10
 usc_section: "8033"
 chapter: 805
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 8033"
-generated_at: "2026-11-23T21:03:01.335Z"
+generated_at: "2026-11-23T21:05:02.398Z"
 status: "active"
 ---
 

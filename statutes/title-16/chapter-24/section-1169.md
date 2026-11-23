@@ -3,9 +3,9 @@ title: "Section 1169 - Regulations"
 usc_title: 16
 usc_section: "1169"
 chapter: 24
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 1169"
-generated_at: "2026-11-23T21:03:19.889Z"
+generated_at: "2026-11-23T21:05:19.267Z"
 status: "active"
 ---
 

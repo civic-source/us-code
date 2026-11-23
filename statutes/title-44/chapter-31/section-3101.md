@@ -3,9 +3,9 @@ title: "Section 3101 - Records management by agency heads; general duties"
 usc_title: 44
 usc_section: "3101"
 chapter: 31
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "44 U.S.C. § 3101"
-generated_at: "2026-11-23T21:03:49.800Z"
+generated_at: "2026-11-23T21:05:48.707Z"
 status: "active"
 ---
 

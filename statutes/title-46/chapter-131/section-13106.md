@@ -3,9 +3,9 @@ title: "Section 13106 - Computation decisions about State amounts expended"
 usc_title: 46
 usc_section: "13106"
 chapter: 131
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 13106"
-generated_at: "2026-11-23T21:04:07.620Z"
+generated_at: "2026-11-23T21:06:07.746Z"
 status: "active"
 ---
 

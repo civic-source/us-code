@@ -3,9 +3,9 @@ title: "Section 6574 - Repealed. Pub. L. 113–188, title IX, § 901(a) , Nov. 2
 usc_title: 20
 usc_section: "6574"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 6574"
-generated_at: "2026-11-23T21:03:17.089Z"
+generated_at: "2026-11-23T21:05:16.480Z"
 status: "repealed"
 ---
 

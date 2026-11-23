@@ -3,9 +3,9 @@ title: "Section 72b - Transferred"
 usc_title: 2
 usc_section: "72b"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 72b"
-generated_at: "2026-11-23T21:02:46.675Z"
+generated_at: "2026-11-23T21:04:48.952Z"
 status: "transferred"
 ---
 

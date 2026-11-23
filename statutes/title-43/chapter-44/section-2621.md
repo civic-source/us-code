@@ -3,9 +3,9 @@ title: "Section 2621 - Coos Bay Wagon Road grant fund; annual payments; appraisa
 usc_title: 43
 usc_section: "2621"
 chapter: 44
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 2621"
-generated_at: "2026-11-23T21:03:51.956Z"
+generated_at: "2026-11-23T21:05:49.680Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5129 - Definitions"
 usc_title: 25
 usc_section: "5129"
 chapter: 45
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 5129"
-generated_at: "2026-11-23T21:03:23.449Z"
+generated_at: "2026-11-23T21:05:24.042Z"
 status: "active"
 ---
 

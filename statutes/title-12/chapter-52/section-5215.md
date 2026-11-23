@@ -3,9 +3,9 @@ title: "Section 5215 - Reports"
 usc_title: 12
 usc_section: "5215"
 chapter: 52
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 5215"
-generated_at: "2026-11-23T21:03:09.643Z"
+generated_at: "2026-11-23T21:05:07.182Z"
 status: "active"
 ---
 

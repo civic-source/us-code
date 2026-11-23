@@ -3,9 +3,9 @@ title: "Section 6695B - Penalty for substantial misstatements on certification p
 usc_title: 26
 usc_section: "6695B"
 chapter: 68
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 6695B"
-generated_at: "2026-11-23T21:03:37.965Z"
+generated_at: "2026-11-23T21:05:34.998Z"
 status: "active"
 ---
 

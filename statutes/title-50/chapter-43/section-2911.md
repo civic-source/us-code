@@ -3,9 +3,9 @@ title: "Section 2911 - Proliferation Security Initiative improvements and author
 usc_title: 50
 usc_section: "2911"
 chapter: 43
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 2911"
-generated_at: "2026-11-23T21:04:09.456Z"
+generated_at: "2026-11-23T21:06:08.983Z"
 status: "active"
 ---
 

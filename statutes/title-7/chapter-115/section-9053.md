@@ -3,9 +3,9 @@ title: "Section 9053 - Dairy margin coverage"
 usc_title: 7
 usc_section: "9053"
 chapter: 115
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 9053"
-generated_at: "2026-11-23T21:02:55.178Z"
+generated_at: "2026-11-23T21:04:57.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41740 - Repealed. Pub. L. 118–63, title V, § 561(i) , May 16,
 usc_title: 49
 usc_section: "41740"
 chapter: 417
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 41740"
-generated_at: "2026-11-23T21:04:12.139Z"
+generated_at: "2026-11-23T21:06:11.528Z"
 status: "repealed"
 ---
 

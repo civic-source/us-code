@@ -3,9 +3,9 @@ title: "Section 1257 - Disposition of converted wetlands or highly erodible crop
 usc_title: 26
 usc_section: "1257"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1257"
-generated_at: "2026-11-23T21:03:37.656Z"
+generated_at: "2026-11-23T21:05:34.682Z"
 status: "active"
 ---
 

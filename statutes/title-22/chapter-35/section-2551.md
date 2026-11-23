@@ -3,9 +3,9 @@ title: "Section 2551 - Congressional statement of purpose"
 usc_title: 22
 usc_section: "2551"
 chapter: 35
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2551"
-generated_at: "2026-11-23T21:03:27.558Z"
+generated_at: "2026-11-23T21:05:26.416Z"
 status: "active"
 ---
 

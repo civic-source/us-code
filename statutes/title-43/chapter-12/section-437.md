@@ -3,9 +3,9 @@ title: "Section 437 - Lands as to which entries made prior to June 25, 1910 , ha
 usc_title: 43
 usc_section: "437"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 437"
-generated_at: "2026-11-23T21:03:51.770Z"
+generated_at: "2026-11-23T21:05:49.469Z"
 status: "active"
 ---
 

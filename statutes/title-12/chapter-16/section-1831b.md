@@ -3,9 +3,9 @@ title: "Section 1831b - Disclosures with respect to certain federally related mo
 usc_title: 12
 usc_section: "1831b"
 chapter: 16
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 1831b"
-generated_at: "2026-11-23T21:03:09.484Z"
+generated_at: "2026-11-23T21:05:07.022Z"
 status: "active"
 ---
 

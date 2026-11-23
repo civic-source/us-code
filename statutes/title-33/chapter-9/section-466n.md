@@ -3,9 +3,9 @@ title: "Section 466n - Repealed. Pub. L. 91–224, title I, § 102 , Apr. 3, 197
 usc_title: 33
 usc_section: "466n"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 466n"
-generated_at: "2026-11-23T21:03:42.332Z"
+generated_at: "2026-11-23T21:05:39.237Z"
 status: "repealed"
 ---
 

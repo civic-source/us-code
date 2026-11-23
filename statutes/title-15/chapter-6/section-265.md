@@ -3,9 +3,9 @@ title: "Section 265 - Transfer of certain territory to standard central-time zon
 usc_title: 15
 usc_section: "265"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 265"
-generated_at: "2026-11-23T21:03:06.525Z"
+generated_at: "2026-11-23T21:05:09.693Z"
 status: "active"
 ---
 

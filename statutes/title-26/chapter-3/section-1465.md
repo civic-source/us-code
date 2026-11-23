@@ -3,9 +3,9 @@ title: "Section 1465 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(156) , 
 usc_title: 26
 usc_section: "1465"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1465"
-generated_at: "2026-11-23T21:03:37.691Z"
+generated_at: "2026-11-23T21:05:34.716Z"
 status: "repealed"
 ---
 

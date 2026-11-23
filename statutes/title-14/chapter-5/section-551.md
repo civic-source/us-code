@@ -3,9 +3,9 @@ title: "Section 551 - Marking anchorage grounds by Commandant of the Coast Guard
 usc_title: 14
 usc_section: "551"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "14 U.S.C. § 551"
-generated_at: "2026-11-23T21:03:03.444Z"
+generated_at: "2026-11-23T21:05:04.229Z"
 status: "active"
 ---
 

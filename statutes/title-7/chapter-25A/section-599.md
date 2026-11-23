@@ -3,9 +3,9 @@ title: "Section 599 - Definitions"
 usc_title: 7
 usc_section: "599"
 chapter: 25
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 599"
-generated_at: "2026-11-23T21:02:54.465Z"
+generated_at: "2026-11-23T21:04:57.121Z"
 status: "active"
 ---
 

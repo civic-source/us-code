@@ -3,9 +3,9 @@ title: "Section 7416 - Assessments"
 usc_title: 7
 usc_section: "7416"
 chapter: 101
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 7416"
-generated_at: "2026-11-23T21:02:55.018Z"
+generated_at: "2026-11-23T21:04:57.527Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8572 - Permit relief for picnic areas"
 usc_title: 16
 usc_section: "8572"
 chapter: 103
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 8572"
-generated_at: "2026-11-23T21:03:20.188Z"
+generated_at: "2026-11-23T21:05:19.568Z"
 status: "active"
 ---
 

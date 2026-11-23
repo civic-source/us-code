@@ -3,9 +3,9 @@ title: "Section 9095 - Protection of collective bargaining agreements"
 usc_title: 15
 usc_section: "9095"
 chapter: 116
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 9095"
-generated_at: "2026-11-23T21:03:07.191Z"
+generated_at: "2026-11-23T21:05:10.148Z"
 status: "active"
 ---
 

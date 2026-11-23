@@ -3,9 +3,9 @@ title: "Section 717j - State compacts for conservation, transportation, etc., of
 usc_title: 15
 usc_section: "717j"
 chapter: 15
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 717j"
-generated_at: "2026-11-23T21:03:06.700Z"
+generated_at: "2026-11-23T21:05:09.816Z"
 status: "active"
 ---
 

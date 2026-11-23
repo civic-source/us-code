@@ -3,9 +3,9 @@ title: "Section 268c - Limitation on expenditure of funds for compensation of In
 usc_title: 22
 usc_section: "268c"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 268c"
-generated_at: "2026-11-23T21:03:27.299Z"
+generated_at: "2026-11-23T21:05:26.182Z"
 status: "active"
 ---
 

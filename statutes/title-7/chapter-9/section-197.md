@@ -3,9 +3,9 @@ title: "Section 197 - Statutory trust established; poultry"
 usc_title: 7
 usc_section: "197"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 197"
-generated_at: "2026-11-23T21:02:54.408Z"
+generated_at: "2026-11-23T21:04:57.092Z"
 status: "active"
 ---
 

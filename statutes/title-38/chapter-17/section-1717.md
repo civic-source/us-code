@@ -3,9 +3,9 @@ title: "Section 1717 - Home health services; invalid lifts and other devices"
 usc_title: 38
 usc_section: "1717"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 1717"
-generated_at: "2026-11-23T21:03:47.730Z"
+generated_at: "2026-11-23T21:05:45.589Z"
 status: "active"
 ---
 

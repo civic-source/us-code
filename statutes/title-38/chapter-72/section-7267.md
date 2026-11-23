@@ -3,9 +3,9 @@ title: "Section 7267 - Decisions"
 usc_title: 38
 usc_section: "7267"
 chapter: 72
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 7267"
-generated_at: "2026-11-23T21:03:48.008Z"
+generated_at: "2026-11-23T21:05:45.884Z"
 status: "active"
 ---
 

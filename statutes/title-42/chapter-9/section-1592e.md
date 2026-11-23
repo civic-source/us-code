@@ -3,9 +3,9 @@ title: "Section 1592e - Interagency transfers of property; application of rules 
 usc_title: 42
 usc_section: "1592e"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 1592e"
-generated_at: "2026-11-23T21:04:03.381Z"
+generated_at: "2026-11-23T21:06:02.888Z"
 status: "active"
 ---
 

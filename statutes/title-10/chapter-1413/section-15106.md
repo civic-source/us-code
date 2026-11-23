@@ -3,9 +3,9 @@ title: "Section 15106 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "15106"
 chapter: 1413
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 15106"
-generated_at: "2026-11-23T21:03:01.653Z"
+generated_at: "2026-11-23T21:05:02.570Z"
 status: "active"
 ---
 

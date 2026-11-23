@@ -3,9 +3,9 @@ title: "Section 1252 - Judicial review of orders of removal"
 usc_title: 8
 usc_section: "1252"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "8 U.S.C. § 1252"
-generated_at: "2026-11-23T21:02:50.717Z"
+generated_at: "2026-11-23T21:04:54.385Z"
 status: "active"
 ---
 

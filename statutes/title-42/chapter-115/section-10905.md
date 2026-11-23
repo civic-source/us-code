@@ -3,9 +3,9 @@ title: "Section 10905 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10905"
 chapter: 115
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 10905"
-generated_at: "2026-11-23T21:04:04.249Z"
+generated_at: "2026-11-23T21:06:03.828Z"
 status: "active"
 ---
 

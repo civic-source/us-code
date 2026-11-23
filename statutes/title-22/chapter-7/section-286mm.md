@@ -3,9 +3,9 @@ title: "Section 286mm - Measures to reduce military spending by developing natio
 usc_title: 22
 usc_section: "286mm"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 286mm"
-generated_at: "2026-11-23T21:03:27.347Z"
+generated_at: "2026-11-23T21:05:26.231Z"
 status: "active"
 ---
 

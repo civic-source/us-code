@@ -3,9 +3,9 @@ title: "Section 2816 - Consideration of energy security and energy resilience in
 usc_title: 10
 usc_section: "2816"
 chapter: 169
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2816"
-generated_at: "2026-11-23T21:03:00.961Z"
+generated_at: "2026-11-23T21:05:02.211Z"
 status: "active"
 ---
 

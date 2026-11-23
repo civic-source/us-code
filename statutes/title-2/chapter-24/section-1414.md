@@ -3,9 +3,9 @@ title: "Section 1414 - Settlement"
 usc_title: 2
 usc_section: "1414"
 chapter: 24
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 1414"
-generated_at: "2026-11-23T21:02:46.757Z"
+generated_at: "2026-11-23T21:04:49.057Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1958 - Use of interstate commerce facilities in the commission o
 usc_title: 18
 usc_section: "1958"
 chapter: 95
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 1958"
-generated_at: "2026-11-23T21:03:12.563Z"
+generated_at: "2026-11-23T21:05:14.145Z"
 status: "active"
 ---
 

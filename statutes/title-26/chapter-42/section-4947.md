@@ -3,9 +3,9 @@ title: "Section 4947 - Application of taxes to certain nonexempt trusts"
 usc_title: 26
 usc_section: "4947"
 chapter: 42
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 4947"
-generated_at: "2026-11-23T21:03:37.803Z"
+generated_at: "2026-11-23T21:05:34.839Z"
 status: "active"
 ---
 

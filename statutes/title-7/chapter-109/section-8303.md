@@ -3,9 +3,9 @@ title: "Section 8303 - Restriction on importation or entry"
 usc_title: 7
 usc_section: "8303"
 chapter: 109
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 8303"
-generated_at: "2026-11-23T21:02:55.114Z"
+generated_at: "2026-11-23T21:04:57.571Z"
 status: "active"
 ---
 

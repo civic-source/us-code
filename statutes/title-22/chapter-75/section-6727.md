@@ -3,9 +3,9 @@ title: "Section 6727 - National security exception"
 usc_title: 22
 usc_section: "6727"
 chapter: 75
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 6727"
-generated_at: "2026-11-23T21:03:27.914Z"
+generated_at: "2026-11-23T21:05:26.626Z"
 status: "active"
 ---
 

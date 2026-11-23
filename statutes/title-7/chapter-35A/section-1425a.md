@@ -3,9 +3,9 @@ title: "Section 1425a - Producers of honey; loan obligations and liabilities"
 usc_title: 7
 usc_section: "1425a"
 chapter: 35
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 1425a"
-generated_at: "2026-11-23T21:02:54.543Z"
+generated_at: "2026-11-23T21:04:57.180Z"
 status: "active"
 ---
 

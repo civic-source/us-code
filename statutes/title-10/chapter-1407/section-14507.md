@@ -3,9 +3,9 @@ title: "Section 14507 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14507"
 chapter: 1407
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 14507"
-generated_at: "2026-11-23T21:03:01.646Z"
+generated_at: "2026-11-23T21:05:02.567Z"
 status: "active"
 ---
 

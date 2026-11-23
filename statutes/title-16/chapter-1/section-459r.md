@@ -3,9 +3,9 @@ title: "Section 459r - Disposition of recreational demonstration projects"
 usc_title: 16
 usc_section: "459r"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 459r"
-generated_at: "2026-11-23T21:03:19.608Z"
+generated_at: "2026-11-23T21:05:18.920Z"
 status: "active"
 ---
 

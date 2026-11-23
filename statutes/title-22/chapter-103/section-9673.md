@@ -3,9 +3,9 @@ title: "Section 9673 - Prohibition on support in countries that support terroris
 usc_title: 22
 usc_section: "9673"
 chapter: 103
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 9673"
-generated_at: "2026-11-23T21:03:28.118Z"
+generated_at: "2026-11-23T21:05:26.729Z"
 status: "active"
 ---
 

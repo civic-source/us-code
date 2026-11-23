@@ -3,9 +3,9 @@ title: "Section 6627 - Compensation for lost or damaged property"
 usc_title: 2
 usc_section: "6627"
 chapter: 65
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 6627"
-generated_at: "2026-11-23T21:02:46.861Z"
+generated_at: "2026-11-23T21:04:49.165Z"
 status: "active"
 ---
 

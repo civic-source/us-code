@@ -3,9 +3,9 @@ title: "Section 5930 - Reservation extension agents"
 usc_title: 7
 usc_section: "5930"
 chapter: 88
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 5930"
-generated_at: "2026-11-23T21:02:54.912Z"
+generated_at: "2026-11-23T21:04:57.472Z"
 status: "active"
 ---
 

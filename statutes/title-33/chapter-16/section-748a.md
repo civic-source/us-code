@@ -3,9 +3,9 @@ title: "Section 748a - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 118
 usc_title: 33
 usc_section: "748a"
 chapter: 16
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 748a"
-generated_at: "2026-11-23T21:03:42.381Z"
+generated_at: "2026-11-23T21:05:39.291Z"
 status: "repealed"
 ---
 

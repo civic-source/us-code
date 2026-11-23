@@ -3,9 +3,9 @@ title: "Section 423 - Permanently unproductive lands; exclusion from project; di
 usc_title: 43
 usc_section: "423"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 423"
-generated_at: "2026-11-23T21:03:51.766Z"
+generated_at: "2026-11-23T21:05:49.467Z"
 status: "active"
 ---
 

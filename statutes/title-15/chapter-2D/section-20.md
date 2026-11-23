@@ -3,9 +3,9 @@ title: "Section 20 - Short title"
 usc_title: 15
 usc_section: "20"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 20"
-generated_at: "2026-11-23T21:03:06.508Z"
+generated_at: "2026-11-23T21:05:09.681Z"
 status: "active"
 ---
 

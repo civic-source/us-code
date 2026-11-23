@@ -3,9 +3,9 @@ title: "Section 645 - Federal provisions applicable to State or Territorial busi
 usc_title: 21
 usc_section: "645"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "21 U.S.C. § 645"
-generated_at: "2026-11-23T21:03:24.462Z"
+generated_at: "2026-11-23T21:05:22.740Z"
 status: "active"
 ---
 

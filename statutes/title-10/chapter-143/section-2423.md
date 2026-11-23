@@ -3,9 +3,9 @@ title: "Section 2423 - Laundry and dry cleaning services: procurement from facil
 usc_title: 10
 usc_section: "2423"
 chapter: 143
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2423"
-generated_at: "2026-11-23T21:03:00.842Z"
+generated_at: "2026-11-23T21:05:02.144Z"
 status: "active"
 ---
 

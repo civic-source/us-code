@@ -3,9 +3,9 @@ title: "Section 42306 - Know Your Rights posters"
 usc_title: 49
 usc_section: "42306"
 chapter: 423
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 42306"
-generated_at: "2026-11-23T21:04:12.153Z"
+generated_at: "2026-11-23T21:06:11.545Z"
 status: "active"
 ---
 

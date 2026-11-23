@@ -3,9 +3,9 @@ title: "Section 1987 - Oversight provisions"
 usc_title: 48
 usc_section: "1987"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "48 U.S.C. § 1987"
-generated_at: "2026-11-23T21:04:06.871Z"
+generated_at: "2026-11-23T21:06:06.675Z"
 status: "active"
 ---
 

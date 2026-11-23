@@ -3,9 +3,9 @@ title: "Section 42106 - Other actions to remedy unfavorable conditions"
 usc_title: 46
 usc_section: "42106"
 chapter: 421
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 42106"
-generated_at: "2026-11-23T21:04:07.666Z"
+generated_at: "2026-11-23T21:06:07.787Z"
 status: "active"
 ---
 

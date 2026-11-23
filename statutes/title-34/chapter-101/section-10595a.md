@@ -3,9 +3,9 @@ title: "Section 10595a - Authorization of appropriations"
 usc_title: 34
 usc_section: "10595a"
 chapter: 101
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 10595a"
-generated_at: "2026-11-23T21:03:41.277Z"
+generated_at: "2026-11-23T21:05:38.117Z"
 status: "active"
 ---
 

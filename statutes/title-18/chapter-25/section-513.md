@@ -3,9 +3,9 @@ title: "Section 513 - Securities of the States and private entities"
 usc_title: 18
 usc_section: "513"
 chapter: 25
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 513"
-generated_at: "2026-11-23T21:03:12.453Z"
+generated_at: "2026-11-23T21:05:14.035Z"
 status: "active"
 ---
 

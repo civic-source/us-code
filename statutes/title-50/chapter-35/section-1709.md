@@ -3,9 +3,9 @@ title: "Section 1709 - Imposition of sanctions with respect to theft of trade se
 usc_title: 50
 usc_section: "1709"
 chapter: 35
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 1709"
-generated_at: "2026-11-23T21:04:09.375Z"
+generated_at: "2026-11-23T21:06:08.937Z"
 status: "active"
 ---
 

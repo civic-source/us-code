@@ -3,9 +3,9 @@ title: "Section 7117 - Activities to support well-rounded educational opportunit
 usc_title: 20
 usc_section: "7117"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 7117"
-generated_at: "2026-11-23T21:03:17.102Z"
+generated_at: "2026-11-23T21:05:16.492Z"
 status: "active"
 ---
 

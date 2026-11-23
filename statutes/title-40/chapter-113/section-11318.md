@@ -3,9 +3,9 @@ title: "Section 11318 - Interagency support"
 usc_title: 40
 usc_section: "11318"
 chapter: 113
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "40 U.S.C. § 11318"
-generated_at: "2026-11-23T21:03:44.895Z"
+generated_at: "2026-11-23T21:05:42.220Z"
 status: "active"
 ---
 

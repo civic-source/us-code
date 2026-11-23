@@ -3,9 +3,9 @@ title: "Section 64 - Services of agents dispensed with"
 usc_title: 25
 usc_section: "64"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 64"
-generated_at: "2026-11-23T21:03:23.248Z"
+generated_at: "2026-11-23T21:05:23.848Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Domestic food assistance programs"
 usc_title: 7
 usc_section: "6"
 chapter: 26
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-11-23T21:02:54.478Z"
+generated_at: "2026-11-23T21:04:57.132Z"
 status: "active"
 ---
 

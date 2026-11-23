@@ -3,9 +3,9 @@ title: "Section 1101 - Congressional findings and declarations"
 usc_title: 45
 usc_section: "1101"
 chapter: 20
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "45 U.S.C. § 1101"
-generated_at: "2026-11-23T21:03:50.238Z"
+generated_at: "2026-11-23T21:05:47.674Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1677l - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29,
 usc_title: 19
 usc_section: "1677l"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 1677l"
-generated_at: "2026-11-23T21:03:14.373Z"
+generated_at: "2026-11-23T21:05:13.041Z"
 status: "repealed"
 ---
 

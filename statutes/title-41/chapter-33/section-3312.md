@@ -3,9 +3,9 @@ title: "Section 3312 - Database on price trends of items and services under Fede
 usc_title: 41
 usc_section: "3312"
 chapter: 33
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "41 U.S.C. § 3312"
-generated_at: "2026-11-23T21:03:50.961Z"
+generated_at: "2026-11-23T21:05:48.223Z"
 status: "active"
 ---
 

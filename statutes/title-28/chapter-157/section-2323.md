@@ -3,9 +3,9 @@ title: "Section 2323 - Duties of Attorney General; intervenors"
 usc_title: 28
 usc_section: "2323"
 chapter: 157
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "28 U.S.C. § 2323"
-generated_at: "2026-11-23T21:03:30.482Z"
+generated_at: "2026-11-23T21:05:30.188Z"
 status: "active"
 ---
 

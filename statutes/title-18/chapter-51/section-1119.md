@@ -3,9 +3,9 @@ title: "Section 1119 - Foreign murder of United States nationals"
 usc_title: 18
 usc_section: "1119"
 chapter: 51
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 1119"
-generated_at: "2026-11-23T21:03:12.508Z"
+generated_at: "2026-11-23T21:05:14.088Z"
 status: "active"
 ---
 

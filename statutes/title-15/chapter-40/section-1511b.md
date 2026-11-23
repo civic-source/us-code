@@ -3,9 +3,9 @@ title: "Section 1511b - United States fishery trade officers"
 usc_title: 15
 usc_section: "1511b"
 chapter: 40
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 1511b"
-generated_at: "2026-11-23T21:03:06.800Z"
+generated_at: "2026-11-23T21:05:09.867Z"
 status: "active"
 ---
 

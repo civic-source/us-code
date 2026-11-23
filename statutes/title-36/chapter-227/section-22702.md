@@ -3,9 +3,9 @@ title: "Section 22702 - Purposes"
 usc_title: 36
 usc_section: "22702"
 chapter: 227
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 22702"
-generated_at: "2026-11-23T21:03:45.670Z"
+generated_at: "2026-11-23T21:05:43.110Z"
 status: "active"
 ---
 

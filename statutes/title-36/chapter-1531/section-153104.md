@@ -3,9 +3,9 @@ title: "Section 153104 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "153104"
 chapter: 1531
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 153104"
-generated_at: "2026-11-23T21:03:45.757Z"
+generated_at: "2026-11-23T21:05:43.229Z"
 status: "active"
 ---
 

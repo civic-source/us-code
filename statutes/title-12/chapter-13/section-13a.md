@@ -3,9 +3,9 @@ title: "Section 13a - Loan guarantees for Indian housing"
 usc_title: 12
 usc_section: "13a"
 chapter: 13
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 13a"
-generated_at: "2026-11-23T21:03:09.393Z"
+generated_at: "2026-11-23T21:05:06.939Z"
 status: "active"
 ---
 

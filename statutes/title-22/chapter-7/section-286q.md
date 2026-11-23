@@ -3,9 +3,9 @@ title: "Section 286q - Limitation on allocations to the United States"
 usc_title: 22
 usc_section: "286q"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 286q"
-generated_at: "2026-11-23T21:03:27.344Z"
+generated_at: "2026-11-23T21:05:26.227Z"
 status: "active"
 ---
 

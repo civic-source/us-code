@@ -3,9 +3,9 @@ title: "Section 4307 - Lists of enemy or ally of enemy officers, directors or st
 usc_title: 50
 usc_section: "4307"
 chapter: 53
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 4307"
-generated_at: "2026-11-23T21:04:09.634Z"
+generated_at: "2026-11-23T21:06:09.088Z"
 status: "active"
 ---
 

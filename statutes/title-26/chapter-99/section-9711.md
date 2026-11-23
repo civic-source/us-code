@@ -3,9 +3,9 @@ title: "Section 9711 - Continued obligations of individual employer plans"
 usc_title: 26
 usc_section: "9711"
 chapter: 99
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 9711"
-generated_at: "2026-11-23T21:03:38.046Z"
+generated_at: "2026-11-23T21:05:35.080Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3478 - Vacant]"
 usc_title: 38
 usc_section: "3478"
 chapter: 34
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 3478"
-generated_at: "2026-11-23T21:03:47.849Z"
+generated_at: "2026-11-23T21:05:45.729Z"
 status: "active"
 ---
 

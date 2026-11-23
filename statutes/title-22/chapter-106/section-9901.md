@@ -3,9 +3,9 @@ title: "Section 9901 - Findings"
 usc_title: 22
 usc_section: "9901"
 chapter: 106
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 9901"
-generated_at: "2026-11-23T21:03:28.128Z"
+generated_at: "2026-11-23T21:05:26.734Z"
 status: "active"
 ---
 

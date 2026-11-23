@@ -3,9 +3,9 @@ title: "Section 94 - Repealed. Oct. 31, 1951, ch. 654, § 1(41) , (42), 65 Stat.
 usc_title: 20
 usc_section: "94"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 94"
-generated_at: "2026-11-23T21:03:16.732Z"
+generated_at: "2026-11-23T21:05:16.078Z"
 status: "repealed"
 ---
 

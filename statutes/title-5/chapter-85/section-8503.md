@@ -3,9 +3,9 @@ title: "Section 8503 - Compensation absent State agreement"
 usc_title: 5
 usc_section: "8503"
 chapter: 85
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 8503"
-generated_at: "2026-11-23T21:02:48.778Z"
+generated_at: "2026-11-23T21:04:51.435Z"
 status: "active"
 ---
 

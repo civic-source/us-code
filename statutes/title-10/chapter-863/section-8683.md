@@ -3,9 +3,9 @@ title: "Section 8683 - Ship overhaul work: availability of appropriations for un
 usc_title: 10
 usc_section: "8683"
 chapter: 863
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 8683"
-generated_at: "2026-11-23T21:03:01.435Z"
+generated_at: "2026-11-23T21:05:02.454Z"
 status: "active"
 ---
 

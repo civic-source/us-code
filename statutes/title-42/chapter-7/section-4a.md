@@ -3,9 +3,9 @@ title: "Section 4a - State option to provide coordinated care through a health h
 usc_title: 42
 usc_section: "4a"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-11-23T21:04:03.273Z"
+generated_at: "2026-11-23T21:06:02.767Z"
 status: "active"
 ---
 

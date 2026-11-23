@@ -3,9 +3,9 @@ title: "Section 2351 - Distribution of funds to secondary education programs"
 usc_title: 20
 usc_section: "2351"
 chapter: 44
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 2351"
-generated_at: "2026-11-23T21:03:17.019Z"
+generated_at: "2026-11-23T21:05:16.371Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11252 - Dissemination"
 usc_title: 42
 usc_section: "11252"
 chapter: 118
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 11252"
-generated_at: "2026-11-23T21:04:04.260Z"
+generated_at: "2026-11-23T21:06:03.838Z"
 status: "active"
 ---
 

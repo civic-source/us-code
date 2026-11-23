@@ -3,9 +3,9 @@ title: "Section 20902 - Establishment of program"
 usc_title: 34
 usc_section: "20902"
 chapter: 209
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 20902"
-generated_at: "2026-11-23T21:03:41.361Z"
+generated_at: "2026-11-23T21:05:38.239Z"
 status: "active"
 ---
 

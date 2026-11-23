@@ -3,9 +3,9 @@ title: "Section 1634 - Expenditure of non-Service funds for renovation"
 usc_title: 25
 usc_section: "1634"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 1634"
-generated_at: "2026-11-23T21:03:23.328Z"
+generated_at: "2026-11-23T21:05:23.924Z"
 status: "active"
 ---
 

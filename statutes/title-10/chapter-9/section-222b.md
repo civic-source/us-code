@@ -3,9 +3,9 @@ title: "Section 222b - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b
 usc_title: 10
 usc_section: "222b"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 222b"
-generated_at: "2026-11-23T21:03:00.388Z"
+generated_at: "2026-11-23T21:05:01.787Z"
 status: "repealed"
 ---
 

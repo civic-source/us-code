@@ -3,9 +3,9 @@ title: "Section 4311 - Definitions"
 usc_title: 5
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 4311"
-generated_at: "2026-11-23T21:02:48.566Z"
+generated_at: "2026-11-23T21:04:51.089Z"
 status: "active"
 ---
 

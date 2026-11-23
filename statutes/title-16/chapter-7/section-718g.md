@@ -3,9 +3,9 @@ title: "Section 718g - Violations"
 usc_title: 16
 usc_section: "718g"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 718g"
-generated_at: "2026-11-23T21:03:19.780Z"
+generated_at: "2026-11-23T21:05:19.148Z"
 status: "active"
 ---
 

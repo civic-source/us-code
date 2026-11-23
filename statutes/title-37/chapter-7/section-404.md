@@ -3,9 +3,9 @@ title: "Section 404 - Renumbered § 474]"
 usc_title: 37
 usc_section: "404"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "37 U.S.C. § 404"
-generated_at: "2026-11-23T21:03:46.374Z"
+generated_at: "2026-11-23T21:05:41.415Z"
 status: "renumbered"
 ---
 

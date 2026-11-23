@@ -3,9 +3,9 @@ title: "Section 280A - Disallowance of certain expenses in connection with busin
 usc_title: 26
 usc_section: "280A"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 280A"
-generated_at: "2026-11-23T21:03:37.370Z"
+generated_at: "2026-11-23T21:05:34.409Z"
 status: "active"
 ---
 

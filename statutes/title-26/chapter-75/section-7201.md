@@ -3,9 +3,9 @@ title: "Section 7201 - Attempt to evade or defeat tax"
 usc_title: 26
 usc_section: "7201"
 chapter: 75
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 7201"
-generated_at: "2026-11-23T21:03:37.976Z"
+generated_at: "2026-11-23T21:05:35.009Z"
 status: "active"
 ---
 

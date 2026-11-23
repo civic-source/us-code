@@ -3,9 +3,9 @@ title: "Section 15402 - Transferred"
 usc_title: 42
 usc_section: "15402"
 chapter: 146
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 15402"
-generated_at: "2026-11-23T21:04:04.434Z"
+generated_at: "2026-11-23T21:06:04.027Z"
 status: "transferred"
 ---
 

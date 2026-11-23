@@ -3,9 +3,9 @@ title: "Section 2655c - Bureau of Educational and Cultural Affairs"
 usc_title: 22
 usc_section: "2655c"
 chapter: 38
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2655c"
-generated_at: "2026-11-23T21:03:27.576Z"
+generated_at: "2026-11-23T21:05:26.430Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3634 - Report"
 usc_title: 18
 usc_section: "3634"
 chapter: 229
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 3634"
-generated_at: "2026-11-23T21:03:12.669Z"
+generated_at: "2026-11-23T21:05:14.286Z"
 status: "active"
 ---
 

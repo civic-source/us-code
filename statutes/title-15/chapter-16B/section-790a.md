@@ -3,9 +3,9 @@ title: "Section 790a - National Energy Information System; information required 
 usc_title: 15
 usc_section: "790a"
 chapter: 16
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 790a"
-generated_at: "2026-11-23T21:03:06.723Z"
+generated_at: "2026-11-23T21:05:09.827Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2255 - Trade monitoring"
 usc_title: 19
 usc_section: "2255"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 2255"
-generated_at: "2026-11-23T21:03:14.420Z"
+generated_at: "2026-11-23T21:05:13.070Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 82 - Repealed. Pub. L. 92–310, title II, § 220(d) , (e), June
 usc_title: 2
 usc_section: "82"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 82"
-generated_at: "2026-11-23T21:02:46.676Z"
+generated_at: "2026-11-23T21:04:48.953Z"
 status: "repealed"
 ---
 

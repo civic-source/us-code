@@ -3,9 +3,9 @@ title: "Section 45G - Railroad track maintenance credit"
 usc_title: 26
 usc_section: "45G"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 45G"
-generated_at: "2026-11-23T21:03:37.184Z"
+generated_at: "2026-11-23T21:05:34.263Z"
 status: "active"
 ---
 

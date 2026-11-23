@@ -3,9 +3,9 @@ title: "Section 69 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "69"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 69"
-generated_at: "2026-11-23T21:04:01.841Z"
+generated_at: "2026-11-23T21:06:01.575Z"
 status: "repealed"
 ---
 

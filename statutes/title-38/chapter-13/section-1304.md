@@ -3,9 +3,9 @@ title: "Section 1304 - Special provisions relating to surviving spouses"
 usc_title: 38
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 1304"
-generated_at: "2026-11-23T21:03:47.697Z"
+generated_at: "2026-11-23T21:05:45.528Z"
 status: "active"
 ---
 

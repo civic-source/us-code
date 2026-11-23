@@ -3,9 +3,9 @@ title: "Section 15h - Applicability of parens patriae actions"
 usc_title: 15
 usc_section: "15h"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 15h"
-generated_at: "2026-11-23T21:03:06.329Z"
+generated_at: "2026-11-23T21:05:09.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1412a - Emergency dumping of industrial waste"
 usc_title: 33
 usc_section: "1412a"
 chapter: 27
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 1412a"
-generated_at: "2026-11-23T21:03:42.507Z"
+generated_at: "2026-11-23T21:05:39.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1778a - Omitted"
 usc_title: 25
 usc_section: "1778a"
 chapter: 19
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 1778a"
-generated_at: "2026-11-23T21:03:23.350Z"
+generated_at: "2026-11-23T21:05:23.945Z"
 status: "omitted"
 ---
 

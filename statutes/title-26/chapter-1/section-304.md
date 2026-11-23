@@ -3,9 +3,9 @@ title: "Section 304 - Redemption through use of related corporations"
 usc_title: 26
 usc_section: "304"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 304"
-generated_at: "2026-11-23T21:03:37.379Z"
+generated_at: "2026-11-23T21:05:34.414Z"
 status: "active"
 ---
 

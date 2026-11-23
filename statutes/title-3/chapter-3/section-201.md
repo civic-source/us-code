@@ -3,9 +3,9 @@ title: "Section 201 - Repealed. July 16, 1951, ch. 226, § 5(a) , 65 Stat. 122 ]
 usc_title: 3
 usc_section: "201"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "3 U.S.C. § 201"
-generated_at: "2026-11-23T21:02:45.830Z"
+generated_at: "2026-11-23T21:04:48.100Z"
 status: "repealed"
 ---
 

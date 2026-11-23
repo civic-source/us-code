@@ -3,9 +3,9 @@ title: "Section 422f - Proposals for projects previously authorized; waiver of r
 usc_title: 43
 usc_section: "422f"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 422f"
-generated_at: "2026-11-23T21:03:51.765Z"
+generated_at: "2026-11-23T21:05:49.466Z"
 status: "active"
 ---
 

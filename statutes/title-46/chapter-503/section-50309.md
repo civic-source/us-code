@@ -3,9 +3,9 @@ title: "Section 50309 - Securing logistics information data of the United States
 usc_title: 46
 usc_section: "50309"
 chapter: 503
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 50309"
-generated_at: "2026-11-23T21:04:07.682Z"
+generated_at: "2026-11-23T21:06:07.798Z"
 status: "active"
 ---
 

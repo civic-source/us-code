@@ -3,9 +3,9 @@ title: "Section 661 - Deduction for estates and trusts accumulating income or di
 usc_title: 26
 usc_section: "661"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 661"
-generated_at: "2026-11-23T21:03:37.549Z"
+generated_at: "2026-11-23T21:05:34.562Z"
 status: "active"
 ---
 

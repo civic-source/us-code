@@ -3,9 +3,9 @@ title: "Section 224 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)
 usc_title: 10
 usc_section: "224"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 224"
-generated_at: "2026-11-23T21:03:00.389Z"
+generated_at: "2026-11-23T21:05:01.788Z"
 status: "repealed"
 ---
 

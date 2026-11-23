@@ -3,9 +3,9 @@ title: "Section 1498 - Entry under regulations"
 usc_title: 19
 usc_section: "1498"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 1498"
-generated_at: "2026-11-23T21:03:14.293Z"
+generated_at: "2026-11-23T21:05:12.995Z"
 status: "active"
 ---
 

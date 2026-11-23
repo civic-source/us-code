@@ -3,9 +3,9 @@ title: "Section 8007 - United States-India scientific cooperative nuclear nonpro
 usc_title: 22
 usc_section: "8007"
 chapter: 87
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 8007"
-generated_at: "2026-11-23T21:03:28.004Z"
+generated_at: "2026-11-23T21:05:26.670Z"
 status: "active"
 ---
 

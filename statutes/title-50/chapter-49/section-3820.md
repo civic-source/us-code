@@ -3,9 +3,9 @@ title: "Section 3820 - Procedural rights"
 usc_title: 50
 usc_section: "3820"
 chapter: 49
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 3820"
-generated_at: "2026-11-23T21:04:09.610Z"
+generated_at: "2026-11-23T21:06:09.072Z"
 status: "active"
 ---
 

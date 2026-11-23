@@ -3,9 +3,9 @@ title: "Section 3 - Omitted"
 usc_title: 25
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-11-23T21:03:23.248Z"
+generated_at: "2026-11-23T21:05:23.848Z"
 status: "omitted"
 ---
 

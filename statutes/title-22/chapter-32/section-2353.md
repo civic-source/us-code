@@ -3,9 +3,9 @@ title: "Section 2353 - Shipping on United States vessels"
 usc_title: 22
 usc_section: "2353"
 chapter: 32
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2353"
-generated_at: "2026-11-23T21:03:27.508Z"
+generated_at: "2026-11-23T21:05:26.374Z"
 status: "active"
 ---
 

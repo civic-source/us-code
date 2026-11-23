@@ -3,9 +3,9 @@ title: "Section 28 - Award of certificates to accelerate certain matters at the 
 usc_title: 35
 usc_section: "28"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "35 U.S.C. § 28"
-generated_at: "2026-11-23T21:03:39.567Z"
+generated_at: "2026-11-23T21:05:36.481Z"
 status: "active"
 ---
 

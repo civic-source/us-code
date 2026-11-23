@@ -3,9 +3,9 @@ title: "Section 873 - Extra compensation for instrument observers, recorders and
 usc_title: 33
 usc_section: "873"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 873"
-generated_at: "2026-11-23T21:03:42.385Z"
+generated_at: "2026-11-23T21:05:39.296Z"
 status: "active"
 ---
 

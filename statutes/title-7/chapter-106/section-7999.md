@@ -3,9 +3,9 @@ title: "Section 7999 - Availability of incentive payments for certain producers"
 usc_title: 7
 usc_section: "7999"
 chapter: 106
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 7999"
-generated_at: "2026-11-23T21:02:55.096Z"
+generated_at: "2026-11-23T21:04:57.563Z"
 status: "active"
 ---
 

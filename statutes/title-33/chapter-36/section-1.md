@@ -3,9 +3,9 @@ title: "Section 1 - Report to Congress on authorized studies and projects"
 usc_title: 33
 usc_section: "1"
 chapter: 36
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-11-23T21:03:42.573Z"
+generated_at: "2026-11-23T21:05:39.505Z"
 status: "active"
 ---
 

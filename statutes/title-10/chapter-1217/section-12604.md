@@ -3,9 +3,9 @@ title: "Section 12604 - Billeting in Department of Defense facilities: Reserves 
 usc_title: 10
 usc_section: "12604"
 chapter: 1217
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 12604"
-generated_at: "2026-11-23T21:03:01.618Z"
+generated_at: "2026-11-23T21:05:02.551Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1164 - Systemwide Amtrak security upgrades"
 usc_title: 6
 usc_section: "1164"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "6 U.S.C. § 1164"
-generated_at: "2026-11-23T21:02:51.517Z"
+generated_at: "2026-11-23T21:04:53.587Z"
 status: "active"
 ---
 

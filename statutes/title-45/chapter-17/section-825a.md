@@ -3,9 +3,9 @@ title: "Section 825a - Repealed. Pub. L. 99–509, title IV, § 4033(c)(6) , Oct
 usc_title: 45
 usc_section: "825a"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "45 U.S.C. § 825a"
-generated_at: "2026-11-23T21:03:50.230Z"
+generated_at: "2026-11-23T21:05:47.664Z"
 status: "repealed"
 ---
 

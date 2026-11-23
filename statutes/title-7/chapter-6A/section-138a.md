@@ -3,9 +3,9 @@ title: "Section 138a - National Laboratory Accreditation Program"
 usc_title: 7
 usc_section: "138a"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 138a"
-generated_at: "2026-11-23T21:02:54.398Z"
+generated_at: "2026-11-23T21:04:57.087Z"
 status: "active"
 ---
 

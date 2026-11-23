@@ -3,9 +3,9 @@ title: "Section 12879 - Implementation"
 usc_title: 42
 usc_section: "12879"
 chapter: 130
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 12879"
-generated_at: "2026-11-23T21:04:04.367Z"
+generated_at: "2026-11-23T21:06:03.957Z"
 status: "active"
 ---
 

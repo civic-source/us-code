@@ -3,9 +3,9 @@ title: "Section 3353 - International military education and training cooperation
 usc_title: 22
 usc_section: "3353"
 chapter: 48
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 3353"
-generated_at: "2026-11-23T21:03:27.690Z"
+generated_at: "2026-11-23T21:05:26.494Z"
 status: "active"
 ---
 

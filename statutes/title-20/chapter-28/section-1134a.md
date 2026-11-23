@@ -3,9 +3,9 @@ title: "Section 1134a - Allocation of fellowships"
 usc_title: 20
 usc_section: "1134a"
 chapter: 28
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 1134a"
-generated_at: "2026-11-23T21:03:16.942Z"
+generated_at: "2026-11-23T21:05:16.260Z"
 status: "active"
 ---
 

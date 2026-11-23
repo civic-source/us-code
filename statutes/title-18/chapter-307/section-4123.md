@@ -3,9 +3,9 @@ title: "Section 4123 - New industries"
 usc_title: 18
 usc_section: "4123"
 chapter: 307
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "18 U.S.C. § 4123"
-generated_at: "2026-11-23T21:03:12.684Z"
+generated_at: "2026-11-23T21:05:14.298Z"
 status: "active"
 ---
 

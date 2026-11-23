@@ -3,9 +3,9 @@ title: "Section 3005 - Liability and damages"
 usc_title: 15
 usc_section: "3005"
 chapter: 57
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 3005"
-generated_at: "2026-11-23T21:03:07.006Z"
+generated_at: "2026-11-23T21:05:10.005Z"
 status: "active"
 ---
 

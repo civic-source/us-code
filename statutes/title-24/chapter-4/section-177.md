@@ -3,9 +3,9 @@ title: "Section 177 - Repealed. Pub. L. 98–621, § 10(h) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "177"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "24 U.S.C. § 177"
-generated_at: "2026-11-23T21:03:21.471Z"
+generated_at: "2026-11-23T21:05:21.054Z"
 status: "repealed"
 ---
 

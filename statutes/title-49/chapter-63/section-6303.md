@@ -3,9 +3,9 @@ title: "Section 6303 - Intermodal transportation database"
 usc_title: 49
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 6303"
-generated_at: "2026-11-23T21:04:11.773Z"
+generated_at: "2026-11-23T21:06:11.172Z"
 status: "active"
 ---
 

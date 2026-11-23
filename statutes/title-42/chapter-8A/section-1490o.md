@@ -3,9 +3,9 @@ title: "Section 1490o - Reciprocity in approval of housing subdivisions among Fe
 usc_title: 42
 usc_section: "1490o"
 chapter: 8
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 1490o"
-generated_at: "2026-11-23T21:04:03.369Z"
+generated_at: "2026-11-23T21:06:02.873Z"
 status: "active"
 ---
 

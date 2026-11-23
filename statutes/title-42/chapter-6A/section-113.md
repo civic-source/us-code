@@ -3,9 +3,9 @@ title: "Section 113 - Continuity of care"
 usc_title: 42
 usc_section: "113"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-11-23T21:04:02.461Z"
+generated_at: "2026-11-23T21:06:02.116Z"
 status: "active"
 ---
 

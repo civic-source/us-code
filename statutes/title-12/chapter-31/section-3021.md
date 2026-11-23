@@ -3,9 +3,9 @@ title: "Section 3021 - Annual report to Congress; contents"
 usc_title: 12
 usc_section: "3021"
 chapter: 31
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 3021"
-generated_at: "2026-11-23T21:03:09.562Z"
+generated_at: "2026-11-23T21:05:07.096Z"
 status: "active"
 ---
 

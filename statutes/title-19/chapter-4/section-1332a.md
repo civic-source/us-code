@@ -3,9 +3,9 @@ title: "Section 1332a - Importation of red cedar shingles"
 usc_title: 19
 usc_section: "1332a"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 1332a"
-generated_at: "2026-11-23T21:03:14.258Z"
+generated_at: "2026-11-23T21:05:12.980Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1720K - Grants or contracts to provide mental health support to 
 usc_title: 38
 usc_section: "1720K"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 1720K"
-generated_at: "2026-11-23T21:03:47.738Z"
+generated_at: "2026-11-23T21:05:45.602Z"
 status: "active"
 ---
 

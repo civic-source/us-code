@@ -3,9 +3,9 @@ title: "Section 3 - Utilization of personnel"
 usc_title: 42
 usc_section: "3"
 chapter: 19
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-11-23T21:04:03.454Z"
+generated_at: "2026-11-23T21:06:02.969Z"
 status: "active"
 ---
 

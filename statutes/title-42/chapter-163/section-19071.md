@@ -3,9 +3,9 @@ title: "Section 19071 - Microgravity utilization policy"
 usc_title: 42
 usc_section: "19071"
 chapter: 163
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 19071"
-generated_at: "2026-11-23T21:04:04.707Z"
+generated_at: "2026-11-23T21:06:04.195Z"
 status: "active"
 ---
 

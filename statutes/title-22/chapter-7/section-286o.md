@@ -3,9 +3,9 @@ title: "Section 286o - Administration as part of the Exchange Stabilization Fund
 usc_title: 22
 usc_section: "286o"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 286o"
-generated_at: "2026-11-23T21:03:27.344Z"
+generated_at: "2026-11-23T21:05:26.227Z"
 status: "active"
 ---
 

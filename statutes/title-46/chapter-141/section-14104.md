@@ -3,9 +3,9 @@ title: "Section 14104 - Measurement to determine application of a law"
 usc_title: 46
 usc_section: "14104"
 chapter: 141
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 14104"
-generated_at: "2026-11-23T21:04:07.622Z"
+generated_at: "2026-11-23T21:06:07.749Z"
 status: "active"
 ---
 

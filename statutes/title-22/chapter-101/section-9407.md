@@ -3,9 +3,9 @@ title: "Section 9407 - Review of applicability of sanctions relating to Iran’s
 usc_title: 22
 usc_section: "9407"
 chapter: 101
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 9407"
-generated_at: "2026-11-23T21:03:28.090Z"
+generated_at: "2026-11-23T21:05:26.713Z"
 status: "active"
 ---
 

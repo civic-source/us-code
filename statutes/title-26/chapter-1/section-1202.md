@@ -3,9 +3,9 @@ title: "Section 1202 - Partial exclusion for gain from certain small business st
 usc_title: 26
 usc_section: "1202"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 1202"
-generated_at: "2026-11-23T21:03:37.644Z"
+generated_at: "2026-11-23T21:05:34.667Z"
 status: "active"
 ---
 

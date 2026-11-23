@@ -3,9 +3,9 @@ title: "Section 4103 - General authority"
 usc_title: 41
 usc_section: "4103"
 chapter: 41
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "41 U.S.C. § 4103"
-generated_at: "2026-11-23T21:03:50.972Z"
+generated_at: "2026-11-23T21:05:48.234Z"
 status: "active"
 ---
 

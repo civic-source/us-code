@@ -3,9 +3,9 @@ title: "Section 5108 - Supplemental claims"
 usc_title: 38
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 5108"
-generated_at: "2026-11-23T21:03:47.961Z"
+generated_at: "2026-11-23T21:05:45.841Z"
 status: "active"
 ---
 

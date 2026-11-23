@@ -3,9 +3,9 @@ title: "Section 1515 - Program compliance and integrity"
 usc_title: 7
 usc_section: "1515"
 chapter: 36
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 1515"
-generated_at: "2026-11-23T21:02:54.581Z"
+generated_at: "2026-11-23T21:04:57.215Z"
 status: "active"
 ---
 

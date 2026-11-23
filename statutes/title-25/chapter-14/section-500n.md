@@ -3,9 +3,9 @@ title: "Section 500n - Omitted"
 usc_title: 25
 usc_section: "500n"
 chapter: 14
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "25 U.S.C. § 500n"
-generated_at: "2026-11-23T21:03:23.286Z"
+generated_at: "2026-11-23T21:05:23.886Z"
 status: "omitted"
 ---
 

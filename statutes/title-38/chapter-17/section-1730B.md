@@ -3,9 +3,9 @@ title: "Section 1730B - Access to State prescription drug monitoring programs"
 usc_title: 38
 usc_section: "1730B"
 chapter: 17
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 1730B"
-generated_at: "2026-11-23T21:03:47.744Z"
+generated_at: "2026-11-23T21:05:45.612Z"
 status: "active"
 ---
 

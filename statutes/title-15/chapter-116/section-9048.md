@@ -3,9 +3,9 @@ title: "Section 9048 - Temporary Government in the Sunshine Act relief"
 usc_title: 15
 usc_section: "9048"
 chapter: 116
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 9048"
-generated_at: "2026-11-23T21:03:07.181Z"
+generated_at: "2026-11-23T21:05:10.141Z"
 status: "active"
 ---
 

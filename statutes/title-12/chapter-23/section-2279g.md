@@ -3,9 +3,9 @@ title: "Section 2279g - Transactions to accomplish mergers exempt from certain S
 usc_title: 12
 usc_section: "2279g"
 chapter: 23
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 2279g"
-generated_at: "2026-11-23T21:03:09.544Z"
+generated_at: "2026-11-23T21:05:07.078Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5334 - Data standards"
 usc_title: 12
 usc_section: "5334"
 chapter: 53
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 5334"
-generated_at: "2026-11-23T21:03:09.655Z"
+generated_at: "2026-11-23T21:05:07.193Z"
 status: "active"
 ---
 

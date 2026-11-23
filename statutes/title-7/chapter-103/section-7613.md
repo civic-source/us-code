@@ -3,9 +3,9 @@ title: "Section 7613 - Relevance and merit of agricultural research, extension, 
 usc_title: 7
 usc_section: "7613"
 chapter: 103
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 7613"
-generated_at: "2026-11-23T21:02:55.045Z"
+generated_at: "2026-11-23T21:04:57.539Z"
 status: "active"
 ---
 

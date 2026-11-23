@@ -3,9 +3,9 @@ title: "Section 413 - Services provided to residents"
 usc_title: 24
 usc_section: "413"
 chapter: 10
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "24 U.S.C. § 413"
-generated_at: "2026-11-23T21:03:21.482Z"
+generated_at: "2026-11-23T21:05:21.067Z"
 status: "active"
 ---
 

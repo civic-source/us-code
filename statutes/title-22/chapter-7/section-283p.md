@@ -3,9 +3,9 @@ title: "Section 283p - Authorization for payment of United States contribution t
 usc_title: 22
 usc_section: "283p"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 283p"
-generated_at: "2026-11-23T21:03:27.329Z"
+generated_at: "2026-11-23T21:05:26.207Z"
 status: "active"
 ---
 

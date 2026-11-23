@@ -3,9 +3,9 @@ title: "Section 305 - Archeological and paleontological salvage"
 usc_title: 23
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "23 U.S.C. § 305"
-generated_at: "2026-11-23T21:03:22.430Z"
+generated_at: "2026-11-23T21:05:21.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 922 - Employee stock ownership plan for surviving portion of Mil
 usc_title: 45
 usc_section: "922"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "45 U.S.C. § 922"
-generated_at: "2026-11-23T21:03:50.235Z"
+generated_at: "2026-11-23T21:05:47.668Z"
 status: "active"
 ---
 

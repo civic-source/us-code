@@ -3,9 +3,9 @@ title: "Section 709 - Maritime instruction"
 usc_title: 14
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "14 U.S.C. § 709"
-generated_at: "2026-11-23T21:03:03.447Z"
+generated_at: "2026-11-23T21:05:04.232Z"
 status: "active"
 ---
 

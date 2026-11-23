@@ -3,9 +3,9 @@ title: "Section 9254 - Authority to designate certain separated members of the A
 usc_title: 10
 usc_section: "9254"
 chapter: 933
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 9254"
-generated_at: "2026-11-23T21:03:01.512Z"
+generated_at: "2026-11-23T21:05:02.493Z"
 status: "active"
 ---
 

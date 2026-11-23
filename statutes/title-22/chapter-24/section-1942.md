@@ -3,9 +3,9 @@ title: "Section 1942 - Development assistance in Latin America; Congressional de
 usc_title: 22
 usc_section: "1942"
 chapter: 24
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 1942"
-generated_at: "2026-11-23T21:03:27.430Z"
+generated_at: "2026-11-23T21:05:26.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1926 - Educational assistance program for employees"
 usc_title: 2
 usc_section: "1926"
 chapter: 29
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 1926"
-generated_at: "2026-11-23T21:02:46.783Z"
+generated_at: "2026-11-23T21:04:49.083Z"
 status: "active"
 ---
 

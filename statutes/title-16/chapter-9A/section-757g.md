@@ -3,9 +3,9 @@ title: "Section 757g - Repealed. Pub. L. 105–146, § 3(a) , Dec. 16, 1997 , 11
 usc_title: 16
 usc_section: "757g"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 757g"
-generated_at: "2026-11-23T21:03:19.789Z"
+generated_at: "2026-11-23T21:05:19.157Z"
 status: "repealed"
 ---
 

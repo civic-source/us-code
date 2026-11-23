@@ -3,9 +3,9 @@ title: "Section 20106 - Restrictions"
 usc_title: 36
 usc_section: "20106"
 chapter: 201
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 20106"
-generated_at: "2026-11-23T21:03:45.652Z"
+generated_at: "2026-11-23T21:05:43.087Z"
 status: "active"
 ---
 

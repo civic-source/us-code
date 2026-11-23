@@ -3,9 +3,9 @@ title: "Section 9826 - Oversight of entities that provide pharmacy benefit manag
 usc_title: 26
 usc_section: "9826"
 chapter: 100
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 9826"
-generated_at: "2026-11-23T21:03:38.053Z"
+generated_at: "2026-11-23T21:05:35.088Z"
 status: "active"
 ---
 

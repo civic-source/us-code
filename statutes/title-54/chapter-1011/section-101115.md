@@ -3,9 +3,9 @@ title: "Section 101115 - Corporate succession and powers and duties acting as tr
 usc_title: 54
 usc_section: "101115"
 chapter: 1011
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "54 U.S.C. § 101115"
-generated_at: "2026-11-23T21:04:14.295Z"
+generated_at: "2026-11-23T21:06:13.360Z"
 status: "active"
 ---
 

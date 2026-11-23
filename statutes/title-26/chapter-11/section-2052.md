@@ -3,9 +3,9 @@ title: "Section 2052 - Repealed. Pub. L. 94–455, title XX, § 2001(a)(4) , Oct
 usc_title: 26
 usc_section: "2052"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 2052"
-generated_at: "2026-11-23T21:03:37.703Z"
+generated_at: "2026-11-23T21:05:34.738Z"
 status: "repealed"
 ---
 

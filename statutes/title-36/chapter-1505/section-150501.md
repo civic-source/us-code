@@ -3,9 +3,9 @@ title: "Section 150501 - Definition"
 usc_title: 36
 usc_section: "150501"
 chapter: 1505
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 150501"
-generated_at: "2026-11-23T21:03:45.737Z"
+generated_at: "2026-11-23T21:05:43.184Z"
 status: "active"
 ---
 

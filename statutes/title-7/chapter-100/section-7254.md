@@ -3,9 +3,9 @@ title: "Section 7254 - Effect on fluid milk standards in State of California"
 usc_title: 7
 usc_section: "7254"
 chapter: 100
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 7254"
-generated_at: "2026-11-23T21:02:55.004Z"
+generated_at: "2026-11-23T21:04:57.521Z"
 status: "active"
 ---
 

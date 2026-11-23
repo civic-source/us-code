@@ -3,9 +3,9 @@ title: "Section 1322 - Immigration and Naturalization Service: report"
 usc_title: 44
 usc_section: "1322"
 chapter: 13
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "44 U.S.C. § 1322"
-generated_at: "2026-11-23T21:03:49.773Z"
+generated_at: "2026-11-23T21:05:48.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 242 - Powers of Secretary"
 usc_title: 7
 usc_section: "242"
 chapter: 10
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 242"
-generated_at: "2026-11-23T21:02:54.419Z"
+generated_at: "2026-11-23T21:04:57.098Z"
 status: "active"
 ---
 

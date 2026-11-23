@@ -3,9 +3,9 @@ title: "Section 5609 - Definitions"
 usc_title: 16
 usc_section: "5609"
 chapter: 76
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 5609"
-generated_at: "2026-11-23T21:03:20.128Z"
+generated_at: "2026-11-23T21:05:19.497Z"
 status: "active"
 ---
 

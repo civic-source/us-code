@@ -3,9 +3,9 @@ title: "Section 422 - Authority to accept certain uncompensated services"
 usc_title: 24
 usc_section: "422"
 chapter: 10
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "24 U.S.C. § 422"
-generated_at: "2026-11-23T21:03:21.488Z"
+generated_at: "2026-11-23T21:05:21.073Z"
 status: "active"
 ---
 

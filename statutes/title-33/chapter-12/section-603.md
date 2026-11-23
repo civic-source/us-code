@@ -3,9 +3,9 @@ title: "Section 603 - Repealed. Mar. 2, 1945, ch. 19, § 3 , 59 Stat. 23"
 usc_title: 33
 usc_section: "603"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 603"
-generated_at: "2026-11-23T21:03:42.360Z"
+generated_at: "2026-11-23T21:05:39.264Z"
 status: "repealed"
 ---
 

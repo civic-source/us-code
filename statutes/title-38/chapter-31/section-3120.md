@@ -3,9 +3,9 @@ title: "Section 3120 - Program of independent living services and assistance"
 usc_title: 38
 usc_section: "3120"
 chapter: 31
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "38 U.S.C. § 3120"
-generated_at: "2026-11-23T21:03:47.827Z"
+generated_at: "2026-11-23T21:05:45.708Z"
 status: "active"
 ---
 

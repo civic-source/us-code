@@ -3,9 +3,9 @@ title: "Section 59A - Tax on base erosion payments of taxpayers with substantial
 usc_title: 26
 usc_section: "59A"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 59A"
-generated_at: "2026-11-23T21:03:37.227Z"
+generated_at: "2026-11-23T21:05:34.294Z"
 status: "active"
 ---
 

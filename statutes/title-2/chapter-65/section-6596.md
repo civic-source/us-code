@@ -3,9 +3,9 @@ title: "Section 6596 - Employment of personnel by Sergeant at Arms and Doorkeepe
 usc_title: 2
 usc_section: "6596"
 chapter: 65
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 6596"
-generated_at: "2026-11-23T21:02:46.858Z"
+generated_at: "2026-11-23T21:04:49.162Z"
 status: "active"
 ---
 

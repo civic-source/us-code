@@ -3,9 +3,9 @@ title: "Section 1626 - Steel products trade enforcement"
 usc_title: 19
 usc_section: "1626"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 1626"
-generated_at: "2026-11-23T21:03:14.332Z"
+generated_at: "2026-11-23T21:05:13.020Z"
 status: "active"
 ---
 

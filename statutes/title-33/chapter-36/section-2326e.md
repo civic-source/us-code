@@ -3,9 +3,9 @@ title: "Section 2326e - Non-Federal interest dredging authority"
 usc_title: 33
 usc_section: "2326e"
 chapter: 36
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 2326e"
-generated_at: "2026-11-23T21:03:42.589Z"
+generated_at: "2026-11-23T21:05:39.525Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20137 - Malpractice and negligence suits against United States"
 usc_title: 51
 usc_section: "20137"
 chapter: 201
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "51 U.S.C. § 20137"
-generated_at: "2026-11-23T21:04:13.902Z"
+generated_at: "2026-11-23T21:06:13.641Z"
 status: "active"
 ---
 

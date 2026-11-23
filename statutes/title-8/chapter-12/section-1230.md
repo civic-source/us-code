@@ -3,9 +3,9 @@ title: "Section 1230 - Records of admission"
 usc_title: 8
 usc_section: "1230"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "8 U.S.C. § 1230"
-generated_at: "2026-11-23T21:02:50.713Z"
+generated_at: "2026-11-23T21:04:54.380Z"
 status: "active"
 ---
 

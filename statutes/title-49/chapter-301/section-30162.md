@@ -3,9 +3,9 @@ title: "Section 30162 - Petitions by interested persons for standards and enforc
 usc_title: 49
 usc_section: "30162"
 chapter: 301
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 30162"
-generated_at: "2026-11-23T21:04:11.953Z"
+generated_at: "2026-11-23T21:06:11.352Z"
 status: "active"
 ---
 

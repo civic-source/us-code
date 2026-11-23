@@ -3,9 +3,9 @@ title: "Section 8831 - National Institute of Standards and Technology activities
 usc_title: 15
 usc_section: "8831"
 chapter: 114
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 8831"
-generated_at: "2026-11-23T21:03:07.160Z"
+generated_at: "2026-11-23T21:05:10.126Z"
 status: "active"
 ---
 

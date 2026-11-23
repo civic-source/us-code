@@ -3,9 +3,9 @@ title: "Section 1589d - Undisposed housing"
 usc_title: 42
 usc_section: "1589d"
 chapter: 9
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 1589d"
-generated_at: "2026-11-23T21:04:03.380Z"
+generated_at: "2026-11-23T21:06:02.886Z"
 status: "active"
 ---
 

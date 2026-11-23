@@ -3,9 +3,9 @@ title: "Section 151 - Smithsonian Library"
 usc_title: 2
 usc_section: "151"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 151"
-generated_at: "2026-11-23T21:02:46.684Z"
+generated_at: "2026-11-23T21:04:48.966Z"
 status: "active"
 ---
 

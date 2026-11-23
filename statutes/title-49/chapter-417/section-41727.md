@@ -3,9 +3,9 @@ title: "Section 41727 - Passenger Rights 1 1 So in original. Probably should not
 usc_title: 49
 usc_section: "41727"
 chapter: 417
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 41727"
-generated_at: "2026-11-23T21:04:12.130Z"
+generated_at: "2026-11-23T21:06:11.521Z"
 status: "active"
 ---
 

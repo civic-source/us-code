@@ -3,9 +3,9 @@ title: "Section 294 - Position standards and descriptions"
 usc_title: 2
 usc_section: "294"
 chapter: 10
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 294"
-generated_at: "2026-11-23T21:02:46.700Z"
+generated_at: "2026-11-23T21:04:48.989Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77kkk - Preferential collection of claims against obligor"
 usc_title: 15
 usc_section: "77kkk"
 chapter: 2
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 77kkk"
-generated_at: "2026-11-23T21:03:06.383Z"
+generated_at: "2026-11-23T21:05:09.591Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21906 - Training and educational programs"
 usc_title: 34
 usc_section: "21906"
 chapter: 219
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 21906"
-generated_at: "2026-11-23T21:03:41.384Z"
+generated_at: "2026-11-23T21:05:38.255Z"
 status: "active"
 ---
 

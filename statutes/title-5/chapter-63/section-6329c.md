@@ -3,9 +3,9 @@ title: "Section 6329c - Weather and safety leave"
 usc_title: 5
 usc_section: "6329c"
 chapter: 63
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 6329c"
-generated_at: "2026-11-23T21:02:48.670Z"
+generated_at: "2026-11-23T21:04:51.267Z"
 status: "active"
 ---
 

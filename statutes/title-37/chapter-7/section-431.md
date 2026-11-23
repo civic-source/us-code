@@ -3,9 +3,9 @@ title: "Section 431 - Benefits for certain members assigned to the Defense Intel
 usc_title: 37
 usc_section: "431"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "37 U.S.C. § 431"
-generated_at: "2026-11-23T21:03:46.381Z"
+generated_at: "2026-11-23T21:05:41.420Z"
 status: "active"
 ---
 

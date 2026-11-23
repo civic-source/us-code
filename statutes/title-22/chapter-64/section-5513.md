@@ -3,9 +3,9 @@ title: "Section 5513 - Proposal for consideration by International Civil Aviatio
 usc_title: 22
 usc_section: "5513"
 chapter: 64
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 5513"
-generated_at: "2026-11-23T21:03:27.842Z"
+generated_at: "2026-11-23T21:05:26.579Z"
 status: "active"
 ---
 

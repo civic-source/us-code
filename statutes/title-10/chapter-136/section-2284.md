@@ -3,9 +3,9 @@ title: "Section 2284 - Explosive Ordnance Disposal Defense Program"
 usc_title: 10
 usc_section: "2284"
 chapter: 136
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "10 U.S.C. § 2284"
-generated_at: "2026-11-23T21:03:00.817Z"
+generated_at: "2026-11-23T21:05:02.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9405 - Imposition of additional sanctions with respect to person
 usc_title: 22
 usc_section: "9405"
 chapter: 101
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 9405"
-generated_at: "2026-11-23T21:03:28.090Z"
+generated_at: "2026-11-23T21:05:26.712Z"
 status: "active"
 ---
 

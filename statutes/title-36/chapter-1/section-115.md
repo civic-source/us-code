@@ -3,9 +3,9 @@ title: "Section 115 - Loyalty Day"
 usc_title: 36
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "36 U.S.C. § 115"
-generated_at: "2026-11-23T21:03:45.629Z"
+generated_at: "2026-11-23T21:05:43.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 105 - Power of court"
 usc_title: 11
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "11 U.S.C. § 105"
-generated_at: "2026-11-23T21:03:03.871Z"
+generated_at: "2026-11-23T21:05:04.690Z"
 status: "active"
 ---
 

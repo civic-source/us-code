@@ -3,9 +3,9 @@ title: "Section 1266 - Omitted"
 usc_title: 22
 usc_section: "1266"
 chapter: 15
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 1266"
-generated_at: "2026-11-23T21:03:27.397Z"
+generated_at: "2026-11-23T21:05:26.268Z"
 status: "omitted"
 ---
 

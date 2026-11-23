@@ -3,9 +3,9 @@ title: "Section 113 - Limitations"
 usc_title: 40
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "40 U.S.C. § 113"
-generated_at: "2026-11-23T21:03:44.752Z"
+generated_at: "2026-11-23T21:05:41.997Z"
 status: "active"
 ---
 

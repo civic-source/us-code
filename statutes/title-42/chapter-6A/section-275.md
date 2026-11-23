@@ -3,9 +3,9 @@ title: "Section 275 - Repealed. Pub. L. 103–43, title I, § 121(a) , June 10, 
 usc_title: 42
 usc_section: "275"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 275"
-generated_at: "2026-11-23T21:04:01.999Z"
+generated_at: "2026-11-23T21:06:01.755Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2209 - Certain residents of possessions considered nonresidents 
 usc_title: 26
 usc_section: "2209"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 2209"
-generated_at: "2026-11-23T21:03:37.710Z"
+generated_at: "2026-11-23T21:05:34.749Z"
 status: "active"
 ---
 

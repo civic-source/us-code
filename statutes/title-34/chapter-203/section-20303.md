@@ -3,9 +3,9 @@ title: "Section 20303 - Regional children’s advocacy centers"
 usc_title: 34
 usc_section: "20303"
 chapter: 203
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 20303"
-generated_at: "2026-11-23T21:03:41.351Z"
+generated_at: "2026-11-23T21:05:38.224Z"
 status: "active"
 ---
 

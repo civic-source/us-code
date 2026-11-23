@@ -3,9 +3,9 @@ title: "Section 10224 - Support for greater United Nations action with respect t
 usc_title: 22
 usc_section: "10224"
 chapter: 109
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 10224"
-generated_at: "2026-11-23T21:03:28.137Z"
+generated_at: "2026-11-23T21:05:26.739Z"
 status: "active"
 ---
 

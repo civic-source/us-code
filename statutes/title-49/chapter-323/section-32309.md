@@ -3,9 +3,9 @@ title: "Section 32309 - Civil penalty for labeling violations"
 usc_title: 49
 usc_section: "32309"
 chapter: 323
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 32309"
-generated_at: "2026-11-23T21:04:12.023Z"
+generated_at: "2026-11-23T21:06:11.418Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 317 - Special Advisor to Commandant for Tribal and Native Hawaii
 usc_title: 14
 usc_section: "317"
 chapter: 3
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "14 U.S.C. § 317"
-generated_at: "2026-11-23T21:03:03.433Z"
+generated_at: "2026-11-23T21:05:04.221Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 563f - Diversified security technology industry marketplace"
 usc_title: 6
 usc_section: "563f"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "6 U.S.C. § 563f"
-generated_at: "2026-11-23T21:02:51.453Z"
+generated_at: "2026-11-23T21:04:53.513Z"
 status: "active"
 ---
 

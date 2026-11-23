@@ -3,9 +3,9 @@ title: "Section 2075 - Appropriations authorization"
 usc_title: 19
 usc_section: "2075"
 chapter: 10
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "19 U.S.C. § 2075"
-generated_at: "2026-11-23T21:03:14.389Z"
+generated_at: "2026-11-23T21:05:13.052Z"
 status: "active"
 ---
 

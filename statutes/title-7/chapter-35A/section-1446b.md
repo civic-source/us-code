@@ -3,9 +3,9 @@ title: "Section 1446b - Policy with regard to dairy products"
 usc_title: 7
 usc_section: "1446b"
 chapter: 35
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 1446b"
-generated_at: "2026-11-23T21:02:54.561Z"
+generated_at: "2026-11-23T21:04:57.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5422 - State enforcement"
 usc_title: 42
 usc_section: "5422"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 5422"
-generated_at: "2026-11-23T21:04:03.793Z"
+generated_at: "2026-11-23T21:06:03.282Z"
 status: "active"
 ---
 

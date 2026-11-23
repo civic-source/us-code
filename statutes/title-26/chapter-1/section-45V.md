@@ -3,9 +3,9 @@ title: "Section 45V - Credit for production of clean hydrogen"
 usc_title: 26
 usc_section: "45V"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 45V"
-generated_at: "2026-11-23T21:03:37.193Z"
+generated_at: "2026-11-23T21:05:34.270Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1924 - Conduct"
 usc_title: 14
 usc_section: "1924"
 chapter: 19
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "14 U.S.C. § 1924"
-generated_at: "2026-11-23T21:03:03.465Z"
+generated_at: "2026-11-23T21:05:04.247Z"
 status: "active"
 ---
 

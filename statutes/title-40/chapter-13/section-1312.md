@@ -3,9 +3,9 @@ title: "Section 1312 - Release of real estate in certain cases"
 usc_title: 40
 usc_section: "1312"
 chapter: 13
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "40 U.S.C. § 1312"
-generated_at: "2026-11-23T21:03:44.814Z"
+generated_at: "2026-11-23T21:05:42.096Z"
 status: "active"
 ---
 

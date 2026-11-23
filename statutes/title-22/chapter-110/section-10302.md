@@ -3,9 +3,9 @@ title: "Section 10302 - International cyberspace and digital policy strategy"
 usc_title: 22
 usc_section: "10302"
 chapter: 110
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 10302"
-generated_at: "2026-11-23T21:03:28.139Z"
+generated_at: "2026-11-23T21:05:26.740Z"
 status: "active"
 ---
 

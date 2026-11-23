@@ -3,9 +3,9 @@ title: "Section 6311 - State plans"
 usc_title: 20
 usc_section: "6311"
 chapter: 70
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 6311"
-generated_at: "2026-11-23T21:03:17.069Z"
+generated_at: "2026-11-23T21:05:16.460Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4302 - Property rights"
 usc_title: 20
 usc_section: "4302"
 chapter: 55
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 4302"
-generated_at: "2026-11-23T21:03:17.046Z"
+generated_at: "2026-11-23T21:05:16.415Z"
 status: "active"
 ---
 

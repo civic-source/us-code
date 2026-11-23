@@ -3,9 +3,9 @@ title: "Section 7443 - Membership"
 usc_title: 26
 usc_section: "7443"
 chapter: 76
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 7443"
-generated_at: "2026-11-23T21:03:37.988Z"
+generated_at: "2026-11-23T21:05:35.022Z"
 status: "active"
 ---
 

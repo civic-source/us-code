@@ -3,9 +3,9 @@ title: "Section 657 - Arbitration award and judgment"
 usc_title: 28
 usc_section: "657"
 chapter: 44
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "28 U.S.C. § 657"
-generated_at: "2026-11-23T21:03:30.402Z"
+generated_at: "2026-11-23T21:05:30.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2422 - Repealed. Pub. L. 102–88, title VI, § 601 , Aug. 14, 1
 usc_title: 22
 usc_section: "2422"
 chapter: 32
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2422"
-generated_at: "2026-11-23T21:03:27.539Z"
+generated_at: "2026-11-23T21:05:26.399Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30525 - Apportionment of losses"
 usc_title: 46
 usc_section: "30525"
 chapter: 305
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "46 U.S.C. § 30525"
-generated_at: "2026-11-23T21:04:07.637Z"
+generated_at: "2026-11-23T21:06:07.759Z"
 status: "active"
 ---
 

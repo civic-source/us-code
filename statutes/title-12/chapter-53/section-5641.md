@@ -3,9 +3,9 @@ title: "Section 5641 - Enhanced compensation structure reporting"
 usc_title: 12
 usc_section: "5641"
 chapter: 53
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "12 U.S.C. § 5641"
-generated_at: "2026-11-23T21:03:09.699Z"
+generated_at: "2026-11-23T21:05:07.237Z"
 status: "active"
 ---
 

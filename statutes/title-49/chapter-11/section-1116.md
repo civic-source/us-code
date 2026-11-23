@@ -3,9 +3,9 @@ title: "Section 1116 - Reports, studies, and retrospective reviews"
 usc_title: 49
 usc_section: "1116"
 chapter: 11
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "49 U.S.C. § 1116"
-generated_at: "2026-11-23T21:04:11.670Z"
+generated_at: "2026-11-23T21:06:11.061Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11317 - Significant deviations"
 usc_title: 40
 usc_section: "11317"
 chapter: 113
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "40 U.S.C. § 11317"
-generated_at: "2026-11-23T21:03:44.895Z"
+generated_at: "2026-11-23T21:05:42.220Z"
 status: "active"
 ---
 

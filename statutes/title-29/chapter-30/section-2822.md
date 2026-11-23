@@ -3,9 +3,9 @@ title: "Section 2822 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2822"
 chapter: 30
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "29 U.S.C. § 2822"
-generated_at: "2026-11-23T21:03:32.281Z"
+generated_at: "2026-11-23T21:05:28.976Z"
 status: "repealed"
 ---
 

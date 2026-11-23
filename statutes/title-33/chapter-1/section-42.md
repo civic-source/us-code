@@ -3,9 +3,9 @@ title: "Section 42 - Platte River, Missouri"
 usc_title: 33
 usc_section: "42"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 42"
-generated_at: "2026-11-23T21:03:42.314Z"
+generated_at: "2026-11-23T21:05:39.200Z"
 status: "active"
 ---
 

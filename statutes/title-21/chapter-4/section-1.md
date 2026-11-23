@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 107–171, title X, § 10418(a)(8) , (9), 
 usc_title: 21
 usc_section: "1"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "21 U.S.C. § 1"
-generated_at: "2026-11-23T21:03:24.294Z"
+generated_at: "2026-11-23T21:05:22.551Z"
 status: "repealed"
 ---
 

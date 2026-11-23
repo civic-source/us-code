@@ -3,9 +3,9 @@ title: "Section 3992 - Programs authorized"
 usc_title: 20
 usc_section: "3992"
 chapter: 52
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "20 U.S.C. § 3992"
-generated_at: "2026-11-23T21:03:17.042Z"
+generated_at: "2026-11-23T21:05:16.409Z"
 status: "active"
 ---
 

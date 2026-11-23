@@ -3,9 +3,9 @@ title: "Section 3334r - Designation of a chief technology officer within certain
 usc_title: 50
 usc_section: "3334r"
 chapter: 45
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 3334r"
-generated_at: "2026-11-23T21:04:09.545Z"
+generated_at: "2026-11-23T21:06:09.034Z"
 status: "active"
 ---
 

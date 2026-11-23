@@ -3,9 +3,9 @@ title: "Section 1503 - License for ownership, construction, and operation of dee
 usc_title: 33
 usc_section: "1503"
 chapter: 29
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 1503"
-generated_at: "2026-11-23T21:03:42.517Z"
+generated_at: "2026-11-23T21:05:39.446Z"
 status: "active"
 ---
 

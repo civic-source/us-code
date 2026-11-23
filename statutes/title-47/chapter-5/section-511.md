@@ -3,9 +3,9 @@ title: "Section 511 - Enhanced penalties for pirate radio broadcasting; enforcem
 usc_title: 47
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "47 U.S.C. § 511"
-generated_at: "2026-11-23T21:04:08.192Z"
+generated_at: "2026-11-23T21:06:06.213Z"
 status: "active"
 ---
 

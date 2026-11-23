@@ -3,9 +3,9 @@ title: "Section 812 - Public-service licensee; regulations by State or by commis
 usc_title: 16
 usc_section: "812"
 chapter: 12
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "16 U.S.C. § 812"
-generated_at: "2026-11-23T21:03:19.803Z"
+generated_at: "2026-11-23T21:05:19.176Z"
 status: "active"
 ---
 

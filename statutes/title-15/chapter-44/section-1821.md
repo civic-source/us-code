@@ -3,9 +3,9 @@ title: "Section 1821 - Definitions"
 usc_title: 15
 usc_section: "1821"
 chapter: 44
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "15 U.S.C. § 1821"
-generated_at: "2026-11-23T21:03:06.906Z"
+generated_at: "2026-11-23T21:05:09.928Z"
 status: "active"
 ---
 

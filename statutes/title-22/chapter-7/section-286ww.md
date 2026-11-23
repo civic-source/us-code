@@ -3,9 +3,9 @@ title: "Section 286ww - Acceptance of amendments to Articles of Agreement of Fun
 usc_title: 22
 usc_section: "286ww"
 chapter: 7
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 286ww"
-generated_at: "2026-11-23T21:03:27.349Z"
+generated_at: "2026-11-23T21:05:26.232Z"
 status: "active"
 ---
 

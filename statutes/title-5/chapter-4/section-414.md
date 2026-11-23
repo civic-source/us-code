@@ -3,9 +3,9 @@ title: "Section 414 - Special provisions concerning the Corporation for National
 usc_title: 5
 usc_section: "414"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 414"
-generated_at: "2026-11-23T21:02:48.469Z"
+generated_at: "2026-11-23T21:04:50.942Z"
 status: "active"
 ---
 

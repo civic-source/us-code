@@ -3,9 +3,9 @@ title: "Section 297n - Loan repayment and scholarship programs"
 usc_title: 42
 usc_section: "297n"
 chapter: 6
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 297n"
-generated_at: "2026-11-23T21:04:02.233Z"
+generated_at: "2026-11-23T21:06:01.955Z"
 status: "active"
 ---
 

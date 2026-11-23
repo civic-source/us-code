@@ -3,9 +3,9 @@ title: "Section 302 - Distributions in redemption of stock"
 usc_title: 26
 usc_section: "302"
 chapter: 1
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "26 U.S.C. § 302"
-generated_at: "2026-11-23T21:03:37.378Z"
+generated_at: "2026-11-23T21:05:34.414Z"
 status: "active"
 ---
 

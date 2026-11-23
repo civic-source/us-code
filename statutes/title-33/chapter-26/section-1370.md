@@ -3,9 +3,9 @@ title: "Section 1370 - State authority"
 usc_title: 33
 usc_section: "1370"
 chapter: 26
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "33 U.S.C. § 1370"
-generated_at: "2026-11-23T21:03:42.499Z"
+generated_at: "2026-11-23T21:05:39.427Z"
 status: "active"
 ---
 

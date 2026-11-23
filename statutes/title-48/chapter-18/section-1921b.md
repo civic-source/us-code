@@ -3,9 +3,9 @@ title: "Section 1921b - Agreements with and other provisions related to the Repu
 usc_title: 48
 usc_section: "1921b"
 chapter: 18
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "48 U.S.C. § 1921b"
-generated_at: "2026-11-23T21:04:06.841Z"
+generated_at: "2026-11-23T21:06:06.654Z"
 status: "active"
 ---
 

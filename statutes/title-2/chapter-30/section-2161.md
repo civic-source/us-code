@@ -3,9 +3,9 @@ title: "Section 2161 - Transferred"
 usc_title: 2
 usc_section: "2161"
 chapter: 30
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "2 U.S.C. § 2161"
-generated_at: "2026-11-23T21:02:46.799Z"
+generated_at: "2026-11-23T21:04:49.102Z"
 status: "transferred"
 ---
 

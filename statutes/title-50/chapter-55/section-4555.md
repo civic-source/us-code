@@ -3,9 +3,9 @@ title: "Section 4555 - Investigations; records; reports; subpoenas; right to cou
 usc_title: 50
 usc_section: "4555"
 chapter: 55
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "50 U.S.C. § 4555"
-generated_at: "2026-11-23T21:04:09.646Z"
+generated_at: "2026-11-23T21:06:09.100Z"
 status: "active"
 ---
 

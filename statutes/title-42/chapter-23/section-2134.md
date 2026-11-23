@@ -3,9 +3,9 @@ title: "Section 2134 - Medical, industrial, and commercial licenses"
 usc_title: 42
 usc_section: "2134"
 chapter: 23
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "42 U.S.C. § 2134"
-generated_at: "2026-11-23T21:04:03.493Z"
+generated_at: "2026-11-23T21:06:03.017Z"
 status: "active"
 ---
 

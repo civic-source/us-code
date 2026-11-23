@@ -3,9 +3,9 @@ title: "Section 6912 - Authority of Secretary to delegate transferred functions"
 usc_title: 7
 usc_section: "6912"
 chapter: 98
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 6912"
-generated_at: "2026-11-23T21:02:54.967Z"
+generated_at: "2026-11-23T21:04:57.503Z"
 status: "active"
 ---
 

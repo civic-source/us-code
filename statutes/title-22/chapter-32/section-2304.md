@@ -3,9 +3,9 @@ title: "Section 2304 - Human rights and security assistance"
 usc_title: 22
 usc_section: "2304"
 chapter: 32
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "22 U.S.C. § 2304"
-generated_at: "2026-11-23T21:03:27.489Z"
+generated_at: "2026-11-23T21:05:26.358Z"
 status: "active"
 ---
 

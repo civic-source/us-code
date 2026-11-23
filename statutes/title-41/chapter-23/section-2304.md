@@ -3,9 +3,9 @@ title: "Section 2304 - Conflict of interest standards for consultants"
 usc_title: 41
 usc_section: "2304"
 chapter: 23
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "41 U.S.C. § 2304"
-generated_at: "2026-11-23T21:03:50.936Z"
+generated_at: "2026-11-23T21:05:48.207Z"
 status: "active"
 ---
 

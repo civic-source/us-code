@@ -3,9 +3,9 @@ title: "Section 1712 - Land use plans"
 usc_title: 43
 usc_section: "1712"
 chapter: 35
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "43 U.S.C. § 1712"
-generated_at: "2026-11-23T21:03:51.918Z"
+generated_at: "2026-11-23T21:05:49.632Z"
 status: "active"
 ---
 

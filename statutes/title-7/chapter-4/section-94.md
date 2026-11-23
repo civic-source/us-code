@@ -3,9 +3,9 @@ title: "Section 94 - Supplying duplicates of standards; examination, etc., of na
 usc_title: 7
 usc_section: "94"
 chapter: 4
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "7 U.S.C. § 94"
-generated_at: "2026-11-23T21:02:54.329Z"
+generated_at: "2026-11-23T21:04:57.048Z"
 status: "active"
 ---
 

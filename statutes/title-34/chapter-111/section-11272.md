@@ -3,9 +3,9 @@ title: "Section 11272 - Lease of surplus Federal facilities for use as runaway a
 usc_title: 34
 usc_section: "11272"
 chapter: 111
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "34 U.S.C. § 11272"
-generated_at: "2026-11-23T21:03:41.297Z"
+generated_at: "2026-11-23T21:05:38.156Z"
 status: "active"
 ---
 

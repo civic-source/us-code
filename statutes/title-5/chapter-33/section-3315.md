@@ -3,9 +3,9 @@ title: "Section 3315 - Registers; preference eligibles furloughed or separated"
 usc_title: 5
 usc_section: "3315"
 chapter: 33
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "5 U.S.C. § 3315"
-generated_at: "2026-11-23T21:02:48.544Z"
+generated_at: "2026-11-23T21:04:51.050Z"
 status: "active"
 ---
 

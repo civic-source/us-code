@@ -3,9 +3,9 @@ title: "Section 20101 - Congressional declaration of purpose"
 usc_title: 52
 usc_section: "20101"
 chapter: 201
-current_through: "PL 119-110"
+current_through: "PL 119-111"
 classification: "52 U.S.C. § 20101"
-generated_at: "2026-11-23T21:04:14.506Z"
+generated_at: "2026-11-23T21:06:13.818Z"
 status: "active"
 ---
 
