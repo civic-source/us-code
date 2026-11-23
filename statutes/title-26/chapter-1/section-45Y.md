@@ -3,9 +3,9 @@ title: "Section 45Y - Clean electricity production credit"
 usc_title: 26
 usc_section: "45Y"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 45Y"
-generated_at: "2026-11-23T21:23:28.652Z"
+generated_at: "2026-11-23T21:26:05.943Z"
 status: "active"
 ---
 
@@ -116,7 +116,7 @@ status: "active"
   - **(11)**
     - **(A)** In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined (as determined without application of paragraph (7)).
     - **(B)**
-      - **(i)** The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 661 of title 49 , Code of Federal Regulations).
+      - **(i)** The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 2 2 So in original. Probably should be “part”. 661 of title 49, Code of Federal Regulations).
       - **(ii)** In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
       - **(iii)** For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
     - **(C)**

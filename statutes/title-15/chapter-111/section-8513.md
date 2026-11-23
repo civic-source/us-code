@@ -3,9 +3,9 @@ title: "Section 8513 - Tornado warning improvement and extension program"
 usc_title: 15
 usc_section: "8513"
 chapter: 111
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8513"
-generated_at: "2026-11-23T21:22:58.513Z"
+generated_at: "2026-11-23T21:25:40.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4089 - Portability of professional licenses"
 usc_title: 22
 usc_section: "4089"
 chapter: 52
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4089"
-generated_at: "2026-11-23T21:23:19.405Z"
+generated_at: "2026-11-23T21:25:58.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1216 - Secretaries: powers, functions, and duties"
 usc_title: 10
 usc_section: "1216"
 chapter: 61
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1216"
-generated_at: "2026-11-23T21:22:51.395Z"
+generated_at: "2026-11-23T21:25:32.453Z"
 status: "active"
 ---
 

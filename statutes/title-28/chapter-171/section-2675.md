@@ -3,9 +3,9 @@ title: "Section 2675 - Disposition by federal agency as prerequisite; evidence"
 usc_title: 28
 usc_section: "2675"
 chapter: 171
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2675"
-generated_at: "2026-11-23T21:23:22.498Z"
+generated_at: "2026-11-23T21:26:01.139Z"
 status: "active"
 ---
 

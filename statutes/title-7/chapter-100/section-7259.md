@@ -3,9 +3,9 @@ title: "Section 7259 - Study and report regarding potential impact of Uruguay Ro
 usc_title: 7
 usc_section: "7259"
 chapter: 100
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7259"
-generated_at: "2026-11-23T21:22:46.356Z"
+generated_at: "2026-11-23T21:25:28.420Z"
 status: "active"
 ---
 

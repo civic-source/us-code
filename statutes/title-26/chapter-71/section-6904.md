@@ -3,9 +3,9 @@ title: "Section 6904 - Prohibition of injunctions"
 usc_title: 26
 usc_section: "6904"
 chapter: 71
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6904"
-generated_at: "2026-11-23T21:23:29.665Z"
+generated_at: "2026-11-23T21:26:06.939Z"
 status: "active"
 ---
 

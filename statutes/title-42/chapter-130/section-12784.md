@@ -3,9 +3,9 @@ title: "Section 12784 - Research in housing affordability"
 usc_title: 42
 usc_section: "12784"
 chapter: 130
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12784"
-generated_at: "2026-11-23T21:23:56.184Z"
+generated_at: "2026-11-23T21:26:33.554Z"
 status: "active"
 ---
 

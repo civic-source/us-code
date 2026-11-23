@@ -3,9 +3,9 @@ title: "Section 5054 - Determination and collection of tax on beer"
 usc_title: 26
 usc_section: "5054"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5054"
-generated_at: "2026-11-23T21:23:29.477Z"
+generated_at: "2026-11-23T21:26:06.695Z"
 status: "active"
 ---
 

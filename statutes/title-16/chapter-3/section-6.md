@@ -3,9 +3,9 @@ title: "Section 6 - United States release from liability"
 usc_title: 16
 usc_section: "6"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-11-23T21:23:11.284Z"
+generated_at: "2026-11-23T21:25:51.684Z"
 status: "active"
 ---
 

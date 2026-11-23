@@ -3,9 +3,9 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-11-23T21:23:29.142Z"
+generated_at: "2026-11-23T21:26:06.382Z"
 status: "active"
 ---
 
@@ -79,7 +79,7 @@ status: "active"
       - **(iii)** such foreign country is not contiguous to the United States.
   - **(4)** For purposes of this part—
     - **(A)** In the case of a life insurance contract issued before January 1, 1989 , under an existing plan of insurance, the life insurance reserve for any benefit to which this paragraph applies shall be computed separately under subsection (d)(1) from any other reserve under the contract.
-    - **(B)** This paragraph applies to any term insurance or annuity benefit with respect to which the requirements of clauses (i) and (ii) of paragraph (3)(C) are met.
+    - **(B)** This paragraph applies to any term insurance or annuity benefit with respect to which the requirements of clauses (i) and (ii) of paragraph (3)(C) 1 1 See References in Text note below. are met.
     - **(C)** For purposes of this paragraph, the term “existing plan of insurance” means, with respect to any contract, any plan of insurance which was filed by the company using such contract in one or more States before January 1, 1984 , and is on file in the appropriate State for such contract.
   - **(5)**
     - **(A)** The amount taken into account for purposes of subsections (a) and (b) as—

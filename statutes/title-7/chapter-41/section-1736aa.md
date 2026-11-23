@@ -3,9 +3,9 @@ title: "Section 1736aa - Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov
 usc_title: 7
 usc_section: "1736aa"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1736aa"
-generated_at: "2026-11-23T21:22:46.085Z"
+generated_at: "2026-11-23T21:25:28.174Z"
 status: "repealed"
 ---
 

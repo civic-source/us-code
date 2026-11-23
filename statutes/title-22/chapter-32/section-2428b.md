@@ -3,9 +3,9 @@ title: "Section 2428b - Special security assistance for modernization of Armed F
 usc_title: 22
 usc_section: "2428b"
 chapter: 32
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2428b"
-generated_at: "2026-11-23T21:23:19.232Z"
+generated_at: "2026-11-23T21:25:58.493Z"
 status: "active"
 ---
 

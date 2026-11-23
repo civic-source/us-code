@@ -3,9 +3,9 @@ title: "Section 21303 - Chapter 211 violations"
 usc_title: 49
 usc_section: "21303"
 chapter: 213
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 21303"
-generated_at: "2026-11-23T21:24:10.997Z"
+generated_at: "2026-11-23T21:26:40.719Z"
 status: "active"
 ---
 

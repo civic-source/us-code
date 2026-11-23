@@ -3,9 +3,9 @@ title: "Section 6544 - Report on privatization of RFE/RL, Incorporated"
 usc_title: 22
 usc_section: "6544"
 chapter: 74
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6544"
-generated_at: "2026-11-23T21:23:19.478Z"
+generated_at: "2026-11-23T21:25:58.692Z"
 status: "active"
 ---
 

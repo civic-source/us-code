@@ -3,9 +3,9 @@ title: "Section 1002 - Lands subject to geothermal leasing"
 usc_title: 30
 usc_section: "1002"
 chapter: 23
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1002"
-generated_at: "2026-11-23T21:23:21.580Z"
+generated_at: "2026-11-23T21:26:00.411Z"
 status: "active"
 ---
 

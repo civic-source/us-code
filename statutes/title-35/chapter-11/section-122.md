@@ -3,9 +3,9 @@ title: "Section 122 - Confidential status of applications; publication of patent
 usc_title: 35
 usc_section: "122"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 122"
-generated_at: "2026-11-23T21:23:31.533Z"
+generated_at: "2026-11-23T21:26:08.607Z"
 status: "active"
 ---
 

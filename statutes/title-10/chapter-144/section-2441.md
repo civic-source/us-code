@@ -3,9 +3,9 @@ title: "Section 2441 - Renumbered § 4323]"
 usc_title: 10
 usc_section: "2441"
 chapter: 144
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2441"
-generated_at: "2026-11-23T21:22:51.629Z"
+generated_at: "2026-11-23T21:25:32.611Z"
 status: "renumbered"
 ---
 

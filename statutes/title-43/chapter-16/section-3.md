@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 
 usc_title: 43
 usc_section: "3"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-11-23T21:23:42.677Z"
+generated_at: "2026-11-23T21:26:19.806Z"
 status: "repealed"
 ---
 

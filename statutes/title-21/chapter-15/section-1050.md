@@ -3,9 +3,9 @@ title: "Section 1050 - Jurisdiction of district courts; United States as plainti
 usc_title: 21
 usc_section: "1050"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1050"
-generated_at: "2026-11-23T21:23:16.646Z"
+generated_at: "2026-11-23T21:25:56.271Z"
 status: "active"
 ---
 

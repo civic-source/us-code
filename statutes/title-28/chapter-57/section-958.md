@@ -3,9 +3,9 @@ title: "Section 958 - Persons ineligible as receivers"
 usc_title: 28
 usc_section: "958"
 chapter: 57
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 958"
-generated_at: "2026-11-23T21:23:22.429Z"
+generated_at: "2026-11-23T21:26:01.078Z"
 status: "active"
 ---
 

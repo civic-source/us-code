@@ -3,9 +3,9 @@ title: "Section 3338 - Roster of State, certified, licensed, and credentialed tr
 usc_title: 12
 usc_section: "3338"
 chapter: 34
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3338"
-generated_at: "2026-11-23T21:23:01.105Z"
+generated_at: "2026-11-23T21:25:37.131Z"
 status: "active"
 ---
 

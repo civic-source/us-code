@@ -3,9 +3,9 @@ title: "Section 3377 - Inapplicability to Coast Guard and National Aeronautics a
 usc_title: 10
 usc_section: "3377"
 chapter: 244
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3377"
-generated_at: "2026-11-23T21:22:51.814Z"
+generated_at: "2026-11-23T21:25:32.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3201 - Authority to grant duty-free treatment"
 usc_title: 19
 usc_section: "3201"
 chapter: 20
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3201"
-generated_at: "2026-11-23T21:23:05.679Z"
+generated_at: "2026-11-23T21:25:42.835Z"
 status: "active"
 ---
 

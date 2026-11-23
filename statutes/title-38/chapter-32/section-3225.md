@@ -3,9 +3,9 @@ title: "Section 3225 - Discharge or release under conditions which would bar the
 usc_title: 38
 usc_section: "3225"
 chapter: 32
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3225"
-generated_at: "2026-11-23T21:23:40.487Z"
+generated_at: "2026-11-23T21:26:16.732Z"
 status: "active"
 ---
 

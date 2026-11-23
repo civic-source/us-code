@@ -3,9 +3,9 @@ title: "Section 14921 - Accreditation or approval required in order to provide a
 usc_title: 42
 usc_section: "14921"
 chapter: 143
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14921"
-generated_at: "2026-11-23T21:23:56.260Z"
+generated_at: "2026-11-23T21:26:33.644Z"
 status: "active"
 ---
 

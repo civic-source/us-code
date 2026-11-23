@@ -3,9 +3,9 @@ title: "Section 1517 - Obstructing examination of financial institution"
 usc_title: 18
 usc_section: "1517"
 chapter: 73
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1517"
-generated_at: "2026-11-23T21:23:04.093Z"
+generated_at: "2026-11-23T21:25:44.075Z"
 status: "active"
 ---
 

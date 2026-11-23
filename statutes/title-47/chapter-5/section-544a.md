@@ -3,9 +3,9 @@ title: "Section 544a - Consumer electronics equipment compatibility"
 usc_title: 47
 usc_section: "544a"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 544a"
-generated_at: "2026-11-23T21:24:00.032Z"
+generated_at: "2026-11-23T21:26:36.037Z"
 status: "active"
 ---
 

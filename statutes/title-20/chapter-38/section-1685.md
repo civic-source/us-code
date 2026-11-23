@@ -3,9 +3,9 @@ title: "Section 1685 - Authority under other laws unaffected"
 usc_title: 20
 usc_section: "1685"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1685"
-generated_at: "2026-11-23T21:23:07.927Z"
+generated_at: "2026-11-23T21:25:47.354Z"
 status: "active"
 ---
 

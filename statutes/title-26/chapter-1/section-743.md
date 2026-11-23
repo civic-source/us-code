@@ -3,9 +3,9 @@ title: "Section 743 - Special rules where section 754 election or substantial bu
 usc_title: 26
 usc_section: "743"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 743"
-generated_at: "2026-11-23T21:23:29.134Z"
+generated_at: "2026-11-23T21:26:06.378Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(B)** the transferee partner would be allocated a loss of more than $250,000 if the partnership assets were sold for cash equal to their fair market value immediately after such transfer.
   - **(2)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of paragraph (1) and section 734(d), including regulations aggregating related partnerships and disregarding property acquired by the partnership in an attempt to avoid such purposes.
 - **(e)**
-  - **(1)** For purposes of this section, an electing investment partnership shall not be treated as having a substantial built-in loss with respect to any transfer occurring while the election under paragraph (6)(A) is in effect.
+  - **(1)** For purposes of this section, an electing investment partnership shall not be treated as having a substantial built-in loss with respect to any transfer occurring while the election under paragraph (6)(A) 1 1 See References in Text note below. is in effect.
   - **(2)** In the case of a transfer of an interest in an electing investment partnership, the transferee partner’s distributive share of losses (without regard to gains) from the sale or exchange of partnership property shall not be allowed except to the extent that it is established that such losses exceed the loss (if any) recognized by the transferor (or any prior transferor to the extent not fully offset by a prior disallowance under this paragraph) on the transfer of the partnership interest.
   - **(3)** Losses disallowed under paragraph (2) shall not decrease the transferee partner’s basis in the partnership interest.
   - **(4)** In the case of a transferee partner whose basis in property distributed by the partnership is reduced under section 732(a)(2), the amount of the loss recognized by the transferor on the transfer of the partnership interest which is taken into account under paragraph (2) shall be reduced by the amount of such basis reduction.

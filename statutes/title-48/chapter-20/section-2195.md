@@ -3,9 +3,9 @@ title: "Section 2195 - Protection from inter-debtor transfers"
 usc_title: 48
 usc_section: "2195"
 chapter: 20
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2195"
-generated_at: "2026-11-23T21:24:01.116Z"
+generated_at: "2026-11-23T21:26:38.143Z"
 status: "active"
 ---
 

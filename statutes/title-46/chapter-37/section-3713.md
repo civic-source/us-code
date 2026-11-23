@@ -3,9 +3,9 @@ title: "Section 3713 - Prohibited acts"
 usc_title: 46
 usc_section: "3713"
 chapter: 37
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3713"
-generated_at: "2026-11-23T21:24:03.073Z"
+generated_at: "2026-11-23T21:26:37.058Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 836 - Art. 36. President may prescribe rules"
 usc_title: 10
 usc_section: "836"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 836"
-generated_at: "2026-11-23T21:22:51.213Z"
+generated_at: "2026-11-23T21:25:32.333Z"
 status: "active"
 ---
 

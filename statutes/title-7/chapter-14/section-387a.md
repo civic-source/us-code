@@ -3,9 +3,9 @@ title: "Section 387a - Authorization of appropriations"
 usc_title: 7
 usc_section: "387a"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 387a"
-generated_at: "2026-11-23T21:22:45.854Z"
+generated_at: "2026-11-23T21:25:27.953Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6311 - Research and development grants"
 usc_title: 49
 usc_section: "6311"
 chapter: 63
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6311"
-generated_at: "2026-11-23T21:24:10.844Z"
+generated_at: "2026-11-23T21:26:40.669Z"
 status: "active"
 ---
 

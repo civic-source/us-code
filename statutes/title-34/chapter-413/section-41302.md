@@ -3,9 +3,9 @@ title: "Section 41302 - Acquisition of statistical data on child abuse"
 usc_title: 34
 usc_section: "41302"
 chapter: 413
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 41302"
-generated_at: "2026-11-23T21:23:33.666Z"
+generated_at: "2026-11-23T21:26:09.846Z"
 status: "active"
 ---
 

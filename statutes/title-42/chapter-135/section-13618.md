@@ -3,9 +3,9 @@ title: "Section 13618 - Treatment of other federally assisted housing"
 usc_title: 42
 usc_section: "13618"
 chapter: 135
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13618"
-generated_at: "2026-11-23T21:23:56.243Z"
+generated_at: "2026-11-23T21:26:33.622Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1218 - Annual report"
 usc_title: 5
 usc_section: "1218"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1218"
-generated_at: "2026-11-23T21:22:40.203Z"
+generated_at: "2026-11-23T21:25:23.111Z"
 status: "active"
 ---
 

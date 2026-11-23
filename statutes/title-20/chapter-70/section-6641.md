@@ -3,9 +3,9 @@ title: "Section 6641 - Purposes; definitions"
 usc_title: 20
 usc_section: "6641"
 chapter: 70
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6641"
-generated_at: "2026-11-23T21:23:08.056Z"
+generated_at: "2026-11-23T21:25:47.528Z"
 status: "active"
 ---
 

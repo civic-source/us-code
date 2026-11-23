@@ -3,9 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-11-23T21:23:28.578Z"
+generated_at: "2026-11-23T21:26:05.891Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
     - **(S)** sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),
     - **(T)** section 170( o )(3)(B) (relating to recapture of certain deductions for fractional gifts),
     - **(U)** section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses),
-    - **(V)** subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
+    - **(V)** subsections (a)(1)(B)(i) and (b)(4)(A) 1 1 See References in Text note below. of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
     - **(W)** section 36(f) (relating to recapture of homebuyer credit),
     - **(X)** section 457A(c)(1)(B) (relating to determinability of amounts of compensation),
     - **(Y)** section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses), and

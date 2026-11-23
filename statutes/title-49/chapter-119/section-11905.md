@@ -3,9 +3,9 @@ title: "Section 11905 - Disobedience to subpoenas"
 usc_title: 49
 usc_section: "11905"
 chapter: 119
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 11905"
-generated_at: "2026-11-23T21:24:10.859Z"
+generated_at: "2026-11-23T21:26:40.681Z"
 status: "active"
 ---
 

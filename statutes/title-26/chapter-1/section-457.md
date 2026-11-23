@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-11-23T21:23:29.032Z"
+generated_at: "2026-11-23T21:26:06.278Z"
 status: "active"
 ---
 
@@ -96,7 +96,7 @@ status: "active"
     - **(A)** This section shall not apply to nonelective deferred compensation attributable to services not performed as an employee.
     - **(B)** For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
   - **(13)** The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
-  - **(14)** Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+  - **(14)** Subsections (b)(2) and (c)(1) 1 1 See References in Text note below. shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
   - **(15)**
     - **(A)** The applicable dollar amount is $15,000.
     - **(B)** In the case of taxable years beginning after December 31, 2006 , the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005 , and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.

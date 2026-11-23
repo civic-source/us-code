@@ -3,9 +3,9 @@ title: "Section 2208 - Claims of constitutionally based privilege against disclo
 usc_title: 44
 usc_section: "2208"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2208"
-generated_at: "2026-11-23T21:23:43.693Z"
+generated_at: "2026-11-23T21:26:18.412Z"
 status: "active"
 ---
 

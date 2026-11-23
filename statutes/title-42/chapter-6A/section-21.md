@@ -3,9 +3,9 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-11-23T21:23:54.626Z"
+generated_at: "2026-11-23T21:26:30.960Z"
 status: "active"
 ---
 

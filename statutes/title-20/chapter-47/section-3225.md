@@ -3,9 +3,9 @@ title: "Section 3225 - Transferred"
 usc_title: 20
 usc_section: "3225"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3225"
-generated_at: "2026-11-23T21:23:07.966Z"
+generated_at: "2026-11-23T21:25:47.400Z"
 status: "transferred"
 ---
 

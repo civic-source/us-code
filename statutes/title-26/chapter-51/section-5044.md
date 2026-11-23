@@ -3,9 +3,9 @@ title: "Section 5044 - Refund of tax on wine"
 usc_title: 26
 usc_section: "5044"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5044"
-generated_at: "2026-11-23T21:23:29.476Z"
+generated_at: "2026-11-23T21:26:06.693Z"
 status: "active"
 ---
 

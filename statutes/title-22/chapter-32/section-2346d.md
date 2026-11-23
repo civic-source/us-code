@@ -3,9 +3,9 @@ title: "Section 2346d - People-to-People Partnership for Peace Fund"
 usc_title: 22
 usc_section: "2346d"
 chapter: 32
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2346d"
-generated_at: "2026-11-23T21:23:19.196Z"
+generated_at: "2026-11-23T21:25:58.469Z"
 status: "active"
 ---
 

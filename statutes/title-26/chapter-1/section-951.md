@@ -3,9 +3,9 @@ title: "Section 951 - Amounts included in gross income of United States sharehol
 usc_title: 26
 usc_section: "951"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 951"
-generated_at: "2026-11-23T21:23:29.198Z"
+generated_at: "2026-11-23T21:26:06.436Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(3)** Any amount required to be included in gross income by a United States shareholder under paragraph (1) with respect to a CFC year shall be included in gross income for the shareholder’s taxable year which includes the last day on which the shareholder owns (within the meaning of section 958(a)) stock in the controlled foreign corporation during such CFC year.
   - **(4)** The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance allowing taxpayers to elect, or requiring taxpayers, to close the taxable year of a controlled foreign corporation upon a direct or indirect disposition of stock of such corporation.
 - **(b)** For purposes of this title, the term “United States shareholder” means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
-- **(c)** If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
+- **(c)** If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) 1 1 See References in Text note below. and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A). 1
 
 In general
 

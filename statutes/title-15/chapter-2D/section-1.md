@@ -3,9 +3,9 @@ title: "Section 1 - Findings"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-11-23T21:22:57.751Z"
+generated_at: "2026-11-23T21:25:39.599Z"
 status: "active"
 ---
 

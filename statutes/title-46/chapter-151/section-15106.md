@@ -3,9 +3,9 @@ title: "Section 15106 - National Offshore Safety Advisory Committee"
 usc_title: 46
 usc_section: "15106"
 chapter: 151
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 15106"
-generated_at: "2026-11-23T21:24:03.192Z"
+generated_at: "2026-11-23T21:26:37.152Z"
 status: "active"
 ---
 

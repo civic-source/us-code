@@ -3,9 +3,9 @@ title: "Section 5841 - Registration of firearms"
 usc_title: 26
 usc_section: "5841"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5841"
-generated_at: "2026-11-23T21:23:29.509Z"
+generated_at: "2026-11-23T21:26:06.746Z"
 status: "active"
 ---
 

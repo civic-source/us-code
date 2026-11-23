@@ -3,9 +3,9 @@ title: "Section 1 - Designation of a foreign country as a State Sponsor of Unlaw
 usc_title: 22
 usc_section: "1"
 chapter: 23
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-11-23T21:23:19.102Z"
+generated_at: "2026-11-23T21:25:58.414Z"
 status: "active"
 ---
 

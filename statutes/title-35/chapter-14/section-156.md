@@ -3,9 +3,9 @@ title: "Section 156 - Extension of patent term"
 usc_title: 35
 usc_section: "156"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 156"
-generated_at: "2026-11-23T21:23:31.536Z"
+generated_at: "2026-11-23T21:26:08.612Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2030 - Repealed. Pub. L. 110–234, title IV, § 4115(b)(14) , M
 usc_title: 7
 usc_section: "2030"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2030"
-generated_at: "2026-11-23T21:22:46.175Z"
+generated_at: "2026-11-23T21:25:28.267Z"
 status: "repealed"
 ---
 

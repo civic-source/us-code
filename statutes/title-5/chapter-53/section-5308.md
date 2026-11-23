@@ -3,9 +3,9 @@ title: "Section 5308 - Omitted]"
 usc_title: 5
 usc_section: "5308"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5308"
-generated_at: "2026-11-23T21:22:40.284Z"
+generated_at: "2026-11-23T21:25:23.212Z"
 status: "omitted"
 ---
 

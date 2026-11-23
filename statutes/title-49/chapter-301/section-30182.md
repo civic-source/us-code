@@ -3,9 +3,9 @@ title: "Section 30182 - Powers and duties"
 usc_title: 49
 usc_section: "30182"
 chapter: 301
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30182"
-generated_at: "2026-11-23T21:24:11.098Z"
+generated_at: "2026-11-23T21:26:40.767Z"
 status: "active"
 ---
 

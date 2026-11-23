@@ -3,9 +3,9 @@ title: "Section 698w - Special management requirements for Federal lands recentl
 usc_title: 16
 usc_section: "698w"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 698w"
-generated_at: "2026-11-23T21:23:11.354Z"
+generated_at: "2026-11-23T21:25:51.730Z"
 status: "active"
 ---
 

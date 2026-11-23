@@ -3,9 +3,9 @@ title: "Section 5354 - Effect of detail or affiliation; travel expenses"
 usc_title: 5
 usc_section: "5354"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5354"
-generated_at: "2026-11-23T21:22:40.312Z"
+generated_at: "2026-11-23T21:25:23.250Z"
 status: "active"
 ---
 

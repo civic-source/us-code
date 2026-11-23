@@ -3,9 +3,9 @@ title: "Section 1445d - Special wheat acreage grazing and hay program for 1978 t
 usc_title: 7
 usc_section: "1445d"
 chapter: 35
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1445d"
-generated_at: "2026-11-23T21:22:45.983Z"
+generated_at: "2026-11-23T21:25:28.079Z"
 status: "active"
 ---
 

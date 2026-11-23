@@ -3,9 +3,9 @@ title: "Section 10710 - Reports on Russian and Chinese malign influence operatio
 usc_title: 22
 usc_section: "10710"
 chapter: 114
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10710"
-generated_at: "2026-11-23T21:23:19.672Z"
+generated_at: "2026-11-23T21:25:58.803Z"
 status: "active"
 ---
 

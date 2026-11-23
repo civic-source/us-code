@@ -3,9 +3,9 @@ title: "Section 5195 - Declaration of policy"
 usc_title: 42
 usc_section: "5195"
 chapter: 68
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5195"
-generated_at: "2026-11-23T21:23:55.468Z"
+generated_at: "2026-11-23T21:26:32.769Z"
 status: "active"
 ---
 

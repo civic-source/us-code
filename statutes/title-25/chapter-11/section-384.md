@@ -3,9 +3,9 @@ title: "Section 384 - Employment of superintendents of irrigation"
 usc_title: 25
 usc_section: "384"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 384"
-generated_at: "2026-11-23T21:23:14.544Z"
+generated_at: "2026-11-23T21:25:54.569Z"
 status: "active"
 ---
 

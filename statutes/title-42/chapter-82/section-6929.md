@@ -3,9 +3,9 @@ title: "Section 6929 - Retention of State authority"
 usc_title: 42
 usc_section: "6929"
 chapter: 82
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6929"
-generated_at: "2026-11-23T21:23:55.622Z"
+generated_at: "2026-11-23T21:26:33.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2399 - Study on programs of study aligned to high-skill, high-wa
 usc_title: 20
 usc_section: "2399"
 chapter: 44
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2399"
-generated_at: "2026-11-23T21:23:07.956Z"
+generated_at: "2026-11-23T21:25:47.390Z"
 status: "active"
 ---
 

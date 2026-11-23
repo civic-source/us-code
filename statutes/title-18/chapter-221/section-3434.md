@@ -3,9 +3,9 @@ title: "Section 3434 - Presence of defendant—(Rule)"
 usc_title: 18
 usc_section: "3434"
 chapter: 221
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3434"
-generated_at: "2026-11-23T21:23:04.205Z"
+generated_at: "2026-11-23T21:25:44.200Z"
 status: "active"
 ---
 

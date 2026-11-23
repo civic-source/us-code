@@ -3,9 +3,9 @@ title: "Section 920 - Continuation of service"
 usc_title: 45
 usc_section: "920"
 chapter: 18
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 920"
-generated_at: "2026-11-23T21:23:43.960Z"
+generated_at: "2026-11-23T21:26:19.235Z"
 status: "active"
 ---
 

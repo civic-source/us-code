@@ -3,9 +3,9 @@ title: "Section 3986 - Submission of applications"
 usc_title: 20
 usc_section: "3986"
 chapter: 52
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3986"
-generated_at: "2026-11-23T21:23:07.992Z"
+generated_at: "2026-11-23T21:25:47.427Z"
 status: "active"
 ---
 

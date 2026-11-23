@@ -3,9 +3,9 @@ title: "Section 417 - Repealed. Pub. L. 104–186, title II, § 212(1)(A) , (2),
 usc_title: 2
 usc_section: "417"
 chapter: 13
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 417"
-generated_at: "2026-11-23T21:22:37.955Z"
+generated_at: "2026-11-23T21:25:21.162Z"
 status: "repealed"
 ---
 

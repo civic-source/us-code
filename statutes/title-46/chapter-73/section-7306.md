@@ -3,9 +3,9 @@ title: "Section 7306 - General requirements and classifications for members of d
 usc_title: 46
 usc_section: "7306"
 chapter: 73
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7306"
-generated_at: "2026-11-23T21:24:03.118Z"
+generated_at: "2026-11-23T21:26:37.080Z"
 status: "active"
 ---
 

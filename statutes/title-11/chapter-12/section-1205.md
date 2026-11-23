@@ -3,9 +3,9 @@ title: "Section 1205 - Adequate protection"
 usc_title: 11
 usc_section: "1205"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1205"
-generated_at: "2026-11-23T21:22:54.034Z"
+generated_at: "2026-11-23T21:25:34.964Z"
 status: "active"
 ---
 

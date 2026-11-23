@@ -3,9 +3,9 @@ title: "Section 10502 - Shipping articles agreements"
 usc_title: 46
 usc_section: "10502"
 chapter: 105
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10502"
-generated_at: "2026-11-23T21:24:03.158Z"
+generated_at: "2026-11-23T21:26:37.113Z"
 status: "active"
 ---
 

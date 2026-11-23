@@ -3,9 +3,9 @@ title: "Section 126 - Change of location of land offices"
 usc_title: 43
 usc_section: "126"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 126"
-generated_at: "2026-11-23T21:23:42.601Z"
+generated_at: "2026-11-23T21:26:19.746Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1332 - Congressional declaration of policy"
 usc_title: 43
 usc_section: "1332"
 chapter: 29
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1332"
-generated_at: "2026-11-23T21:23:42.697Z"
+generated_at: "2026-11-23T21:26:19.828Z"
 status: "active"
 ---
 

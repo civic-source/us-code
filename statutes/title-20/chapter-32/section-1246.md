@@ -3,9 +3,9 @@ title: "Section 1246 - Repealed. Pub. L. 91–230, title IV, § 401(f)(8) , (g)(
 usc_title: 20
 usc_section: "1246"
 chapter: 32
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1246"
-generated_at: "2026-11-23T21:23:07.883Z"
+generated_at: "2026-11-23T21:25:47.310Z"
 status: "repealed"
 ---
 

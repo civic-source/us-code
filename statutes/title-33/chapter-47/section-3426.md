@@ -3,9 +3,9 @@ title: "Section 3426 - Repealed. Pub. L. 117–263, div. J, title CIII, § 10306
 usc_title: 33
 usc_section: "3426"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3426"
-generated_at: "2026-11-23T21:23:35.115Z"
+generated_at: "2026-11-23T21:26:11.484Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 422b - Duties of Secretary of the Interior"
 usc_title: 16
 usc_section: "422b"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 422b"
-generated_at: "2026-11-23T21:23:11.062Z"
+generated_at: "2026-11-23T21:25:51.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1416 - Monitoring, technical assistance, and enforcement"
 usc_title: 20
 usc_section: "1416"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1416"
-generated_at: "2026-11-23T21:23:07.902Z"
+generated_at: "2026-11-23T21:25:47.331Z"
 status: "active"
 ---
 

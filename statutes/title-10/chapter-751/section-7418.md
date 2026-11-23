@@ -3,9 +3,9 @@ title: "Section 7418 - Drill sergeant trainees: human relations training"
 usc_title: 10
 usc_section: "7418"
 chapter: 751
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7418"
-generated_at: "2026-11-23T21:22:52.012Z"
+generated_at: "2026-11-23T21:25:32.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 151306 - Principal office"
 usc_title: 36
 usc_section: "151306"
 chapter: 1513
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 151306"
-generated_at: "2026-11-23T21:23:38.390Z"
+generated_at: "2026-11-23T21:26:13.662Z"
 status: "active"
 ---
 

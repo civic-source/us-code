@@ -3,9 +3,9 @@ title: "Section 2112 - Promotion year; defined"
 usc_title: 14
 usc_section: "2112"
 chapter: 21
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2112"
-generated_at: "2026-11-23T21:22:54.511Z"
+generated_at: "2026-11-23T21:25:35.413Z"
 status: "active"
 ---
 

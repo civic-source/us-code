@@ -3,9 +3,9 @@ title: "Section 1757 - Powers"
 usc_title: 12
 usc_section: "1757"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1757"
-generated_at: "2026-11-23T21:23:00.899Z"
+generated_at: "2026-11-23T21:25:36.934Z"
 status: "active"
 ---
 

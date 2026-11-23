@@ -3,9 +3,9 @@ title: "Section 701c - Rights-of-way, easements, etc.; acquisition by local auth
 usc_title: 33
 usc_section: "701c"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 701c"
-generated_at: "2026-11-23T21:23:34.775Z"
+generated_at: "2026-11-23T21:26:11.329Z"
 status: "active"
 ---
 

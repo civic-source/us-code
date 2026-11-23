@@ -3,9 +3,9 @@ title: "Section 4346a - Travel reimbursement by private organizations and Federa
 usc_title: 42
 usc_section: "4346a"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4346a"
-generated_at: "2026-11-23T21:23:55.411Z"
+generated_at: "2026-11-23T21:26:32.657Z"
 status: "active"
 ---
 

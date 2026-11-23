@@ -3,9 +3,9 @@ title: "Section 7104 - Required terms in orders"
 usc_title: 7
 usc_section: "7104"
 chapter: 99
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7104"
-generated_at: "2026-11-23T21:22:46.348Z"
+generated_at: "2026-11-23T21:25:28.412Z"
 status: "active"
 ---
 

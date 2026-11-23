@@ -3,9 +3,9 @@ title: "Section 1031 - Congressional statement of findings"
 usc_title: 21
 usc_section: "1031"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1031"
-generated_at: "2026-11-23T21:23:16.643Z"
+generated_at: "2026-11-23T21:25:56.266Z"
 status: "active"
 ---
 

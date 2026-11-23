@@ -3,9 +3,9 @@ title: "Section 3819 - Authority of President to order Reserve components to act
 usc_title: 50
 usc_section: "3819"
 chapter: 49
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3819"
-generated_at: "2026-11-23T21:24:06.381Z"
+generated_at: "2026-11-23T21:26:39.076Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7479 - Declaratory judgments relating to eligibility of estate w
 usc_title: 26
 usc_section: "7479"
 chapter: 76
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7479"
-generated_at: "2026-11-23T21:23:29.704Z"
+generated_at: "2026-11-23T21:26:06.973Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8451 - Disability retirement"
 usc_title: 5
 usc_section: "8451"
 chapter: 84
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8451"
-generated_at: "2026-11-23T21:22:40.517Z"
+generated_at: "2026-11-23T21:25:23.431Z"
 status: "active"
 ---
 

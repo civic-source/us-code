@@ -3,9 +3,9 @@ title: "Section 410sss - Harriet Tubman Underground Railroad National Historical
 usc_title: 16
 usc_section: "410sss"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410sss"
-generated_at: "2026-11-23T21:23:11.050Z"
+generated_at: "2026-11-23T21:25:51.486Z"
 status: "active"
 ---
 

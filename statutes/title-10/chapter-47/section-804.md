@@ -3,9 +3,9 @@ title: "Section 804 - Art. 4. Dismissed officer’s right to trial by court-mart
 usc_title: 10
 usc_section: "804"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 804"
-generated_at: "2026-11-23T21:22:51.200Z"
+generated_at: "2026-11-23T21:25:32.324Z"
 status: "active"
 ---
 

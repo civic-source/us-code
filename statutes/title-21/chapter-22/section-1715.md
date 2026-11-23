@@ -3,9 +3,9 @@ title: "Section 1715 - GAO audit"
 usc_title: 21
 usc_section: "1715"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1715"
-generated_at: "2026-11-23T21:23:16.672Z"
+generated_at: "2026-11-23T21:25:56.293Z"
 status: "active"
 ---
 

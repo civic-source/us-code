@@ -3,9 +3,9 @@ title: "Section 2504a - Health care for volunteers at Peace Corps posts"
 usc_title: 22
 usc_section: "2504a"
 chapter: 34
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2504a"
-generated_at: "2026-11-23T21:23:19.245Z"
+generated_at: "2026-11-23T21:25:58.502Z"
 status: "active"
 ---
 

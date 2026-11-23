@@ -3,9 +3,9 @@ title: "Section 7231c - Eligibility"
 usc_title: 20
 usc_section: "7231c"
 chapter: 70
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7231c"
-generated_at: "2026-11-23T21:23:08.082Z"
+generated_at: "2026-11-23T21:25:47.563Z"
 status: "active"
 ---
 

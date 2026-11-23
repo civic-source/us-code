@@ -3,9 +3,9 @@ title: "Section 93 - Repealed. June 17, 1930, ch. 497 , title IV, § 651(a)(1), 
 usc_title: 19
 usc_section: "93"
 chapter: 2
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 93"
-generated_at: "2026-11-23T21:23:05.497Z"
+generated_at: "2026-11-23T21:25:42.687Z"
 status: "repealed"
 ---
 

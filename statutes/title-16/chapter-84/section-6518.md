@@ -3,9 +3,9 @@ title: "Section 6518 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6518"
 chapter: 84
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6518"
-generated_at: "2026-11-23T21:23:11.843Z"
+generated_at: "2026-11-23T21:25:52.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1402 - Repealed. Pub. L. 96–39, title II, § 201(b) , July 26,
 usc_title: 19
 usc_section: "1402"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1402"
-generated_at: "2026-11-23T21:23:05.512Z"
+generated_at: "2026-11-23T21:25:42.701Z"
 status: "repealed"
 ---
 

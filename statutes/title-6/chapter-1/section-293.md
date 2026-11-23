@@ -3,9 +3,9 @@ title: "Section 293 - Authority to conduct a demonstration project relating to d
 usc_title: 6
 usc_section: "293"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 293"
-generated_at: "2026-11-23T21:22:43.466Z"
+generated_at: "2026-11-23T21:25:25.775Z"
 status: "active"
 ---
 

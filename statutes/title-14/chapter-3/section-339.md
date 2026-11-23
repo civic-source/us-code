@@ -3,9 +3,9 @@ title: "Section 339 - Prevention and response workforces"
 usc_title: 14
 usc_section: "339"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 339"
-generated_at: "2026-11-23T21:22:54.471Z"
+generated_at: "2026-11-23T21:25:35.361Z"
 status: "active"
 ---
 

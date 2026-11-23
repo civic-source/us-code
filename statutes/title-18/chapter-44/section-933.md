@@ -3,9 +3,9 @@ title: "Section 933 - Trafficking in firearms"
 usc_title: 18
 usc_section: "933"
 chapter: 44
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 933"
-generated_at: "2026-11-23T21:23:04.055Z"
+generated_at: "2026-11-23T21:25:44.019Z"
 status: "active"
 ---
 

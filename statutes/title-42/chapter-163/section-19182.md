@@ -3,9 +3,9 @@ title: "Section 19182 - Research at the National Science Foundation"
 usc_title: 42
 usc_section: "19182"
 chapter: 163
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19182"
-generated_at: "2026-11-23T21:23:56.565Z"
+generated_at: "2026-11-23T21:26:33.876Z"
 status: "active"
 ---
 

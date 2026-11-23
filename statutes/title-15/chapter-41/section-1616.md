@@ -3,9 +3,9 @@ title: "Section 1616 - Board review of consumer credit plans and regulations"
 usc_title: 15
 usc_section: "1616"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1616"
-generated_at: "2026-11-23T21:22:58.105Z"
+generated_at: "2026-11-23T21:25:39.840Z"
 status: "active"
 ---
 

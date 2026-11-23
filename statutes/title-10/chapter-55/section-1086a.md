@@ -3,9 +3,9 @@ title: "Section 1086a - Certain former spouses: extension of period of eligibili
 usc_title: 10
 usc_section: "1086a"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1086a"
-generated_at: "2026-11-23T21:22:51.339Z"
+generated_at: "2026-11-23T21:25:32.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1627b - National Sheep Industry Improvement Center"
 usc_title: 7
 usc_section: "1627b"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1627b"
-generated_at: "2026-11-23T21:22:46.038Z"
+generated_at: "2026-11-23T21:25:28.130Z"
 status: "active"
 ---
 

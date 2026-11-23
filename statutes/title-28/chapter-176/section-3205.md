@@ -3,9 +3,9 @@ title: "Section 3205 - Garnishment"
 usc_title: 28
 usc_section: "3205"
 chapter: 176
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3205"
-generated_at: "2026-11-23T21:23:22.503Z"
+generated_at: "2026-11-23T21:26:01.144Z"
 status: "active"
 ---
 

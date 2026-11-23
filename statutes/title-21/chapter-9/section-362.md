@@ -3,9 +3,9 @@ title: "Section 362 - Misbranded cosmetics"
 usc_title: 21
 usc_section: "362"
 chapter: 9
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 362"
-generated_at: "2026-11-23T21:23:16.538Z"
+generated_at: "2026-11-23T21:25:56.123Z"
 status: "active"
 ---
 

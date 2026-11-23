@@ -3,9 +3,9 @@ title: "Section 644 - Omitted"
 usc_title: 25
 usc_section: "644"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 644"
-generated_at: "2026-11-23T21:23:14.572Z"
+generated_at: "2026-11-23T21:25:54.587Z"
 status: "omitted"
 ---
 

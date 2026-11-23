@@ -3,9 +3,9 @@ title: "Section 8933 - Ocean Research Advisory Panel"
 usc_title: 10
 usc_section: "8933"
 chapter: 893
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8933"
-generated_at: "2026-11-23T21:22:52.193Z"
+generated_at: "2026-11-23T21:25:32.969Z"
 status: "active"
 ---
 

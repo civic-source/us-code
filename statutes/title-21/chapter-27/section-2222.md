@@ -3,9 +3,9 @@ title: "Section 2222 - Integrated consortium of laboratory networks"
 usc_title: 21
 usc_section: "2222"
 chapter: 27
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 2222"
-generated_at: "2026-11-23T21:23:16.680Z"
+generated_at: "2026-11-23T21:25:56.301Z"
 status: "active"
 ---
 

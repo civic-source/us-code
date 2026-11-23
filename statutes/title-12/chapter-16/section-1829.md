@@ -3,9 +3,9 @@ title: "Section 1829 - Penalty for unauthorized participation by convicted indiv
 usc_title: 12
 usc_section: "1829"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1829"
-generated_at: "2026-11-23T21:23:00.977Z"
+generated_at: "2026-11-23T21:25:37.010Z"
 status: "active"
 ---
 

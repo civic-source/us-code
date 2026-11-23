@@ -3,9 +3,9 @@ title: "Section 2002 - Transfer of hospitals and facilities to State or private 
 usc_title: 42
 usc_section: "2002"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2002"
-generated_at: "2026-11-23T21:23:55.265Z"
+generated_at: "2026-11-23T21:26:32.310Z"
 status: "active"
 ---
 

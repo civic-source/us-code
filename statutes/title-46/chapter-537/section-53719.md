@@ -3,9 +3,9 @@ title: "Section 53719 - Best practices"
 usc_title: 46
 usc_section: "53719"
 chapter: 537
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53719"
-generated_at: "2026-11-23T21:24:03.332Z"
+generated_at: "2026-11-23T21:26:37.288Z"
 status: "active"
 ---
 

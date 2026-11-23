@@ -3,9 +3,9 @@ title: "Section 563 - 5-year technology investment plan"
 usc_title: 6
 usc_section: "563"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 563"
-generated_at: "2026-11-23T21:22:43.501Z"
+generated_at: "2026-11-23T21:25:25.804Z"
 status: "active"
 ---
 

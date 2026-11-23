@@ -3,9 +3,9 @@ title: "Section 8111 - Intellectual Property Enforcement Coordinator"
 usc_title: 15
 usc_section: "8111"
 chapter: 107
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8111"
-generated_at: "2026-11-23T21:22:58.500Z"
+generated_at: "2026-11-23T21:25:40.073Z"
 status: "active"
 ---
 

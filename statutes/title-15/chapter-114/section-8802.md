@@ -3,9 +3,9 @@ title: "Section 8802 - Purposes"
 usc_title: 15
 usc_section: "8802"
 chapter: 114
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8802"
-generated_at: "2026-11-23T21:22:58.526Z"
+generated_at: "2026-11-23T21:25:40.095Z"
 status: "active"
 ---
 

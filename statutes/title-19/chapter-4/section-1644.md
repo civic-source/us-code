@@ -3,9 +3,9 @@ title: "Section 1644 - Application of the Federal Aviation Act and section 1518(
 usc_title: 19
 usc_section: "1644"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1644"
-generated_at: "2026-11-23T21:23:05.557Z"
+generated_at: "2026-11-23T21:25:42.738Z"
 status: "active"
 ---
 

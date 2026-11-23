@@ -3,9 +3,9 @@ title: "Section 5112 - Highway routing of hazardous material"
 usc_title: 49
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5112"
-generated_at: "2026-11-23T21:24:10.746Z"
+generated_at: "2026-11-23T21:26:40.618Z"
 status: "active"
 ---
 

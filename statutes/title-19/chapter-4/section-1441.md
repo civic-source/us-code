@@ -3,9 +3,9 @@ title: "Section 1441 - Exceptions to vessel entry and clearance requirements"
 usc_title: 19
 usc_section: "1441"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1441"
-generated_at: "2026-11-23T21:23:05.516Z"
+generated_at: "2026-11-23T21:25:42.704Z"
 status: "active"
 ---
 

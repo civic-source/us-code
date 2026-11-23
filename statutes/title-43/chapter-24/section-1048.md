@@ -3,9 +3,9 @@ title: "Section 1048 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 2
 usc_title: 43
 usc_section: "1048"
 chapter: 24
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1048"
-generated_at: "2026-11-23T21:23:42.693Z"
+generated_at: "2026-11-23T21:26:19.820Z"
 status: "repealed"
 ---
 

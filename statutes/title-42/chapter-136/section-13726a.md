@@ -3,9 +3,9 @@ title: "Section 13726a - Transferred"
 usc_title: 42
 usc_section: "13726a"
 chapter: 136
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13726a"
-generated_at: "2026-11-23T21:23:56.246Z"
+generated_at: "2026-11-23T21:26:33.626Z"
 status: "transferred"
 ---
 

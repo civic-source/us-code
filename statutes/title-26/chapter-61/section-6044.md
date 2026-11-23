@@ -3,9 +3,9 @@ title: "Section 6044 - Returns regarding payments of patronage dividends"
 usc_title: 26
 usc_section: "6044"
 chapter: 61
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6044"
-generated_at: "2026-11-23T21:23:29.525Z"
+generated_at: "2026-11-23T21:26:06.771Z"
 status: "active"
 ---
 

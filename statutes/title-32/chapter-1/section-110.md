@@ -3,9 +3,9 @@ title: "Section 110 - Regulations"
 usc_title: 32
 usc_section: "110"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "32 U.S.C. § 110"
-generated_at: "2026-11-23T21:23:31.264Z"
+generated_at: "2026-11-23T21:26:08.281Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 43b - Omitted"
 usc_title: 27
 usc_section: "43b"
 chapter: 2
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 43b"
-generated_at: "2026-11-23T21:23:20.901Z"
+generated_at: "2026-11-23T21:26:00.001Z"
 status: "omitted"
 ---
 

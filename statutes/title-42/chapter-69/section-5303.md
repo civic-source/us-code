@@ -3,9 +3,9 @@ title: "Section 5303 - Grants to States, units of general local government and I
 usc_title: 42
 usc_section: "5303"
 chapter: 69
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5303"
-generated_at: "2026-11-23T21:23:55.475Z"
+generated_at: "2026-11-23T21:26:32.782Z"
 status: "active"
 ---
 

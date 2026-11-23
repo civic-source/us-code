@@ -3,9 +3,9 @@ title: "Section 6383 - Accounting practices"
 usc_title: 42
 usc_section: "6383"
 chapter: 77
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6383"
-generated_at: "2026-11-23T21:23:55.579Z"
+generated_at: "2026-11-23T21:26:32.953Z"
 status: "active"
 ---
 

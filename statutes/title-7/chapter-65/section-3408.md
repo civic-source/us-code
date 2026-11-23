@@ -3,9 +3,9 @@ title: "Section 3408 - Refund of processed wheat assessment"
 usc_title: 7
 usc_section: "3408"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3408"
-generated_at: "2026-11-23T21:22:46.255Z"
+generated_at: "2026-11-23T21:25:28.337Z"
 status: "active"
 ---
 

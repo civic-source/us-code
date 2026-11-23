@@ -3,9 +3,9 @@ title: "Section 30109 - National strategy, classification, and reporting on cybe
 usc_title: 34
 usc_section: "30109"
 chapter: 301
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30109"
-generated_at: "2026-11-23T21:23:33.631Z"
+generated_at: "2026-11-23T21:26:09.819Z"
 status: "active"
 ---
 

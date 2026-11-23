@@ -3,9 +3,9 @@ title: "Section 5115 - Vocational and trade schools; appropriation for tuition"
 usc_title: 25
 usc_section: "5115"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5115"
-generated_at: "2026-11-23T21:23:14.800Z"
+generated_at: "2026-11-23T21:25:54.718Z"
 status: "active"
 ---
 

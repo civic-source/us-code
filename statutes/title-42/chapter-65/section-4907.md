@@ -3,9 +3,9 @@ title: "Section 4907 - Labeling"
 usc_title: 42
 usc_section: "4907"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4907"
-generated_at: "2026-11-23T21:23:55.434Z"
+generated_at: "2026-11-23T21:26:32.698Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4503a - Repealed. Pub. L. 117–263, div. K, title CXV, § 11509
 usc_title: 46
 usc_section: "4503a"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 4503a"
-generated_at: "2026-11-23T21:24:03.092Z"
+generated_at: "2026-11-23T21:26:37.067Z"
 status: "repealed"
 ---
 

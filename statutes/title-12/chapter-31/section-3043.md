@@ -3,9 +3,9 @@ title: "Section 3043 - Advances"
 usc_title: 12
 usc_section: "3043"
 chapter: 31
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 3043"
-generated_at: "2026-11-23T21:23:01.098Z"
+generated_at: "2026-11-23T21:25:37.119Z"
 status: "active"
 ---
 

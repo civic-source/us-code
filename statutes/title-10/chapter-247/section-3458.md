@@ -3,9 +3,9 @@ title: "Section 3458 - Authority to acquire innovative commercial products and c
 usc_title: 10
 usc_section: "3458"
 chapter: 247
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3458"
-generated_at: "2026-11-23T21:22:51.820Z"
+generated_at: "2026-11-23T21:25:32.730Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 152913 - Annual report"
 usc_title: 36
 usc_section: "152913"
 chapter: 1529
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 152913"
-generated_at: "2026-11-23T21:23:38.419Z"
+generated_at: "2026-11-23T21:26:13.690Z"
 status: "active"
 ---
 

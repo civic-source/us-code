@@ -3,9 +3,9 @@ title: "Section 1503 - Comptroller General reports of amounts for which no accou
 usc_title: 31
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1503"
-generated_at: "2026-11-23T21:23:32.480Z"
+generated_at: "2026-11-23T21:26:10.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 116–260, div. AA, title III, § 360(g) ,
 usc_title: 33
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-11-23T21:23:34.752Z"
+generated_at: "2026-11-23T21:26:11.318Z"
 status: "repealed"
 ---
 

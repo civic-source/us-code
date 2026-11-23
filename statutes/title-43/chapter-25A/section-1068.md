@@ -3,9 +3,9 @@ title: "Section 1068 - Lands held in adverse possession; issuance of patent; res
 usc_title: 43
 usc_section: "1068"
 chapter: 25
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1068"
-generated_at: "2026-11-23T21:23:42.693Z"
+generated_at: "2026-11-23T21:26:19.823Z"
 status: "active"
 ---
 

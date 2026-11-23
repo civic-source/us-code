@@ -3,9 +3,9 @@ title: "Section 771 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029"
 usc_title: 43
 usc_section: "771"
 chapter: 18
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 771"
-generated_at: "2026-11-23T21:23:42.680Z"
+generated_at: "2026-11-23T21:26:19.808Z"
 status: "repealed"
 ---
 

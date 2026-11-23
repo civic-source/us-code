@@ -3,9 +3,9 @@ title: "Section 1138b - Administrative provisions"
 usc_title: 20
 usc_section: "1138b"
 chapter: 28
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1138b"
-generated_at: "2026-11-23T21:23:07.847Z"
+generated_at: "2026-11-23T21:25:47.254Z"
 status: "active"
 ---
 

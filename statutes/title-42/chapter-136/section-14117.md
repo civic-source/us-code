@@ -3,9 +3,9 @@ title: "Section 14117 - Transferred"
 usc_title: 42
 usc_section: "14117"
 chapter: 136
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14117"
-generated_at: "2026-11-23T21:23:56.251Z"
+generated_at: "2026-11-23T21:26:33.633Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9623 - Payment of losses"
 usc_title: 22
 usc_section: "9623"
 chapter: 103
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9623"
-generated_at: "2026-11-23T21:23:19.631Z"
+generated_at: "2026-11-23T21:25:58.782Z"
 status: "active"
 ---
 

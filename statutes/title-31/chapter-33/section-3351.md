@@ -3,9 +3,9 @@ title: "Section 3351 - Definitions"
 usc_title: 31
 usc_section: "3351"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3351"
-generated_at: "2026-11-23T21:23:32.501Z"
+generated_at: "2026-11-23T21:26:10.573Z"
 status: "active"
 ---
 

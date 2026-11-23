@@ -3,9 +3,9 @@ title: "Section 8154 - Exchange of medical information"
 usc_title: 38
 usc_section: "8154"
 chapter: 81
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 8154"
-generated_at: "2026-11-23T21:23:40.654Z"
+generated_at: "2026-11-23T21:26:16.910Z"
 status: "active"
 ---
 

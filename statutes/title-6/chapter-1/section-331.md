@@ -3,9 +3,9 @@ title: "Section 331 - Treatment of charitable trusts for members of the Armed Fo
 usc_title: 6
 usc_section: "331"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 331"
-generated_at: "2026-11-23T21:22:43.476Z"
+generated_at: "2026-11-23T21:25:25.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9684 - Surplus obsolete ordnance: sale to patriotic organization
 usc_title: 10
 usc_section: "9684"
 chapter: 973
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9684"
-generated_at: "2026-11-23T21:22:52.235Z"
+generated_at: "2026-11-23T21:25:33.015Z"
 status: "active"
 ---
 

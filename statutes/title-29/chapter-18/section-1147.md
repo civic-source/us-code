@@ -3,9 +3,9 @@ title: "Section 1147 - National Summit on Retirement Savings"
 usc_title: 29
 usc_section: "1147"
 chapter: 18
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1147"
-generated_at: "2026-11-23T21:23:23.555Z"
+generated_at: "2026-11-23T21:26:02.265Z"
 status: "active"
 ---
 

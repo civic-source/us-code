@@ -3,9 +3,9 @@ title: "Section 8688 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "8688"
 chapter: 863
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8688"
-generated_at: "2026-11-23T21:22:52.146Z"
+generated_at: "2026-11-23T21:25:32.942Z"
 status: "repealed"
 ---
 

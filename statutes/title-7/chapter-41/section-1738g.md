@@ -3,9 +3,9 @@ title: "Section 1738g - Enterprise for the Americas environmental funds"
 usc_title: 7
 usc_section: "1738g"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1738g"
-generated_at: "2026-11-23T21:22:46.087Z"
+generated_at: "2026-11-23T21:25:28.177Z"
 status: "active"
 ---
 

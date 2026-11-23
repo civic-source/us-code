@@ -3,9 +3,9 @@ title: "Section 541 - Property of the estate"
 usc_title: 11
 usc_section: "541"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 541"
-generated_at: "2026-11-23T21:22:54.007Z"
+generated_at: "2026-11-23T21:25:34.923Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 289 - Acceptance of membership by the United States; conditions"
 usc_title: 22
 usc_section: "289"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 289"
-generated_at: "2026-11-23T21:23:19.009Z"
+generated_at: "2026-11-23T21:25:58.372Z"
 status: "active"
 ---
 

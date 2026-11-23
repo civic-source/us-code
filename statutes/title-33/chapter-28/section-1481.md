@@ -3,9 +3,9 @@ title: "Section 1481 - Violations; penalties"
 usc_title: 33
 usc_section: "1481"
 chapter: 28
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1481"
-generated_at: "2026-11-23T21:23:34.955Z"
+generated_at: "2026-11-23T21:26:11.407Z"
 status: "active"
 ---
 

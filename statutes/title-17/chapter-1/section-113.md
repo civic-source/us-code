@@ -3,9 +3,9 @@ title: "Section 113 - Scope of exclusive rights in pictorial, graphic, and sculp
 usc_title: 17
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 113"
-generated_at: "2026-11-23T21:23:02.881Z"
+generated_at: "2026-11-23T21:25:41.692Z"
 status: "active"
 ---
 

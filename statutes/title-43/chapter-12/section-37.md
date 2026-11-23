@@ -3,9 +3,9 @@ title: "Section 37 - Omitted"
 usc_title: 43
 usc_section: "37"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 37"
-generated_at: "2026-11-23T21:23:42.632Z"
+generated_at: "2026-11-23T21:26:19.767Z"
 status: "omitted"
 ---
 

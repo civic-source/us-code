@@ -3,9 +3,9 @@ title: "Section 2098 - Taxation"
 usc_title: 12
 usc_section: "2098"
 chapter: 23
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2098"
-generated_at: "2026-11-23T21:23:01.049Z"
+generated_at: "2026-11-23T21:25:37.054Z"
 status: "active"
 ---
 

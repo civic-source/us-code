@@ -3,9 +3,9 @@ title: "Section 2620 - Citizens’ petitions"
 usc_title: 15
 usc_section: "2620"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2620"
-generated_at: "2026-11-23T21:22:58.272Z"
+generated_at: "2026-11-23T21:25:39.940Z"
 status: "active"
 ---
 

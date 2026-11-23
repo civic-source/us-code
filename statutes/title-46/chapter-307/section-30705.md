@@ -3,9 +3,9 @@ title: "Section 30705 - Seaworthiness"
 usc_title: 46
 usc_section: "30705"
 chapter: 307
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30705"
-generated_at: "2026-11-23T21:24:03.202Z"
+generated_at: "2026-11-23T21:26:37.162Z"
 status: "active"
 ---
 

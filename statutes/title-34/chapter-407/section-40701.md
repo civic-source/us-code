@@ -3,9 +3,9 @@ title: "Section 40701 - The Debbie Smith DNA Backlog Grant Program"
 usc_title: 34
 usc_section: "40701"
 chapter: 407
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40701"
-generated_at: "2026-11-23T21:23:33.642Z"
+generated_at: "2026-11-23T21:26:09.834Z"
 status: "active"
 ---
 

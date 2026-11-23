@@ -3,9 +3,9 @@ title: "Section 301 - Departmental regulations"
 usc_title: 5
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 301"
-generated_at: "2026-11-23T21:22:40.113Z"
+generated_at: "2026-11-23T21:25:23.019Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 838l - Bonneville Power Administration refinancing"
 usc_title: 16
 usc_section: "838l"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 838l"
-generated_at: "2026-11-23T21:23:11.457Z"
+generated_at: "2026-11-23T21:25:51.786Z"
 status: "active"
 ---
 

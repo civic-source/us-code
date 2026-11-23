@@ -3,9 +3,9 @@ title: "Section 9803 - Global fragility strategy"
 usc_title: 22
 usc_section: "9803"
 chapter: 105
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9803"
-generated_at: "2026-11-23T21:23:19.643Z"
+generated_at: "2026-11-23T21:25:58.788Z"
 status: "active"
 ---
 

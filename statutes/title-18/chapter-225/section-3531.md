@@ -3,9 +3,9 @@ title: "Section 3531 - Return; several defendants; conviction of less offense; p
 usc_title: 18
 usc_section: "3531"
 chapter: 225
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3531"
-generated_at: "2026-11-23T21:23:04.212Z"
+generated_at: "2026-11-23T21:25:44.206Z"
 status: "active"
 ---
 

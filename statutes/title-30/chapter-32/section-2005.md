@@ -3,9 +3,9 @@ title: "Section 2005 - Reports and studies for Congress"
 usc_title: 30
 usc_section: "2005"
 chapter: 32
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-11-23T21:23:21.626Z"
+generated_at: "2026-11-23T21:26:00.452Z"
 status: "active"
 ---
 

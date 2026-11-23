@@ -3,9 +3,9 @@ title: "Section 1835a - Prohibition against deposit production offices"
 usc_title: 12
 usc_section: "1835a"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1835a"
-generated_at: "2026-11-23T21:23:01.013Z"
+generated_at: "2026-11-23T21:25:37.036Z"
 status: "active"
 ---
 

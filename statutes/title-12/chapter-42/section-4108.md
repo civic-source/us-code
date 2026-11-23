@@ -3,9 +3,9 @@ title: "Section 4108 - Prepayment and voluntary termination"
 usc_title: 12
 usc_section: "4108"
 chapter: 42
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4108"
-generated_at: "2026-11-23T21:23:01.123Z"
+generated_at: "2026-11-23T21:25:37.162Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3362 - Waiver of indictment and prosecution on information—(Ru
 usc_title: 18
 usc_section: "3362"
 chapter: 217
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3362"
-generated_at: "2026-11-23T21:23:04.203Z"
+generated_at: "2026-11-23T21:25:44.199Z"
 status: "active"
 ---
 

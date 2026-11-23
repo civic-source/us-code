@@ -3,9 +3,9 @@ title: "Section 9309 - Repealed. Pub. L. 107–110, title X, § 1011(6) , Jan. 8
 usc_title: 20
 usc_section: "9309"
 chapter: 74
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9309"
-generated_at: "2026-11-23T21:23:08.128Z"
+generated_at: "2026-11-23T21:25:47.652Z"
 status: "repealed"
 ---
 

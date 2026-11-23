@@ -3,9 +3,9 @@ title: "Section 2407 - General Counsel"
 usc_title: 50
 usc_section: "2407"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2407"
-generated_at: "2026-11-23T21:24:06.027Z"
+generated_at: "2026-11-23T21:26:38.973Z"
 status: "active"
 ---
 

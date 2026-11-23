@@ -3,9 +3,9 @@ title: "Section 225 - Fund for education of Iranian students in United States"
 usc_title: 20
 usc_section: "225"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 225"
-generated_at: "2026-11-23T21:23:07.592Z"
+generated_at: "2026-11-23T21:25:46.957Z"
 status: "active"
 ---
 

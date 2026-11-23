@@ -3,9 +3,9 @@ title: "Section 8 - Respect for flag"
 usc_title: 4
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 8"
-generated_at: "2026-11-23T21:22:36.945Z"
+generated_at: "2026-11-23T21:25:19.970Z"
 status: "active"
 ---
 

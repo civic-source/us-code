@@ -3,9 +3,9 @@ title: "Section 12111 - Registry endorsement"
 usc_title: 46
 usc_section: "12111"
 chapter: 121
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 12111"
-generated_at: "2026-11-23T21:24:03.172Z"
+generated_at: "2026-11-23T21:26:37.130Z"
 status: "active"
 ---
 

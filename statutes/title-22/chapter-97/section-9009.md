@@ -3,9 +3,9 @@ title: "Section 9009 - Office of Children’s Issues"
 usc_title: 22
 usc_section: "9009"
 chapter: 97
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9009"
-generated_at: "2026-11-23T21:23:19.587Z"
+generated_at: "2026-11-23T21:25:58.762Z"
 status: "active"
 ---
 

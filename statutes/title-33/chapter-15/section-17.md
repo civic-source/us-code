@@ -3,9 +3,9 @@ title: "Section 17 - Corps of Engineers Western Water Cooperative Committee"
 usc_title: 33
 usc_section: "17"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 17"
-generated_at: "2026-11-23T21:23:34.775Z"
+generated_at: "2026-11-23T21:26:11.328Z"
 status: "active"
 ---
 

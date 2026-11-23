@@ -3,9 +3,9 @@ title: "Section 152 - Competitive procedures"
 usc_title: 41
 usc_section: "152"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 152"
-generated_at: "2026-11-23T21:23:43.343Z"
+generated_at: "2026-11-23T21:26:18.774Z"
 status: "active"
 ---
 

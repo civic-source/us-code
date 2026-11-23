@@ -3,9 +3,9 @@ title: "Section 3132 - Availability of appropriations for procurement of technic
 usc_title: 10
 usc_section: "3132"
 chapter: 207
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3132"
-generated_at: "2026-11-23T21:22:51.793Z"
+generated_at: "2026-11-23T21:25:32.714Z"
 status: "active"
 ---
 

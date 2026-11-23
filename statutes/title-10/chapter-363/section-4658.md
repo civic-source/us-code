@@ -3,9 +3,9 @@ title: "Section 4658 - Debarment of persons convicted of fraudulent use of “Ma
 usc_title: 10
 usc_section: "4658"
 chapter: 363
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4658"
-generated_at: "2026-11-23T21:22:51.906Z"
+generated_at: "2026-11-23T21:25:32.781Z"
 status: "active"
 ---
 

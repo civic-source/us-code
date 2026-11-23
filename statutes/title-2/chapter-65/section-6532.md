@@ -3,9 +3,9 @@ title: "Section 6532 - Death, resignation, or disability of Secretary and Assist
 usc_title: 2
 usc_section: "6532"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 6532"
-generated_at: "2026-11-23T21:22:38.136Z"
+generated_at: "2026-11-23T21:25:21.358Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3334a - Transfer of National Intelligence University to the Offi
 usc_title: 50
 usc_section: "3334a"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3334a"
-generated_at: "2026-11-23T21:24:06.233Z"
+generated_at: "2026-11-23T21:26:39.033Z"
 status: "active"
 ---
 

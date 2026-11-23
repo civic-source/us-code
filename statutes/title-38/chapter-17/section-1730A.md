@@ -3,9 +3,9 @@ title: "Section 1730A - Prohibition on collection of copayments from certain vet
 usc_title: 38
 usc_section: "1730A"
 chapter: 17
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1730A"
-generated_at: "2026-11-23T21:23:40.399Z"
+generated_at: "2026-11-23T21:26:16.662Z"
 status: "active"
 ---
 

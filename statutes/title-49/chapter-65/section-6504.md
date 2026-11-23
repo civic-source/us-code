@@ -3,9 +3,9 @@ title: "Section 6504 - Incorporation of Department of Transportation research"
 usc_title: 49
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6504"
-generated_at: "2026-11-23T21:24:10.846Z"
+generated_at: "2026-11-23T21:26:40.671Z"
 status: "active"
 ---
 

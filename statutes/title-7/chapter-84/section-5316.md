@@ -3,9 +3,9 @@ title: "Section 5316 - Annual budget submission"
 usc_title: 7
 usc_section: "5316"
 chapter: 84
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5316"
-generated_at: "2026-11-23T21:22:46.279Z"
+generated_at: "2026-11-23T21:25:28.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7463 - Disputes involving $50,000 or less"
 usc_title: 26
 usc_section: "7463"
 chapter: 76
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7463"
-generated_at: "2026-11-23T21:23:29.700Z"
+generated_at: "2026-11-23T21:26:06.970Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(e)** For purposes of this section, the amount of any deficiency placed in dispute includes additions to the tax, additional amounts, and penalties imposed by chapter 68, to the extent that the procedures described in subchapter B of chapter 63 apply.
 - **(f)** At the option of the taxpayer concurred in by the Tax Court or a division thereof before the hearing of the case, proceedings may be conducted under this section (in the same manner as a case described in subsection (a)) in the case of—
   - **(1)** a petition to the Tax Court under section 6015(e) in which the amount of relief sought does not exceed $50,000,
-  - **(2)** an appeal under section 6330(d)(1)(A) to the Tax Court of a determination in which the unpaid tax does not exceed $50,000, and
+  - **(2)** an appeal under section 6330(d)(1)(A) 1 1 See References in Text note below. to the Tax Court of a determination in which the unpaid tax does not exceed $50,000, and
   - **(3)** a petition to the Tax Court under section 6404(h) in which the amount of the abatement sought does not exceed $50,000.
 
 Subsection

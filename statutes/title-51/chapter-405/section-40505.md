@@ -3,9 +3,9 @@ title: "Section 40505 - Establishment of emergency medical service telemedicine 
 usc_title: 51
 usc_section: "40505"
 chapter: 405
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 40505"
-generated_at: "2026-11-23T21:24:14.395Z"
+generated_at: "2026-11-23T21:26:42.543Z"
 status: "active"
 ---
 

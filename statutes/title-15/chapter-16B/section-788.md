@@ -3,9 +3,9 @@ title: "Section 788 - Use of commercial standards"
 usc_title: 15
 usc_section: "788"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 788"
-generated_at: "2026-11-23T21:22:58.017Z"
+generated_at: "2026-11-23T21:25:39.764Z"
 status: "active"
 ---
 

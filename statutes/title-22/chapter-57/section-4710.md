@@ -3,9 +3,9 @@ title: "Section 4710 - English teaching, textbooks, and other teaching materials
 usc_title: 22
 usc_section: "4710"
 chapter: 57
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4710"
-generated_at: "2026-11-23T21:23:19.426Z"
+generated_at: "2026-11-23T21:25:58.649Z"
 status: "active"
 ---
 

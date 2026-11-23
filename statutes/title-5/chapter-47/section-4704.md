@@ -3,9 +3,9 @@ title: "Section 4704 - Allocation of funds"
 usc_title: 5
 usc_section: "4704"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 4704"
-generated_at: "2026-11-23T21:22:40.275Z"
+generated_at: "2026-11-23T21:25:23.196Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6301 - Imposition of procurement sanction on persons engaging in
 usc_title: 22
 usc_section: "6301"
 chapter: 72
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6301"
-generated_at: "2026-11-23T21:23:19.468Z"
+generated_at: "2026-11-23T21:25:58.684Z"
 status: "active"
 ---
 

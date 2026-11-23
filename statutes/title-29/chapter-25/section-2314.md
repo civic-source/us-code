@@ -3,9 +3,9 @@ title: "Section 2314 - Repealed. Pub. L. 105–220, title I, § 199(a)(3) , Aug.
 usc_title: 29
 usc_section: "2314"
 chapter: 25
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 2314"
-generated_at: "2026-11-23T21:23:23.617Z"
+generated_at: "2026-11-23T21:26:02.314Z"
 status: "repealed"
 ---
 

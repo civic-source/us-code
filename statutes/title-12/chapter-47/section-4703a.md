@@ -3,9 +3,9 @@ title: "Section 4703a - Capital investments for neighborhoods disproportionately
 usc_title: 12
 usc_section: "4703a"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4703a"
-generated_at: "2026-11-23T21:23:01.184Z"
+generated_at: "2026-11-23T21:25:37.209Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1808 - Annual asylum fee"
 usc_title: 8
 usc_section: "1808"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1808"
-generated_at: "2026-11-23T21:22:42.744Z"
+generated_at: "2026-11-23T21:25:25.219Z"
 status: "active"
 ---
 

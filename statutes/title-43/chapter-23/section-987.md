@@ -3,9 +3,9 @@ title: "Section 987 - Lands to be certified to State within one year"
 usc_title: 43
 usc_section: "987"
 chapter: 23
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 987"
-generated_at: "2026-11-23T21:23:42.692Z"
+generated_at: "2026-11-23T21:26:19.819Z"
 status: "active"
 ---
 

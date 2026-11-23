@@ -3,9 +3,9 @@ title: "Section 80506 - Delegation of authority"
 usc_title: 46
 usc_section: "80506"
 chapter: 805
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 80506"
-generated_at: "2026-11-23T21:24:03.425Z"
+generated_at: "2026-11-23T21:26:37.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2258 - Joint Committee on Atomic Energy abolished"
 usc_title: 42
 usc_section: "2258"
 chapter: 23
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2258"
-generated_at: "2026-11-23T21:23:55.299Z"
+generated_at: "2026-11-23T21:26:32.385Z"
 status: "active"
 ---
 

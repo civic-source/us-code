@@ -3,9 +3,9 @@ title: "Section 305 - Conduct of reexamination proceedings"
 usc_title: 35
 usc_section: "305"
 chapter: 30
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 305"
-generated_at: "2026-11-23T21:23:31.547Z"
+generated_at: "2026-11-23T21:26:08.628Z"
 status: "active"
 ---
 

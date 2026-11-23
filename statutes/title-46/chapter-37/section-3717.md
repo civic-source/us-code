@@ -3,9 +3,9 @@ title: "Section 3717 - Marine safety information system"
 usc_title: 46
 usc_section: "3717"
 chapter: 37
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 3717"
-generated_at: "2026-11-23T21:24:03.074Z"
+generated_at: "2026-11-23T21:26:37.059Z"
 status: "active"
 ---
 

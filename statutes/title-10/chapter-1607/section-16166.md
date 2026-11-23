@@ -3,9 +3,9 @@ title: "Section 16166 - Administration of program"
 usc_title: 10
 usc_section: "16166"
 chapter: 1607
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 16166"
-generated_at: "2026-11-23T21:22:52.314Z"
+generated_at: "2026-11-23T21:25:33.074Z"
 status: "active"
 ---
 

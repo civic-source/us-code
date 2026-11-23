@@ -3,9 +3,9 @@ title: "Section 1204 - Powers and functions of the Merit Systems Protection Boar
 usc_title: 5
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 1204"
-generated_at: "2026-11-23T21:22:40.198Z"
+generated_at: "2026-11-23T21:25:23.106Z"
 status: "active"
 ---
 

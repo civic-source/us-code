@@ -3,9 +3,9 @@ title: "Section 6613 - Functions of the Director"
 usc_title: 42
 usc_section: "6613"
 chapter: 79
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6613"
-generated_at: "2026-11-23T21:23:55.588Z"
+generated_at: "2026-11-23T21:26:32.964Z"
 status: "active"
 ---
 

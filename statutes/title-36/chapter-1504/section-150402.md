@@ -3,9 +3,9 @@ title: "Section 150402 - Purposes"
 usc_title: 36
 usc_section: "150402"
 chapter: 1504
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 150402"
-generated_at: "2026-11-23T21:23:38.378Z"
+generated_at: "2026-11-23T21:26:13.647Z"
 status: "active"
 ---
 

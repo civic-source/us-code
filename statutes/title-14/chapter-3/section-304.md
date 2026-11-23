@@ -3,9 +3,9 @@ title: "Section 304 - Retirement of Commandant or Vice Commandant"
 usc_title: 14
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 304"
-generated_at: "2026-11-23T21:22:54.467Z"
+generated_at: "2026-11-23T21:25:35.353Z"
 status: "active"
 ---
 

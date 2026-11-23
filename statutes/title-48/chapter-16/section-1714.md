@@ -3,9 +3,9 @@ title: "Section 1714 - Territorial legislature; determination of election proced
 usc_title: 48
 usc_section: "1714"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1714"
-generated_at: "2026-11-23T21:24:00.909Z"
+generated_at: "2026-11-23T21:26:38.023Z"
 status: "active"
 ---
 

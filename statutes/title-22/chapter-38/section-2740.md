@@ -3,9 +3,9 @@ title: "Section 2740 - Career intermission program adjustment to enhance retenti
 usc_title: 22
 usc_section: "2740"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2740"
-generated_at: "2026-11-23T21:23:19.311Z"
+generated_at: "2026-11-23T21:25:58.542Z"
 status: "active"
 ---
 

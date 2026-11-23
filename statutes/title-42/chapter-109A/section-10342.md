@@ -3,9 +3,9 @@ title: "Section 10342 - Research program"
 usc_title: 42
 usc_section: "10342"
 chapter: 109
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10342"
-generated_at: "2026-11-23T21:23:56.018Z"
+generated_at: "2026-11-23T21:26:33.361Z"
 status: "active"
 ---
 

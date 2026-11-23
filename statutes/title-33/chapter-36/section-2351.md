@@ -3,9 +3,9 @@ title: "Section 2351 - Durability, sustainability, and resilience"
 usc_title: 33
 usc_section: "2351"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2351"
-generated_at: "2026-11-23T21:23:35.061Z"
+generated_at: "2026-11-23T21:26:11.455Z"
 status: "active"
 ---
 

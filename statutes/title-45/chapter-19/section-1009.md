@@ -3,9 +3,9 @@ title: "Section 1009 - Expedited proceedings"
 usc_title: 45
 usc_section: "1009"
 chapter: 19
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1009"
-generated_at: "2026-11-23T21:23:43.961Z"
+generated_at: "2026-11-23T21:26:19.236Z"
 status: "active"
 ---
 

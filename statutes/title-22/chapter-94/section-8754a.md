@@ -3,9 +3,9 @@ title: "Section 8754a - Strategy and grant program to promote internet freedom i
 usc_title: 22
 usc_section: "8754a"
 chapter: 94
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8754a"
-generated_at: "2026-11-23T21:23:19.576Z"
+generated_at: "2026-11-23T21:25:58.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 296 - Duties of Secretary of State with respect to commission an
 usc_title: 22
 usc_section: "296"
 chapter: 8
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 296"
-generated_at: "2026-11-23T21:23:19.029Z"
+generated_at: "2026-11-23T21:25:58.381Z"
 status: "active"
 ---
 

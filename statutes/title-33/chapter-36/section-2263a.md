@@ -3,9 +3,9 @@ title: "Section 2263a - Aquatic invasive species research"
 usc_title: 33
 usc_section: "2263a"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2263a"
-generated_at: "2026-11-23T21:23:35.005Z"
+generated_at: "2026-11-23T21:26:11.431Z"
 status: "active"
 ---
 

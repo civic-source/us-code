@@ -3,9 +3,9 @@ title: "Section 6416 - Certain taxes on sales and services"
 usc_title: 26
 usc_section: "6416"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6416"
-generated_at: "2026-11-23T21:23:29.595Z"
+generated_at: "2026-11-23T21:26:06.864Z"
 status: "active"
 ---
 

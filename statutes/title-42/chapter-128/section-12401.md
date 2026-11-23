@@ -3,9 +3,9 @@ title: "Section 12401 - Finding, purposes, and definitions"
 usc_title: 42
 usc_section: "12401"
 chapter: 128
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12401"
-generated_at: "2026-11-23T21:23:56.113Z"
+generated_at: "2026-11-23T21:26:33.475Z"
 status: "active"
 ---
 

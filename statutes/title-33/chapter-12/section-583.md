@@ -3,9 +3,9 @@ title: "Section 583 - Payment of allowances, etc., incident to change of station
 usc_title: 33
 usc_section: "583"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 583"
-generated_at: "2026-11-23T21:23:34.754Z"
+generated_at: "2026-11-23T21:26:11.319Z"
 status: "active"
 ---
 

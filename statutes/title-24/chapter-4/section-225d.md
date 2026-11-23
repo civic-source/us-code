@@ -3,9 +3,9 @@ title: "Section 225d - Transition provisions for employees of Hospital"
 usc_title: 24
 usc_section: "225d"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 225d"
-generated_at: "2026-11-23T21:23:13.410Z"
+generated_at: "2026-11-23T21:25:53.409Z"
 status: "active"
 ---
 

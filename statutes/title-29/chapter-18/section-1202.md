@@ -3,9 +3,9 @@ title: "Section 1202 - Procedures with respect to continued compliance with Inte
 usc_title: 29
 usc_section: "1202"
 chapter: 18
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1202"
-generated_at: "2026-11-23T21:23:23.573Z"
+generated_at: "2026-11-23T21:26:02.279Z"
 status: "active"
 ---
 

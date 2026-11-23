@@ -3,9 +3,9 @@ title: "Section 78z - Unlawful representations"
 usc_title: 15
 usc_section: "78z"
 chapter: 2
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78z"
-generated_at: "2026-11-23T21:22:57.705Z"
+generated_at: "2026-11-23T21:25:39.569Z"
 status: "active"
 ---
 

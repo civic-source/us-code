@@ -3,9 +3,9 @@ title: "Section 4981 - Excise tax on undistributed income of real estate investm
 usc_title: 26
 usc_section: "4981"
 chapter: 44
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4981"
-generated_at: "2026-11-23T21:23:29.467Z"
+generated_at: "2026-11-23T21:26:06.678Z"
 status: "active"
 ---
 

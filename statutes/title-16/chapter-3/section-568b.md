@@ -3,9 +3,9 @@ title: "Section 568b - Repealed. Aug. 25, 1950, ch. 781, § 3 , 64 Stat. 473 , e
 usc_title: 16
 usc_section: "568b"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 568b"
-generated_at: "2026-11-23T21:23:11.268Z"
+generated_at: "2026-11-23T21:25:51.677Z"
 status: "repealed"
 ---
 

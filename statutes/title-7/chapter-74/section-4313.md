@@ -3,9 +3,9 @@ title: "Section 4313 - Administrative and judicial review; procedures applicable
 usc_title: 7
 usc_section: "4313"
 chapter: 74
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 4313"
-generated_at: "2026-11-23T21:22:46.262Z"
+generated_at: "2026-11-23T21:25:28.345Z"
 status: "active"
 ---
 

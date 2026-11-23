@@ -3,9 +3,9 @@ title: "Section 1904 - Advisory Board on Women at the Coast Guard Academy"
 usc_title: 14
 usc_section: "1904"
 chapter: 19
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1904"
-generated_at: "2026-11-23T21:22:54.506Z"
+generated_at: "2026-11-23T21:25:35.405Z"
 status: "active"
 ---
 

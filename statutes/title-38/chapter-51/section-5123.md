@@ -3,9 +3,9 @@ title: "Section 5123 - Rounding down of pension rates"
 usc_title: 38
 usc_section: "5123"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5123"
-generated_at: "2026-11-23T21:23:40.574Z"
+generated_at: "2026-11-23T21:26:16.817Z"
 status: "active"
 ---
 

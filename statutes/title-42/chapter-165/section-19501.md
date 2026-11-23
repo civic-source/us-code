@@ -3,9 +3,9 @@ title: "Section 19501 - Increasing housing in opportunity zones"
 usc_title: 42
 usc_section: "19501"
 chapter: 165
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19501"
-generated_at: "2026-11-23T21:23:56.580Z"
+generated_at: "2026-11-23T21:26:33.887Z"
 status: "active"
 ---
 

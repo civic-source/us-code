@@ -3,9 +3,9 @@ title: "Section 9 - No buffer zones"
 usc_title: 16
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-11-23T21:23:11.165Z"
+generated_at: "2026-11-23T21:25:51.612Z"
 status: "active"
 ---
 

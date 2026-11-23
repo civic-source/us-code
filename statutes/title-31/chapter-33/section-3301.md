@@ -3,9 +3,9 @@ title: "Section 3301 - General duties of the Secretary of the Treasury"
 usc_title: 31
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3301"
-generated_at: "2026-11-23T21:23:32.495Z"
+generated_at: "2026-11-23T21:26:10.567Z"
 status: "active"
 ---
 

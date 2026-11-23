@@ -3,9 +3,9 @@ title: "Section 9462 - Support of athletic programs"
 usc_title: 10
 usc_section: "9462"
 chapter: 953
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9462"
-generated_at: "2026-11-23T21:22:52.224Z"
+generated_at: "2026-11-23T21:25:33.003Z"
 status: "active"
 ---
 

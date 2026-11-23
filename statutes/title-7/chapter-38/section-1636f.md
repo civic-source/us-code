@@ -3,9 +3,9 @@ title: "Section 1636f - Publication of information on retail purchase prices for
 usc_title: 7
 usc_section: "1636f"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1636f"
-generated_at: "2026-11-23T21:22:46.053Z"
+generated_at: "2026-11-23T21:25:28.142Z"
 status: "active"
 ---
 

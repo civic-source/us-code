@@ -3,9 +3,9 @@ title: "Section 1037c - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 
 usc_title: 22
 usc_section: "1037c"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1037c"
-generated_at: "2026-11-23T21:23:19.046Z"
+generated_at: "2026-11-23T21:25:58.392Z"
 status: "repealed"
 ---
 

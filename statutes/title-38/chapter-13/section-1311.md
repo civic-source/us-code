@@ -3,9 +3,9 @@ title: "Section 1311 - Dependency and indemnity compensation to a surviving spou
 usc_title: 38
 usc_section: "1311"
 chapter: 13
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1311"
-generated_at: "2026-11-23T21:23:40.343Z"
+generated_at: "2026-11-23T21:26:16.594Z"
 status: "active"
 ---
 

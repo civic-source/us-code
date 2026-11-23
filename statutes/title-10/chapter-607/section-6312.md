@@ -3,9 +3,9 @@ title: "Section 6312 - Independent acquisition project reviews of capital assets
 usc_title: 10
 usc_section: "6312"
 chapter: 607
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6312"
-generated_at: "2026-11-23T21:22:51.984Z"
+generated_at: "2026-11-23T21:25:32.828Z"
 status: "active"
 ---
 

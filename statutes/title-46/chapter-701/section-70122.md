@@ -3,9 +3,9 @@ title: "Section 70122 - Waterway Watch Program"
 usc_title: 46
 usc_section: "70122"
 chapter: 701
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70122"
-generated_at: "2026-11-23T21:24:03.413Z"
+generated_at: "2026-11-23T21:26:37.360Z"
 status: "active"
 ---
 

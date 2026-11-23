@@ -3,9 +3,9 @@ title: "Section 10175 - Transportation"
 usc_title: 42
 usc_section: "10175"
 chapter: 108
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10175"
-generated_at: "2026-11-23T21:23:56.007Z"
+generated_at: "2026-11-23T21:26:33.348Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5508 - Officer entitled to leave; effect on pay status"
 usc_title: 5
 usc_section: "5508"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5508"
-generated_at: "2026-11-23T21:22:40.319Z"
+generated_at: "2026-11-23T21:25:23.264Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4999 - Golden parachute payments"
 usc_title: 26
 usc_section: "4999"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4999"
-generated_at: "2026-11-23T21:23:29.469Z"
+generated_at: "2026-11-23T21:26:06.680Z"
 status: "active"
 ---
 

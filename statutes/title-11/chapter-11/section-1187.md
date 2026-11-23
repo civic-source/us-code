@@ -3,9 +3,9 @@ title: "Section 1187 - Duties and reporting requirements of debtors"
 usc_title: 11
 usc_section: "1187"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1187"
-generated_at: "2026-11-23T21:22:54.032Z"
+generated_at: "2026-11-23T21:25:34.961Z"
 status: "active"
 ---
 

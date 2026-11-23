@@ -3,9 +3,9 @@ title: "Section 10159 - Law enforcement training programs"
 usc_title: 34
 usc_section: "10159"
 chapter: 101
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10159"
-generated_at: "2026-11-23T21:23:33.478Z"
+generated_at: "2026-11-23T21:26:09.624Z"
 status: "active"
 ---
 

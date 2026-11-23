@@ -3,9 +3,9 @@ title: "Section 15004 - Responsibilities of the Secretary"
 usc_title: 42
 usc_section: "15004"
 chapter: 144
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15004"
-generated_at: "2026-11-23T21:23:56.265Z"
+generated_at: "2026-11-23T21:26:33.650Z"
 status: "active"
 ---
 

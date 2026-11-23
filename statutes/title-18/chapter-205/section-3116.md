@@ -3,9 +3,9 @@ title: "Section 3116 - Records of examining magistrate judge; return to clerk of
 usc_title: 18
 usc_section: "3116"
 chapter: 205
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3116"
-generated_at: "2026-11-23T21:23:04.175Z"
+generated_at: "2026-11-23T21:25:44.178Z"
 status: "active"
 ---
 

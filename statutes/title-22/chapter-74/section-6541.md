@@ -3,9 +3,9 @@ title: "Section 6541 - Congressional findings and declaration of purpose"
 usc_title: 22
 usc_section: "6541"
 chapter: 74
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6541"
-generated_at: "2026-11-23T21:23:19.478Z"
+generated_at: "2026-11-23T21:25:58.691Z"
 status: "active"
 ---
 

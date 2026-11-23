@@ -3,9 +3,9 @@ title: "Section 3370b - Collaboration between intelligence community and Departm
 usc_title: 50
 usc_section: "3370b"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3370b"
-generated_at: "2026-11-23T21:24:06.291Z"
+generated_at: "2026-11-23T21:26:39.047Z"
 status: "active"
 ---
 

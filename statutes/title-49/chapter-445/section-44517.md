@@ -3,9 +3,9 @@ title: "Section 44517 - Program to permit cost sharing of air traffic modernizat
 usc_title: 49
 usc_section: "44517"
 chapter: 445
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44517"
-generated_at: "2026-11-23T21:24:11.338Z"
+generated_at: "2026-11-23T21:26:40.889Z"
 status: "active"
 ---
 

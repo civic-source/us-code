@@ -3,9 +3,9 @@ title: "Section 5056 - Evaluation of programs and projects"
 usc_title: 42
 usc_section: "5056"
 chapter: 66
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5056"
-generated_at: "2026-11-23T21:23:55.441Z"
+generated_at: "2026-11-23T21:26:32.715Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1097 - Criminal penalties"
 usc_title: 20
 usc_section: "1097"
 chapter: 28
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1097"
-generated_at: "2026-11-23T21:23:07.825Z"
+generated_at: "2026-11-23T21:25:47.217Z"
 status: "active"
 ---
 

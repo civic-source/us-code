@@ -3,9 +3,9 @@ title: "Section 7312 - Employment and clearance; individuals removed for nationa
 usc_title: 5
 usc_section: "7312"
 chapter: 73
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7312"
-generated_at: "2026-11-23T21:22:40.399Z"
+generated_at: "2026-11-23T21:25:23.338Z"
 status: "active"
 ---
 

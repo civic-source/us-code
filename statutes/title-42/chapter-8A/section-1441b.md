@@ -3,9 +3,9 @@ title: "Section 1441b - Plan for elimination of all substandard housing and real
 usc_title: 42
 usc_section: "1441b"
 chapter: 8
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1441b"
-generated_at: "2026-11-23T21:23:55.148Z"
+generated_at: "2026-11-23T21:26:32.044Z"
 status: "active"
 ---
 

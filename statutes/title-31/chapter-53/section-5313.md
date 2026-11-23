@@ -3,9 +3,9 @@ title: "Section 5313 - Reports on domestic coins and currency transactions"
 usc_title: 31
 usc_section: "5313"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 5313"
-generated_at: "2026-11-23T21:23:32.574Z"
+generated_at: "2026-11-23T21:26:10.618Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9225 - Rank: warrant officers"
 usc_title: 10
 usc_section: "9225"
 chapter: 925
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9225"
-generated_at: "2026-11-23T21:22:52.207Z"
+generated_at: "2026-11-23T21:25:32.982Z"
 status: "active"
 ---
 

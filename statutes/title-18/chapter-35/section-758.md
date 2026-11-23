@@ -3,9 +3,9 @@ title: "Section 758 - High speed flight from immigration checkpoint"
 usc_title: 18
 usc_section: "758"
 chapter: 35
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 758"
-generated_at: "2026-11-23T21:23:04.033Z"
+generated_at: "2026-11-23T21:25:43.992Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2028 - Consolidated block grants for Puerto Rico and American Sa
 usc_title: 7
 usc_section: "2028"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2028"
-generated_at: "2026-11-23T21:22:46.173Z"
+generated_at: "2026-11-23T21:25:28.266Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8752 - Clarification of sensitive technologies for purposes of p
 usc_title: 22
 usc_section: "8752"
 chapter: 94
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8752"
-generated_at: "2026-11-23T21:23:19.576Z"
+generated_at: "2026-11-23T21:25:58.753Z"
 status: "active"
 ---
 

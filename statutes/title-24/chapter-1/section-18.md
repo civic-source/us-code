@@ -3,9 +3,9 @@ title: "Section 18 - Rules and regulations for Army and Navy Hospital"
 usc_title: 24
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 18"
-generated_at: "2026-11-23T21:23:13.400Z"
+generated_at: "2026-11-23T21:25:53.404Z"
 status: "active"
 ---
 

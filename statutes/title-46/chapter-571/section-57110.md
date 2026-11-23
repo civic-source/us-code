@@ -3,9 +3,9 @@ title: "Section 57110 - Salvage recoveries for subrogated ownership of vessels a
 usc_title: 46
 usc_section: "57110"
 chapter: 571
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57110"
-generated_at: "2026-11-23T21:24:03.369Z"
+generated_at: "2026-11-23T21:26:37.323Z"
 status: "active"
 ---
 

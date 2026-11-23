@@ -3,9 +3,9 @@ title: "Section 1605 - Benefits for certain employees assigned outside the Unite
 usc_title: 10
 usc_section: "1605"
 chapter: 83
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1605"
-generated_at: "2026-11-23T21:22:51.487Z"
+generated_at: "2026-11-23T21:25:32.526Z"
 status: "active"
 ---
 

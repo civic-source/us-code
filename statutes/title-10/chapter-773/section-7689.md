@@ -3,9 +3,9 @@ title: "Section 7689 - Transfer of material and equipment to the Architect of th
 usc_title: 10
 usc_section: "7689"
 chapter: 773
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 7689"
-generated_at: "2026-11-23T21:22:52.039Z"
+generated_at: "2026-11-23T21:25:32.876Z"
 status: "active"
 ---
 

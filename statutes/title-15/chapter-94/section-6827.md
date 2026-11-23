@@ -3,9 +3,9 @@ title: "Section 6827 - Definitions"
 usc_title: 15
 usc_section: "6827"
 chapter: 94
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6827"
-generated_at: "2026-11-23T21:22:58.452Z"
+generated_at: "2026-11-23T21:25:40.035Z"
 status: "active"
 ---
 

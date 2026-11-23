@@ -3,9 +3,9 @@ title: "Section 3613A - Effect of default"
 usc_title: 18
 usc_section: "3613A"
 chapter: 229
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3613A"
-generated_at: "2026-11-23T21:23:04.223Z"
+generated_at: "2026-11-23T21:25:44.217Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5341 - Short title"
 usc_title: 22
 usc_section: "5341"
 chapter: 62
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5341"
-generated_at: "2026-11-23T21:23:19.436Z"
+generated_at: "2026-11-23T21:25:58.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 372a - Heirs by adoption"
 usc_title: 25
 usc_section: "372a"
 chapter: 10
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 372a"
-generated_at: "2026-11-23T21:23:14.542Z"
+generated_at: "2026-11-23T21:25:54.567Z"
 status: "active"
 ---
 

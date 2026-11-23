@@ -3,9 +3,9 @@ title: "Section 3 - Stay of proceedings where issue therein referable to arbitra
 usc_title: 9
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "9 U.S.C. § 3"
-generated_at: "2026-11-23T21:22:42.800Z"
+generated_at: "2026-11-23T21:25:24.634Z"
 status: "active"
 ---
 

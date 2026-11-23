@@ -3,9 +3,9 @@ title: "Section 119 - Contracting for statistical analyses and data evaluation"
 usc_title: 38
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 119"
-generated_at: "2026-11-23T21:23:40.283Z"
+generated_at: "2026-11-23T21:26:16.550Z"
 status: "active"
 ---
 

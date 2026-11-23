@@ -3,9 +3,9 @@ title: "Section 1982 - Administrative cost"
 usc_title: 38
 usc_section: "1982"
 chapter: 19
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1982"
-generated_at: "2026-11-23T21:23:40.427Z"
+generated_at: "2026-11-23T21:26:16.685Z"
 status: "active"
 ---
 

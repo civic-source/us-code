@@ -3,9 +3,9 @@ title: "Section 960 - Deemed paid credit for subpart F inclusions"
 usc_title: 26
 usc_section: "960"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 960"
-generated_at: "2026-11-23T21:23:29.205Z"
+generated_at: "2026-11-23T21:26:06.444Z"
 status: "active"
 ---
 

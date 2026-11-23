@@ -3,9 +3,9 @@ title: "Section 6a - Interagency coordination to improve program administration"
 usc_title: 42
 usc_section: "6a"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6a"
-generated_at: "2026-11-23T21:23:54.775Z"
+generated_at: "2026-11-23T21:26:31.249Z"
 status: "active"
 ---
 

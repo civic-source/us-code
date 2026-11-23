@@ -3,9 +3,9 @@ title: "Section 3414 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3414"
 chapter: 54
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3414"
-generated_at: "2026-11-23T21:23:11.749Z"
+generated_at: "2026-11-23T21:25:51.973Z"
 status: "repealed"
 ---
 

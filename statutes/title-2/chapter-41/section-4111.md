@@ -3,9 +3,9 @@ title: "Section 4111 - Annual report by Comptroller General of the United States
 usc_title: 2
 usc_section: "4111"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4111"
-generated_at: "2026-11-23T21:22:38.077Z"
+generated_at: "2026-11-23T21:25:21.295Z"
 status: "active"
 ---
 

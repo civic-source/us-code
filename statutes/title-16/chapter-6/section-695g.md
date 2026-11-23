@@ -3,9 +3,9 @@ title: "Section 695g - Authorization of appropriations"
 usc_title: 16
 usc_section: "695g"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 695g"
-generated_at: "2026-11-23T21:23:11.341Z"
+generated_at: "2026-11-23T21:25:51.724Z"
 status: "active"
 ---
 

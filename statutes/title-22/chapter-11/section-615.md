@@ -3,9 +3,9 @@ title: "Section 615 - Books and records"
 usc_title: 22
 usc_section: "615"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 615"
-generated_at: "2026-11-23T21:23:19.040Z"
+generated_at: "2026-11-23T21:25:58.389Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1904 - Interpretation of and United States policy regarding Comp
 usc_title: 48
 usc_section: "1904"
 chapter: 18
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1904"
-generated_at: "2026-11-23T21:24:00.978Z"
+generated_at: "2026-11-23T21:26:38.057Z"
 status: "active"
 ---
 

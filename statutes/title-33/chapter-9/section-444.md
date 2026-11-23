@@ -3,9 +3,9 @@ title: "Section 444 - Dumping at other place than designated dumping grounds; pe
 usc_title: 33
 usc_section: "444"
 chapter: 9
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 444"
-generated_at: "2026-11-23T21:23:34.716Z"
+generated_at: "2026-11-23T21:26:11.303Z"
 status: "active"
 ---
 

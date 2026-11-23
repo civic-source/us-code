@@ -3,9 +3,9 @@ title: "Section 958 - Rights of way for wagon roads or railroads"
 usc_title: 43
 usc_section: "958"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 958"
-generated_at: "2026-11-23T21:23:42.690Z"
+generated_at: "2026-11-23T21:26:19.817Z"
 status: "active"
 ---
 

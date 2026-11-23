@@ -3,9 +3,9 @@ title: "Section 645 - Omitted"
 usc_title: 16
 usc_section: "645"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 645"
-generated_at: "2026-11-23T21:23:11.305Z"
+generated_at: "2026-11-23T21:25:51.703Z"
 status: "omitted"
 ---
 

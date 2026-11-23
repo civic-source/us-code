@@ -3,9 +3,9 @@ title: "Section 3515a - Authority regarding unmanned aircraft systems"
 usc_title: 50
 usc_section: "3515a"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3515a"
-generated_at: "2026-11-23T21:24:06.321Z"
+generated_at: "2026-11-23T21:26:39.055Z"
 status: "active"
 ---
 

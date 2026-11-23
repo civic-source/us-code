@@ -3,9 +3,9 @@ title: "Section 1103 - Goals and objectives"
 usc_title: 45
 usc_section: "1103"
 chapter: 20
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1103"
-generated_at: "2026-11-23T21:23:43.962Z"
+generated_at: "2026-11-23T21:26:19.237Z"
 status: "active"
 ---
 

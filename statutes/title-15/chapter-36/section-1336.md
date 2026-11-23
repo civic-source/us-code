@@ -3,9 +3,9 @@ title: "Section 1336 - Authority of Federal Trade Commission; unfair or deceptiv
 usc_title: 15
 usc_section: "1336"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1336"
-generated_at: "2026-11-23T21:22:58.078Z"
+generated_at: "2026-11-23T21:25:39.817Z"
 status: "active"
 ---
 

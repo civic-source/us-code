@@ -3,9 +3,9 @@ title: "Section 5318 - Urban development action grants"
 usc_title: 42
 usc_section: "5318"
 chapter: 69
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5318"
-generated_at: "2026-11-23T21:23:55.481Z"
+generated_at: "2026-11-23T21:26:32.794Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 997 - Establishment of women’s initiative teams"
 usc_title: 10
 usc_section: "997"
 chapter: 50
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 997"
-generated_at: "2026-11-23T21:22:51.282Z"
+generated_at: "2026-11-23T21:25:32.373Z"
 status: "active"
 ---
 

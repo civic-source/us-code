@@ -3,9 +3,9 @@ title: "Section 3796bb - Transferred"
 usc_title: 42
 usc_section: "3796bb"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3796bb"
-generated_at: "2026-11-23T21:23:55.386Z"
+generated_at: "2026-11-23T21:26:32.597Z"
 status: "transferred"
 ---
 

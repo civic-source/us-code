@@ -3,9 +3,9 @@ title: "Section 1 - Employer practices"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T21:23:55.262Z"
+generated_at: "2026-11-23T21:26:32.304Z"
 status: "active"
 ---
 

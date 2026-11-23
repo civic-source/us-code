@@ -3,9 +3,9 @@ title: "Section 221 - Requirements with respect to administering polygraph exami
 usc_title: 6
 usc_section: "221"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 221"
-generated_at: "2026-11-23T21:22:43.455Z"
+generated_at: "2026-11-23T21:25:25.766Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47146 - General aviation program runway extension pilot program"
 usc_title: 49
 usc_section: "47146"
 chapter: 471
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47146"
-generated_at: "2026-11-23T21:24:11.517Z"
+generated_at: "2026-11-23T21:26:40.989Z"
 status: "active"
 ---
 

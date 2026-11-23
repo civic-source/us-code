@@ -3,9 +3,9 @@ title: "Section 1226 - Payments"
 usc_title: 11
 usc_section: "1226"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 1226"
-generated_at: "2026-11-23T21:22:54.036Z"
+generated_at: "2026-11-23T21:25:34.968Z"
 status: "active"
 ---
 

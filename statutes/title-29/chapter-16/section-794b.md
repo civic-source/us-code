@@ -3,9 +3,9 @@ title: "Section 794b - Removal of architectural, transportation, or communicatio
 usc_title: 29
 usc_section: "794b"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 794b"
-generated_at: "2026-11-23T21:23:23.493Z"
+generated_at: "2026-11-23T21:26:02.213Z"
 status: "active"
 ---
 

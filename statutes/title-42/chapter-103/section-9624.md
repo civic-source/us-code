@@ -3,9 +3,9 @@ title: "Section 9624 - Methane recovery"
 usc_title: 42
 usc_section: "9624"
 chapter: 103
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9624"
-generated_at: "2026-11-23T21:23:55.930Z"
+generated_at: "2026-11-23T21:26:33.265Z"
 status: "active"
 ---
 

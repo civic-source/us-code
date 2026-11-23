@@ -3,9 +3,9 @@ title: "Section 250 - Omitted"
 usc_title: 24
 usc_section: "250"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "24 U.S.C. § 250"
-generated_at: "2026-11-23T21:23:13.412Z"
+generated_at: "2026-11-23T21:25:53.410Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423 - Federal Home Loan Bank districts; number and boundaries; 
 usc_title: 12
 usc_section: "1423"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1423"
-generated_at: "2026-11-23T21:23:00.740Z"
+generated_at: "2026-11-23T21:25:36.819Z"
 status: "active"
 ---
 

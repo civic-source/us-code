@@ -3,9 +3,9 @@ title: "Section 5275 - Records and reports"
 usc_title: 26
 usc_section: "5275"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5275"
-generated_at: "2026-11-23T21:23:29.488Z"
+generated_at: "2026-11-23T21:26:06.716Z"
 status: "active"
 ---
 

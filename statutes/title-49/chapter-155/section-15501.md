@@ -3,9 +3,9 @@ title: "Section 15501 - Standards for pipeline rates, classifications, through r
 usc_title: 49
 usc_section: "15501"
 chapter: 155
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 15501"
-generated_at: "2026-11-23T21:24:10.912Z"
+generated_at: "2026-11-23T21:26:40.697Z"
 status: "active"
 ---
 

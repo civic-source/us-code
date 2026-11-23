@@ -3,9 +3,9 @@ title: "Section 53109 - Repealed. Pub. L. 112–239, div. C, title XXXV, § 3508
 usc_title: 46
 usc_section: "53109"
 chapter: 531
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53109"
-generated_at: "2026-11-23T21:24:03.291Z"
+generated_at: "2026-11-23T21:26:37.252Z"
 status: "repealed"
 ---
 

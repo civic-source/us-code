@@ -3,9 +3,9 @@ title: "Section 11a - Cancer survivorship programs"
 usc_title: 42
 usc_section: "11a"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11a"
-generated_at: "2026-11-23T21:23:54.383Z"
+generated_at: "2026-11-23T21:26:30.486Z"
 status: "active"
 ---
 

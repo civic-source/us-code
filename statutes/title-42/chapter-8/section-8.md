@@ -3,9 +3,9 @@ title: "Section 8 - Definitions"
 usc_title: 42
 usc_section: "8"
 chapter: 8
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-11-23T21:23:55.147Z"
+generated_at: "2026-11-23T21:26:32.041Z"
 status: "active"
 ---
 

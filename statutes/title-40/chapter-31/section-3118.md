@@ -3,9 +3,9 @@ title: "Section 3118 - Right of taking as addition to existing rights"
 usc_title: 40
 usc_section: "3118"
 chapter: 31
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3118"
-generated_at: "2026-11-23T21:23:37.232Z"
+generated_at: "2026-11-23T21:26:14.851Z"
 status: "active"
 ---
 

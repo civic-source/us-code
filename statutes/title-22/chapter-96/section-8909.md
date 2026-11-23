@@ -3,9 +3,9 @@ title: "Section 8909 - Mandatory imposition of sanctions with respect to certain
 usc_title: 22
 usc_section: "8909"
 chapter: 96
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-11-23T21:23:19.583Z"
+generated_at: "2026-11-23T21:25:58.758Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 669 - Repealed. Pub. L. 97–375, title I, § 111(e) , Dec. 21, 
 usc_title: 45
 usc_section: "669"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 669"
-generated_at: "2026-11-23T21:23:43.939Z"
+generated_at: "2026-11-23T21:26:19.215Z"
 status: "repealed"
 ---
 

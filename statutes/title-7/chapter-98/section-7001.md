@@ -3,9 +3,9 @@ title: "Section 7001 - Conforming amendments relating to National Appeals Divisi
 usc_title: 7
 usc_section: "7001"
 chapter: 98
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7001"
-generated_at: "2026-11-23T21:22:46.346Z"
+generated_at: "2026-11-23T21:25:28.410Z"
 status: "active"
 ---
 

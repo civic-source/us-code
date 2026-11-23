@@ -3,9 +3,9 @@ title: "Section 13524 - Costs related to decommissioning and storage and disposa
 usc_title: 42
 usc_section: "13524"
 chapter: 134
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 13524"
-generated_at: "2026-11-23T21:23:56.238Z"
+generated_at: "2026-11-23T21:26:33.616Z"
 status: "active"
 ---
 

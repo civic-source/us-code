@@ -3,9 +3,9 @@ title: "Section 1704b - Repealed. Pub. L. 97–214, § 7(4) , July 12, 1982 , 96
 usc_title: 7
 usc_section: "1704b"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1704b"
-generated_at: "2026-11-23T21:22:46.070Z"
+generated_at: "2026-11-23T21:25:28.154Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2626 - Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(
 usc_title: 50
 usc_section: "2626"
 chapter: 42
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2626"
-generated_at: "2026-11-23T21:24:06.051Z"
+generated_at: "2026-11-23T21:26:38.981Z"
 status: "repealed"
 ---
 

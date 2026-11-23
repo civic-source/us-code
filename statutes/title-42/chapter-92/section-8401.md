@@ -3,9 +3,9 @@ title: "Section 8401 - Assistance to areas impacted by increased coal or uranium
 usc_title: 42
 usc_section: "8401"
 chapter: 92
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8401"
-generated_at: "2026-11-23T21:23:55.865Z"
+generated_at: "2026-11-23T21:26:33.200Z"
 status: "active"
 ---
 

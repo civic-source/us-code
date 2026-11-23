@@ -3,9 +3,9 @@ title: "Section 4533 - Other presidential action authorized"
 usc_title: 50
 usc_section: "4533"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4533"
-generated_at: "2026-11-23T21:24:06.435Z"
+generated_at: "2026-11-23T21:26:39.102Z"
 status: "active"
 ---
 

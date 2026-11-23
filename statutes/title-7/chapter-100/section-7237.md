@@ -3,9 +3,9 @@ title: "Section 7237 - Availability of recourse loans for high moisture feed gra
 usc_title: 7
 usc_section: "7237"
 chapter: 100
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7237"
-generated_at: "2026-11-23T21:22:46.354Z"
+generated_at: "2026-11-23T21:25:28.419Z"
 status: "active"
 ---
 

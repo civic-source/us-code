@@ -3,9 +3,9 @@ title: "Section 14901 - General civil penalties"
 usc_title: 49
 usc_section: "14901"
 chapter: 149
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14901"
-generated_at: "2026-11-23T21:24:10.904Z"
+generated_at: "2026-11-23T21:26:40.695Z"
 status: "active"
 ---
 

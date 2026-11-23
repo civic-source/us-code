@@ -3,9 +3,9 @@ title: "Section 12161 - Community schools youth services and supervision grant p
 usc_title: 34
 usc_section: "12161"
 chapter: 121
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12161"
-generated_at: "2026-11-23T21:23:33.562Z"
+generated_at: "2026-11-23T21:26:09.729Z"
 status: "active"
 ---
 

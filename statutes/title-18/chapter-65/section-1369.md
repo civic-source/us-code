@@ -3,9 +3,9 @@ title: "Section 1369 - Destruction of veterans’ memorials"
 usc_title: 18
 usc_section: "1369"
 chapter: 65
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1369"
-generated_at: "2026-11-23T21:23:04.085Z"
+generated_at: "2026-11-23T21:25:44.060Z"
 status: "active"
 ---
 

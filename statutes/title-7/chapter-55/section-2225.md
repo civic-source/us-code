@@ -3,9 +3,9 @@ title: "Section 2225 - Employment of temporary personnel"
 usc_title: 7
 usc_section: "2225"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2225"
-generated_at: "2026-11-23T21:22:46.192Z"
+generated_at: "2026-11-23T21:25:28.285Z"
 status: "active"
 ---
 

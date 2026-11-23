@@ -3,9 +3,9 @@ title: "Section 1108 - Administrative provisions"
 usc_title: 2
 usc_section: "1108"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1108"
-generated_at: "2026-11-23T21:22:37.999Z"
+generated_at: "2026-11-23T21:25:21.213Z"
 status: "active"
 ---
 

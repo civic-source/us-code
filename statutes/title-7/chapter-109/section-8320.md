@@ -3,9 +3,9 @@ title: "Section 8320 - Expansion of Animal and Plant Health Inspection Service a
 usc_title: 7
 usc_section: "8320"
 chapter: 109
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8320"
-generated_at: "2026-11-23T21:22:46.436Z"
+generated_at: "2026-11-23T21:25:28.474Z"
 status: "active"
 ---
 

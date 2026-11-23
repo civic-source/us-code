@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-11-23T21:23:28.891Z"
+generated_at: "2026-11-23T21:26:06.162Z"
 status: "active"
 ---
 
@@ -336,7 +336,7 @@ status: "active"
         - **(I)** The amount paid by or assessed to the employee during the taxable year for or with respect to certified long-term care insurance for the employee or the employee’s spouse (or other family member of the employee as provided by the Secretary by regulation).
         - **(II)** An amount equal to 10 percent of the present value of the nonforfeitable accrued benefit of the employee under the plan.
         - **(III)** $2,500.
-      - **(ii)** In the case of taxable years beginning after December 31, 2024 , the $2,500 amount in clause (i)(II) shall be increased by an amount equal to—
+      - **(ii)** In the case of taxable years beginning after December 31, 2024 , the $2,500 amount in clause (i)(II) 1 1 So in original. Probably should be “(i)(III)”. shall be increased by an amount equal to—
         - **(I)** such dollar amount, multiplied by
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2023” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     - **(C)** The term “certified long-term care insurance” means—

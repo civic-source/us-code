@@ -3,9 +3,9 @@ title: "Section 5376 - Application of other provisions"
 usc_title: 25
 usc_section: "5376"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5376"
-generated_at: "2026-11-23T21:23:14.815Z"
+generated_at: "2026-11-23T21:25:54.731Z"
 status: "active"
 ---
 

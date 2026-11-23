@@ -3,9 +3,9 @@ title: "Section 3239 - Optional venue for espionage and related offenses"
 usc_title: 18
 usc_section: "3239"
 chapter: 211
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3239"
-generated_at: "2026-11-23T21:23:04.198Z"
+generated_at: "2026-11-23T21:25:44.192Z"
 status: "active"
 ---
 

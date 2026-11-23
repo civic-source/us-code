@@ -3,9 +3,9 @@ title: "Section 6 - Forfeiture of property in transit"
 usc_title: 15
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-11-23T21:22:57.554Z"
+generated_at: "2026-11-23T21:25:39.462Z"
 status: "active"
 ---
 

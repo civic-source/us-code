@@ -3,9 +3,9 @@ title: "Section 2535 - Safe-to-Report policy for Coast Guard"
 usc_title: 14
 usc_section: "2535"
 chapter: 25
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 2535"
-generated_at: "2026-11-23T21:22:54.528Z"
+generated_at: "2026-11-23T21:25:35.437Z"
 status: "active"
 ---
 

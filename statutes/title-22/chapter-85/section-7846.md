@@ -3,9 +3,9 @@ title: "Section 7846 - Sense of Congress on humanitarian coordination related to
 usc_title: 22
 usc_section: "7846"
 chapter: 85
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7846"
-generated_at: "2026-11-23T21:23:19.547Z"
+generated_at: "2026-11-23T21:25:58.730Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7355a - Supplement, not supplant"
 usc_title: 20
 usc_section: "7355a"
 chapter: 70
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7355a"
-generated_at: "2026-11-23T21:23:08.089Z"
+generated_at: "2026-11-23T21:25:47.577Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3369c - Notification of an active measures campaign"
 usc_title: 50
 usc_section: "3369c"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3369c"
-generated_at: "2026-11-23T21:24:06.289Z"
+generated_at: "2026-11-23T21:26:39.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 433 - Remedies of cooperative association excluded from represen
 usc_title: 15
 usc_section: "433"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 433"
-generated_at: "2026-11-23T21:22:57.828Z"
+generated_at: "2026-11-23T21:25:39.634Z"
 status: "active"
 ---
 

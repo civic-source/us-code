@@ -3,9 +3,9 @@ title: "Section 16372 - Determination of eligibility and project selection"
 usc_title: 42
 usc_section: "16372"
 chapter: 149
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16372"
-generated_at: "2026-11-23T21:23:56.364Z"
+generated_at: "2026-11-23T21:26:33.737Z"
 status: "active"
 ---
 

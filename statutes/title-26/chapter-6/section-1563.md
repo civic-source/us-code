@@ -3,9 +3,9 @@ title: "Section 1563 - Definitions and special rules"
 usc_title: 26
 usc_section: "1563"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1563"
-generated_at: "2026-11-23T21:23:29.305Z"
+generated_at: "2026-11-23T21:26:06.518Z"
 status: "active"
 ---
 

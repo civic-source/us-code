@@ -3,9 +3,9 @@ title: "Section 1597 - Reorganization of government"
 usc_title: 48
 usc_section: "1597"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1597"
-generated_at: "2026-11-23T21:24:00.853Z"
+generated_at: "2026-11-23T21:26:38.014Z"
 status: "active"
 ---
 

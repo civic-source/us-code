@@ -3,9 +3,9 @@ title: "Section 6 - Definitions"
 usc_title: 20
 usc_section: "6"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-11-23T21:23:07.578Z"
+generated_at: "2026-11-23T21:25:46.942Z"
 status: "active"
 ---
 

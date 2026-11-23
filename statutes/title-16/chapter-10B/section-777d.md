@@ -3,9 +3,9 @@ title: "Section 777d - Certification of funds deducted for expenses and amounts 
 usc_title: 16
 usc_section: "777d"
 chapter: 10
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 777d"
-generated_at: "2026-11-23T21:23:11.394Z"
+generated_at: "2026-11-23T21:25:51.751Z"
 status: "active"
 ---
 

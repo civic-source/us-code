@@ -3,9 +3,9 @@ title: "Section 6159 - Defense nuclear nonproliferation management plan"
 usc_title: 10
 usc_section: "6159"
 chapter: 603
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6159"
-generated_at: "2026-11-23T21:22:51.971Z"
+generated_at: "2026-11-23T21:25:32.818Z"
 status: "active"
 ---
 

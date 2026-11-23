@@ -3,9 +3,9 @@ title: "Section 9564 - Progress reports"
 usc_title: 22
 usc_section: "9564"
 chapter: 102
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9564"
-generated_at: "2026-11-23T21:23:19.625Z"
+generated_at: "2026-11-23T21:25:58.779Z"
 status: "active"
 ---
 

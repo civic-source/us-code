@@ -3,9 +3,9 @@ title: "Section 887b - Art. 87b. Offenses against correctional custody and restr
 usc_title: 10
 usc_section: "887b"
 chapter: 47
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 887b"
-generated_at: "2026-11-23T21:22:51.234Z"
+generated_at: "2026-11-23T21:25:32.346Z"
 status: "active"
 ---
 

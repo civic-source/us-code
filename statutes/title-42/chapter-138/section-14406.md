@@ -3,9 +3,9 @@ title: "Section 14406 - Clarification with respect to advance directives"
 usc_title: 42
 usc_section: "14406"
 chapter: 138
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14406"
-generated_at: "2026-11-23T21:23:56.256Z"
+generated_at: "2026-11-23T21:26:33.639Z"
 status: "active"
 ---
 

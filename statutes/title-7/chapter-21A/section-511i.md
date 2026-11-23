@@ -3,9 +3,9 @@ title: "Section 511i - Offenses"
 usc_title: 7
 usc_section: "511i"
 chapter: 21
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 511i"
-generated_at: "2026-11-23T21:22:45.866Z"
+generated_at: "2026-11-23T21:25:27.970Z"
 status: "active"
 ---
 

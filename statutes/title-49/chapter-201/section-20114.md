@@ -3,9 +3,9 @@ title: "Section 20114 - Judicial procedures"
 usc_title: 49
 usc_section: "20114"
 chapter: 201
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20114"
-generated_at: "2026-11-23T21:24:10.951Z"
+generated_at: "2026-11-23T21:26:40.703Z"
 status: "active"
 ---
 

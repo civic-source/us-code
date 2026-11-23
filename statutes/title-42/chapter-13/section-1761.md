@@ -3,9 +3,9 @@ title: "Section 1761 - Summer food service program for children"
 usc_title: 42
 usc_section: "1761"
 chapter: 13
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1761"
-generated_at: "2026-11-23T21:23:55.192Z"
+generated_at: "2026-11-23T21:26:32.134Z"
 status: "active"
 ---
 

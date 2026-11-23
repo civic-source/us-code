@@ -3,9 +3,9 @@ title: "Section 6214 - Determinations by Tax Court"
 usc_title: 26
 usc_section: "6214"
 chapter: 63
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6214"
-generated_at: "2026-11-23T21:23:29.566Z"
+generated_at: "2026-11-23T21:26:06.834Z"
 status: "active"
 ---
 

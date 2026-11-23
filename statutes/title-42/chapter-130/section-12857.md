@@ -3,9 +3,9 @@ title: "Section 12857 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12857"
 chapter: 130
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12857"
-generated_at: "2026-11-23T21:23:56.190Z"
+generated_at: "2026-11-23T21:26:33.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51104 - Environmental requirements"
 usc_title: 51
 usc_section: "51104"
 chapter: 511
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 51104"
-generated_at: "2026-11-23T21:24:14.425Z"
+generated_at: "2026-11-23T21:26:42.555Z"
 status: "active"
 ---
 

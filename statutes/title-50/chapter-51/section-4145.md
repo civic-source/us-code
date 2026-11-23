@@ -3,9 +3,9 @@ title: "Section 4145 - Application of other laws"
 usc_title: 50
 usc_section: "4145"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4145"
-generated_at: "2026-11-23T21:24:06.410Z"
+generated_at: "2026-11-23T21:26:39.090Z"
 status: "active"
 ---
 

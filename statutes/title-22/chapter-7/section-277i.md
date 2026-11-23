@@ -3,9 +3,9 @@ title: "Section 277i - Report on water sharing"
 usc_title: 22
 usc_section: "277i"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 277i"
-generated_at: "2026-11-23T21:23:18.956Z"
+generated_at: "2026-11-23T21:25:58.350Z"
 status: "active"
 ---
 

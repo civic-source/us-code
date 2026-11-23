@@ -3,9 +3,9 @@ title: "Section 4108 - Semiannual statements of expenditures by Secretary of Sen
 usc_title: 2
 usc_section: "4108"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4108"
-generated_at: "2026-11-23T21:22:38.077Z"
+generated_at: "2026-11-23T21:25:21.294Z"
 status: "active"
 ---
 

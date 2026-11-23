@@ -3,9 +3,9 @@ title: "Section 531 - Cable channels for public, educational, or governmental us
 usc_title: 47
 usc_section: "531"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 531"
-generated_at: "2026-11-23T21:24:00.024Z"
+generated_at: "2026-11-23T21:26:36.029Z"
 status: "active"
 ---
 

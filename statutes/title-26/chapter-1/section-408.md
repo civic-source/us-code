@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-11-23T21:23:28.930Z"
+generated_at: "2026-11-23T21:26:06.195Z"
 status: "active"
 ---
 
@@ -313,7 +313,7 @@ status: "active"
       - **(iii)** Clause (i) shall apply to an arrangement only if, under the arrangement—
         - **(I)** matching contributions on account of qualified student loan payments are provided only on behalf of employees otherwise eligible to elect contributions under subparagraph (A)(i)(I), and
         - **(II)** all employees otherwise eligible to participate in the arrangement are eligible to receive matching contributions on account of qualified student loan payments.
-    - **(G)** In the case of taxable years beginning after December 31, 2024 , the $5,000 amount in subparagraph (A)(iv)(II) shall be increased by an amount equal to—
+    - **(G)** In the case of taxable years beginning after December 31, 2024 , the $5,000 amount in subparagraph (A)(iv)(II) 2 2 So in original. Cl. (iv) of subsec. (p)(2)(A) of this section does not contain subclauses. shall be increased by an amount equal to—
       - **(i)** such amount, multiplied by
       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2023” for “2016” in subparagraph (A)(ii) thereof.
     - **(H)** An eligible employer which had not more than 25 employees who received at least $5,000 of compensation from the employer for 1 or more years, and which has more than 25 such employees for any subsequent year, shall be treated for purposes of subparagraph (E)(i) as having 25 such employees for the 2 years following the last year the employer had not more than 25 such employees, and not as having made the election under subparagraph (E)(i)(II) for such 2 years. Rules similar to the second sentence of subparagraph (C)(i)(II) shall apply for purposes of this subparagraph.

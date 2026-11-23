@@ -3,9 +3,9 @@ title: "Section 712 - Treaty and convention implementing regulations; seasonal t
 usc_title: 16
 usc_section: "712"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 712"
-generated_at: "2026-11-23T21:23:11.358Z"
+generated_at: "2026-11-23T21:25:51.732Z"
 status: "active"
 ---
 

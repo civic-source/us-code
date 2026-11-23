@@ -3,9 +3,9 @@ title: "Section 40941 - Disposition records automation and transmittal improveme
 usc_title: 34
 usc_section: "40941"
 chapter: 409
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 40941"
-generated_at: "2026-11-23T21:23:33.664Z"
+generated_at: "2026-11-23T21:26:09.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4711 - Establishment"
 usc_title: 19
 usc_section: "4711"
 chapter: 29
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4711"
-generated_at: "2026-11-23T21:23:05.778Z"
+generated_at: "2026-11-23T21:25:42.897Z"
 status: "active"
 ---
 

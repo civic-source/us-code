@@ -3,9 +3,9 @@ title: "Section 5119 - Application to Alaska"
 usc_title: 25
 usc_section: "5119"
 chapter: 45
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5119"
-generated_at: "2026-11-23T21:23:14.800Z"
+generated_at: "2026-11-23T21:25:54.718Z"
 status: "active"
 ---
 

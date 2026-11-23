@@ -3,9 +3,9 @@ title: "Section 59 - West River in West Haven, Connecticut"
 usc_title: 33
 usc_section: "59"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 59"
-generated_at: "2026-11-23T21:23:34.695Z"
+generated_at: "2026-11-23T21:26:11.282Z"
 status: "active"
 ---
 

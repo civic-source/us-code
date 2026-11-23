@@ -3,9 +3,9 @@ title: "Section 741 - Definitions"
 usc_title: 6
 usc_section: "741"
 chapter: 2
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 741"
-generated_at: "2026-11-23T21:22:43.546Z"
+generated_at: "2026-11-23T21:25:25.842Z"
 status: "active"
 ---
 

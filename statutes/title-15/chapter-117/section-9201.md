@@ -3,9 +3,9 @@ title: "Section 9201 - Findings"
 usc_title: 15
 usc_section: "9201"
 chapter: 117
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9201"
-generated_at: "2026-11-23T21:22:58.578Z"
+generated_at: "2026-11-23T21:25:40.139Z"
 status: "active"
 ---
 

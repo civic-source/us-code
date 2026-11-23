@@ -3,9 +3,9 @@ title: "Section 10309 - Post Data Pilot Program"
 usc_title: 22
 usc_section: "10309"
 chapter: 110
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10309"
-generated_at: "2026-11-23T21:23:19.658Z"
+generated_at: "2026-11-23T21:25:58.797Z"
 status: "active"
 ---
 

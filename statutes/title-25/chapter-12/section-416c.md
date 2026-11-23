@@ -3,9 +3,9 @@ title: "Section 416c - Lease of lands of deceased Indians for benefit of heirs o
 usc_title: 25
 usc_section: "416c"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 416c"
-generated_at: "2026-11-23T21:23:14.556Z"
+generated_at: "2026-11-23T21:25:54.579Z"
 status: "active"
 ---
 

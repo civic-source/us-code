@@ -3,9 +3,9 @@ title: "Section 3532 - Implementation of Uruguay Round Agreements"
 usc_title: 19
 usc_section: "3532"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3532"
-generated_at: "2026-11-23T21:23:05.690Z"
+generated_at: "2026-11-23T21:25:42.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8304 - Authority to prohibit participation in swap activities"
 usc_title: 15
 usc_section: "8304"
 chapter: 109
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8304"
-generated_at: "2026-11-23T21:22:58.506Z"
+generated_at: "2026-11-23T21:25:40.078Z"
 status: "active"
 ---
 

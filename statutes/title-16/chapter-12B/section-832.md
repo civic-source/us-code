@@ -3,9 +3,9 @@ title: "Section 832 - Completion and maintenance of project; generation of elect
 usc_title: 16
 usc_section: "832"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 832"
-generated_at: "2026-11-23T21:23:11.442Z"
+generated_at: "2026-11-23T21:25:51.777Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5594 - Repealed. Pub. L. 116–260, div. Z, title III, § 3006(f
 usc_title: 42
 usc_section: "5594"
 chapter: 71
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5594"
-generated_at: "2026-11-23T21:23:55.493Z"
+generated_at: "2026-11-23T21:26:32.816Z"
 status: "repealed"
 ---
 

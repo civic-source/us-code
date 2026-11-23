@@ -3,9 +3,9 @@ title: "Section 121c - Transferred"
 usc_title: 2
 usc_section: "121c"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 121c"
-generated_at: "2026-11-23T21:22:37.925Z"
+generated_at: "2026-11-23T21:25:21.131Z"
 status: "transferred"
 ---
 

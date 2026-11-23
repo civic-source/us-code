@@ -3,9 +3,9 @@ title: "Section 3571 - Subsidies enforcement"
 usc_title: 19
 usc_section: "3571"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 3571"
-generated_at: "2026-11-23T21:23:05.693Z"
+generated_at: "2026-11-23T21:25:42.846Z"
 status: "active"
 ---
 

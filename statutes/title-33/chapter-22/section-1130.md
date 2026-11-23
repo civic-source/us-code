@@ -3,9 +3,9 @@ title: "Section 1130 - Repealed. Pub. L. 102–186, § 5(a) , Dec. 4, 1991 , 105
 usc_title: 33
 usc_section: "1130"
 chapter: 22
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1130"
-generated_at: "2026-11-23T21:23:34.842Z"
+generated_at: "2026-11-23T21:26:11.357Z"
 status: "repealed"
 ---
 

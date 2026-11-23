@@ -3,9 +3,9 @@ title: "Section 4549 - Uniform residential loan application"
 usc_title: 12
 usc_section: "4549"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4549"
-generated_at: "2026-11-23T21:23:01.159Z"
+generated_at: "2026-11-23T21:25:37.188Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7731 - Inspections, seizures, and warrants"
 usc_title: 7
 usc_section: "7731"
 chapter: 104
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7731"
-generated_at: "2026-11-23T21:22:46.389Z"
+generated_at: "2026-11-23T21:25:28.446Z"
 status: "active"
 ---
 

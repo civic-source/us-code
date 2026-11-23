@@ -3,9 +3,9 @@ title: "Section 3871 - Establishment and purposes"
 usc_title: 16
 usc_section: "3871"
 chapter: 58
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3871"
-generated_at: "2026-11-23T21:23:11.787Z"
+generated_at: "2026-11-23T21:25:52.004Z"
 status: "active"
 ---
 

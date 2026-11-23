@@ -3,9 +3,9 @@ title: "Section 208 - Acts affecting a personal financial interest"
 usc_title: 18
 usc_section: "208"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 208"
-generated_at: "2026-11-23T21:23:03.994Z"
+generated_at: "2026-11-23T21:25:43.951Z"
 status: "active"
 ---
 

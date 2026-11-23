@@ -3,9 +3,9 @@ title: "Section 124 - Direct shipment of wine"
 usc_title: 27
 usc_section: "124"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "27 U.S.C. § 124"
-generated_at: "2026-11-23T21:23:20.904Z"
+generated_at: "2026-11-23T21:26:00.003Z"
 status: "active"
 ---
 

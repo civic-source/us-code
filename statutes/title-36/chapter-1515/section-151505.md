@@ -3,9 +3,9 @@ title: "Section 151505 - Governing body"
 usc_title: 36
 usc_section: "151505"
 chapter: 1515
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 151505"
-generated_at: "2026-11-23T21:23:38.392Z"
+generated_at: "2026-11-23T21:26:13.665Z"
 status: "active"
 ---
 

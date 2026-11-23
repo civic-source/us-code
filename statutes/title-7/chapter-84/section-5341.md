@@ -3,9 +3,9 @@ title: "Section 5341 - Establishment of dietary guidelines"
 usc_title: 7
 usc_section: "5341"
 chapter: 84
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5341"
-generated_at: "2026-11-23T21:22:46.280Z"
+generated_at: "2026-11-23T21:25:28.360Z"
 status: "active"
 ---
 

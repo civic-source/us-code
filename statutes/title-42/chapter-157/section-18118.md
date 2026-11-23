@@ -3,9 +3,9 @@ title: "Section 18118 - Rules of construction"
 usc_title: 42
 usc_section: "18118"
 chapter: 157
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18118"
-generated_at: "2026-11-23T21:23:56.472Z"
+generated_at: "2026-11-23T21:26:33.817Z"
 status: "active"
 ---
 

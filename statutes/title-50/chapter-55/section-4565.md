@@ -3,9 +3,9 @@ title: "Section 4565 - Authority to review certain mergers, acquisitions, and ta
 usc_title: 50
 usc_section: "4565"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4565"
-generated_at: "2026-11-23T21:24:06.444Z"
+generated_at: "2026-11-23T21:26:39.107Z"
 status: "active"
 ---
 

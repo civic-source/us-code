@@ -3,9 +3,9 @@ title: "Section 225 - Reports, evaluations, and research regarding drug interdic
 usc_title: 6
 usc_section: "225"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 225"
-generated_at: "2026-11-23T21:22:43.457Z"
+generated_at: "2026-11-23T21:25:25.768Z"
 status: "active"
 ---
 

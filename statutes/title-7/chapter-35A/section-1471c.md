@@ -3,9 +3,9 @@ title: "Section 1471c - Eligible producers"
 usc_title: 7
 usc_section: "1471c"
 chapter: 35
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1471c"
-generated_at: "2026-11-23T21:22:45.993Z"
+generated_at: "2026-11-23T21:25:28.089Z"
 status: "active"
 ---
 

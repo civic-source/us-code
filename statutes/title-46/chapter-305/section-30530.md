@@ -3,9 +3,9 @@ title: "Section 30530 - Liability as master, officer, or seaman not affected"
 usc_title: 46
 usc_section: "30530"
 chapter: 305
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 30530"
-generated_at: "2026-11-23T21:24:03.200Z"
+generated_at: "2026-11-23T21:26:37.161Z"
 status: "active"
 ---
 

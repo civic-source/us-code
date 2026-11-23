@@ -3,9 +3,9 @@ title: "Section 6 - Remedies and enforcement"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-11-23T21:23:55.263Z"
+generated_at: "2026-11-23T21:26:32.306Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8322 - Effect on other statutes"
 usc_title: 5
 usc_section: "8322"
 chapter: 83
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8322"
-generated_at: "2026-11-23T21:22:40.447Z"
+generated_at: "2026-11-23T21:25:23.364Z"
 status: "active"
 ---
 

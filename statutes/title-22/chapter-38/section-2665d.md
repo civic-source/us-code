@@ -3,9 +3,9 @@ title: "Section 2665d - Charles B. Rangel International Affairs Fellowship Progr
 usc_title: 22
 usc_section: "2665d"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2665d"
-generated_at: "2026-11-23T21:23:19.288Z"
+generated_at: "2026-11-23T21:25:58.523Z"
 status: "active"
 ---
 

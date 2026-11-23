@@ -3,9 +3,9 @@ title: "Section 4238 - Compliance with Budget Act"
 usc_title: 50
 usc_section: "4238"
 chapter: 52
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4238"
-generated_at: "2026-11-23T21:24:06.415Z"
+generated_at: "2026-11-23T21:26:39.092Z"
 status: "active"
 ---
 

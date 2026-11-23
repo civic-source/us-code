@@ -3,9 +3,9 @@ title: "Section 4h - Discussions to increase productive economic participation o
 usc_title: 22
 usc_section: "4h"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4h"
-generated_at: "2026-11-23T21:23:18.924Z"
+generated_at: "2026-11-23T21:25:58.326Z"
 status: "active"
 ---
 

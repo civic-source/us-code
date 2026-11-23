@@ -3,9 +3,9 @@ title: "Section 10204 - Rate of pay for original appointments"
 usc_title: 5
 usc_section: "10204"
 chapter: 102
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 10204"
-generated_at: "2026-11-23T21:22:40.573Z"
+generated_at: "2026-11-23T21:25:23.468Z"
 status: "active"
 ---
 

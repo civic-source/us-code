@@ -3,9 +3,9 @@ title: "Section 3105 - Appointment of administrative law judges"
 usc_title: 5
 usc_section: "3105"
 chapter: 31
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3105"
-generated_at: "2026-11-23T21:22:40.224Z"
+generated_at: "2026-11-23T21:25:23.133Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 681f - Cyber Incident Reporting Council"
 usc_title: 6
 usc_section: "681f"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 681f"
-generated_at: "2026-11-23T21:22:43.543Z"
+generated_at: "2026-11-23T21:25:25.840Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 303a - Standards for children’s television programming"
 usc_title: 47
 usc_section: "303a"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 303a"
-generated_at: "2026-11-23T21:23:59.975Z"
+generated_at: "2026-11-23T21:26:35.979Z"
 status: "active"
 ---
 

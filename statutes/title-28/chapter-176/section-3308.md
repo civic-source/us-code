@@ -3,9 +3,9 @@ title: "Section 3308 - Supplementary provision"
 usc_title: 28
 usc_section: "3308"
 chapter: 176
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 3308"
-generated_at: "2026-11-23T21:23:22.505Z"
+generated_at: "2026-11-23T21:26:01.146Z"
 status: "active"
 ---
 

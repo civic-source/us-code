@@ -3,9 +3,9 @@ title: "Section 10722 - Purposes"
 usc_title: 34
 usc_section: "10722"
 chapter: 101
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10722"
-generated_at: "2026-11-23T21:23:33.538Z"
+generated_at: "2026-11-23T21:26:09.690Z"
 status: "active"
 ---
 

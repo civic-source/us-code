@@ -3,9 +3,9 @@ title: "Section 4504 - Statute of limitation"
 usc_title: 15
 usc_section: "4504"
 chapter: 71
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4504"
-generated_at: "2026-11-23T21:22:58.371Z"
+generated_at: "2026-11-23T21:25:39.994Z"
 status: "active"
 ---
 

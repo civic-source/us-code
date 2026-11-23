@@ -3,9 +3,9 @@ title: "Section 5805 - Benchmark for loans"
 usc_title: 12
 usc_section: "5805"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5805"
-generated_at: "2026-11-23T21:23:01.303Z"
+generated_at: "2026-11-23T21:25:37.305Z"
 status: "active"
 ---
 

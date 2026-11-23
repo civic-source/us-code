@@ -3,9 +3,9 @@ title: "Section 6437 - Three-year programs or projects"
 usc_title: 20
 usc_section: "6437"
 chapter: 70
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6437"
-generated_at: "2026-11-23T21:23:08.050Z"
+generated_at: "2026-11-23T21:25:47.516Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 346 - Consolidation and co-location of offices"
 usc_title: 6
 usc_section: "346"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 346"
-generated_at: "2026-11-23T21:22:43.478Z"
+generated_at: "2026-11-23T21:25:25.784Z"
 status: "active"
 ---
 

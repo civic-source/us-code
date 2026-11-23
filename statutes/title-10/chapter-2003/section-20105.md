@@ -3,9 +3,9 @@ title: "Section 20105 - Sustained duty"
 usc_title: 10
 usc_section: "20105"
 chapter: 2003
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20105"
-generated_at: "2026-11-23T21:22:52.325Z"
+generated_at: "2026-11-23T21:25:33.083Z"
 status: "active"
 ---
 

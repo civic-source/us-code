@@ -3,9 +3,9 @@ title: "Section 402b - Basic needs allowance for members on active service in th
 usc_title: 37
 usc_section: "402b"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 402b"
-generated_at: "2026-11-23T21:23:38.789Z"
+generated_at: "2026-11-23T21:26:14.226Z"
 status: "active"
 ---
 

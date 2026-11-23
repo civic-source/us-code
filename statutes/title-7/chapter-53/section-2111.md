@@ -3,9 +3,9 @@ title: "Section 2111 - Administrative review of orders; petition; hearing; judic
 usc_title: 7
 usc_section: "2111"
 chapter: 53
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2111"
-generated_at: "2026-11-23T21:22:46.181Z"
+generated_at: "2026-11-23T21:25:28.274Z"
 status: "active"
 ---
 

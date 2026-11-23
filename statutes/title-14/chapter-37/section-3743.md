@@ -3,9 +3,9 @@ title: "Section 3743 - Eligibility for promotion"
 usc_title: 14
 usc_section: "3743"
 chapter: 37
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 3743"
-generated_at: "2026-11-23T21:22:54.540Z"
+generated_at: "2026-11-23T21:25:35.458Z"
 status: "active"
 ---
 

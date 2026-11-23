@@ -3,9 +3,9 @@ title: "Section 6263 - Program to monitor department of energy workers exposed t
 usc_title: 10
 usc_section: "6263"
 chapter: 606
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6263"
-generated_at: "2026-11-23T21:22:51.981Z"
+generated_at: "2026-11-23T21:25:32.825Z"
 status: "active"
 ---
 

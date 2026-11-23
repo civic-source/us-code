@@ -3,9 +3,9 @@ title: "Section 57302 - Authority to acquire vessels"
 usc_title: 46
 usc_section: "57302"
 chapter: 573
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 57302"
-generated_at: "2026-11-23T21:24:03.370Z"
+generated_at: "2026-11-23T21:26:37.324Z"
 status: "active"
 ---
 

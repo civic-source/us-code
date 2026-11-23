@@ -3,9 +3,9 @@ title: "Section 381 - Omitted"
 usc_title: 7
 usc_section: "381"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 381"
-generated_at: "2026-11-23T21:22:45.854Z"
+generated_at: "2026-11-23T21:25:27.952Z"
 status: "omitted"
 ---
 

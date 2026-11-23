@@ -3,9 +3,9 @@ title: "Section 255 - Jurisdiction and arbitration"
 usc_title: 7
 usc_section: "255"
 chapter: 10
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 255"
-generated_at: "2026-11-23T21:22:45.847Z"
+generated_at: "2026-11-23T21:25:27.940Z"
 status: "active"
 ---
 

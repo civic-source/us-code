@@ -3,9 +3,9 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-11-23T21:23:42.769Z"
+generated_at: "2026-11-23T21:26:19.889Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2460 - Bureau of Educational and Cultural Affairs"
 usc_title: 22
 usc_section: "2460"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2460"
-generated_at: "2026-11-23T21:23:19.240Z"
+generated_at: "2026-11-23T21:25:58.499Z"
 status: "active"
 ---
 

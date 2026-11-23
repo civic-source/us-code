@@ -3,9 +3,9 @@ title: "Section 3301 - Definition of records"
 usc_title: 44
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3301"
-generated_at: "2026-11-23T21:23:43.699Z"
+generated_at: "2026-11-23T21:26:18.420Z"
 status: "active"
 ---
 

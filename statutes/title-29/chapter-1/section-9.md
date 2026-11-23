@@ -3,9 +3,9 @@ title: "Section 9 - Authorization of special studies, compilations, and transcri
 usc_title: 29
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 9"
-generated_at: "2026-11-23T21:23:23.407Z"
+generated_at: "2026-11-23T21:26:02.159Z"
 status: "active"
 ---
 

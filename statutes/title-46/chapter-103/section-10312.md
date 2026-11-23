@@ -3,9 +3,9 @@ title: "Section 10312 - Settlements on discharge"
 usc_title: 46
 usc_section: "10312"
 chapter: 103
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 10312"
-generated_at: "2026-11-23T21:24:03.155Z"
+generated_at: "2026-11-23T21:26:37.111Z"
 status: "active"
 ---
 

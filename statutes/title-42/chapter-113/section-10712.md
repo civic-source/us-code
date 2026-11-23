@@ -3,9 +3,9 @@ title: "Section 10712 - Report by Attorney General"
 usc_title: 42
 usc_section: "10712"
 chapter: 113
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10712"
-generated_at: "2026-11-23T21:23:56.034Z"
+generated_at: "2026-11-23T21:26:33.384Z"
 status: "active"
 ---
 

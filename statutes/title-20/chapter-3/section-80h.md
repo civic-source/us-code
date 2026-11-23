@@ -3,9 +3,9 @@ title: "Section 80h - Administration; quorum"
 usc_title: 20
 usc_section: "80h"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 80h"
-generated_at: "2026-11-23T21:23:07.567Z"
+generated_at: "2026-11-23T21:25:46.931Z"
 status: "active"
 ---
 

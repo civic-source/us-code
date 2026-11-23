@@ -3,9 +3,9 @@ title: "Section 1484 - Application for loan; approval by Secretary; issuance of 
 usc_title: 25
 usc_section: "1484"
 chapter: 17
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1484"
-generated_at: "2026-11-23T21:23:14.610Z"
+generated_at: "2026-11-23T21:25:54.604Z"
 status: "active"
 ---
 

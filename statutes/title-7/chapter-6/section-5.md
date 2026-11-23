@@ -3,9 +3,9 @@ title: "Section 5 - Minimum requirements for training of maintenance applicators
 usc_title: 7
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-11-23T21:22:45.804Z"
+generated_at: "2026-11-23T21:25:27.899Z"
 status: "active"
 ---
 

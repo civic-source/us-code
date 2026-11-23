@@ -3,9 +3,9 @@ title: "Section 297 - Reports and implementation plans"
 usc_title: 6
 usc_section: "297"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 297"
-generated_at: "2026-11-23T21:22:43.466Z"
+generated_at: "2026-11-23T21:25:25.775Z"
 status: "active"
 ---
 

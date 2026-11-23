@@ -3,9 +3,9 @@ title: "Section 4103 - Removal"
 usc_title: 28
 usc_section: "4103"
 chapter: 181
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 4103"
-generated_at: "2026-11-23T21:23:22.506Z"
+generated_at: "2026-11-23T21:26:01.147Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-11-23T21:23:29.080Z"
+generated_at: "2026-11-23T21:26:06.323Z"
 status: "active"
 ---
 
@@ -74,7 +74,7 @@ status: "active"
     - **(A)** publicly announces that he is a candidate for nomination or election to such office, and
     - **(B)** meets the qualifications prescribed by law to hold such office.
 - **(h)**
-  - **(1)** In the case of a political organization, which is a principal campaign committee, paragraph (1) of subsection (b) shall be applied by substituting “the appropriate rates” for “the highest rate”.
+  - **(1)** In the case of a political organization, which is a principal campaign committee, paragraph (1) of subsection (b) 1 1 See References in Text note below. shall be applied by substituting “the appropriate rates” for “the highest rate”.
   - **(2)**
     - **(A)** For purposes of this subsection, the term “principal campaign committee” means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
       - **(i)** section 302(e) of the Federal Election Campaign Act of 1971 ( 52 U.S.C. 30102(e) ), and

@@ -3,9 +3,9 @@ title: "Section 256 - Determination of commencement of future actions"
 usc_title: 29
 usc_section: "256"
 chapter: 9
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 256"
-generated_at: "2026-11-23T21:23:23.444Z"
+generated_at: "2026-11-23T21:26:02.179Z"
 status: "active"
 ---
 

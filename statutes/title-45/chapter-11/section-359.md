@@ -3,9 +3,9 @@ title: "Section 359 - Penalties"
 usc_title: 45
 usc_section: "359"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 359"
-generated_at: "2026-11-23T21:23:43.934Z"
+generated_at: "2026-11-23T21:26:19.209Z"
 status: "active"
 ---
 

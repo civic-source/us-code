@@ -3,9 +3,9 @@ title: "Section 83e - Omitted"
 usc_title: 47
 usc_section: "83e"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 83e"
-generated_at: "2026-11-23T21:23:59.920Z"
+generated_at: "2026-11-23T21:26:35.926Z"
 status: "omitted"
 ---
 

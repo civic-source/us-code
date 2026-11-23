@@ -3,9 +3,9 @@ title: "Section 1833 - Repealed. Pub. L. 104–208, div. A, title II, § 2224(b)
 usc_title: 12
 usc_section: "1833"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1833"
-generated_at: "2026-11-23T21:23:01.008Z"
+generated_at: "2026-11-23T21:25:37.033Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Grants for cooperative education"
 usc_title: 20
 usc_section: "2"
 chapter: 28
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-11-23T21:23:07.860Z"
+generated_at: "2026-11-23T21:25:47.281Z"
 status: "active"
 ---
 

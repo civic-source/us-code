@@ -3,9 +3,9 @@ title: "Section 1702 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 19
 usc_section: "1702"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1702"
-generated_at: "2026-11-23T21:23:05.580Z"
+generated_at: "2026-11-23T21:25:42.760Z"
 status: "repealed"
 ---
 

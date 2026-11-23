@@ -3,9 +3,9 @@ title: "Section 547 - Depositing goods in buildings on boundaries"
 usc_title: 18
 usc_section: "547"
 chapter: 27
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 547"
-generated_at: "2026-11-23T21:23:04.022Z"
+generated_at: "2026-11-23T21:25:43.971Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1324c - Penalties for document fraud"
 usc_title: 8
 usc_section: "1324c"
 chapter: 12
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1324c"
-generated_at: "2026-11-23T21:22:42.665Z"
+generated_at: "2026-11-23T21:25:25.175Z"
 status: "active"
 ---
 

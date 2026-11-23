@@ -3,9 +3,9 @@ title: "Section 7703 - Payments for eligible federally connected children"
 usc_title: 20
 usc_section: "7703"
 chapter: 70
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7703"
-generated_at: "2026-11-23T21:23:08.099Z"
+generated_at: "2026-11-23T21:25:47.596Z"
 status: "active"
 ---
 

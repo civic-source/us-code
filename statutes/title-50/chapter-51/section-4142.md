@@ -3,9 +3,9 @@ title: "Section 4142 - Notification to claimants"
 usc_title: 50
 usc_section: "4142"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4142"
-generated_at: "2026-11-23T21:24:06.410Z"
+generated_at: "2026-11-23T21:26:39.089Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 644 - Repealed. June 25, 1948, ch. 646 , §§ 8, 39, 62 Stat. 98
 usc_title: 48
 usc_section: "644"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 644"
-generated_at: "2026-11-23T21:24:00.785Z"
+generated_at: "2026-11-23T21:26:37.969Z"
 status: "repealed"
 ---
 

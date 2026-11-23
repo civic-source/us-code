@@ -3,9 +3,9 @@ title: "Section 2697 - Acceptance and use of landing fees charged for use of mil
 usc_title: 10
 usc_section: "2697"
 chapter: 159
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2697"
-generated_at: "2026-11-23T21:22:51.707Z"
+generated_at: "2026-11-23T21:25:32.659Z"
 status: "active"
 ---
 

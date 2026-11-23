@@ -3,9 +3,9 @@ title: "Section 4511 - Approval and entry into force of the USMCA"
 usc_title: 19
 usc_section: "4511"
 chapter: 29
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4511"
-generated_at: "2026-11-23T21:23:05.765Z"
+generated_at: "2026-11-23T21:25:42.888Z"
 status: "active"
 ---
 

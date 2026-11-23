@@ -3,9 +3,9 @@ title: "Section 1127 - Precedence of the award of the Purple Heart"
 usc_title: 10
 usc_section: "1127"
 chapter: 57
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1127"
-generated_at: "2026-11-23T21:22:51.364Z"
+generated_at: "2026-11-23T21:25:32.428Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9222 - Ensuring the consistent enforcement of United Nations Sec
 usc_title: 22
 usc_section: "9222"
 chapter: 99
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9222"
-generated_at: "2026-11-23T21:23:19.596Z"
+generated_at: "2026-11-23T21:25:58.767Z"
 status: "active"
 ---
 

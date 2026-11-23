@@ -3,9 +3,9 @@ title: "Section 54AA - Repealed. Pub. L. 115–97, title I, § 13404(a) , Dec. 2
 usc_title: 26
 usc_section: "54AA"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 54AA"
-generated_at: "2026-11-23T21:23:28.669Z"
+generated_at: "2026-11-23T21:26:05.961Z"
 status: "repealed"
 ---
 

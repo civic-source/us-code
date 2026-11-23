@@ -3,9 +3,9 @@ title: "Section 14509 - High-speed broadband deployment initiative"
 usc_title: 40
 usc_section: "14509"
 chapter: 145
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14509"
-generated_at: "2026-11-23T21:23:37.337Z"
+generated_at: "2026-11-23T21:26:14.965Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3501 - Definitions"
 usc_title: 40
 usc_section: "3501"
 chapter: 35
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3501"
-generated_at: "2026-11-23T21:23:37.249Z"
+generated_at: "2026-11-23T21:26:14.868Z"
 status: "active"
 ---
 

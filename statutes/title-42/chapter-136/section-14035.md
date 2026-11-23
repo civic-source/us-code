@@ -3,9 +3,9 @@ title: "Section 14035 - Transferred"
 usc_title: 42
 usc_section: "14035"
 chapter: 136
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14035"
-generated_at: "2026-11-23T21:23:56.248Z"
+generated_at: "2026-11-23T21:26:33.629Z"
 status: "transferred"
 ---
 

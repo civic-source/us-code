@@ -3,9 +3,9 @@ title: "Section 4128 - Laboratory Quality Enhancement Program"
 usc_title: 10
 usc_section: "4128"
 chapter: 303
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4128"
-generated_at: "2026-11-23T21:22:51.870Z"
+generated_at: "2026-11-23T21:25:32.758Z"
 status: "active"
 ---
 

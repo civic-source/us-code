@@ -3,9 +3,9 @@ title: "Section 304 - Duration of copyright: Subsisting copyrights"
 usc_title: 17
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 304"
-generated_at: "2026-11-23T21:23:02.906Z"
+generated_at: "2026-11-23T21:25:41.711Z"
 status: "active"
 ---
 

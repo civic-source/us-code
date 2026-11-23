@@ -3,9 +3,9 @@ title: "Section 410www - Establishment of Martin Luther King, Jr. National Histo
 usc_title: 16
 usc_section: "410www"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410www"
-generated_at: "2026-11-23T21:23:11.052Z"
+generated_at: "2026-11-23T21:25:51.487Z"
 status: "active"
 ---
 

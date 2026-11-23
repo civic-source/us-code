@@ -3,9 +3,9 @@ title: "Section 1115 - TSA personnel limitations"
 usc_title: 6
 usc_section: "1115"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 1115"
-generated_at: "2026-11-23T21:22:43.570Z"
+generated_at: "2026-11-23T21:25:25.863Z"
 status: "active"
 ---
 

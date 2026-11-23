@@ -3,9 +3,9 @@ title: "Section 159d - Acceptance of General Philip Schuyler Mansion property"
 usc_title: 16
 usc_section: "159d"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 159d"
-generated_at: "2026-11-23T21:23:10.940Z"
+generated_at: "2026-11-23T21:25:51.383Z"
 status: "active"
 ---
 

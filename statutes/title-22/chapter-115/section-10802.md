@@ -3,9 +3,9 @@ title: "Section 10802 - Imposition of sanctions on certain persons affiliated wi
 usc_title: 22
 usc_section: "10802"
 chapter: 115
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10802"
-generated_at: "2026-11-23T21:23:19.673Z"
+generated_at: "2026-11-23T21:25:58.804Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1681l - Restrictions on investigative consumer reports"
 usc_title: 15
 usc_section: "1681l"
 chapter: 41
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681l"
-generated_at: "2026-11-23T21:22:58.158Z"
+generated_at: "2026-11-23T21:25:39.876Z"
 status: "active"
 ---
 

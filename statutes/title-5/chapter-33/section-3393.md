@@ -3,9 +3,9 @@ title: "Section 3393 - Career appointments"
 usc_title: 5
 usc_section: "3393"
 chapter: 33
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3393"
-generated_at: "2026-11-23T21:22:40.259Z"
+generated_at: "2026-11-23T21:25:23.166Z"
 status: "active"
 ---
 

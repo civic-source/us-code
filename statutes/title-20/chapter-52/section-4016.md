@@ -3,9 +3,9 @@ title: "Section 4016 - Annual report"
 usc_title: 20
 usc_section: "4016"
 chapter: 52
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 4016"
-generated_at: "2026-11-23T21:23:07.995Z"
+generated_at: "2026-11-23T21:25:47.431Z"
 status: "active"
 ---
 

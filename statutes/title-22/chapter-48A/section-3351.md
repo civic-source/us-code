@@ -3,9 +3,9 @@ title: "Section 3351 - Modernizing Taiwan’s security capabilities to deter and
 usc_title: 22
 usc_section: "3351"
 chapter: 48
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3351"
-generated_at: "2026-11-23T21:23:19.341Z"
+generated_at: "2026-11-23T21:25:58.582Z"
 status: "active"
 ---
 

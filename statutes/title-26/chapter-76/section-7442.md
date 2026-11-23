@@ -3,9 +3,9 @@ title: "Section 7442 - Jurisdiction"
 usc_title: 26
 usc_section: "7442"
 chapter: 76
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7442"
-generated_at: "2026-11-23T21:23:29.692Z"
+generated_at: "2026-11-23T21:26:06.961Z"
 status: "active"
 ---
 

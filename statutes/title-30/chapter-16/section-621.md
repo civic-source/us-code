@@ -3,9 +3,9 @@ title: "Section 621 - Entry to lands reserved for power development"
 usc_title: 30
 usc_section: "621"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 621"
-generated_at: "2026-11-23T21:23:21.559Z"
+generated_at: "2026-11-23T21:26:00.387Z"
 status: "active"
 ---
 

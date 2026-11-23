@@ -3,9 +3,9 @@ title: "Section 5108 - Audit of private organizations"
 usc_title: 40
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 5108"
-generated_at: "2026-11-23T21:23:37.258Z"
+generated_at: "2026-11-23T21:26:14.878Z"
 status: "active"
 ---
 

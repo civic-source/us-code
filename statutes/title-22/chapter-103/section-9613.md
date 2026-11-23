@@ -3,9 +3,9 @@ title: "Section 9613 - Management of Corporation"
 usc_title: 22
 usc_section: "9613"
 chapter: 103
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 9613"
-generated_at: "2026-11-23T21:23:19.626Z"
+generated_at: "2026-11-23T21:25:58.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5399 - Authorization of appropriations"
 usc_title: 25
 usc_section: "5399"
 chapter: 46
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5399"
-generated_at: "2026-11-23T21:23:14.818Z"
+generated_at: "2026-11-23T21:25:54.734Z"
 status: "active"
 ---
 

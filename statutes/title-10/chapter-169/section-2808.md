@@ -3,9 +3,9 @@ title: "Section 2808 - Construction authority in the event of a declaration of w
 usc_title: 10
 usc_section: "2808"
 chapter: 169
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2808"
-generated_at: "2026-11-23T21:22:51.739Z"
+generated_at: "2026-11-23T21:25:32.677Z"
 status: "active"
 ---
 

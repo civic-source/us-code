@@ -3,9 +3,9 @@ title: "Section 1552 - Commissioner of Immigration and Naturalization; office"
 usc_title: 8
 usc_section: "1552"
 chapter: 13
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1552"
-generated_at: "2026-11-23T21:22:42.723Z"
+generated_at: "2026-11-23T21:25:25.207Z"
 status: "active"
 ---
 

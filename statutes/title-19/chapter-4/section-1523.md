@@ -3,9 +3,9 @@ title: "Section 1523 - Examination of accounts"
 usc_title: 19
 usc_section: "1523"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1523"
-generated_at: "2026-11-23T21:23:05.537Z"
+generated_at: "2026-11-23T21:25:42.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 331 - Repealed. Aug. 9, 1955, ch. 656 , title III, § 307, 69 St
 usc_title: 50
 usc_section: "331"
 chapter: 14
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 331"
-generated_at: "2026-11-23T21:24:05.725Z"
+generated_at: "2026-11-23T21:26:38.902Z"
 status: "repealed"
 ---
 

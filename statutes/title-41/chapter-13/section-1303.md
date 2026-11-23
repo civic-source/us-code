@@ -3,9 +3,9 @@ title: "Section 1303 - Functions and authority"
 usc_title: 41
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "41 U.S.C. § 1303"
-generated_at: "2026-11-23T21:23:43.350Z"
+generated_at: "2026-11-23T21:26:18.779Z"
 status: "active"
 ---
 

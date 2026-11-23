@@ -3,9 +3,9 @@ title: "Section 316 - Special pay: bonus for members with foreign language profi
 usc_title: 37
 usc_section: "316"
 chapter: 5
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 316"
-generated_at: "2026-11-23T21:23:38.765Z"
+generated_at: "2026-11-23T21:26:14.207Z"
 status: "active"
 ---
 

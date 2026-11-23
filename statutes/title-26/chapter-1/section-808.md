@@ -3,9 +3,9 @@ title: "Section 808 - Policyholder dividends deduction"
 usc_title: 26
 usc_section: "808"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 808"
-generated_at: "2026-11-23T21:23:29.143Z"
+generated_at: "2026-11-23T21:26:06.383Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(1)** increases the cash surrender value of the contract or other benefits payable under the contract, or
   - **(2)** reduces the premium otherwise required to be paid,
 - **(f)**
-  - **(1)** The amount determined under paragraph (1) of subsection (c) for the year of change shall (before any reduction under paragraph (2) of subsection (c)) be reduced by so much of the accelerated policyholder dividends deduction for such year as does not exceed the 1984 fresh-start adjustment for policyholder dividends (to the extent such adjustment was not previously taken into account under this subsection).
+  - **(1)** The amount determined under paragraph (1) of subsection (c) 1 1 See References in Text note below. for the year of change shall (before any reduction under paragraph (2) of subsection (c)) 1 be reduced by so much of the accelerated policyholder dividends deduction for such year as does not exceed the 1984 fresh-start adjustment for policyholder dividends (to the extent such adjustment was not previously taken into account under this subsection).
   - **(2)** For purposes of this subsection, the term “year of change” means the taxable year in which the change in business practices which results in the accelerated policyholder dividends deduction takes effect.
   - **(3)** For purposes of this subsection, the term “accelerated policyholder dividends deduction” means the amount which (but for this subsection) would be determined for the taxable year under paragraph (1) of subsection (c) but which would have been determined (under such paragraph) for a later taxable year under the business practices of the taxpayer as in effect at the close of the preceding taxable year.
   - **(4)** For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983 , by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984 . Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends (as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).

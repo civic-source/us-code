@@ -3,9 +3,9 @@ title: "Section 4636 - Payments not to be considered as income for revenue purpo
 usc_title: 42
 usc_section: "4636"
 chapter: 61
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4636"
-generated_at: "2026-11-23T21:23:55.426Z"
+generated_at: "2026-11-23T21:26:32.683Z"
 status: "active"
 ---
 

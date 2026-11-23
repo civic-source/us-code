@@ -3,9 +3,9 @@ title: "Section 2347c - Small water storage projects"
 usc_title: 33
 usc_section: "2347c"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2347c"
-generated_at: "2026-11-23T21:23:35.057Z"
+generated_at: "2026-11-23T21:26:11.453Z"
 status: "active"
 ---
 

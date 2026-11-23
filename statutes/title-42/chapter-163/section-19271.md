@@ -3,9 +3,9 @@ title: "Section 19271 - Establishment of blockchain and cryptocurrency specialis
 usc_title: 42
 usc_section: "19271"
 chapter: 163
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19271"
-generated_at: "2026-11-23T21:23:56.572Z"
+generated_at: "2026-11-23T21:26:33.881Z"
 status: "active"
 ---
 

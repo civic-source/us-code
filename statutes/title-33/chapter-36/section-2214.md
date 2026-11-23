@@ -3,9 +3,9 @@ title: "Section 2214 - General credit for flood control"
 usc_title: 33
 usc_section: "2214"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2214"
-generated_at: "2026-11-23T21:23:34.989Z"
+generated_at: "2026-11-23T21:26:11.423Z"
 status: "active"
 ---
 

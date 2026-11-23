@@ -3,9 +3,9 @@ title: "Section 1855g - Repealed. Pub. L. 91–606, title III, § 302(1) , Dec. 
 usc_title: 42
 usc_section: "1855g"
 chapter: 15
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1855g"
-generated_at: "2026-11-23T21:23:55.217Z"
+generated_at: "2026-11-23T21:26:32.194Z"
 status: "repealed"
 ---
 

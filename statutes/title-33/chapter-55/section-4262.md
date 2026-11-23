@@ -3,9 +3,9 @@ title: "Section 4262 - Prioritization of efforts and assistance to combat marine
 usc_title: 33
 usc_section: "4262"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4262"
-generated_at: "2026-11-23T21:23:35.142Z"
+generated_at: "2026-11-23T21:26:11.497Z"
 status: "active"
 ---
 

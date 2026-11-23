@@ -3,9 +3,9 @@ title: "Section 2433 - Emergency shelters"
 usc_title: 25
 usc_section: "2433"
 chapter: 26
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2433"
-generated_at: "2026-11-23T21:23:14.723Z"
+generated_at: "2026-11-23T21:25:54.669Z"
 status: "active"
 ---
 

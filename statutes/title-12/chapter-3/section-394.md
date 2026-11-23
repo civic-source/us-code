@@ -3,9 +3,9 @@ title: "Section 394 - Federal reserve banks as depositaries for and fiscal agent
 usc_title: 12
 usc_section: "394"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 394"
-generated_at: "2026-11-23T21:23:00.710Z"
+generated_at: "2026-11-23T21:25:36.793Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5136 - Natural hazard risk assessment"
 usc_title: 42
 usc_section: "5136"
 chapter: 68
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5136"
-generated_at: "2026-11-23T21:23:55.455Z"
+generated_at: "2026-11-23T21:26:32.744Z"
 status: "active"
 ---
 

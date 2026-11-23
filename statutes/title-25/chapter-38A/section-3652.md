@@ -3,9 +3,9 @@ title: "Section 3652 - Purposes"
 usc_title: 25
 usc_section: "3652"
 chapter: 38
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3652"
-generated_at: "2026-11-23T21:23:14.764Z"
+generated_at: "2026-11-23T21:25:54.696Z"
 status: "active"
 ---
 

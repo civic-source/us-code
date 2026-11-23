@@ -3,9 +3,9 @@ title: "Section 16279b - International nuclear energy cooperation"
 usc_title: 42
 usc_section: "16279b"
 chapter: 149
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16279b"
-generated_at: "2026-11-23T21:23:56.339Z"
+generated_at: "2026-11-23T21:26:33.717Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
       - **(iv)** the Organization for Economic Co-operation and Development Nuclear Energy Agency; and
       - **(v)** any other international collaborative effort with respect to advanced nuclear reactor operations and safety;
   - **(3)** to support, with the concurrence of the Secretary of State, the safe, secure, and peaceful use of civil nuclear technology in countries developing nuclear energy programs, with a focus on countries that have increased civil nuclear cooperation with the Russian Federation or the People’s Republic of China; and
-  - **(4)** to promote the fullest utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in subsection (b) of the International Nuclear Energy Act of 2025 [ 42 U.S.C. 16283 ]) in civil nuclear energy programs outside the United States through—
+  - **(4)** to promote the fullest utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in subsection (b) of section 16283 of this title ) in civil nuclear energy programs outside the United States through—
     - **(A)** bilateral and multilateral arrangements developed and executed with the concurrence of the Secretary of State that contain commitments for the utilization of the reactors, fuel, equipment, services, and technology of United States nuclear energy companies (as defined in that subsection);
     - **(B)** the designation of 1 or more United States nuclear energy companies (as defined in that subsection) to implement an arrangement under subparagraph (A) if the Secretary determines that the designation is necessary and appropriate to achieve the objectives of this section; and
     - **(C)** the waiver of any provision of law relating to competition with respect to any activity related to an arrangement under subparagraph (A) if the Secretary, in consultation with the Attorney General and the Secretary of Commerce, determines that a waiver is necessary and appropriate to achieve the objectives of this section.

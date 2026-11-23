@@ -3,9 +3,9 @@ title: "Section 20119 - Study on use of certain reports and surveys"
 usc_title: 49
 usc_section: "20119"
 chapter: 201
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20119"
-generated_at: "2026-11-23T21:24:10.954Z"
+generated_at: "2026-11-23T21:26:40.704Z"
 status: "active"
 ---
 

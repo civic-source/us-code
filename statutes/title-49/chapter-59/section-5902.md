@@ -3,9 +3,9 @@ title: "Section 5902 - Notifications and certifications"
 usc_title: 49
 usc_section: "5902"
 chapter: 59
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 5902"
-generated_at: "2026-11-23T21:24:10.838Z"
+generated_at: "2026-11-23T21:26:40.667Z"
 status: "active"
 ---
 

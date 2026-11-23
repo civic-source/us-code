@@ -3,9 +3,9 @@ title: "Section 3953 - Louisiana coastal wetlands conservation planning"
 usc_title: 16
 usc_section: "3953"
 chapter: 59
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3953"
-generated_at: "2026-11-23T21:23:11.790Z"
+generated_at: "2026-11-23T21:25:52.007Z"
 status: "active"
 ---
 

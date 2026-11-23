@@ -3,9 +3,9 @@ title: "Section 7299 - Limitation on activities of retired judges"
 usc_title: 38
 usc_section: "7299"
 chapter: 72
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7299"
-generated_at: "2026-11-23T21:23:40.606Z"
+generated_at: "2026-11-23T21:26:16.845Z"
 status: "active"
 ---
 

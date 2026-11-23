@@ -3,9 +3,9 @@ title: "Section 14913 - Conclusiveness of rates in certain prosecutions"
 usc_title: 49
 usc_section: "14913"
 chapter: 149
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 14913"
-generated_at: "2026-11-23T21:24:10.909Z"
+generated_at: "2026-11-23T21:26:40.696Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1110 - System for tracking and recording vaccine information; an
 usc_title: 10
 usc_section: "1110"
 chapter: 55
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1110"
-generated_at: "2026-11-23T21:22:51.359Z"
+generated_at: "2026-11-23T21:25:32.426Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1405x - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19,
 usc_title: 48
 usc_section: "1405x"
 chapter: 7
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1405x"
-generated_at: "2026-11-23T21:24:00.809Z"
+generated_at: "2026-11-23T21:26:37.989Z"
 status: "repealed"
 ---
 

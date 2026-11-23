@@ -3,9 +3,9 @@ title: "Section 3705 - Transparency and accountability for nonpostal services"
 usc_title: 39
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3705"
-generated_at: "2026-11-23T21:23:36.695Z"
+generated_at: "2026-11-23T21:26:12.798Z"
 status: "active"
 ---
 

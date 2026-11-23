@@ -3,9 +3,9 @@ title: "Section 70910 - Headquarters and principal office"
 usc_title: 36
 usc_section: "70910"
 chapter: 709
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 70910"
-generated_at: "2026-11-23T21:23:38.336Z"
+generated_at: "2026-11-23T21:26:13.597Z"
 status: "active"
 ---
 

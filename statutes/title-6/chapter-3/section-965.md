@@ -3,9 +3,9 @@ title: "Section 965 - Tier 2 participants in C–TPAT"
 usc_title: 6
 usc_section: "965"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 965"
-generated_at: "2026-11-23T21:22:43.563Z"
+generated_at: "2026-11-23T21:25:25.858Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1901 - Collecting or disbursing officer trading in public proper
 usc_title: 18
 usc_section: "1901"
 chapter: 93
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1901"
-generated_at: "2026-11-23T21:23:04.107Z"
+generated_at: "2026-11-23T21:25:44.101Z"
 status: "active"
 ---
 

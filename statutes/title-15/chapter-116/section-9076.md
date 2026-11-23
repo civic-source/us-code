@@ -3,9 +3,9 @@ title: "Section 9076 - Limitation on certain employee compensation"
 usc_title: 15
 usc_section: "9076"
 chapter: 116
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9076"
-generated_at: "2026-11-23T21:22:58.566Z"
+generated_at: "2026-11-23T21:25:40.133Z"
 status: "active"
 ---
 

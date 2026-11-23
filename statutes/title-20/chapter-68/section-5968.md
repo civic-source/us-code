@@ -3,9 +3,9 @@ title: "Section 5968 - Coordination of Federal assistance"
 usc_title: 20
 usc_section: "5968"
 chapter: 68
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5968"
-generated_at: "2026-11-23T21:23:08.027Z"
+generated_at: "2026-11-23T21:25:47.478Z"
 status: "active"
 ---
 

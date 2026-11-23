@@ -3,9 +3,9 @@ title: "Section 402 - No validity or enforceability"
 usc_title: 9
 usc_section: "402"
 chapter: 4
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "9 U.S.C. § 402"
-generated_at: "2026-11-23T21:22:42.805Z"
+generated_at: "2026-11-23T21:25:24.639Z"
 status: "active"
 ---
 

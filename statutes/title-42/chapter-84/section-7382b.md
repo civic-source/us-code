@@ -3,9 +3,9 @@ title: "Section 7382b - Definitions"
 usc_title: 42
 usc_section: "7382b"
 chapter: 84
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7382b"
-generated_at: "2026-11-23T21:23:55.685Z"
+generated_at: "2026-11-23T21:26:33.066Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 71b - Status of completed addition"
 usc_title: 20
 usc_section: "71b"
 chapter: 3
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 71b"
-generated_at: "2026-11-23T21:23:07.554Z"
+generated_at: "2026-11-23T21:25:46.916Z"
 status: "active"
 ---
 

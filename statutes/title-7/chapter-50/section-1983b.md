@@ -3,9 +3,9 @@ title: "Section 1983b - Beginning farmer and rancher individual development acco
 usc_title: 7
 usc_section: "1983b"
 chapter: 50
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1983b"
-generated_at: "2026-11-23T21:22:46.111Z"
+generated_at: "2026-11-23T21:25:28.213Z"
 status: "active"
 ---
 

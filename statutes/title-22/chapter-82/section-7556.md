@@ -3,9 +3,9 @@ title: "Section 7556 - Benchmarks to evaluate the progress being made toward the
 usc_title: 22
 usc_section: "7556"
 chapter: 82
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7556"
-generated_at: "2026-11-23T21:23:19.518Z"
+generated_at: "2026-11-23T21:25:58.718Z"
 status: "active"
 ---
 

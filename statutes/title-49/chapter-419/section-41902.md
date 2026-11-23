@@ -3,9 +3,9 @@ title: "Section 41902 - Schedules for certain transportation of mail"
 usc_title: 49
 usc_section: "41902"
 chapter: 419
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 41902"
-generated_at: "2026-11-23T21:24:11.294Z"
+generated_at: "2026-11-23T21:26:40.872Z"
 status: "active"
 ---
 

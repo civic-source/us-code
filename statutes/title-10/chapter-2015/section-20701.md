@@ -3,9 +3,9 @@ title: "Section 20701 - Promotion rates"
 usc_title: 10
 usc_section: "20701"
 chapter: 2015
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20701"
-generated_at: "2026-11-23T21:22:52.336Z"
+generated_at: "2026-11-23T21:25:33.093Z"
 status: "active"
 ---
 

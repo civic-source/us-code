@@ -3,9 +3,9 @@ title: "Section 1151 - Restriction on acquisition, procurement, or construction 
 usc_title: 14
 usc_section: "1151"
 chapter: 11
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1151"
-generated_at: "2026-11-23T21:22:54.502Z"
+generated_at: "2026-11-23T21:25:35.400Z"
 status: "active"
 ---
 

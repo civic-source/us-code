@@ -3,9 +3,9 @@ title: "Section 1831v - Authority of State insurance regulator and Securities an
 usc_title: 12
 usc_section: "1831v"
 chapter: 16
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1831v"
-generated_at: "2026-11-23T21:23:01.000Z"
+generated_at: "2026-11-23T21:25:37.031Z"
 status: "active"
 ---
 

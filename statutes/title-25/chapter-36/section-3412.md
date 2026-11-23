@@ -3,9 +3,9 @@ title: "Section 3412 - Transfer of funds"
 usc_title: 25
 usc_section: "3412"
 chapter: 36
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3412"
-generated_at: "2026-11-23T21:23:14.760Z"
+generated_at: "2026-11-23T21:25:54.692Z"
 status: "active"
 ---
 

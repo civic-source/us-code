@@ -3,9 +3,9 @@ title: "Section 1506 - Repealed. Pub. L. 104–324, title V, § 506 , Oct. 19, 1
 usc_title: 33
 usc_section: "1506"
 chapter: 29
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1506"
-generated_at: "2026-11-23T21:23:34.960Z"
+generated_at: "2026-11-23T21:26:11.409Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22911 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "22911"
 chapter: 229
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 22911"
-generated_at: "2026-11-23T21:23:38.274Z"
+generated_at: "2026-11-23T21:26:13.542Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450bb - Harpers Ferry National Historical Park"
 usc_title: 16
 usc_section: "450bb"
 chapter: 1
-current_through: "PL 119-138"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 450bb"
-generated_at: "2026-11-23T21:23:11.086Z"
+generated_at: "2026-11-23T21:25:51.536Z"
 status: "active"
 ---
 
