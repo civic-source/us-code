@@ -3,9 +3,9 @@ title: "Section 899 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "899"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 899"
-generated_at: "2026-11-23T20:32:48.982Z"
+generated_at: "2026-11-23T20:34:33.603Z"
 status: "repealed"
 ---
 

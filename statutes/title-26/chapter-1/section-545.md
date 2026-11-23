@@ -3,9 +3,9 @@ title: "Section 545 - Undistributed personal holding company income"
 usc_title: 26
 usc_section: "545"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 545"
-generated_at: "2026-11-23T20:33:00.250Z"
+generated_at: "2026-11-23T20:34:48.655Z"
 status: "active"
 ---
 

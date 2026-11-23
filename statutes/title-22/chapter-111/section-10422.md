@@ -3,9 +3,9 @@ title: "Section 10422 - Identification and pre-clearance of platforms, technolog
 usc_title: 22
 usc_section: "10422"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 10422"
-generated_at: "2026-11-23T20:32:52.571Z"
+generated_at: "2026-11-23T20:34:38.751Z"
 status: "active"
 ---
 

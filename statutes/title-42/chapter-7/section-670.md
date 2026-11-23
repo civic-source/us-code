@@ -3,9 +3,9 @@ title: "Section 670 - Congressional declaration of purpose; authorization of app
 usc_title: 42
 usc_section: "670"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 670"
-generated_at: "2026-11-23T20:33:20.914Z"
+generated_at: "2026-11-23T20:35:08.769Z"
 status: "active"
 ---
 

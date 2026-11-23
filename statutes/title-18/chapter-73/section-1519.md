@@ -3,9 +3,9 @@ title: "Section 1519 - Destruction, alteration, or falsification of records in F
 usc_title: 18
 usc_section: "1519"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 1519"
-generated_at: "2026-11-23T20:32:39.754Z"
+generated_at: "2026-11-23T20:34:22.129Z"
 status: "active"
 ---
 

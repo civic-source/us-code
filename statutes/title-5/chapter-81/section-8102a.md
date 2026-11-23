@@ -3,9 +3,9 @@ title: "Section 8102a - Death gratuity for injuries incurred in connection with 
 usc_title: 5
 usc_section: "8102a"
 chapter: 81
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 8102a"
-generated_at: "2026-11-23T20:32:19.597Z"
+generated_at: "2026-11-23T20:33:58.970Z"
 status: "active"
 ---
 

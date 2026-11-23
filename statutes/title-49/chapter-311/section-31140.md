@@ -3,9 +3,9 @@ title: "Section 31140 - Repealed. Pub. L. 105–178, title IV, § 4008(d) , June
 usc_title: 49
 usc_section: "31140"
 chapter: 311
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 31140"
-generated_at: "2026-11-23T20:33:29.165Z"
+generated_at: "2026-11-23T20:35:16.919Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 569 - Reemployment rights"
 usc_title: 28
 usc_section: "569"
 chapter: 37
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 569"
-generated_at: "2026-11-23T20:32:56.551Z"
+generated_at: "2026-11-23T20:34:41.231Z"
 status: "active"
 ---
 

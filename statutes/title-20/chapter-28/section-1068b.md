@@ -3,9 +3,9 @@ title: "Section 1068b - Application review process"
 usc_title: 20
 usc_section: "1068b"
 chapter: 28
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 1068b"
-generated_at: "2026-11-23T20:32:43.248Z"
+generated_at: "2026-11-23T20:34:25.378Z"
 status: "active"
 ---
 

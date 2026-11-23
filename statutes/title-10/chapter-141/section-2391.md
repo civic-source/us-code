@@ -3,9 +3,9 @@ title: "Section 2391 - Military base reuse studies and community planning assist
 usc_title: 10
 usc_section: "2391"
 chapter: 141
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2391"
-generated_at: "2026-11-23T20:32:30.114Z"
+generated_at: "2026-11-23T20:34:08.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1379h - Applicability of provisions to designated persons; repor
 usc_title: 7
 usc_section: "1379h"
 chapter: 35
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 1379h"
-generated_at: "2026-11-23T20:32:25.111Z"
+generated_at: "2026-11-23T20:34:03.107Z"
 status: "active"
 ---
 

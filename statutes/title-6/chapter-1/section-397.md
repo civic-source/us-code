@@ -3,9 +3,9 @@ title: "Section 397 - Requirements to buy certain items related to national secu
 usc_title: 6
 usc_section: "397"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 397"
-generated_at: "2026-11-23T20:32:22.108Z"
+generated_at: "2026-11-23T20:34:01.341Z"
 status: "active"
 ---
 

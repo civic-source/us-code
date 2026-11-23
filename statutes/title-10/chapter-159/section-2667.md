@@ -3,9 +3,9 @@ title: "Section 2667 - Leases: non-excess property of military departments and D
 usc_title: 10
 usc_section: "2667"
 chapter: 159
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2667"
-generated_at: "2026-11-23T20:32:30.148Z"
+generated_at: "2026-11-23T20:34:08.168Z"
 status: "active"
 ---
 

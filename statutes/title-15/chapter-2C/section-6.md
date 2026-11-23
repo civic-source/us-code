@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 109–58, title XII, § 1263 , Aug. 8, 200
 usc_title: 15
 usc_section: "6"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-11-23T20:32:35.986Z"
+generated_at: "2026-11-23T20:34:17.455Z"
 status: "repealed"
 ---
 

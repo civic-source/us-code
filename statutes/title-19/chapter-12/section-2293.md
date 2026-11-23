@@ -3,9 +3,9 @@ title: "Section 2293 - Limitations on trade readjustment allowances"
 usc_title: 19
 usc_section: "2293"
 chapter: 12
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 2293"
-generated_at: "2026-11-23T20:32:41.496Z"
+generated_at: "2026-11-23T20:34:20.901Z"
 status: "active"
 ---
 

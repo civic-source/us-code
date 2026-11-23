@@ -3,9 +3,9 @@ title: "Section 7258 - Facilities construction"
 usc_title: 42
 usc_section: "7258"
 chapter: 84
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 7258"
-generated_at: "2026-11-23T20:33:21.991Z"
+generated_at: "2026-11-23T20:35:10.021Z"
 status: "active"
 ---
 

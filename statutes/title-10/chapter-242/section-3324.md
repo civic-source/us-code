@@ -3,9 +3,9 @@ title: "Section 3324 - [Reserved]"
 usc_title: 10
 usc_section: "3324"
 chapter: 242
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 3324"
-generated_at: "2026-11-23T20:32:30.212Z"
+generated_at: "2026-11-23T20:34:08.288Z"
 status: "reserved"
 ---
 

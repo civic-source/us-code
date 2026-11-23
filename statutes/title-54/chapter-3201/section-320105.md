@@ -3,9 +3,9 @@ title: "Section 320105 - Criminal penalties"
 usc_title: 54
 usc_section: "320105"
 chapter: 3201
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "54 U.S.C. § 320105"
-generated_at: "2026-11-23T20:33:30.954Z"
+generated_at: "2026-11-23T20:35:18.703Z"
 status: "active"
 ---
 

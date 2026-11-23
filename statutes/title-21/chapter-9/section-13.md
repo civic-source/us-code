@@ -3,9 +3,9 @@ title: "Section 13 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "13"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 13"
-generated_at: "2026-11-23T20:32:50.347Z"
+generated_at: "2026-11-23T20:34:35.149Z"
 status: "active"
 ---
 

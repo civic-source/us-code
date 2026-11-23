@@ -3,9 +3,9 @@ title: "Section 6320 - Participation of children enrolled in private schools"
 usc_title: 20
 usc_section: "6320"
 chapter: 70
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 6320"
-generated_at: "2026-11-23T20:32:43.478Z"
+generated_at: "2026-11-23T20:34:25.652Z"
 status: "active"
 ---
 

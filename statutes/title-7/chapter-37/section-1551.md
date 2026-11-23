@@ -3,9 +3,9 @@ title: "Section 1551 - Short title"
 usc_title: 7
 usc_section: "1551"
 chapter: 37
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 1551"
-generated_at: "2026-11-23T20:32:25.173Z"
+generated_at: "2026-11-23T20:34:03.145Z"
 status: "active"
 ---
 

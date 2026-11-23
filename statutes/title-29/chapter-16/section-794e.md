@@ -3,9 +3,9 @@ title: "Section 794e - Protection and advocacy of individual rights"
 usc_title: 29
 usc_section: "794e"
 chapter: 16
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 794e"
-generated_at: "2026-11-23T20:32:55.713Z"
+generated_at: "2026-11-23T20:34:43.093Z"
 status: "active"
 ---
 

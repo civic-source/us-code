@@ -3,9 +3,9 @@ title: "Section 20501 - National coordination of AMBER Alert communications netw
 usc_title: 34
 usc_section: "20501"
 chapter: 205
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "34 U.S.C. § 20501"
-generated_at: "2026-11-23T20:33:05.147Z"
+generated_at: "2026-11-23T20:34:52.424Z"
 status: "active"
 ---
 

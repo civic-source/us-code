@@ -3,9 +3,9 @@ title: "Section 1402 - International objectives"
 usc_title: 30
 usc_section: "1402"
 chapter: 26
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "30 U.S.C. § 1402"
-generated_at: "2026-11-23T20:32:54.610Z"
+generated_at: "2026-11-23T20:34:41.955Z"
 status: "active"
 ---
 

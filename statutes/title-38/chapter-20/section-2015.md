@@ -3,9 +3,9 @@ title: "Section 2015 - Training and technical assistance for entities regarding 
 usc_title: 38
 usc_section: "2015"
 chapter: 20
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 2015"
-generated_at: "2026-11-23T20:33:09.062Z"
+generated_at: "2026-11-23T20:34:57.394Z"
 status: "active"
 ---
 

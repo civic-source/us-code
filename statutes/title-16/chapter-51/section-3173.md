@@ -3,9 +3,9 @@ title: "Section 3173 - Stikine River region; Presidential study and report to Co
 usc_title: 16
 usc_section: "3173"
 chapter: 51
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 3173"
-generated_at: "2026-11-23T20:32:46.766Z"
+generated_at: "2026-11-23T20:34:29.807Z"
 status: "active"
 ---
 

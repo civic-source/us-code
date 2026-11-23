@@ -3,9 +3,9 @@ title: "Section 6902 - Assignment of right, title, and interest in the Union Sta
 usc_title: 40
 usc_section: "6902"
 chapter: 69
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "40 U.S.C. § 6902"
-generated_at: "2026-11-23T20:33:06.915Z"
+generated_at: "2026-11-23T20:34:58.043Z"
 status: "active"
 ---
 

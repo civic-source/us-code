@@ -3,9 +3,9 @@ title: "Section 418a - Voluntary agreements for coverage of Indian tribal counci
 usc_title: 42
 usc_section: "418a"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 418a"
-generated_at: "2026-11-23T20:33:20.847Z"
+generated_at: "2026-11-23T20:35:08.711Z"
 status: "active"
 ---
 

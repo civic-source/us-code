@@ -3,9 +3,9 @@ title: "Section 1152 - Assistance to eligible members and former members to obta
 usc_title: 10
 usc_section: "1152"
 chapter: 58
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1152"
-generated_at: "2026-11-23T20:32:29.966Z"
+generated_at: "2026-11-23T20:34:07.871Z"
 status: "active"
 ---
 

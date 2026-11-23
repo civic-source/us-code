@@ -3,9 +3,9 @@ title: "Section 423c - Duties of commission"
 usc_title: 16
 usc_section: "423c"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 423c"
-generated_at: "2026-11-23T20:32:46.146Z"
+generated_at: "2026-11-23T20:34:29.060Z"
 status: "active"
 ---
 

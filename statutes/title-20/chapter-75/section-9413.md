@@ -3,9 +3,9 @@ title: "Section 9413 - Local administration"
 usc_title: 20
 usc_section: "9413"
 chapter: 75
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 9413"
-generated_at: "2026-11-23T20:32:43.552Z"
+generated_at: "2026-11-23T20:34:25.735Z"
 status: "active"
 ---
 

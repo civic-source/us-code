@@ -3,9 +3,9 @@ title: "Section 1548 - Repealed. Pub. L. 115–271, title VIII, § 8203(b)(5) , 
 usc_title: 21
 usc_section: "1548"
 chapter: 20
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 1548"
-generated_at: "2026-11-23T20:32:50.424Z"
+generated_at: "2026-11-23T20:34:35.275Z"
 status: "repealed"
 ---
 

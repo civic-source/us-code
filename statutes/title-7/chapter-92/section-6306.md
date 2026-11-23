@@ -3,9 +3,9 @@ title: "Section 6306 - Petition and review"
 usc_title: 7
 usc_section: "6306"
 chapter: 92
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 6306"
-generated_at: "2026-11-23T20:32:25.388Z"
+generated_at: "2026-11-23T20:34:03.376Z"
 status: "active"
 ---
 

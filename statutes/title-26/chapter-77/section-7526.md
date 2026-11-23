@@ -3,9 +3,9 @@ title: "Section 7526 - Low-income taxpayer clinics"
 usc_title: 26
 usc_section: "7526"
 chapter: 77
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 7526"
-generated_at: "2026-11-23T20:33:00.786Z"
+generated_at: "2026-11-23T20:34:49.294Z"
 status: "active"
 ---
 

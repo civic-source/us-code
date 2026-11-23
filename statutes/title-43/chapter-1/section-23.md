@@ -3,9 +3,9 @@ title: "Section 23 - Repealed. Pub. L. 86–649, title II, § 202(b) , July 14, 
 usc_title: 43
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 23"
-generated_at: "2026-11-23T20:33:11.473Z"
+generated_at: "2026-11-23T20:35:00.152Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2333 - International border security"
 usc_title: 50
 usc_section: "2333"
 chapter: 40
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 2333"
-generated_at: "2026-11-23T20:33:26.911Z"
+generated_at: "2026-11-23T20:35:14.951Z"
 status: "active"
 ---
 

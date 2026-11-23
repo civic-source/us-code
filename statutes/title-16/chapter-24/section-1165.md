@@ -3,9 +3,9 @@ title: "Section 1165 - Disposal of Federal property on Pribilof Islands"
 usc_title: 16
 usc_section: "1165"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 1165"
-generated_at: "2026-11-23T20:32:46.611Z"
+generated_at: "2026-11-23T20:34:29.612Z"
 status: "active"
 ---
 

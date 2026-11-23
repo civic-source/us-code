@@ -3,9 +3,9 @@ title: "Section 55104 - Transportation of passengers between Puerto Rico and oth
 usc_title: 46
 usc_section: "55104"
 chapter: 551
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 55104"
-generated_at: "2026-11-23T20:33:25.930Z"
+generated_at: "2026-11-23T20:35:14.014Z"
 status: "active"
 ---
 

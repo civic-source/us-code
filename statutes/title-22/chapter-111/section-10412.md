@@ -3,9 +3,9 @@ title: "Section 10412 - Designation of senior official for Department of Defense
 usc_title: 22
 usc_section: "10412"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 10412"
-generated_at: "2026-11-23T20:32:52.570Z"
+generated_at: "2026-11-23T20:34:38.751Z"
 status: "active"
 ---
 

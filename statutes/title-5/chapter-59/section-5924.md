@@ -3,9 +3,9 @@ title: "Section 5924 - Cost-of-living allowances"
 usc_title: 5
 usc_section: "5924"
 chapter: 59
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 5924"
-generated_at: "2026-11-23T20:32:19.559Z"
+generated_at: "2026-11-23T20:33:58.905Z"
 status: "active"
 ---
 

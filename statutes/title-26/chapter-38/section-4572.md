@@ -3,9 +3,9 @@ title: "Section 4572 - Repealed. Pub. L. 87–456, title III, § 302(d) , May 24
 usc_title: 26
 usc_section: "4572"
 chapter: 38
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 4572"
-generated_at: "2026-11-23T20:33:00.560Z"
+generated_at: "2026-11-23T20:34:49.019Z"
 status: "repealed"
 ---
 

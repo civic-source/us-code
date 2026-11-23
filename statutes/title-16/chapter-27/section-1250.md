@@ -3,9 +3,9 @@ title: "Section 1250 - Volunteer trails assistance"
 usc_title: 16
 usc_section: "1250"
 chapter: 27
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 1250"
-generated_at: "2026-11-23T20:32:46.625Z"
+generated_at: "2026-11-23T20:34:29.628Z"
 status: "active"
 ---
 

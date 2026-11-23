@@ -3,9 +3,9 @@ title: "Section 9501 - Purpose"
 usc_title: 31
 usc_section: "9501"
 chapter: 95
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "31 U.S.C. § 9501"
-generated_at: "2026-11-23T20:33:04.482Z"
+generated_at: "2026-11-23T20:34:51.778Z"
 status: "active"
 ---
 

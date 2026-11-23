@@ -3,9 +3,9 @@ title: "Section 3303 - Exclusion of particular source or restriction of solicita
 usc_title: 41
 usc_section: "3303"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "41 U.S.C. § 3303"
-generated_at: "2026-11-23T20:33:11.066Z"
+generated_at: "2026-11-23T20:34:59.556Z"
 status: "active"
 ---
 

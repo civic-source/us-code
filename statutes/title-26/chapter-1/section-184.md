@@ -3,9 +3,9 @@ title: "Section 184 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(12) , N
 usc_title: 26
 usc_section: "184"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 184"
-generated_at: "2026-11-23T20:33:00.092Z"
+generated_at: "2026-11-23T20:34:48.352Z"
 status: "repealed"
 ---
 

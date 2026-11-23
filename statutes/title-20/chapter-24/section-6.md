@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 91–230, title IV, § 401(g)(5) , Apr. 13
 usc_title: 20
 usc_section: "6"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 6"
-generated_at: "2026-11-23T20:32:43.206Z"
+generated_at: "2026-11-23T20:34:25.336Z"
 status: "repealed"
 ---
 

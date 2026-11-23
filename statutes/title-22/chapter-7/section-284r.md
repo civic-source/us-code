@@ -3,9 +3,9 @@ title: "Section 284r - Eighth replenishment; authorization of appropriations"
 usc_title: 22
 usc_section: "284r"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 284r"
-generated_at: "2026-11-23T20:32:51.994Z"
+generated_at: "2026-11-23T20:34:38.160Z"
 status: "active"
 ---
 

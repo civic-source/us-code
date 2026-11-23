@@ -3,9 +3,9 @@ title: "Section 1141 - Declaration of policy; effective merchandising of agricul
 usc_title: 12
 usc_section: "1141"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 1141"
-generated_at: "2026-11-23T20:32:33.826Z"
+generated_at: "2026-11-23T20:34:13.961Z"
 status: "active"
 ---
 

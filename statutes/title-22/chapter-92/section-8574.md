@@ -3,9 +3,9 @@ title: "Section 8574 - Strategy to counter role of the People’s Republic of Ch
 usc_title: 22
 usc_section: "8574"
 chapter: 92
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 8574"
-generated_at: "2026-11-23T20:32:52.502Z"
+generated_at: "2026-11-23T20:34:38.678Z"
 status: "active"
 ---
 

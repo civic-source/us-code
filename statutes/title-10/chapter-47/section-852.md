@@ -3,9 +3,9 @@ title: "Section 852 - Art. 52. Votes required for conviction, sentencing, and ot
 usc_title: 10
 usc_section: "852"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 852"
-generated_at: "2026-11-23T20:32:29.888Z"
+generated_at: "2026-11-23T20:34:07.722Z"
 status: "active"
 ---
 

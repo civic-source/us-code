@@ -3,9 +3,9 @@ title: "Section 7513 - Reproduction of returns and other documents"
 usc_title: 26
 usc_section: "7513"
 chapter: 77
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 7513"
-generated_at: "2026-11-23T20:33:00.782Z"
+generated_at: "2026-11-23T20:34:49.290Z"
 status: "active"
 ---
 

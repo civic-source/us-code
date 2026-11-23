@@ -3,9 +3,9 @@ title: "Section 7301 - Functions of Veterans Health Administration: in general"
 usc_title: 38
 usc_section: "7301"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 7301"
-generated_at: "2026-11-23T20:33:09.189Z"
+generated_at: "2026-11-23T20:34:57.524Z"
 status: "active"
 ---
 

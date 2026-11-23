@@ -3,9 +3,9 @@ title: "Section 1924 - Verification of bill of costs"
 usc_title: 28
 usc_section: "1924"
 chapter: 123
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 1924"
-generated_at: "2026-11-23T20:32:56.598Z"
+generated_at: "2026-11-23T20:34:41.308Z"
 status: "active"
 ---
 

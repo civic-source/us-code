@@ -3,9 +3,9 @@ title: "Section 532 - Explosives Training and Research Facility"
 usc_title: 6
 usc_section: "532"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 532"
-generated_at: "2026-11-23T20:32:22.126Z"
+generated_at: "2026-11-23T20:34:01.352Z"
 status: "active"
 ---
 

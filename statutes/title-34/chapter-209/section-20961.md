@@ -3,9 +3,9 @@ title: "Section 20961 - Access to national crime information databases"
 usc_title: 34
 usc_section: "20961"
 chapter: 209
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "34 U.S.C. § 20961"
-generated_at: "2026-11-23T20:33:05.155Z"
+generated_at: "2026-11-23T20:34:52.435Z"
 status: "active"
 ---
 

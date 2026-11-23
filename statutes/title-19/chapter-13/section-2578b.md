@@ -3,9 +3,9 @@ title: "Section 2578b - Definitions"
 usc_title: 19
 usc_section: "2578b"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 2578b"
-generated_at: "2026-11-23T20:32:41.543Z"
+generated_at: "2026-11-23T20:34:20.930Z"
 status: "active"
 ---
 

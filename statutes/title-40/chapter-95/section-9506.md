@@ -3,9 +3,9 @@ title: "Section 9506 - Civil penalty"
 usc_title: 40
 usc_section: "9506"
 chapter: 95
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "40 U.S.C. § 9506"
-generated_at: "2026-11-23T20:33:06.936Z"
+generated_at: "2026-11-23T20:34:58.063Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 45103 - Prohibited service"
 usc_title: 49
 usc_section: "45103"
 chapter: 451
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 45103"
-generated_at: "2026-11-23T20:33:29.293Z"
+generated_at: "2026-11-23T20:35:17.138Z"
 status: "active"
 ---
 

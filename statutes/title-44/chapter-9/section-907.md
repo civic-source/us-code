@@ -3,9 +3,9 @@ title: "Section 907 - Congressional Record: extracts for Members of Congress; ma
 usc_title: 44
 usc_section: "907"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "44 U.S.C. § 907"
-generated_at: "2026-11-23T20:33:10.715Z"
+generated_at: "2026-11-23T20:35:00.685Z"
 status: "active"
 ---
 

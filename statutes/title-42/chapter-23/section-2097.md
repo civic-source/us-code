@@ -3,9 +3,9 @@ title: "Section 2097 - Operations on lands belonging to United States"
 usc_title: 42
 usc_section: "2097"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2097"
-generated_at: "2026-11-23T20:33:21.649Z"
+generated_at: "2026-11-23T20:35:09.564Z"
 status: "active"
 ---
 

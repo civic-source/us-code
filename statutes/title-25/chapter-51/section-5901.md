@@ -1,0 +1,40 @@
+---
+title: "Section 5901 - Definitions"
+usc_title: 25
+usc_section: "5901"
+chapter: 51
+current_through: "PL 119-88"
+classification: "25 U.S.C. § 5901"
+generated_at: "2026-11-23T20:34:33.875Z"
+status: "active"
+---
+
+# § 5901. Definitions
+
+In this chapter:
+
+  - **(1)** The term “applicable Bureau office” means—
+    - **(A)** a Regional office of the Bureau;
+    - **(B)** an Agency office of the Bureau; or
+    - **(C)** a Land Titles and Records Office of the Bureau.
+  - **(2)** The term “Bureau” means the Bureau of Indian Affairs.
+  - **(3)** The term “Director” means the Director of the Bureau.
+  - **(4)** The term “first certified title status report” means the title status report needed to verify title status on Indian land.
+  - **(5)** The term “Indian land” has the meaning given the term in section 162.003 of title 25, Code of Federal Regulations (as in effect on May 4, 2026 ).
+  - **(6)** The term “land mortgage” means a mortgage obtained by an individual Indian who owns a tract of trust land for the purpose of—
+    - **(A)** home acquisition;
+    - **(B)** home construction;
+    - **(C)** home improvements; or
+    - **(D)** economic development.
+  - **(7)** The term “leasehold mortgage” means a mortgage, deed of trust, or other instrument that pledges the leasehold interest of a lessee as security for a debt or other obligation owed by the lessee to a lender or other mortgagee.
+  - **(8)** The term “mortgage package” means a proposed residential leasehold mortgage, business leasehold mortgage, land mortgage, or right-of-way document submitted to an applicable Bureau office under section 5902(a)(1) of this title .
+  - **(9)** The term “relevant Federal agency” means any of the following Federal agencies that guarantee or make direct mortgage loans on Indian land:
+    - **(A)** The Department of Agriculture.
+    - **(B)** The Department of Housing and Urban Development.
+    - **(C)** The Department of Veterans Affairs.
+  - **(10)** The term “right-of-way document” has the meaning given the term in section 169.2 of title 25, Code of Federal Regulations (as in effect on May 4, 2026 ).
+  - **(11)** The term “subsequent certified title status report” means the title status report needed to identify any liens against a residential, business, or land lease on Indian land.
+
+## Source Credit
+
+*([Pub. L. 119–88, § 2](https://www.govinfo.gov/link/plaw/119/public/88), May 4, 2026, [140 Stat. 812](https://www.govinfo.gov/link/statute/140/812).)*

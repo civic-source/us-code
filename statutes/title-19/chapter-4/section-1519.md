@@ -3,9 +3,9 @@ title: "Section 1519 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , 
 usc_title: 19
 usc_section: "1519"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 1519"
-generated_at: "2026-11-23T20:32:41.393Z"
+generated_at: "2026-11-23T20:34:20.826Z"
 status: "repealed"
 ---
 

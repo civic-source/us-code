@@ -3,9 +3,9 @@ title: "Section 544f - Administration of special management areas"
 usc_title: 16
 usc_section: "544f"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 544f"
-generated_at: "2026-11-23T20:32:46.394Z"
+generated_at: "2026-11-23T20:34:29.343Z"
 status: "active"
 ---
 

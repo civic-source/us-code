@@ -3,9 +3,9 @@ title: "Section 2756b - Transferred"
 usc_title: 42
 usc_section: "2756b"
 chapter: 34
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2756b"
-generated_at: "2026-11-23T20:33:21.698Z"
+generated_at: "2026-11-23T20:35:09.645Z"
 status: "transferred"
 ---
 

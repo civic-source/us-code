@@ -3,9 +3,9 @@ title: "Section 3072 - Eligibility for veterans benefits and other rights, privi
 usc_title: 33
 usc_section: "3072"
 chapter: 43
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 3072"
-generated_at: "2026-11-23T20:33:03.732Z"
+generated_at: "2026-11-23T20:34:53.510Z"
 status: "active"
 ---
 

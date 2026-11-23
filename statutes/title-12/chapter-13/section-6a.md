@@ -3,9 +3,9 @@ title: "Section 6a - Omitted"
 usc_title: 12
 usc_section: "6a"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 6a"
-generated_at: "2026-11-23T20:32:33.941Z"
+generated_at: "2026-11-23T20:34:14.170Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60103 - Purposes"
 usc_title: 36
 usc_section: "60103"
 chapter: 601
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 60103"
-generated_at: "2026-11-23T20:33:07.803Z"
+generated_at: "2026-11-23T20:34:55.962Z"
 status: "active"
 ---
 

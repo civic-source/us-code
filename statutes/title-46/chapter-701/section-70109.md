@@ -3,9 +3,9 @@ title: "Section 70109 - Notifying foreign authorities"
 usc_title: 46
 usc_section: "70109"
 chapter: 701
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 70109"
-generated_at: "2026-11-23T20:33:25.981Z"
+generated_at: "2026-11-23T20:35:14.047Z"
 status: "active"
 ---
 

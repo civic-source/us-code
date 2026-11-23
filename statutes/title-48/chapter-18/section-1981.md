@@ -3,9 +3,9 @@ title: "Section 1981 - Findings"
 usc_title: 48
 usc_section: "1981"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "48 U.S.C. § 1981"
-generated_at: "2026-11-23T20:33:24.464Z"
+generated_at: "2026-11-23T20:35:13.119Z"
 status: "active"
 ---
 

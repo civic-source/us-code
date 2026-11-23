@@ -3,9 +3,9 @@ title: "Section 2175 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oc
 usc_title: 22
 usc_section: "2175"
 chapter: 32
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 2175"
-generated_at: "2026-11-23T20:32:52.116Z"
+generated_at: "2026-11-23T20:34:38.313Z"
 status: "repealed"
 ---
 

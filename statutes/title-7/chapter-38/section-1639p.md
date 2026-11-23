@@ -3,9 +3,9 @@ title: "Section 1639p - State and tribal plans"
 usc_title: 7
 usc_section: "1639p"
 chapter: 38
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 1639p"
-generated_at: "2026-11-23T20:32:25.197Z"
+generated_at: "2026-11-23T20:34:03.161Z"
 status: "active"
 ---
 

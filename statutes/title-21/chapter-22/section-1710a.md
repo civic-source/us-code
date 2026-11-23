@@ -3,9 +3,9 @@ title: "Section 1710a - Requirement for disclosure of Federal sponsorship of all
 usc_title: 21
 usc_section: "1710a"
 chapter: 22
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 1710a"
-generated_at: "2026-11-23T20:32:50.431Z"
+generated_at: "2026-11-23T20:34:35.286Z"
 status: "active"
 ---
 

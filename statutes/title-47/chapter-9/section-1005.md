@@ -3,9 +3,9 @@ title: "Section 1005 - Cooperation of equipment manufacturers and providers of t
 usc_title: 47
 usc_section: "1005"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "47 U.S.C. § 1005"
-generated_at: "2026-11-23T20:33:25.133Z"
+generated_at: "2026-11-23T20:35:12.638Z"
 status: "active"
 ---
 

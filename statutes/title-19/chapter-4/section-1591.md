@@ -3,9 +3,9 @@ title: "Section 1591 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 19
 usc_section: "1591"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 1591"
-generated_at: "2026-11-23T20:32:41.405Z"
+generated_at: "2026-11-23T20:34:20.832Z"
 status: "repealed"
 ---
 

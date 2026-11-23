@@ -3,9 +3,9 @@ title: "Section 4817 - Requirements to identify and control the export of emergi
 usc_title: 50
 usc_section: "4817"
 chapter: 58
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 4817"
-generated_at: "2026-11-23T20:33:27.053Z"
+generated_at: "2026-11-23T20:35:15.095Z"
 status: "active"
 ---
 

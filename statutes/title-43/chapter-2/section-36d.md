@@ -3,9 +3,9 @@ title: "Section 36d - Cooperative agreements"
 usc_title: 43
 usc_section: "36d"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 36d"
-generated_at: "2026-11-23T20:33:11.476Z"
+generated_at: "2026-11-23T20:35:00.157Z"
 status: "active"
 ---
 

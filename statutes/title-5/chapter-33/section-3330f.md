@@ -3,9 +3,9 @@ title: "Section 3330f - Government policy and supporting position data"
 usc_title: 5
 usc_section: "3330f"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 3330f"
-generated_at: "2026-11-23T20:32:19.461Z"
+generated_at: "2026-11-23T20:33:58.744Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2181 - Assignment of space for meetings of joint committees, con
 usc_title: 2
 usc_section: "2181"
 chapter: 30
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 2181"
-generated_at: "2026-11-23T20:32:17.966Z"
+generated_at: "2026-11-23T20:33:57.315Z"
 status: "active"
 ---
 

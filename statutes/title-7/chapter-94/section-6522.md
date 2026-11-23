@@ -3,9 +3,9 @@ title: "Section 6522 - Funding"
 usc_title: 7
 usc_section: "6522"
 chapter: 94
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-11-23T20:32:25.395Z"
+generated_at: "2026-11-23T20:34:03.383Z"
 status: "active"
 ---
 

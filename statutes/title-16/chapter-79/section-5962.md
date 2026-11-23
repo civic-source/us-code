@@ -3,9 +3,9 @@ title: "Section 5962 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5962"
 chapter: 79
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 5962"
-generated_at: "2026-11-23T20:32:46.855Z"
+generated_at: "2026-11-23T20:34:29.939Z"
 status: "repealed"
 ---
 

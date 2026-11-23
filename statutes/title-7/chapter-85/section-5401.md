@@ -3,9 +3,9 @@ title: "Section 5401 - Establishment of Agricultural Council on Environmental Qu
 usc_title: 7
 usc_section: "5401"
 chapter: 85
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 5401"
-generated_at: "2026-11-23T20:32:25.362Z"
+generated_at: "2026-11-23T20:34:03.350Z"
 status: "active"
 ---
 

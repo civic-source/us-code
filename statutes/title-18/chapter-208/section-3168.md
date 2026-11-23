@@ -3,9 +3,9 @@ title: "Section 3168 - Planning process"
 usc_title: 18
 usc_section: "3168"
 chapter: 208
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 3168"
-generated_at: "2026-11-23T20:32:39.896Z"
+generated_at: "2026-11-23T20:34:22.233Z"
 status: "active"
 ---
 

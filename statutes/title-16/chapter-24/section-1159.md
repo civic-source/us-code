@@ -3,9 +3,9 @@ title: "Section 1159 - Federal agency consultations with and technical assistanc
 usc_title: 16
 usc_section: "1159"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 1159"
-generated_at: "2026-11-23T20:32:46.610Z"
+generated_at: "2026-11-23T20:34:29.611Z"
 status: "active"
 ---
 

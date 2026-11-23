@@ -3,9 +3,9 @@ title: "Section 521 - Lands acquired to be reserved, held, and administered as n
 usc_title: 16
 usc_section: "521"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 521"
-generated_at: "2026-11-23T20:32:46.372Z"
+generated_at: "2026-11-23T20:34:29.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1181 - Inapplicability of other sections"
 usc_title: 11
 usc_section: "1181"
 chapter: 11
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "11 U.S.C. § 1181"
-generated_at: "2026-11-23T20:32:32.052Z"
+generated_at: "2026-11-23T20:34:11.185Z"
 status: "active"
 ---
 

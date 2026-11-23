@@ -3,9 +3,9 @@ title: "Section 9074 - Required assurances"
 usc_title: 15
 usc_section: "9074"
 chapter: 116
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 9074"
-generated_at: "2026-11-23T20:32:36.631Z"
+generated_at: "2026-11-23T20:34:18.125Z"
 status: "active"
 ---
 

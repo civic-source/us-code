@@ -3,9 +3,9 @@ title: "Section 6062 - Funding for Individuals with Disabilities Education Act"
 usc_title: 20
 usc_section: "6062"
 chapter: 68
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 6062"
-generated_at: "2026-11-23T20:32:43.464Z"
+generated_at: "2026-11-23T20:34:25.639Z"
 status: "active"
 ---
 

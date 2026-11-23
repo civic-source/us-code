@@ -3,9 +3,9 @@ title: "Section 8107 - Compensation schedule"
 usc_title: 5
 usc_section: "8107"
 chapter: 81
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 8107"
-generated_at: "2026-11-23T20:32:19.597Z"
+generated_at: "2026-11-23T20:33:58.971Z"
 status: "active"
 ---
 

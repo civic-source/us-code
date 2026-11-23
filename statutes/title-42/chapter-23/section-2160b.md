@@ -3,9 +3,9 @@ title: "Section 2160b - Authority to suspend nuclear cooperation with nations wh
 usc_title: 42
 usc_section: "2160b"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2160b"
-generated_at: "2026-11-23T20:33:21.657Z"
+generated_at: "2026-11-23T20:35:09.578Z"
 status: "active"
 ---
 

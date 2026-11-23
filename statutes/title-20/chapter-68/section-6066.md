@@ -3,9 +3,9 @@ title: "Section 6066 - Public schools"
 usc_title: 20
 usc_section: "6066"
 chapter: 68
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 6066"
-generated_at: "2026-11-23T20:32:43.465Z"
+generated_at: "2026-11-23T20:34:25.639Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3110 - Tribal forestry programs"
 usc_title: 25
 usc_section: "3110"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 3110"
-generated_at: "2026-11-23T20:32:49.071Z"
+generated_at: "2026-11-23T20:34:33.788Z"
 status: "active"
 ---
 

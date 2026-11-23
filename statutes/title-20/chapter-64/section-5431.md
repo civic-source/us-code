@@ -3,9 +3,9 @@ title: "Section 5431 - Repealed. Pub. L. 103–382, title III, § 391(l) , Oct. 
 usc_title: 20
 usc_section: "5431"
 chapter: 64
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 5431"
-generated_at: "2026-11-23T20:32:43.451Z"
+generated_at: "2026-11-23T20:34:25.625Z"
 status: "repealed"
 ---
 

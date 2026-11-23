@@ -3,9 +3,9 @@ title: "Section 1362 - Definitions"
 usc_title: 33
 usc_section: "1362"
 chapter: 26
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 1362"
-generated_at: "2026-11-23T20:33:03.649Z"
+generated_at: "2026-11-23T20:34:53.353Z"
 status: "active"
 ---
 

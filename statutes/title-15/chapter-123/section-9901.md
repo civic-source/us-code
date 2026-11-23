@@ -3,9 +3,9 @@ title: "Section 9901 - Prohibition on transfer of personally identifiable sensit
 usc_title: 15
 usc_section: "9901"
 chapter: 123
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 9901"
-generated_at: "2026-11-23T20:32:36.658Z"
+generated_at: "2026-11-23T20:34:18.153Z"
 status: "active"
 ---
 

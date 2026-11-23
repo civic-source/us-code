@@ -3,9 +3,9 @@ title: "Section 2286f - Judicial review"
 usc_title: 42
 usc_section: "2286f"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2286f"
-generated_at: "2026-11-23T20:33:21.677Z"
+generated_at: "2026-11-23T20:35:09.615Z"
 status: "active"
 ---
 

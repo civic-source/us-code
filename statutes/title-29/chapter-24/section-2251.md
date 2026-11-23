@@ -3,9 +3,9 @@ title: "Section 2251 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 
 usc_title: 29
 usc_section: "2251"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 2251"
-generated_at: "2026-11-23T20:32:55.817Z"
+generated_at: "2026-11-23T20:34:43.250Z"
 status: "repealed"
 ---
 

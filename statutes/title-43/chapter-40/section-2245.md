@@ -3,9 +3,9 @@ title: "Section 2245 - Excess storage and carrying capacity"
 usc_title: 43
 usc_section: "2245"
 chapter: 40
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 2245"
-generated_at: "2026-11-23T20:33:11.602Z"
+generated_at: "2026-11-23T20:35:00.294Z"
 status: "active"
 ---
 

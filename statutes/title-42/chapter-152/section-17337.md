@@ -3,9 +3,9 @@ title: "Section 17337 - United States-Israel energy cooperation"
 usc_title: 42
 usc_section: "17337"
 chapter: 152
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 17337"
-generated_at: "2026-11-23T20:33:22.452Z"
+generated_at: "2026-11-23T20:35:10.495Z"
 status: "active"
 ---
 

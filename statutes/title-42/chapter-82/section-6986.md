@@ -3,9 +3,9 @@ title: "Section 6986 - Grants for resource recovery systems and improved solid w
 usc_title: 42
 usc_section: "6986"
 chapter: 82
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 6986"
-generated_at: "2026-11-23T20:33:21.977Z"
+generated_at: "2026-11-23T20:35:10.005Z"
 status: "active"
 ---
 

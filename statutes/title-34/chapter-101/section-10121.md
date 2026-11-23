@@ -3,9 +3,9 @@ title: "Section 10121 - Statement of purpose"
 usc_title: 34
 usc_section: "10121"
 chapter: 101
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "34 U.S.C. § 10121"
-generated_at: "2026-11-23T20:33:05.050Z"
+generated_at: "2026-11-23T20:34:52.317Z"
 status: "active"
 ---
 

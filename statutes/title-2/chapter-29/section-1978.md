@@ -3,9 +3,9 @@ title: "Section 1978 - Deployment outside of jurisdiction"
 usc_title: 2
 usc_section: "1978"
 chapter: 29
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 1978"
-generated_at: "2026-11-23T20:32:17.953Z"
+generated_at: "2026-11-23T20:33:57.306Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1g - Additional increase in quota of United States; condition"
 usc_title: 22
 usc_section: "1g"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 1g"
-generated_at: "2026-11-23T20:32:51.998Z"
+generated_at: "2026-11-23T20:34:38.169Z"
 status: "active"
 ---
 

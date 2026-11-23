@@ -3,9 +3,9 @@ title: "Section 276c - Designation of Senate delegates to Conferences of the Int
 usc_title: 22
 usc_section: "276c"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 276c"
-generated_at: "2026-11-23T20:32:51.978Z"
+generated_at: "2026-11-23T20:34:38.121Z"
 status: "active"
 ---
 

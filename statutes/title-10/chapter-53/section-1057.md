@@ -3,9 +3,9 @@ title: "Section 1057 - Use of armed forces insignia on State license plates"
 usc_title: 10
 usc_section: "1057"
 chapter: 53
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1057"
-generated_at: "2026-11-23T20:32:29.926Z"
+generated_at: "2026-11-23T20:34:07.797Z"
 status: "active"
 ---
 

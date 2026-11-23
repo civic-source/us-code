@@ -3,9 +3,9 @@ title: "Section 8287b - Reports"
 usc_title: 42
 usc_section: "8287b"
 chapter: 91
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 8287b"
-generated_at: "2026-11-23T20:33:22.111Z"
+generated_at: "2026-11-23T20:35:10.147Z"
 status: "active"
 ---
 

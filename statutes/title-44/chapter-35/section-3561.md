@@ -3,9 +3,9 @@ title: "Section 3561 - Definitions"
 usc_title: 44
 usc_section: "3561"
 chapter: 35
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "44 U.S.C. § 3561"
-generated_at: "2026-11-23T20:33:10.763Z"
+generated_at: "2026-11-23T20:35:00.734Z"
 status: "active"
 ---
 

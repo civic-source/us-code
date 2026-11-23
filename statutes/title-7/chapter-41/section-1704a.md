@@ -3,9 +3,9 @@ title: "Section 1704a - Agreements for use of foreign currencies; reports to Con
 usc_title: 7
 usc_section: "1704a"
 chapter: 41
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 1704a"
-generated_at: "2026-11-23T20:32:25.200Z"
+generated_at: "2026-11-23T20:34:03.165Z"
 status: "active"
 ---
 

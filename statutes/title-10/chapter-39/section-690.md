@@ -3,9 +3,9 @@ title: "Section 690 - Retired members ordered to active duty: limitation on numb
 usc_title: 10
 usc_section: "690"
 chapter: 39
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 690"
-generated_at: "2026-11-23T20:32:29.865Z"
+generated_at: "2026-11-23T20:34:07.680Z"
 status: "active"
 ---
 

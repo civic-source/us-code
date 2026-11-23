@@ -3,9 +3,9 @@ title: "Section 59z - Declaration of nonnavigability of bodies of water in Ridge
 usc_title: 33
 usc_section: "59z"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 59z"
-generated_at: "2026-11-23T20:33:03.523Z"
+generated_at: "2026-11-23T20:34:53.185Z"
 status: "active"
 ---
 

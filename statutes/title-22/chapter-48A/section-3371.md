@@ -3,9 +3,9 @@ title: "Section 3371 - Findings"
 usc_title: 22
 usc_section: "3371"
 chapter: 48
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 3371"
-generated_at: "2026-11-23T20:32:52.269Z"
+generated_at: "2026-11-23T20:34:38.473Z"
 status: "active"
 ---
 

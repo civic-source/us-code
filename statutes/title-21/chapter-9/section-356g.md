@@ -3,9 +3,9 @@ title: "Section 356g - Standards for regenerative medicine and regenerative adva
 usc_title: 21
 usc_section: "356g"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 356g"
-generated_at: "2026-11-23T20:32:50.291Z"
+generated_at: "2026-11-23T20:34:35.068Z"
 status: "active"
 ---
 

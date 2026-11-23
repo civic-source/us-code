@@ -3,9 +3,9 @@ title: "Section 1518 - Custody of buildings; officers transferred"
 usc_title: 15
 usc_section: "1518"
 chapter: 40
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 1518"
-generated_at: "2026-11-23T20:32:36.231Z"
+generated_at: "2026-11-23T20:34:17.753Z"
 status: "active"
 ---
 

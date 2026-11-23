@@ -3,9 +3,9 @@ title: "Section 304 - Enlistment oath"
 usc_title: 32
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "32 U.S.C. § 304"
-generated_at: "2026-11-23T20:33:02.481Z"
+generated_at: "2026-11-23T20:34:50.607Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9784 - Air Force and Space Force Museum System"
 usc_title: 10
 usc_section: "9784"
 chapter: 979
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 9784"
-generated_at: "2026-11-23T20:32:30.462Z"
+generated_at: "2026-11-23T20:34:08.843Z"
 status: "active"
 ---
 

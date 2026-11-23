@@ -3,9 +3,9 @@ title: "Section 16a - Service fees and National Futures Association study"
 usc_title: 7
 usc_section: "16a"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 16a"
-generated_at: "2026-11-23T20:32:24.904Z"
+generated_at: "2026-11-23T20:34:02.977Z"
 status: "active"
 ---
 

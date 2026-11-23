@@ -3,9 +3,9 @@ title: "Section 7515 - Sense of Congress regarding promoting cooperation in opiu
 usc_title: 22
 usc_section: "7515"
 chapter: 82
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 7515"
-generated_at: "2026-11-23T20:32:52.448Z"
+generated_at: "2026-11-23T20:34:38.638Z"
 status: "active"
 ---
 

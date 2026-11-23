@@ -3,9 +3,9 @@ title: "Section 1471e - Reimbursement of employee license costs and certificatio
 usc_title: 43
 usc_section: "1471e"
 chapter: 31
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 1471e"
-generated_at: "2026-11-23T20:33:11.557Z"
+generated_at: "2026-11-23T20:35:00.245Z"
 status: "active"
 ---
 

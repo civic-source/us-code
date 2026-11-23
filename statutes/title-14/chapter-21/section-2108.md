@@ -3,9 +3,9 @@ title: "Section 2108 - Selection boards; notice of convening; communication with
 usc_title: 14
 usc_section: "2108"
 chapter: 21
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "14 U.S.C. § 2108"
-generated_at: "2026-11-23T20:32:32.402Z"
+generated_at: "2026-11-23T20:34:10.781Z"
 status: "active"
 ---
 

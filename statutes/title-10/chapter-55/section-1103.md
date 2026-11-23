@@ -3,9 +3,9 @@ title: "Section 1103 - Contracts for medical and dental care: State and local pr
 usc_title: 10
 usc_section: "1103"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1103"
-generated_at: "2026-11-23T20:32:29.956Z"
+generated_at: "2026-11-23T20:34:07.855Z"
 status: "active"
 ---
 

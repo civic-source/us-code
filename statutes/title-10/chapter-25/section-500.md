@@ -3,9 +3,9 @@ title: "Section 500 - Electromagnetic Spectrum Operations Executive Committee"
 usc_title: 10
 usc_section: "500"
 chapter: 25
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 500"
-generated_at: "2026-11-23T20:32:29.831Z"
+generated_at: "2026-11-23T20:34:07.630Z"
 status: "active"
 ---
 

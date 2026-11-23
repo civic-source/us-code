@@ -3,9 +3,9 @@ title: "Section 9615 - Presidential delegation and assignment of duties or power
 usc_title: 42
 usc_section: "9615"
 chapter: 103
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 9615"
-generated_at: "2026-11-23T20:33:22.150Z"
+generated_at: "2026-11-23T20:35:10.190Z"
 status: "active"
 ---
 

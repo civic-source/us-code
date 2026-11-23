@@ -3,9 +3,9 @@ title: "Section 415 - Requirements for Federal entities and designated Federal e
 usc_title: 5
 usc_section: "415"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 415"
-generated_at: "2026-11-23T20:32:19.398Z"
+generated_at: "2026-11-23T20:33:58.637Z"
 status: "active"
 ---
 

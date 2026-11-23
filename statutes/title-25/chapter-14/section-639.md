@@ -3,9 +3,9 @@ title: "Section 639 - Repealed. Pub. L. 104–193, title I, § 110(u) , Aug. 22,
 usc_title: 25
 usc_section: "639"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 639"
-generated_at: "2026-11-23T20:32:48.977Z"
+generated_at: "2026-11-23T20:34:33.589Z"
 status: "repealed"
 ---
 

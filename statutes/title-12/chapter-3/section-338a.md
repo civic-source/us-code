@@ -3,9 +3,9 @@ title: "Section 338a - Investments to promote public welfare and community devel
 usc_title: 12
 usc_section: "338a"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 338a"
-generated_at: "2026-11-23T20:32:33.790Z"
+generated_at: "2026-11-23T20:34:13.901Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9221c - Prohibition on transactions with certain sanctioned pers
 usc_title: 22
 usc_section: "9221c"
 chapter: 99
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 9221c"
-generated_at: "2026-11-23T20:32:52.531Z"
+generated_at: "2026-11-23T20:34:38.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 385b - Amounts creditable to fund"
 usc_title: 25
 usc_section: "385b"
 chapter: 11
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 385b"
-generated_at: "2026-11-23T20:32:48.966Z"
+generated_at: "2026-11-23T20:34:33.561Z"
 status: "active"
 ---
 

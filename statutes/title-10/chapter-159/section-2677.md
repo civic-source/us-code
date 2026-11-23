@@ -3,9 +3,9 @@ title: "Section 2677 - Repealed. Pub. L. 110–181, div. B, title XXVIII, § 282
 usc_title: 10
 usc_section: "2677"
 chapter: 159
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2677"
-generated_at: "2026-11-23T20:32:30.151Z"
+generated_at: "2026-11-23T20:34:08.176Z"
 status: "repealed"
 ---
 

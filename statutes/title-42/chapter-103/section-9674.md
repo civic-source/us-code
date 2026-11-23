@@ -3,9 +3,9 @@ title: "Section 9674 - Purchasing groups"
 usc_title: 42
 usc_section: "9674"
 chapter: 103
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 9674"
-generated_at: "2026-11-23T20:33:22.159Z"
+generated_at: "2026-11-23T20:35:10.200Z"
 status: "active"
 ---
 

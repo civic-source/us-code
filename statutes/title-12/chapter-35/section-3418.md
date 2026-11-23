@@ -3,9 +3,9 @@ title: "Section 3418 - Injunctive relief"
 usc_title: 12
 usc_section: "3418"
 chapter: 35
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 3418"
-generated_at: "2026-11-23T20:32:34.072Z"
+generated_at: "2026-11-23T20:34:14.437Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4032 - Treatment of swimming pool enclosures outside of hurrican
 usc_title: 42
 usc_section: "4032"
 chapter: 50
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 4032"
-generated_at: "2026-11-23T20:33:21.786Z"
+generated_at: "2026-11-23T20:35:09.789Z"
 status: "active"
 ---
 

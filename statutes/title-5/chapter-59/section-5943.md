@@ -3,9 +3,9 @@ title: "Section 5943 - Foreign currency appreciation allowances"
 usc_title: 5
 usc_section: "5943"
 chapter: 59
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 5943"
-generated_at: "2026-11-23T20:32:19.564Z"
+generated_at: "2026-11-23T20:33:58.909Z"
 status: "active"
 ---
 

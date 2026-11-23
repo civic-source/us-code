@@ -3,9 +3,9 @@ title: "Section 2152i - Small Grants Program"
 usc_title: 22
 usc_section: "2152i"
 chapter: 32
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 2152i"
-generated_at: "2026-11-23T20:32:52.114Z"
+generated_at: "2026-11-23T20:34:38.311Z"
 status: "active"
 ---
 

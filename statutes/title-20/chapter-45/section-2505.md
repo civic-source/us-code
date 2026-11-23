@@ -3,9 +3,9 @@ title: "Section 2505 - Grants or contracts"
 usc_title: 20
 usc_section: "2505"
 chapter: 45
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 2505"
-generated_at: "2026-11-23T20:32:43.420Z"
+generated_at: "2026-11-23T20:34:25.591Z"
 status: "active"
 ---
 

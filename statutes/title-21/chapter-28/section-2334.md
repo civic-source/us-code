@@ -3,9 +3,9 @@ title: "Section 2334 - Termination"
 usc_title: 21
 usc_section: "2334"
 chapter: 28
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 2334"
-generated_at: "2026-11-23T20:32:50.440Z"
+generated_at: "2026-11-23T20:34:35.300Z"
 status: "active"
 ---
 

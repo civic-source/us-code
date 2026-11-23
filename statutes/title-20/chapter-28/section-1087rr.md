@@ -3,9 +3,9 @@ title: "Section 1087rr - Regulations; updated tables"
 usc_title: 20
 usc_section: "1087rr"
 chapter: 28
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 1087rr"
-generated_at: "2026-11-23T20:32:43.313Z"
+generated_at: "2026-11-23T20:34:25.454Z"
 status: "active"
 ---
 

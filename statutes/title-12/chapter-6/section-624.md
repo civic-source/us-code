@@ -3,9 +3,9 @@ title: "Section 624 - Appointment of receiver or conservator"
 usc_title: 12
 usc_section: "624"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 624"
-generated_at: "2026-11-23T20:32:33.813Z"
+generated_at: "2026-11-23T20:34:13.937Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7255 - Milk manufacturing marketing adjustment"
 usc_title: 7
 usc_section: "7255"
 chapter: 100
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 7255"
-generated_at: "2026-11-23T20:32:25.419Z"
+generated_at: "2026-11-23T20:34:03.408Z"
 status: "active"
 ---
 

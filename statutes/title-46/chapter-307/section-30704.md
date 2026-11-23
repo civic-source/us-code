@@ -3,9 +3,9 @@ title: "Section 30704 - Loading, stowage, custody, care, and delivery"
 usc_title: 46
 usc_section: "30704"
 chapter: 307
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 30704"
-generated_at: "2026-11-23T20:33:25.813Z"
+generated_at: "2026-11-23T20:35:13.930Z"
 status: "active"
 ---
 

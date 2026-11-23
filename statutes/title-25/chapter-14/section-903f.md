@@ -3,9 +3,9 @@ title: "Section 903f - Omitted"
 usc_title: 25
 usc_section: "903f"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 903f"
-generated_at: "2026-11-23T20:32:48.982Z"
+generated_at: "2026-11-23T20:34:33.603Z"
 status: "omitted"
 ---
 

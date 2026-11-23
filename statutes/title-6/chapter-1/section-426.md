@@ -3,9 +3,9 @@ title: "Section 426 - Use of streamlined procedures"
 usc_title: 6
 usc_section: "426"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 426"
-generated_at: "2026-11-23T20:32:22.114Z"
+generated_at: "2026-11-23T20:34:01.343Z"
 status: "active"
 ---
 

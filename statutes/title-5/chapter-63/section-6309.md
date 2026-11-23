@@ -3,9 +3,9 @@ title: "Section 6309 - Repealed. Pub. L. 94–183, § 2(26) , Dec. 31, 1975 , 89
 usc_title: 5
 usc_section: "6309"
 chapter: 63
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 6309"
-generated_at: "2026-11-23T20:32:19.574Z"
+generated_at: "2026-11-23T20:33:58.931Z"
 status: "repealed"
 ---
 

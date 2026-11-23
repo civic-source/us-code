@@ -3,9 +3,9 @@ title: "Section 1789 - Mental health services for members of the reserve compone
 usc_title: 38
 usc_section: "1789"
 chapter: 17
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 1789"
-generated_at: "2026-11-23T20:33:09.046Z"
+generated_at: "2026-11-23T20:34:57.377Z"
 status: "active"
 ---
 

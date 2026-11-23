@@ -3,9 +3,9 @@ title: "Section 3906 - Payments"
 usc_title: 28
 usc_section: "3906"
 chapter: 179
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 3906"
-generated_at: "2026-11-23T20:32:56.629Z"
+generated_at: "2026-11-23T20:34:41.371Z"
 status: "active"
 ---
 

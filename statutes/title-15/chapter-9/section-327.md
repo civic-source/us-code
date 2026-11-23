@@ -3,9 +3,9 @@ title: "Section 327 - Employees for conduct of meteorological investigations in 
 usc_title: 15
 usc_section: "327"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 327"
-generated_at: "2026-11-23T20:32:36.031Z"
+generated_at: "2026-11-23T20:34:17.517Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3305 - Allocation of grant funds"
 usc_title: 25
 usc_section: "3305"
 chapter: 35
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 3305"
-generated_at: "2026-11-23T20:32:49.075Z"
+generated_at: "2026-11-23T20:34:33.797Z"
 status: "active"
 ---
 

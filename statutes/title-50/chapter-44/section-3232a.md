@@ -3,9 +3,9 @@ title: "Section 3232a - Measures to mitigate counterintelligence threats from pr
 usc_title: 50
 usc_section: "3232a"
 chapter: 44
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 3232a"
-generated_at: "2026-11-23T20:33:26.957Z"
+generated_at: "2026-11-23T20:35:14.998Z"
 status: "active"
 ---
 

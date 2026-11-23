@@ -3,9 +3,9 @@ title: "Section 464 - Detention by collectors of customs"
 usc_title: 22
 usc_section: "464"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 464"
-generated_at: "2026-11-23T20:32:52.037Z"
+generated_at: "2026-11-23T20:34:38.221Z"
 status: "active"
 ---
 

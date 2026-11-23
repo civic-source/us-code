@@ -3,9 +3,9 @@ title: "Section 59j - Delaware River, Philadelphia County, Pennsylvania; permane
 usc_title: 33
 usc_section: "59j"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 59j"
-generated_at: "2026-11-23T20:33:03.521Z"
+generated_at: "2026-11-23T20:34:53.184Z"
 status: "active"
 ---
 

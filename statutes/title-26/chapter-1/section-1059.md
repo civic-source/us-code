@@ -3,9 +3,9 @@ title: "Section 1059 - Corporate shareholder’s basis in stock reduced by nonta
 usc_title: 26
 usc_section: "1059"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 1059"
-generated_at: "2026-11-23T20:33:00.339Z"
+generated_at: "2026-11-23T20:34:48.830Z"
 status: "active"
 ---
 

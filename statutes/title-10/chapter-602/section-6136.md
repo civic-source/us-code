@@ -3,9 +3,9 @@ title: "Section 6136 - Earned value management and technology readiness levels f
 usc_title: 10
 usc_section: "6136"
 chapter: 602
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 6136"
-generated_at: "2026-11-23T20:32:30.289Z"
+generated_at: "2026-11-23T20:34:08.453Z"
 status: "active"
 ---
 

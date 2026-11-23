@@ -3,9 +3,9 @@ title: "Section 10321 - General penalty"
 usc_title: 46
 usc_section: "10321"
 chapter: 103
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 10321"
-generated_at: "2026-11-23T20:33:25.786Z"
+generated_at: "2026-11-23T20:35:13.904Z"
 status: "active"
 ---
 

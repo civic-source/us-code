@@ -3,9 +3,9 @@ title: "Section 3b - Strategic Workforce Plan and report"
 usc_title: 21
 usc_section: "3b"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 3b"
-generated_at: "2026-11-23T20:32:50.338Z"
+generated_at: "2026-11-23T20:34:35.135Z"
 status: "active"
 ---
 

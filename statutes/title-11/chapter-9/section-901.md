@@ -3,9 +3,9 @@ title: "Section 901 - Applicability of other sections of this title"
 usc_title: 11
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "11 U.S.C. § 901"
-generated_at: "2026-11-23T20:32:32.041Z"
+generated_at: "2026-11-23T20:34:11.175Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2250a - Erection of buildings and other structures on non-Federa
 usc_title: 7
 usc_section: "2250a"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 2250a"
-generated_at: "2026-11-23T20:32:25.295Z"
+generated_at: "2026-11-23T20:34:03.284Z"
 status: "active"
 ---
 

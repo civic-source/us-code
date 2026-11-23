@@ -3,9 +3,9 @@ title: "Section 240h - Repealed. Pub. L. 119–60, div. A, title X, § 1002(c) ,
 usc_title: 10
 usc_section: "240h"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 240h"
-generated_at: "2026-11-23T20:32:29.804Z"
+generated_at: "2026-11-23T20:34:07.575Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41 - Patent fees; patent and trademark search systems"
 usc_title: 35
 usc_section: "41"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "35 U.S.C. § 41"
-generated_at: "2026-11-23T20:33:02.298Z"
+generated_at: "2026-11-23T20:34:51.021Z"
 status: "active"
 ---
 

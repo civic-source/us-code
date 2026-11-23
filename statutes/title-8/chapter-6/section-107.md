@@ -3,9 +3,9 @@ title: "Section 107 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 8
 usc_section: "107"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "8 U.S.C. § 107"
-generated_at: "2026-11-23T20:32:21.538Z"
+generated_at: "2026-11-23T20:34:00.810Z"
 status: "repealed"
 ---
 

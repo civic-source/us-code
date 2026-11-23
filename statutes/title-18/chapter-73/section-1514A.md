@@ -3,9 +3,9 @@ title: "Section 1514A - Civil action to protect against retaliation in fraud cas
 usc_title: 18
 usc_section: "1514A"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 1514A"
-generated_at: "2026-11-23T20:32:39.753Z"
+generated_at: "2026-11-23T20:34:22.128Z"
 status: "active"
 ---
 

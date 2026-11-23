@@ -3,9 +3,9 @@ title: "Section 470l - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470l"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 470l"
-generated_at: "2026-11-23T20:32:46.347Z"
+generated_at: "2026-11-23T20:34:29.282Z"
 status: "repealed"
 ---
 

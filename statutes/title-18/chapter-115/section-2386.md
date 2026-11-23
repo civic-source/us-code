@@ -3,9 +3,9 @@ title: "Section 2386 - Registration of certain organizations"
 usc_title: 18
 usc_section: "2386"
 chapter: 115
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 2386"
-generated_at: "2026-11-23T20:32:39.847Z"
+generated_at: "2026-11-23T20:34:22.196Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 237a - Health and Human Services Office on Women’s Health"
 usc_title: 42
 usc_section: "237a"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 237a"
-generated_at: "2026-11-23T20:33:20.397Z"
+generated_at: "2026-11-23T20:35:08.288Z"
 status: "active"
 ---
 

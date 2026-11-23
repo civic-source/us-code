@@ -3,9 +3,9 @@ title: "Section 2515 - Calculation of active service"
 usc_title: 14
 usc_section: "2515"
 chapter: 25
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "14 U.S.C. § 2515"
-generated_at: "2026-11-23T20:32:32.413Z"
+generated_at: "2026-11-23T20:34:10.812Z"
 status: "active"
 ---
 

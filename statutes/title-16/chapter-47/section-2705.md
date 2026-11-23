@@ -3,9 +3,9 @@ title: "Section 2705 - Simplified and expeditious licensing procedures"
 usc_title: 16
 usc_section: "2705"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 2705"
-generated_at: "2026-11-23T20:32:46.757Z"
+generated_at: "2026-11-23T20:34:29.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 456 - Military activities"
 usc_title: 6
 usc_section: "456"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 456"
-generated_at: "2026-11-23T20:32:22.117Z"
+generated_at: "2026-11-23T20:34:01.344Z"
 status: "active"
 ---
 

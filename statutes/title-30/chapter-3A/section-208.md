@@ -3,9 +3,9 @@ title: "Section 208 - Permits to take coal for local domestic needs without roya
 usc_title: 30
 usc_section: "208"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "30 U.S.C. § 208"
-generated_at: "2026-11-23T20:32:54.520Z"
+generated_at: "2026-11-23T20:34:41.855Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11295 - Criteria for grants"
 usc_title: 34
 usc_section: "11295"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "34 U.S.C. § 11295"
-generated_at: "2026-11-23T20:33:05.105Z"
+generated_at: "2026-11-23T20:34:52.383Z"
 status: "active"
 ---
 

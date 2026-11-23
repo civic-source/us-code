@@ -3,9 +3,9 @@ title: "Section 421 - Contracts by Government agencies for defense articles, ser
 usc_title: 22
 usc_section: "421"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 421"
-generated_at: "2026-11-23T20:32:52.034Z"
+generated_at: "2026-11-23T20:34:38.218Z"
 status: "active"
 ---
 

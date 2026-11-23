@@ -3,9 +3,9 @@ title: "Section 4331 - Payment of debts"
 usc_title: 50
 usc_section: "4331"
 chapter: 53
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 4331"
-generated_at: "2026-11-23T20:33:27.032Z"
+generated_at: "2026-11-23T20:35:15.071Z"
 status: "active"
 ---
 

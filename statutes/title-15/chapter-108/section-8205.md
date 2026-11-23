@@ -3,9 +3,9 @@ title: "Section 8205 - Streamlined application for commercial purchasers"
 usc_title: 15
 usc_section: "8205"
 chapter: 108
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 8205"
-generated_at: "2026-11-23T20:32:36.570Z"
+generated_at: "2026-11-23T20:34:18.060Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2035 - Divisions, offices, and positions"
 usc_title: 42
 usc_section: "2035"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2035"
-generated_at: "2026-11-23T20:33:21.644Z"
+generated_at: "2026-11-23T20:35:09.556Z"
 status: "active"
 ---
 

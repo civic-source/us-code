@@ -3,9 +3,9 @@ title: "Section 11243 - Authority to make grants for research, evaluation, demon
 usc_title: 34
 usc_section: "11243"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "34 U.S.C. § 11243"
-generated_at: "2026-11-23T20:33:05.101Z"
+generated_at: "2026-11-23T20:34:52.379Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1505 - Repealed. Pub. L. 100–690, title I, § 1009 , Nov. 18, 
 usc_title: 21
 usc_section: "1505"
 chapter: 20
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 1505"
-generated_at: "2026-11-23T20:32:50.421Z"
+generated_at: "2026-11-23T20:34:35.272Z"
 status: "repealed"
 ---
 

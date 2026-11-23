@@ -3,9 +3,9 @@ title: "Section 4551 - Small business"
 usc_title: 50
 usc_section: "4551"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 4551"
-generated_at: "2026-11-23T20:33:27.037Z"
+generated_at: "2026-11-23T20:35:15.075Z"
 status: "active"
 ---
 

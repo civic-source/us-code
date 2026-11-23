@@ -3,9 +3,9 @@ title: "Section 856 - Art. 56. Sentencing"
 usc_title: 10
 usc_section: "856"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 856"
-generated_at: "2026-11-23T20:32:29.889Z"
+generated_at: "2026-11-23T20:34:07.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2821 - Requirement for authorization of appropriations for const
 usc_title: 10
 usc_section: "2821"
 chapter: 169
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2821"
-generated_at: "2026-11-23T20:32:30.179Z"
+generated_at: "2026-11-23T20:34:08.218Z"
 status: "active"
 ---
 

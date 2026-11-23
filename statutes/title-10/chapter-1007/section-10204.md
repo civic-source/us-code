@@ -3,9 +3,9 @@ title: "Section 10204 - Personnel records"
 usc_title: 10
 usc_section: "10204"
 chapter: 1007
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 10204"
-generated_at: "2026-11-23T20:32:30.467Z"
+generated_at: "2026-11-23T20:34:08.854Z"
 status: "active"
 ---
 

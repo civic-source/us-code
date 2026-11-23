@@ -3,9 +3,9 @@ title: "Section 12118 - Owners engaged primarily in manufacturing or mineral ind
 usc_title: 46
 usc_section: "12118"
 chapter: 121
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 12118"
-generated_at: "2026-11-23T20:33:25.795Z"
+generated_at: "2026-11-23T20:35:13.914Z"
 status: "active"
 ---
 

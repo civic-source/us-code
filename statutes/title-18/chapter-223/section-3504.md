@@ -3,9 +3,9 @@ title: "Section 3504 - Litigation concerning sources of evidence"
 usc_title: 18
 usc_section: "3504"
 chapter: 223
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 3504"
-generated_at: "2026-11-23T20:32:39.924Z"
+generated_at: "2026-11-23T20:34:22.265Z"
 status: "active"
 ---
 

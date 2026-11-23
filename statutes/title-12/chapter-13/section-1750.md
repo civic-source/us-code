@@ -3,9 +3,9 @@ title: "Section 1750 - Definitions"
 usc_title: 12
 usc_section: "1750"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 1750"
-generated_at: "2026-11-23T20:32:33.942Z"
+generated_at: "2026-11-23T20:34:14.170Z"
 status: "active"
 ---
 

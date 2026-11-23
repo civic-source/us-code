@@ -3,9 +3,9 @@ title: "Section 513 - Federal air marshal program"
 usc_title: 6
 usc_section: "513"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 513"
-generated_at: "2026-11-23T20:32:22.125Z"
+generated_at: "2026-11-23T20:34:01.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 279b - Integration of International Institute of Agriculture wit
 usc_title: 22
 usc_section: "279b"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 279b"
-generated_at: "2026-11-23T20:32:51.987Z"
+generated_at: "2026-11-23T20:34:38.146Z"
 status: "active"
 ---
 

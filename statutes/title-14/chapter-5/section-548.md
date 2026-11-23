@@ -3,9 +3,9 @@ title: "Section 548 - Prohibition against officers and employees being intereste
 usc_title: 14
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "14 U.S.C. § 548"
-generated_at: "2026-11-23T20:32:32.381Z"
+generated_at: "2026-11-23T20:34:10.749Z"
 status: "active"
 ---
 

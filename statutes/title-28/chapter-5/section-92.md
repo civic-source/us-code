@@ -3,9 +3,9 @@ title: "Section 92 - Idaho"
 usc_title: 28
 usc_section: "92"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 92"
-generated_at: "2026-11-23T20:32:56.484Z"
+generated_at: "2026-11-23T20:34:41.141Z"
 status: "active"
 ---
 

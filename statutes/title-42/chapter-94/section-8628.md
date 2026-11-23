@@ -3,9 +3,9 @@ title: "Section 8628 - Limitation on use of grants for construction"
 usc_title: 42
 usc_section: "8628"
 chapter: 94
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 8628"
-generated_at: "2026-11-23T20:33:22.123Z"
+generated_at: "2026-11-23T20:35:10.160Z"
 status: "active"
 ---
 

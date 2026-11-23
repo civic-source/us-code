@@ -3,9 +3,9 @@ title: "Section 11328 - Restrictions on officers and directors"
 usc_title: 49
 usc_section: "11328"
 chapter: 113
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 11328"
-generated_at: "2026-11-23T20:33:29.043Z"
+generated_at: "2026-11-23T20:35:16.779Z"
 status: "active"
 ---
 

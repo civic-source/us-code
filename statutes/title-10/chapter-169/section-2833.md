@@ -3,9 +3,9 @@ title: "Section 2833 - Family housing support"
 usc_title: 10
 usc_section: "2833"
 chapter: 169
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2833"
-generated_at: "2026-11-23T20:32:30.182Z"
+generated_at: "2026-11-23T20:34:08.223Z"
 status: "active"
 ---
 

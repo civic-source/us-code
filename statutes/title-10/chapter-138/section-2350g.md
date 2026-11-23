@@ -3,9 +3,9 @@ title: "Section 2350g - Authority to accept use of real property, services, and 
 usc_title: 10
 usc_section: "2350g"
 chapter: 138
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2350g"
-generated_at: "2026-11-23T20:32:30.111Z"
+generated_at: "2026-11-23T20:34:08.097Z"
 status: "active"
 ---
 

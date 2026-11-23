@@ -3,9 +3,9 @@ title: "Section 4726 - Indian tribes export promotion"
 usc_title: 15
 usc_section: "4726"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 4726"
-generated_at: "2026-11-23T20:32:36.479Z"
+generated_at: "2026-11-23T20:34:17.972Z"
 status: "active"
 ---
 

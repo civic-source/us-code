@@ -3,9 +3,9 @@ title: "Section 15991 - Inventory requirement"
 usc_title: 42
 usc_section: "15991"
 chapter: 149
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 15991"
-generated_at: "2026-11-23T20:33:22.375Z"
+generated_at: "2026-11-23T20:35:10.417Z"
 status: "active"
 ---
 

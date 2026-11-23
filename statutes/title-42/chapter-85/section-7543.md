@@ -3,9 +3,9 @@ title: "Section 7543 - State standards"
 usc_title: 42
 usc_section: "7543"
 chapter: 85
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 7543"
-generated_at: "2026-11-23T20:33:22.045Z"
+generated_at: "2026-11-23T20:35:10.082Z"
 status: "active"
 ---
 

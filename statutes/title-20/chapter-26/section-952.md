@@ -3,9 +3,9 @@ title: "Section 952 - Definitions"
 usc_title: 20
 usc_section: "952"
 chapter: 26
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 952"
-generated_at: "2026-11-23T20:32:43.210Z"
+generated_at: "2026-11-23T20:34:25.341Z"
 status: "active"
 ---
 

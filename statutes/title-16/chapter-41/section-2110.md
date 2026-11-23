@@ -3,9 +3,9 @@ title: "Section 2110 - Statement of limitation"
 usc_title: 16
 usc_section: "2110"
 chapter: 41
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 2110"
-generated_at: "2026-11-23T20:32:46.745Z"
+generated_at: "2026-11-23T20:34:29.771Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7245 - Family engagement in Indian schools"
 usc_title: 20
 usc_section: "7245"
 chapter: 70
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 7245"
-generated_at: "2026-11-23T20:32:43.508Z"
+generated_at: "2026-11-23T20:34:25.684Z"
 status: "active"
 ---
 

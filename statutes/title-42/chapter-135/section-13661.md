@@ -3,9 +3,9 @@ title: "Section 13661 - Screening of applicants for federally assisted housing"
 usc_title: 42
 usc_section: "13661"
 chapter: 135
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 13661"
-generated_at: "2026-11-23T20:33:22.341Z"
+generated_at: "2026-11-23T20:35:10.381Z"
 status: "active"
 ---
 

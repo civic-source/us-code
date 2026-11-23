@@ -3,9 +3,9 @@ title: "Section 4602 - Definitions"
 usc_title: 22
 usc_section: "4602"
 chapter: 56
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 4602"
-generated_at: "2026-11-23T20:32:52.336Z"
+generated_at: "2026-11-23T20:34:38.546Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6425 - Adjustment of overpayment of estimated income tax by corp
 usc_title: 26
 usc_section: "6425"
 chapter: 65
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 6425"
-generated_at: "2026-11-23T20:33:00.707Z"
+generated_at: "2026-11-23T20:34:49.203Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 703 - Repealed. Pub. L. 115–141, div. P, title IV, § 402(b) ,
 usc_title: 47
 usc_section: "703"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "47 U.S.C. § 703"
-generated_at: "2026-11-23T20:33:25.117Z"
+generated_at: "2026-11-23T20:35:12.626Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 606 - Disposition of seized mail"
 usc_title: 39
 usc_section: "606"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "39 U.S.C. § 606"
-generated_at: "2026-11-23T20:33:06.518Z"
+generated_at: "2026-11-23T20:34:55.106Z"
 status: "active"
 ---
 

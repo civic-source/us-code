@@ -3,9 +3,9 @@ title: "Section 931d - Art. 131d. Wrongful refusal to testify"
 usc_title: 10
 usc_section: "931d"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 931d"
-generated_at: "2026-11-23T20:32:29.904Z"
+generated_at: "2026-11-23T20:34:07.759Z"
 status: "active"
 ---
 

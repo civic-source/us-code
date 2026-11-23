@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 42
 usc_section: "201"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 201"
-generated_at: "2026-11-23T20:33:20.381Z"
+generated_at: "2026-11-23T20:35:08.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 305 - Royalties under lease"
 usc_title: 30
 usc_section: "305"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "30 U.S.C. § 305"
-generated_at: "2026-11-23T20:32:54.529Z"
+generated_at: "2026-11-23T20:34:41.866Z"
 status: "active"
 ---
 

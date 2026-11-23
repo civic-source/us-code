@@ -3,9 +3,9 @@ title: "Section 5921a - Repealed. Pub. L. 110–234, title VII, § 7411 , May 22
 usc_title: 7
 usc_section: "5921a"
 chapter: 88
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 5921a"
-generated_at: "2026-11-23T20:32:25.372Z"
+generated_at: "2026-11-23T20:34:03.361Z"
 status: "repealed"
 ---
 

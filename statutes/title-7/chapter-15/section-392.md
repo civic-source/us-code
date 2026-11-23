@@ -3,9 +3,9 @@ title: "Section 392 - Repealed. Oct. 31, 1951, ch. 654, § 1(11) , 65 Stat. 701"
 usc_title: 7
 usc_section: "392"
 chapter: 15
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 392"
-generated_at: "2026-11-23T20:32:25.007Z"
+generated_at: "2026-11-23T20:34:03.049Z"
 status: "repealed"
 ---
 

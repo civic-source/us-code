@@ -3,9 +3,9 @@ title: "Section 852 - Application of treaties and other international agreements
 usc_title: 21
 usc_section: "852"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 852"
-generated_at: "2026-11-23T20:32:50.402Z"
+generated_at: "2026-11-23T20:34:35.250Z"
 status: "active"
 ---
 

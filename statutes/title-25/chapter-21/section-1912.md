@@ -3,9 +3,9 @@ title: "Section 1912 - Pending court proceedings"
 usc_title: 25
 usc_section: "1912"
 chapter: 21
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 1912"
-generated_at: "2026-11-23T20:32:49.028Z"
+generated_at: "2026-11-23T20:34:33.709Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1658 - Time limitations on the commencement of civil actions ari
 usc_title: 28
 usc_section: "1658"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 1658"
-generated_at: "2026-11-23T20:32:56.589Z"
+generated_at: "2026-11-23T20:34:41.290Z"
 status: "active"
 ---
 

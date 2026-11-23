@@ -3,9 +3,9 @@ title: "Section 1912 - Funding for scholarship program for advanced English lang
 usc_title: 50
 usc_section: "1912"
 chapter: 37
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 1912"
-generated_at: "2026-11-23T20:33:26.899Z"
+generated_at: "2026-11-23T20:35:14.938Z"
 status: "active"
 ---
 

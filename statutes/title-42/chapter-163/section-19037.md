@@ -3,9 +3,9 @@ title: "Section 19037 - Research security and integrity information sharing anal
 usc_title: 42
 usc_section: "19037"
 chapter: 163
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 19037"
-generated_at: "2026-11-23T20:33:22.511Z"
+generated_at: "2026-11-23T20:35:10.555Z"
 status: "active"
 ---
 

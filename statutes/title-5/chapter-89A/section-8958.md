@@ -3,9 +3,9 @@ title: "Section 8958 - Premiums"
 usc_title: 5
 usc_section: "8958"
 chapter: 89
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 8958"
-generated_at: "2026-11-23T20:32:19.680Z"
+generated_at: "2026-11-23T20:33:59.089Z"
 status: "active"
 ---
 

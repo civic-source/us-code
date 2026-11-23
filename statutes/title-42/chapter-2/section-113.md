@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 42
 usc_section: "113"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-11-23T20:33:20.380Z"
+generated_at: "2026-11-23T20:35:08.266Z"
 status: "repealed"
 ---
 

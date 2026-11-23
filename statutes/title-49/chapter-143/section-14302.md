@@ -3,9 +3,9 @@ title: "Section 14302 - Pooling and division of transportation or earnings"
 usc_title: 49
 usc_section: "14302"
 chapter: 143
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 14302"
-generated_at: "2026-11-23T20:33:29.053Z"
+generated_at: "2026-11-23T20:35:16.793Z"
 status: "active"
 ---
 

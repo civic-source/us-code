@@ -3,9 +3,9 @@ title: "Section 110301 - Organization"
 usc_title: 36
 usc_section: "110301"
 chapter: 1103
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 110301"
-generated_at: "2026-11-23T20:33:07.817Z"
+generated_at: "2026-11-23T20:34:55.978Z"
 status: "active"
 ---
 

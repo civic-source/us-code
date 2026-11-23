@@ -3,9 +3,9 @@ title: "Section 13338 - Utilization of coal wastes"
 usc_title: 42
 usc_section: "13338"
 chapter: 134
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 13338"
-generated_at: "2026-11-23T20:33:22.324Z"
+generated_at: "2026-11-23T20:35:10.366Z"
 status: "active"
 ---
 

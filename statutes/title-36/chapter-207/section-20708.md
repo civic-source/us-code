@@ -3,9 +3,9 @@ title: "Section 20708 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "20708"
 chapter: 207
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 20708"
-generated_at: "2026-11-23T20:33:07.768Z"
+generated_at: "2026-11-23T20:34:55.923Z"
 status: "active"
 ---
 

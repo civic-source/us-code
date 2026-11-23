@@ -3,9 +3,9 @@ title: "Section 8501 - Congressional findings and purposes"
 usc_title: 42
 usc_section: "8501"
 chapter: 93
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 8501"
-generated_at: "2026-11-23T20:33:22.118Z"
+generated_at: "2026-11-23T20:35:10.154Z"
 status: "active"
 ---
 

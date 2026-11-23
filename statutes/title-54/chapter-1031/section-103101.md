@@ -3,9 +3,9 @@ title: "Section 103101 - Availability and use of appropriations"
 usc_title: 54
 usc_section: "103101"
 chapter: 1031
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "54 U.S.C. § 103101"
-generated_at: "2026-11-23T20:33:30.933Z"
+generated_at: "2026-11-23T20:35:18.680Z"
 status: "active"
 ---
 

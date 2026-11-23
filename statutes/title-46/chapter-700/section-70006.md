@@ -3,9 +3,9 @@ title: "Section 70006 - Establishment by Secretary of the department in which th
 usc_title: 46
 usc_section: "70006"
 chapter: 700
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 70006"
-generated_at: "2026-11-23T20:33:25.968Z"
+generated_at: "2026-11-23T20:35:14.041Z"
 status: "active"
 ---
 

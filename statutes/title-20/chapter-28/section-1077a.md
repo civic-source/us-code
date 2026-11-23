@@ -3,9 +3,9 @@ title: "Section 1077a - Applicable interest rates"
 usc_title: 20
 usc_section: "1077a"
 chapter: 28
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 1077a"
-generated_at: "2026-11-23T20:32:43.268Z"
+generated_at: "2026-11-23T20:34:25.399Z"
 status: "active"
 ---
 

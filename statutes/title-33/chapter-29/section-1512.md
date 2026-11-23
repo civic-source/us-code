@@ -3,9 +3,9 @@ title: "Section 1512 - Recordkeeping and inspection"
 usc_title: 33
 usc_section: "1512"
 chapter: 29
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 1512"
-generated_at: "2026-11-23T20:33:03.664Z"
+generated_at: "2026-11-23T20:34:53.377Z"
 status: "active"
 ---
 

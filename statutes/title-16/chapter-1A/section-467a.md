@@ -3,9 +3,9 @@ title: "Section 467a - Repealed. Pub. L. 96–586, § 4(a)(1) , (b), Dec. 23, 19
 usc_title: 16
 usc_section: "467a"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 467a"
-generated_at: "2026-11-23T20:32:46.344Z"
+generated_at: "2026-11-23T20:34:29.278Z"
 status: "repealed"
 ---
 

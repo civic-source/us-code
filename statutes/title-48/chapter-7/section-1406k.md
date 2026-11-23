@@ -3,9 +3,9 @@ title: "Section 1406k - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19,
 usc_title: 48
 usc_section: "1406k"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "48 U.S.C. § 1406k"
-generated_at: "2026-11-23T20:33:24.317Z"
+generated_at: "2026-11-23T20:35:12.977Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1275 - Toxicological Advisory Board"
 usc_title: 15
 usc_section: "1275"
 chapter: 30
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 1275"
-generated_at: "2026-11-23T20:32:36.211Z"
+generated_at: "2026-11-23T20:34:17.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1074c - Medical care: authority to provide a wig"
 usc_title: 10
 usc_section: "1074c"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1074c"
-generated_at: "2026-11-23T20:32:29.937Z"
+generated_at: "2026-11-23T20:34:07.817Z"
 status: "active"
 ---
 

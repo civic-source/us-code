@@ -3,9 +3,9 @@ title: "Section 1609 - Severability"
 usc_title: 47
 usc_section: "1609"
 chapter: 15
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "47 U.S.C. § 1609"
-generated_at: "2026-11-23T20:33:25.153Z"
+generated_at: "2026-11-23T20:35:12.654Z"
 status: "active"
 ---
 

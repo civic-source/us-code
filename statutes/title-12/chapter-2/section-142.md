@@ -3,9 +3,9 @@ title: "Section 142 - Banks in reserve cities; reserves"
 usc_title: 12
 usc_section: "142"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 142"
-generated_at: "2026-11-23T20:32:33.776Z"
+generated_at: "2026-11-23T20:34:13.875Z"
 status: "active"
 ---
 

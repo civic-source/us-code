@@ -3,9 +3,9 @@ title: "Section 1833 - Lighting, heating, and ventilating House of Representativ
 usc_title: 2
 usc_section: "1833"
 chapter: 28
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 1833"
-generated_at: "2026-11-23T20:32:17.941Z"
+generated_at: "2026-11-23T20:33:57.296Z"
 status: "active"
 ---
 

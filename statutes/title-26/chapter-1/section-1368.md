@@ -3,9 +3,9 @@ title: "Section 1368 - Distributions"
 usc_title: 26
 usc_section: "1368"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 1368"
-generated_at: "2026-11-23T20:33:00.383Z"
+generated_at: "2026-11-23T20:34:48.875Z"
 status: "active"
 ---
 

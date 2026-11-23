@@ -3,9 +3,9 @@ title: "Section 5556 - Repealed. Pub. L. 116–260, div. Z, title III, § 3006(e
 usc_title: 42
 usc_section: "5556"
 chapter: 71
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 5556"
-generated_at: "2026-11-23T20:33:21.887Z"
+generated_at: "2026-11-23T20:35:09.908Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41c - Repealed. Pub. L. 93–112, title V, § 500(a) , Sept. 26,
 usc_title: 29
 usc_section: "41c"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 41c"
-generated_at: "2026-11-23T20:32:55.658Z"
+generated_at: "2026-11-23T20:34:43.023Z"
 status: "repealed"
 ---
 

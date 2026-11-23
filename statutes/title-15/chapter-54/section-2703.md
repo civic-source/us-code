@@ -3,9 +3,9 @@ title: "Section 2703 - Advanced systems program implementation by Secretary of E
 usc_title: 15
 usc_section: "2703"
 chapter: 54
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 2703"
-generated_at: "2026-11-23T20:32:36.401Z"
+generated_at: "2026-11-23T20:34:17.916Z"
 status: "active"
 ---
 

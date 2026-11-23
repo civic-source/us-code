@@ -3,9 +3,9 @@ title: "Section 8702 - Prohibited conduct"
 usc_title: 41
 usc_section: "8702"
 chapter: 87
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "41 U.S.C. § 8702"
-generated_at: "2026-11-23T20:33:11.099Z"
+generated_at: "2026-11-23T20:34:59.591Z"
 status: "active"
 ---
 

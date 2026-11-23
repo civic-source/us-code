@@ -3,9 +3,9 @@ title: "Section 2114c - Trade in services: development, coordination, and implem
 usc_title: 19
 usc_section: "2114c"
 chapter: 12
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 2114c"
-generated_at: "2026-11-23T20:32:41.472Z"
+generated_at: "2026-11-23T20:34:20.882Z"
 status: "active"
 ---
 

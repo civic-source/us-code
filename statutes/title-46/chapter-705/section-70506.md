@@ -3,9 +3,9 @@ title: "Section 70506 - Penalties"
 usc_title: 46
 usc_section: "70506"
 chapter: 705
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 70506"
-generated_at: "2026-11-23T20:33:25.988Z"
+generated_at: "2026-11-23T20:35:14.053Z"
 status: "active"
 ---
 

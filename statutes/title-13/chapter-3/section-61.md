@@ -3,9 +3,9 @@ title: "Section 61 - Collection and publication"
 usc_title: 13
 usc_section: "61"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "13 U.S.C. § 61"
-generated_at: "2026-11-23T20:32:31.830Z"
+generated_at: "2026-11-23T20:34:10.257Z"
 status: "active"
 ---
 

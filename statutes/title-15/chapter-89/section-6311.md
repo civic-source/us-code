@@ -3,9 +3,9 @@ title: "Section 6311 - Studies"
 usc_title: 15
 usc_section: "6311"
 chapter: 89
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 6311"
-generated_at: "2026-11-23T20:32:36.506Z"
+generated_at: "2026-11-23T20:34:17.994Z"
 status: "active"
 ---
 

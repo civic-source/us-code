@@ -3,9 +3,9 @@ title: "Section 186 - Reservation of easements or rights-of-way for working purp
 usc_title: 30
 usc_section: "186"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "30 U.S.C. § 186"
-generated_at: "2026-11-23T20:32:54.513Z"
+generated_at: "2026-11-23T20:34:41.846Z"
 status: "active"
 ---
 

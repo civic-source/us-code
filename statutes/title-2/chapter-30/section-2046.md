@@ -3,9 +3,9 @@ title: "Section 2046 - Bond of Architect, Assistant Architect, and other employe
 usc_title: 2
 usc_section: "2046"
 chapter: 30
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 2046"
-generated_at: "2026-11-23T20:32:17.957Z"
+generated_at: "2026-11-23T20:33:57.308Z"
 status: "active"
 ---
 

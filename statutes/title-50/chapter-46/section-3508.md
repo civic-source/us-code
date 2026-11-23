@@ -3,9 +3,9 @@ title: "Section 3508 - Admission of essential aliens; limitation on number"
 usc_title: 50
 usc_section: "3508"
 chapter: 46
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 3508"
-generated_at: "2026-11-23T20:33:26.984Z"
+generated_at: "2026-11-23T20:35:15.026Z"
 status: "active"
 ---
 

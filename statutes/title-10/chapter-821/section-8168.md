@@ -3,9 +3,9 @@ title: "Section 8168 - Consular powers: senior officer present afloat"
 usc_title: 10
 usc_section: "8168"
 chapter: 821
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 8168"
-generated_at: "2026-11-23T20:32:30.355Z"
+generated_at: "2026-11-23T20:34:08.614Z"
 status: "active"
 ---
 

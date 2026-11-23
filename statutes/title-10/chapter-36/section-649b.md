@@ -3,9 +3,9 @@ title: "Section 649b - Selection for promotion"
 usc_title: 10
 usc_section: "649b"
 chapter: 36
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 649b"
-generated_at: "2026-11-23T20:32:29.860Z"
+generated_at: "2026-11-23T20:34:07.673Z"
 status: "active"
 ---
 

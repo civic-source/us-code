@@ -3,9 +3,9 @@ title: "Section 115 - Vessel"
 usc_title: 46
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 115"
-generated_at: "2026-11-23T20:33:25.740Z"
+generated_at: "2026-11-23T20:35:13.851Z"
 status: "active"
 ---
 

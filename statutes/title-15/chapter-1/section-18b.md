@@ -3,9 +3,9 @@ title: "Section 18b - Mergers involving foreign government subsidies"
 usc_title: 15
 usc_section: "18b"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 18b"
-generated_at: "2026-11-23T20:32:35.898Z"
+generated_at: "2026-11-23T20:34:17.326Z"
 status: "active"
 ---
 

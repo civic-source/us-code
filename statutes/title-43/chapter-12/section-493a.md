@@ -3,9 +3,9 @@ title: "Section 493a - Omitted"
 usc_title: 43
 usc_section: "493a"
 chapter: 12
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 493a"
-generated_at: "2026-11-23T20:33:11.513Z"
+generated_at: "2026-11-23T20:35:00.195Z"
 status: "omitted"
 ---
 

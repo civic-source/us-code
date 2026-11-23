@@ -3,9 +3,9 @@ title: "Section 2211 - Harbors"
 usc_title: 33
 usc_section: "2211"
 chapter: 36
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 2211"
-generated_at: "2026-11-23T20:33:03.676Z"
+generated_at: "2026-11-23T20:34:53.402Z"
 status: "active"
 ---
 

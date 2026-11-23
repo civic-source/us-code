@@ -3,9 +3,9 @@ title: "Section 2134 - Valid license for dealers and exhibitors required"
 usc_title: 7
 usc_section: "2134"
 chapter: 54
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 2134"
-generated_at: "2026-11-23T20:32:25.283Z"
+generated_at: "2026-11-23T20:34:03.271Z"
 status: "active"
 ---
 

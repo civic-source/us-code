@@ -3,9 +3,9 @@ title: "Section 5518 - Deductions for State retirement systems; National Guard e
 usc_title: 5
 usc_section: "5518"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 5518"
-generated_at: "2026-11-23T20:32:19.529Z"
+generated_at: "2026-11-23T20:33:58.853Z"
 status: "active"
 ---
 

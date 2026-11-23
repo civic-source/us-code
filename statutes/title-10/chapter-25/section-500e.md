@@ -3,9 +3,9 @@ title: "Section 500e - Electromagnetic Spectrum Enterprise Operational Lead for 
 usc_title: 10
 usc_section: "500e"
 chapter: 25
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 500e"
-generated_at: "2026-11-23T20:32:29.832Z"
+generated_at: "2026-11-23T20:34:07.631Z"
 status: "active"
 ---
 

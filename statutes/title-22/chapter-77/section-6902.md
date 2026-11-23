@@ -3,9 +3,9 @@ title: "Section 6902 - Policy"
 usc_title: 22
 usc_section: "6902"
 chapter: 77
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 6902"
-generated_at: "2026-11-23T20:32:52.417Z"
+generated_at: "2026-11-23T20:34:38.612Z"
 status: "active"
 ---
 

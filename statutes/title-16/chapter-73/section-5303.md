@@ -3,9 +3,9 @@ title: "Section 5303 - Definitions"
 usc_title: 16
 usc_section: "5303"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 5303"
-generated_at: "2026-11-23T20:32:46.843Z"
+generated_at: "2026-11-23T20:34:29.928Z"
 status: "active"
 ---
 

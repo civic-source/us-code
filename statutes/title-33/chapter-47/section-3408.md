@@ -3,9 +3,9 @@ title: "Section 3408 - National Ocean Mapping, Exploration, and Characterization
 usc_title: 33
 usc_section: "3408"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 3408"
-generated_at: "2026-11-23T20:33:03.739Z"
+generated_at: "2026-11-23T20:34:53.528Z"
 status: "active"
 ---
 

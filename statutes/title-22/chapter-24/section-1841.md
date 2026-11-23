@@ -3,9 +3,9 @@ title: "Section 1841 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1841"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 1841"
-generated_at: "2026-11-23T20:32:52.084Z"
+generated_at: "2026-11-23T20:34:38.272Z"
 status: "repealed"
 ---
 

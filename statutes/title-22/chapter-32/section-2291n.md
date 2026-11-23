@@ -3,9 +3,9 @@ title: "Section 2291n - Exchange program on demand reduction matters relating to
 usc_title: 22
 usc_section: "2291n"
 chapter: 32
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 2291n"
-generated_at: "2026-11-23T20:32:52.133Z"
+generated_at: "2026-11-23T20:34:38.329Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 746 - Target capabilities and preparedness priorities"
 usc_title: 6
 usc_section: "746"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 746"
-generated_at: "2026-11-23T20:32:22.151Z"
+generated_at: "2026-11-23T20:34:01.379Z"
 status: "active"
 ---
 

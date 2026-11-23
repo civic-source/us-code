@@ -3,9 +3,9 @@ title: "Section 25a - Delegate to House of Representatives from District of Colu
 usc_title: 2
 usc_section: "25a"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 25a"
-generated_at: "2026-11-23T20:32:17.806Z"
+generated_at: "2026-11-23T20:33:57.213Z"
 status: "active"
 ---
 

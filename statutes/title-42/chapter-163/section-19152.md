@@ -3,9 +3,9 @@ title: "Section 19152 - Collection and reporting of data on Federal research awa
 usc_title: 42
 usc_section: "19152"
 chapter: 163
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 19152"
-generated_at: "2026-11-23T20:33:22.518Z"
+generated_at: "2026-11-23T20:35:10.566Z"
 status: "active"
 ---
 

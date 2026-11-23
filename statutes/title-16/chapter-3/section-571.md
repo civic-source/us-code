@@ -3,9 +3,9 @@ title: "Section 571 - Repealed. Apr. 24, 1950, ch. 97, § 17(a) , 64 Stat. 87"
 usc_title: 16
 usc_section: "571"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 571"
-generated_at: "2026-11-23T20:32:46.404Z"
+generated_at: "2026-11-23T20:34:29.360Z"
 status: "repealed"
 ---
 

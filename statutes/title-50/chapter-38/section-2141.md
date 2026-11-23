@@ -3,9 +3,9 @@ title: "Section 2141 - Authority to maintain existing areas of conformity betwee
 usc_title: 50
 usc_section: "2141"
 chapter: 38
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 2141"
-generated_at: "2026-11-23T20:33:26.907Z"
+generated_at: "2026-11-23T20:35:14.947Z"
 status: "active"
 ---
 

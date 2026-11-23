@@ -3,9 +3,9 @@ title: "Section 2061 - Grant program for homeless veterans with special needs"
 usc_title: 38
 usc_section: "2061"
 chapter: 20
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 2061"
-generated_at: "2026-11-23T20:33:09.067Z"
+generated_at: "2026-11-23T20:34:57.399Z"
 status: "active"
 ---
 

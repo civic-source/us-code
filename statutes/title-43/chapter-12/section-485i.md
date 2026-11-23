@@ -3,9 +3,9 @@ title: "Section 485i - Rules and regulations"
 usc_title: 43
 usc_section: "485i"
 chapter: 12
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 485i"
-generated_at: "2026-11-23T20:33:11.513Z"
+generated_at: "2026-11-23T20:35:00.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 387 - Definitions"
 usc_title: 21
 usc_section: "387"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 387"
-generated_at: "2026-11-23T20:32:50.363Z"
+generated_at: "2026-11-23T20:34:35.180Z"
 status: "active"
 ---
 

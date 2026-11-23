@@ -3,9 +3,9 @@ title: "Section 4104 - Guidance on use of task and delivery order contracts"
 usc_title: 41
 usc_section: "4104"
 chapter: 41
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "41 U.S.C. § 4104"
-generated_at: "2026-11-23T20:33:11.078Z"
+generated_at: "2026-11-23T20:34:59.565Z"
 status: "active"
 ---
 

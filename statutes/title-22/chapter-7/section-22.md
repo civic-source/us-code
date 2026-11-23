@@ -3,9 +3,9 @@ title: "Section 22 - Thirteenth replenishment"
 usc_title: 22
 usc_section: "22"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 22"
-generated_at: "2026-11-23T20:32:52.013Z"
+generated_at: "2026-11-23T20:34:38.199Z"
 status: "active"
 ---
 

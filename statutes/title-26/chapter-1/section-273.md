@@ -3,9 +3,9 @@ title: "Section 273 - Holders of life or terminable interest"
 usc_title: 26
 usc_section: "273"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 273"
-generated_at: "2026-11-23T20:33:00.117Z"
+generated_at: "2026-11-23T20:34:48.399Z"
 status: "active"
 ---
 

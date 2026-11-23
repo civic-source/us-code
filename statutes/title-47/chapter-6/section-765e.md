@@ -3,9 +3,9 @@ title: "Section 765e - Repealed. Pub. L. 115–141, div. P, title IV, § 402(a) 
 usc_title: 47
 usc_section: "765e"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "47 U.S.C. § 765e"
-generated_at: "2026-11-23T20:33:25.120Z"
+generated_at: "2026-11-23T20:35:12.628Z"
 status: "repealed"
 ---
 

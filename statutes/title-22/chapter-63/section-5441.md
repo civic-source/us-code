@@ -3,9 +3,9 @@ title: "Section 5441 - Educational and cultural exchanges and sister institution
 usc_title: 22
 usc_section: "5441"
 chapter: 63
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 5441"
-generated_at: "2026-11-23T20:32:52.365Z"
+generated_at: "2026-11-23T20:34:38.563Z"
 status: "active"
 ---
 

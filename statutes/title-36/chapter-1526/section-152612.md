@@ -3,9 +3,9 @@ title: "Section 152612 - Renumbered §§ 90101 to 90112]"
 usc_title: 36
 usc_section: "152612"
 chapter: 1526
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 152612"
-generated_at: "2026-11-23T20:33:07.846Z"
+generated_at: "2026-11-23T20:34:56.012Z"
 status: "renumbered"
 ---
 

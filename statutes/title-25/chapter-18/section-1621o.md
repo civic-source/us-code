@@ -3,9 +3,9 @@ title: "Section 1621o - Indian youth grant program"
 usc_title: 25
 usc_section: "1621o"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 1621o"
-generated_at: "2026-11-23T20:32:49.004Z"
+generated_at: "2026-11-23T20:34:33.655Z"
 status: "active"
 ---
 

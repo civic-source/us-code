@@ -3,9 +3,9 @@ title: "Section 5939 - Repealed. Pub. L. 103–227, title V, § 509(a) , Mar. 31
 usc_title: 20
 usc_section: "5939"
 chapter: 68
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 5939"
-generated_at: "2026-11-23T20:32:43.461Z"
+generated_at: "2026-11-23T20:34:25.635Z"
 status: "repealed"
 ---
 

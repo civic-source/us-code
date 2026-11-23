@@ -3,9 +3,9 @@ title: "Section 1091 - Personal services contracts"
 usc_title: 10
 usc_section: "1091"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1091"
-generated_at: "2026-11-23T20:32:29.950Z"
+generated_at: "2026-11-23T20:34:07.843Z"
 status: "active"
 ---
 

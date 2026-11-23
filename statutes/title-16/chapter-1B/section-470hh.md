@@ -3,9 +3,9 @@ title: "Section 470hh - Confidentiality of information concerning nature and loc
 usc_title: 16
 usc_section: "470hh"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 470hh"
-generated_at: "2026-11-23T20:32:46.350Z"
+generated_at: "2026-11-23T20:34:29.285Z"
 status: "active"
 ---
 

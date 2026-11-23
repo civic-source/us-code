@@ -3,9 +3,9 @@ title: "Section 1451 - Amount of annuity"
 usc_title: 10
 usc_section: "1451"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1451"
-generated_at: "2026-11-23T20:32:30.010Z"
+generated_at: "2026-11-23T20:34:07.921Z"
 status: "active"
 ---
 

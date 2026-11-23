@@ -3,9 +3,9 @@ title: "Section 2877 - Differential lease payments"
 usc_title: 10
 usc_section: "2877"
 chapter: 169
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2877"
-generated_at: "2026-11-23T20:32:30.188Z"
+generated_at: "2026-11-23T20:34:08.237Z"
 status: "active"
 ---
 

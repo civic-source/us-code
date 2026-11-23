@@ -3,9 +3,9 @@ title: "Section 1471f - Availability of appropriations for incremental funding o
 usc_title: 43
 usc_section: "1471f"
 chapter: 31
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 1471f"
-generated_at: "2026-11-23T20:33:11.557Z"
+generated_at: "2026-11-23T20:35:00.245Z"
 status: "active"
 ---
 

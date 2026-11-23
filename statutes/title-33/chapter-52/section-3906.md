@@ -3,9 +3,9 @@ title: "Section 3906 - Activities eligible for assistance"
 usc_title: 33
 usc_section: "3906"
 chapter: 52
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 3906"
-generated_at: "2026-11-23T20:33:03.750Z"
+generated_at: "2026-11-23T20:34:53.545Z"
 status: "active"
 ---
 

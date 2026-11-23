@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-11-23T20:32:25.252Z"
+generated_at: "2026-11-23T20:34:03.235Z"
 status: "active"
 ---
 

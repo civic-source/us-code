@@ -3,9 +3,9 @@ title: "Section 355 - Change of boundaries"
 usc_title: 16
 usc_section: "355"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 355"
-generated_at: "2026-11-23T20:32:46.062Z"
+generated_at: "2026-11-23T20:34:28.936Z"
 status: "active"
 ---
 

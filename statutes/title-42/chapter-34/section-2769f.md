@@ -3,9 +3,9 @@ title: "Section 2769f - Repealed. Pub. L. 93–203, title VI, § 614 , Dec. 28, 
 usc_title: 42
 usc_section: "2769f"
 chapter: 34
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2769f"
-generated_at: "2026-11-23T20:33:21.698Z"
+generated_at: "2026-11-23T20:35:09.645Z"
 status: "repealed"
 ---
 

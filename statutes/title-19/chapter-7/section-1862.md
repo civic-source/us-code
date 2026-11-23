@@ -3,9 +3,9 @@ title: "Section 1862 - Safeguarding national security"
 usc_title: 19
 usc_section: "1862"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 1862"
-generated_at: "2026-11-23T20:32:41.455Z"
+generated_at: "2026-11-23T20:34:20.872Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13705 - Requirements for through routes among motor carriers of 
 usc_title: 49
 usc_section: "13705"
 chapter: 137
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 13705"
-generated_at: "2026-11-23T20:33:29.048Z"
+generated_at: "2026-11-23T20:35:16.784Z"
 status: "active"
 ---
 

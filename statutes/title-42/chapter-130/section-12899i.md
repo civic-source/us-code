@@ -3,9 +3,9 @@ title: "Section 12899i - Repealed. Pub. L. 109–281, § 2(e) , Sept. 22, 2006 ,
 usc_title: 42
 usc_section: "12899i"
 chapter: 130
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 12899i"
-generated_at: "2026-11-23T20:33:22.313Z"
+generated_at: "2026-11-23T20:35:10.355Z"
 status: "repealed"
 ---
 

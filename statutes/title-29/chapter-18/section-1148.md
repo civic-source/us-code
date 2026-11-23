@@ -3,9 +3,9 @@ title: "Section 1148 - Authority to postpone certain deadlines by reason of Pres
 usc_title: 29
 usc_section: "1148"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 1148"
-generated_at: "2026-11-23T20:32:55.765Z"
+generated_at: "2026-11-23T20:34:43.176Z"
 status: "active"
 ---
 

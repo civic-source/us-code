@@ -3,9 +3,9 @@ title: "Section 1057 - Repealed. Pub. L. 105–34, title XI, § 1131(c)(2) , Aug
 usc_title: 26
 usc_section: "1057"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 1057"
-generated_at: "2026-11-23T20:33:00.338Z"
+generated_at: "2026-11-23T20:34:48.830Z"
 status: "repealed"
 ---
 

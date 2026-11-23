@@ -3,9 +3,9 @@ title: "Section 7623 - Repealed. Pub. L. 110–234, title VII, § 7303 , May 22,
 usc_title: 7
 usc_section: "7623"
 chapter: 103
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 7623"
-generated_at: "2026-11-23T20:32:25.441Z"
+generated_at: "2026-11-23T20:34:03.424Z"
 status: "repealed"
 ---
 

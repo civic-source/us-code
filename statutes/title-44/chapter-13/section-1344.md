@@ -3,9 +3,9 @@ title: "Section 1344 - Treasury Department: reports"
 usc_title: 44
 usc_section: "1344"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "44 U.S.C. § 1344"
-generated_at: "2026-11-23T20:33:10.726Z"
+generated_at: "2026-11-23T20:35:00.692Z"
 status: "active"
 ---
 

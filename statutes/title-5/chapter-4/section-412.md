@@ -3,9 +3,9 @@ title: "Section 412 - Special provisions concerning the Department of the Treasu
 usc_title: 5
 usc_section: "412"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 412"
-generated_at: "2026-11-23T20:32:19.396Z"
+generated_at: "2026-11-23T20:33:58.634Z"
 status: "active"
 ---
 

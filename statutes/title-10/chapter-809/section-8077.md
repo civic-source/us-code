@@ -3,9 +3,9 @@ title: "Section 8077 - Surgeon General: appointment; duties"
 usc_title: 10
 usc_section: "8077"
 chapter: 809
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 8077"
-generated_at: "2026-11-23T20:32:30.350Z"
+generated_at: "2026-11-23T20:34:08.601Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Validity of contracts"
 usc_title: 15
 usc_section: "15"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 15"
-generated_at: "2026-11-23T20:32:36.009Z"
+generated_at: "2026-11-23T20:34:17.481Z"
 status: "active"
 ---
 

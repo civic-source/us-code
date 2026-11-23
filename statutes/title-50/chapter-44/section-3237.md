@@ -3,9 +3,9 @@ title: "Section 3237 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3237"
 chapter: 44
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 3237"
-generated_at: "2026-11-23T20:33:26.959Z"
+generated_at: "2026-11-23T20:35:15.000Z"
 status: "active"
 ---
 

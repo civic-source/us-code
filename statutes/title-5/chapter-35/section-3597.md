@@ -3,9 +3,9 @@ title: "Section 3597 - Reemployment following limited appointment in the Foreign
 usc_title: 5
 usc_section: "3597"
 chapter: 35
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 3597"
-generated_at: "2026-11-23T20:32:19.478Z"
+generated_at: "2026-11-23T20:33:58.765Z"
 status: "active"
 ---
 

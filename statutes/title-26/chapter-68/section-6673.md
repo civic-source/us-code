@@ -3,9 +3,9 @@ title: "Section 6673 - Sanctions and costs awarded by courts"
 usc_title: 26
 usc_section: "6673"
 chapter: 68
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 6673"
-generated_at: "2026-11-23T20:33:00.735Z"
+generated_at: "2026-11-23T20:34:49.237Z"
 status: "active"
 ---
 

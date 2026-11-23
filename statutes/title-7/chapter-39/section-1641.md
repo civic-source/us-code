@@ -3,9 +3,9 @@ title: "Section 1641 - Availability of wheat for export; utilization of funds an
 usc_title: 7
 usc_section: "1641"
 chapter: 39
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 1641"
-generated_at: "2026-11-23T20:32:25.198Z"
+generated_at: "2026-11-23T20:34:03.162Z"
 status: "active"
 ---
 

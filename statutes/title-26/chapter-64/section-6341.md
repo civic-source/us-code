@@ -3,9 +3,9 @@ title: "Section 6341 - Expense of levy and sale"
 usc_title: 26
 usc_section: "6341"
 chapter: 64
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 6341"
-generated_at: "2026-11-23T20:33:00.695Z"
+generated_at: "2026-11-23T20:34:49.192Z"
 status: "active"
 ---
 

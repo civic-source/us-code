@@ -3,9 +3,9 @@ title: "Section 11489 - Repealed. Pub. L. 104–235, title I, § 142(b) , Oct. 3
 usc_title: 42
 usc_section: "11489"
 chapter: 119
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 11489"
-generated_at: "2026-11-23T20:33:22.246Z"
+generated_at: "2026-11-23T20:35:10.291Z"
 status: "repealed"
 ---
 

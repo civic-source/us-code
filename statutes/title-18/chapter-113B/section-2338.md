@@ -3,9 +3,9 @@ title: "Section 2338 - Exclusive Federal jurisdiction"
 usc_title: 18
 usc_section: "2338"
 chapter: 113
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 2338"
-generated_at: "2026-11-23T20:32:39.841Z"
+generated_at: "2026-11-23T20:34:22.191Z"
 status: "active"
 ---
 

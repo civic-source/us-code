@@ -3,9 +3,9 @@ title: "Section 3348 - Vacant office"
 usc_title: 5
 usc_section: "3348"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 3348"
-generated_at: "2026-11-23T20:32:19.463Z"
+generated_at: "2026-11-23T20:33:58.748Z"
 status: "active"
 ---
 

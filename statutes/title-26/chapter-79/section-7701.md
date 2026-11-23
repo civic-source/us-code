@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-11-23T20:33:00.802Z"
+generated_at: "2026-11-23T20:34:49.304Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6612 - Cross references"
 usc_title: 26
 usc_section: "6612"
 chapter: 67
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 6612"
-generated_at: "2026-11-23T20:33:00.725Z"
+generated_at: "2026-11-23T20:34:49.224Z"
 status: "active"
 ---
 

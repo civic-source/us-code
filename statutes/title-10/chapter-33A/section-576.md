@@ -3,9 +3,9 @@ title: "Section 576 - Information to be furnished to selection boards; selection
 usc_title: 10
 usc_section: "576"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 576"
-generated_at: "2026-11-23T20:32:29.843Z"
+generated_at: "2026-11-23T20:34:07.649Z"
 status: "active"
 ---
 

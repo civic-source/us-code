@@ -3,9 +3,9 @@ title: "Section 1034 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 2
 usc_title: 43
 usc_section: "1034"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 1034"
-generated_at: "2026-11-23T20:33:11.544Z"
+generated_at: "2026-11-23T20:35:00.228Z"
 status: "repealed"
 ---
 

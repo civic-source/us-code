@@ -3,9 +3,9 @@ title: "Section 479a - Conveyance of National Forest System lands for educationa
 usc_title: 16
 usc_section: "479a"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 479a"
-generated_at: "2026-11-23T20:32:46.358Z"
+generated_at: "2026-11-23T20:34:29.294Z"
 status: "active"
 ---
 

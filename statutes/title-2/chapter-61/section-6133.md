@@ -3,9 +3,9 @@ title: "Section 6133 - Chiefs of Staff for Senate Majority and Minority Leaders;
 usc_title: 2
 usc_section: "6133"
 chapter: 61
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 6133"
-generated_at: "2026-11-23T20:32:18.007Z"
+generated_at: "2026-11-23T20:33:57.342Z"
 status: "active"
 ---
 

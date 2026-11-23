@@ -3,9 +3,9 @@ title: "Section 379s - Preemption for labeling or packaging of cosmetics"
 usc_title: 21
 usc_section: "379s"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "21 U.S.C. § 379s"
-generated_at: "2026-11-23T20:32:50.356Z"
+generated_at: "2026-11-23T20:34:35.166Z"
 status: "active"
 ---
 

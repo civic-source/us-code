@@ -3,9 +3,9 @@ title: "Section 674c - Boundary and division fences for White Horse Hill Nationa
 usc_title: 16
 usc_section: "674c"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 674c"
-generated_at: "2026-11-23T20:32:46.441Z"
+generated_at: "2026-11-23T20:34:29.408Z"
 status: "active"
 ---
 

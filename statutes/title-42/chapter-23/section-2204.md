@@ -3,9 +3,9 @@ title: "Section 2204 - Electric utility contracts; authority to enter into; canc
 usc_title: 42
 usc_section: "2204"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2204"
-generated_at: "2026-11-23T20:33:21.664Z"
+generated_at: "2026-11-23T20:35:09.590Z"
 status: "active"
 ---
 

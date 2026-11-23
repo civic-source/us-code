@@ -3,9 +3,9 @@ title: "Section 3715c - Final evaluation of Fund; deficiency or surplus in Fund"
 usc_title: 22
 usc_section: "3715c"
 chapter: 51
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 3715c"
-generated_at: "2026-11-23T20:32:52.280Z"
+generated_at: "2026-11-23T20:34:38.485Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1001 - Appointment and status"
 usc_title: 39
 usc_section: "1001"
 chapter: 10
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "39 U.S.C. § 1001"
-generated_at: "2026-11-23T20:33:06.518Z"
+generated_at: "2026-11-23T20:34:55.106Z"
 status: "active"
 ---
 

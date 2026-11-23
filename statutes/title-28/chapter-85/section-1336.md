@@ -3,9 +3,9 @@ title: "Section 1336 - Surface Transportation Board’s orders"
 usc_title: 28
 usc_section: "1336"
 chapter: 85
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 1336"
-generated_at: "2026-11-23T20:32:56.573Z"
+generated_at: "2026-11-23T20:34:41.268Z"
 status: "active"
 ---
 

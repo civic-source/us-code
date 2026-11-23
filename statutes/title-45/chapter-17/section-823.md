@@ -3,9 +3,9 @@ title: "Section 823 - Repealed. Pub. L. 117–58, div. B, title I, § 21301(b)(1
 usc_title: 45
 usc_section: "823"
 chapter: 17
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "45 U.S.C. § 823"
-generated_at: "2026-11-23T20:33:12.111Z"
+generated_at: "2026-11-23T20:35:01.056Z"
 status: "repealed"
 ---
 

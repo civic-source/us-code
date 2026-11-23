@@ -3,9 +3,9 @@ title: "Section 6716 - Reports"
 usc_title: 40
 usc_section: "6716"
 chapter: 67
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "40 U.S.C. § 6716"
-generated_at: "2026-11-23T20:33:06.913Z"
+generated_at: "2026-11-23T20:34:58.042Z"
 status: "active"
 ---
 

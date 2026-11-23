@@ -3,9 +3,9 @@ title: "Section 3052 - Recognition of the Horseracing Integrity and Safety Autho
 usc_title: 15
 usc_section: "3052"
 chapter: 57
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 3052"
-generated_at: "2026-11-23T20:32:36.412Z"
+generated_at: "2026-11-23T20:34:17.924Z"
 status: "active"
 ---
 

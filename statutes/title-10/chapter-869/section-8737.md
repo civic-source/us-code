@@ -3,9 +3,9 @@ title: "Section 8737 - Violations by lessee"
 usc_title: 10
 usc_section: "8737"
 chapter: 869
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 8737"
-generated_at: "2026-11-23T20:32:30.409Z"
+generated_at: "2026-11-23T20:34:08.719Z"
 status: "active"
 ---
 

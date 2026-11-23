@@ -3,9 +3,9 @@ title: "Section 3301 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3301"
 chapter: 21
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "19 U.S.C. § 3301"
-generated_at: "2026-11-23T20:32:41.568Z"
+generated_at: "2026-11-23T20:34:20.967Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 649i - Continuation on active duty: officers in certain military
 usc_title: 10
 usc_section: "649i"
 chapter: 36
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 649i"
-generated_at: "2026-11-23T20:32:29.861Z"
+generated_at: "2026-11-23T20:34:07.674Z"
 status: "active"
 ---
 

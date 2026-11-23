@@ -3,9 +3,9 @@ title: "Section 16376 - State and local permits"
 usc_title: 42
 usc_section: "16376"
 chapter: 149
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 16376"
-generated_at: "2026-11-23T20:33:22.412Z"
+generated_at: "2026-11-23T20:35:10.455Z"
 status: "active"
 ---
 

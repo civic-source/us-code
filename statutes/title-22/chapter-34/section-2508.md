@@ -3,9 +3,9 @@ title: "Section 2508 - Foreign participants; admission into the United States as
 usc_title: 22
 usc_section: "2508"
 chapter: 34
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 2508"
-generated_at: "2026-11-23T20:32:52.189Z"
+generated_at: "2026-11-23T20:34:38.389Z"
 status: "active"
 ---
 

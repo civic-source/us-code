@@ -3,9 +3,9 @@ title: "Section 7381 - Office of Research and Development"
 usc_title: 38
 usc_section: "7381"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 7381"
-generated_at: "2026-11-23T20:33:09.200Z"
+generated_at: "2026-11-23T20:34:57.544Z"
 status: "active"
 ---
 

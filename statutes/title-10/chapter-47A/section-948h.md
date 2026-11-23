@@ -3,9 +3,9 @@ title: "Section 948h - Who may convene military commissions"
 usc_title: 10
 usc_section: "948h"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 948h"
-generated_at: "2026-11-23T20:32:29.908Z"
+generated_at: "2026-11-23T20:34:07.767Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Vacancies in electoral college"
 usc_title: 3
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "3 U.S.C. § 4"
-generated_at: "2026-11-23T20:32:16.911Z"
+generated_at: "2026-11-23T20:33:56.540Z"
 status: "active"
 ---
 

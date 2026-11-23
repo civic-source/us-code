@@ -3,9 +3,9 @@ title: "Section 1311 - Repealed. Pub. L. 104–316, title I, § 123(b)(1) , Oct.
 usc_title: 44
 usc_section: "1311"
 chapter: 13
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "44 U.S.C. § 1311"
-generated_at: "2026-11-23T20:33:10.723Z"
+generated_at: "2026-11-23T20:35:00.689Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2218 - Administrative provisions"
 usc_title: 15
 usc_section: "2218"
 chapter: 49
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 2218"
-generated_at: "2026-11-23T20:32:36.352Z"
+generated_at: "2026-11-23T20:34:17.883Z"
 status: "active"
 ---
 

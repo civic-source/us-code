@@ -3,9 +3,9 @@ title: "Section 275 - Restriction on direct participation by military personnel"
 usc_title: 10
 usc_section: "275"
 chapter: 15
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 275"
-generated_at: "2026-11-23T20:32:29.806Z"
+generated_at: "2026-11-23T20:34:07.580Z"
 status: "active"
 ---
 

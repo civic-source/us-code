@@ -3,9 +3,9 @@ title: "Section 7282 - Adjustments of loans"
 usc_title: 7
 usc_section: "7282"
 chapter: 100
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 7282"
-generated_at: "2026-11-23T20:32:25.421Z"
+generated_at: "2026-11-23T20:34:03.409Z"
 status: "active"
 ---
 

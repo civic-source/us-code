@@ -3,9 +3,9 @@ title: "Section 501 - House Communications Standards Commission"
 usc_title: 2
 usc_section: "501"
 chapter: 16
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 501"
-generated_at: "2026-11-23T20:32:17.865Z"
+generated_at: "2026-11-23T20:33:57.245Z"
 status: "active"
 ---
 

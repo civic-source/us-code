@@ -3,9 +3,9 @@ title: "Section 1156 - Omitted"
 usc_title: 48
 usc_section: "1156"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "48 U.S.C. § 1156"
-generated_at: "2026-11-23T20:33:24.306Z"
+generated_at: "2026-11-23T20:35:12.969Z"
 status: "omitted"
 ---
 

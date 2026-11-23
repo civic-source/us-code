@@ -3,9 +3,9 @@ title: "Section 16a - Additional personnel for patients of Department of Veteran
 usc_title: 24
 usc_section: "16a"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "24 U.S.C. § 16a"
-generated_at: "2026-11-23T20:32:48.181Z"
+generated_at: "2026-11-23T20:34:31.497Z"
 status: "active"
 ---
 

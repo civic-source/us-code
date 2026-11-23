@@ -3,9 +3,9 @@ title: "Section 7304 - Regulations"
 usc_title: 38
 usc_section: "7304"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 7304"
-generated_at: "2026-11-23T20:33:09.190Z"
+generated_at: "2026-11-23T20:34:57.525Z"
 status: "active"
 ---
 

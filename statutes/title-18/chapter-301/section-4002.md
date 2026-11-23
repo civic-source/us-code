@@ -3,9 +3,9 @@ title: "Section 4002 - Federal prisoners in State institutions; employment"
 usc_title: 18
 usc_section: "4002"
 chapter: 301
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 4002"
-generated_at: "2026-11-23T20:32:39.971Z"
+generated_at: "2026-11-23T20:34:22.308Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2012 - Per diem payments"
 usc_title: 38
 usc_section: "2012"
 chapter: 20
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 2012"
-generated_at: "2026-11-23T20:33:09.061Z"
+generated_at: "2026-11-23T20:34:57.394Z"
 status: "active"
 ---
 

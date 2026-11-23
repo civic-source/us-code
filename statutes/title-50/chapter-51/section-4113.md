@@ -3,9 +3,9 @@ title: "Section 4113 - Detention benefits to merchant seamen"
 usc_title: 50
 usc_section: "4113"
 chapter: 51
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 4113"
-generated_at: "2026-11-23T20:33:27.018Z"
+generated_at: "2026-11-23T20:35:15.058Z"
 status: "active"
 ---
 

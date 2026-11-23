@@ -3,9 +3,9 @@ title: "Section 2014 - Annuitants"
 usc_title: 50
 usc_section: "2014"
 chapter: 38
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 2014"
-generated_at: "2026-11-23T20:33:26.901Z"
+generated_at: "2026-11-23T20:35:14.940Z"
 status: "active"
 ---
 

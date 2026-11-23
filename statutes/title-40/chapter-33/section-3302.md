@@ -3,9 +3,9 @@ title: "Section 3302 - Prohibition on construction of buildings except by Admini
 usc_title: 40
 usc_section: "3302"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "40 U.S.C. § 3302"
-generated_at: "2026-11-23T20:33:06.887Z"
+generated_at: "2026-11-23T20:34:58.026Z"
 status: "active"
 ---
 

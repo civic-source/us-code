@@ -3,9 +3,9 @@ title: "Section 1631 - Consultation; closure of facilities; reports"
 usc_title: 25
 usc_section: "1631"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 1631"
-generated_at: "2026-11-23T20:32:49.005Z"
+generated_at: "2026-11-23T20:34:33.658Z"
 status: "active"
 ---
 

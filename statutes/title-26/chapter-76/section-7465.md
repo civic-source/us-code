@@ -3,9 +3,9 @@ title: "Section 7465 - Provisions of special application to transferees"
 usc_title: 26
 usc_section: "7465"
 chapter: 76
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 7465"
-generated_at: "2026-11-23T20:33:00.774Z"
+generated_at: "2026-11-23T20:34:49.284Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1742 - Repealed. Pub. L. 88–619, § 6(a) , Oct. 3, 1964 , 78 S
 usc_title: 28
 usc_section: "1742"
 chapter: 115
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 1742"
-generated_at: "2026-11-23T20:32:56.592Z"
+generated_at: "2026-11-23T20:34:41.301Z"
 status: "repealed"
 ---
 

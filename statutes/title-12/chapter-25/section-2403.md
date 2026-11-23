@@ -3,9 +3,9 @@ title: "Section 2403 - Functions of Commission"
 usc_title: 12
 usc_section: "2403"
 chapter: 25
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 2403"
-generated_at: "2026-11-23T20:32:34.048Z"
+generated_at: "2026-11-23T20:34:14.389Z"
 status: "active"
 ---
 

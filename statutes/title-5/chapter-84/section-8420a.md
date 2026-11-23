@@ -3,9 +3,9 @@ title: "Section 8420a - Alternative forms of annuities"
 usc_title: 5
 usc_section: "8420a"
 chapter: 84
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 8420a"
-generated_at: "2026-11-23T20:32:19.645Z"
+generated_at: "2026-11-23T20:33:59.049Z"
 status: "active"
 ---
 

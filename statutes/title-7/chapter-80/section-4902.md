@@ -3,9 +3,9 @@ title: "Section 4902 - Definitions"
 usc_title: 7
 usc_section: "4902"
 chapter: 80
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 4902"
-generated_at: "2026-11-23T20:32:25.357Z"
+generated_at: "2026-11-23T20:34:03.346Z"
 status: "active"
 ---
 

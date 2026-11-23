@@ -3,9 +3,9 @@ title: "Section 3671 - Vessels carrying explosives and steerage passengers"
 usc_title: 18
 usc_section: "3671"
 chapter: 232
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 3671"
-generated_at: "2026-11-23T20:32:39.964Z"
+generated_at: "2026-11-23T20:34:22.300Z"
 status: "active"
 ---
 

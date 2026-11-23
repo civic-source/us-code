@@ -3,9 +3,9 @@ title: "Section 5361 - Congressional findings and purpose"
 usc_title: 31
 usc_section: "5361"
 chapter: 53
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "31 U.S.C. § 5361"
-generated_at: "2026-11-23T20:33:04.460Z"
+generated_at: "2026-11-23T20:34:51.744Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2057 - Banned hazardous products"
 usc_title: 15
 usc_section: "2057"
 chapter: 47
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 2057"
-generated_at: "2026-11-23T20:32:36.329Z"
+generated_at: "2026-11-23T20:34:17.860Z"
 status: "active"
 ---
 

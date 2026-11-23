@@ -3,9 +3,9 @@ title: "Section 5126 - Relationship to other laws"
 usc_title: 49
 usc_section: "5126"
 chapter: 51
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 5126"
-generated_at: "2026-11-23T20:33:28.982Z"
+generated_at: "2026-11-23T20:35:16.724Z"
 status: "active"
 ---
 

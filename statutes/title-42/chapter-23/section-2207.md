@@ -3,9 +3,9 @@ title: "Section 2207 - Claim settlements; reports to Congress"
 usc_title: 42
 usc_section: "2207"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 2207"
-generated_at: "2026-11-23T20:33:21.664Z"
+generated_at: "2026-11-23T20:35:09.591Z"
 status: "active"
 ---
 

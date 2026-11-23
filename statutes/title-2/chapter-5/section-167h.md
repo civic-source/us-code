@@ -3,9 +3,9 @@ title: "Section 167h - Repealed. Pub. L. 110–161, div. H, title I, § 1004(d)(
 usc_title: 2
 usc_section: "167h"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "2 U.S.C. § 167h"
-generated_at: "2026-11-23T20:32:17.836Z"
+generated_at: "2026-11-23T20:33:57.230Z"
 status: "repealed"
 ---
 

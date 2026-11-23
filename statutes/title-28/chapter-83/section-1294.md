@@ -3,9 +3,9 @@ title: "Section 1294 - Circuits in which decisions reviewable"
 usc_title: 28
 usc_section: "1294"
 chapter: 83
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 1294"
-generated_at: "2026-11-23T20:32:56.570Z"
+generated_at: "2026-11-23T20:34:41.263Z"
 status: "active"
 ---
 

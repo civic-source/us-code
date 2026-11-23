@@ -3,9 +3,9 @@ title: "Section 18775 - Plan for the modeling and forecasting of demand for mine
 usc_title: 42
 usc_section: "18775"
 chapter: 162
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 18775"
-generated_at: "2026-11-23T20:33:22.498Z"
+generated_at: "2026-11-23T20:35:10.540Z"
 status: "active"
 ---
 

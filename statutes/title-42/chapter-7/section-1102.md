@@ -3,9 +3,9 @@ title: "Section 1102 - Transfers between Federal unemployment account and employ
 usc_title: 42
 usc_section: "1102"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 1102"
-generated_at: "2026-11-23T20:33:20.948Z"
+generated_at: "2026-11-23T20:35:08.803Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2251A - Selling or buying of children"
 usc_title: 18
 usc_section: "2251A"
 chapter: 110
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 2251A"
-generated_at: "2026-11-23T20:32:39.809Z"
+generated_at: "2026-11-23T20:34:22.166Z"
 status: "active"
 ---
 

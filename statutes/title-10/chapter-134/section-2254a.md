@@ -3,9 +3,9 @@ title: "Section 2254a - Data files of military flight operations quality assuran
 usc_title: 10
 usc_section: "2254a"
 chapter: 134
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 2254a"
-generated_at: "2026-11-23T20:32:30.099Z"
+generated_at: "2026-11-23T20:34:08.075Z"
 status: "active"
 ---
 

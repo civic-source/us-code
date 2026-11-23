@@ -3,9 +3,9 @@ title: "Section 330 - Research activities"
 usc_title: 49
 usc_section: "330"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 330"
-generated_at: "2026-11-23T20:33:28.948Z"
+generated_at: "2026-11-23T20:35:16.689Z"
 status: "active"
 ---
 

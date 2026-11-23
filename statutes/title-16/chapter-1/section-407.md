@@ -3,9 +3,9 @@ title: "Section 407 - Establishment; description of area"
 usc_title: 16
 usc_section: "407"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 407"
-generated_at: "2026-11-23T20:32:46.073Z"
+generated_at: "2026-11-23T20:34:28.954Z"
 status: "active"
 ---
 

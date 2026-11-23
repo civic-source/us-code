@@ -3,9 +3,9 @@ title: "Section 5817 - Powers of Administrator"
 usc_title: 42
 usc_section: "5817"
 chapter: 73
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 5817"
-generated_at: "2026-11-23T20:33:21.890Z"
+generated_at: "2026-11-23T20:35:09.912Z"
 status: "active"
 ---
 

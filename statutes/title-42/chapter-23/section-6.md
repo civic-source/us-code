@@ -3,9 +3,9 @@ title: "Section 6 - Transfer of contracts"
 usc_title: 42
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-11-23T20:33:21.685Z"
+generated_at: "2026-11-23T20:35:09.624Z"
 status: "active"
 ---
 

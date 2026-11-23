@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. Feb. 23, 1927, ch. 169, § 39 , 44 Stat. 1174"
 usc_title: 47
 usc_section: "63"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "47 U.S.C. § 63"
-generated_at: "2026-11-23T20:33:25.003Z"
+generated_at: "2026-11-23T20:35:12.516Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1396t - Home and community care for functionally disabled elderl
 usc_title: 42
 usc_section: "1396t"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 1396t"
-generated_at: "2026-11-23T20:33:21.388Z"
+generated_at: "2026-11-23T20:35:09.250Z"
 status: "active"
 ---
 

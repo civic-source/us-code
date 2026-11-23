@@ -3,9 +3,9 @@ title: "Section 181 - Short title"
 usc_title: 7
 usc_section: "181"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 181"
-generated_at: "2026-11-23T20:32:24.989Z"
+generated_at: "2026-11-23T20:34:03.029Z"
 status: "active"
 ---
 

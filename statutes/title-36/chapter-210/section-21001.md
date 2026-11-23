@@ -3,9 +3,9 @@ title: "Section 21001 - Definition"
 usc_title: 36
 usc_section: "21001"
 chapter: 210
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 21001"
-generated_at: "2026-11-23T20:33:07.769Z"
+generated_at: "2026-11-23T20:34:55.925Z"
 status: "active"
 ---
 

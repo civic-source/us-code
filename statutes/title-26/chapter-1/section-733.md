@@ -3,9 +3,9 @@ title: "Section 733 - Basis of distributee partner’s interest"
 usc_title: 26
 usc_section: "733"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 733"
-generated_at: "2026-11-23T20:33:00.268Z"
+generated_at: "2026-11-23T20:34:48.699Z"
 status: "active"
 ---
 

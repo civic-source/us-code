@@ -3,9 +3,9 @@ title: "Section 50102 - Restricting contract awards because of discrimination ag
 usc_title: 49
 usc_section: "50102"
 chapter: 501
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "49 U.S.C. § 50102"
-generated_at: "2026-11-23T20:33:29.349Z"
+generated_at: "2026-11-23T20:35:17.235Z"
 status: "active"
 ---
 

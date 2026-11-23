@@ -3,9 +3,9 @@ title: "Section 4664 - Repealed. Pub. L. 100–297, title I, § 1003(e) , Apr. 2
 usc_title: 20
 usc_section: "4664"
 chapter: 58
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "20 U.S.C. § 4664"
-generated_at: "2026-11-23T20:32:43.448Z"
+generated_at: "2026-11-23T20:34:25.622Z"
 status: "repealed"
 ---
 

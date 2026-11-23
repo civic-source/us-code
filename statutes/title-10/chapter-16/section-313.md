@@ -3,9 +3,9 @@ title: "Section 313 - Bilateral or regional cooperation programs: awards and mem
 usc_title: 10
 usc_section: "313"
 chapter: 16
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 313"
-generated_at: "2026-11-23T20:32:29.809Z"
+generated_at: "2026-11-23T20:34:07.588Z"
 status: "active"
 ---
 

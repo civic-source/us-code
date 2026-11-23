@@ -3,9 +3,9 @@ title: "Section 1132 - Civil enforcement"
 usc_title: 29
 usc_section: "1132"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 1132"
-generated_at: "2026-11-23T20:32:55.761Z"
+generated_at: "2026-11-23T20:34:43.168Z"
 status: "active"
 ---
 

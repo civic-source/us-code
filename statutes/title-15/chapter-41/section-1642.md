@@ -3,9 +3,9 @@ title: "Section 1642 - Issuance of credit cards"
 usc_title: 15
 usc_section: "1642"
 chapter: 41
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 1642"
-generated_at: "2026-11-23T20:32:36.259Z"
+generated_at: "2026-11-23T20:34:17.785Z"
 status: "active"
 ---
 

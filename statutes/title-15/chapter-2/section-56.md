@@ -3,9 +3,9 @@ title: "Section 56 - Commencement, defense, intervention and supervision of liti
 usc_title: 15
 usc_section: "56"
 chapter: 2
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-11-23T20:32:35.907Z"
+generated_at: "2026-11-23T20:34:17.339Z"
 status: "active"
 ---
 

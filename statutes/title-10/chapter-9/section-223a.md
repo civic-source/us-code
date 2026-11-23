@@ -3,9 +3,9 @@ title: "Section 223a - Ballistic missile defense programs: procurement"
 usc_title: 10
 usc_section: "223a"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 223a"
-generated_at: "2026-11-23T20:32:29.796Z"
+generated_at: "2026-11-23T20:34:07.560Z"
 status: "active"
 ---
 

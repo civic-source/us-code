@@ -3,9 +3,9 @@ title: "Section 5545c - Incident response premium pay for employees engaged in w
 usc_title: 5
 usc_section: "5545c"
 chapter: 55
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 5545c"
-generated_at: "2026-11-23T20:32:19.538Z"
+generated_at: "2026-11-23T20:33:58.867Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 264 - Transferred"
 usc_title: 12
 usc_section: "264"
 chapter: 3
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 264"
-generated_at: "2026-11-23T20:32:33.786Z"
+generated_at: "2026-11-23T20:34:13.893Z"
 status: "transferred"
 ---
 

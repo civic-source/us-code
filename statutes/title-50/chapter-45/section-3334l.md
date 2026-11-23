@@ -3,9 +3,9 @@ title: "Section 3334l - Oversight of Defense Intelligence Agency culture"
 usc_title: 50
 usc_section: "3334l"
 chapter: 45
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 3334l"
-generated_at: "2026-11-23T20:33:26.966Z"
+generated_at: "2026-11-23T20:35:15.008Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3236 - Murder or manslaughter"
 usc_title: 18
 usc_section: "3236"
 chapter: 211
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 3236"
-generated_at: "2026-11-23T20:32:39.909Z"
+generated_at: "2026-11-23T20:34:22.249Z"
 status: "active"
 ---
 

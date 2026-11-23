@@ -3,9 +3,9 @@ title: "Section 7231 - Command: chaplains"
 usc_title: 10
 usc_section: "7231"
 chapter: 725
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 7231"
-generated_at: "2026-11-23T20:32:30.315Z"
+generated_at: "2026-11-23T20:34:08.515Z"
 status: "active"
 ---
 

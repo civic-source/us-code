@@ -3,9 +3,9 @@ title: "Section 10 - Omitted"
 usc_title: 15
 usc_section: "10"
 chapter: 15
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-11-23T20:32:36.138Z"
+generated_at: "2026-11-23T20:34:17.631Z"
 status: "omitted"
 ---
 

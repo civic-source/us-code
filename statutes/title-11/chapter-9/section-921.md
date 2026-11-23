@@ -3,9 +3,9 @@ title: "Section 921 - Petition and proceedings relating to petition"
 usc_title: 11
 usc_section: "921"
 chapter: 9
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "11 U.S.C. § 921"
-generated_at: "2026-11-23T20:32:32.041Z"
+generated_at: "2026-11-23T20:34:11.176Z"
 status: "active"
 ---
 

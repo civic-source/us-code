@@ -3,9 +3,9 @@ title: "Section 403d - Lease of lands within Shenandoah National Park and Great 
 usc_title: 16
 usc_section: "403d"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 403d"
-generated_at: "2026-11-23T20:32:46.070Z"
+generated_at: "2026-11-23T20:34:28.951Z"
 status: "active"
 ---
 

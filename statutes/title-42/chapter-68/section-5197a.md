@@ -3,9 +3,9 @@ title: "Section 5197a - Security regulations"
 usc_title: 42
 usc_section: "5197a"
 chapter: 68
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 5197a"
-generated_at: "2026-11-23T20:33:21.865Z"
+generated_at: "2026-11-23T20:35:09.884Z"
 status: "active"
 ---
 

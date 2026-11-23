@@ -3,9 +3,9 @@ title: "Section 680 - Examination of mines; reports"
 usc_title: 33
 usc_section: "680"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 680"
-generated_at: "2026-11-23T20:33:03.563Z"
+generated_at: "2026-11-23T20:34:53.226Z"
 status: "active"
 ---
 

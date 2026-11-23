@@ -3,9 +3,9 @@ title: "Section 500 - Money orders"
 usc_title: 18
 usc_section: "500"
 chapter: 25
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 500"
-generated_at: "2026-11-23T20:32:39.643Z"
+generated_at: "2026-11-23T20:34:22.055Z"
 status: "active"
 ---
 

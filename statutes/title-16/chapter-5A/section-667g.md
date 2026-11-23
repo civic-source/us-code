@@ -3,9 +3,9 @@ title: "Section 667g - Requisition of surplus grain; prevention of starvation of
 usc_title: 16
 usc_section: "667g"
 chapter: 5
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 667g"
-generated_at: "2026-11-23T20:32:46.425Z"
+generated_at: "2026-11-23T20:34:29.388Z"
 status: "active"
 ---
 

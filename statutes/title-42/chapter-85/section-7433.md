@@ -3,9 +3,9 @@ title: "Section 7433 - Grants to reduce air pollution at ports"
 usc_title: 42
 usc_section: "7433"
 chapter: 85
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 7433"
-generated_at: "2026-11-23T20:33:22.027Z"
+generated_at: "2026-11-23T20:35:10.062Z"
 status: "active"
 ---
 

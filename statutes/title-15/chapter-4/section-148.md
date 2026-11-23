@@ -3,9 +3,9 @@ title: "Section 148 - Payment of stock in real or personal property"
 usc_title: 15
 usc_section: "148"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 148"
-generated_at: "2026-11-23T20:32:36.011Z"
+generated_at: "2026-11-23T20:34:17.483Z"
 status: "active"
 ---
 

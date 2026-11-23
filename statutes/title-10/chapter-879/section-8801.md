@@ -3,9 +3,9 @@ title: "Section 8801 - Sales: members of the naval service and Coast Guard; wido
 usc_title: 10
 usc_section: "8801"
 chapter: 879
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 8801"
-generated_at: "2026-11-23T20:32:30.414Z"
+generated_at: "2026-11-23T20:34:08.732Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8137 - Repealed. Pub. L. 116–283, div. A, title V, § 509(a) ,
 usc_title: 10
 usc_section: "8137"
 chapter: 815
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 8137"
-generated_at: "2026-11-23T20:32:30.353Z"
+generated_at: "2026-11-23T20:34:08.610Z"
 status: "repealed"
 ---
 

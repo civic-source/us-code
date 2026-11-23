@@ -3,9 +3,9 @@ title: "Section 9030 - Waiver of the 7-day waiting period for benefits under the
 usc_title: 15
 usc_section: "9030"
 chapter: 116
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 9030"
-generated_at: "2026-11-23T20:32:36.616Z"
+generated_at: "2026-11-23T20:34:18.111Z"
 status: "active"
 ---
 

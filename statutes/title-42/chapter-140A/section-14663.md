@@ -3,9 +3,9 @@ title: "Section 14663 - Transferred"
 usc_title: 42
 usc_section: "14663"
 chapter: 140
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 14663"
-generated_at: "2026-11-23T20:33:22.349Z"
+generated_at: "2026-11-23T20:35:10.389Z"
 status: "transferred"
 ---
 

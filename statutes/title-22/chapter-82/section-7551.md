@@ -3,9 +3,9 @@ title: "Section 7551 - Requirement to comply with procedures relating to the pro
 usc_title: 22
 usc_section: "7551"
 chapter: 82
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 7551"
-generated_at: "2026-11-23T20:32:52.449Z"
+generated_at: "2026-11-23T20:34:38.639Z"
 status: "active"
 ---
 

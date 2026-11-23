@@ -3,9 +3,9 @@ title: "Section 9762 - Prohibition on construction of provisions of this chapter
 usc_title: 22
 usc_section: "9762"
 chapter: 104
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 9762"
-generated_at: "2026-11-23T20:32:52.562Z"
+generated_at: "2026-11-23T20:34:38.738Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2278 - Explosives on vessels carrying steerage passengers"
 usc_title: 18
 usc_section: "2278"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 2278"
-generated_at: "2026-11-23T20:32:39.823Z"
+generated_at: "2026-11-23T20:34:22.178Z"
 status: "active"
 ---
 

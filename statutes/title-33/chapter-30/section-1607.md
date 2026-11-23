@@ -3,9 +3,9 @@ title: "Section 1607 - Implementation by rules and regulations; authority to pro
 usc_title: 33
 usc_section: "1607"
 chapter: 30
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 1607"
-generated_at: "2026-11-23T20:33:03.665Z"
+generated_at: "2026-11-23T20:34:53.381Z"
 status: "active"
 ---
 

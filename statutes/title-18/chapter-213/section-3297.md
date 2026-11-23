@@ -3,9 +3,9 @@ title: "Section 3297 - Cases involving DNA evidence"
 usc_title: 18
 usc_section: "3297"
 chapter: 213
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "18 U.S.C. § 3297"
-generated_at: "2026-11-23T20:32:39.915Z"
+generated_at: "2026-11-23T20:34:22.255Z"
 status: "active"
 ---
 

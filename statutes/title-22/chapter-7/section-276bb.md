@@ -3,9 +3,9 @@ title: "Section 276bb - Acceptance of funds and property from Mrs. Kermit Roosev
 usc_title: 22
 usc_section: "276bb"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 276bb"
-generated_at: "2026-11-23T20:32:51.980Z"
+generated_at: "2026-11-23T20:34:38.125Z"
 status: "active"
 ---
 

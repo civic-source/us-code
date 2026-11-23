@@ -3,9 +3,9 @@ title: "Section 2219a - Repealed. Pub. L. 95–424, title I, § 104(b) , Oct. 6,
 usc_title: 22
 usc_section: "2219a"
 chapter: 32
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 2219a"
-generated_at: "2026-11-23T20:32:52.121Z"
+generated_at: "2026-11-23T20:34:38.319Z"
 status: "repealed"
 ---
 

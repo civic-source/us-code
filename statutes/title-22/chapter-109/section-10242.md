@@ -3,9 +3,9 @@ title: "Section 10242 - Limitations"
 usc_title: 22
 usc_section: "10242"
 chapter: 109
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 10242"
-generated_at: "2026-11-23T20:32:52.567Z"
+generated_at: "2026-11-23T20:34:38.744Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1341 - Smoking, research, education and information"
 usc_title: 15
 usc_section: "1341"
 chapter: 36
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 1341"
-generated_at: "2026-11-23T20:32:36.219Z"
+generated_at: "2026-11-23T20:34:17.739Z"
 status: "active"
 ---
 

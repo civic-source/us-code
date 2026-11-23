@@ -3,9 +3,9 @@ title: "Section 3396 - Development for and within the Senior Executive Service"
 usc_title: 5
 usc_section: "3396"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "5 U.S.C. § 3396"
-generated_at: "2026-11-23T20:32:19.473Z"
+generated_at: "2026-11-23T20:33:58.754Z"
 status: "active"
 ---
 

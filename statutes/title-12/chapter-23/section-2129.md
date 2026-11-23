@@ -3,9 +3,9 @@ title: "Section 2129 - Eligibility"
 usc_title: 12
 usc_section: "2129"
 chapter: 23
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 2129"
-generated_at: "2026-11-23T20:32:34.024Z"
+generated_at: "2026-11-23T20:34:14.334Z"
 status: "active"
 ---
 

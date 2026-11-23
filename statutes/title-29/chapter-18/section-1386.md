@@ -3,9 +3,9 @@ title: "Section 1386 - Adjustment for partial withdrawal; determination of amoun
 usc_title: 29
 usc_section: "1386"
 chapter: 18
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "29 U.S.C. § 1386"
-generated_at: "2026-11-23T20:32:55.801Z"
+generated_at: "2026-11-23T20:34:43.221Z"
 status: "active"
 ---
 

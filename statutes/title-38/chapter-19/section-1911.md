@@ -3,9 +3,9 @@ title: "Section 1911 - Forfeiture"
 usc_title: 38
 usc_section: "1911"
 chapter: 19
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "38 U.S.C. § 1911"
-generated_at: "2026-11-23T20:33:09.049Z"
+generated_at: "2026-11-23T20:34:57.381Z"
 status: "active"
 ---
 

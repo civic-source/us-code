@@ -3,9 +3,9 @@ title: "Section 494 - Repealed. Pub. L. 117–81, div. A, title VI, § 604(a) , 
 usc_title: 37
 usc_section: "494"
 chapter: 8
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "37 U.S.C. § 494"
-generated_at: "2026-11-23T20:33:07.354Z"
+generated_at: "2026-11-23T20:34:55.424Z"
 status: "repealed"
 ---
 

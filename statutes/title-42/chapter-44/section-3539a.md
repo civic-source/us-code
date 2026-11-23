@@ -3,9 +3,9 @@ title: "Section 3539a - Department of Housing and Urban Development Nonrecurring
 usc_title: 42
 usc_section: "3539a"
 chapter: 44
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 3539a"
-generated_at: "2026-11-23T20:33:21.757Z"
+generated_at: "2026-11-23T20:35:09.747Z"
 status: "active"
 ---
 

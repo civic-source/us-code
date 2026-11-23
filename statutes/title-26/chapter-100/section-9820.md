@@ -3,9 +3,9 @@ title: "Section 9820 - Protecting patients and improving the accuracy of provide
 usc_title: 26
 usc_section: "9820"
 chapter: 100
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 9820"
-generated_at: "2026-11-23T20:33:00.850Z"
+generated_at: "2026-11-23T20:34:49.352Z"
 status: "active"
 ---
 

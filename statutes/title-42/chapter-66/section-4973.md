@@ -3,9 +3,9 @@ title: "Section 4973 - Repealed. Pub. L. 111–13, title II, § 2121 , Apr. 21, 
 usc_title: 42
 usc_section: "4973"
 chapter: 66
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 4973"
-generated_at: "2026-11-23T20:33:21.829Z"
+generated_at: "2026-11-23T20:35:09.846Z"
 status: "repealed"
 ---
 

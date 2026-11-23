@@ -3,9 +3,9 @@ title: "Section 300m - Requirements with respect to type and quality of services
 usc_title: 42
 usc_section: "300m"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 300m"
-generated_at: "2026-11-23T20:33:20.680Z"
+generated_at: "2026-11-23T20:35:08.568Z"
 status: "active"
 ---
 

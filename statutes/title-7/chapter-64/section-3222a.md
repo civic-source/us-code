@@ -3,9 +3,9 @@ title: "Section 3222a - Scholarships for students at 1890 Institutions"
 usc_title: 7
 usc_section: "3222a"
 chapter: 64
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "7 U.S.C. § 3222a"
-generated_at: "2026-11-23T20:32:25.331Z"
+generated_at: "2026-11-23T20:34:03.322Z"
 status: "active"
 ---
 

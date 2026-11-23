@@ -3,9 +3,9 @@ title: "Section 382 - Repealed. Pub. L. 87–304, § 9(a)(3) , Sept. 26, 1961 , 
 usc_title: 43
 usc_section: "382"
 chapter: 12
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 382"
-generated_at: "2026-11-23T20:33:11.494Z"
+generated_at: "2026-11-23T20:35:00.174Z"
 status: "repealed"
 ---
 

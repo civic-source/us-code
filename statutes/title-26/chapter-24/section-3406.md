@@ -3,9 +3,9 @@ title: "Section 3406 - Backup withholding"
 usc_title: 26
 usc_section: "3406"
 chapter: 24
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 3406"
-generated_at: "2026-11-23T20:33:00.521Z"
+generated_at: "2026-11-23T20:34:48.984Z"
 status: "active"
 ---
 

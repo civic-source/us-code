@@ -3,9 +3,9 @@ title: "Section 1048 - Gratuity payment to persons discharged for fraudulent enl
 usc_title: 10
 usc_section: "1048"
 chapter: 53
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1048"
-generated_at: "2026-11-23T20:32:29.925Z"
+generated_at: "2026-11-23T20:34:07.795Z"
 status: "active"
 ---
 

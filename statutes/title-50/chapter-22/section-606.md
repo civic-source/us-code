@@ -3,9 +3,9 @@ title: "Section 606 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "606"
 chapter: 22
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 606"
-generated_at: "2026-11-23T20:33:26.861Z"
+generated_at: "2026-11-23T20:35:14.898Z"
 status: "repealed"
 ---
 

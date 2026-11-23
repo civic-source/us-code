@@ -3,9 +3,9 @@ title: "Section 8511 - Public safety priority"
 usc_title: 15
 usc_section: "8511"
 chapter: 111
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 8511"
-generated_at: "2026-11-23T20:32:36.577Z"
+generated_at: "2026-11-23T20:34:18.068Z"
 status: "active"
 ---
 

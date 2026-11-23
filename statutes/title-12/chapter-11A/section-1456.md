@@ -3,9 +3,9 @@ title: "Section 1456 - Immunity of Corporation; audits and reporting requirement
 usc_title: 12
 usc_section: "1456"
 chapter: 11
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "12 U.S.C. § 1456"
-generated_at: "2026-11-23T20:32:33.840Z"
+generated_at: "2026-11-23T20:34:13.989Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1356c - Wind lease sales for areas of the outer Continental Shel
 usc_title: 43
 usc_section: "1356c"
 chapter: 29
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 1356c"
-generated_at: "2026-11-23T20:33:11.554Z"
+generated_at: "2026-11-23T20:35:00.239Z"
 status: "active"
 ---
 

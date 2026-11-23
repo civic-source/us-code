@@ -3,9 +3,9 @@ title: "Section 3073a - Requirements for certain employment activities by former
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-11-23T20:33:26.942Z"
+generated_at: "2026-11-23T20:35:14.984Z"
 status: "active"
 ---
 

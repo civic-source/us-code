@@ -3,9 +3,9 @@ title: "Section 4026 - Cooperative research and development agreements under Ste
 usc_title: 10
 usc_section: "4026"
 chapter: 301
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 4026"
-generated_at: "2026-11-23T20:32:30.237Z"
+generated_at: "2026-11-23T20:34:08.344Z"
 status: "active"
 ---
 

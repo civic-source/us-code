@@ -3,9 +3,9 @@ title: "Section 10509 - Penalty for failing to begin voyage"
 usc_title: 46
 usc_section: "10509"
 chapter: 105
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "46 U.S.C. § 10509"
-generated_at: "2026-11-23T20:33:25.787Z"
+generated_at: "2026-11-23T20:35:13.905Z"
 status: "active"
 ---
 

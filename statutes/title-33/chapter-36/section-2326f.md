@@ -3,9 +3,9 @@ title: "Section 2326f - Maintenance dredging data"
 usc_title: 33
 usc_section: "2326f"
 chapter: 36
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 2326f"
-generated_at: "2026-11-23T20:33:03.704Z"
+generated_at: "2026-11-23T20:34:53.457Z"
 status: "active"
 ---
 

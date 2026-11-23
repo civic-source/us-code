@@ -3,9 +3,9 @@ title: "Section 184 - Repealed. Pub. L. 98–621, § 10(j) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "184"
 chapter: 4
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "24 U.S.C. § 184"
-generated_at: "2026-11-23T20:32:48.187Z"
+generated_at: "2026-11-23T20:34:31.502Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 652 - Notice to Congress of proposed changes in units, assignmen
 usc_title: 10
 usc_section: "652"
 chapter: 37
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 652"
-generated_at: "2026-11-23T20:32:29.861Z"
+generated_at: "2026-11-23T20:34:07.674Z"
 status: "active"
 ---
 

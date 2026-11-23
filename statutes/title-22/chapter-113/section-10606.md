@@ -3,9 +3,9 @@ title: "Section 10606 - Projects and grants"
 usc_title: 22
 usc_section: "10606"
 chapter: 113
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 10606"
-generated_at: "2026-11-23T20:32:52.574Z"
+generated_at: "2026-11-23T20:34:38.755Z"
 status: "active"
 ---
 

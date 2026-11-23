@@ -3,9 +3,9 @@ title: "Section 1417 - Enforcement"
 usc_title: 33
 usc_section: "1417"
 chapter: 27
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "33 U.S.C. § 1417"
-generated_at: "2026-11-23T20:33:03.659Z"
+generated_at: "2026-11-23T20:34:53.367Z"
 status: "active"
 ---
 

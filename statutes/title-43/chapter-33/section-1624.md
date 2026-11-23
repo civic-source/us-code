@@ -3,9 +3,9 @@ title: "Section 1624 - Regulations; issuance; publication in Federal Register"
 usc_title: 43
 usc_section: "1624"
 chapter: 33
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "43 U.S.C. § 1624"
-generated_at: "2026-11-23T20:33:11.576Z"
+generated_at: "2026-11-23T20:35:00.264Z"
 status: "active"
 ---
 

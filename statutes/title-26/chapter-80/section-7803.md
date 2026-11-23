@@ -3,9 +3,9 @@ title: "Section 7803 - Commissioner of Internal Revenue; other officials"
 usc_title: 26
 usc_section: "7803"
 chapter: 80
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "26 U.S.C. § 7803"
-generated_at: "2026-11-23T20:33:00.818Z"
+generated_at: "2026-11-23T20:34:49.317Z"
 status: "active"
 ---
 

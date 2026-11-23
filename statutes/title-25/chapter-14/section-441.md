@@ -3,9 +3,9 @@ title: "Section 441 - Repealed. Pub. L. 96–277, § 2 , June 17, 1980 , 94 Stat
 usc_title: 25
 usc_section: "441"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 441"
-generated_at: "2026-11-23T20:32:48.972Z"
+generated_at: "2026-11-23T20:34:33.576Z"
 status: "repealed"
 ---
 

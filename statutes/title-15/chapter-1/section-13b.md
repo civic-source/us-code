@@ -3,9 +3,9 @@ title: "Section 13b - Cooperative association; return of net earnings or surplus
 usc_title: 15
 usc_section: "13b"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 13b"
-generated_at: "2026-11-23T20:32:35.896Z"
+generated_at: "2026-11-23T20:34:17.313Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114a - Medicare coverage gap discount program"
 usc_title: 42
 usc_section: "114a"
 chapter: 7
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "42 U.S.C. § 114a"
-generated_at: "2026-11-23T20:33:21.159Z"
+generated_at: "2026-11-23T20:35:09.011Z"
 status: "active"
 ---
 

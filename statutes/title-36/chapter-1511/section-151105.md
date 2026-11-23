@@ -3,9 +3,9 @@ title: "Section 151105 - Powers"
 usc_title: 36
 usc_section: "151105"
 chapter: 1511
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "36 U.S.C. § 151105"
-generated_at: "2026-11-23T20:33:07.835Z"
+generated_at: "2026-11-23T20:34:56.000Z"
 status: "active"
 ---
 

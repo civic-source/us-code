@@ -3,9 +3,9 @@ title: "Section 450h - Transferred"
 usc_title: 25
 usc_section: "450h"
 chapter: 14
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "25 U.S.C. § 450h"
-generated_at: "2026-11-23T20:32:48.973Z"
+generated_at: "2026-11-23T20:34:33.577Z"
 status: "transferred"
 ---
 

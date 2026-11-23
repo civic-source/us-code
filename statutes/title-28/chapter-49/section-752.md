@@ -3,9 +3,9 @@ title: "Section 752 - Law clerks and secretaries"
 usc_title: 28
 usc_section: "752"
 chapter: 49
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "28 U.S.C. § 752"
-generated_at: "2026-11-23T20:32:56.565Z"
+generated_at: "2026-11-23T20:34:41.255Z"
 status: "active"
 ---
 

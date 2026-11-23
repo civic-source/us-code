@@ -3,9 +3,9 @@ title: "Section 237 - Information on visa denials required to be entered into el
 usc_title: 6
 usc_section: "237"
 chapter: 1
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "6 U.S.C. § 237"
-generated_at: "2026-11-23T20:32:22.073Z"
+generated_at: "2026-11-23T20:34:01.323Z"
 status: "active"
 ---
 

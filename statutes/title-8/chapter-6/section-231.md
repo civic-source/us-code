@@ -3,9 +3,9 @@ title: "Section 231 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(17)
 usc_title: 8
 usc_section: "231"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "8 U.S.C. § 231"
-generated_at: "2026-11-23T20:32:21.540Z"
+generated_at: "2026-11-23T20:34:00.811Z"
 status: "repealed"
 ---
 

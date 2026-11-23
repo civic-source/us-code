@@ -3,9 +3,9 @@ title: "Section 6062 - Assistance for Cuban people"
 usc_title: 22
 usc_section: "6062"
 chapter: 69
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 6062"
-generated_at: "2026-11-23T20:32:52.382Z"
+generated_at: "2026-11-23T20:34:38.584Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9079 - Coordination"
 usc_title: 15
 usc_section: "9079"
 chapter: 116
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "15 U.S.C. § 9079"
-generated_at: "2026-11-23T20:32:36.632Z"
+generated_at: "2026-11-23T20:34:18.126Z"
 status: "active"
 ---
 

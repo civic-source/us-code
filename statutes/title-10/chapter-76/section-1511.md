@@ -3,9 +3,9 @@ title: "Section 1511 - Return alive of person declared missing or dead"
 usc_title: 10
 usc_section: "1511"
 chapter: 76
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "10 U.S.C. § 1511"
-generated_at: "2026-11-23T20:32:30.020Z"
+generated_at: "2026-11-23T20:34:07.939Z"
 status: "active"
 ---
 

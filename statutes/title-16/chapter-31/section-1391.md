@@ -3,9 +3,9 @@ title: "Section 1391 - Near real-time monitoring and mitigation program for larg
 usc_title: 16
 usc_section: "1391"
 chapter: 31
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "16 U.S.C. § 1391"
-generated_at: "2026-11-23T20:32:46.662Z"
+generated_at: "2026-11-23T20:34:29.680Z"
 status: "active"
 ---
 

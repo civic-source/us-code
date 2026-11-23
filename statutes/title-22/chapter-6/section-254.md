@@ -3,9 +3,9 @@ title: "Section 254 - Repealed. Pub. L. 95–393, § 3(a)(1) , Sept. 30, 1978 , 
 usc_title: 22
 usc_section: "254"
 chapter: 6
-current_through: "PL 119-87"
+current_through: "PL 119-88"
 classification: "22 U.S.C. § 254"
-generated_at: "2026-11-23T20:32:51.957Z"
+generated_at: "2026-11-23T20:34:38.090Z"
 status: "repealed"
 ---
 
